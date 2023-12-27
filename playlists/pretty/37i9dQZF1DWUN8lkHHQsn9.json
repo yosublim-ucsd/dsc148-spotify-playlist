@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:7qAu2kYGjO28g0CJERiQhM\">MAJA</a>",
-  "num_followers": 7535,
+  "num_followers": 7540,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWE3MTY1ZTkzYjcxODc2NWYyNDU5ZDFlNWZlMTM5MTdhNjY0Y2E2",
+  "snapshot_id": "MCw1YTYyOTIwMmI2M2JmZmQxODdlM2ZkNDUxOTI1ZDEyYzY2NjYwZTI1",
   "tracks": [
     {
       "added_at": "2023-12-11 23:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -496,7 +496,7 @@
       },
       "artists": [
         {
-          "name": "Raf Skowro\u0144ski",
+          "name": "RAF",
           "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
       "artists": [
         {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+      "duration_ms": 193942,
+      "name": "Spytaj mnie",
+      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
       "artists": [
         {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
         }
       ],
-      "duration_ms": 193942,
-      "name": "Spytaj mnie",
-      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "$WAG (lepi si\u0119 w ch*j)",
         "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 158787,
       "name": "$WAG (lepi si\u0119 w ch*j)",
       "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "52 Kilo",
+        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "52 Kilo",
+      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -671,22 +703,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "52 Kilo",
-        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "52 Kilo",
-      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "\u015awiat\u0142a Lamp",
-        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 164242,
-      "name": "\u015awiat\u0142a Lamp",
-      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "\u015awiat\u0142a Lamp",
+        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 164242,
+      "name": "\u015awiat\u0142a Lamp",
+      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "Pentimento",
         "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -867,12 +851,28 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
       "artists": [
         {
-          "name": "Raf Skowro\u0144ski",
+          "name": "RAF",
           "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 251216,
       "name": "Jeszcze mam serce",
       "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -967,22 +983,6 @@
       "duration_ms": 171379,
       "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
       "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "SLAY",
         "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 179000,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "duration_ms": 239354,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -1219,6 +1235,22 @@
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 239354,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "Remedium",
         "url": "https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 200419,
       "name": "Super",
       "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2023-12-11 23:02:00",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
-      },
-      "artists": [
-        {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
-    },
-    {
-      "added_at": "2023-12-11 23:02:00",
-      "album": {
         "name": "niem\u00f3wmi",
         "url": "https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz"
       },
@@ -1359,6 +1327,22 @@
     {
       "added_at": "2023-12-11 23:02:00",
       "album": {
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
         "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
         "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
+    },
+    {
+      "added_at": "2023-12-11 23:02:00",
+      "album": {
+        "name": "Organic Love",
+        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Organic Love",
+      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
     }
   ],
   "unique_name": "GLOW Polska",

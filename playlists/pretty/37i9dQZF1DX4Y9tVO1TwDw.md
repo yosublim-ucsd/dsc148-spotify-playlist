@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,702 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,706 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 47 | [Luces De La Calle](https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:09 |
 | 48 | [Corazón Dañado](https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:04 |
 | 49 | [XO clubeteado](https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado / NOS SOLTAMOS chiliado](https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho) | 2:34 |
-| 50 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
-| 51 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
+| 50 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
+| 51 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 | 52 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 | 53 | [Thinking Too Much \(feat\. Honeywhip\)](https://open.spotify.com/track/4Du7N4FFyuBfMwzbb9ObqB) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO), [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Thinking Too Much \(feat\. Honeywhip\)](https://open.spotify.com/album/0o98jQsqyD17geNENkarz8) | 3:11 |
 | 54 | [Tú Goza](https://open.spotify.com/track/0L5QiM8fk6Xi2xtSpVuCry) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [Tú Goza](https://open.spotify.com/album/6NnZTyRJby5psrrWEJLbW5) | 3:43 |
 
-Snapshot ID: `MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0`
+Snapshot ID: `MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh`

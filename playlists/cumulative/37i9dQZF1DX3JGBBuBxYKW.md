@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-129 songs - 7 hr 48 min
+130 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 | 2022-07-08 |  |
 | [Estupido](https://open.spotify.com/track/3JQWZOtbBlgnJiIsNeolWB) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Yanet Guadalupe](https://open.spotify.com/artist/4g6w0Ug5YQlSskdUqBQ49g) | [Estupido](https://open.spotify.com/album/1Dec0AVsKagoEGGh3W92om) | 4:59 | 2022-09-23 | 2022-11-13 |
 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 | 2022-01-14 | 2022-07-29 |
-| [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 | 2022-07-08 |  |
+| [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 | 2022-07-08 | 2023-12-27 |
 | [Falso Malo](https://open.spotify.com/track/4zG5Jdwl8P1bJ8edWkI1rP) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/3BNfaC3h6MbewEcnIdWlrk) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Frente a Frente](https://open.spotify.com/track/1BPay9AmvLAAVaShW3YU8a) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Frente a Frente](https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg) | 3:25 | 2023-01-20 |  |
 | [Fuera](https://open.spotify.com/track/3CPvvcF0IbQwOp75rOvlIs) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3OwsrZS7BUxc9waSqFrbFE) | 3:22 | 2022-01-14 | 2022-07-29 |
@@ -70,6 +70,7 @@
 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 | 2022-01-14 |  |
 | [La Pachanga](https://open.spotify.com/track/15TltOlbzxtYBSLmABYEdh) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/4pjPjzN6k6g36qnycFQhSn) | 3:35 | 2022-01-14 | 2022-07-29 |
 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 | 2022-01-14 |  |
+| [La Segunda Me Vas a Extrañar](https://open.spotify.com/track/607P8cHcs2SV9U1n17rRqY) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [La Segunda Me Vas a Extrañar](https://open.spotify.com/album/2xi7bDYP9rOHQv6Oyyizhf) | 2:46 | 2023-12-23 |  |
 | [Las Solteras](https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Las Solteras](https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF) | 3:20 | 2022-06-08 | 2022-10-01 |
 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 | 2022-01-14 | 2023-11-21 |
 | [Lo Nuestro](https://open.spotify.com/track/58EFUegqstw2DiwkSSA6iD) | [Catártica Animal](https://open.spotify.com/artist/0KLLLWEbxN8tPnjT1h9byn) | [Canciones para el Desvelo](https://open.spotify.com/album/7BHiKA8Ns9EAngqXFrUuLU) | 3:23 | 2022-01-14 | 2022-07-29 |

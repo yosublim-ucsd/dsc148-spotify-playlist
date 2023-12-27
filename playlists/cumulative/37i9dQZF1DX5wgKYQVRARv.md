@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-666 songs - 2 day 9 hr 30 min
+667 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Drip](https://open.spotify.com/track/2a9AzO1K4kTCD5hnHDE2zd) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Drip](https://open.spotify.com/album/1qwBxbJgsL13K7I8j1L9MI) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 | 2021-12-17 | 2022-09-03 |
 | [DYING LIGHT](https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [DYING LIGHT](https://open.spotify.com/album/2yj1O1jlzZHkntX2ybPGbO) | 5:12 | 2023-05-12 |  |
+| [Early Grave](https://open.spotify.com/track/2fdxNevOljzsb8c9ZUZ0i3) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/5SJcRxc7gu72EQhmKf9NN0) | 3:51 | 2023-12-06 |  |
 | [Early Grave](https://open.spotify.com/track/466IvwJm7YnBsKDOk5tepo) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Our Bones](https://open.spotify.com/album/41CaQanjJciO8xVlApEQBS) | 3:51 | 2022-10-28 | 2022-11-14 |
 | [Early Grave](https://open.spotify.com/track/5l3ixdypB5Wptrx9ZxHewT) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/4VyzqJxJT7RyotKF20NimE) | 3:51 | 2022-07-13 | 2022-07-29 |
 | [Early Grave](https://open.spotify.com/track/6GouRVZ275NAcveDfHW8Z1) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/3U4Ej58L88Wr8mDjUhHdk1) | 3:51 | 2022-07-13 | 2023-12-24 |
@@ -225,7 +226,7 @@
 | [Get Out! Now!](https://open.spotify.com/track/1bqmDGI38tQZRX4B5ssTHt) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Tom Baker](https://open.spotify.com/artist/2tavQL0L3uLZYV2HyXvpGm), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i), [Caroline Westendorp](https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8), [Joost van den Broek](https://open.spotify.com/artist/2HmiEUdBpKXIVcbfKYQmmk) | [Transitus](https://open.spotify.com/album/59ZZ5lCjcxyHz1ULozDnmA) | 5:02 | 2022-07-08 | 2022-09-03 |
 | [Get Out! Now! \(feat\. Tom Baker, Dee Snider, Marcela Bovio, Caroline Westendorp, Joe Satriani, Joost van den Broek\)](https://open.spotify.com/track/62tBqHIXChqpGfdjA3JaA2) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Caroline Westendorp](https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd), [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8), [Joost van den Broek](https://open.spotify.com/artist/2HmiEUdBpKXIVcbfKYQmmk), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i), [Tom Baker](https://open.spotify.com/artist/2tavQL0L3uLZYV2HyXvpGm) | [Hopelessly Slipping Away / Get Out! Now!](https://open.spotify.com/album/2pRitSnhUHD1wtOcFpI3Q3) | 5:02 | 2021-12-17 | 2022-07-21 |
 | [Ghost Horses](https://open.spotify.com/track/7MDcO067h1hlRrUmkaP2Yq) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Ghost Horses](https://open.spotify.com/album/4z1sS5gWwT0QoNfZIMhk5J) | 5:53 | 2021-12-17 | 2022-09-03 |
-| [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 |  |
+| [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 | 2023-12-27 |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
 | [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 |  |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |

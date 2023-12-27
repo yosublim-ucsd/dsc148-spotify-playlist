@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-135 songs - 8 hr 25 min
+136 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Dos Mujeres un Camino](https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 4:15 | 2022-05-06 |  |
 | [Dos Mujeres un Camino](https://open.spotify.com/track/4M3IGu3TmSVtpTuhpu5EKw) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 4:15 | 2022-05-06 | 2022-07-29 |
 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 | 2022-05-06 |  |
-| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-05-06 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-05-06 | 2023-12-27 |
 | [El Amor Manda](https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José..\. De Noche](https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4) | 3:48 | 2022-05-06 |  |
 | [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 | 2022-05-06 | 2023-08-26 |
 | [El diario de daniela \(Theme from "El diario de Daniela"\)](https://open.spotify.com/track/3S7vE73KVGb0Vbv2Vv5JOj) | [Daniela Luján](https://open.spotify.com/artist/1V81ME19fkBcwOD72f6Ags) | [Ídolos del Pop](https://open.spotify.com/album/7IA7OG10gHZxuhYC5s7jsp) | 3:47 | 2022-05-06 | 2022-06-09 |
@@ -104,6 +104,7 @@
 | [Poco A Poco](https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1) | 4:23 | 2022-05-06 | 2023-03-01 |
 | [Por Amarte](https://open.spotify.com/track/4AQZNgdG73f2ZdC6VUZqBL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2022-05-06 | 2022-07-29 |
 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 | 2022-05-06 |  |
+| [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv) | 3:49 | 2022-05-06 |  |
 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne) | 3:49 | 2022-05-06 | 2023-12-22 |
 | [Por Tu Amor](https://open.spotify.com/track/6V0IvYLTidZj0gzTxtnYQv) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [Ciego de Amor](https://open.spotify.com/album/1PKKzSKQPg2wlD39kuLVel) | 3:11 | 2022-05-06 | 2022-07-14 |
 | [Porque El Amor Manda](https://open.spotify.com/track/0LAFTdzYlNfn19SybYHTZt) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/4cfFnMGzeZIqSHLn8D8fy9) | 3:16 | 2022-05-06 | 2022-07-29 |

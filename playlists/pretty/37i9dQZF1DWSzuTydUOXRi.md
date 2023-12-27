@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,694 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 47 | [We are the Children](https://open.spotify.com/track/3JpMNtEjO9Vvfa7nHRdk2R) | [Chris Kando Iijima](https://open.spotify.com/artist/1FVzKO0L8p3o2buKGX2pat), [Nobuko Miyamoto](https://open.spotify.com/artist/2Jrux4LmFNPS1Nk6NmA5yZ), [Charlie Chin](https://open.spotify.com/artist/6eX31rTtOkt0GKJt53Omyn) | [A Grain of Sand: Music for the Struggle by Asians in America](https://open.spotify.com/album/7tEIA1YsNtFg7I5InBEDpq) | 2:54 |
 | 48 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 |
 
-Snapshot ID: `MCxmN2E2NWRkYjJmNTRiN2RmY2U5ZmE0MDVhMGM1NjM0OWYyOGUxOTU4`
+Snapshot ID: `MCwxMTY0NzliYWE2ZmRiN2M2MGFmNjhmNWMxZjJlMTI1NmQ5MGQ5ZTBl`

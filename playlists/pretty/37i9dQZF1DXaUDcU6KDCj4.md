@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hermanos Gutiérrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,259 likes - 156 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,261 likes - 156 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 155 | [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 |
 | 156 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 
-Snapshot ID: `MCw4MThjM2M0YjE1YTY2NDg4NjBjYzY0Njk0ZDA2NjNkMDU5NDFkMWVm`
+Snapshot ID: `MCw3NDUyMWYyNDJlZWVkNDBhN2MzZjc0ZmUyYjA2YjUwMTEzMWE2ZTk5`

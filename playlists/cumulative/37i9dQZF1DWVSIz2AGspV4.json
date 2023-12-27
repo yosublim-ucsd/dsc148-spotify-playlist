@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Bas Anti 7Elwah",
+        "url": "https://open.spotify.com/album/13AdTKBzFuRDMWiGKlbMJw"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        },
+        {
+          "name": "Husam Al-Majed",
+          "url": "https://open.spotify.com/artist/49n1zV0bM3vt9WnCcu2CPC"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Bas Anti 7Elwah",
+      "url": "https://open.spotify.com/track/2VJDUOnPYZpSV2Yyin0sww"
+    },
+    {
+      "album": {
         "name": "Batalt Aetebhom",
         "url": "https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z"
       },

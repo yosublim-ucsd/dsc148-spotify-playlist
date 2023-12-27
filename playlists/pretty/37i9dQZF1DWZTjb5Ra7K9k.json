@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 189820,
+  "num_followers": 189827,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQ1N2QzZTc5NjljZWRiZDhkNDRiOWNjNTMxMjYyNmE0YzFjMWFl",
+  "snapshot_id": "MCwzN2U5MmEyNmRjNjM1NzhlMWVkMzE1MjQ3NjhjYWEzMGY3ZTE1Yjhj",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
       "artists": [
         {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 277840,
-      "name": "Show Me How to Live",
-      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Soul Pirate",
-        "url": "https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC"
-      },
-      "artists": [
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Casinha",
         "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 179466,
       "name": "Pescador",
       "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Soul Pirate",
+        "url": "https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Welcome to Jamrock",
-        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Stoneage Romeos",
         "url": "https://open.spotify.com/album/4ukegur2dXKuIbuvb5cQIL"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 122933,
       "name": "Walk, Don't Run - Stereo",
       "url": "https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL"
     },
     {
       "added_at": "2023-07-28 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 325156,
+  "num_followers": 325261,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzNhMzUzZTRkMzM0ZDUyOTE0NzY5MzY4N2U2NWEzMTk3NTlhODk1",
+  "snapshot_id": "MCw4MTIzODFjYzc0ZmViMjY0OTVmNzgzOTRkY2UzN2MxYWJiZjBkM2Zj",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Not Today Mate",
-        "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Not Today Mate",
-      "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Ma Jo Lo",
         "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 147169,
       "name": "Ma Jo Lo",
       "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Not Today Mate",
+        "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Not Today Mate",
+      "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Big Bad Mood (feat. Miraa May)",
-        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Stephens",
-          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Big Bad Mood (feat. Miraa May)",
-      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Big Bad Mood (feat. Miraa May)",
+        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Stephens",
+          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Big Bad Mood (feat. Miraa May)",
+      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Martha Da'ro",
+          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
+        }
+      ],
+      "duration_ms": 249112,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "FVR105 (p-rallel Remix)",
         "url": "https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
-      },
-      "artists": [
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        },
-        {
-          "name": "Martha Da'ro",
-          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
-        }
-      ],
-      "duration_ms": 249112,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
     },
     {
       "added_at": "2023-12-01 00:01:00",

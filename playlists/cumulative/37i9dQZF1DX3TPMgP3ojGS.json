@@ -10913,6 +10913,24 @@
     },
     {
       "album": {
+        "name": "Grand Canyon",
+        "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170641,
+      "name": "Grand Canyon",
+      "url": "https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm"
+    },
+    {
+      "album": {
         "name": "The Northern Fairy",
         "url": "https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws"
       },
@@ -29300,7 +29318,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"

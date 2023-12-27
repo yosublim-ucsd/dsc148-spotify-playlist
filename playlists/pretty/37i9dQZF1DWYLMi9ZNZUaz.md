@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,493 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,575 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 38 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
 | 39 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 |
 | 40 | [Free Flow Không Hút](https://open.spotify.com/track/06GrFsnzWmnS6rslXByfWf) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4) | [Free Flow Không Hút](https://open.spotify.com/album/3UkkOqsmKE8hO4zcGiBd3t) | 4:03 |
-| 41 | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/track/2b2UUtbB97osFePjK073JU) | [Di Di](https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg), [Captain](https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5) | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/album/5uspFtYoCMCHqBeWqAZKVc) | 3:22 |
+| 41 | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/track/2b2UUtbB97osFePjK073JU) | [Di Di](https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg), [Longg](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI), [Captain](https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5) | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/album/5uspFtYoCMCHqBeWqAZKVc) | 3:22 |
 | 42 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 |
 | 43 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 44 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
 | 50 | [Nhạc Trap Căng Nhất 2023](https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [RPT JasonDilla](https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 3:33 |
 
-Snapshot ID: `MCw2ZTUyODExMjAzNjcxOTA4MmM1ODgwMmQ5N2I1YTJmYjM2YTkxYWZl`
+Snapshot ID: `MCwzNDI4MDg2YTlmNjBkYzdkZjE1OWFiNjliNjkyNTEzM2VhMTgzYTMy`

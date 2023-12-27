@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241612,
+  "num_followers": 241636,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTcyNTI0ZDAwZWQ1ZWUzZjQ0ZDg1NTliZjM4NjIwYjZmYTljZDdj",
+  "snapshot_id": "MCwzZTAxYzk0NGUxNWI4MTlmMzNmOWUxOTkwMjM0YTkzNTVlZmRhYTkx",
   "tracks": [
     {
       "added_at": "2023-12-18 13:45:12",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "duration_ms": 170129,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
-      },
-      "artists": [
-        {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
-        }
-      ],
-      "duration_ms": 170129,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1055,6 +1055,22 @@
       "duration_ms": 109270,
       "name": "Solutions",
       "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1131,22 +1147,6 @@
       "duration_ms": 143986,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
       },
       "artists": [
         {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Bad\u00ed",
-          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
         }
       ],
-      "duration_ms": 158901,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+      "duration_ms": 160604,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1423,6 +1419,26 @@
       "duration_ms": 142857,
       "name": "Emotionally Unavailable",
       "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Bad\u00ed",
+          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+        }
+      ],
+      "duration_ms": 158901,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1455,22 +1471,6 @@
       "duration_ms": 142615,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Flexible",
-        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Carta",
-          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Flexible",
-      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Whatever I Guess?",
         "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 213383,
       "name": "Whatever I Guess?",
       "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Flexible",
+        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Carta",
+          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Flexible",
+      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+        "name": "B L U N T",
+        "url": "https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei"
       },
       "artists": [
         {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
         }
       ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
+      "duration_ms": 179417,
+      "name": "L O V E L Y",
+      "url": "https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ"
     }
   ],
   "unique_name": "R&B Magic",

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 456399,
+  "num_followers": 456550,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQxZWNmODhlYWJhODI1N2ZmZmNhYjBiNTM5ZjhjZGM0YmQwZTAx",
+  "snapshot_id": "MCxkYjM0ZDYyMjQxMzRmZTdiMWNlZTViNzY2ODQzOTc3ZTJjOTQ5NzQ3",
   "tracks": [
     {
       "added_at": "2023-12-22 12:54:41",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+    },
+    {
+      "added_at": "2023-12-22 12:54:41",
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2023-12-22 12:54:41",
-      "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
-      },
-      "artists": [
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
     },
     {
       "added_at": "2023-12-22 12:54:41",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
+      },
+      "artists": [
+        {
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
+    },
+    {
+      "added_at": "2023-12-22 12:54:41",
+      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
-    },
-    {
-      "added_at": "2023-12-22 12:54:41",
-      "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
-      },
-      "artists": [
-        {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
     },
     {
       "added_at": "2023-12-22 12:54:41",
@@ -867,30 +867,22 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
-        "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
-        "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
       },
       "artists": [
         {
-          "name": "Supercombo",
-          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "Zucchi",
-          "url": "https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 376680,
-      "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
-      "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-12-22 12:54:41",
@@ -915,22 +907,30 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+        "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
+        "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
         },
         {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Zucchi",
+          "url": "https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul"
         }
       ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+      "duration_ms": 376680,
+      "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
+      "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
     },
     {
       "added_at": "2023-12-22 12:54:41",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2023-12-22 12:54:41",
-      "album": {
         "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
         "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+    },
+    {
+      "added_at": "2023-12-22 12:54:41",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-12-22 12:54:41",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2023-12-22 12:54:41",
       "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
-      },
-      "artists": [
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Treyce",
-          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-12-22 12:54:41",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2023-12-22 12:54:41",
+      "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
     },
     {
       "added_at": "2023-12-22 12:54:41",

@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 40819,
+  "num_followers": 40891,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVjYTdhNDFiYWIwZWVjZWVlNGY2MDBmNzU3ZmNmMzZhOWMxMTkw",
+  "snapshot_id": "MCw0OGM1YzZkMTk4MTgxZDg5MTMxZTU3N2RlMmNlYWU0OWEyYjhmNjRl",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8"
-      },
-      "artists": [
-        {
-          "name": "Shag Rock",
-          "url": "https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Sunbleached Girl",
-      "url": "https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8"
+      },
+      "artists": [
+        {
+          "name": "Shag Rock",
+          "url": "https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Sunbleached Girl",
+      "url": "https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+      "duration_ms": 156280,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 156280,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 285003,
       "name": "Left Me Like Summer",
       "url": "https://open.spotify.com/track/3hUwFkfeCUOVOMKy9iKDTw"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Angus & Julia Stone (Deluxe)",
         "url": "https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 248520,
       "name": "Grizzly Bear",
       "url": "https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
         }
       ],
-      "duration_ms": 281133,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -935,6 +919,22 @@
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Awake Is the New Sleep",
         "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Black Lagoon",
-        "url": "https://open.spotify.com/album/1mDxu2vQD8gv8Xci6qiM7c"
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 209656,
-      "name": "Black Lagoon",
-      "url": "https://open.spotify.com/track/6wRFl2hcs3sPkYN4pgqTl1"
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1079,6 +1063,22 @@
       "duration_ms": 226999,
       "name": "Keepsake",
       "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Black Lagoon",
+        "url": "https://open.spotify.com/album/1mDxu2vQD8gv8Xci6qiM7c"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 209656,
+      "name": "Black Lagoon",
+      "url": "https://open.spotify.com/track/6wRFl2hcs3sPkYN4pgqTl1"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 225666,
       "name": "Mango Tree",
       "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Moonfire",
         "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Everything Is Easy",
-        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 197663,
-      "name": "Everything Is Easy",
-      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
+        "name": "Everything Is Easy",
+        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 276196,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
+      "duration_ms": 197663,
+      "name": "Everything Is Easy",
+      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
       },
       "artists": [
         {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+      "duration_ms": 276196,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 263840,
-      "name": "I Get Up",
-      "url": "https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Vantage Point",
         "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
       },
@@ -1371,18 +1355,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
+      "duration_ms": 263840,
+      "name": "I Get Up",
+      "url": "https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     }
   ],
   "unique_name": "Coast to Coast",

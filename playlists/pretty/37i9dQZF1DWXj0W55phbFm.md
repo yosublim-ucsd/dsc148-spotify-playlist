@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,130 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,205 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 68 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
 | 69 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
 | 70 | [Die Weisheit von Le Comte Lautréamont](https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03) | [Tomasz Stańko](https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Tony Oxley](https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03) | [Leosia](https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4) | 6:07 |
-| 71 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
+| 71 | [Life's A Little Blue](https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Booker Little](https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT) | 6:53 |
 | 72 | [What Is This Thing Called Love](https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Clifford Brown And Max Roach At Basin Street \(Expanded Edition\)](https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV) | 7:33 |
-| 73 | [Life's A Little Blue](https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Booker Little](https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT) | 6:53 |
+| 73 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 74 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 75 | [You're the Cream in My Coffee](https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g) | [Cat Anderson & His Orchestra](https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z), [Jimmy Jones](https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P), [Jimmy Cleveland](https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd) | [Cat's in the Alley](https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0) | 3:12 |
 | 76 | [High Towers](https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:48 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 82 | [I'll Remember April](https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 8:34 |
 | 83 | [The Baggae](https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Ada Rovatti](https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW) | [Brecker Plays Rovatti \- Sacred Bond](https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT) | 10:32 |
 | 84 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
-| 85 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
-| 86 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
+| 85 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
+| 86 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
 | 87 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
 | 88 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 89 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MCw5M2U1ZWFiNGEwMTUxOTNjZWRjN2JmYzk1MDVkZjk3MDNkMzBmMzQ5`
+Snapshot ID: `MCwyM2EzYThiODFkYWI3MmJmOWRkM2NmOTQ1NmU4NTBjMDI5OTQxMzg2`

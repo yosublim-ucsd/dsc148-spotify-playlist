@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196357,
+  "num_followers": 196354,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjMzYzY2ZmVkNDBlOWJiNGMyNDg1MjA1MDE1MTUyZjgzMjQ0MDQ4",
+  "snapshot_id": "MCw0YjkyOTQzNzM5YmViMmFhNTVhMDA5NmE1OTUwNGU4ODJkYzg5ZWU1",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Sunny Philadelphia",
+      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Slipping Into Color",
         "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Sunny Philadelphia",
-      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -575,22 +591,6 @@
       "duration_ms": 218181,
       "name": "Pistol - Spotify Singles",
       "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Heartstrings",
         "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Nitty Gritty",
-        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Nitty Gritty",
-      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 210937,
       "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
       "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Nitty Gritty",
+        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Nitty Gritty",
+      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Hey mom, don\u2019t worry I\u2019m fine",
-        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -863,22 +847,6 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "i'm tired",
-        "url": "https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "i'm tired",
-      "url": "https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -899,6 +867,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "i'm tired",
+        "url": "https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "i'm tired",
+      "url": "https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177915,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Let The Good Times In",
-        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 153595,
-      "name": "Let The Good Times In",
-      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Heartbreakmiljon\u00e4r",
         "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Historier och liv",
-        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
+        "name": "Let The Good Times In",
+        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Historier och liv",
-      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
+      "duration_ms": 153595,
+      "name": "Let The Good Times In",
+      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 187250,
       "name": "Ingen sorg utan k\u00e4rlek",
       "url": "https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Historier och liv",
+        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Historier och liv",
+      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1155,6 +1155,38 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Still Got the Blues fr\u00e5n Sverige",
+        "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Still Got the Blues fr\u00e5n Sverige",
+      "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "LIGHTS",
         "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
       },
@@ -1187,38 +1219,6 @@
       "duration_ms": 194900,
       "name": "Losing a Friend",
       "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Still Got the Blues fr\u00e5n Sverige",
-        "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Still Got the Blues fr\u00e5n Sverige",
-      "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "When You're Not Mine",
-        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 190459,
-      "name": "When You're Not Mine",
-      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
+      "duration_ms": 192078,
+      "name": "Summer Of 99",
+      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 166289,
       "name": "Ruta Noll",
       "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "When You're Not Mine",
+        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 190459,
+      "name": "When You're Not Mine",
+      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Summer Of 99",
-      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Konsten att fly",
         "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Missing you",
-        "url": "https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
       },
       "artists": [
         {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 126891,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
+      "duration_ms": 196747,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+        "name": "Missing you",
+        "url": "https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
         }
       ],
-      "duration_ms": 196747,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
+      "duration_ms": 126891,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Tusen & en natt",
+        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
+      },
+      "artists": [
+        {
+          "name": "Teck Noir",
+          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tusen & en natt",
+      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Wolf Cries",
-        "url": "https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3"
-      },
-      "artists": [
-        {
-          "name": "JUNG",
-          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Wolf Cries",
-      "url": "https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "D\u00f6d Mark 4Evigt",
         "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
+        "name": "Wolf Cries",
+        "url": "https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3"
       },
       "artists": [
         {
-          "name": "Mopiano",
-          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
         }
       ],
-      "duration_ms": 194223,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
+      "duration_ms": 190133,
+      "name": "Wolf Cries",
+      "url": "https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Misemotional",
-        "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Misemotional",
-      "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Tusen & en natt",
-        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
-      },
-      "artists": [
-        {
-          "name": "Teck Noir",
-          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tusen & en natt",
-      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "K\u00e4rleksv\u00e4rk",
         "url": "https://open.spotify.com/album/3qcmiU3Erv7DhvEh9zHKh1"
       },
@@ -1655,6 +1623,38 @@
       "duration_ms": 130707,
       "name": "K\u00e4rleksv\u00e4rk",
       "url": "https://open.spotify.com/track/6jUynpgWKtsv1HC1S37wOI"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
+      },
+      "artists": [
+        {
+          "name": "Mopiano",
+          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
+        }
+      ],
+      "duration_ms": 194223,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Misemotional",
+        "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Misemotional",
+      "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
     },
     {
       "added_at": "2023-12-21 23:00:00",

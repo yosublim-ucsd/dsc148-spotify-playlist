@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1006828,
+  "num_followers": 1007076,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGI1OTlhODg0YmY3NWUxYmIxNTk2YTIwYjdmMGE3MGRhODcwZjk5",
+  "snapshot_id": "MCxhYzlkZjZjODA1OTU2ZmRjMDNiZGJjZmQwNGNkYzNjZjMwNDdkMzg1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 171746,
       "name": "Debaser",
       "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "And She Was",
-      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "And She Was",
+      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Gigantic - Remastered",
-      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Vienna (Remastered Definitive Edition)",
         "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 296160,
       "name": "Vienna - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Gigantic - Remastered",
+      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fine Young Cannibals",
         "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 215733,
       "name": "Johnny Come Home",
       "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "People Are People - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 391200,
       "name": "Troy",
       "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "People Are People - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Clear Days",
-        "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
-      },
-      "artists": [
-        {
-          "name": "The Vapors",
-          "url": "https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Turning Japanese - Non Stop Edit",
-      "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Our Favourite Shop",
         "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 204333,
       "name": "Walls Come Tumbling Down",
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Clear Days",
+        "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
+      },
+      "artists": [
+        {
+          "name": "The Vapors",
+          "url": "https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Turning Japanese - Non Stop Edit",
+      "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Dirty Blvd.",
-      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 242534,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Dirty Blvd.",
+      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "English Settlement",
-        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered 2001",
-      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Aural Sculpture",
         "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 233186,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 290667,
+      "name": "Senses Working Overtime - Remastered 2001",
+      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "On The Other Hand There's A Fist",
+        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
+      },
+      "artists": [
+        {
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "You'll Always Find Me In The Kitchen At Parties",
+      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Happy Families",
         "url": "https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l"
       },
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "On The Other Hand There's A Fist",
-        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
-      },
-      "artists": [
-        {
-          "name": "Jona Lewie",
-          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "You'll Always Find Me In The Kitchen At Parties",
-      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2327,22 +2327,6 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Black Celebration",
-        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "A Question of Lust",
-      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+        "name": "Black Celebration",
+        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
+      "duration_ms": 269000,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2407,6 +2391,22 @@
       "duration_ms": 207480,
       "name": "Nellie the Elephant",
       "url": "https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-05-03 07:47:14",

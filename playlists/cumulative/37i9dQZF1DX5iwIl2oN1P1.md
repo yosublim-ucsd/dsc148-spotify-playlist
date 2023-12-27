@@ -4,7 +4,7 @@
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-99 songs - 8 hr 55 min
+100 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Make Room](https://open.spotify.com/track/7Lon0NmVkcUHAxmiPnVwda) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 5:40 | 2020-06-03 |  |
 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 | 2020-06-03 |  |
 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk) | 4:20 | 2020-06-03 | 2022-07-29 |
-| [My God](https://open.spotify.com/track/74xDe5RO6OwdcdSuRpbaGR) | [Nashville Life Music](https://open.spotify.com/artist/2VeZkVPpOuBcRZXvI774ul), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My God](https://open.spotify.com/album/3h3Tq82HkGf996KzFPnr5g) | 4:50 | 2020-06-03 |  |
+| [My God](https://open.spotify.com/track/74xDe5RO6OwdcdSuRpbaGR) | [Nashville Life Music](https://open.spotify.com/artist/2VeZkVPpOuBcRZXvI774ul), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My God](https://open.spotify.com/album/3h3Tq82HkGf996KzFPnr5g) | 4:50 | 2020-06-03 | 2023-12-27 |
 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/6PWZf2hUR9TCA4DsmClUo6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 7:03 | 2020-06-03 |  |
 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 | 2020-06-03 |  |
 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 | 2020-06-03 |  |
@@ -106,6 +106,7 @@
 | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF) | 3:40 | 2020-06-03 |  |
 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 | 2020-06-03 | 2023-12-24 |
 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 | 2020-06-03 | 2022-07-29 |
+| [Your Great Name](https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob) | 6:24 | 2020-06-03 |  |
 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 | 2020-06-03 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

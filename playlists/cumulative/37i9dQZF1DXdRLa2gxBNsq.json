@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "La Del Americano",
+        "url": "https://open.spotify.com/album/3gPecnYyJOKS5NhXP01cXK"
+      },
+      "artists": [
+        {
+          "name": "The Eskarallas",
+          "url": "https://open.spotify.com/artist/0s84kN7IxrvmkwLzpxOAqP"
+        },
+        {
+          "name": "Evaristo Paramos",
+          "url": "https://open.spotify.com/artist/36kxb0yilw8i5xqhnZk2Vc"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "La Del Americano",
+      "url": "https://open.spotify.com/track/0qwYMhEEDsCN8TjTE16oy2"
+    },
+    {
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 203226,
       "name": "Perdona Amigo",
       "url": "https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL"

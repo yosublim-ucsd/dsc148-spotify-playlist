@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 295732,
+  "num_followers": 295777,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3",
+  "snapshot_id": "MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "A C\u00e9u Aberto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Dan\u00e7a do Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "A C\u00e9u Aberto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Dan\u00e7a do Tempo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "City Of Angels (Piano Version)",
-        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 262185,
-      "name": "City Of Angels - Piano Version",
-      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "00070725 Live At Studio 606",
         "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 279453,
       "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
       "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "City Of Angels (Piano Version)",
+        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 262185,
+      "name": "City Of Angels - Piano Version",
+      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Bad Guy (Acoustic)",
-        "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
-      },
-      "artists": [
-        {
-          "name": "Luana Camarah",
-          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Bad Guy - Acoustic",
-      "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 220265,
       "name": "Quando Eu Te Encontrar",
       "url": "https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Bad Guy (Acoustic)",
+        "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "duration_ms": 161589,
+      "name": "Bad Guy - Acoustic",
+      "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
     },
     {
       "added_at": "2023-10-20 03:01:00",

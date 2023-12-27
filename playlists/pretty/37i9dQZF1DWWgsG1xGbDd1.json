@@ -1,12 +1,12 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 126586,
+  "num_followers": 126636,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh",
+  "snapshot_id": "MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Soul Jazz Records presents Sugar Minott at Studio One",
+        "url": "https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp"
+      },
+      "artists": [
+        {
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Hang On Natty",
+      "url": "https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Studio One Kings",
         "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 197600,
       "name": "Soul Locks",
       "url": "https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Scorcher",
-        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
-      },
-      "artists": [
-        {
-          "name": "New Establishment",
-          "url": "https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "The People Skanking",
-      "url": "https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx"
     }
   ],
   "unique_name": "Vintage Vibes: Sunny Reggae",

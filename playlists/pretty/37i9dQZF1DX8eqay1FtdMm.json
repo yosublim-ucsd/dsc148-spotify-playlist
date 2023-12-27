@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Sunwoojunga(\uc120\uc6b0\uc815\uc544)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 327422,
+  "num_followers": 327448,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2YzY2FjMDRmMDlkMDBhNGYyMDA1YTQ5NGU3N2M1ODk4MWZlYjIw",
+  "snapshot_id": "MCwwZWM4MDI1YWZiOTEzMTk4ODBmZGUyOTQzYjkwY2M2Mzk4NmU5MjJj",
   "tracks": [
     {
       "added_at": "2023-12-20 07:01:02",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-20 07:01:02",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
-    },
-    {
-      "added_at": "2023-12-20 07:01:02",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2023-12-20 07:01:02",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2023-12-20 07:01:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-20 07:01:02",
       "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
-    },
-    {
-      "added_at": "2023-12-20 07:01:02",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1251,6 +1235,42 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-12-20 07:01:02",
+      "album": {
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
+    },
+    {
+      "added_at": "2023-12-20 07:01:02",
+      "album": {
+        "name": "Solo Christmas",
+        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Solo Christmas",
+      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2023-12-20 07:01:02",
@@ -1299,26 +1319,6 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2023-12-20 07:01:02",
-      "album": {
-        "name": "Solo Christmas",
-        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Solo Christmas",
-      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2023-12-20 07:01:02",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-12-20 07:01:02",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+      "duration_ms": 221333,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
     },
     {
       "added_at": "2023-12-20 07:01:02",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-12-20 07:01:02",
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 221333,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-12-20 07:01:02",

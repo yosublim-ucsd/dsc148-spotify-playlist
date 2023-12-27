@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
@@ -5352,7 +5352,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 179527,
       "name": "CH\u00c9MIA",
       "url": "https://open.spotify.com/track/4zpse196l3Id24OrvH42Wt"
@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -13456,7 +13456,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 243883,
       "name": "Incredible Sauce (feat. Dave)",
       "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
@@ -14601,6 +14601,24 @@
     },
     {
       "album": {
+        "name": "Kdo?",
+        "url": "https://open.spotify.com/album/3oIFbsQRDq8Q3oC3FhsMoC"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145548,
+      "name": "Kdo?",
+      "url": "https://open.spotify.com/track/1xpkt49Qq2n7GVQZk5hr3k"
+    },
+    {
+      "album": {
         "name": "O2H",
         "url": "https://open.spotify.com/album/2kfbPWfCU1pcyVJBL3SIg2"
       },
@@ -15379,6 +15397,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
       },
@@ -15580,7 +15620,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -16180,7 +16220,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 247600,
       "name": "Love Is A Long Road",
       "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
@@ -16832,6 +16872,24 @@
       "duration_ms": 131317,
       "name": "Mamo miri",
       "url": "https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5"
+    },
+    {
+      "album": {
+        "name": "MANDA BALA",
+        "url": "https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "MANDA BALA",
+      "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
     },
     {
       "album": {
@@ -17992,7 +18050,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 184000,
       "name": "MMA",
       "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
@@ -19518,7 +19576,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 194168,
       "name": "nas ne dogonyat",
       "url": "https://open.spotify.com/track/4IJIFfO7DlyAELa6tg8U5V"
@@ -19794,7 +19852,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -20004,7 +20062,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 156375,
       "name": "Nikdy ma ma\u0165 nebud\u00fa",
       "url": "https://open.spotify.com/track/2jrUzkGUICuQSA1OV9YRUF"
@@ -21336,7 +21394,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -22514,6 +22572,36 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "album": {
+        "name": "Pln\u00e9 Ta\u0161ky (Remix)",
+        "url": "https://open.spotify.com/album/1TL53Nk92bkJCol7wZSRtM"
+      },
+      "artists": [
+        {
+          "name": "Dokkeytino",
+          "url": "https://open.spotify.com/artist/2LGzzsimaBumgXL5eRCEvE"
+        },
+        {
+          "name": "Rollsout",
+          "url": "https://open.spotify.com/artist/2ZU17vJPB8ZBfwc284vBjR"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249803,
+      "name": "Pln\u00e9 Ta\u0161ky - Remix",
+      "url": "https://open.spotify.com/track/2LLe0KGnljLYOtiS3gaQ1Z"
     },
     {
       "album": {
@@ -23800,6 +23888,44 @@
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
+    },
+    {
+      "album": {
+        "name": "RAPINBOX FILES vol.1",
+        "url": "https://open.spotify.com/album/1A0KyGOsIbytEiEVL5kTh1"
+      },
+      "artists": [
+        {
+          "name": "RAPINBOX",
+          "url": "https://open.spotify.com/artist/5GVLE7VMF0crqk3T3uCYhv"
+        },
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Majk Spirit",
+          "url": "https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "RAPINBOX vol.5",
+      "url": "https://open.spotify.com/track/5HpJbcgfr9dcDYjSluIRF9"
     },
     {
       "album": {
@@ -25701,6 +25827,24 @@
     },
     {
       "album": {
+        "name": "Shotta Flow 7",
+        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "Shotta Flow 7",
+      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+    },
+    {
+      "album": {
         "name": "Show Me Your Back",
         "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
       },
@@ -27292,7 +27436,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -27428,6 +27572,32 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "album": {
+        "name": "Stop Giving Me Advice",
+        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
       "album": {
@@ -30333,6 +30503,24 @@
     },
     {
       "album": {
+        "name": "UR THE MOON",
+        "url": "https://open.spotify.com/album/1EP7w7MXFVxaviATrJjRyf"
+      },
+      "artists": [
+        {
+          "name": "725",
+          "url": "https://open.spotify.com/artist/2OLCz6M82gOFqBo5rNkg4f"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "UR THE MOON",
+      "url": "https://open.spotify.com/track/4ylzPQ0re4NRE5EWnNUxCw"
+    },
+    {
+      "album": {
         "name": "Idegen",
         "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
       },
@@ -30780,7 +30968,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
@@ -32810,7 +32998,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 182000,
       "name": "Za mojej \u00e9ry",
       "url": "https://open.spotify.com/track/0fiZ9biUbrZXKaC1xAc5B7"

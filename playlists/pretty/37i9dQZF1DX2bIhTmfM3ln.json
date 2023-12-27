@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 25743,
+  "num_followers": 25803,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjAxMmExMzJlMWM2MDllYTE1OTU2YTE5MzZkM2U3OTU5NmI4ZDIz",
+  "snapshot_id": "MCwwNzRhMjhmZWFkYTE3ODc0MmVkOTgyMmI5YzcxYzA0ZTU4NTkzN2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 192826,
       "name": "LIKE THAT (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -967,22 +967,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 142571,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
       },
       "artists": [
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+      "duration_ms": 142571,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Sunflawa",
-        "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Sunflawa",
-      "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "For Daddy",
         "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Sunflawa",
+        "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Sunflawa",
+      "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
     },
     {
       "added_at": "2023-12-22 00:01:00",

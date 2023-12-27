@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 71361,
+  "num_followers": 71403,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzdjYmM2MGFiNzM1NjMwNTNhNTdlNDIwNjYyY2JiY2VjYTgwYjg0",
+  "snapshot_id": "MCxmZDdjOTc1MTVhMjA0ZThkNmYxMjc5N2Q0NGViNzJmODNmZDBiN2Ew",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Carmen de Espa\u00f1a",
-        "url": "https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn"
+        "name": "C\u00e1ntame Sevillanas",
+        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
       },
       "artists": [
         {
-          "name": "Carmen Sevilla",
-          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
         }
       ],
-      "duration_ms": 184573,
-      "name": "Te Quiero Te Quiero",
-      "url": "https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd"
+      "duration_ms": 242706,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "C\u00e1ntame Sevillanas",
-        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
+        "name": "Carmen de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn"
       },
       "artists": [
         {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+          "name": "Carmen Sevilla",
+          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
         }
       ],
-      "duration_ms": 242706,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
+      "duration_ms": 184573,
+      "name": "Te Quiero Te Quiero",
+      "url": "https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Mis Mejores Canciones",
         "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 271213,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1067,6 +1067,22 @@
       "duration_ms": 211533,
       "name": "Ponte la Mano en el Pecho",
       "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Todo Vuelve",
+        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Tic-Tac",
+      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1151,22 +1167,6 @@
       "duration_ms": 222125,
       "name": "La Violetera - Remastered",
       "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Todo Vuelve",
-        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Tic-Tac",
-      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2023-08-28 17:02:49",

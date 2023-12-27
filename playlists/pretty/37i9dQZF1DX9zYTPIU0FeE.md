@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs?si=TOE0uf8iTvqYTNht5twFPw">Bokang Ramatlapeng</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 60 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,606 likes - 60 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 59 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 |
 | 60 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 |
 
-Snapshot ID: `MCxkOWVlMDJjMTE5MzQyNTExZDY4OTM4ZWY0ZDZmMzBkNzAyMDQzZTNj`
+Snapshot ID: `MCxkM2M5OWMyNTZjZmZkOTRmYThlNmFhYjhjM2Q3NDc4ZTJkNWNjNzRi`

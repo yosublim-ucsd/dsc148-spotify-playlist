@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Rigoberta Bandini y Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,596 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,620 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [No Vale](https://open.spotify.com/track/0djDTuNDZ4W6C621lD1GNu) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/2AXJcDmxkNrrtUkbjZGfv9) | 4:11 |
 | 50 | [Mi Vista](https://open.spotify.com/track/46lR9DmQRGOhlKewZUpJMu) | [Kitino](https://open.spotify.com/artist/1PFYN7uAnJJZcCM2PKbu5I) | [Mi Vista](https://open.spotify.com/album/4GFJavWLY0ptBbVi1jaQOo) | 3:56 |
 
-Snapshot ID: `MCwwZmJkN2I0YTY4Zjg1MzhjN2FiNTMxZGJiNTJlOWU3NTM0NzZiYTJh`
+Snapshot ID: `MCw1YmVkZWJiODUzMzRkYmRmMWI3MmJkNTZkZGM3ZjNlODJmMzE2MWI0`

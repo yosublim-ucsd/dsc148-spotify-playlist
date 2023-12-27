@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 185532,
+  "num_followers": 185572,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODE4NThlYWQwNDIyOWUyZjk0MmUyNGEzZGU3N2JlMzJhZGIxMmQ0",
+  "snapshot_id": "MCw2YmZmZTZkNmVmNTI2Nzc3NWFhNmRlMmMyYWZkNDliNmI0OWU1NzA0",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Bombea",
-        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
-      },
-      "artists": [
-        {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
-        }
-      ],
-      "duration_ms": 216688,
-      "name": "La Fuerza del Amor",
-      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Bombea",
+        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 216688,
+      "name": "La Fuerza del Amor",
+      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "La Historia Del Folklore (2da Parte)",
+        "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 346506,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 155689,
       "name": "Antifa Dance",
       "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "La Historia Del Folklore (2da Parte)",
-        "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 346506,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1423,22 +1423,6 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "El Corrido de Milo Vela",
-        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "El Corrido de Milo Vela",
-      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1531,34 +1515,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
-      },
-      "artists": [
-        {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+      "duration_ms": 210426,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1587,6 +1555,38 @@
       "duration_ms": 308732,
       "name": "Prende la Mecha",
       "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
+      },
+      "artists": [
+        {
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Octubre",
         "url": "https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 228456,
       "name": "Octubre",
       "url": "https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
     },
     {
       "added_at": "2023-10-13 03:00:00",

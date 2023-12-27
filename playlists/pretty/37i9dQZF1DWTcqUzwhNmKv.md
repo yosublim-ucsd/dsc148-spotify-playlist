@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sleep Token on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,471,098 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471,446 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 |
 | 75 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 |
 
-Snapshot ID: `MCw5YTVlODFjYWNhYWQwODE3Y2VjZjNmMDY5ZTJkYjA5NzM3ODdhYmY1`
+Snapshot ID: `MCwwYWI2YTMwYzI1OGQzNTBiMGZhYWQ5NzBhYTMzYzVkNWY4NzhhYzgw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVbfVJ3tB3QO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVbfVJ3tB3QO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVbfVJ3tB3QO)
 
-### [Barry Can't Swim's track ID's](https://open.spotify.com/playlist/37i9dQZF1DWVbfVJ3tB3QO)
+### [Barry Can't Swim's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWVbfVJ3tB3QO)
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 

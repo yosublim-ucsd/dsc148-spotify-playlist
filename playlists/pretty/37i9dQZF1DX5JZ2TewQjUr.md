@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Delf
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,771 likes - 124 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,773 likes - 124 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 123 | [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 |
 | 124 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCwyODM0YmI4ZjcwYzdjYzI4MGU5YWQ1MDJkNmZiOTI5NzBiM2RhYTdl`
+Snapshot ID: `MCwyYjZlZmYxNzE1MTU0MjljOWU3NjNmNTYzNTI0ZmE1M2YzNTQ0Njk2`

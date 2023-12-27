@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,076 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,072 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Unconditional](https://open.spotify.com/track/3s2MpAsYP7td9alGNB6Fk1) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA), [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Unconditional](https://open.spotify.com/album/4utMvi2ApprCzAJoj317um) | 3:28 |
 | 73 | [GOTT NYTT ÅR!](https://open.spotify.com/track/7G8gtHw3zBtGz1ng8hS3eX) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [GOTT NYTT ÅR!](https://open.spotify.com/album/3PefMJxaG5Zx5NaLs1UyVa) | 2:26 |
 
-Snapshot ID: `MCw4MWFiZGM5YjRjNzk4MzhhYjI4MmNmN2I3NDdlNDZiYzY4NTZmN2Rm`
+Snapshot ID: `MCxkMTY3M2Y4ZWE5ZjVkNmQzZDUyOTUxMzliODI1ZmI5N2U1ZDkzOWQ5`

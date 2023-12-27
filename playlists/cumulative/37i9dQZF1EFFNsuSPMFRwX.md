@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12.38 \(feat\. 21 Savage, Ink & Kadhja Bonet\)](https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:32 | 2022-05-25 |  |
-| [Back To Love](https://open.spotify.com/track/2HDqP1ao45k1t7mPe7lo4C) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:40 | 2022-05-25 | 2023-12-22 |
-| [Back To Love](https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Love \(Official Video\)](https://open.spotify.com/album/3QnR1AJ8ejS2E9RRTnaW62) | 4:54 | 2023-12-17 |  |
+| [Back To Love](https://open.spotify.com/track/2HDqP1ao45k1t7mPe7lo4C) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:40 | 2022-05-25 |  |
+| [Back To Love](https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Love \(Official Video\)](https://open.spotify.com/album/3QnR1AJ8ejS2E9RRTnaW62) | 4:54 | 2023-12-17 | 2023-12-27 |
 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 | 2022-05-25 |  |
 | [Catfish](https://open.spotify.com/track/0CajCuT1g1VdiJggHGOPWY) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Calling All Lovers \(Deluxe\)](https://open.spotify.com/album/4t2hkcVn67lLkRJdnyuuBW) | 3:35 | 2022-05-25 |  |
 | [Change](https://open.spotify.com/track/4tm4ucTjb7eJ85iz9tZjnt) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 | 2022-05-25 |  |
@@ -43,7 +43,7 @@
 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 | 2022-05-25 |  |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-12-14 |  |
 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 | 2022-05-25 |  |
-| [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-05-25 | 2023-12-24 |
-| [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 |  |
+| [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-05-25 |  |
+| [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 | 2023-12-27 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

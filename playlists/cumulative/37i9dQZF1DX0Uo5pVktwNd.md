@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Daler Mehndi
 
-95 songs - 7 hr 53 min
+96 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bheegi Bheegi Raton Mein](https://open.spotify.com/track/7FyF8fsgmBJKWmcS44NHkL) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bheegi Bheegi Raton Mein..\. Kabhi To Nazar Milao](https://open.spotify.com/album/1LSw0BW73NEJICMFaYFmCR) | 5:58 | 2023-10-12 |  |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2022-04-11 | 2023-10-13 |
 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 | 2022-04-11 | 2023-04-22 |
-| [Bulla Ki Jana](https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:17 | 2022-04-11 |  |
+| [Bulla Ki Jana](https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:17 | 2022-04-11 | 2023-12-27 |
+| [Bulla Ki Jana](https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:17 | 2023-12-14 |  |
 | [Can't Get Enough](https://open.spotify.com/track/1mo2Wzr70o3MhU2tmOE5n5) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Iceberg Slimm](https://open.spotify.com/artist/02tXL18Ewrn90apmP2xhzY) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 3:21 | 2023-03-15 | 2023-10-13 |
 | [Channa Vey](https://open.spotify.com/track/6t4a5b9gsZ1TGs6z6v51Ku) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 4:28 | 2022-04-11 | 2022-12-15 |
 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 | 2022-12-14 |  |

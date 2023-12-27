@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 56658,
+  "num_followers": 56692,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTUwOWUxZjU0MDBlN2JkMmZiNDBmNzRjZTBkZGY4ODgzNGEzMzM5",
+  "snapshot_id": "MCwwODVlM2U2OTFmMDgxZjM4YzE1MzQ2ODJlNWM0MDk3OWMwYjA2ZmIx",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "662",
-        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 203481,
-      "name": "That's What You Do",
-      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 166240,
       "name": "I've Got Love If You Want It",
       "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "662",
+        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 203481,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Don't Start Crying Now",
+      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 216716,
       "name": "Watch Me Change",
       "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "Don't Start Crying Now",
-      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Peach Tree - Mono Version",
-      "url": "https://open.spotify.com/track/5K78KRl57O0mzqj4Ea722D"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 179893,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Peach Tree - Mono Version",
+      "url": "https://open.spotify.com/track/5K78KRl57O0mzqj4Ea722D"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Don't Want No Woman",
+      "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Lazy Morning Blues",
         "url": "https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 232200,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Don't Want No Woman",
-      "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "The Wrong Number",
-      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Put It",
         "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 154200,
-      "name": "I've Been Walkin'",
-      "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
+      "duration_ms": 170293,
+      "name": "The Wrong Number",
+      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1487,6 +1471,22 @@
       "duration_ms": 295068,
       "name": "Shake It Baby",
       "url": "https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "I've Been Walkin'",
+      "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Mighty Love",
-        "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Jerry Portnoy",
-          "url": "https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Mighty Love",
-      "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 151919,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Mighty Love",
+        "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Jerry Portnoy",
+          "url": "https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Mighty Love",
+      "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Taking the Good with the Bad",
-        "url": "https://open.spotify.com/album/4zke14lsydYilEMk2CuoDn"
-      },
-      "artists": [
-        {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "Emil Balsgaard",
-          "url": "https://open.spotify.com/artist/58Bm8EjagDqKAvFTgGIEXM"
-        }
-      ],
-      "duration_ms": 184044,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Georgia Women",
         "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
       },
@@ -1663,18 +1643,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Old Habits",
-        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+        "name": "Taking the Good with the Bad",
+        "url": "https://open.spotify.com/album/4zke14lsydYilEMk2CuoDn"
       },
       "artists": [
         {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "Emil Balsgaard",
+          "url": "https://open.spotify.com/artist/58Bm8EjagDqKAvFTgGIEXM"
         }
       ],
-      "duration_ms": 250711,
-      "name": "Reverse Engineer",
-      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
+      "duration_ms": 184044,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1707,6 +1691,22 @@
       "duration_ms": 173371,
       "name": "I Got Some, Pt. 1",
       "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 250711,
+      "name": "Reverse Engineer",
+      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "No Sleep Blues",
-        "url": "https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ"
-      },
-      "artists": [
-        {
-          "name": "Blue Milk",
-          "url": "https://open.spotify.com/artist/4ILY6aQqhOSE83dUM2nPR6"
-        }
-      ],
-      "duration_ms": 209368,
-      "name": "No Sleep Blues",
-      "url": "https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Juke Joint Chapel",
         "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 304938,
       "name": "Mean Town Blues",
       "url": "https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "No Sleep Blues",
+        "url": "https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ"
+      },
+      "artists": [
+        {
+          "name": "Blue Milk",
+          "url": "https://open.spotify.com/artist/4ILY6aQqhOSE83dUM2nPR6"
+        }
+      ],
+      "duration_ms": 209368,
+      "name": "No Sleep Blues",
+      "url": "https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 140502,
-      "name": "Pony Boy",
-      "url": "https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
         "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 293106,
       "name": "It's My Fault, Darling - Remastered",
       "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 140502,
+      "name": "Pony Boy",
+      "url": "https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 210827,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "French Cricket",
         "url": "https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 185933,
       "name": "From a Buick 6",
       "url": "https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 210827,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
     },
     {
       "added_at": "2023-11-24 19:21:59",

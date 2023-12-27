@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 21425,
+  "num_followers": 21427,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDc0YjJjMTM4MjFiZGQyYTM0OGVhN2M1NDg1N2YyMDdiY2E1ZmFk",
+  "snapshot_id": "MCwzZTljMzkxODJlYmFhNGI0NDE2NWY3YTA3NDM2ZTVlNGI0Y2YzMTQ1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -433,20 +433,24 @@
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
-      "added_at": "2021-04-27 23:04:41",
+      "added_at": "2021-04-30 04:01:00",
       "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+        "name": "Surfing",
+        "url": "https://open.spotify.com/album/3IXyvwIPq8pfsGstJvzxU8"
       },
       "artists": [
         {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/4SEFm6iz9emp5qH1C5aoi5"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
+      "duration_ms": 165687,
+      "name": "Surfing",
+      "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -469,24 +473,20 @@
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
+      "added_at": "2021-04-27 23:04:41",
       "album": {
-        "name": "Surfing",
-        "url": "https://open.spotify.com/album/3IXyvwIPq8pfsGstJvzxU8"
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/4SEFm6iz9emp5qH1C5aoi5"
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
         }
       ],
-      "duration_ms": 165687,
-      "name": "Surfing",
-      "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -845,20 +845,24 @@
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
+        "name": "Bottleneck Stomp",
+        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
       },
       "artists": [
         {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
         }
       ],
-      "duration_ms": 174892,
-      "name": "Keep Your Light on Mama",
-      "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
+      "duration_ms": 201859,
+      "name": "Bottleneck Stomp",
+      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     }
   ],
   "unique_name": "Modern Blues Guitar",

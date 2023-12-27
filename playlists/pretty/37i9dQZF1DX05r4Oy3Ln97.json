@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 552664,
+  "num_followers": 552698,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODZkYzI5NzhkOWEzMzcyODQ5NGU5MTMwOTllZWQ3MWZhMTA4MDc5",
+  "snapshot_id": "MCxiZmI4NTgwMTEwOWI2MGFiOGE0ZDc2MTU5NTZlZTI0Y2MyZTMxMjkx",
   "tracks": [
     {
       "added_at": "2023-12-22 16:00:00",
@@ -375,6 +375,26 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Milkshake 20 (Alex Wann Remix)",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 (Alex Wann Remix)",
-      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
-      },
-      "artists": [
-        {
-          "name": "Paratone",
-          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "Saturday Morning",
         "url": "https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 160487,
       "name": "Saturday Morning",
       "url": "https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "Cruel Summer (Marcus Layton Edit)",
-        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
-      },
-      "artists": [
-        {
-          "name": "LAUWE",
-          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
-        },
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Cruel Summer (Marcus Layton Edit)",
-      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 224549,
       "name": "The Future",
       "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "Cruel Summer (Marcus Layton Edit)",
+        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
+      },
+      "artists": [
+        {
+          "name": "LAUWE",
+          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
+        },
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        }
+      ],
+      "duration_ms": 144230,
+      "name": "Cruel Summer (Marcus Layton Edit)",
+      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
     },
     {
       "added_at": "2023-12-22 16:00:00",

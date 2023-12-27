@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 76309,
+  "num_followers": 76354,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzM1NTM5YWZiYTJjOTE4MDM3YzJhMTEwN2VlNjU5OGVkYWY2OWVi",
+  "snapshot_id": "MCw3ODNjNzgwYmQ3OTExNDM4NDRjZDBlYmM1YmIxMTQyMzY0MDAzY2Zl",
   "tracks": [
     {
       "added_at": "2023-11-24 07:22:12",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7"
-      },
-      "artists": [
-        {
-          "name": "Ednan Rufino",
-          "url": "https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a"
-        }
-      ],
-      "duration_ms": 371370,
-      "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
         "name": "Eu Quero Ir pro C\u00e9u",
         "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 273913,
       "name": "Eu Quero Ir pro C\u00e9u",
       "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
+        "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7"
+      },
+      "artists": [
+        {
+          "name": "Ednan Rufino",
+          "url": "https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a"
+        }
+      ],
+      "duration_ms": 371370,
+      "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
         "name": "Eu Vou para o C\u00e9u",
         "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 201090,
       "name": "Eu Vou para o C\u00e9u",
       "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 203769,
       "name": "Aquele Que Morreu na Cruz",
       "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2023-11-24 07:22:12",

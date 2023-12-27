@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21055,
+  "num_followers": 21058,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2JlNTQ5YTk5NmY5YjgxNDcwNTQxMDUzYTc1MzQ3ZjllZWM3MTRm",
+  "snapshot_id": "MCw4ZGQxMjRkZDU1OWI5MDFjZTQ4NDZmN2EwZGQ1NDY2YzVmNmMzZjk1",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Viajante",
+      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Reverdecer (Remix)",
         "url": "https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 181992,
       "name": "Reverdecer - Remix",
       "url": "https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Viajante",
-      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        }
+      ],
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -835,26 +851,6 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
-        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
-      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
+        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
       },
       "artists": [
         {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+      "duration_ms": 245000,
+      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
+      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -923,6 +923,26 @@
       "duration_ms": 433659,
       "name": "Lupuna",
       "url": "https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        },
+        {
+          "name": "Sandra Amaya",
+          "url": "https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v"
+        }
+      ],
+      "duration_ms": 377684,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1007,22 +1027,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Como la Cigarra",
         "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
       },
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
       "artists": [
         {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        },
-        {
-          "name": "Sandra Amaya",
-          "url": "https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v"
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
         }
       ],
-      "duration_ms": 377684,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 187434,
-      "name": "Nada Parece",
-      "url": "https://open.spotify.com/track/29pndK8bDGQ1YVeubWhQec"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 300250,
       "name": "El tiempo de las cosas que frenan",
       "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "Nada Parece",
+      "url": "https://open.spotify.com/track/29pndK8bDGQ1YVeubWhQec"
     },
     {
       "added_at": "2023-11-10 14:30:24",

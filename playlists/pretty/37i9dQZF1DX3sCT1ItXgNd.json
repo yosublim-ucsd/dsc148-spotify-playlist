@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 992626,
+  "num_followers": 992639,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTU5MGRlM2I3ODg3YjNlYjIzZmQ1ZTc2N2QwZTE3YWY5ZDA1ZjRm",
+  "snapshot_id": "MCw0NDhkMDJhYmIyYTAzYzdmNjBiYjdkY2JmOWIzNWQwOGQ4NTYwNzRm",
   "tracks": [
     {
       "added_at": "2023-12-21 17:42:42",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
         "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -891,22 +891,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
       "artists": [
         {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         },
         {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -927,22 +927,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
         },
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2023-12-21 17:42:42",

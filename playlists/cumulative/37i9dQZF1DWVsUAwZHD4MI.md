@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 8 hr 28 min
+139 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [I Felt Love](https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 3:12 | 2022-09-05 | 2023-12-05 |
 | [I Want U](https://open.spotify.com/track/0umwUcMEr5ZWTa9cL7fWwb) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/63AGRJfdaeEO4mYIFf0lsp) | 2:04 | 2023-12-04 | 2023-12-24 |
 | [I Want U](https://open.spotify.com/track/1iGYnuAoOIKaO0vHSzRDER) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/7uT93ZE08HdMrmzWL9Reja) | 2:04 | 2023-12-04 | 2023-12-22 |
-| [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 | 2023-12-04 |  |
+| [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 | 2023-12-04 | 2023-12-27 |
+| [I Want U](https://open.spotify.com/track/2MJmqsyBcWSFrEkkkQMvoq) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X), [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/1t68mKo7cP1Lb9lmo4qhnk) | 2:04 | 2023-12-04 |  |
 | [I Want You](https://open.spotify.com/track/1uHlk9gAbkjo5fIAa448BI) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/0JLKa77aRkFpKut3yAiu3e) | [Gaze At Me](https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6) | 3:46 | 2022-11-11 | 2022-11-14 |
 | [I Want You](https://open.spotify.com/track/4ZDTSzgw2enJ0LhQdG9lzk) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO) | [I Want You](https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q) | 3:46 | 2022-09-05 | 2023-12-05 |
 | [I Want You](https://open.spotify.com/track/6gT3OPO7Rs0yfouM2wf9j6) | [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/5okW3LSg339posuwOHrWIz) | 2:13 | 2023-12-04 | 2023-12-23 |

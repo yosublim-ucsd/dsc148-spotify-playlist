@@ -122,6 +122,24 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 204560,
       "name": "If She Only Knew",
       "url": "https://open.spotify.com/track/5l14L8mxpCQKA0cHYJowHt"

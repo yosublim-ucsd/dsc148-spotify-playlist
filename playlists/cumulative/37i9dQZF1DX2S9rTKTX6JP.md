@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-325 songs - 20 hr 57 min
+326 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2020-12-16 |  |
 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 | 2020-12-16 |  |
 | [I Am The Walrus \- Live](https://open.spotify.com/track/7Mq2PA75YUS6T2ErxgytKT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/4vVeWyiMSe9EDifvSr6wjQ) | 6:24 | 2020-12-16 | 2022-07-29 |
+| [I Am The Walrus – Live Glasgow Cathouse June '94 \- Remastered](https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan \(Remastered Edition\)](https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh) | 6:25 | 2023-11-17 |  |
 | [I Can't Give Everything Away](https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [I Can't Give Everything Away](https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj) | 3:55 | 2023-03-24 | 2023-04-20 |
 | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/track/5ncrAJweQsGKQWOhf2isOK) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/2nTs39rXgArWOd9Z8Pcc4t) | 4:07 | 2020-12-16 | 2022-11-13 |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2020-12-16 |  |
@@ -270,7 +271,7 @@
 | [Tainted Love](https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [Tainted Love](https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z) | 3:24 | 2021-02-11 | 2022-07-27 |
 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 | 2020-12-16 |  |
 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 | 2022-03-25 |  |
-| [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 | 2023-06-09 |  |
+| [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 | 2023-06-09 | 2023-12-27 |
 | [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 | 2023-06-09 |  |
 | [That Thing You Do!](https://open.spotify.com/track/4s7Nan6D8QC02ORXGM0slB) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [That Thing You Do!](https://open.spotify.com/album/5Oa5fQh8Uv1GJQk7Wx3QoM) | 2:48 | 2020-12-16 | 2022-07-29 |
 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 | 2020-12-16 |  |

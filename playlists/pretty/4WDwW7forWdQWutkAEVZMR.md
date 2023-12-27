@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Beyoncé, blink\-182, Harry Styles &amp; more! Cover: Beyoncé
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,534 likes - 28 songs - 1 hr 29 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,535 likes - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-231 songs - 13 hr 2 min
+232 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 |  |
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 |  |
+| [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |
 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 | 2023-09-26 | 2023-09-27 |
 | [Tanhai](https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Kiran + Nivi](https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:51 | 2023-09-26 | 2023-11-25 |
@@ -214,7 +215,7 @@
 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 | 2023-05-17 | 2023-08-09 |
 | [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 | 2023-07-20 |
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 |  |
-| [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 | 2023-07-24 |  |
+| [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 | 2023-07-24 | 2023-12-27 |
 | [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 | 2023-08-08 | 2023-10-14 |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 |  |
 | [Tum Aaye Ho Toh](https://open.spotify.com/track/7d2k1S52ohPqOkw2tcreS4) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Tum Aaye Ho Toh](https://open.spotify.com/album/0qUCgrLRa9JCNVtxq3frR4) | 4:18 | 2023-12-16 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTE5NjUxY2Y5OTQxYmY2YmU5NGNjNDZhYmE3MzhjMDYxM2MzZjE2",
+  "snapshot_id": "MCw0ZWNiZGRjNGRhY2MyNjgzZWUzOGE1M2UzNmFhNTgyZTA1NzViNTI1",
   "tracks": [
     {
       "added_at": "2023-12-22 12:07:14",
@@ -923,30 +923,6 @@
     {
       "added_at": "2023-12-22 12:07:14",
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 193799,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": "2023-12-22 12:07:14",
-      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
+    },
+    {
+      "added_at": "2023-12-22 12:07:14",
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 193799,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
     },
     {
       "added_at": "2023-12-22 12:07:14",

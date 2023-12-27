@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135782,
+  "num_followers": 135786,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjNiY2NkNTQ0ZDBiMjA2YWIwNDI0NmFhNThhZjZmOGYwYjQzY2E3",
+  "snapshot_id": "MCxiYWQyMWUwNTEyZTA5OTIyOThjYjkyNTgwZDk2MWFhZWZjZjRmYzI0",
   "tracks": [
     {
       "added_at": "2023-12-22 18:06:32",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2023-12-22 18:06:32",
       "album": {
+        "name": "Blockkstar x TTF Freestyle!",
+        "url": "https://open.spotify.com/album/3TjoAvlwgZcGBG8gnmJ4h2"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "M\u2019DEP",
+          "url": "https://open.spotify.com/artist/1vde6oYF1r1Wu0tk1MTkZP"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Blockkstar x TTF Freestyle!",
+      "url": "https://open.spotify.com/track/3CqhjRnc5nRWlWiunZVZuo"
+    },
+    {
+      "added_at": "2023-12-22 18:06:32",
+      "album": {
         "name": "Passo de Piet",
         "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 91890,
       "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
       "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
-    },
-    {
-      "added_at": "2023-12-22 18:06:32",
-      "album": {
-        "name": "Blockkstar x TTF Freestyle!",
-        "url": "https://open.spotify.com/album/3TjoAvlwgZcGBG8gnmJ4h2"
-      },
-      "artists": [
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        },
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        },
-        {
-          "name": "M\u2019DEP",
-          "url": "https://open.spotify.com/artist/1vde6oYF1r1Wu0tk1MTkZP"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Blockkstar x TTF Freestyle!",
-      "url": "https://open.spotify.com/track/3CqhjRnc5nRWlWiunZVZuo"
     },
     {
       "added_at": "2023-12-22 18:06:32",

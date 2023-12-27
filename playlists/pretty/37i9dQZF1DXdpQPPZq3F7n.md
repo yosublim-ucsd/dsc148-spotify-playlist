@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,814 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,961 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 | 75 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 |
 
-Snapshot ID: `MCw4M2UwODgyMzYyNzAxMWUwZWNkYzJlNzcxMzJiMTdjMDM1Njg2Y2I0`
+Snapshot ID: `MCw4NzgwNTc1NDE4NjI5OTRjNjlhM2U4YmJhNTZmMjkyY2VmMmY4ODgy`

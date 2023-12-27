@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a> ",
-  "num_followers": 65936,
+  "num_followers": 65982,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGFhMmE0MjMyMThiZGVlNjgxMDAwYTY0NzhkMWZhZWRiNTkxYTZl",
+  "snapshot_id": "MCxhNzY2YjgxZDc1MDdjMWEzYmE0NjJlZGI4ODY4MGFkNzc3YmRhNGZh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "GO WITH THE GHOST",
-        "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
+        "name": "Every Step",
+        "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
       },
       "artists": [
         {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Moflo",
+          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
         }
       ],
-      "duration_ms": 173230,
-      "name": "GO WITH THE GHOST",
-      "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
+      "duration_ms": 166191,
+      "name": "Every Step",
+      "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Every Step",
-        "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
+        "name": "GO WITH THE GHOST",
+        "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "Moflo",
-          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         }
       ],
-      "duration_ms": 166191,
-      "name": "Every Step",
-      "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
+      "duration_ms": 173230,
+      "name": "GO WITH THE GHOST",
+      "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -483,38 +483,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "When I Pray",
-        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 221915,
-      "name": "When I Pray",
-      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Favorite Trapper",
         "url": "https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 146255,
       "name": "Favorite Trapper",
       "url": "https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "When I Pray",
+        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 221915,
+      "name": "When I Pray",
+      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1111,18 +1127,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+        "name": "Kingdom Business",
+        "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "ST-Saint",
+          "url": "https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+      "duration_ms": 210631,
+      "name": "Kingdom Business",
+      "url": "https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1155,30 +1179,6 @@
       "duration_ms": 172027,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Kingdom Business",
-        "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "ST-Saint",
-          "url": "https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw"
-        },
-        {
-          "name": "R-Scar",
-          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
-        }
-      ],
-      "duration_ms": 210631,
-      "name": "Kingdom Business",
-      "url": "https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Blues and Roses",
-        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 145725,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
       },
@@ -1331,22 +1315,6 @@
       "duration_ms": 135819,
       "name": "It's You",
       "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1371,22 +1339,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "RIVALS",
-        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
       "artists": [
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 187118,
-      "name": "RIVALS",
-      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Blues and Roses",
+        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 145725,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1403,6 +1383,26 @@
       "duration_ms": 189850,
       "name": "Love Never Ceases",
       "url": "https://open.spotify.com/track/02Vpti3pbDxqyv7mUnMa6h"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "RIVALS",
+        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "RIVALS",
+      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "We Agree With Heaven (with Todd Dulaney) [Live]",
-        "url": "https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 475198,
-      "name": "We Agree With Heaven (with Todd Dulaney) - Live",
-      "url": "https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 183868,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Agree With Heaven (with Todd Dulaney) [Live]",
+        "url": "https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 475198,
+      "name": "We Agree With Heaven (with Todd Dulaney) - Live",
+      "url": "https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/0kpnfftFRQQ0DXlrAcLff6"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "GIDI",
-          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 223524,
       "name": "NOW",
       "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/0kpnfftFRQQ0DXlrAcLff6"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "GIDI",
+          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "My Banner",
-        "url": "https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "My Banner",
-      "url": "https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/3pAaQGDsxRpoGlxhuVH7Yp"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 170605,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/2my5Krx5X2FTrLsaYKBuJR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "My Banner",
+        "url": "https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "My Banner",
+      "url": "https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "By the River",
-        "url": "https://open.spotify.com/album/4R63Gff88BFdSCdpsAbMK7"
+        "name": "In Times Like These",
+        "url": "https://open.spotify.com/album/2PALArxxYv8saqhds083oC"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
         }
       ],
-      "duration_ms": 171000,
-      "name": "By the River",
-      "url": "https://open.spotify.com/track/52ivV2XnZz3M9JufTsInV1"
+      "duration_ms": 164426,
+      "name": "Midnight Hour",
+      "url": "https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n"
     }
   ],
   "unique_name": "Lifted Frequency",

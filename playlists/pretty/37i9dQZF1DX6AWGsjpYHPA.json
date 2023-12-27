@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 135283,
+  "num_followers": 135374,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODE5MDZmNTdjNGQwM2Y5M2ZiMWRhMTg0NjUwYTcxN2M0NmFmODNl",
+  "snapshot_id": "MCw0NDExYjFjMjA1NjRmMjVmYmUwNDFhYzQ5N2YzNzFmYmNlZDhjYzcy",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
         }
       ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
       "artists": [
         {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+        "name": "Caf\u00e9 del Mar Ibiza Chillout Mix III (DJ Mix)",
+        "url": "https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm"
       },
       "artists": [
         {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+          "name": "Kabanjak",
+          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
         }
       ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+      "duration_ms": 215000,
+      "name": "Revelation Dub",
+      "url": "https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 221053,
       "name": "Action Line",
       "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Caf\u00e9 del Mar Ibiza Chillout Mix III (DJ Mix)",
-        "url": "https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm"
-      },
-      "artists": [
-        {
-          "name": "Kabanjak",
-          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Revelation Dub",
-      "url": "https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Dr. Buzzard's Original Savannah Band",
         "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2023-11-24 05:00:00",

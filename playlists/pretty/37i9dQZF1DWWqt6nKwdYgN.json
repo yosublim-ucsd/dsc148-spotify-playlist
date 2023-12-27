@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
-  "num_followers": 12305,
+  "num_followers": 12309,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmZmOTk3YzQ1ZjlhZmFkOWY1ZGQ3OWI2OGVjOWU5Y2YwNDU1YTA3",
+  "snapshot_id": "MCw4ZjMxZjM1ZDE3ZjcxZWFlMDQ3ZTY0N2Y5MzBmOWU5MDE2MGNiZGFk",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
       },
@@ -1623,22 +1643,18 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "El Callej\u00f3n",
-        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+        "name": "De Oro",
+        "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
       },
       "artists": [
         {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
         }
       ],
-      "duration_ms": 256049,
-      "name": "El Callej\u00f3n",
-      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+      "duration_ms": 167441,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 275179,
       "name": "La Escuela",
       "url": "https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "De Oro",
-        "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
-      },
-      "artists": [
-        {
-          "name": "Robert Tiamo",
-          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Hu\u00e9spedes",
-        "url": "https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Jam Baxter",
-          "url": "https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr"
-        }
-      ],
-      "duration_ms": 276752,
-      "name": "Hu\u00e9spedes",
-      "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Cumbia Castrosa",
         "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
       },
@@ -1883,18 +1863,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Me Puedes Invocar",
-        "url": "https://open.spotify.com/album/3L1wHnXxuY7QdUHVBNeSmY"
+        "name": "Hu\u00e9spedes",
+        "url": "https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk"
       },
       "artists": [
         {
-          "name": "Tino El Ping\u00fcino",
-          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Jam Baxter",
+          "url": "https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr"
         }
       ],
-      "duration_ms": 109307,
-      "name": "Me Puedes Invocar",
-      "url": "https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ"
+      "duration_ms": 276752,
+      "name": "Hu\u00e9spedes",
+      "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 252700,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Me Puedes Invocar",
+        "url": "https://open.spotify.com/album/3L1wHnXxuY7QdUHVBNeSmY"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "duration_ms": 109307,
+      "name": "Me Puedes Invocar",
+      "url": "https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ"
     },
     {
       "added_at": "2023-12-22 06:00:00",

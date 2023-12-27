@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 48744,
+  "num_followers": 48818,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGVhODRjYTg0MDk5MWE5YzhhNDBlNDFmMjcxYjQ4NzkzMGUwOWZl",
+  "snapshot_id": "MCw2ODBlNTFjMTY5ZWY2MzNlZjRjN2E5NjJjNDYyYWQ1ZThhMDdjNDA3",
   "tracks": [
     {
       "added_at": "2023-10-12 00:40:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Eres Mi \u00c1ngel",
         "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181813,
       "name": "Todo Por Servir Se Acaba",
       "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
+      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
         "name": "De California Te Escribio",
         "url": "https://open.spotify.com/album/0J3Gjl9pwXAImjDGaB78PN"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/50KxcUvmxXi1EEqfhKsaIB"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "La Reyna de Tierra Caliente",
-        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia De Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "En C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+        "name": "La Reyna de Tierra Caliente",
+        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
       "artists": [
         {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+          "name": "La Dinastia De Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
         }
       ],
-      "duration_ms": 230706,
-      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
-      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
+      "duration_ms": 165225,
+      "name": "En C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -971,38 +971,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "20 \u00c9xitos de Ley",
-        "url": "https://open.spotify.com/album/2fMXiDA8MFbC2Fi5klzmy1"
-      },
-      "artists": [
-        {
-          "name": "Sagitario Musical",
-          "url": "https://open.spotify.com/artist/2xKp5BJZnK4EsPX7nzaR4L"
-        }
-      ],
-      "duration_ms": 158979,
-      "name": "10 Km a Pie",
-      "url": "https://open.spotify.com/track/24hljzYwVOWnYOxC98mPhW"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
       },
@@ -1019,34 +987,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Para Que Vuelves",
-        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
+        "name": "20 \u00c9xitos de Ley",
+        "url": "https://open.spotify.com/album/2fMXiDA8MFbC2Fi5klzmy1"
       },
       "artists": [
         {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+          "name": "Sagitario Musical",
+          "url": "https://open.spotify.com/artist/2xKp5BJZnK4EsPX7nzaR4L"
         }
       ],
-      "duration_ms": 132930,
-      "name": "30 Cartas",
-      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Pena Clavada",
-        "url": "https://open.spotify.com/album/6G5vT77S7CVspowXXQEetG"
-      },
-      "artists": [
-        {
-          "name": "Many Perez \u201cEl Canario\u201d",
-          "url": "https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq"
-        }
-      ],
-      "duration_ms": 169152,
-      "name": "Pena Clavada",
-      "url": "https://open.spotify.com/track/1OD4MgwfniF8fl8VAhomS7"
+      "duration_ms": 158979,
+      "name": "10 Km a Pie",
+      "url": "https://open.spotify.com/track/24hljzYwVOWnYOxC98mPhW"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1067,8 +1019,24 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+        "name": "Para Que Vuelves",
+        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 132930,
+      "name": "30 Cartas",
+      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
       "artists": [
         {
@@ -1076,9 +1044,41 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 144682,
-      "name": "Lo Que Empieza Acaba",
-      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+      "duration_ms": 199053,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Pena Clavada",
+        "url": "https://open.spotify.com/album/6G5vT77S7CVspowXXQEetG"
+      },
+      "artists": [
+        {
+          "name": "Many Perez \u201cEl Canario\u201d",
+          "url": "https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq"
+        }
+      ],
+      "duration_ms": 169152,
+      "name": "Pena Clavada",
+      "url": "https://open.spotify.com/track/1OD4MgwfniF8fl8VAhomS7"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "El Nike",
+        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 242850,
+      "name": "El Nike",
+      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Ni Te Vas Ni Me Voy",
-        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
-      },
-      "artists": [
-        {
-          "name": "La Mar-K De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
-        }
-      ],
-      "duration_ms": 196873,
-      "name": "Ni Te Vas Ni Me Voy",
-      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "El Nike",
-        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 242850,
-      "name": "El Nike",
-      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Arpacumbiando: Caliente, Caliente",
         "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 187746,
       "name": "Caliente Caliente",
       "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Ni Te Vas Ni Me Voy",
+        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "duration_ms": 196873,
+      "name": "Ni Te Vas Ni Me Voy",
+      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1179,38 +1163,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Por Qu\u00e9 Me Gustas",
-        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 221354,
-      "name": "5 Minutos",
-      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "El Baile de la Iguana (En Vivo)",
         "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
       },
@@ -1227,18 +1179,34 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Rolonononas Pa la Raza",
-        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
       "artists": [
         {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 177866,
-      "name": "El Albanil",
-      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
+      "duration_ms": 144682,
+      "name": "Lo Que Empieza Acaba",
+      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Por Qu\u00e9 Me Gustas",
+        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1259,18 +1227,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Exitos de La Victoria de Mexico: Volume 1",
-        "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
       },
       "artists": [
         {
-          "name": "La Victoria De Mexico",
-          "url": "https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0"
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1287,6 +1255,54 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Rolonononas Pa la Raza",
+        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
+      },
+      "artists": [
+        {
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "El Albanil",
+      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Exitos de La Victoria de Mexico: Volume 1",
+        "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
+      },
+      "artists": [
+        {
+          "name": "La Victoria De Mexico",
+          "url": "https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1323,22 +1339,6 @@
       "duration_ms": 313843,
       "name": "Si la Vida Me Pidieras",
       "url": "https://open.spotify.com/track/2mxrQW3HMnLz7eOmvo1lf6"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "La \u00daltima Vuelta",
         "url": "https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 175217,
       "name": "Frente A Frente",
       "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1615,38 +1615,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Mal Amor",
-        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Huaraches de Ara\u00f1a",
         "url": "https://open.spotify.com/album/67BXYWWXGlywtjEZC9wlNK"
       },
@@ -1659,6 +1627,22 @@
       "duration_ms": 189860,
       "name": "Huaraches de Ara\u00f1a",
       "url": "https://open.spotify.com/track/5OoVjESwJPNK4FNCcecBIH"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1679,6 +1663,22 @@
       "duration_ms": 251477,
       "name": "Lejos de Mi Patria",
       "url": "https://open.spotify.com/track/14uTATiAcs2w3pUMUS84Ks"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Mal Amor",
+        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
     },
     {
       "added_at": "2023-10-12 00:40:52",

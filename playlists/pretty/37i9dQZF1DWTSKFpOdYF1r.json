@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 945951,
+  "num_followers": 946044,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2M2ZWY1NjViOTU3MmNjMDNlYzkyODFiNmFkNGFkYTU2MjA3ZDFi",
+  "snapshot_id": "MCxhNDNjODM4NmZjYTljMTU2MTc5MjEzNTljNWVhZWE2MTk2NWI2OWUz",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Voices Carry (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
-      },
-      "artists": [
-        {
-          "name": "'Til Tuesday",
-          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Voices Carry",
-      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 302520,
       "name": "Take Me to the River - 2005 Remaster",
       "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Voices Carry (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
+      },
+      "artists": [
+        {
+          "name": "'Til Tuesday",
+          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Voices Carry",
+      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 229266,
       "name": "She Bop",
       "url": "https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "added_at": "2022-11-17 20:08:09",

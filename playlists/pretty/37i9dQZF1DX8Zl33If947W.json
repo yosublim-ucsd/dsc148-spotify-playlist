@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 152438,
+  "num_followers": 152488,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy",
+  "snapshot_id": "MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "\u00dcbermorgen",
+        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "\u00dcbermorgen",
+      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "\u00dcbermorgen",
-        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
-      },
-      "artists": [
-        {
-          "name": "Mark Forster",
-          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "\u00dcbermorgen",
-      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "F\u00fcr Immer",
         "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        },
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 207501,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Hollywood (Akustik Version)",
-        "url": "https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92"
+        "name": "Schwei\u00dfperlen",
+        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
       },
       "artists": [
         {
-          "name": "Benne",
-          "url": "https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc"
-        },
-        {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+          "name": "Klaus Lage",
+          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
         }
       ],
-      "duration_ms": 152378,
-      "name": "Hollywood - Akustik Version",
-      "url": "https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO"
+      "duration_ms": 200946,
+      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
+      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
     }
   ],
   "unique_name": "Liebeslieder",

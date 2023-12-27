@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Silica Gel\(실리카겔\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HANRORO\(한로로\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-554 songs - 1 day 10 hr 5 min
+555 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
 | [Haze](https://open.spotify.com/track/72QuyLICroWabN7X85pDSL) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Fever](https://open.spotify.com/album/7hANiZ9XFG3TJPptCPemFW) | 4:17 | 2023-08-17 | 2023-08-29 |
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-26 | 2023-02-11 |
-| [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/track/6MUXMpfPsIhEftomfUrBaD) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/album/4pUm7glXKf1SzTcfWbFAPw) | 3:28 | 2023-11-30 |  |
+| [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/track/6MUXMpfPsIhEftomfUrBaD) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/album/4pUm7glXKf1SzTcfWbFAPw) | 3:28 | 2023-11-30 | 2023-12-27 |
 | [Help \(Sunset Rollercoaster Remake\)](https://open.spotify.com/track/58C85JaneCTbZO0d9oQWEh) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Help \(Sunset Rollercoaster Remake\)](https://open.spotify.com/album/6agvtrq5ueMLJhJa5NiwKq) | 4:12 | 2022-04-12 | 2022-04-21 |
 | [Here I Am](https://open.spotify.com/track/1ICoFDPrfZJq0Q8x9PxWZV) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Here I Am](https://open.spotify.com/album/1PXRZirPD7AJSe05EwLe0s) | 4:01 | 2022-05-24 | 2022-06-26 |
 | [Hey Buddy](https://open.spotify.com/track/3M8wH1NBH8dwXtPA15a8kf) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Hey Buddy](https://open.spotify.com/album/2HDFYIbqGYdkTNEl0gPrn3) | 2:47 | 2022-06-13 | 2022-06-19 |
@@ -561,6 +561,7 @@
 | [잠에취해 Be drunk with sleep](https://open.spotify.com/track/22OJac3FekTtngEkmR4rCU) | [이브 EVE](https://open.spotify.com/artist/4ZC1J8g5z3x2M8MWimkZlH) | [잠에취해 Be drunk with sleep](https://open.spotify.com/album/45qYuV8MgIoVtV1GNM38T8) | 3:47 | 2022-05-03 | 2022-05-08 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-05-11 | 2022-07-15 |
 | [패러글라이딩 Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [패러글라이딩 Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 | 2023-11-10 | 2023-12-01 |
+| [하루살이 Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [하루살이 Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 | 2023-12-26 |  |
 | [호우주의보 It's Raining](https://open.spotify.com/track/1xFJjh9QEVlWuOqfcp6V8K) | [Radio Paradise](https://open.spotify.com/artist/7ClbINnpciDolca5cIxchE) | [호우주의보 It's Raining](https://open.spotify.com/album/1y3x7RNNB13iLDl7CV1WAQ) | 3:53 | 2022-05-24 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65816,
+  "num_followers": 65814,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx",
+  "snapshot_id": "MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "No Boundaries",
-        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
-      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "To Hrono Stamatao",
         "url": "https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180586,
       "name": "Shake It - Eurovision Version",
       "url": "https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "No Boundaries",
+        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
+      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
     },
     {
       "added_at": "2023-05-05 17:20:54",

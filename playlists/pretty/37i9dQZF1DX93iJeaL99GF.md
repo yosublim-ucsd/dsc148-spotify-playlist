@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,967 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,003 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
 | 2 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
-| 3 | [Tere Bin](https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:22 |
+| 3 | [Tere Bin](https://open.spotify.com/track/4ynrGpHy0cTZPRBJrhIHNP) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:22 |
 | 4 | [Paree](https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp) | 6:01 |
 | 5 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 |
 | 6 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Lokada Kalaji](https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 4:53 |
 | 40 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
 
-Snapshot ID: `MCxmN2JlNTZiODc0MjdhY2EyOTg5ZjIwYWQ2MGI0NDZhMDI1Y2I4OTQ5`
+Snapshot ID: `MCxiNjU2NjY1MWMxMjJmNTcxODg5MDlkYWFjNjk3ZWQ1NTFlNWM1ODli`

@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "God of Light Music",
+        "url": "https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91960,
+      "name": "God of Light Music",
+      "url": "https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
       },

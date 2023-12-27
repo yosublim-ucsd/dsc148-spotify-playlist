@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-91 songs - 4 hr 53 min
+92 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 | 2023-12-08 |  |
 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 | 2023-12-08 |  |
 | [La Bandera de la Libertad](https://open.spotify.com/track/2CIt4yfEZhOdPszvm2DjpW) | [Banda Jachís](https://open.spotify.com/artist/4SmWLsvGKAetIfP8PgKrPc) | [Intereses Creados](https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY) | 2:22 | 2023-12-08 |  |
+| [La Del Americano](https://open.spotify.com/track/0qwYMhEEDsCN8TjTE16oy2) | [The Eskarallas](https://open.spotify.com/artist/0s84kN7IxrvmkwLzpxOAqP), [Evaristo Paramos](https://open.spotify.com/artist/36kxb0yilw8i5xqhnZk2Vc) | [La Del Americano](https://open.spotify.com/album/3gPecnYyJOKS5NhXP01cXK) | 3:30 | 2023-12-21 |  |
 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 | 2023-12-08 |  |
 | [La Locura](https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace Falta...?](https://open.spotify.com/album/36inCQFaYW4STvviECaxUR) | 3:53 | 2023-12-08 |  |
 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 | 2023-12-08 |  |
@@ -77,7 +78,7 @@
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 |  |
 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 | 2023-12-08 |  |
-| [Perdona Amigo](https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL) | [The Birra's Terror](https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8) | [Perdona Amigo](https://open.spotify.com/album/7w5YvFaWTRNEUfSbMvhGIu) | 3:23 | 2023-12-08 |  |
+| [Perdona Amigo](https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL) | [The Birra's Terror](https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8) | [Perdona Amigo](https://open.spotify.com/album/7w5YvFaWTRNEUfSbMvhGIu) | 3:23 | 2023-12-08 | 2023-12-27 |
 | [Perdóname, Madre](https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Perdóname, Madre](https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV) | 4:06 | 2023-12-08 |  |
 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 | 2023-12-08 |  |
 | [Por Lo Visto](https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 3:14 | 2023-12-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,637 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,641 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 70 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
 | 71 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |
 
-Snapshot ID: `MCxlZWE5MDFhZTQyY2I5MDE5MDc3ZjQ3OWJkZTgzNDBlMzlhODM3OGMw`
+Snapshot ID: `MCxmY2Q4ODg4ZGQxM2FiYzFiZWFhZWE5YWUzYzhhODU1OTM4ZWNhYTA3`

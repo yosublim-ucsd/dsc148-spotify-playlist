@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Sorriso Eu Gosto Ao Vivo no Maracan\u00e3zinho",
+        "url": "https://open.spotify.com/album/3xQrJnXUzbGn4vfeZRmOug"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "1 Metro e 65 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yhtzzLeMc3t0LgtlZMgS8"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 194218,
       "name": "Pro Nosso Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27"

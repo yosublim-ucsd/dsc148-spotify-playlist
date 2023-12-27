@@ -4,12 +4,12 @@
 
 > n3xt l3v3l gaming beats.
 
-223 songs - 9 hr 2 min
+224 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Rounds](https://open.spotify.com/track/3hfGAbtOV4ans11A6c8wdi) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [For Real Tho](https://open.spotify.com/album/0DXvVv0k7XqxIfmYyEUTrm) | 3:04 | 2022-12-09 |  |
-| [50 Spokes](https://open.spotify.com/track/4ntUXTJulGoWLTvKmWGtee) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:00 | 2022-04-22 | 2023-11-17 |
+| [50 Spokes](https://open.spotify.com/track/4ntUXTJulGoWLTvKmWGtee) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:00 | 2022-04-22 |  |
 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-04-22 | 2023-01-11 |
 | [a higher power!](https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [u need a light?](https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P) | 2:56 | 2022-12-23 | 2023-12-09 |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-22 |  |
@@ -59,7 +59,7 @@
 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 | 2023-11-17 |  |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 |  |
 | [Empire](https://open.spotify.com/track/7yf1m8NM5zIr5VXIAVvhEv) | [Canola Dreams](https://open.spotify.com/artist/5Bm1cVeLBJNcGXfyAwhMQt) | [Empire](https://open.spotify.com/album/3uoE4uG6XV5fXQLIMi0YGB) | 2:26 | 2023-01-20 | 2023-10-29 |
-| [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 |  |
+| [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 | 2023-12-27 |
 | [Favorbook](https://open.spotify.com/track/3p8aZOtWjsg9QlhvCbOBxO) | [Hatchio](https://open.spotify.com/artist/2yJIW1Ej1HulMn17JJ4kaC) | [Meowmalade](https://open.spotify.com/album/3BPl9HBiCR2AWKTbQSS5bC) | 2:42 | 2022-04-22 | 2023-09-09 |
 | [Fern](https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Fern](https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC) | 2:03 | 2023-11-17 |  |
 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 | 2023-11-17 |  |
@@ -144,9 +144,10 @@
 | [On The Wall](https://open.spotify.com/track/3jnW3GdgCYBQ6PCaSY4wUC) | [Auto Smile](https://open.spotify.com/artist/3hcGTiuDVvU1UZiHECDyQP) | [On The Wall](https://open.spotify.com/album/0JHJWQGpFUY9OQE0cra2ju) | 2:07 | 2022-04-22 | 2023-09-09 |
 | [One Day Soon](https://open.spotify.com/track/0PvHzafa2I1vuVo2uwC7xq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [One Day Soon](https://open.spotify.com/album/0kGTLVRLQbPyu9DvDcK1bK) | 1:47 | 2022-04-22 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2022-04-22 |  |
+| [Overjoyed](https://open.spotify.com/track/45PnHB5hvvieNVYE5UnGKa) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Overjoyed](https://open.spotify.com/album/3GIwh9JOwT3dvcoWlc6uwR) | 2:00 | 2023-12-22 |  |
 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 | 2023-09-08 |  |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-22 |  |
-| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 |  |
+| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 | 2023-12-27 |
 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 | 2023-09-29 |  |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-22 |  |

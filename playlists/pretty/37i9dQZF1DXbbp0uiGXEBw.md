@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Những ca khúc EQUAL Vietnam nổi bật năm 2023\. Highlights of 2023, listen to women at full volume\. Ảnh bìa: Mỹ Tâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,597 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,629 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Em Là Coffee](https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Em Là Coffee](https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa) | 3:05 |
 | 50 | [Trú Mưa \- Rnb Version](https://open.spotify.com/track/1GvBZXrPj0ZUmhNB5OuUzD) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Trú Mưa \(Rnb Version\)](https://open.spotify.com/album/4nUvJ2LygXoTiwxpgJnzqT) | 2:40 |
 
-Snapshot ID: `MCwwZGJjMjg2MWNhMDY0ODJiMWE1MzU0NmRiZGY5ZWNjMTZhZmE4NzY0`
+Snapshot ID: `MCw3NWIxMjNjYzRkMmVmMDE0NDY5Yzg3YjNiOGNjYmYzOWM0Mzk2OGM5`

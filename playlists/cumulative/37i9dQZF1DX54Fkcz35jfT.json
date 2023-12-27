@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "THE FROGLETS",
+        "url": "https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s"
+      },
+      "artists": [
+        {
+          "name": "THE FROGLETS",
+          "url": "https://open.spotify.com/artist/31kWXrEdHomiyrPrZhoXhc"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150876,
+      "name": "breakout",
+      "url": "https://open.spotify.com/track/2p3oY7YCPiAr5EBtP6xFZc"
+    },
+    {
+      "album": {
         "name": "Breakout",
         "url": "https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 207425,
       "name": "Dive in Your Faith",
       "url": "https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 161416,
       "name": "Hyperhell",
       "url": "https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF"
@@ -1228,6 +1246,24 @@
       "duration_ms": 124719,
       "name": "I'M A RAT",
       "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+    },
+    {
+      "album": {
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
     },
     {
       "album": {
@@ -2360,7 +2396,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 192700,
       "name": "RIDE ON",
       "url": "https://open.spotify.com/track/0K6V6cHP8H7y7Ot8f6OUKq"
@@ -3140,6 +3176,24 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "These Magic Words",
+        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173279,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
     },
     {
       "album": {

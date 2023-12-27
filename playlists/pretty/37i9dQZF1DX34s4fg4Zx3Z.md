@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những ca khúc Fresh Finds Vietnam nổi bật năm 2023\. Ảnh bìa: Southalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,192 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,198 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 46 | [COOKIE CHIPS](https://open.spotify.com/track/2vmLo00Pj6iRv2PMhfNL2g) | [IndieK](https://open.spotify.com/artist/5G8ovEmWH243SKKJ0KSZj8) | [COOKIE CHIPS](https://open.spotify.com/album/2wxipwEfh0vC19LtgtMrAE) | 3:01 |
 | 47 | [Chẳng là gì của nhau](https://open.spotify.com/track/1NxkDoDujWSHdYLoK36T8n) | [KIMLONG](https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf) | [Chẳng là gì của nhau](https://open.spotify.com/album/3yZRHzIeSK6a3Yr0gsRTRZ) | 2:48 |
 | 48 | [I Belong To You](https://open.spotify.com/track/6XTkMDQvOFotgTpFqz4CJl) | [Shay N](https://open.spotify.com/artist/2EJzKiSKjtZlgzn7Ql0bsX), [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i) | [I Belong To You](https://open.spotify.com/album/1IRTBwTE6lCqy4JwIqRl33) | 3:55 |
-| 49 | [No Time 4 Flexin](https://open.spotify.com/track/6wXLmajEm9bXTYQZtEx74s) | [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F), [UYN](https://open.spotify.com/artist/7B221wMn0hUKAdVIhHFn3X), [Urabe](https://open.spotify.com/artist/2uCakPZuXrU9BRGBUWj9oo) | [No Time 4 Flexin](https://open.spotify.com/album/2ksUob5JWAJvbnaQHYNafq) | 2:17 |
+| 49 | [Notime4flexin](https://open.spotify.com/track/6wXLmajEm9bXTYQZtEx74s) | [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F), [UYN](https://open.spotify.com/artist/7B221wMn0hUKAdVIhHFn3X), [Urabe](https://open.spotify.com/artist/2uCakPZuXrU9BRGBUWj9oo) | [Notime4flexin](https://open.spotify.com/album/2ksUob5JWAJvbnaQHYNafq) | 2:17 |
 | 50 | [Trót Dại](https://open.spotify.com/track/5kobgOmuXOttS5wRIRKPzc) | [việt quất](https://open.spotify.com/artist/10zHjyUcMfFBuN5JKNGbzl), [Tien Do](https://open.spotify.com/artist/5XP93B9kYslrSXgmtzGURG), [vinh từ đức](https://open.spotify.com/artist/3621kCuquCzEMUOwdkM5xF), [Dtpie](https://open.spotify.com/artist/2rPxFrYbICzbPdj7ldvzCK), [shiba](https://open.spotify.com/artist/7bEsr9GgffyLoldNHfrABY), [Michael Hoang](https://open.spotify.com/artist/0LoLumWJwhRowOyLQ2o3CR) | [Trót Dại](https://open.spotify.com/album/0fsq667XfuWoDbeGD1FrWz) | 4:46 |
 | 51 | [Hạnh phúc tròn](https://open.spotify.com/track/1ZCCXfXl7FFeYMuMXm4bqn) | [Lang Tăng](https://open.spotify.com/artist/2IWMsFbcKo1eb4gtgCuOmV) | [HẠNH PHÚC TRÒN](https://open.spotify.com/album/2Xo823O8Hy7wGUFrQGc9m5) | 4:17 |
 | 52 | [Để Anh](https://open.spotify.com/track/6376OwaUHQe8Ah60nIt00c) | [LOKIE](https://open.spotify.com/artist/4tbEaBwF1NbxySTcFH7nwp) | [Để Anh](https://open.spotify.com/album/1Ewb5MBtlZ7PpKRznIdnUg) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [thôi tìm nhau](https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [Dilo](https://open.spotify.com/artist/73DHEx4KHoW8ThiVDrE5jG) | [thôi tìm nhau](https://open.spotify.com/album/3ws8ztJoDxZQsJ5YuDvxrq) | 2:39 |
 | 100 | [Sao Em Chưa Buông](https://open.spotify.com/track/0ExQQaiOT0449l5EcW1Y2O) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Nắng](https://open.spotify.com/album/4R1qXr7Wj0qu1JmlAdyqeh) | 5:01 |
 
-Snapshot ID: `MCw1M2Y1NDk4NTg0OTUxMDRlYjc1NDIwNzU4MWJkMmY1Njg0YWExZDgw`
+Snapshot ID: `MCw0YjUxNGU3N2Q0NmQ4MjRhODQwMWFjZTcyYjkzNDU5NDE4MjBmNDQ0`

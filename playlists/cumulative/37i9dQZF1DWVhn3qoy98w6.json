@@ -50694,10 +50694,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 167729,
       "name": "Sopa Agripicante",
       "url": "https://open.spotify.com/track/0DtH5PxzEbYs9uXDIvK2pE"
+    },
+    {
+      "album": {
+        "name": "Sopa Agripicante",
+        "url": "https://open.spotify.com/album/6Goenpvy9Yfh7ixT0VcJcd"
+      },
+      "artists": [
+        {
+          "name": "Mauri",
+          "url": "https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167729,
+      "name": "Sopa Agripicante",
+      "url": "https://open.spotify.com/track/4pgVmeCOfqHlg7s4lxldwY"
     },
     {
       "album": {

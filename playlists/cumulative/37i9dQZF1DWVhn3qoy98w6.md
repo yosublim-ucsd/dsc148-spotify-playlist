@@ -4,7 +4,7 @@
 
 > Las mejores canciones del año de Fresh Finds España\. Foto: stivijoes.
 
-3,189 songs - 6 day 22 hr 45 min
+3,190 songs - 6 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2671,7 +2671,8 @@
 | [Son mis amigos](https://open.spotify.com/track/3l6zGbE31RLI7n2bQbxz4R) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [Son mis amigos](https://open.spotify.com/album/16MhZSMAn5v66mw55v1CYI) | 2:53 | 2023-09-26 | 2023-10-04 |
 | [Sonnen Kraut](https://open.spotify.com/track/1EBM4ji5595byFhie1FG8e) | [Teana](https://open.spotify.com/artist/3ceUUedlLTXTSc4TcPpWxm) | [Sonnen Kraut](https://open.spotify.com/album/4VoXeAIGNplwgw9xPpp4nu) | 3:54 | 2022-05-11 | 2022-05-25 |
 | [Sonova](https://open.spotify.com/track/1LgjeVcbUgkATOE62J7rI5) | [Eximio](https://open.spotify.com/artist/2QccwnU2mUudZeObNBuXRS) | [Sonova](https://open.spotify.com/album/6IqiCryJ2o4I2Y3AH6Yn9q) | 2:19 | 2022-08-02 | 2022-08-25 |
-| [Sopa Agripicante](https://open.spotify.com/track/0DtH5PxzEbYs9uXDIvK2pE) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Sopa Agripicante](https://open.spotify.com/album/579XDxSy37jPriB1YjWWO0) | 2:47 | 2023-08-29 |  |
+| [Sopa Agripicante](https://open.spotify.com/track/0DtH5PxzEbYs9uXDIvK2pE) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Sopa Agripicante](https://open.spotify.com/album/579XDxSy37jPriB1YjWWO0) | 2:47 | 2023-08-29 | 2023-12-27 |
+| [Sopa Agripicante](https://open.spotify.com/track/4pgVmeCOfqHlg7s4lxldwY) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Sopa Agripicante](https://open.spotify.com/album/6Goenpvy9Yfh7ixT0VcJcd) | 2:47 | 2023-11-29 |  |
 | [Soportales](https://open.spotify.com/track/4y4bizZYGwEv913Hf8kMrA) | [DELPALO](https://open.spotify.com/artist/0ZHaWen1kQADn3PcoO0tz3) | [Soportales](https://open.spotify.com/album/083Izg9oDgzy35hHhqAhTO) | 2:54 | 2023-11-21 | 2023-11-30 |
 | [Sort de la Mama](https://open.spotify.com/track/0oE9eaJs25oU6DI0IxaqX4) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Sort de la Mama](https://open.spotify.com/album/6OrRDWKxgbgQzCGCdo6oDr) | 3:18 | 2022-05-03 | 2022-05-18 |
 | [Sota les dents](https://open.spotify.com/track/2JUcNO2VHPFQdwdAQrK3Hv) | [Clara Peya](https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Sota les dents](https://open.spotify.com/album/3ngbDi3llsjrDLNtyZrKmo) | 3:51 | 2023-06-06 | 2023-06-21 |

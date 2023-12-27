@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ガガガSP
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-692 songs - 1 day 13 hr 3 min
+694 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-10-04 |
 | [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 | 2023-11-08 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-11-16 |
-| [Better Left Unsaid](https://open.spotify.com/track/7htGPQWvAMFSbGwkh2UIVx) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/20Da1RKmes9labrfvYqkAP) | 3:26 | 2023-12-19 |  |
+| [Better Left Unsaid](https://open.spotify.com/track/7htGPQWvAMFSbGwkh2UIVx) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/20Da1RKmes9labrfvYqkAP) | 3:26 | 2023-12-19 | 2023-12-27 |
 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 | 2022-09-15 |
 | [Better Way](https://open.spotify.com/track/11MccDXhhW4MTKBOC0YC3t) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [Better Way](https://open.spotify.com/album/2pCbPUcGS6YRWGL3MJ5BWU) | 3:09 | 2022-05-17 | 2022-07-28 |
@@ -101,7 +101,7 @@
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
-| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 |  |
+| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 | 2023-12-27 |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-06-09 | 2023-06-28 |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-12-20 |
@@ -454,6 +454,7 @@
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
 | [The Sound Of Our Love](https://open.spotify.com/track/51VBY0UywtABoLmQVcexnu) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Father And Me](https://open.spotify.com/album/43nUn3KuZGmrkYRYMOCstZ) | 3:02 | 2023-08-15 | 2023-08-18 |
 | [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 | 2022-09-15 |
+| [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 | 2023-12-26 |  |
 | [Time goes on](https://open.spotify.com/track/78YAWfKE8BZKvWX1ZwGCPK) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:34 | 2022-06-07 | 2022-07-04 |
 | [Time Waits For No One](https://open.spotify.com/track/2S9rqwwSSQejxj0sNnGxf5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:23 | 2023-10-17 | 2023-10-25 |
 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 | 2023-10-24 |  |
@@ -475,6 +476,7 @@
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |
 | [Urakan.rana](https://open.spotify.com/track/0tqLtqLqRIPtKnnLOA8fSo) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Delicious!!](https://open.spotify.com/album/6T5ufASjVqhNKD5soGjTvQ) | 1:05 | 2022-11-01 | 2022-11-16 |
 | [USUAL THINGS](https://open.spotify.com/track/6tswheUnXPiqniiAEMa9o8) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [WRAINBOW](https://open.spotify.com/album/1A2wV5V15wivdfxrRkR4ZZ) | 2:55 | 2022-05-17 | 2022-07-24 |
+| [Uzu](https://open.spotify.com/track/3KWXWZe1VeRJScoCbstAxk) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [Uzu](https://open.spotify.com/album/3LTuVnJeZG3rXkGFC23J9k) | 2:56 | 2023-12-26 |  |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 |  |
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 | 2023-09-06 |

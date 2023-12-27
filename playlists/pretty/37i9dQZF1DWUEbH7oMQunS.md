@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,630 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,627 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 38 | [\* Consecrate \*](https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK) | [Parachute Band](https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk) | [Matins : Vespers](https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv) | 3:56 |
 | 39 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
 | 40 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
-| 41 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
-| 42 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
+| 41 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
+| 42 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
 | 43 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
 | 44 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 | 45 | [hold on \(alt\. version\)](https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 3:36 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 51 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
 | 52 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
 | 53 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |
-| 54 | [5am](https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET) | 4:42 |
+| 54 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 |
 | 55 | [wearing thin \(alt\. version\)](https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 2:52 |
-| 56 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 |
+| 56 | [5am](https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET) | 4:42 |
 | 57 | [Lord I need You](https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:59 |
 | 58 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 | 59 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 70 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
 | 71 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U), [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb) | 3:30 |
 | 72 | [Abba \- Live](https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 28 \(Live\)](https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0) | 6:31 |
-| 73 | [playing pretend](https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [playing pretend](https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ) | 3:56 |
-| 74 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 |
+| 73 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 |
+| 74 | [playing pretend](https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [playing pretend](https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ) | 3:56 |
 | 75 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
 | 76 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
 | 77 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
 | 100 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 
-Snapshot ID: `MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4`
+Snapshot ID: `MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4`

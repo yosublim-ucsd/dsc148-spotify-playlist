@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,554 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,691 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [إكشف](https://open.spotify.com/track/5VUx0VtxOY7NeM8j0WgBGN) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [إكشف](https://open.spotify.com/album/2XArlbaa3p0modU9dsoHYJ) | 3:32 |
 | 75 | [حزن آلي عالي](https://open.spotify.com/track/1FKEzdzSO9tLgzjJHthKDa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [الحقي يا ماما انا عملت البوم](https://open.spotify.com/album/000hIb2tyocg4DRtbPDj4P) | 2:27 |
 
-Snapshot ID: `MCxjYmYzMTFlMGM5ZWU5MzA4NmMzODNmYzQxYTZjNDJiOWE0MzIxNDFk`
+Snapshot ID: `MCwzNzNmMWVmNzRhNjBiNzM3ZTM3NjJhMDdlNjRjNmIzNTVlNGUzYTUz`

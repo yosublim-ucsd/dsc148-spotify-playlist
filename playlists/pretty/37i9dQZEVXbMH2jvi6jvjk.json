@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Africa.",
-  "num_followers": 41274,
+  "num_followers": 41327,
   "original_name": "Top 50 - South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU2ODY4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU2OTU1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Isimo",
         "url": "https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Dubula (feat. DJ Latimmy) [Remake]",
         "url": "https://open.spotify.com/album/2GCwUfk68pqbIHFnft452T"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1eOOCRtXcPwK8qG8VjtczJ"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
@@ -165,7 +165,59 @@
       "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Dalie (feat. Baby S.O.N)",
+        "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        }
+      ],
+      "duration_ms": 280424,
+      "name": "Dalie (feat. Baby S.O.N)",
+      "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Izenzo",
+        "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        }
+      ],
+      "duration_ms": 414966,
+      "name": "Izenzo",
+      "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Funk 55",
         "url": "https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb"
@@ -197,75 +249,7 @@
       "url": "https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Izenzo",
-        "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
-      },
-      "artists": [
-        {
-          "name": "Bassie",
-          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "T-Man SA",
-          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
-        }
-      ],
-      "duration_ms": 414966,
-      "name": "Izenzo",
-      "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Dalie (feat. Baby S.O.N)",
-        "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
-      },
-      "artists": [
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        },
-        {
-          "name": "Baby S.O.N",
-          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
-        }
-      ],
-      "duration_ms": 280424,
-      "name": "Dalie (feat. Baby S.O.N)",
-      "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Boroko Keng",
         "url": "https://open.spotify.com/album/6TBUy4v1qMRJINvnm8okUa"
@@ -293,7 +277,23 @@
       "url": "https://open.spotify.com/track/3oPYVnm0LsmAQ4RobrRS29"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "iMALI YE NTWANA",
         "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
@@ -317,39 +317,7 @@
       "url": "https://open.spotify.com/track/1ng4byy7mejezJ08hs4P7R"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "My Journey Continues",
         "url": "https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI"
@@ -377,23 +345,23 @@
       "url": "https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
@@ -429,7 +397,7 @@
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Ngilele E Hotel",
         "url": "https://open.spotify.com/album/2MfdD5QI4AJFZvXuouNTDS"
@@ -445,7 +413,115 @@
       "url": "https://open.spotify.com/track/5R9zmvswQj0SRJ1XM0yTzU"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Tiya Mfana (Mzokwana) [feat. Sims Noreng]",
+        "url": "https://open.spotify.com/album/1SanNmrk5X238BaIoeSH6E"
+      },
+      "artists": [
+        {
+          "name": "DJ Tshegu",
+          "url": "https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Sims Noreng",
+          "url": "https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Tiya Mfana (Mzokwana) [feat. Sims Noreng]",
+      "url": "https://open.spotify.com/track/6NC6bUY7tAIgr5xvzzZnBR"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "For Your Soul (Extended Edition)",
+        "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "duration_ms": 319369,
+      "name": "Tjina",
+      "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c"
@@ -473,95 +549,7 @@
       "url": "https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Tiya Mfana (Mzokwana) [feat. Sims Noreng]",
-        "url": "https://open.spotify.com/album/1SanNmrk5X238BaIoeSH6E"
-      },
-      "artists": [
-        {
-          "name": "DJ Tshegu",
-          "url": "https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Sims Noreng",
-          "url": "https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Tiya Mfana (Mzokwana) [feat. Sims Noreng]",
-      "url": "https://open.spotify.com/track/6NC6bUY7tAIgr5xvzzZnBR"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Yes God (feat. Dearson) [M\u00f6rda, Thakzin, Mhaw Keys Remix]",
         "url": "https://open.spotify.com/album/6Qw2MocHk45fM2lTVViDdO"
@@ -581,51 +569,7 @@
       "url": "https://open.spotify.com/track/4i2Dz0USzHqcOTrP0y79V9"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "For Your Soul (Extended Edition)",
-        "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
-      },
-      "artists": [
-        {
-          "name": "Megadrumz",
-          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
-        },
-        {
-          "name": "Lady Du",
-          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
-        }
-      ],
-      "duration_ms": 319369,
-      "name": "Tjina",
-      "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Yini Ngathi",
-        "url": "https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W"
-      },
-      "artists": [
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Keynote",
-          "url": "https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE"
-        }
-      ],
-      "duration_ms": 347148,
-      "name": "Yini Ngathi (Insane)",
-      "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
@@ -649,23 +593,23 @@
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
@@ -689,7 +633,111 @@
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
+        "url": "https://open.spotify.com/album/4vsbkjnE2AWQ0tz0EqZCGA"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Philharmonic",
+          "url": "https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb"
+        }
+      ],
+      "duration_ms": 433397,
+      "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/06QKSv9bjUYLEUdRpuaGeQ"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Yini Ngathi",
+        "url": "https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Keynote",
+          "url": "https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE"
+        }
+      ],
+      "duration_ms": 347148,
+      "name": "Yini Ngathi (Insane)",
+      "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Ngibambeni",
+        "url": "https://open.spotify.com/album/6jO63bGMq9IABgrGk546mK"
+      },
+      "artists": [
+        {
+          "name": "YANII",
+          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
+        },
+        {
+          "name": "Mxolisi Khumalo",
+          "url": "https://open.spotify.com/artist/0rxvBhHvTVAhWTjcytJKz8"
+        }
+      ],
+      "duration_ms": 228647,
+      "name": "Ngibambeni",
+      "url": "https://open.spotify.com/track/1g7hu7KMV5woMx6xfi1C6p"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
         "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
@@ -721,27 +769,7 @@
       "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Ngibambeni",
-        "url": "https://open.spotify.com/album/6jO63bGMq9IABgrGk546mK"
-      },
-      "artists": [
-        {
-          "name": "YANII",
-          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
-        },
-        {
-          "name": "Mxolisi Khumalo",
-          "url": "https://open.spotify.com/artist/0rxvBhHvTVAhWTjcytJKz8"
-        }
-      ],
-      "duration_ms": 228647,
-      "name": "Ngibambeni",
-      "url": "https://open.spotify.com/track/1g7hu7KMV5woMx6xfi1C6p"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
@@ -757,83 +785,35 @@
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+        "name": "Ok'salayo",
+        "url": "https://open.spotify.com/album/3f2zfeEgbvOZyXy8mbvb9B"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
-        "url": "https://open.spotify.com/album/4vsbkjnE2AWQ0tz0EqZCGA"
-      },
-      "artists": [
-        {
-          "name": "Nandipha808",
-          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+          "name": "Lindough",
+          "url": "https://open.spotify.com/artist/4iSfsv6oMPj3nKKYlsAKWa"
         },
         {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+          "name": "DJ Active",
+          "url": "https://open.spotify.com/artist/77LX9LG2ln7k7VKMLCWlow"
         },
         {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+          "name": "Freddie Gwala",
+          "url": "https://open.spotify.com/artist/1FWavVWfFqZJWP9oOba4J9"
         },
         {
-          "name": "Philharmonic",
-          "url": "https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb"
+          "name": "Kingshort",
+          "url": "https://open.spotify.com/artist/4xLUQfKWER4vPizyflTvuS"
         }
       ],
-      "duration_ms": 433397,
-      "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/06QKSv9bjUYLEUdRpuaGeQ"
+      "duration_ms": 307913,
+      "name": "Ok'salayo",
+      "url": "https://open.spotify.com/track/5B3JWkzaEumPyWXGyDcuGQ"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Imizwa",
-        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 260488,
-      "name": "Eyami",
-      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
@@ -849,7 +829,23 @@
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
@@ -865,7 +861,23 @@
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 260488,
+      "name": "Eyami",
+      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "iMALI YE NTWANA",
         "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
@@ -889,7 +901,7 @@
       "url": "https://open.spotify.com/track/1djewwWkOaJGFtPaQc2MU6"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "The Konka Mixtape : Sweet & Dust",
         "url": "https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f"
@@ -925,35 +937,27 @@
       "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Ok'salayo",
-        "url": "https://open.spotify.com/album/3f2zfeEgbvOZyXy8mbvb9B"
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
       },
       "artists": [
         {
-          "name": "Lindough",
-          "url": "https://open.spotify.com/artist/4iSfsv6oMPj3nKKYlsAKWa"
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
         },
         {
-          "name": "DJ Active",
-          "url": "https://open.spotify.com/artist/77LX9LG2ln7k7VKMLCWlow"
-        },
-        {
-          "name": "Freddie Gwala",
-          "url": "https://open.spotify.com/artist/1FWavVWfFqZJWP9oOba4J9"
-        },
-        {
-          "name": "Kingshort",
-          "url": "https://open.spotify.com/artist/4xLUQfKWER4vPizyflTvuS"
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
         }
       ],
-      "duration_ms": 307913,
-      "name": "Ok'salayo",
-      "url": "https://open.spotify.com/track/5B3JWkzaEumPyWXGyDcuGQ"
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "The Chosen",
         "url": "https://open.spotify.com/album/3dTMymfEGc14ZZT0FFTkhV"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/6lrKA1DMAihPI490Oj0twC"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Sleigh Ride",
         "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
@@ -997,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
@@ -1013,7 +1017,35 @@
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
+      "album": {
+        "name": "Makhelwane",
+        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Casswell P",
+          "url": "https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8"
+        }
+      ],
+      "duration_ms": 285202,
+      "name": "Makhelwane (feat. Casswell P)",
+      "url": "https://open.spotify.com/track/3BraTCQg9APnWRC7HQZyOJ"
+    },
+    {
+      "added_at": "2023-12-26 09:08:25",
       "album": {
         "name": "Twerka",
         "url": "https://open.spotify.com/album/506jPS8tNKYl5REb2gVVcS"
@@ -1037,96 +1069,92 @@
       "url": "https://open.spotify.com/track/2ZN6OQlu5FR5fBEv5lf6gH"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Uyangijabulisa",
-        "url": "https://open.spotify.com/album/3XXRYAuCaRajUqnvWhWKBp"
+        "name": "My Turn (Livumile)",
+        "url": "https://open.spotify.com/album/241qHrDEwWMEhG7hbjrPbp"
       },
       "artists": [
         {
-          "name": "Fezeka Dlamini",
-          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+          "name": "Dj Jaivane",
+          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
         },
         {
-          "name": "Nomfundo Moh",
-          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         },
         {
-          "name": "Naledi",
-          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
+          "name": "Skandisoul",
+          "url": "https://open.spotify.com/artist/5BylS0DlB7413vwmIlyrUr"
         }
       ],
-      "duration_ms": 288052,
-      "name": "Uyangijabulisa",
-      "url": "https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ"
+      "duration_ms": 347245,
+      "name": "Ulala Kanjani (feat. LeeMckrazy & Skandisoul)",
+      "url": "https://open.spotify.com/track/6bFD28m0wxDX6CpzTKKCnT"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Ka Valungu",
-        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
+        "name": "NINI na NINI",
+        "url": "https://open.spotify.com/album/0R4G8NI4IjNRcqqrCBRUCr"
       },
       "artists": [
         {
-          "name": "Tebza De DJ",
-          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
         },
         {
-          "name": "DJ Nomza The King",
-          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         }
       ],
-      "duration_ms": 300302,
-      "name": "Ka Valungu",
-      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/1CrwpdodnkXcjPSrg8kw9g"
     },
     {
-      "added_at": "2023-12-25 08:54:53",
+      "added_at": "2023-12-26 09:08:25",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+        "name": "Bhebha 2.0 (feat. Bepa, Double D, Jazzy Avenue)",
+        "url": "https://open.spotify.com/album/3dnMx9nXhJ0oloVB8jGydu"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Tskay",
+          "url": "https://open.spotify.com/artist/1DSSY6nF8Y22sSmQW8lSIM"
         },
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Omaan",
+          "url": "https://open.spotify.com/artist/4iDX2CuUKSmk3t1QXVksxA"
+        },
+        {
+          "name": "Ocean Biller",
+          "url": "https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9"
+        },
+        {
+          "name": "Bepa",
+          "url": "https://open.spotify.com/artist/1MbEbzobxWfhwH22l05eXb"
+        },
+        {
+          "name": "Double D",
+          "url": "https://open.spotify.com/artist/4xkDuKUkDST3ESliFCdcDy"
+        },
+        {
+          "name": "Jazzy Avenue",
+          "url": "https://open.spotify.com/artist/3rv7ln4sXTpazZvVPx6Nk6"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
-    },
-    {
-      "added_at": "2023-12-25 08:54:53",
-      "album": {
-        "name": "Maye Maye (feat. Azana, Stixx)",
-        "url": "https://open.spotify.com/album/3oQrTJwdG81Kvwijs4Dcvh"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
-        },
-        {
-          "name": "Azana",
-          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
-        },
-        {
-          "name": "Stixx",
-          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
-        }
-      ],
-      "duration_ms": 450326,
-      "name": "Maye Maye (feat. Azana, Stixx)",
-      "url": "https://open.spotify.com/track/710qLZ4WOxBj7ZaVbVJtkh"
+      "duration_ms": 385800,
+      "name": "Bhebha 2.0 (feat. Bepa, Double D, Jazzy Avenue)",
+      "url": "https://open.spotify.com/track/3CbmyeFC71dnrv4DjlEohj"
     }
   ],
   "unique_name": "Top 50 - South Africa",

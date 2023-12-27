@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 142741,
       "name": "BABY CHAOS",
       "url": "https://open.spotify.com/track/6ufv6uhkSARQyDDtglYpj9"
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "album": {
         "name": "Biscuit",
         "url": "https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 204881,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV"
@@ -316,6 +334,28 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K"
+    },
+    {
+      "album": {
+        "name": "YELLOW NOTE",
+        "url": "https://open.spotify.com/album/3T5uunEVFcYhl4uqKSxyUV"
+      },
+      "artists": [
+        {
+          "name": "Jin Akanishi",
+          "url": "https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "dame un beso",
+      "url": "https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ"
     },
     {
       "album": {
@@ -424,7 +464,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -464,7 +504,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
@@ -638,7 +678,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
@@ -856,10 +896,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 210400,
       "name": "OMG (FRNK Remix)",
       "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
+    },
+    {
+      "album": {
+        "name": "[VillainS]",
+        "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176570,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
     },
     {
       "album": {
@@ -932,7 +990,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 184053,
       "name": "Purple Dawn",
       "url": "https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop"
@@ -986,7 +1044,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
@@ -1026,10 +1084,46 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 184436,
       "name": "So I Don't Forget",
       "url": "https://open.spotify.com/track/2M2ghHSmrQrIJxAA8ElptH"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ar (Breaker)",
+        "url": "https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
+    },
+    {
+      "album": {
+        "name": "Proxima",
+        "url": "https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz"
+      },
+      "artists": [
+        {
+          "name": "TAN",
+          "url": "https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Starlight \u301c\u541b\u306b\u5c4a\u304f\u307e\u3067...\u301c",
+      "url": "https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz"
     },
     {
       "album": {

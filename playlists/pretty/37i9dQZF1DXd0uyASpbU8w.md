@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=4fWBNvCeQ0KUa6nGXyFiew">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,749 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,798 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Dimensions](https://open.spotify.com/track/1BHcOPUTFF6OeUc0Bj784I) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Dimensions](https://open.spotify.com/album/5KwQZwPafRzJ0KPbqsOaxq) | 7:09 |
 | 49 | [signals](https://open.spotify.com/track/2KkFGmGPr2NoyjkkASr6dJ) | [nfm](https://open.spotify.com/artist/1ZWhckfap0w59YjkXTxkim) | [signals](https://open.spotify.com/album/11KYAa6N9NY4GEMrEYaDoi) | 3:45 |
 
-Snapshot ID: `MCw1Mjk4MjI1MWU3ODcwMjlkZjc2ZmFlNzgzZjFhMzM5NTY2ODRlN2Jk`
+Snapshot ID: `MCw0MWJmNDQ2MDc3ODAxMzhlZDRjYWEwNTEyOTQxN2QyMjFhYWE4NjZi`

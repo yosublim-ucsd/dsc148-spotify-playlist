@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,475 likes - 102 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,685 likes - 102 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 101 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 | 102 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 |
 
-Snapshot ID: `MCw5YTJmMjg0NWEzMWYxNTY4MjYwYTk3MzM3NTZjOTA2ZGI3YTRjNmIx`
+Snapshot ID: `MCxiMDdiMjhjNDkwODg2MzZjYThiYzA2ZGEyMGI5ODgyNzg3NmEyNzM2`

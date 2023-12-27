@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Bharat Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,037 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,087 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 13 | [Baagh Aayore](https://open.spotify.com/track/0wRxv8Im3QgtlWRAhdNQEn) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Baagh Aayore](https://open.spotify.com/album/7vTgy0D3sbZVB56Im6yv3X) | 4:28 |
 | 14 | [Jaise Mein Chaahun](https://open.spotify.com/track/2UxqmUsEvSJfOiwgspj03d) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Jaise Mein Chaahun](https://open.spotify.com/album/2k4nJGu6QVuIq36zPERj6I) | 2:46 |
 | 15 | [Khoya](https://open.spotify.com/track/0mX8gWZVROtRhvvPCUuU9p) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Khoya](https://open.spotify.com/album/1muvyAJFzCtX07v6QPHTvj) | 3:10 |
-| 16 | [Teri Meri Baatein](https://open.spotify.com/track/6TrlQk9TsIEPTNA6PbHRsY) | [Kaushal Hastwala](https://open.spotify.com/artist/1ATh9xw9uzlNkjgLVNMXKW), [Niharika](https://open.spotify.com/artist/3cjLqukS0xbyt43QiaFbop) | [Teri Meri Baatein](https://open.spotify.com/album/4x1h4giUwhhW0PhDkv3F4b) | 3:42 |
+| 16 | [Teri Meri Baatein](https://open.spotify.com/track/6TrlQk9TsIEPTNA6PbHRsY) | [Kaushal Hastwala](https://open.spotify.com/artist/1ATh9xw9uzlNkjgLVNMXKW), [Niharika](https://open.spotify.com/artist/6mx11Pg8xpXruQyEDMHaXI) | [Teri Meri Baatein](https://open.spotify.com/album/4x1h4giUwhhW0PhDkv3F4b) | 3:42 |
 | 17 | [Sajda Karaan](https://open.spotify.com/track/25yA3k7cBNDqejRJUun4Qe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Sajda Karaan](https://open.spotify.com/album/7qwVYqNUkUX6eq5UBkVzp3) | 3:40 |
 | 18 | [Hosh Na Raha](https://open.spotify.com/track/3cioL4K2HFHlCfOTGhkv2g) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Hosh Na Raha](https://open.spotify.com/album/0v1xkdfLWpR10wlieHbvMz) | 2:48 |
 | 19 | [Barbaad](https://open.spotify.com/track/63vqn1STGPk3GMH5QTwTyp) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Barbaad](https://open.spotify.com/album/2xxqc1HGYP2fi5nx3YMM7R) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [O Piya](https://open.spotify.com/track/1KkRWq9CYNSiE6bRlmlHFB) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [O Piya](https://open.spotify.com/album/3BG5oKUAYWvOY9PxS1B9WS) | 2:52 |
 | 50 | [Tera Ho Gaya](https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Tera Ho Gaya](https://open.spotify.com/album/2E6IlsJetcFPCCtqxLLCJs) | 2:58 |
 
-Snapshot ID: `MCw0NjkzMzMwNzgzZDU1OTBkYjljYjExOWQyZjVhZWU0YjdmMmZjMDNi`
+Snapshot ID: `MCw5ZDZlNjRiYzMyNTg4YTc5YWY5YWY0NWFiNjA3NWI4ZTkxYmQ3MWVh`

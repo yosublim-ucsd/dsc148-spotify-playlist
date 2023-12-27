@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 791735,
+  "num_followers": 792040,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI2M2U1MjQ3YTZmZDFlNWUxNTRhMDc5NjcyYTMzMDkyYTkyMTEz",
+  "snapshot_id": "MCw3MTM1ZmZhMWFlMzgxODU1Mzc5ODhhMDAyOWUzMzI5OGUyNjFiNjU2",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 200960,
       "name": "Andar com f\u00e9",
       "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Palavras No Corpo",
-        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 242054,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Palavras No Corpo",
+        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 242054,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 176562,
+      "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        }
-      ],
-      "duration_ms": 176562,
-      "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 200045,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2023-11-24 15:08:43",

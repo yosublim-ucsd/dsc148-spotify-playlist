@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
-  "num_followers": 179493,
+  "num_followers": 179510,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTZmNzM5MTVmNzgwYmMyZjMxZTdmNWI2MWE1ODZmMDEwNDliMDUx",
+  "snapshot_id": "MCw5NmQ1YmIwY2JkMWZiNmUyMjBkYzFmMWJkYzJiMWZhNDg1YTRiODVh",
   "tracks": [
     {
       "added_at": "2023-12-23 00:03:38",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Los Rayos",
         "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 239040,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "C\u00f3mo Eran las Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Un Bossa +",
         "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "C\u00f3mo Eran las Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Rezo Por Vos - Live",
+      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "Ojitos de Md",
         "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 288200,
-      "name": "Rezo Por Vos - Live",
-      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -763,22 +779,6 @@
       "duration_ms": 262978,
       "name": "La Pibita",
       "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "El Ruise\u00f1or, el Amor y la Muerte",
         "url": "https://open.spotify.com/album/18XJ0o0XkXC6K9OZTilVfN"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 171573,
       "name": "El Callej\u00f3n de los Milagros",
       "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Besos, Lim\u00f3n y Miel",
-        "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 227739,
-      "name": "Besos, Lim\u00f3n y Miel",
-      "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
         "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Besos, Lim\u00f3n y Miel",
+        "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 227739,
+      "name": "Besos, Lim\u00f3n y Miel",
+      "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1007,38 +1039,6 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Tan Solo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Fanky - Live",
+      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 267866,
-      "name": "Fanky - Live",
-      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+      "duration_ms": 232263,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 232263,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 198500,
       "name": "Como vos - En vivo",
       "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 208289,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
-      },
-      "artists": [
-        {
-          "name": "Joaco Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z"
-        }
-      ],
-      "duration_ms": 203805,
-      "name": "Bajo el Sol",
-      "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Tributo A Los Fabulosos Cadillacs",
         "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
+      },
+      "artists": [
+        {
+          "name": "Joaco Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z"
+        }
+      ],
+      "duration_ms": 203805,
+      "name": "Bajo el Sol",
+      "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
     },
     {
       "added_at": "2023-12-23 00:03:38",

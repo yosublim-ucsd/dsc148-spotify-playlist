@@ -2874,10 +2874,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 242020,
       "name": "Mayabee",
       "url": "https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5"
+    },
+    {
+      "album": {
+        "name": "Mayabee",
+        "url": "https://open.spotify.com/album/3Oc8bW5CC7dTBrp7jW1Xau"
+      },
+      "artists": [
+        {
+          "name": "Blue Touch",
+          "url": "https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242020,
+      "name": "Mayabee",
+      "url": "https://open.spotify.com/track/697L56blyFsXn3NKxkpiWN"
     },
     {
       "album": {
@@ -4234,10 +4252,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 473271,
       "name": "Punorjonmo",
       "url": "https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP"
+    },
+    {
+      "album": {
+        "name": "Punorjonmo",
+        "url": "https://open.spotify.com/album/4QFW6z1FaExTAhwoiDkg7r"
+      },
+      "artists": [
+        {
+          "name": "Chondropith",
+          "url": "https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473271,
+      "name": "Punorjonmo",
+      "url": "https://open.spotify.com/track/48wo8JVnTkD1pmLzrSpXRM"
     },
     {
       "album": {

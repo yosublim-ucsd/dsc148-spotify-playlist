@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Daler Mehndi
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,167 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,225 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 18 | [Bheegi Bheegi Raton Mein](https://open.spotify.com/track/7FyF8fsgmBJKWmcS44NHkL) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bheegi Bheegi Raton Mein..\. Kabhi To Nazar Milao](https://open.spotify.com/album/1LSw0BW73NEJICMFaYFmCR) | 5:58 |
 | 19 | [Koyi Jo Mila Toh Mujeh Aisa Lagata Tha](https://open.spotify.com/track/3Uy8cbGXOrZRCR6YGdPBrr) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Breathless](https://open.spotify.com/album/4jQCpF7PQfcIjZY3omeXZq) | 3:05 |
 | 20 | [Yaaron](https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 4:32 |
-| 21 | [Bulla Ki Jana](https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:17 |
+| 21 | [Bulla Ki Jana](https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:17 |
 | 22 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
 | 23 | [Paree](https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp) | 6:01 |
 | 24 | [Kangna](https://open.spotify.com/track/1C5e7ZRscn79tjMEc3swc7) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Master Rakesh](https://open.spotify.com/artist/7KeHqlOZHTwKhGAT8qrQ8L), [Shortie](https://open.spotify.com/artist/2yIbh3ljfJvWJw5VPj2n6t), [Deepti](https://open.spotify.com/artist/7oa1NaHIJ7PtRzPbObT37j) | [Unda Da Influence](https://open.spotify.com/album/7e5hMuXIJOrJY75lwR6hGg) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 49 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 |
 | 50 | [Kesariya](https://open.spotify.com/track/1Fnu318mRG7yLmBRuzFlFn) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Talaash](https://open.spotify.com/album/5E8DaR5beMXgSB7431Q3U8) | 4:06 |
 
-Snapshot ID: `MCw4ZjA3ZmJkOTdmNjU0ZTE4MjJkMGU4ZDViZWI5ZDBkNGU5Nzk5NDlh`
+Snapshot ID: `MCw0ZjAwODY1NmJmZjVkODM0NjE4YjQ3ZTE0NDEyYTBkOGJkN2M4OGU2`

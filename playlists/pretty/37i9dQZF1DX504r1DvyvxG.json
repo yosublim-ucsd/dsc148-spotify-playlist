@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2662454,
+  "num_followers": 2662559,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTVjMDBjOWUwYWMzMjZhOGU4MjQ2MDYwZjk3YzI5N2Q1OTViOTdi",
+  "snapshot_id": "MCwxMzUwNTExMjYyODEzMTk3NjlmOGM3NWFkZTE5MjY0YzQzZmFjMGFj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Simple Dreams",
         "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 239399,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "San Francisco Days",
-        "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "San Francisco Days",
-      "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
         "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Kick Inside (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
+        "name": "San Francisco Days",
+        "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 268933,
-      "name": "Wuthering Heights - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+      "duration_ms": 178973,
+      "name": "San Francisco Days",
+      "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Odetta Sings",
-        "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
+        "name": "The Kick Inside (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
       },
       "artists": [
         {
-          "name": "Odetta",
-          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 234530,
-      "name": "Hit Or Miss",
-      "url": "https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i"
+      "duration_ms": 268933,
+      "name": "Wuthering Heights - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 244226,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Odetta Sings",
+        "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "duration_ms": 234530,
+      "name": "Hit Or Miss",
+      "url": "https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i"
     },
     {
       "added_at": "2023-03-31 04:00:00",

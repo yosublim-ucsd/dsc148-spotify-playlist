@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-44 songs - 2 hr 59 min
+46 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,13 @@
 | [O Sheth \(Dj Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(Dj Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 | 2023-07-04 |  |
 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 | 2023-07-04 |  |
 | [Patil Aala](https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO) | 3:57 | 2023-07-04 |  |
-| [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 | 2023-07-04 |  |
+| [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 | 2023-07-04 | 2023-12-27 |
+| [Payee Fufata](https://open.spotify.com/track/7AvfiB7Paq388ecxkoq5Mf) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/0V3pWtGPwy18JU8pTHXs8w) | 4:06 | 2023-12-20 |  |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-07-04 |  |
 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 | 2023-07-04 |  |
 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 | 2023-07-04 |  |
-| [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 | 2023-07-04 |  |
+| [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 | 2023-07-04 | 2023-12-27 |
+| [Raja Aala](https://open.spotify.com/track/5KgfY2vMoHk26aGvchrr7Q) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Pawankhind](https://open.spotify.com/album/7B7Cjeyo1aavjnCb27LlpU) | 4:20 | 2023-12-20 |  |
 | [Shantabai DJ](https://open.spotify.com/track/0M5gBsIFBf6rPPmJqVmKhn) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/6ooQ4tSG8uoUB1x7cXsxBs) | 2:59 | 2023-12-20 |  |
 | [Shantabai DJ](https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1) | 2:59 | 2023-07-04 | 2023-12-26 |
 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 | 2023-07-04 |  |

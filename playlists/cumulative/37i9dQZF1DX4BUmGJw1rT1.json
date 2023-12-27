@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs"
+      },
+      "artists": [
+        {
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224221,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh"
       },
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 290502,
       "name": "Hear My Prayer",
       "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 172801,
       "name": "Hold On (Joy Is Coming)",
       "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"

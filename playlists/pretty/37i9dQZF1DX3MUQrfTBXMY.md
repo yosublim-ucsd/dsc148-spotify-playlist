@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,208 likes - 95 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,268 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 2 | [Proticchobi](https://open.spotify.com/track/1cO5oG1LoTyimmlKT30pS2) | [BAGDHARA](https://open.spotify.com/artist/7uiRC0NlNdHQKVhjTztgrg) | [Proticchobi](https://open.spotify.com/album/7Bcv366EbFAYTOm3xky9rD) | 5:22 |
 | 3 | [Srotoshinni](https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Chinnho](https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM) | 4:23 |
 | 4 | [Ghum \(Official\)](https://open.spotify.com/track/18xxOCfmxqBD5YgTFpzp5d) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Ghum \(Official\)](https://open.spotify.com/album/5NXiZMrsbAyswRpt369KJm) | 3:49 |
-| 5 | [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 |
-| 6 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 |
+| 5 | [Mayabee](https://open.spotify.com/track/697L56blyFsXn3NKxkpiWN) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/3Oc8bW5CC7dTBrp7jW1Xau) | 4:02 |
+| 6 | [Punorjonmo](https://open.spotify.com/track/48wo8JVnTkD1pmLzrSpXRM) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/4QFW6z1FaExTAhwoiDkg7r) | 7:53 |
 | 7 | [Rajahin Rajjo](https://open.spotify.com/track/2KKyBaB1weipFn0ztjUIzM) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Gorbo Bangladesh](https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO) | 3:30 |
 | 8 | [Kodom](https://open.spotify.com/track/2Dsmn1xssJpbEM4LeRJbhI) | [Blue Jeans](https://open.spotify.com/artist/7LNEwdMBXgeD4BeyaPW7JA) | [Bondhu](https://open.spotify.com/album/0JM0r6T23O3dQOxxZsbhZh) | 4:07 |
 | 9 | [Ei Obelay](https://open.spotify.com/track/5ibdXIQq154EYy4IbSZEKx) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 5:41 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCwxZGI5YzU0Y2Y5NDI1ODk0MjdiMDE1MDQ5YTg1Y2I0ODc5YTliNDk0`
+Snapshot ID: `MCxiZWJhNzYxYTY2NTQ4MGE2YThlNTQxZjUzNDNlN2FjODM4MzYwMTUw`

@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3739735,
+  "num_followers": 3740757,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjc0NGNkNGZkMDljOGQyZjZlNjcyMjlmNDM2MmY3MjRkYTI0ZDIy",
+  "snapshot_id": "MCw5ZTJmYjI4MGU1ZTM0NTRkNGRkZWM2NWI5Y2QzY2JhNGYxNDhkYWI1",
   "tracks": [
     {
       "added_at": "2023-11-15 15:46:28",
@@ -59,6 +59,22 @@
       "duration_ms": 108750,
       "name": "MR. TAKE YA B*TCH (FEAT. CHRISEANROCK)",
       "url": "https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb"
+    },
+    {
+      "added_at": "2023-12-26 16:53:40",
+      "album": {
+        "name": "Bad Feeling (Oompa Loompa)",
+        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 133754,
+      "name": "Bad Feeling (Oompa Loompa)",
+      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
     },
     {
       "added_at": "2023-11-15 15:46:28",
@@ -123,6 +139,22 @@
       "duration_ms": 253076,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
+    },
+    {
+      "added_at": "2023-12-26 16:53:40",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": "2023-12-08 14:05:55",
@@ -1043,22 +1075,6 @@
     {
       "added_at": "2023-11-15 15:46:28",
       "album": {
-        "name": "Five Nights at Freddy's (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/01KywY7C5p1Vv2BNyKci34"
-      },
-      "artists": [
-        {
-          "name": "The Newton Brothers",
-          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
-        }
-      ],
-      "duration_ms": 136021,
-      "name": "Five Nights at Freddy's",
-      "url": "https://open.spotify.com/track/0DdYEWziPqBCMFniUUEF0G"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
         "name": "Wake Up in the Sky",
         "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
       },
@@ -1417,22 +1433,6 @@
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
-      "added_at": "2023-11-17 18:16:21",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
-    },
-    {
       "added_at": "2023-11-15 15:46:28",
       "album": {
         "name": "Smooth Operator",
@@ -1483,22 +1483,6 @@
       "duration_ms": 144489,
       "name": "BIRTHDAY DANCE",
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2023-11-15 15:46:28",
@@ -1649,26 +1633,6 @@
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
-    },
-    {
       "added_at": "2023-11-28 17:19:51",
       "album": {
         "name": "House Of Balloons (Original)",
@@ -1699,26 +1663,6 @@
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 339890,
-      "name": "Margaret (feat. Bleachers)",
-      "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
     },
     {
       "added_at": "2023-11-15 15:46:28",
@@ -1819,22 +1763,6 @@
     {
       "added_at": "2023-11-15 15:46:28",
       "album": {
-        "name": "Wassup Gway",
-        "url": "https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY"
-      },
-      "artists": [
-        {
-          "name": "Famous Sally & YB",
-          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
-        }
-      ],
-      "duration_ms": 144961,
-      "name": "Wassup Gway",
-      "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
       },
@@ -1879,26 +1807,6 @@
       "duration_ms": 177226,
       "name": "RUNNING OUT OF TIME",
       "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "Self Esteem (featuring NLE Choppa)",
-        "url": "https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Self Esteem (featuring NLE Choppa)",
-      "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
     },
     {
       "added_at": "2023-11-15 15:46:28",
@@ -2051,38 +1959,6 @@
     {
       "added_at": "2023-11-15 15:46:28",
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "LIFE IN HELL",
-        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "LANCEY OR LANCEY",
-      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
         "name": "Her Love Still Haunts Me Like a Ghost",
         "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
@@ -2095,22 +1971,6 @@
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2023-11-15 15:46:28",
@@ -2143,42 +2003,6 @@
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
-    },
-    {
-      "added_at": "2023-11-15 15:46:28",
-      "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 124065,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
     }
   ],
   "unique_name": "big on the internet",

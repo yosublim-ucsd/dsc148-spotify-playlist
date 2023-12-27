@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Walls & Bruses",
-  "num_followers": 283502,
+  "num_followers": 283521,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTRkZDEwOWJmZTA4ODc0MmRjYzNjOTIxZTZiZmNiN2M5OThhMWUy",
+  "snapshot_id": "MCxhOTgwNWJjMzA2NDk2ZWU0OGNlNzUxYWMxYzMwMzA2ZmM2MjBiYzQ3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tajada",
         "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 206429,
       "name": "Tajada",
       "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Su\u00e9ltate el pelo",
-        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Su\u00e9ltate el pelo",
-      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Su\u00e9ltate el pelo",
+        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Su\u00e9ltate el pelo",
+      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
     },
     {
       "added_at": "2023-12-15 05:00:00",

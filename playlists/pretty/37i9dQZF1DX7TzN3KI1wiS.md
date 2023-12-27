@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,189 likes - 123 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,249 likes - 123 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 122 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 123 | [Izegbe](https://open.spotify.com/track/6ljQPw3QcfwNishetIByR6) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Izegbe](https://open.spotify.com/album/7tdtrRYNSdkl4P8pWw0ZhP) | 2:31 |
 
-Snapshot ID: `MCxkYjVjZWJkZDkwZjUzZWNkMjFlMTAyMmViN2UzNDU3NGYyMzI1ODUz`
+Snapshot ID: `MCw2MGY5N2QxZGVlOGYwZmNhNjVlZTM0YzY2ZDE5NDE5ODM4NTZkYjBj`

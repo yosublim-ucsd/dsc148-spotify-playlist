@@ -1,12 +1,12 @@
 {
   "description": "Don't use these shoes to run, they just look nice for the playlist cover. Use real running shoes, please.",
-  "num_followers": 605895,
+  "num_followers": 606002,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ5MDBiZDM4YmM0MjgxMGQ5NmFkYTY2MWJmNDU5MWQyNTY0NDJm",
+  "snapshot_id": "MCxkOTRjYWFmODVlYzNkZmQ5NmQ3MDk5MjFlYTFkYmU4M2VmYTYwNDg3",
   "tracks": [
     {
       "added_at": "2023-12-13 22:13:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Little Sister",
-      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Good Morning Revival",
         "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "My God Is the Sun",
-      "url": "https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237573,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "My God Is the Sun",
+      "url": "https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+        "name": "Club Majesty",
+        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
       },
       "artists": [
         {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Streetcar",
-      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
+      "duration_ms": 168333,
+      "name": "Fireman & Dancer",
+      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Club Majesty",
-        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
       "artists": [
         {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Fireman & Dancer",
-      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
+      "duration_ms": 216893,
+      "name": "Streetcar",
+      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
     },
     {
       "added_at": "2023-12-13 22:13:25",

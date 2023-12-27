@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 233000,
+  "num_followers": 233059,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi",
+  "snapshot_id": "MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Un beso",
-        "url": "https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 242974,
-      "name": "Un beso",
-      "url": "https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "De Cuba a Per\u00fa",
         "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 295543,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Un beso",
+        "url": "https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 242974,
+      "name": "Un beso",
+      "url": "https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Fiestas de Cuba (Remasterizado)",
-        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alfonso y su Dan Den",
-          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
-      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Latino 56 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
         "url": "https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 302706,
       "name": "Dale Lo Que Lleva (with Maykel Fonts)",
       "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Fiestas de Cuba (Remasterizado)",
+        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alfonso y su Dan Den",
+          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
+      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
     },
     {
       "added_at": "2022-12-30 18:20:45",

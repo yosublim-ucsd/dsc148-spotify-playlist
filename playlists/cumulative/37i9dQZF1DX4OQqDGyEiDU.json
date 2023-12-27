@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 197812,
       "name": "Angel 92",
       "url": "https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 136965,
       "name": "BUTASANDER",
       "url": "https://open.spotify.com/track/6Qkh2aWAs6PC3f1F5R9klt"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 262270,
       "name": "Deus Ex Machina",
       "url": "https://open.spotify.com/track/31osVCqEZptHs7gtTY8TNY"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 159085,
       "name": "Hug",
       "url": "https://open.spotify.com/track/7pJNL5QQBYY7D3pD4HL9Wn"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 119500,
       "name": "May I fold down my seat,Grandma?",
       "url": "https://open.spotify.com/track/0n879xEufV4tlbrVaO5spT"
@@ -2180,6 +2180,24 @@
       "duration_ms": 235669,
       "name": "NEXT NEST",
       "url": "https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me"
+    },
+    {
+      "album": {
+        "name": "Noda",
+        "url": "https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177485,
+      "name": "Noda",
+      "url": "https://open.spotify.com/track/2mcfjrstoB777JtRmYYsds"
     },
     {
       "album": {
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 195822,
       "name": "TONDEMO-WONDERZ",
       "url": "https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 236068,
       "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
       "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
@@ -4774,6 +4792,36 @@
       "duration_ms": 262148,
       "name": "\u30ab\u30ed\u30f3",
       "url": "https://open.spotify.com/track/22i5qp0gfjxdrNzcHjxzyZ"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
+        "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195757,
+      "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
     },
     {
       "album": {
@@ -6476,7 +6524,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 247111,
       "name": "\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv"
@@ -6914,6 +6962,24 @@
       "duration_ms": 165750,
       "name": "\u30dc\u30cb\u30fc&\u30af\u30e9\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud"
     },
     {
       "album": {
@@ -7982,7 +8048,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"

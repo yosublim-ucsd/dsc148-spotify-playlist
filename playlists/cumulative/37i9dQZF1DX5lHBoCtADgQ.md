@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-83 songs - 5 hr 10 min
+84 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 | 2022-11-09 |  |
 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 | 2022-07-16 |  |
 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 | 2021-11-03 | 2022-07-29 |
-| [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 |  |
+| [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 | 2023-12-27 |
+| [Kale Rang Da Paranda](https://open.spotify.com/track/43eyn0fagFpmqT2Lb01oIP) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/5TKwqChkc5O0oErH2SPazL) | 2:22 | 2023-12-21 |  |
 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 | 2021-11-03 |  |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 | 2021-11-03 | 2022-07-29 |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/750iSHcA6T5zZMC0jvpJrN) | 3:56 | 2022-07-16 |  |

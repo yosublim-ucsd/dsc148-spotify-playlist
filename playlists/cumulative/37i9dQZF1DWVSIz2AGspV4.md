@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف :ياسر عبدالوهاب
 
-260 songs - 15 hr 9 min
+261 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 | 2023-02-09 |
 | [Bakeni](https://open.spotify.com/track/5b0xHD3oaK3CfnMuiZzSAi) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [Bakeni](https://open.spotify.com/album/6pev4hGsRKRL86rTf4UTDx) | 2:58 | 2021-12-23 | 2022-01-21 |
 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 | 2022-05-20 | 2022-11-21 |
+| [Bas Anti 7Elwah](https://open.spotify.com/track/2VJDUOnPYZpSV2Yyin0sww) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Husam Al\-Majed](https://open.spotify.com/artist/49n1zV0bM3vt9WnCcu2CPC) | [Bas Anti 7Elwah](https://open.spotify.com/album/13AdTKBzFuRDMWiGKlbMJw) | 2:33 | 2023-12-26 |  |
 | [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 | 2023-06-19 |
 | [Bent Qalbak](https://open.spotify.com/track/35jlqZFszcA1otazUjkzXL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Bent Qalbak](https://open.spotify.com/album/0cPHtDdJjrWNFHIO4yJOMi) | 3:28 | 2023-03-16 | 2023-09-30 |
 | [Bi Kobor Heznak Farhty](https://open.spotify.com/track/55snHuyVXL1X8j714WvR9d) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Bi Kobor Heznak Farhty](https://open.spotify.com/album/6kiJlPgbF5wnLQ2gAzxoyt) | 2:48 | 2022-02-25 | 2022-07-20 |

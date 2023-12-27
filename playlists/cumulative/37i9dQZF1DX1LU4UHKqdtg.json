@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 226173,
       "name": "Broken Melodies - JVKE Remix",
       "url": "https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh"
@@ -9080,7 +9080,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 167040,
       "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
       "url": "https://open.spotify.com/track/4JRjQE4sXKgOFURvvetuXi"
@@ -10905,6 +10905,24 @@
     },
     {
       "album": {
+        "name": "20&2 - The 9th Album",
+        "url": "https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/4Vawz7UCdavhRW1OxovN4a"
+    },
+    {
+      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn"
       },
@@ -12494,6 +12512,24 @@
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "album": {
+        "name": "Proxima",
+        "url": "https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz"
+      },
+      "artists": [
+        {
+          "name": "TAN",
+          "url": "https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Starlight \u301c\u541b\u306b\u5c4a\u304f\u307e\u3067...\u301c",
+      "url": "https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz"
     },
     {
       "album": {

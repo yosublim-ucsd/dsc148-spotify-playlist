@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RhNDE5NDk1MTIzOTkwYjBjZDVlZjA3YzUwOTVjNTgzZTcwZTJh",
+  "snapshot_id": "MCw4M2ViNGE2ZTI0NGE4MjM4OTkyZmVlYTM3MTIxMDk2YTk4Yzg1MWVh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "88GLAM2",
+        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "Lil Boat",
+      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "88GLAM2",
-        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Lil Boat",
-      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "4Milli",
+        "url": "https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "duration_ms": 180748,
+      "name": "Live Up to My Name",
+      "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "88GLAM RELOADED",
         "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 185316,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "4Milli",
-        "url": "https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        }
-      ],
-      "duration_ms": 180748,
-      "name": "Live Up to My Name",
-      "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Pizzazz",
+      "url": "https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Rastar",
         "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI"
-      },
-      "artists": [
-        {
-          "name": "Akintoye",
-          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Pizzazz",
-      "url": "https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Trust Your Gut",
         "url": "https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -919,22 +935,6 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Different Route",
         "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 128000,
       "name": "Go There",
       "url": "https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 221596,
       "name": "No Favours",
       "url": "https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2023-12-15 05:01:00",

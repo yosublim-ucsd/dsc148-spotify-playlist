@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-372 songs - 10 hr 53 min
+374 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Nap](https://open.spotify.com/track/604Nji4PqTq7mNPx0WaU4S) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [The Stars Above](https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD) | 1:54 | 2023-12-08 | 2023-12-10 |
 | [A Love That Will Last](https://open.spotify.com/track/4eSCKpTdNPFfSSkhnMIUWp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Tender & Warm](https://open.spotify.com/album/2sr8kWxtONn63DJbJY2cr8) | 1:54 | 2023-12-08 |  |
 | [A Lullaby For You](https://open.spotify.com/track/6ikTfvUW93A4cGcc29mGGh) | [Joye Alva](https://open.spotify.com/artist/6nHVQzchKkSXKeYLXUOGmC) | [A Lullaby For You](https://open.spotify.com/album/4U1UEsV9wYbWSt3AUF8KTj) | 1:37 | 2023-12-08 |  |
+| [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/2jYAYd7zgB1sOqrjewxci8) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 | 2023-12-22 |  |
 | [A Night Waltz](https://open.spotify.com/track/5TgdtclY6JlS9TdUknm9Ts) | [Lanny Peck](https://open.spotify.com/artist/02tsxaTHlK3q64g9iSXaSq) | [A Night Waltz](https://open.spotify.com/album/64KEI59TFeyzxSUXRulhJ5) | 1:05 | 2023-12-08 |  |
 | [A Thousand Hugs](https://open.spotify.com/track/4H4nia1p93hZibEj7OSa5i) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [A Thousand Hugs](https://open.spotify.com/album/0hbtVKhFPDk92IZ3z5AQ1M) | 1:24 | 2023-12-08 |  |
 | [Above The Clouds](https://open.spotify.com/track/7zBP4WKqmlTCUQqWDXlkXf) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Moon And The Stars](https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE) | 1:41 | 2023-12-08 |  |
@@ -19,7 +20,7 @@
 | [Ahora somos tres](https://open.spotify.com/track/6iQGdd7rRvZFlkZxzNH5dh) | [Emelina Moreno](https://open.spotify.com/artist/2Ab8GKO7SbR91GngNUdC6O) | [Ahora somos tres](https://open.spotify.com/album/2LH0nRYDLQxAG12Z8EDn7B) | 1:32 | 2023-12-08 |  |
 | [All Play Together](https://open.spotify.com/track/7qZuIl30PWANdOxm5N4RM6) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Sweet Dreams](https://open.spotify.com/album/7q58dn3TLHvIabps0aCByV) | 1:40 | 2023-12-08 |  |
 | [All Should Slumber, For It's Night](https://open.spotify.com/track/5OnTw768T4KCIZjMCAqoR4) | [Milo Creek](https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF) | [All Should Slumber, For It's Night](https://open.spotify.com/album/31sIzZNgiRmqgqiHLMZaCT) | 1:28 | 2023-12-08 |  |
-| [All The Joy You Bring](https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [All The Joy You Bring](https://open.spotify.com/album/0R13b9eCSz4j2znqTspjfI) | 1:49 | 2023-12-08 |  |
+| [All The Joy You Bring](https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [All The Joy You Bring](https://open.spotify.com/album/0R13b9eCSz4j2znqTspjfI) | 1:49 | 2023-12-08 | 2023-12-27 |
 | [All Tucked In](https://open.spotify.com/track/7uLeBpnkz8lHR2gaCXy1lZ) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [The Stars Above](https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD) | 2:15 | 2023-12-08 |  |
 | [All Your Wishes](https://open.spotify.com/track/6T1eys7bL5Z7naeyxdi35u) | [Marlene Soeren](https://open.spotify.com/artist/7lhwZYEpTqsoU0I1mFg1iv) | [All Your Wishes](https://open.spotify.com/album/6YLpaB4BVr63PpkJScmnty) | 1:33 | 2023-12-08 |  |
 | [Always By your Side](https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [Always By Your Side](https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO) | 1:37 | 2023-12-08 |  |
@@ -121,6 +122,7 @@
 | [Good Night Sweet Heart](https://open.spotify.com/track/6NGuoiLCwktnwC62Q48vP7) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:57 | 2023-12-08 |  |
 | [Goodnight Already](https://open.spotify.com/track/19FaaBATMkInVrmtwIltiX) | [Olivia Boward](https://open.spotify.com/artist/5qlZWNHgu2oBOjY6hSvfOe) | [Goodnight Already](https://open.spotify.com/album/0frkQxmXColuJe1YUvmgx1) | 2:02 | 2023-12-08 |  |
 | [Goodnight Little Penguin](https://open.spotify.com/track/46zeIyJjxkhu1OivXx3FyJ) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Goodnight Little Penguin](https://open.spotify.com/album/5Z9bsR2MHuzrrvEX4K4KIc) | 1:48 | 2023-12-08 |  |
+| [Goodnight Mister Bunny](https://open.spotify.com/track/2pKx9SJpSZ8QsiO1cUyx2x) | [Snuggly Sam](https://open.spotify.com/artist/4dHH33lP1VpapQUfpMaZkX) | [Goodnight Mister Bunny](https://open.spotify.com/album/78ZwqVG3QImiPmk7HN8aH3) | 1:56 | 2023-12-22 |  |
 | [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 | 2023-12-08 |  |
 | [Grandma's Lullaby](https://open.spotify.com/track/1xJuVKQ3DURGaNKDUCm3WS) | [Mio Moi](https://open.spotify.com/artist/6RQl4S8pqVOU10Su7Y1R0o) | [Grandma's Lullaby](https://open.spotify.com/album/17zuWwQ4oOYPBh6IXTXtSZ) | 1:53 | 2023-12-08 | 2023-12-10 |
 | [Group Hug](https://open.spotify.com/track/26EokHosQnMaElrnE2MJf0) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:16 | 2023-12-08 |  |
@@ -140,7 +142,7 @@
 | [Hold Your Hand](https://open.spotify.com/track/3E2XQBhF15JCXjEmDiLpD3) | [Jenifer Layne](https://open.spotify.com/artist/33hBOxkn6uwTrhH5UMZ812) | [Hold Your Hand](https://open.spotify.com/album/4AvJ6gRSv0K4x3eQzFt58O) | 2:11 | 2023-12-08 |  |
 | [How Big I Can Be](https://open.spotify.com/track/588UhdDUFWbKmNUMUXnp4Y) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [How Big I Can Be](https://open.spotify.com/album/0wvBnlYgEEiMuiwlGmUlJA) | 1:26 | 2023-12-08 |  |
 | [How to Catch a Star](https://open.spotify.com/track/2ODvQsWsSIyVbYnIxU52ng) | [Gus Holley](https://open.spotify.com/artist/3HY0QaaJZYvuIeZ6lmKzcM) | [How to Catch a Star](https://open.spotify.com/album/4lzH3KsEo76eAngPQ5b26q) | 1:59 | 2023-12-08 |  |
-| [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 | 2023-12-08 |  |
+| [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 | 2023-12-08 | 2023-12-27 |
 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 | 2023-12-08 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 | 2023-12-08 |  |
 | [Hush Hush](https://open.spotify.com/track/4QOY64QuYpwPdWq3443dSM) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Hush Hush](https://open.spotify.com/album/3kgKC0ucg4dd5QufW7LQmq) | 2:13 | 2023-12-08 |  |

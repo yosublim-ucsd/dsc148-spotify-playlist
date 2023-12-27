@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-386 songs - 20 hr 32 min
+387 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Flight 643 \- KAAZE Remix](https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Flight 643 \(KAAZE Remix\)](https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV) | 2:39 | 2023-12-21 |  |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2022-04-14 |  |
 | [Follow Me](https://open.spotify.com/track/5CCoCTMHmpTZSZa8THlRZN) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Follow Me](https://open.spotify.com/album/5VgSUSOi7Negq9NQt4ILGy) | 3:06 | 2022-04-14 | 2022-04-28 |
-| [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-10-27 |  |
+| [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-10-27 | 2023-12-27 |
 | [Forever Alive](https://open.spotify.com/track/1yFuObxGNWiCFzHNcZOJt1) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive](https://open.spotify.com/album/3snb4hL3dBpX81UsoKjFUX) | 3:01 | 2022-04-14 | 2022-10-28 |
 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 | 2022-04-14 | 2023-08-12 |
 | [Founding Fathers](https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Founding Fathers](https://open.spotify.com/album/38J3tt4rEVpjQxqGIVhg5J) | 3:09 | 2022-04-14 | 2022-07-30 |
@@ -141,6 +141,7 @@
 | [Greece 2021](https://open.spotify.com/track/1KtasGfNyxrf9xmANm8lYs) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Greece 2021](https://open.spotify.com/album/3RBDiTNxMfORg1PAcCn4XK) | 3:24 | 2022-04-14 | 2022-07-29 |
 | [Groundhog Day](https://open.spotify.com/track/4ohfz5QiuClwYLf1fEt2QM) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [God Save the Rave](https://open.spotify.com/album/1gJBY42LTHtG7e4bLUi9uV) | 2:53 | 2022-04-14 | 2022-04-21 |
 | [Guns Out](https://open.spotify.com/track/1rPu3XMTv9MzAbo0xt32yS) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Guns Out](https://open.spotify.com/album/2r6AVVjpLBM3HdpA6lahkS) | 3:19 | 2023-08-24 | 2023-10-06 |
+| [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 | 2023-12-21 |  |
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-08-31 | 2023-12-14 |
 | [Happy Revolution](https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Happy Revolution](https://open.spotify.com/album/6qSGivtT6c6VqXtXNjoeuL) | 2:52 | 2022-04-14 | 2022-07-26 |
 | [HARD](https://open.spotify.com/track/4tuWS8iuaCr0o7rH81bVIo) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [HARD](https://open.spotify.com/album/4pzInYiRaiDt8v7N5pRohl) | 3:40 | 2022-12-27 | 2023-01-03 |

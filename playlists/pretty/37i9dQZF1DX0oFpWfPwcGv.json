@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 57821,
+  "num_followers": 57849,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzkzMTgzYTNlYjcxM2VkMzQ1YjgzNzI5OGQwNTJhM2E1NmM5Nzkw",
+  "snapshot_id": "MCw5NzI0NDEzYjU3NTJhMWE0MmNlMmUyNDcyMWE2ODA1MDFkMDMwNTZi",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Changing Of The Gard",
-        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
-      },
-      "artists": [
-        {
-          "name": "Stargard",
-          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Wear It Out",
-      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Inner Life",
         "url": "https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 479573,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "The Changing Of The Gard",
+        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
+      },
+      "artists": [
+        {
+          "name": "Stargard",
+          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Wear It Out",
+      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
       "added_at": "2023-09-18 17:33:17",

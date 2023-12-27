@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-303 songs - 18 hr 53 min
+304 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Oye Mujer](https://open.spotify.com/track/4VfaEEDnND0teufHLPDRnk) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Oye Mujer](https://open.spotify.com/album/2QLiInGx5KwVPpK8XdxW68) | 4:12 | 2022-07-05 | 2022-07-28 |
 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 | 2022-07-05 |  |
 | [Oye Tu Lamento](https://open.spotify.com/track/4YvpQTz05YJUiPr7gpDETG) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Oye Tu Lamento](https://open.spotify.com/album/5KyIk4zpwBD3KDyhQjRVz7) | 4:32 | 2022-07-05 | 2022-07-20 |
+| [Paisaje](https://open.spotify.com/track/5kTBOyDZXWayo6IseCHIk8) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 4:24 | 2023-12-22 |  |
 | [Paisaje](https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 4:24 | 2022-07-05 | 2023-03-10 |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/5MarqoT4wE5uNITGuEZams) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/6VANTf2CMQHLbGdxtvaXKN) | 3:01 | 2022-07-05 | 2022-07-29 |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 | 2022-07-05 | 2023-10-18 |
@@ -298,7 +299,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 | 2022-07-05 |  |
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-05 |  |
 | [Vuelvo A Sentir](https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6) | 5:26 | 2022-07-05 | 2022-07-24 |
-| [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 | 2022-07-05 |  |
+| [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 | 2022-07-05 | 2023-12-27 |
 | [Y la Hice Llorar](https://open.spotify.com/track/7Aul3N0gviz9Q0gXAcGKf8) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Y la Hice Llorar](https://open.spotify.com/album/6E8wHparIMGYhYEUQbM5GK) | 3:17 | 2022-07-05 | 2022-07-29 |
 | [Y Que de Mi](https://open.spotify.com/track/6EkSLJB9j7yUMwFbj0mgGB) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Y Que de Mi](https://open.spotify.com/album/10hWrm8QfhoNQDiFOWSjDf) | 4:20 | 2023-07-07 | 2023-08-19 |
 | [Y Qué Pasó...?](https://open.spotify.com/track/2yVGDR9w1srAuQAuUjEShj) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Y Qué Pasó...?](https://open.spotify.com/album/7EqQOkGNKYxdqRzEYzYk8X) | 4:13 | 2022-07-05 | 2022-07-28 |

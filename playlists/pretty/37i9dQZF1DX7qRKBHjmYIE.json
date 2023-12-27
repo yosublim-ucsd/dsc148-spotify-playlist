@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 761167,
+  "num_followers": 761168,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGM2NDIxNjBhNDM3ZTA4YWE5ZWJjM2EyZGQyMWE0OTlmOTBiM2Fh",
+  "snapshot_id": "MCw4MTA4N2JlOTc3MDc5OGIxOGM4YzFiYmRhZjE2OGViNjg2YWYwZDZj",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "M\u00edralo",
         "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Woke Up Dis Morning",
-        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 177021,
-      "name": "Woke Up Dis Morning",
-      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Gualero REFF12.31",
         "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201626,
       "name": "Gualero REFF12.31",
       "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Woke Up Dis Morning",
+        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 177021,
+      "name": "Woke Up Dis Morning",
+      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Tu Camisa",
         "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Siempre Tendr\u00e9 Mi Voz",
-        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "No me siento vivo",
         "url": "https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 187924,
       "name": "Atardeceres",
       "url": "https://open.spotify.com/track/2RCtEkbuEmcyft4OhKTxnA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     },
     {
       "added_at": "2023-12-15 05:00:00",

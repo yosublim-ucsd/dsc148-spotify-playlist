@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > Highlights of 2023, tracks of 2023 in Beats & Rhymes playlist \(Cover: J\-Hope\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,624 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,626 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 74 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 |
 | 75 | [Wake Up Call](https://open.spotify.com/track/1cuV4c3phVhyBDqh0N811c) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:02 |
 
-Snapshot ID: `MCwwNjI1ZGQyYWJlODM1ZDk2ZDM5MGJhYjZhMjZhNmFlZGNjOTM2Njlh`
+Snapshot ID: `MCxmZmZlYWQxZjQ3NTNiNzQ4ZDVhOGYyMDJlOTZkM2M4MzdjZDBjOGRk`

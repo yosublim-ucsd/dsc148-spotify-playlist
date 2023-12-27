@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,529 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,592 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 30 | [Things We Do for Love](https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Uk Garage Beats V4](https://open.spotify.com/album/0IhOfm65ovw4xuw8XXsef3) | 3:31 |
 | 31 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
 | 32 | [Envy \(They Don't Know Vocal Remix\)](https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:48 |
-| 33 | [Woman Trouble \- Remix](https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7) | 7:03 |
-| 34 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
+| 33 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
+| 34 | [Woman Trouble \- Remix](https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7) | 7:03 |
 | 35 | [Masterblaster 2000 \- Oracles Remix](https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 5:32 |
 | 36 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
 | 37 | [Let's Groove](https://open.spotify.com/track/7qzNY9IQpo3jqKEYk1FlRz) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/2enCzQLkCOWI8VOLxPE86p) | 6:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 | 75 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 
-Snapshot ID: `MCxkYjQzNTE0NmZmMDI0YzhkOGZlMGI1N2UzYmZhNmMwODYwMzZkMDIw`
+Snapshot ID: `MCw2YTE4ODYxZmFlMmVhNjhmYTcwNWVlY2FmMmM0OTI1OGY3ZmU3YWE4`

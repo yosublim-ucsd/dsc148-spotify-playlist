@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 268387,
+  "num_followers": 268535,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmE5NWQ5MTNhM2JlNTYyOTViNGMyOTM3MTk2NGQwYjcxMDc3OTFj",
+  "snapshot_id": "MCwxNDcyMjJhYmRmYzAwMjUxMTRlOWNkMTI3YTIyODFiZmNlZTlmNGZh",
   "tracks": [
     {
       "added_at": "2023-12-19 14:33:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 320773,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "If I Ruled The World: Songs For The Jet Set",
-        "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "The Very Thought Of You (Expanded Edition)",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228693,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "If I Ruled The World: Songs For The Jet Set",
+        "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 104773,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
         "name": "Carmen McRae For Lovers",
         "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 172933,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 178960,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "More Of The Great",
-        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 255480,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 150720,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "More Of The Great",
+        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 255480,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Mr. Top Hat",
         "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 264880,
       "name": "Let's Call The Whole Thing Off",
       "url": "https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "You Are Free",
-        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189866,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "You Are Free",
+        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "Presenting Ethel Waters",
-        "url": "https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z"
-      },
-      "artists": [
-        {
-          "name": "Ethel Waters",
-          "url": "https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Baby, What Else Can I Do?",
-      "url": "https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
-        "name": "On the Sunny Side of the Street",
-        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
-      },
-      "artists": [
-        {
-          "name": "Helen Forrest",
-          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
-        }
-      ],
-      "duration_ms": 142866,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1635,6 +1603,22 @@
       "duration_ms": 337706,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "Presenting Ethel Waters",
+        "url": "https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z"
+      },
+      "artists": [
+        {
+          "name": "Ethel Waters",
+          "url": "https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Baby, What Else Can I Do?",
+      "url": "https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1655,6 +1639,22 @@
       "duration_ms": 362693,
       "name": "Dedicated to You - Remastered 2003",
       "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "On the Sunny Side of the Street",
+        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
+      },
+      "artists": [
+        {
+          "name": "Helen Forrest",
+          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
+        }
+      ],
+      "duration_ms": 142866,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
     },
     {
       "added_at": "2023-12-19 14:33:40",

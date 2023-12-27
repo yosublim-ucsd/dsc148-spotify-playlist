@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3879,
+  "num_followers": 3878,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzgwMmQwMTNhYjQxMmQ2NTM2MmQwOGQzNjYwNGQ1YWNlZjY3NWFl",
+  "snapshot_id": "MCxlZWNhYjc4ZWJlYmY2MDEwMTM3MTIyNWZlMjk3MGIyZjJlMjkzODdm",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Provocante",
+      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Il \u00e9tait une fois",
         "url": "https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 245840,
       "name": "Il \u00e9tait une fois",
       "url": "https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Provocante",
-      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le soleil et la mer",
-        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Le matin",
-      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "D\u00e9bloquer",
         "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Le soleil et la mer",
+        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Le matin",
+      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Cosmologie",
         "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 198666,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soif",
-        "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
-      },
-      "artists": [
-        {
-          "name": "L'Isle",
-          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
-        }
-      ],
-      "duration_ms": 203534,
-      "name": "Tous les corps",
-      "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1295,6 +1279,22 @@
       "duration_ms": 145617,
       "name": "AUDEMARS",
       "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soif",
+        "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
+      },
+      "artists": [
+        {
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+        }
+      ],
+      "duration_ms": 203534,
+      "name": "Tous les corps",
+      "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tiamat, Mon Amour",
         "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 245640,
       "name": "40h semaine",
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 240010,
+      "name": "Nimueshtaten nete",
+      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 240010,
-      "name": "Nimueshtaten nete",
-      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "La clairi\u00e8re",
         "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 190500,
       "name": "Mon petit chemin",
       "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fr\u00e9quence violence",
-        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
-      },
-      "artists": [
-        {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Cristaux liquides",
-      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Prince Limonade",
         "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 345249,
       "name": "Entre tes doigts",
       "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Fr\u00e9quence violence",
+        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
+      },
+      "artists": [
+        {
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Cristaux liquides",
+      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
         "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 151253,
       "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
       "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Anh\u00e9donie",
-        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
-      },
-      "artists": [
-        {
-          "name": "Pierre Guitard",
-          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
-        }
-      ],
-      "duration_ms": 342280,
-      "name": "Pourtant",
-      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "duration_ms": 342280,
+      "name": "Pourtant",
+      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pas l'temps d'niaiser",
-        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+        "name": "Bad Vibrations",
+        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
       },
       "artists": [
         {
-          "name": "Les H\u00f4tesses D' Hilaire",
-          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+          "name": "Mudie",
+          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
         }
       ],
-      "duration_ms": 189986,
-      "name": "Inconfortable",
-      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
+      "duration_ms": 167851,
+      "name": "Alien 2, le retour",
+      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Bad Vibrations",
-        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
-      },
-      "artists": [
-        {
-          "name": "Mudie",
-          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
-        }
-      ],
-      "duration_ms": 167851,
-      "name": "Alien 2, le retour",
-      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Contentement",
         "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 205786,
       "name": "Contentement",
       "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pas l'temps d'niaiser",
+        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+      },
+      "artists": [
+        {
+          "name": "Les H\u00f4tesses D' Hilaire",
+          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Inconfortable",
+      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
     },
     {
       "added_at": "2023-05-25 23:46:15",

@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 326751,
       "name": "Cloudwalker Ii",
       "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 395294,
       "name": "Genkai - 1",
       "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 296092,
       "name": "Heat Leak",
       "url": "https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj"
@@ -1138,6 +1138,24 @@
       "duration_ms": 119541,
       "name": "Il Mio Tormento",
       "url": "https://open.spotify.com/track/1oLDq487jr2RTjACYt9f8w"
+    },
+    {
+      "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196652,
+      "name": "In Good Case And Rest",
+      "url": "https://open.spotify.com/track/6JOIvtmDpYusQQcJWPULho"
     },
     {
       "album": {

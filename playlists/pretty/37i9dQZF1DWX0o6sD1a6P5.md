@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,733 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,064 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 50 | [Mama](https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mama](https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn) | 3:00 |
 
-Snapshot ID: `MCw1MDEyZDA5NjVlY2Q4YTY1OTdlMjhjZmU1MTc2Zjc2YTlmZDA2MGU1`
+Snapshot ID: `MCxlNDc0ZjVlMTA1ZjRjNWUwODQ0ODdmZDYzYzA5YzRiYjBlYjc5MTdk`

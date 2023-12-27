@@ -41,6 +41,36 @@
     },
     {
       "album": {
+        "name": "Don't need cure?",
+        "url": "https://open.spotify.com/album/0sXrmpRxUj5p8BkZ5U5cwn"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "\u30b7\u30b7\u30c9",
+          "url": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196114,
+      "name": "Don't need cure? (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/117rtLpkqvzkEN9dabLpV8"
+    },
+    {
+      "album": {
         "name": "illuminate (everyday)",
         "url": "https://open.spotify.com/album/5es8euvwuR4oLDEz4FjmFd"
       },
@@ -104,10 +134,32 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 258372,
       "name": "Juliet\uff082020.ver\uff09 (feat. ONE)",
       "url": "https://open.spotify.com/track/0ys9oQA3XeOckJZKFwXgwk"
+    },
+    {
+      "album": {
+        "name": "JUVENILE",
+        "url": "https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7"
+      },
+      "artists": [
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u3058\u3093",
+          "url": "https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273017,
+      "name": "JUVENILE",
+      "url": "https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T"
     },
     {
       "album": {
@@ -122,7 +174,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 267236,
       "name": "Kiss Away",
       "url": "https://open.spotify.com/track/0klsReyEXDEZgILAntYptF"
@@ -224,7 +276,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 304002,
       "name": "Smile to Smile (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/11NGdxCJsptAaD13z9Z5IJ"
@@ -615,6 +667,46 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30e9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/2AZzAKQb3ubE1PGGqOrkhR"
+      },
+      "artists": [
+        {
+          "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
+          "url": "https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30e9\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/26GQStLuoLOP7bM0aQInKr"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30e9\u30cd\u30c3\u30c8\u30fb\u30b7\u30a7\u30a4\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/04VP7bWinebhjWlfR6vbWe"
+      },
+      "artists": [
+        {
+          "name": "Bernis",
+          "url": "https://open.spotify.com/artist/4dpWJ7I2nr7NvkCCaHrqyG"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "\u30d7\u30e9\u30cd\u30c3\u30c8\u30fb\u30b7\u30a7\u30a4\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/42m1uFylAYFRaHOE7BnnaQ"
+    },
+    {
+      "album": {
         "name": "Sing Your Song",
         "url": "https://open.spotify.com/album/2JQYV1H8qT4AekAvuh3ymR"
       },
@@ -630,7 +722,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 206000,
       "name": "\u30de\u30b8\u30c3\u30af\u30d5\u30ed\u30e0\u30df\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6DrWTTUDaI0XMCVOxPPOvy"
@@ -941,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u3057\u3044\u9752\u6625\u69d8\u5f0f",
+        "url": "https://open.spotify.com/album/3cWAmFLin8pd02rnoGfZno"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u4e39",
+          "url": "https://open.spotify.com/artist/2n6XWhZaj4eIij2sH19zV9"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202952,
+      "name": "\u65b0\u3057\u3044\u9752\u6625\u69d8\u5f0f",
+      "url": "https://open.spotify.com/track/6pyWpR4Wpd2rmst1EkBsXI"
+    },
+    {
+      "album": {
         "name": "\u30de\u30b8\u30ab\u30eb\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
         "url": "https://open.spotify.com/album/7JBYCQOmasqa9XjtsFLLt8"
       },
@@ -1000,7 +1110,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 209500,
       "name": "\u6d0b\u71c8 (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5fEV1JGrOK0nnqilyVbe8m"

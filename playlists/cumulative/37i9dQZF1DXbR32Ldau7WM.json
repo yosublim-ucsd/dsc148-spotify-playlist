@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Fantasista",
       "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
@@ -8913,6 +8913,24 @@
     },
     {
       "album": {
+        "name": "These Magic Words",
+        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173279,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
+    },
+    {
+      "album": {
         "name": "curtain call",
         "url": "https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC"
       },
@@ -11798,7 +11816,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 238543,
       "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
       "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
@@ -11816,7 +11834,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 276640,
       "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
@@ -14586,6 +14604,24 @@
       "duration_ms": 248600,
       "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
+    },
+    {
+      "album": {
+        "name": "\u65c5\u3092\u3086\u3051",
+        "url": "https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3"
+      },
+      "artists": [
+        {
+          "name": "\u5965\u7530\u6c11\u751f\u306f\u3063\u3068\u308a",
+          "url": "https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231151,
+      "name": "\u65c5\u3092\u3086\u3051",
+      "url": "https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm"
     },
     {
       "album": {

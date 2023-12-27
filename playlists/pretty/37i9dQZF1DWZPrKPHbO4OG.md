@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,481 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,503 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 |
+| 1 | [Payee Fufata](https://open.spotify.com/track/7AvfiB7Paq388ecxkoq5Mf) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/0V3pWtGPwy18JU8pTHXs8w) | 4:06 |
 | 2 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
 | 3 | [Shantabai DJ](https://open.spotify.com/track/0M5gBsIFBf6rPPmJqVmKhn) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/6ooQ4tSG8uoUB1x7cXsxBs) | 2:59 |
 | 4 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP) | 3:46 |
-| 5 | [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 |
+| 5 | [Raja Aala](https://open.spotify.com/track/5KgfY2vMoHk26aGvchrr7Q) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Pawankhind](https://open.spotify.com/album/7B7Cjeyo1aavjnCb27LlpU) | 4:20 |
 | 6 | [Galavar Khali Remix](https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Galavar Khali Remix](https://open.spotify.com/album/5dB5e1CvKOg94XcKEWp0KC) | 5:11 |
 | 7 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
 | 8 | [Meri Madhubala](https://open.spotify.com/track/2dIWPmnbgVn6lmpK809l4H) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/1HBEFg3sdFGetJHDcFXoqh) | 3:58 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 40 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 |
 
-Snapshot ID: `MCwwNjU5YmQwZmRlYjUxNGQ3NzgzODgzYzg0YmMwNDZkNjAxMjUyNTRj`
+Snapshot ID: `MCwxNzJlNDIzOTJlMTYxMzdhYTA1ZjYyZGY0YWEwMzM4ZDUwZjIwYzRh`

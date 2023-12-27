@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-139 songs - 9 hr 26 min
+140 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 |  |
 | [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 | 2021-12-24 |  |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2021-12-24 | 2023-12-24 |
+| [Christmas Pick Me Up](https://open.spotify.com/track/3q9CNgt5xOKVGyY8addRH4) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/2dczDUKRUmferBnrzgkCtS) | 3:59 | 2023-12-15 |  |
 | [Christmas Praise \- Live](https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 2:17 | 2021-12-24 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Christmas Time Is Here](https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj) | 3:55 | 2022-12-10 |  |
 | [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 |  |
@@ -142,7 +143,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 | 2021-12-24 |  |
 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 | 2021-12-24 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Like A Child](https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9) | 2:52 | 2023-11-03 |  |
-| [Yes It's Christmas](https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [My Christmas Prayer](https://open.spotify.com/album/24QzSoc6Pw3RoPVhyDqyBL) | 4:12 | 2021-12-24 |  |
+| [Yes It's Christmas](https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [My Christmas Prayer](https://open.spotify.com/album/24QzSoc6Pw3RoPVhyDqyBL) | 4:12 | 2021-12-24 | 2023-12-27 |
 | [You Are Our Joy Christmas](https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [You Are Our Joy Christmas \- Single](https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi) | 3:48 | 2021-12-24 | 2023-11-19 |
 | [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-12-15 | 2023-12-24 |
 | [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 | 2023-12-15 |  |

@@ -1647,6 +1647,40 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/6b6mqFLPPyzkJZLWBxqJud"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "G.RINA",
+          "url": "https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS"
+        },
+        {
+          "name": "Kick a Show",
+          "url": "https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG"
+        },
+        {
+          "name": "ZEN-LA-ROCK",
+          "url": "https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242499,
+      "name": "Backseat (feat. G.RINA, Kick a Show, ZEN-LA-ROCK & JUVENILE)",
+      "url": "https://open.spotify.com/track/0KHRem2sNG7J5vCFhEdjTT"
+    },
+    {
+      "album": {
         "name": "Bad State",
         "url": "https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R"
       },
@@ -3148,6 +3182,28 @@
       "duration_ms": 250563,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/2FwuFgWAR33gH8P2TlYFT6"
+    },
+    {
+      "album": {
+        "name": "Couch potato",
+        "url": "https://open.spotify.com/album/2K3OcxqdyKdntOkR0p1y3z"
+      },
+      "artists": [
+        {
+          "name": "JunIzawa",
+          "url": "https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I"
+        },
+        {
+          "name": "Tami Keem",
+          "url": "https://open.spotify.com/artist/4H2v1nlEJIETN8rDRmVXG1"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Couch potato",
+      "url": "https://open.spotify.com/track/0xaw7RO8FbezqjqTDxdvYN"
     },
     {
       "album": {
@@ -4906,7 +4962,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 252377,
       "name": "Fleeting Fantasy",
       "url": "https://open.spotify.com/track/7cnffSWM6sJuNuMzQapfJX"
@@ -11820,7 +11876,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 251922,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
@@ -16291,6 +16347,24 @@
     },
     {
       "album": {
+        "name": "TASER ME",
+        "url": "https://open.spotify.com/album/36mLSHRpqGWGEqXUjv6dPD"
+      },
+      "artists": [
+        {
+          "name": "RIS-707",
+          "url": "https://open.spotify.com/artist/4ES1QNmEX5bYxGXxDKZmTI"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "TASER ME",
+      "url": "https://open.spotify.com/track/49S0GLamuXeJVX40FlVSWq"
+    },
+    {
+      "album": {
         "name": "Sean Motorolla",
         "url": "https://open.spotify.com/album/4TmTdCXzIbqwjcrZ7n5r0i"
       },
@@ -17222,7 +17296,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 222320,
       "name": "Trickster",
       "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
@@ -19947,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "HAIN IN THE CITY",
+        "url": "https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc"
+      },
+      "artists": [
+        {
+          "name": "Wendy York Stand",
+          "url": "https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220618,
+      "name": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U"
+    },
+    {
+      "album": {
         "name": "\u62db\u304d\u732b / \u30a8\u30b8\u30bd\u30f3",
         "url": "https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa"
       },
@@ -20698,7 +20790,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 209388,
       "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ"

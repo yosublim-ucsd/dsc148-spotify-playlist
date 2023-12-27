@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 72732,
+  "num_followers": 72786,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDkyZTQ5MTkyM2Y5Zjg1OGU3N2FlZmU2NTgzZjNkNGFlOWY2OTMz",
+  "snapshot_id": "MCxmNTU0ZDk1OGZhZWI5MWIxZGVkMDU3NGI1NzNmMWYwMzUyMDA0MWFm",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 301520,
       "name": "I'll Be Missing You (feat. Faith Evans, 112)",
       "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2020-09-29 17:19:21",

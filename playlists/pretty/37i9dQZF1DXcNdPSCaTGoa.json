@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 49522,
+  "num_followers": 49596,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmYzYmQxZWZmMzYwYWM3OWRkMzFmY2QyNWY2ZTBlNjg1NDFhZWQy",
+  "snapshot_id": "MCxjNzc1YjBhMzM1Y2NlZmJjNjZiYzQ4MWRmY2QwY2JjYTg2NmJmODVj",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -171,22 +171,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
         },
         {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Homeless (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+      "duration_ms": 347960,
+      "name": "Magasman",
+      "url": "https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -207,22 +207,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         },
         {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 347960,
-      "name": "Magasman",
-      "url": "https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8"
+      "duration_ms": 228413,
+      "name": "Homeless (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "The Ultimate Collection: Mbongeni Ngema",
+        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
+      },
+      "artists": [
+        {
+          "name": "Mbongeni Ngema",
+          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
+        }
+      ],
+      "duration_ms": 310236,
+      "name": "Stimela SaseZola",
+      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "The Ultimate Collection: Mbongeni Ngema",
-        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
-      },
-      "artists": [
-        {
-          "name": "Mbongeni Ngema",
-          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
-        }
-      ],
-      "duration_ms": 310236,
-      "name": "Stimela SaseZola",
-      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Bongolution",
         "url": "https://open.spotify.com/album/5RzCqPIuJuK0L9v7J1WdVl"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Just Wanna Live My Life",
-        "url": "https://open.spotify.com/album/19kTXMajfFWCAwp86oImin"
-      },
-      "artists": [
-        {
-          "name": "Winnie Khumalo",
-          "url": "https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o"
-        }
-      ],
-      "duration_ms": 317200,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Durbans Finest",
         "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 368866,
       "name": "1000 Seconds",
       "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Just Wanna Live My Life",
+        "url": "https://open.spotify.com/album/19kTXMajfFWCAwp86oImin"
+      },
+      "artists": [
+        {
+          "name": "Winnie Khumalo",
+          "url": "https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o"
+        }
+      ],
+      "duration_ms": 317200,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 394677,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
@@ -463,38 +447,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
       "artists": [
         {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
         }
       ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Pluto (Remember You)",
-        "url": "https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd"
-      },
-      "artists": [
-        {
-          "name": "DJ Clock",
-          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Pluto (Remember You) - Radio Edit",
-      "url": "https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr"
+      "duration_ms": 394677,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -531,6 +495,42 @@
       "duration_ms": 341506,
       "name": "Groovers Prayer",
       "url": "https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Pluto (Remember You)",
+        "url": "https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd"
+      },
+      "artists": [
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Pluto (Remember You) - Radio Edit",
+      "url": "https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Best of TK",
-        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
-      },
-      "artists": [
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
-        }
-      ],
-      "duration_ms": 306786,
-      "name": "How Do You Feel",
-      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 265773,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Best of TK",
+        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
+        }
+      ],
+      "duration_ms": 306786,
+      "name": "How Do You Feel",
+      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -651,38 +651,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "King of Kwaito Uyagawula",
-        "url": "https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Peace",
-          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
-        }
-      ],
-      "duration_ms": 321611,
-      "name": "Manyonyoba",
-      "url": "https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "She Always Gets What She Wants",
-      "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "BullDawgz First Lady",
         "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
@@ -699,6 +667,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "King of Kwaito Uyagawula",
+        "url": "https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Peace",
+          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
+        }
+      ],
+      "duration_ms": 321611,
+      "name": "Manyonyoba",
+      "url": "https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA"
+      },
+      "artists": [
+        {
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "She Always Gets What She Wants",
+      "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Waar Was Jy?",
+        "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
+      },
+      "artists": [
+        {
+          "name": "Skeem",
+          "url": "https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Waar Was Jy?",
+      "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -927,38 +943,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Waar Was Jy?",
-        "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
-      },
-      "artists": [
-        {
-          "name": "Skeem",
-          "url": "https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Waar Was Jy?",
-      "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Njalo",
         "url": "https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7AHYVDAOsSJBL6YMKVXWPm"
       },
       "artists": [
         {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
+      "duration_ms": 328666,
+      "name": "Mari Ye Phepha",
+      "url": "https://open.spotify.com/track/3ClqIdHksnRs2pwyCGSYHd"
     }
   ],
   "unique_name": "SA Gold",

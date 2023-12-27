@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Las mejores canciones del año de Fresh Finds España\. Foto: stivijoes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,165 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,169 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 17 | [La Verdad](https://open.spotify.com/track/2FblMAjm0mI7QvqABkOWRN) | [Damalia](https://open.spotify.com/artist/0XaHjZu4d4aqanaR4GNU88) | [La Verdad](https://open.spotify.com/album/6sH1nlrTujsPB3YpwoyAJa) | 2:52 |
 | 18 | [Katana](https://open.spotify.com/track/7GLVUW8kM0DSkehuFygoR9) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Katana](https://open.spotify.com/album/5k8hzxdVmR1A2qxReoRcLq) | 3:07 |
 | 19 | [Mis chulos](https://open.spotify.com/track/7MkSeEQqlcURJ4XxODyYZ3) | [Lucas Jesús](https://open.spotify.com/artist/4aOowso1Cyvob8i68vFQN1), [Fomok](https://open.spotify.com/artist/66s7Gfy83gMWf85cbZhZTi), [MALCO](https://open.spotify.com/artist/7MCKsSViql4dUdxvh4pKak) | [Mis chulos](https://open.spotify.com/album/7Dqezh41RnRDjvdYKKBacF) | 2:25 |
-| 20 | [Sopa Agripicante](https://open.spotify.com/track/0DtH5PxzEbYs9uXDIvK2pE) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Sopa Agripicante](https://open.spotify.com/album/579XDxSy37jPriB1YjWWO0) | 2:47 |
+| 20 | [Sopa Agripicante](https://open.spotify.com/track/4pgVmeCOfqHlg7s4lxldwY) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Sopa Agripicante](https://open.spotify.com/album/6Goenpvy9Yfh7ixT0VcJcd) | 2:47 |
 | 21 | [nicotine.](https://open.spotify.com/track/1trJsVKfgR1q0WaTGZqiSD) | [ZTa.](https://open.spotify.com/artist/0moxuoOEYdabRzJDWQt5kx) | [nicotine.](https://open.spotify.com/album/7zNtyHvfYbqvmuqhubPKJl) | 2:42 |
 | 22 | [Lo Siento..\. No Tengo Chicle](https://open.spotify.com/track/7LzSdL1LCwuAGwtHPOTJhL) | [REWAY](https://open.spotify.com/artist/2zPKKlOYbIFo1OayeSLF9C), [Renata Repetto](https://open.spotify.com/artist/4CiNVxmxNrjW15HdqR26pH) | [Lo Siento..\. No Tengo Chicle](https://open.spotify.com/album/2vE0ic1X4iRTB9RdFITVU2) | 2:37 |
 | 23 | [Amor o Miedo](https://open.spotify.com/track/3xPm9Z0jQXQhYOeGfX43In) | [becerra.](https://open.spotify.com/artist/7q1hbjnDuDOLh5OKMbTiBk) | [Amor o Miedo](https://open.spotify.com/album/10ucW9e6n5k3Ux7iTcqcwS) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [Vas a Poder](https://open.spotify.com/track/6RMrxuHDtVQweuxpLTvtrs) | [Lidna](https://open.spotify.com/artist/1NQ8qxpIGcXdB6KspJYw5y) | [Vas a Poder](https://open.spotify.com/album/5Ik46dsXAfF33FBMsMcXlN) | 4:05 |
 | 75 | [NMDLV](https://open.spotify.com/track/4eAFArk45q3jk70ssY3jMf) | [Margielin](https://open.spotify.com/artist/0Kp2ACUPUbT5GK7gOo6M40) | [NMDLV](https://open.spotify.com/album/1UcPmHrhoOPtIwCTrYGpRF) | 3:58 |
 
-Snapshot ID: `MCw5N2Y1M2FkMmEyM2E4ZDQ0YTY0MDExNTlmZWZmZmRlZGNkZmUyMzcy`
+Snapshot ID: `MCwzNjRhZThjNjFhYWI3ZmE4ZmI5Yzk4NzAzNThlNzIwNmViYTJhNTEz`

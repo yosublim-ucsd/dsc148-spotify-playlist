@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1249768,
+  "num_followers": 1249946,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWE1ZmQwZjgyZmRhODRmMjMxNGJjZTUzMDk3ODRmYWE4YTFmMDhm",
+  "snapshot_id": "MCw0ZmJmZGZjNTc5NWM1ZjM3MzZhNzY3YmQ2NTE1MzE5YTA3YjRkMjcw",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Feel So Numb",
-      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
+      "duration_ms": 257813,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -783,34 +783,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 257813,
-      "name": "Minerva",
-      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+      "duration_ms": 233666,
+      "name": "Feel So Numb",
+      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -827,6 +811,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Are You Dead Yet?",
         "url": "https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 234880,
       "name": "Are You Dead Yet?",
       "url": "https://open.spotify.com/track/52s05aBQd2LVc6EWIQCQI1"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Primitive (Special Edition)",
         "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 311986,
       "name": "Jumpdafuckup",
       "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2023-02-08 17:32:03",

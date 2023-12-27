@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 323976,
+  "num_followers": 324028,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM5MGNkZjczOWRhNGNlNjM3Njk3YjYwY2Q3ZDM5MDI4ZGRkYjg0",
+  "snapshot_id": "MCxhODIxOWI0ZWZjMGYwNzQ0OGNhMDZkMGZkMTZiN2U4NDg0OGUxNGYz",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -391,22 +391,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "Cheiro de Rosas",
+        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 279835,
+      "name": "Cheiro de Rosas",
+      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cheiro de Rosas",
-        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 279835,
-      "name": "Cheiro de Rosas",
-      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 309660,
       "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -631,46 +651,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Nada Temerei",
-        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Nada Temerei",
-      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
-        }
-      ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Nada Temerei",
+        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Nada Temerei",
+      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Maria, M\u00e3e e Rainha",
-        "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
-      },
-      "artists": [
-        {
-          "name": "Padre Alexandre Spena Regueira",
-          "url": "https://open.spotify.com/artist/2Jra44kCQpRDRj2qDcKGjW"
-        },
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Maria, M\u00e3e e Rainha",
-      "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -767,6 +747,46 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 303170,
+      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Maria, M\u00e3e e Rainha",
+        "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
+      },
+      "artists": [
+        {
+          "name": "Padre Alexandre Spena Regueira",
+          "url": "https://open.spotify.com/artist/2Jra44kCQpRDRj2qDcKGjW"
+        },
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Maria, M\u00e3e e Rainha",
+      "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Esp\u00edrito da Verdade",
         "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -819,6 +819,26 @@
       "duration_ms": 177322,
       "name": "Cora\u00e7\u00e3o de M\u00e3e",
       "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -859,26 +879,6 @@
       "duration_ms": 198992,
       "name": "A Tua Ternura",
       "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 303170,
-      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Banquete Eterno",
         "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 232115,
       "name": "Alma de Cristo",
       "url": "https://open.spotify.com/track/2ihGz1qkAcxCrU8RsO3TZm"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Maria Vem",
         "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 240513,
       "name": "Maria Vem",
       "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
+      },
+      "artists": [
+        {
+          "name": "Octavia de Assis",
+          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Em Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
-      },
-      "artists": [
-        {
-          "name": "Octavia de Assis",
-          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Em Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
     },
     {
       "added_at": "2023-12-22 03:00:00",

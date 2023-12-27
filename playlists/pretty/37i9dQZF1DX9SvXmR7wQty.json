@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
-  "num_followers": 39460,
+  "num_followers": 39464,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTVkZjc5YzkwMDhkODVjOGM5Njg4NjhiYWNhNGZkMTE3MDdhNjYz",
+  "snapshot_id": "MCwzOWE2ZWQzNjc0NmU3ZjBiNWIyYjJkNDU1MDE0NGQwYmJlNGU0ZWMx",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "PROTOCOLE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "PROTOCOLE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "PROTOCOLE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "PROTOCOLE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Yoski 2",
+        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
+      },
+      "artists": [
+        {
+          "name": "Mayo",
+          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Bectance",
+      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 189588,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Yoski 2",
-        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
-      },
-      "artists": [
-        {
-          "name": "Mayo",
-          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Bectance",
-      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Cesium",
+        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "\u00c0 La Faveur De L'automne",
+      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
       },
@@ -735,22 +755,6 @@
       "duration_ms": 169640,
       "name": "CRASH <3",
       "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Encore plus",
-        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Encore plus",
-      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -791,6 +795,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Que ta t\u00eate fleurisse toujours",
         "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 197053,
       "name": "Bougez",
       "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Cesium",
-        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "\u00c0 La Faveur De L'automne",
-      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Traficante",
+        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Traficante",
+      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "LUEUR & ESPOIR",
         "url": "https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 194153,
       "name": "ON EN REPARLERA",
       "url": "https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Traficante",
-        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
-      },
-      "artists": [
-        {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Traficante",
-      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Jane Birkin",
-        "url": "https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2"
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Jane Birkin",
-      "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
+      "duration_ms": 174819,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

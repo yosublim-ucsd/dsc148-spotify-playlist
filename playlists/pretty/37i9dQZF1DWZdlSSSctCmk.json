@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 115496,
+  "num_followers": 115526,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi",
+  "snapshot_id": "MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "KOKOROKO",
-        "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 424080,
-      "name": "Abusey Junction",
-      "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 291000,
       "name": "Alone in Kyoto",
       "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Keep Smiling [Remastered] (Remastered Version)",
         "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 512080,
       "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
       "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Quiet Night",
-        "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
-      },
-      "artists": [
-        {
-          "name": "HUG\u00d8",
-          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
-        },
-        {
-          "name": "wielandwieland",
-          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Quiet Night",
-      "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Just Landed",
         "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
       },
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Quiet Night",
+        "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
+      },
+      "artists": [
+        {
+          "name": "HUG\u00d8",
+          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
+        },
+        {
+          "name": "wielandwieland",
+          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Amo Amo",
         "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Spreading Rhythm",
-        "url": "https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB"
-      },
-      "artists": [
-        {
-          "name": "Jojo Effect",
-          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "Echo Valley",
-      "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Spreading Rhythm",
+        "url": "https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB"
+      },
+      "artists": [
+        {
+          "name": "Jojo Effect",
+          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "Echo Valley",
+      "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 295989,
       "name": "Verbana (feat. Hush Forever)",
       "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
     },
     {
       "added_at": "2023-07-14 11:01:37",

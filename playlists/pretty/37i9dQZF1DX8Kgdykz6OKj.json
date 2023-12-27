@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1213745,
+  "num_followers": 1214242,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJkODg1MGE3Nzg3ZmJhMGFjZDU4Y2Y3OGM4MDI0NzYyZGFjMGVi",
+  "snapshot_id": "MCwxN2FmZWMwZTA0ZGQzNGE0MTFjMjZkMTM4MDkwMGQ2YTI4NDM1NzIz",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1991,26 +1991,30 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
+        "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+        "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
       "artists": [
         {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
         }
       ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
+      "duration_ms": 355720,
+      "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+      "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
     }
   ],
   "unique_name": "Jazz Rap",

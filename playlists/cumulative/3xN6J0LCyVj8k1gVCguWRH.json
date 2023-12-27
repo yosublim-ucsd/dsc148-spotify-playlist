@@ -17001,6 +17001,24 @@
     },
     {
       "album": {
+        "name": "Little Secrets",
+        "url": "https://open.spotify.com/album/2WiH1ZHtCuJ0ZppmDkej6D"
+      },
+      "artists": [
+        {
+          "name": "Michelle Luna",
+          "url": "https://open.spotify.com/artist/2w6TB1vTFpX5nSCb9Wivck"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3fbTDuocnHvdpir8W9F9mT"
+    },
+    {
+      "album": {
         "name": "French Food",
         "url": "https://open.spotify.com/album/1oFHV3sX7aFSA2AcKrgSN2"
       },
@@ -17380,7 +17398,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 201744,
       "name": "FUXIA",
       "url": "https://open.spotify.com/track/359SZXsa5CJtP0FNVqfzQ3"
@@ -52778,7 +52796,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 190076,
       "name": "\u721b\u5728\u6c99\u767c\u4e0a",
       "url": "https://open.spotify.com/track/4MoPVuAxOvtH0RIOhIiIwH"

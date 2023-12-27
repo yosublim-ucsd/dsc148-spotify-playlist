@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Central Cee, Wizkid, Zeds Dead, Jimin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,654 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,676 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 49 | [Te Veo](https://open.spotify.com/track/5hD8HXZmHbiwFvTvlxXH7w) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO) | [Te Veo](https://open.spotify.com/album/4iVptAMsjfr2kdL1MxeD9M) | 4:29 |
 | 50 | [Thank You](https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Thank You](https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8) | 3:31 |
 
-Snapshot ID: `MCw1NDUwMTZhY2NlYjQ3MWJiMzE4YjdlNTM3YmEyNTc0OGI5OTU4YTRm`
+Snapshot ID: `MCw1ZmI2ZWMzZmI4MWJkOWQ5OGY0ZWJjM2U0NDQxMDhkZDBhZTEyNzRh`

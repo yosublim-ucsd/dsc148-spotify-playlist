@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,729 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,745 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 | 49 | [Let The Good Times Roll](https://open.spotify.com/track/7lcCLXghOHf8xERQ9BkS3n) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Let The Good Times Roll](https://open.spotify.com/album/4JeCuwh2ciataXUhq3XUox) | 3:04 |
 | 50 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
 
-Snapshot ID: `MCxmOTczNGJmM2EzMzI1NTQ5NDgzYzJkN2ExYmRjZWEwNGI5ZmI0NWRk`
+Snapshot ID: `MCxlMmZlOGVmYmYzYWEyNGY5NjA5YTg4ZjI0OTk1NTZiNWM1N2I0YmI5`

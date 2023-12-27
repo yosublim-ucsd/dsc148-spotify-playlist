@@ -336,10 +336,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 317425,
       "name": "Bulla Ki Jana",
       "url": "https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj"
+    },
+    {
+      "album": {
+        "name": "Rabbi",
+        "url": "https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317425,
+      "name": "Bulla Ki Jana",
+      "url": "https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu"
     },
     {
       "album": {

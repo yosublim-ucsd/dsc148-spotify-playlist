@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125647,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/2gaTbzdETn6qdUp7VT0c62"
+    },
+    {
+      "album": {
         "name": "TIMBERLAKETRAPPED 2",
         "url": "https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 129199,
       "name": "Aj, dnes v Betl\u00e9m\u011b",
       "url": "https://open.spotify.com/track/4TjJKRHSQSoYd5I2YZpYKB"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 173141,
       "name": "Bars",
       "url": "https://open.spotify.com/track/3RwfY1HV2GFcsMKZSeJtwb"
@@ -2404,6 +2422,24 @@
       "duration_ms": 124615,
       "name": "Benz",
       "url": "https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L"
+    },
+    {
+      "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "BeReal",
+      "url": "https://open.spotify.com/track/7pk3VbwbWLVcF2ah3FDl9i"
     },
     {
       "album": {
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -3952,7 +3988,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 61066,
       "name": "Cht\u00edc, aby spal",
       "url": "https://open.spotify.com/track/5x9P8DDEFwHuzK7fAm0h6U"
@@ -4816,7 +4852,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -4870,7 +4906,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 67666,
       "name": "Dej b\u016fh \u0161t\u011bst\u00ed",
       "url": "https://open.spotify.com/track/3NzOcWuLEr8Rt8V3DDkK5d"
@@ -5556,7 +5592,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy"
@@ -5938,7 +5974,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -7640,7 +7676,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
@@ -7958,7 +7994,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -8050,7 +8086,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
@@ -8130,7 +8166,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 158607,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
@@ -8738,7 +8774,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 66600,
       "name": "Hle, hle, tamhle v Betl\u00e9m\u011b",
       "url": "https://open.spotify.com/track/7LIm0wqXegQZzuLuwixpmV"
@@ -9222,6 +9258,24 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "I am Him",
+      "url": "https://open.spotify.com/track/0CI5A5pgy4of5hcL0dZMqz"
     },
     {
       "album": {
@@ -9812,7 +9866,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 48266,
       "name": "Jak jsi kr\u00e1sn\u00e9 nevi\u0148\u00e1tko",
       "url": "https://open.spotify.com/track/0U1bWpYC5uiUDX9ALasOvA"
@@ -10380,7 +10434,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 73466,
       "name": "J\u00e1 bych r\u00e1d k Betl\u00e9mu",
       "url": "https://open.spotify.com/track/5u9SlTV7leZFNpE7ukfE6F"
@@ -10398,7 +10452,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 140400,
       "name": "J\u00e1 mal\u00fd p\u0159ich\u00e1z\u00edm",
       "url": "https://open.spotify.com/track/5RIy2pviY0FkZZ1aBTLz0z"
@@ -10488,7 +10542,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 69933,
       "name": "K Je\u017e\u00ed\u0161kovi do Betl\u00e9ma",
       "url": "https://open.spotify.com/track/2qsM1KHWQHBUEQlk6fOxdA"
@@ -10902,7 +10956,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 145548,
       "name": "Kdo?",
       "url": "https://open.spotify.com/track/1xpkt49Qq2n7GVQZk5hr3k"
@@ -11492,7 +11546,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 190588,
       "name": "Kr\u00e1lovstv\u00ed",
       "url": "https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i"
@@ -11532,7 +11586,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 112440,
       "name": "Kyrie Eleiston",
       "url": "https://open.spotify.com/track/14AeIDBDV16Xlw8S8pqlwm"
@@ -13782,7 +13836,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "MMA",
       "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
@@ -14826,7 +14880,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 88026,
       "name": "Narodil se Kristus P\u00e1n",
       "url": "https://open.spotify.com/track/4q0vnoWFd16SMvlGMPB6Yy"
@@ -15420,7 +15474,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 112560,
       "name": "Nesem V\u00e1m noviny",
       "url": "https://open.spotify.com/track/3FBDn9uYUpCAS8svJwJ7ux"
@@ -17384,7 +17438,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 71933,
       "name": "Poj\u010fte chlapci k n\u00e1m",
       "url": "https://open.spotify.com/track/2nZqVGyZ6zUp1Msmx9mvaj"
@@ -17508,7 +17562,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 82813,
       "name": "Posp\u011b\u0161te sem pachol\u00e1tka",
       "url": "https://open.spotify.com/track/5RExY3uGYNGHgqpn0v2Ela"
@@ -17756,7 +17810,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "Praha/V\u00edde\u0148",
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
@@ -18068,7 +18122,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 62893,
       "name": "Pujdem spolu do Betl\u00e9ma",
       "url": "https://open.spotify.com/track/0vFuvf86DBX86mgp4ATufb"
@@ -18186,7 +18240,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 179556,
       "name": "Pussy Power (feat. Porsche Boy)",
       "url": "https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC"
@@ -18274,7 +18328,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 76466,
       "name": "P\u00e1sli ovce Vala\u0161i",
       "url": "https://open.spotify.com/track/2qFoxTnOhhUd7qZVTpJScD"
@@ -18332,6 +18386,24 @@
       "duration_ms": 120000,
       "name": "P\u0159\u00edstav",
       "url": "https://open.spotify.com/track/2h5TUuYlPOaEC7lvcma56g"
+    },
+    {
+      "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "P\u0159\u00edzrak",
+      "url": "https://open.spotify.com/track/3UyFVKd1nE0hAd4RgpqMX2"
     },
     {
       "album": {
@@ -18440,7 +18512,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 120333,
       "name": "Radostn\u011b budem zp\u00edvat",
       "url": "https://open.spotify.com/track/0aeqKS6ZINIFIreJUv6Dw2"
@@ -18672,7 +18744,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -19162,7 +19234,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 249813,
       "name": "Ryba Ryb\u011b",
       "url": "https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49"
@@ -19304,7 +19376,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -19442,7 +19514,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -19601,6 +19673,24 @@
     },
     {
       "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194985,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/3keeX67vvYJ3GKbNE4lFK9"
+    },
+    {
+      "album": {
         "name": "Detektor III",
         "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
       },
@@ -19696,7 +19786,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 59120,
       "name": "Sem, past\u00fd\u0159i",
       "url": "https://open.spotify.com/track/2hmfRUoGzhr40f8F4bormJ"
@@ -20226,7 +20316,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -20262,7 +20352,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 71333,
       "name": "Sly\u0161eli jsme v Betl\u00e9m\u011b",
       "url": "https://open.spotify.com/track/3XWxNH35PZZtJBbfrXOhYH"
@@ -20298,7 +20388,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 54400,
       "name": "Sly\u0161te, sly\u0161te pastu\u0161kov\u00e9",
       "url": "https://open.spotify.com/track/5p44K6jIoiL7xK3ahR7Oxh"
@@ -20320,7 +20410,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
@@ -20702,6 +20792,24 @@
       "duration_ms": 207000,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
+    },
+    {
+      "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154010,
+      "name": "Spadla klec",
+      "url": "https://open.spotify.com/track/4AT4gbJTn5qUSBn5d7Of5m"
     },
     {
       "album": {
@@ -21306,7 +21414,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -21591,6 +21699,24 @@
     },
     {
       "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133935,
+      "name": "Swagged to Death",
+      "url": "https://open.spotify.com/track/7Czz5Jyrsz3O5UjDmE3Wez"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -21732,6 +21858,28 @@
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+    },
+    {
+      "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        },
+        {
+          "name": "Patrik Love ICY L",
+          "url": "https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134035,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/7bnO0cCQYQanUV1xKZ8XcV"
     },
     {
       "album": {
@@ -22246,7 +22394,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 62800,
       "name": "Tich\u00e1 noc",
       "url": "https://open.spotify.com/track/2Zrn9F2CHBmKNSoCtdekZ7"
@@ -22264,7 +22412,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 109133,
       "name": "Tich\u00e1 noc",
       "url": "https://open.spotify.com/track/77FRF06OSL3tj2CDRwtpuu"
@@ -22960,7 +23108,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "U H\u0159i\u0161t\u011b 380",
       "url": "https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs"
@@ -23796,7 +23944,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 81400,
       "name": "Veselte se, radujte se",
       "url": "https://open.spotify.com/track/1bcxeg3NTdtwFojVxdY1x0"
@@ -23814,7 +23962,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 112466,
       "name": "Vesel\u00e9 v\u00e1no\u010dn\u00ed hody",
       "url": "https://open.spotify.com/track/4AwUg33u6NXXBsCNqNIqgd"
@@ -24076,7 +24224,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 74333,
       "name": "Vondr\u00e1\u0161i, Mat\u00f3\u0161i",
       "url": "https://open.spotify.com/track/4NL18UfTrFsfI9R5pj7ZbI"
@@ -24284,7 +24432,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 203642,
       "name": "V\u00e1no\u010dn\u00ed",
       "url": "https://open.spotify.com/track/2kxQZUKu8NuhHIwwUSLBQz"
@@ -24306,7 +24454,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 333000,
       "name": "V\u00e1no\u010dn\u00ed",
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
@@ -24346,7 +24494,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 119426,
       "name": "V\u00e1no\u010dn\u00ed ukol\u00e9bavka",
       "url": "https://open.spotify.com/track/3AqGkZtGXFbTboBXu0bmj4"
@@ -25703,6 +25851,24 @@
     },
     {
       "album": {
+        "name": "FLEX SYMBOL",
+        "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152899,
+      "name": "Zlat\u00fd \u010dasy",
+      "url": "https://open.spotify.com/track/7AOvpnrz2hnWsb6uImbb0H"
+    },
+    {
+      "album": {
         "name": "Secret Eyes",
         "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
       },
@@ -26030,7 +26196,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 84666,
       "name": "\u0160t\u011bdrej ve\u010der nastal",
       "url": "https://open.spotify.com/track/7z2e3rmY8LUyxfFPHfSSE7"
@@ -26066,7 +26232,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 91760,
       "name": "\u0160t\u011bst\u00ed, zdrav\u00ed, pokoj svat\u00fd",
       "url": "https://open.spotify.com/track/2nq6GJy3gcTr80orToMBiS"

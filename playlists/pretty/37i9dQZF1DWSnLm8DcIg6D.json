@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Doja Cat",
-  "num_followers": 131512,
+  "num_followers": 131663,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDA5MzM1OWM2NDRkNzY4YWI0NWI4ZDAxOTk5Y2YwMWI3Y2Y4NmE4",
+  "snapshot_id": "MCw5NTJhMDUxYWZjNWZlOWY1ZWIwNWFhMWZhMzc3NzFjZmQxZWQ3ZTg3",
   "tracks": [
     {
       "added_at": "2023-12-01 05:07:14",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "LEFT RIGHT",
+      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "LEFT RIGHT",
-      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
     },
     {
       "added_at": "2023-11-30 13:00:00",

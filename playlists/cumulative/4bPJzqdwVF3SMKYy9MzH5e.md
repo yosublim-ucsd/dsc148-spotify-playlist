@@ -4,7 +4,7 @@
 
 > 
 
-1,836 songs - 4 day 3 hr 20 min
+1,840 songs - 4 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,6 +819,7 @@
 | [I'm Gonna Live Till I Die](https://open.spotify.com/track/6PmJlD6X7qYpT85C71yX4R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 1:54 | 2021-08-05 |  |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2021-08-05 |  |
 | [I'm Not A Vampire](https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:51 | 2021-08-05 |  |
+| [i'm not here](https://open.spotify.com/track/1owDolKVjwBDsOExuQYUsm) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 2:34 | 2023-12-26 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2021-08-05 |  |
 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 | 2023-02-22 |  |
 | [I'm Yer Dad](https://open.spotify.com/track/0GxbglYySl18aZDIaGu1RU) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Daddy](https://open.spotify.com/album/1R2Ky437vHsCBUGwKoVcmK) | 2:24 | 2021-08-05 |  |
@@ -943,6 +944,7 @@
 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 | 2021-08-05 |  |
 | [Limitado](https://open.spotify.com/track/1FeqkvjeeBU1nOQVeGIRP0) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:34 | 2021-08-05 |  |
 | [Linda Claire](https://open.spotify.com/track/3yiHfH6CTCsjhBoKPdaue8) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:41 | 2023-08-28 |  |
+| [linda claire \(mirsy mix\)](https://open.spotify.com/track/0yin6DZMuGb9UGX2xB8JWs) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 3:12 | 2023-12-26 |  |
 | [Liquid Smooth](https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:49 | 2022-10-01 |  |
 | [listen before i go](https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:02 | 2021-08-05 |  |
 | [Literal Legend](https://open.spotify.com/track/3c9tMHF4oYTiba7FVPFuKB) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Literal Legend](https://open.spotify.com/album/3oaLu2DsezVJzfkgQT9Yth) | 2:46 | 2021-08-05 |  |
@@ -1614,6 +1616,7 @@
 | [The Razor's Apple](https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:11 | 2023-06-07 |  |
 | [The Realness \(feat\. Eric Kupper\)](https://open.spotify.com/track/1oSUTFfnEwftOTRxpLKWOY) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Realness](https://open.spotify.com/album/0K3AROBOn8bwPWw08R5EL1) | 3:25 | 2021-08-05 |  |
 | [The Rhythm Of The Night](https://open.spotify.com/track/3oJal8I3Hm2Vn8G6fQp6aD) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [One Day OST](https://open.spotify.com/album/4I14rBJcenKWxc5S6TFL59) | 3:24 | 2021-08-05 |  |
+| [the sound of grieving](https://open.spotify.com/track/4Rhi4B1r0atZJn0skBjBAR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 5:08 | 2023-12-26 |  |
 | [The Technogaia Accelerates Technology And You!](https://open.spotify.com/track/3GgawMNjv4Oppa0XQ7FnmP) | [Kaizo Slumber](https://open.spotify.com/artist/2UUvyxJDBsg7jnRwMAxNND) | [The Kaizo Manifesto](https://open.spotify.com/album/2nrxw6vRiM5Lb0WIeCV48O) | 2:44 | 2023-06-01 |  |
 | [The Things You Do \(To Me\)](https://open.spotify.com/track/51H50p8CKpFxwmtUwOP8Rp) | [Mark Whalen](https://open.spotify.com/artist/190DHPJLNML45FthZiizQi) | [Someone to Be](https://open.spotify.com/album/5ZMwVSpdyVDHg5044cIUes) | 5:03 | 2021-08-05 |  |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2021-08-05 |  |
@@ -1770,6 +1773,7 @@
 | [What Do They Know?](https://open.spotify.com/track/5abubE0dYFaEPDeM2sZ4TY) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:08 | 2021-08-05 |  |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2021-08-05 |  |
 | [What Is Real Tho, Really?](https://open.spotify.com/track/5Cxx2TbG5RAm8jkRgFryCr) | [38Kea](https://open.spotify.com/artist/3BVybFxC0U2uT6B3hmm78W) | [Radical/Info.Vol6](https://open.spotify.com/album/1ifPJOvLvu44lBDyLG9ivH) | 1:57 | 2022-04-03 |  |
+| [what the f\#%! was said](https://open.spotify.com/track/6g0qviEcAVgE5x9JjSY8mo) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 2:26 | 2023-12-26 |  |
 | [What the Fuck is Happening](https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 | 2023-08-23 |  |
 | [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:40 | 2021-08-05 |  |
 | [what we did in the desert](https://open.spotify.com/track/48NL8GMxz08wkiGmGK6Wie) | [eightiesheadachetape](https://open.spotify.com/artist/0zqkC2avtnLE51BUOhuV21) | [for a while](https://open.spotify.com/album/5qrlcvSfVekFSErw48sV2u) | 4:27 | 2022-06-09 |  |

@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-531 songs - 1 day 16 hr 45 min
+532 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Find The Way](https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 5:58 | 2022-02-10 | 2022-11-09 |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-12 |  |
-| [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 | 2023-06-22 |  |
+| [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 | 2023-06-22 | 2023-12-27 |
 | [First Song](https://open.spotify.com/track/3PsEztkJz9a5NsIgqzl3wd) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [First Song](https://open.spotify.com/album/1gdQmvCLSFSHvwA5NcjYgj) | 6:53 | 2023-03-10 | 2023-04-16 |
 | [First Star](https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [First Star](https://open.spotify.com/album/2kLWiGv7G7zsRillIELLMx) | 5:21 | 2023-08-03 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
@@ -420,6 +420,7 @@
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2023-03-10 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/08m95knJWmtWZ4xWwAFVoX) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 5:19 | 2022-04-14 | 2022-10-26 |
+| [Still Life](https://open.spotify.com/track/0ZDYNvHcrjfbN6CbErhqna) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:47 | 2023-12-22 |  |
 | [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-03-10 | 2023-12-24 |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-09 |  |
 | [Story II: Early Snow](https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy) | [Heiri Känzig](https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF) | [Five Stories](https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp) | 7:18 | 2022-03-10 |  |

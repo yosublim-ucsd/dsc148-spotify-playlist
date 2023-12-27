@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10287,
+  "num_followers": 10288,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTZmYzQwZWMwNmVjMDg4MjIxYTVhNTUwMzY4Y2ZiODBlZDZiZjJk",
+  "snapshot_id": "MCxjZGMyMjU1ZGE5YjdmZTQ2Y2FmZjYxNTBiZjE1MTU5MGEzZmQ4MTll",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
+      },
+      "artists": [
+        {
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
-      },
-      "artists": [
-        {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1011,22 +1011,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+        "name": "Baby Bells Riddim",
+        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Skorch Bun It",
+          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
         },
         {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+          "name": "CoolBlaze",
+          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
+        },
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+      "duration_ms": 227356,
+      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
+      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1059,30 +1067,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baby Bells Riddim",
-        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
       },
       "artists": [
         {
-          "name": "Skorch Bun It",
-          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         },
         {
-          "name": "CoolBlaze",
-          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
-        },
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
         }
       ],
-      "duration_ms": 227356,
-      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
-      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",

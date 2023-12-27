@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,163 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,217 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 |
 | 32 | [Over The Rainbow](https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Spirit's In It](https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b) | 3:45 |
 
-Snapshot ID: `MCw4ZGQ2NGVkYWJmMzhmMjJiYjNjNTg4MDI3NDAxYmYwMThhZjI1NWUw`
+Snapshot ID: `MCwxZmZmNGFjMmIwYmQ2OGY5MTQwY2FlYzc2OTcxMWQ1MDQ3OWNmOGRk`

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Kaleena Zanders",
-  "num_followers": 438640,
+  "num_followers": 438663,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODgzYjA5NWQ1ODNhNmVhOTI5ODYwMzViMzc3ZDkxNDdjNTJiM2Mx",
+  "snapshot_id": "MCxkYWY0ZjljNDJlYWJkOWNmZTg3NTRjOTUwZjAwMTlhYzFiZTFkODU4",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 202560,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Crave The Bassline",
-        "url": "https://open.spotify.com/album/7lSByeyVr614R7yPUOEpA5"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 166962,
-      "name": "Crave The Bassline",
-      "url": "https://open.spotify.com/track/3y3UuLjc5nTLvcBkNk47qV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 239047,
       "name": "buttons! (with Knock2)",
       "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Crave The Bassline",
+        "url": "https://open.spotify.com/album/7lSByeyVr614R7yPUOEpA5"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 166962,
+      "name": "Crave The Bassline",
+      "url": "https://open.spotify.com/track/3y3UuLjc5nTLvcBkNk47qV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Strut",
@@ -1357,6 +1341,22 @@
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "East Meets West",
@@ -1375,30 +1375,6 @@
       "duration_ms": 247500,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Ten Outta Ten",
-        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Tyrone",
-          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
-        },
-        {
-          "name": "Kid Kyote",
-          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Ten Outta Ten",
-      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1435,6 +1411,30 @@
       "duration_ms": 179572,
       "name": "Speaker Cone",
       "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Ten Outta Ten",
+        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Tyrone",
+          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
+        },
+        {
+          "name": "Kid Kyote",
+          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Ten Outta Ten",
+      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
-        }
-      ],
-      "duration_ms": 204950,
-      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "duration_ms": 204950,
+      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Supah Fly",
-      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Fiya (Curbi Edit)",
         "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Supah Fly",
+      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Chi City",
-          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Make Trouble",
         "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
       },
@@ -1891,22 +1871,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1923,6 +1887,42 @@
       "duration_ms": 162580,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Chi City",
+          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -2027,26 +2011,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
-      },
-      "artists": [
-        {
-          "name": "DEVOWR.",
-          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Moksi Crew",
         "url": "https://open.spotify.com/album/2bqqu0KeHqcsDlGKDCEneE"
       },
@@ -2067,6 +2031,42 @@
       "duration_ms": 291840,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
+      },
+      "artists": [
+        {
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2323,18 +2323,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "That's Right",
-        "url": "https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf"
+        "name": "SOOTHSAYER (Jon Casey Remix)",
+        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
       "artists": [
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 215625,
-      "name": "That's Right",
-      "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
+      "duration_ms": 191250,
+      "name": "SOOTHSAYER (Jon Casey Remix)",
+      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2367,22 +2371,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "SOOTHSAYER (Jon Casey Remix)",
-        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
+        "name": "That's Right",
+        "url": "https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SOOTHSAYER (Jon Casey Remix)",
-      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+      "duration_ms": 215625,
+      "name": "That's Right",
+      "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
     }
   ],
   "unique_name": "Nasty Bits",

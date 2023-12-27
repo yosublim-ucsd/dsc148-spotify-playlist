@@ -4,7 +4,7 @@
 
 > A happy place.
 
-282 songs - 18 hr 40 min
+283 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Confrontations](https://open.spotify.com/track/0p1ijCxJxAmEUm9OfTM4mX) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Confrontations](https://open.spotify.com/album/2Q9h5oFtFuMJhWydJSbfW2) | 5:19 | 2022-01-14 | 2022-07-20 |
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2022-01-14 | 2022-06-19 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-03 |  |
-| [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 |  |
+| [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 | 2023-12-27 |
 | [Delirio Italiano](https://open.spotify.com/track/5kir7rtYilOrOBCVIMMKRf) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Delirio Italiano](https://open.spotify.com/album/3t7vWxTyGnnkGTF5cI1Mw7) | 3:52 | 2022-04-06 | 2022-04-15 |
 | [Demba \- Demi Riquísimo Remix](https://open.spotify.com/track/5YWYvr0ecvcz9kYpYa7xID) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Trio Da Kali](https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5) | [Demba \(Demi Riquísimo Remix\)](https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE) | 7:02 | 2022-01-14 | 2022-07-13 |
 | [Disco Eccezionale \- Radio Edit](https://open.spotify.com/track/4k2xqWr7zFxVRY6BkrujuI) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Funk Rimini](https://open.spotify.com/artist/0gGVmvsVn6KNyOUACCBMRm) | [Disco Eccezionale](https://open.spotify.com/album/5M4oCtFndxCgeZkUEdqIUe) | 3:48 | 2022-04-06 | 2022-05-11 |
@@ -289,6 +289,7 @@
 | [What’s Your Pleasure? \- Georgia Remix](https://open.spotify.com/track/4B9DsDouaA1Nx0IvF2c8yY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [What’s Your Pleasure? \(Georgia Remix\)](https://open.spotify.com/album/60GJsKQfAe1AnVCvDRzfcU) | 3:42 | 2022-01-14 | 2022-07-26 |
 | [You Believe](https://open.spotify.com/track/3BFdqKd3qb1xBLYkGos2nC) | [Alex Virgo](https://open.spotify.com/artist/2Gfe6n0twVYYNqUzWfhMlt), [Benjamin Groove](https://open.spotify.com/artist/1rIyllOyqyuj6dSNhhqM0l) | [You Believe](https://open.spotify.com/album/1c4ibOjI5OmL24HwpLKxON) | 4:15 | 2022-05-10 | 2022-06-27 |
 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 | 2022-01-14 | 2023-06-10 |
+| [YoYo Disco \- Purple Disco Machine Remix](https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [YoYo Disco \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV) | 3:17 | 2023-12-26 |  |
 | [Zero](https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Zero](https://open.spotify.com/album/6dSzlxCbme1w6B16PX5KON) | 3:11 | 2022-01-14 | 2022-07-10 |
 
 \*This playlist was first scraped on 2022-02-13. Prior content cannot be recovered.

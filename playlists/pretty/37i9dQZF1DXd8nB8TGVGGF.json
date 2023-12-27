@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 32175,
+  "num_followers": 32215,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4",
+  "snapshot_id": "MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Jelly Bread",
-      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Jelly Bread",
+      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Blues For Hawaiians",
-      "url": "https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 147293,
-      "name": "Stop Right Now - Stereo Version",
-      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
+      "duration_ms": 203400,
+      "name": "Blues For Hawaiians",
+      "url": "https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -851,6 +835,22 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Stop Right Now - Stereo Version",
+      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Lightnin' Strikes One More Time",
-      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 200400,
       "name": "I Can't Quit The Blues",
       "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Lightnin' Strikes One More Time",
+      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 154693,
       "name": "Good Time Charlie - Pt. 1 / Single Version",
       "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
+        "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
+        "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "The Graham Bond Organisation",
+          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Choo Choo Ch'Boogie",
-      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+      "duration_ms": 167693,
+      "name": "Hoochie Coochie Man (Version 2) - Remastered",
+      "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
-        "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
+        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
       },
       "artists": [
         {
-          "name": "The Graham Bond Organisation",
-          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 167693,
-      "name": "Hoochie Coochie Man (Version 2) - Remastered",
-      "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
+      "duration_ms": 250906,
+      "name": "Choo Choo Ch'Boogie",
+      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Buzz Me Baby",
-      "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2023-01-27 16:34:16",

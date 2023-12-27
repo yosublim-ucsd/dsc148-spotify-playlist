@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQHrcOrasfs.md) - [plain]
 
 > you are that b...\. 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,042 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,093 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQHrcOrasfs.md) - [plain]
 | 64 | [LA JOAQUI \| Mission 08](https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| Mission 08](https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz) | 2:29 |
 | 65 | [Putero](https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:39 |
 
-Snapshot ID: `MCxkNDNmYTcyM2U5NjQzY2JhM2RkOTg5ZmFkOWZhZjIyNTU1OWZiMjY5`
+Snapshot ID: `MCw1Mzg1MzBlMGJhNmE5ZDBlNWFhYzZiMWU5NTBjMmNmMDE2NmVmMmZi`

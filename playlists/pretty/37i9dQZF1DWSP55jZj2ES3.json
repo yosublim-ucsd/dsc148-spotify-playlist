@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 528125,
+  "num_followers": 528147,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2M5MDBjZjQ4MWQxMDdmZGQ5MjYxMjU1ZDhlODQ0Yzk1YmRkZTAz",
+  "snapshot_id": "MCw4MjA3YjFkMDA1M2NmMTZlYmE1YjQ3NGYzODk1MTQ1MDFjMTEzNmNj",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Thrill of the Arts",
         "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "peppermint",
         "url": "https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 193093,
       "name": "Dapper (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Free Love",
-        "url": "https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Cleaner Air",
         "url": "https://open.spotify.com/album/2JAbq9m4RsGqPFRIB7s7q5"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 128129,
       "name": "Cleaner Air",
       "url": "https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Free Love",
+        "url": "https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX"
     },
     {
       "added_at": "2023-09-16 00:49:46",

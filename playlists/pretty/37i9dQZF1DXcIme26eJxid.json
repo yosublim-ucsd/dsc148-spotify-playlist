@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 99272,
+  "num_followers": 99306,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzUzNjUyODczMDhkNzE0NTU4OWE2ZGQxZjY5OWRjYTQxMjU2ZTFk",
+  "snapshot_id": "MCxiZTY2OWU3NjJkNjEzY2ViYWNmYmQ0Y2I3NzM2MTZmNmY5OTVmOTc5",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -239,6 +223,22 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Gasper Lawal",
-          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Kita Kita",
-      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Weekend Special (USA Remixes)",
@@ -587,6 +571,22 @@
       "duration_ms": 288109,
       "name": "Weekend Special (with Brenda Fassie) - USA Remix",
       "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
     },
     {
       "added_at": "2019-06-28 16:54:51",

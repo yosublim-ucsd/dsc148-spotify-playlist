@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 135527,
+  "num_followers": 135617,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODg5YWViMTZkZmQxM2Q2N2MzYzkxYzljMzk0Mjk5ZWY3NmM5OThm",
+  "snapshot_id": "MCw3OWMxNDhhYzI5OTcxNDk0Y2JlYzZmYzIwNTA0MzkxZmY4NjkzOGQ2",
   "tracks": [
     {
       "added_at": "2023-12-22 12:01:08",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 269848,
-      "name": "Perdoname / Te Quiero a Ti - En Vivo",
-      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+      "duration_ms": 269848,
+      "name": "Perdoname / Te Quiero a Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -411,26 +411,18 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "No Voy A Llorar / Me Enamor\u00e9",
-        "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
       "artists": [
         {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
-        },
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "El Club de la Cumbia",
-          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 194894,
-      "name": "No Voy A Llorar / Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -455,18 +447,26 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+        "name": "No Voy A Llorar / Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "El Club de la Cumbia",
+          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
         }
       ],
-      "duration_ms": 177739,
-      "name": "No Llores - En Vivo",
-      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+      "duration_ms": 194894,
+      "name": "No Voy A Llorar / Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "Sola Y Suelta (En Vivo)",
-        "url": "https://open.spotify.com/album/2DX8ZsbgoEXTZTLeHzOoun"
-      },
-      "artists": [
-        {
-          "name": "Luana",
-          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
-        }
-      ],
-      "duration_ms": 169941,
-      "name": "Sola y Suelta - En Vivo",
-      "url": "https://open.spotify.com/track/4WLsKfXYMXlF3Kus95sSNC"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
         "name": "Nunca M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
@@ -771,22 +755,18 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "La Cancioncita (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj"
+        "name": "Sola Y Suelta (En Vivo)",
+        "url": "https://open.spotify.com/album/2DX8ZsbgoEXTZTLeHzOoun"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
-          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
+          "name": "Luana",
+          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
         }
       ],
-      "duration_ms": 339212,
-      "name": "La Cancioncita - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp"
+      "duration_ms": 169941,
+      "name": "Sola y Suelta - En Vivo",
+      "url": "https://open.spotify.com/track/4WLsKfXYMXlF3Kus95sSNC"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -807,6 +787,26 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
+        "name": "La Cancioncita (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
+          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
+        }
+      ],
+      "duration_ms": 339212,
+      "name": "La Cancioncita - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 221701,
       "name": "Tu Sin Mi - En Vivo",
       "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
         "name": "10 A\u00f1os Movistar Arena",
         "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243275,
       "name": "Amor Sin Fronteras",
       "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -1063,18 +1063,38 @@
     {
       "added_at": "2023-12-22 12:01:08",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "added_at": "2023-12-22 12:01:08",
+      "album": {
+        "name": "Una Copa de M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
+      },
+      "artists": [
+        {
+          "name": "Sonido Caracol",
+          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 316182,
+      "name": "Una Copa de M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
     },
     {
       "added_at": "2023-12-22 12:01:08",
@@ -1107,26 +1127,6 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
-    },
-    {
-      "added_at": "2023-12-22 12:01:08",
-      "album": {
-        "name": "Una Copa de M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
-      },
-      "artists": [
-        {
-          "name": "Sonido Caracol",
-          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 316182,
-      "name": "Una Copa de M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
     }
   ],
   "unique_name": "Vivo de Cumbia",

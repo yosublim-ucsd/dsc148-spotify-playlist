@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que brillaron en 2023. Foto: Vesta Lugg",
-  "num_followers": 13246,
+  "num_followers": 13247,
   "original_name": "EQUAL Chile: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl",
+  "snapshot_id": "MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 149151,
+      "name": "nada!",
+      "url": "https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Keep Trying",
         "url": "https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 218000,
       "name": "Keep Trying",
       "url": "https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 149151,
-      "name": "nada!",
-      "url": "https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O"
     },
     {
       "added_at": "2023-11-29 12:15:00",

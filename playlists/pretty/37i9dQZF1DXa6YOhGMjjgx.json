@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474988,
+  "num_followers": 474977,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGIzZGE4MGJhODE2NjEyOWViYTJmODJlNjUxMzljOGRhOWQ1MGZm",
+  "snapshot_id": "MCxiODk5OTVkMjc2OTk4MzcxZTk5Zjc1NjYwZWM3NDMwYjE4Yzg4ZTg4",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
-      },
-      "artists": [
-        {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+      },
+      "artists": [
+        {
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "In A Dream",
         "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 178404,
       "name": "Burning Down a Denny's",
       "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
     },
     {
       "added_at": "2023-09-08 20:23:35",

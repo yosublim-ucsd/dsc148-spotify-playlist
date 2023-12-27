@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 110097,
+  "num_followers": 110166,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWVlZDA4ZTU5MTgwNWUzMTBiMzA2MmIyZjEyNDhlMDg1NWE5N2I5",
+  "snapshot_id": "MCw0Y2U3MzBkMjIzYWFjNzEyZmU2YzkzMDczOWM4ODc2Mzg4NjFjZjI0",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "As\u00ed Me Fue Contigo",
-        "url": "https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt"
-      },
-      "artists": [
-        {
-          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
-          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "As\u00ed Me Fue Contigo",
-      "url": "https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 143010,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "As\u00ed Me Fue Contigo",
+        "url": "https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt"
+      },
+      "artists": [
+        {
+          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
+          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "As\u00ed Me Fue Contigo",
+      "url": "https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Nos Divertimos Logrando Lo Imposible",
-        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
+        "name": "Ni Diablo Ni Santo",
+        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 256790,
-      "name": "No Vamos a Funcionar",
-      "url": "https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq"
+      "duration_ms": 178093,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/32BrJ3DsVWeGvsGVRX6JuV"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Ni Diablo Ni Santo",
-        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
+        "name": "Nos Divertimos Logrando Lo Imposible",
+        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 178093,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/32BrJ3DsVWeGvsGVRX6JuV"
+      "duration_ms": 256790,
+      "name": "No Vamos a Funcionar",
+      "url": "https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Seguimos Sumando",
-        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
       "artists": [
         {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 192093,
-      "name": "No Va A Ser Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/3tanCShg7Z7voQv25DaKFO"
+      "duration_ms": 152133,
+      "name": "No Vales Un Peso",
+      "url": "https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -723,34 +723,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Voy A Quererte Tanto",
-        "url": "https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd"
+        "name": "Seguimos Sumando",
+        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
         }
       ],
-      "duration_ms": 172080,
-      "name": "Voy A Quererte Tanto",
-      "url": "https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "No Vales Un Peso",
-      "url": "https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4"
+      "duration_ms": 192093,
+      "name": "No Va A Ser Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/3tanCShg7Z7voQv25DaKFO"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -767,6 +751,22 @@
       "duration_ms": 172058,
       "name": "Cre\u00ed",
       "url": "https://open.spotify.com/track/4x2bs0JLkuluDZw64K7l2K"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Voy A Quererte Tanto",
+        "url": "https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Voy A Quererte Tanto",
+      "url": "https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Moneda Sigue En El Aire",
         "url": "https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G"
       },
@@ -931,18 +915,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Y Al Final Qued\u00e9 Sin Ti",
-        "url": "https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o"
+        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
       },
       "artists": [
         {
-          "name": "Proyecto X",
-          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 225586,
-      "name": "Y Al Final Qued\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX"
+      "duration_ms": 196000,
+      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 244727,
+      "name": "El Anticuado",
+      "url": "https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Vida A Mi Modo",
-        "url": "https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY"
+        "name": "Y Al Final Qued\u00e9 Sin Ti",
+        "url": "https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o"
       },
       "artists": [
         {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+          "name": "Proyecto X",
+          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
         }
       ],
-      "duration_ms": 194343,
-      "name": "De tanto Que Te Di",
-      "url": "https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY"
+      "duration_ms": 225586,
+      "name": "Y Al Final Qued\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -995,18 +995,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+        "name": "La Vida A Mi Modo",
+        "url": "https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
         }
       ],
-      "duration_ms": 244727,
-      "name": "El Anticuado",
-      "url": "https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W"
+      "duration_ms": 194343,
+      "name": "De tanto Que Te Di",
+      "url": "https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Vamos A Ver Qui\u00e9n Gana",
+      "url": "https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1039,22 +1055,6 @@
       "duration_ms": 192124,
       "name": "No Te R\u00edas",
       "url": "https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Vamos A Ver Qui\u00e9n Gana",
-      "url": "https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Si Me Hubieras Oido",
-      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 126880,
       "name": "Las Ultras",
       "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Si Me Hubieras Oido",
+      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
     },
     {
       "added_at": "2022-05-25 16:50:02",

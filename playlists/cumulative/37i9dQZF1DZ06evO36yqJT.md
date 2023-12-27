@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 46 min
+65 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 | 2023-05-12 |  |
 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 | 2023-05-12 |  |
 | [I Want To Be Troubled No More](https://open.spotify.com/track/0vw5bu8V54tE25QeQFTLih) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Even Me](https://open.spotify.com/album/6E9ar58WHPraobxdst9pyA) | 2:53 | 2023-05-12 | 2023-09-26 |
+| [I'm Ready](https://open.spotify.com/track/5Q61xrkSzGTaMinDD7a8Tr) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 4:53 | 2023-12-26 |  |
 | [If I Hold On \- Voice](https://open.spotify.com/track/2n7hlcA6GJFY56C7Q4vMY1) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Swingin' Into The 21st](https://open.spotify.com/album/6cpuLcJLiDLlDbZaNgUHFU) | 1:38 | 2023-12-13 |  |
 | [It's Alright, It's Ok](https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 3:45 | 2023-05-12 |  |
 | [Jesus](https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:43 | 2023-05-12 |  |
@@ -69,7 +70,7 @@
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 |  |
 | [You Can Make It](https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:31 | 2023-05-12 |  |
-| [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 |  |
+| [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 | 2023-12-27 |
 | [You Stayed](https://open.spotify.com/track/0xjj8wnRsAHbNW2idVp0Ip) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:31 | 2023-05-12 |  |
 | [You're Next In Line for a Miracle](https://open.spotify.com/track/6IdkVDIVFjznzo4RfNtT1T) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 7:04 | 2023-05-12 |  |
 

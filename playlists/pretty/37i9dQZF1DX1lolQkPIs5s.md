@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,926 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,984 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 4 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 |
 | 5 | [I'm A Star \- From "Wish"](https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I'm A Star \(From "Wish"\)](https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8) | 2:54 |
 | 6 | [This Is The Thanks I Get?!](https://open.spotify.com/track/0lZWIQdXP7XJo9Ct2mwc3D) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 3:14 |
-| 7 | [Knowing What I Know Now](https://open.spotify.com/track/6KgiQiAyJpe9mSN0GKcUed) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR), [Rei Dan](https://open.spotify.com/artist/7CdDbVRJCuANR86sTQQtPR), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 3:20 |
+| 7 | [Knowing What I Know Now](https://open.spotify.com/track/6KgiQiAyJpe9mSN0GKcUed) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR), [檀 れい](https://open.spotify.com/artist/7CdDbVRJCuANR86sTQQtPR), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 3:20 |
 | 8 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 |
 | 9 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 |
 | 10 | [Living in Color \- Tokyo Disney Resort 40th "Dream\-Go\-Round" Theme Song](https://open.spotify.com/track/0GqBIo3rT8QtPAwNqOP0V4) | [Tokyo Disney Resort](https://open.spotify.com/artist/5zmxF4kcObibicbzJs4ExJ) | [Living in Color \(Tokyo Disney Resort 40th "Dream\-Go\-Round" Theme Song\)](https://open.spotify.com/album/4jv70TSA1bEEW0ueROzvX1) | 3:19 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 157 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 158 | [Whistle While You Work](https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 3:23 |
 
-Snapshot ID: `MCwxOGQ0NzdmNWI4NTgwNzgzM2ZkZThiY2M4MTRmZGRmNjZlNGM3ZGYy`
+Snapshot ID: `MCwzY2NjZTNjMDMxOTMzMjkxNDBjYzczN2JjZTA0OGI2NGNjNDQ3NTI1`

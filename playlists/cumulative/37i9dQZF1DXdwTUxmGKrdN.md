@@ -4,14 +4,14 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-234 songs - 17 hr 9 min
+235 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\. Soul Dream](https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh) | 5:02 | 2022-04-11 | 2022-04-21 |
 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 | 2022-04-11 |  |
 | [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 | 2022-04-11 |  |
-| [18th & Vine](https://open.spotify.com/track/1AQE0mpcgG3sEcJu7leYr5) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2lDr8Vb5HqF8thh8aMbwrA) | 4:44 | 2023-05-30 |  |
+| [18th & Vine](https://open.spotify.com/track/1AQE0mpcgG3sEcJu7leYr5) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2lDr8Vb5HqF8thh8aMbwrA) | 4:44 | 2023-05-30 | 2023-12-27 |
 | [18th & Vine](https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE) | 4:44 | 2022-04-11 | 2022-04-21 |
 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 |  |
 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 | 2022-01-03 |  |
@@ -31,7 +31,7 @@
 | [Because Of You](https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/5cWMjZcZwARnijnPG2Qx4T) | 5:16 | 2021-12-27 | 2022-07-29 |
 | [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 | 2022-04-11 |  |
 | [Bittersweet](https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Bittersweet](https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ) | 4:04 | 2021-12-27 | 2022-07-27 |
-| [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2023-05-30 | 2023-12-25 |
+| [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2023-05-30 |  |
 | [Black Dynamite](https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Donald Hayes](https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:31 | 2022-04-11 | 2022-04-19 |
 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 | 2022-07-18 |  |
 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 | 2021-12-27 | 2022-07-29 |
@@ -149,6 +149,7 @@
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-12-27 | 2022-07-28 |
 | [Low and Slow](https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ) | 4:08 | 2021-12-27 | 2022-07-26 |
 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 | 2022-07-18 |  |
+| [Lucy](https://open.spotify.com/track/0FfrrAKzUYC5VuTks5RNqp) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/4119Hr2ZozWvGSKWMAetDD) | 3:20 | 2023-12-22 |  |
 | [Lucy](https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc) | 3:20 | 2022-01-03 | 2023-12-14 |
 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 | 2023-11-15 |  |
 | [Magic Hour](https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Magic Hour](https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz) | 4:15 | 2021-12-27 |  |
@@ -160,7 +161,7 @@
 | [New Hope](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 | 2022-04-11 | 2023-10-05 |
 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 | 2022-07-11 |  |
 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 | 2022-01-10 |  |
-| [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 |  |
+| [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 | 2023-12-27 |
 | [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 | 2022-01-03 |  |
 | [Out of the Blue](https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 5:58 | 2021-12-27 |  |
 | [Outside In](https://open.spotify.com/track/3C7UhOwpaQCfGHK5QCo8Yp) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Outside In](https://open.spotify.com/album/1KnHbqqPb85FQGhBDjZKa5) | 4:20 | 2023-05-30 |  |

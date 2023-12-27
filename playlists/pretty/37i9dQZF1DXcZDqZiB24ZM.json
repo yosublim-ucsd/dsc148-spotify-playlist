@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: FouKi",
-  "num_followers": 8748,
+  "num_followers": 8749,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjczMGM2Y2U2ZjY0ZDM1M2JhZjlmYTY2OTVkNWRlNjhkMDFkNjg2",
+  "snapshot_id": "MCxkN2Y2Mjc3YWIxMDk0YTJkYjA4MmFiNjQ3YjIzNGI4ZjUxMTU0NTU3",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Sourire kabyle",
-        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
-      },
-      "artists": [
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        }
-      ],
-      "duration_ms": 184999,
-      "name": "Pour la vie",
-      "url": "https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "On Frap",
         "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187213,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Sourire kabyle",
+        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        }
+      ],
+      "duration_ms": 184999,
+      "name": "Pour la vie",
+      "url": "https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Non Merci",
         "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 211970,
       "name": "Non Merci",
       "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "OUI (tout tout tout toutttte)",
-        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
-      },
-      "artists": [
-        {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Bonhomme Pendu (Chapitre 2)",
         "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
@@ -1399,34 +1383,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
-        "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
+        "name": "OUI (tout tout tout toutttte)",
+        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
       },
       "artists": [
         {
-          "name": "Imposs",
-          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
-        },
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        },
-        {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
         }
       ],
-      "duration_ms": 293760,
-      "name": "L\u00e9gendaire",
-      "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
+      "duration_ms": 222200,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1459,6 +1427,38 @@
       "duration_ms": 159688,
       "name": "Basilic",
       "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
+        "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
+      },
+      "artists": [
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        },
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "L\u00e9gendaire",
+      "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1523,6 +1523,30 @@
       "duration_ms": 208140,
       "name": "La purge",
       "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "002 / LOVE ME",
+        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 266599,
+      "name": "Come Inside (Kaytranada Edit)",
+      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1695,22 +1719,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 254396,
-      "name": "La famille",
-      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Petit prince",
         "url": "https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4"
       },
@@ -1755,6 +1763,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 254396,
+      "name": "La famille",
+      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1767,30 +1791,6 @@
       "duration_ms": 213167,
       "name": "Loin",
       "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "002 / LOVE ME",
-        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 266599,
-      "name": "Come Inside (Kaytranada Edit)",
-      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Surhomme",
-        "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
+        "name": "Cest la vie",
+        "url": "https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV"
       },
       "artists": [
         {
-          "name": "Lary Kidd",
-          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+          "name": "Soubillz",
+          "url": "https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp"
         },
         {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+          "name": "YH",
+          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Sac de sport",
-      "url": "https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ"
+      "duration_ms": 182569,
+      "name": "Cest la vie",
+      "url": "https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E"
     }
   ],
   "unique_name": "Les nouveaux classiques",

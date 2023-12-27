@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 42855,
+  "num_followers": 42872,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzEyODdmNjQ1ODAyYzRjODNlMWMxYWYyYTY3YzVkNWVhNmUyNzJm",
+  "snapshot_id": "MCxhMTUxNTJhNjk1NDgzMGY3YTNmZTRlOTE0ZGMyMWYxZjkwM2I1MWI1",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
-      },
-      "artists": [
-        {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 162880,
       "name": "Naturaleza",
       "url": "https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "added_at": "2023-12-12 22:35:32",

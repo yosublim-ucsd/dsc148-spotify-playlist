@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-804 songs - 2 day 0 hr 55 min
+805 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All I Want](https://open.spotify.com/track/0Xg6Qq6FNmO5GaCD9S8fHY) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [All I Want](https://open.spotify.com/album/6D2PFcFuKxjKocz9GQhBQV) | 2:55 | 2022-11-04 | 2022-12-03 |
 | [All or Nothing](https://open.spotify.com/track/5pUozP7ECHhMLAgRCR9z6y) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [All or Nothing](https://open.spotify.com/album/0Z74bCmcj81sCytlEFDvp2) | 3:29 | 2022-08-19 | 2022-09-03 |
 | [All Over My Skin](https://open.spotify.com/track/5qVkxrb06HPP4t592deVJH) | [EMBERS](https://open.spotify.com/artist/1o4OrJNVM9ZSj0paJaEVxk), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Ava La'Rae](https://open.spotify.com/artist/5qCHujnLBXrf4txu5pTWOm) | [All Over My Skin](https://open.spotify.com/album/1K4I9cTFAZfZw4Kc8hN9vM) | 2:56 | 2021-12-17 | 2022-02-26 |
-| [Allium](https://open.spotify.com/track/2YKFsGvXC5HvqKFfv8ECi3) | [Sendr](https://open.spotify.com/artist/5eCYgqBN3icgwzuHfx1Doe), [Kanallia](https://open.spotify.com/artist/2U9oSjcKWylpCn4Xl7QuBH) | [Allium / Can't Forget You](https://open.spotify.com/album/6cUXx4MiNDEKF57MsxDLms) | 2:59 | 2023-06-09 |  |
+| [Allium](https://open.spotify.com/track/2YKFsGvXC5HvqKFfv8ECi3) | [Sendr](https://open.spotify.com/artist/5eCYgqBN3icgwzuHfx1Doe), [Kanallia](https://open.spotify.com/artist/2U9oSjcKWylpCn4Xl7QuBH) | [Allium / Can't Forget You](https://open.spotify.com/album/6cUXx4MiNDEKF57MsxDLms) | 2:59 | 2023-06-09 | 2023-12-27 |
 | [Ally of the Good](https://open.spotify.com/track/6lJUX58cCiVEw4T4H7jj3i) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Ally of the Good](https://open.spotify.com/album/2cXubQqUPpCIZKzhVgExfy) | 3:45 | 2022-04-01 | 2023-04-09 |
 | [Alma](https://open.spotify.com/track/2mgbWoA25dlMI1ZwZnZMgj) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Alma](https://open.spotify.com/album/0E35hAZHemk48IrC95aDqh) | 3:44 | 2021-12-17 | 2022-02-26 |
 | [Alone \- Ilan Bluestone Remix](https://open.spotify.com/track/1szDFtoqP13cJKSL66H0Ol) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Alone \(Ilan Bluestone Remix\)](https://open.spotify.com/album/1wNbgGwbX1J1O0gdgueLli) | 3:34 | 2023-11-10 |  |
@@ -315,6 +315,7 @@
 | [Hear Me Out](https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hear Me Out](https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F) | 4:39 | 2022-08-05 | 2023-07-08 |
 | [Hearts Will Burn](https://open.spotify.com/track/66DY7zgkddhgjZ0LYGRrJu) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Hearts Will Burn](https://open.spotify.com/album/5MWISTULGZ0CxLZywvufNb) | 2:21 | 2022-02-18 | 2023-02-25 |
 | [Heavy](https://open.spotify.com/track/4W6PWngm3jVhWrnioWGAfk) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Heavy](https://open.spotify.com/album/12xzb1KS1xNGIoswTNCPDN) | 3:35 | 2023-03-31 | 2023-08-19 |
+| [Her Melodie \- Edit](https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh) | [Marc Van Linden](https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9), [D\-Gor](https://open.spotify.com/artist/4QU6P9mdmVoPN9rP45llR1) | [Her Melodie](https://open.spotify.com/album/5N3CTxuoFlVowVzS7dlahO) | 3:19 | 2023-12-15 |  |
 | [Here 4 U](https://open.spotify.com/track/5CW6pxSxI4DLSf6VgtluVA) | [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Here 4 U](https://open.spotify.com/album/744oSbNoEOUtFj6EijKxrC) | 3:41 | 2023-04-07 | 2023-06-03 |
 | [Here I Am](https://open.spotify.com/track/0MUbxQzL04ftYyR8qsCRNj) | [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Harshil Kamdar](https://open.spotify.com/artist/7BTbq5jH8tND6FAN6qoey2), [Alina Renae](https://open.spotify.com/artist/0ijMivCSLUlNYGIhqFXIEZ) | [Here I Am](https://open.spotify.com/album/6BtHRtGIvmirnqWOXvvdGZ) | 3:16 | 2023-05-26 |  |
 | [Heroes For One Day](https://open.spotify.com/track/0GC56le7ReiMLDzRteFqGw) | [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Heroes For One Day](https://open.spotify.com/album/118dkQnioCIfv9N0b03a9a) | 2:45 | 2022-04-15 | 2023-03-12 |

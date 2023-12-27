@@ -4,7 +4,7 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-41 songs - 3 hr 32 min
+42 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 | 2023-05-11 |  |
 | [Shaam Tanha](https://open.spotify.com/track/5V6XcXBrCGI6JOeYr4Uyo3) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:59 | 2023-05-11 |  |
 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 | 2023-05-11 |  |
-| [Tere Bin](https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:22 | 2023-05-11 |  |
+| [Tere Bin](https://open.spotify.com/track/4ynrGpHy0cTZPRBJrhIHNP) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:22 | 2023-12-18 |  |
+| [Tere Bin](https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:22 | 2023-05-11 | 2023-12-27 |
 | [Tere Mere Saath](https://open.spotify.com/track/0ee11PpglgT26oqSiBHZjm) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:32 | 2023-05-11 |  |
 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2023-05-11 |  |
 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 | 2023-05-11 |  |

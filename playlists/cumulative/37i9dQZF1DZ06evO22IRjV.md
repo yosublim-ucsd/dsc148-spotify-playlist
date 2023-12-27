@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-99 songs - 6 hr 30 min
+100 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [DAYS](https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:15 | 2022-06-09 |  |
 | [DAYS 〜EUREKA OPENING MIX〜](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 | 2022-06-20 |  |
 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 | 2022-06-09 |  |
+| [Fliessband Träume \- Remastered](https://open.spotify.com/track/6XH0qJyZoWO04vMWIBEmrB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [New Waves Underscores](https://open.spotify.com/album/1ULLSlDOY9hyxX7ptHMnrm) | 1:26 | 2023-12-26 |  |
 | [FLOW ANIME OP・ED Size Special Collection](https://open.spotify.com/track/0FS7VElufgTEqTDDgPMYzg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 14:55 | 2022-06-09 | 2022-10-13 |
 | [Garden 〜Summer Edit〜](https://open.spotify.com/track/56lzWIgPrLMT0i4ySGWmE4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:48 | 2022-09-21 | 2022-10-13 |
 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 | 2023-10-10 |  |
@@ -52,7 +53,7 @@
 | [NIGHT PARADE](https://open.spotify.com/track/0z5V1ReQNK5Lkoz2ZADDHB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 4:56 | 2022-06-09 | 2022-09-20 |
 | [NOT ENOUGH](https://open.spotify.com/track/2lZDS2nIZR1UCdbxJkeWEx) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH](https://open.spotify.com/album/59IL3p6UfwUsQ176vxluPm) | 3:22 | 2022-07-09 | 2022-08-27 |
 | [NOT ENOUGH \- feat\. FLOW](https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH \(feat\. FLOW\)](https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh) | 3:22 | 2022-08-26 | 2023-03-20 |
-| [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 | 2022-11-20 |  |
+| [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 | 2022-11-20 | 2023-12-27 |
 | [Oblivion](https://open.spotify.com/track/3ydfozBnIvZq29SPCCryL6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [hisashi](https://open.spotify.com/artist/2nYRoAv0c0q4lxZ7rECDkL) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:10 | 2022-07-14 | 2022-07-17 |
 | [ONENESS](https://open.spotify.com/track/0S71als4AvtlAU7Pcb7OJJ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 | 2023-01-31 | 2023-04-03 |
 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 | 2022-06-09 |  |

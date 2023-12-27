@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment.
 
-190 songs - 11 hr 35 min
+191 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [7elma](https://open.spotify.com/track/2Dbvw3R3GqaF4ucrbe4dTs) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/27l6Sbd25Oy7dhrNxItLJQ) | 4:02 | 2021-12-10 | 2023-04-02 |
 | [7kit M3a Leb7ar](https://open.spotify.com/track/1S3vLnBYhccO9L5o46HtH8) | [Aveyro Ave](https://open.spotify.com/artist/0gcWKqqEEiY4xLTxZDBDu4) | [Infection 5 Revelation](https://open.spotify.com/album/2OAGlBJZcVhyP0YjNJDfhr) | 6:40 | 2022-11-29 | 2023-01-18 |
 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 | 2023-12-14 |  |
-| [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 |  |
+| [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 | 2023-12-27 |
 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 | 2023-03-06 |  |
 | [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 | 2023-12-12 |  |
 | [Aal Hit](https://open.spotify.com/track/5bmskSTrIQF9AG3QRNcRs7) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:42 | 2022-04-14 | 2022-09-09 |
@@ -144,6 +144,7 @@
 | [Rmit Wraya](https://open.spotify.com/track/7I44yj3TRUGHQzkGtwzrXy) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Rmit Wraya](https://open.spotify.com/album/21owqa83UEhxqO6apgOZsc) | 3:04 | 2023-08-19 |  |
 | [S3ib](https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [S3ib](https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI) | 3:39 | 2023-06-27 |  |
 | [Sabeba](https://open.spotify.com/track/6RTBd80nLFY1Nft7mJpFKx) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Sabeba](https://open.spotify.com/album/4EiDJaH5SidMjAfhnErZse) | 3:14 | 2021-12-10 | 2022-02-04 |
+| [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 | 2023-12-26 |  |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2023-07-24 |  |
 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \(سهّارة\)](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 | 2023-11-02 |  |
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 | 2022-11-08 |

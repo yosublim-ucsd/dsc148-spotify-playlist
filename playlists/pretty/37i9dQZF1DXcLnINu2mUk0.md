@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,189 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,198 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 44 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
 | 45 | [Contigo](https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Contigo](https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC) | 2:42 |
 | 46 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
-| 47 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
-| 48 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 47 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 48 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
 | 49 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 50 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 51 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 73 | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV), [Midnight Commander](https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR) | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp) | 2:24 |
 | 74 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
 | 75 | [Strong](https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Strong](https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg) | 3:08 |
-| 76 | [M3lodia](https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq) | [Belarmino Nascimento](https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d) | [M3lodia](https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz) | 3:55 |
-| 77 | [PESO DA COROA](https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi) | [Don Kapa](https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR), [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw) | [PESO DA COROA](https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7) | 2:38 |
+| 76 | [PESO DA COROA](https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi) | [Don Kapa](https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR), [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw) | [PESO DA COROA](https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7) | 2:38 |
+| 77 | [M3lodia](https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq) | [Belarmino Nascimento](https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d) | [M3lodia](https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz) | 3:55 |
 | 78 | [Selva](https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot) | [Cabaceira](https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp) | [Selva](https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ) | 2:54 |
 | 79 | [Saudade](https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:09 |
 | 80 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 
-Snapshot ID: `MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5`
+Snapshot ID: `MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl`

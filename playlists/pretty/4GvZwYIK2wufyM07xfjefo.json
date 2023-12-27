@@ -6,8 +6,108 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "NjY0LDNjNzM3ZWQwMDMwNmM1M2M2MmRmNjNmMDFkMmM4MWExNWIyNjJjMGE=",
+  "snapshot_id": "NjcyLDA3M2VjMWU5N2RmN2ZiZGU4MWJmYjUyM2NlMjk3MThjYmZlZDQ5NTA=",
   "tracks": [
+    {
+      "added_at": "2023-12-26 09:06:16",
+      "album": {
+        "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088",
+        "url": "https://open.spotify.com/album/3FP3el0ln0CtFRklyZRz3Y"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/71UxNdsNguzTYAM7dhodgP"
+    },
+    {
+      "added_at": "2023-12-26 09:06:31",
+      "album": {
+        "name": "\u30a4\u30df\u30c6\u30fc\u30b7\u30e7\u30f3\u30a2\u30d5\u30bf\u30ea\u30df\u30c3\u30b8",
+        "url": "https://open.spotify.com/album/0tfyNbonuNBXi0jv8BxeCM"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u3057\u304b\u304b\u3082\u3057\u304b\u3002",
+          "url": "https://open.spotify.com/artist/0YdOi2vvnPxYFGYTVCZvLT"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 196054,
+      "name": "\u30a4\u30df\u30c6\u30fc\u30b7\u30e7\u30f3\u30a2\u30d5\u30bf\u30ea\u30df\u30c3\u30b8 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/56URkkPZLSD32KPGpve0nv"
+    },
+    {
+      "added_at": "2023-12-26 09:06:05",
+      "album": {
+        "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076",
+        "url": "https://open.spotify.com/album/5iExtveqj1otLYflaFdHAe"
+      },
+      "artists": [
+        {
+          "name": "\u5098\u6751\u30c8\u30fc\u30bf",
+          "url": "https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 284050,
+      "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076 (feat. \u521d\u97f3\u30df\u30af&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5dySAFu6j5IrfIIQcekN47"
+    },
+    {
+      "added_at": "2023-12-26 09:06:43",
+      "album": {
+        "name": "Our true feelings",
+        "url": "https://open.spotify.com/album/13S6foSlj2uEDDKqYaNz6k"
+      },
+      "artists": [
+        {
+          "name": "takamatt",
+          "url": "https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Our true feelings",
+      "url": "https://open.spotify.com/track/6KOZLGrZT2tguQv9ZqwMpo"
+    },
+    {
+      "added_at": "2023-12-26 09:07:05",
+      "album": {
+        "name": "METRO",
+        "url": "https://open.spotify.com/album/7oH9EdcEhU5vi4AFZbyJWG"
+      },
+      "artists": [
+        {
+          "name": "patirchev",
+          "url": "https://open.spotify.com/artist/2PTdcLmUjIYOHNr8F3kkRL"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "PASSAGE (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3CBz8B8mKSS461Hqk121km"
+    },
     {
       "added_at": "2023-12-19 08:04:51",
       "album": {
@@ -611,94 +711,6 @@
       "duration_ms": 243000,
       "name": "\u6cea",
       "url": "https://open.spotify.com/track/23psgaA4No7GwdEyD6bPyr"
-    },
-    {
-      "added_at": "2023-10-24 08:12:25",
-      "album": {
-        "name": "\u9752\u304f\u3001\u512a\u3057\u304f\u3001\u5149\u3063\u3066\u3002",
-        "url": "https://open.spotify.com/album/7EWVyqh2CpZ5HXBesXpWfD"
-      },
-      "artists": [
-        {
-          "name": "forute",
-          "url": "https://open.spotify.com/artist/4aPeEvvMZUspd0xWVtUWRG"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 143951,
-      "name": "\u305d\u308c\u3067\u3082\u751f\u304d\u3066\u3001\u751f\u304d\u308b\u3002 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6oKTbKsKZA44rfqwA4MPdM"
-    },
-    {
-      "added_at": "2023-10-24 08:13:07",
-      "album": {
-        "name": "\u306b\u305b\u3082\u306e",
-        "url": "https://open.spotify.com/album/1lPjsNZymMFCKQnBjtDdzK"
-      },
-      "artists": [
-        {
-          "name": "nogumi",
-          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "\u306b\u305b\u3082\u306e (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3DCzwO53J8sT1KLZrPB3Gd"
-    },
-    {
-      "added_at": "2023-10-24 08:21:12",
-      "album": {
-        "name": "\u3053\u306e\u307e\u307e",
-        "url": "https://open.spotify.com/album/0nTc1LcVKmzeUTqIddy5Hw"
-      },
-      "artists": [
-        {
-          "name": "MinaruP",
-          "url": "https://open.spotify.com/artist/2mOMxxfTgo6WNUP5bJVdqI"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "\u3053\u306e\u307e\u307e",
-      "url": "https://open.spotify.com/track/55SZYGNQCwlaIFWf5NRUYx"
-    },
-    {
-      "added_at": "2023-10-24 08:18:45",
-      "album": {
-        "name": "\u30ea\u30f3\u306e\u3046\u308b\u3068\u3089!!",
-        "url": "https://open.spotify.com/album/5kIWJGwu8izDwEVutvCzLo"
-      },
-      "artists": [
-        {
-          "name": "JevanniP",
-          "url": "https://open.spotify.com/artist/4Si9FZdT3Mvgq1fmFhcRxD"
-        }
-      ],
-      "duration_ms": 410880,
-      "name": "\u590f\u8239",
-      "url": "https://open.spotify.com/track/71JLt1pOL167Z4vkVQvKDR"
-    },
-    {
-      "added_at": "2023-10-24 08:20:22",
-      "album": {
-        "name": "\u5341\u5e74\u5f8c\u306e\u79c1 \u5341\u5e74\u5f8c\u306e\u672a\u6765",
-        "url": "https://open.spotify.com/album/0CgkA8JBETD5bKTZ2NYitw"
-      },
-      "artists": [
-        {
-          "name": "atsuzoukun",
-          "url": "https://open.spotify.com/artist/2kiYrj79OiKMvIB5TwMEpY"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u5341\u5e74\u5f8c\u306e\u79c1 \u5341\u5e74\u5f8c\u306e\u672a\u6765",
-      "url": "https://open.spotify.com/track/1OZBcgqvnbK5aoUljojwni"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 224346,
+  "num_followers": 224403,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
+  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Love Conquers All (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
+      },
+      "artists": [
+        {
+          "name": "Michael Wycoff",
+          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
+        }
+      ],
+      "duration_ms": 320280,
+      "name": "Looking Up to You",
+      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Love Conquers All (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
-      },
-      "artists": [
-        {
-          "name": "Michael Wycoff",
-          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
-        }
-      ],
-      "duration_ms": 320280,
-      "name": "Looking Up to You",
-      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
         }
       ],
-      "duration_ms": 408142,
-      "name": "Number One - 12\" Version",
-      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+      "duration_ms": 413560,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Pure Sounds of Africa",
-        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
       "artists": [
         {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 413560,
-      "name": "Don't Go Lose It Baby",
-      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
+      "duration_ms": 408142,
+      "name": "Number One - 12\" Version",
+      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "M.V.P. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Funk / Soul / Disco",
         "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 177653,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "M.V.P. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Taana Gardner",
         "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 587029,
       "name": "Heartbeat (Club Mix) (2012 - Remaster)",
       "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Gwen McCrae: Cat & Atlantic Years",
+        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "All This Love That I'm Givin'",
+      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Gwen McCrae: Cat & Atlantic Years",
-        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "All This Love That I'm Givin'",
-      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

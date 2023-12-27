@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTk0OTMzY2VhYTI4NTliNTcwZTExM2RjMWUxNTlkNGZkOWQwN2Mw",
+  "snapshot_id": "MCxhZmI3NTJkNzM2M2U1ZGIxZjAzMTJkNTg2MDVmZTI0MmViOGMyMDMy",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -396,13 +396,13 @@
       },
       "artists": [
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
         }
       ],
-      "duration_ms": 109896,
-      "name": "Nice 'N' Clean",
-      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
+      "duration_ms": 92170,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -412,13 +412,13 @@
       },
       "artists": [
         {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 92170,
-      "name": "Brush Brush Brush",
-      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+      "duration_ms": 109896,
+      "name": "Nice 'N' Clean",
+      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
     },
     {
       "added_at": "2023-03-17 09:43:03",

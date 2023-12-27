@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-496 songs - 1 day 5 hr 47 min
+497 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2022-08-11 |  |
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-08-19 |
+| [Cumberland Gap](https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 1:08 | 2023-11-24 |  |
 | [Dancing in the Snow](https://open.spotify.com/track/36Qz1rKJepEWooyyhI42aN) | [Tammy Rogers](https://open.spotify.com/artist/3wbkQhbAgMFxkiEjyEmsdS), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Dancing in the Snow](https://open.spotify.com/album/3RMKDkTFPSpI1FZQuU20O3) | 2:25 | 2021-12-17 | 2022-04-21 |
 | [Dark Night, Bright Future](https://open.spotify.com/track/2QzacNYLUsovHldopNz2vc) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:37 | 2022-03-25 | 2022-09-05 |
 | [Desert Flowers](https://open.spotify.com/track/5X6ZqGQ4unZmm9uEAEwcLY) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Desert Flowers](https://open.spotify.com/album/0kKvq0CejAOdMreoJSvsvV) | 5:09 | 2021-12-17 | 2022-07-27 |
@@ -209,7 +210,7 @@
 | [I Wanna Be Where You Are](https://open.spotify.com/track/3x5HfCGFxPXqUz4DKTN5M7) | [Junior Sisk](https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp) | [I Wanna Be Where You Are](https://open.spotify.com/album/0CDYBAxzx5RJSQO0nHA1As) | 3:54 | 2021-12-17 | 2022-07-26 |
 | [I Would Not Live Always](https://open.spotify.com/track/760WdQXISBIfmTh3y5hwUL) | [Allison de Groot](https://open.spotify.com/artist/0Wpi68AWBCJ12UzlP8RM8h), [Tatiana Hargreaves](https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK) | [I Would Not Live Always](https://open.spotify.com/album/6PH4b0ICVYFYSBUJGiUEda) | 4:22 | 2022-03-25 | 2022-06-13 |
 | [I'd Rather Be Alone](https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [I'd Rather Be Alone](https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge) | 3:30 | 2023-02-10 | 2023-04-14 |
-| [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
+| [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 | 2023-12-27 |
 | [I'm On Fire](https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Heroes & Heretics](https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe) | 3:33 | 2023-05-15 |  |
 | [i\. opening \(ugento\)](https://open.spotify.com/track/55j8dxbE1xHmWQHxzcP552) | [Jonah Bobo](https://open.spotify.com/artist/2OoQ23fO9AaUIgWi2P9e1W) | [Newgrass Suite](https://open.spotify.com/album/45e0zmvNz8Zu5zyXJzS3pF) | 2:39 | 2021-12-17 | 2022-07-28 |
 | [Icy Cold](https://open.spotify.com/track/5VMEXtGEJnhJMnNMm7eKj3) | [Benson](https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto), [Wayne Benson](https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac), [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD) | [Pick Your Poison](https://open.spotify.com/album/7LXtXnviJBIv3w6r13Olqi) | 3:00 | 2023-03-31 | 2023-04-09 |

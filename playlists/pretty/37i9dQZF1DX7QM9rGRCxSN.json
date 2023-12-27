@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 28820,
+  "num_followers": 28837,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGFhZjEzYjhlZGJkYTQ1OTMwMGIzZmE0NmUyMWQzMzk4NmUzYWIy",
+  "snapshot_id": "MCxhNzgwMTJlNzEzZWVlMWQ4MmYzYWZhN2Q4NjMyNzQyODE4NWNmZDYw",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Osa Polar",
         "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
       "added_at": "2023-05-05 06:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: kZm",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: DJ CHARI, DJ TATSUKI",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 150947,
       "name": "93 FREESTYLE",
       "url": "https://open.spotify.com/track/4Ko4KObjTuuC7len0DMaCU"
@@ -439,6 +439,44 @@
     },
     {
       "album": {
+        "name": "ALL FRIENDS",
+        "url": "https://open.spotify.com/album/6MS1Km1eReupHv0cTdhegS"
+      },
+      "artists": [
+        {
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        },
+        {
+          "name": "Fuji Taito",
+          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
+        },
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "ALL FRIENDS",
+      "url": "https://open.spotify.com/track/6obB15uhTvJgd6007Ng2MX"
+    },
+    {
+      "album": {
         "name": "The Screw Tapes (Side B)",
         "url": "https://open.spotify.com/album/62qcvHdI2dHcdwh5vJFqDE"
       },
@@ -564,7 +602,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 150046,
       "name": "AUTHENTIC feat. MC WAMU",
       "url": "https://open.spotify.com/track/21f6slOgVhw0IP8pP6wHHk"
@@ -1234,7 +1272,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 112084,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/6jBvMxjiuMvAs3l6cf8gzF"
@@ -1656,6 +1694,28 @@
       "duration_ms": 178285,
       "name": "DASU",
       "url": "https://open.spotify.com/track/3Z50sUroGIqtbaMQfGqOoc"
+    },
+    {
+      "album": {
+        "name": "Dear Santa",
+        "url": "https://open.spotify.com/album/7vs4iFTt6B2bD7yX7B5I83"
+      },
+      "artists": [
+        {
+          "name": "Itto",
+          "url": "https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E"
+        },
+        {
+          "name": "maiya rei",
+          "url": "https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103200,
+      "name": "Dear Santa",
+      "url": "https://open.spotify.com/track/0GlPPjGBUGncyZQKlxlzJP"
     },
     {
       "album": {
@@ -2098,7 +2158,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 200000,
       "name": "DREAM!",
       "url": "https://open.spotify.com/track/2aMhMP58VvMNo239lQihep"
@@ -2430,6 +2490,28 @@
       "duration_ms": 216067,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb"
+    },
+    {
+      "album": {
+        "name": "As Usual",
+        "url": "https://open.spotify.com/album/4j9sefX0lu6uQIXy1VOzf6"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        },
+        {
+          "name": "ineedmorebux",
+          "url": "https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143430,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3Isd3NqkaQQ9UCiwmNWLmR"
     },
     {
       "album": {
@@ -3292,7 +3374,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 258861,
       "name": "Hentou",
       "url": "https://open.spotify.com/track/2XYm2ozeqdTVDn3AfVC9ir"
@@ -3490,6 +3572,24 @@
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"
+    },
+    {
+      "album": {
+        "name": "HURUKAMOWAKARANAIKEDO",
+        "url": "https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT"
+      },
+      "artists": [
+        {
+          "name": "15MUS",
+          "url": "https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "HURUKAMOWAKARANAIKEDO",
+      "url": "https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv"
     },
     {
       "album": {
@@ -3694,6 +3794,32 @@
       "duration_ms": 242580,
       "name": "KANPA!!I",
       "url": "https://open.spotify.com/track/1Q9jeNolvrOPMYeOxbM01I"
+    },
+    {
+      "album": {
+        "name": "T.U.R.N. (Deluxe)",
+        "url": "https://open.spotify.com/album/6feeyV5zOG7aMFJnj6qitj"
+      },
+      "artists": [
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        },
+        {
+          "name": "Naothelaiza",
+          "url": "https://open.spotify.com/artist/4E2QYdTcANut4Oga8XTUQQ"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190888,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/2eDB6uccsr3tkfL8TnOE7n"
     },
     {
       "album": {
@@ -4918,7 +5044,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 272000,
       "name": "NEW SONG",
       "url": "https://open.spotify.com/track/1pfeisxDxXoVhFPDf725aY"
@@ -5094,7 +5220,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 189459,
       "name": "Oboresounahodo",
       "url": "https://open.spotify.com/track/0cYopjWQjMk4CXCuBFDv4A"
@@ -5864,7 +5990,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 177999,
       "name": "Reach (feat. C.O.S.A.)",
       "url": "https://open.spotify.com/track/2esBmM9PGpDIjydVegNLy9"
@@ -6075,6 +6201,28 @@
     },
     {
       "album": {
+        "name": "Run From My Pain",
+        "url": "https://open.spotify.com/album/1q5ZFnLdqKd8kzKd46KvwW"
+      },
+      "artists": [
+        {
+          "name": "who28",
+          "url": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+        },
+        {
+          "name": "vividboooy",
+          "url": "https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182144,
+      "name": "Run From My Pain",
+      "url": "https://open.spotify.com/track/5rHG1sGaBJoewM5DqRQvKT"
+    },
+    {
+      "album": {
         "name": "Run This Town",
         "url": "https://open.spotify.com/album/0LtPST8JfL2ATb4IsBtRCS"
       },
@@ -6178,6 +6326,28 @@
       "duration_ms": 150737,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/6FmWZqdGVN8onTdL8fuP1M"
+    },
+    {
+      "album": {
+        "name": "SYNCHRONICITY 2",
+        "url": "https://open.spotify.com/album/4oWNDEZmSKN64sw3TypAda"
+      },
+      "artists": [
+        {
+          "name": "vividboooy",
+          "url": "https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F"
+        },
+        {
+          "name": "Duke Cage",
+          "url": "https://open.spotify.com/artist/5rTKlrUj2nVEpSwUSvAFsO"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170573,
+      "name": "self medication",
+      "url": "https://open.spotify.com/track/6s5zFESrsnjKb92MozeINQ"
     },
     {
       "album": {
@@ -6864,6 +7034,28 @@
       "duration_ms": 208213,
       "name": "Tokyo Freeway",
       "url": "https://open.spotify.com/track/7I80E0p8u05s1O1ZBmDYZS"
+    },
+    {
+      "album": {
+        "name": "Tokyo Under Construction",
+        "url": "https://open.spotify.com/album/1glPK1RdCUs4u52tOKRc7p"
+      },
+      "artists": [
+        {
+          "name": "DJ TANAKEN",
+          "url": "https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81"
+        },
+        {
+          "name": "Rino Latina II",
+          "url": "https://open.spotify.com/artist/6RdQUqN8PjAPmAK5zwz9Gh"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Tokyo Under Construction",
+      "url": "https://open.spotify.com/track/5HbTUAaixA61HUb3U9zdbj"
     },
     {
       "album": {

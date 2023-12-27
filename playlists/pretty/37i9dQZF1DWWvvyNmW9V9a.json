@@ -1,12 +1,12 @@
 {
   "description": "my life with the walter boys being my only chat this holiday season",
-  "num_followers": 2179480,
+  "num_followers": 2179245,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2MzNmEzM2I5ZDZmMzM1ZWYyMTUyOTIwNmE3N2Y5YzBlM2YzMTU1",
+  "snapshot_id": "MCw1Y2ZmNzMxZmZiNDY2OTFmYWI3MjA5YjYwYTViN2EwMWMyMWQ0ZWEz",
   "tracks": [
     {
       "added_at": "2023-12-12 19:08:53",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
+      "added_at": "2023-12-26 16:59:57",
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Holy Revival",
+      "url": "https://open.spotify.com/track/7s4MADZyFWhGkLbPocaagv"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "exes",
@@ -171,22 +187,6 @@
       "duration_ms": 122416,
       "name": "hurt my feelings",
       "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Christmas Tree Farm",
-        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Christmas Tree Farm",
-      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
     },
     {
       "added_at": "2023-10-16 13:51:03",

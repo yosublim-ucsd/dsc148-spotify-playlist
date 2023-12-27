@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,625 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,626 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 9 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
 | 10 | [Bohemia Rag](https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO) | [Scott Cotton](https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU) | [Ragtime Revival](https://open.spotify.com/album/1PgJncp4RezmMO006IYusf) | 3:20 |
 | 11 | [Wall Street Rag](https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [50 Ragtime Classics: The Best of Scott Joplin](https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY) | 1:52 |
-| 12 | [The Easy Winners](https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ) | [Martin Spitznagel](https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX) | [Handful of Keys: Face\-Melting Ragtime Played by Martin Spitznagel](https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b) | 3:48 |
+| 12 | [Ragtime Nightingale](https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX) | [William Ogmundson](https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG) | [Ragtime](https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs) | 3:35 |
 | 13 | [Top Liner Rag](https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The World Of Scott Joplin](https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl) | 3:53 |
 | 14 | [Solace: Solace: A Mexican Serenade](https://open.spotify.com/track/1Rx5e9Sj4Dm7LliHE9ysHP) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Alexander Peskanov](https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU) | [Joplin: Piano Rags, Vol\. 1](https://open.spotify.com/album/0lNT0wgggNxAUsquXDQX7X) | 6:55 |
-| 15 | [Ragtime Nightingale](https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX) | [William Ogmundson](https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG) | [Ragtime](https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs) | 3:35 |
+| 15 | [The Easy Winners](https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ) | [Martin Spitznagel](https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX) | [Handful of Keys: Face\-Melting Ragtime Played by Martin Spitznagel](https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b) | 3:48 |
 | 16 | [Gladiolus Rag](https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F) | [Claude Bolling](https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb) | [Ragtime Bolling & Boogie \(Enregistrements de 1977 & 2003\)](https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz) | 3:17 |
 | 17 | [Pastime Rag No\. 4](https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG) | [Artie Matthews](https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL), [Richard Dowling](https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77) | [World's Greatest Piano Rags](https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ) | 2:02 |
 | 18 | [New Era Rag](https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se) | [Wally Rose](https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB) | [Whippin' the Keys](https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCw5N2I0YTk1NGQyZGE0MzU4YmU2MTRkZmFiNmEwM2FmOThmNzMwYzdi`
+Snapshot ID: `MCwzMDg2MTI3MTk5YmQzNjFhYTQxZTZhNzkzYmRkY2I5NGYyYzQ2ZmIx`

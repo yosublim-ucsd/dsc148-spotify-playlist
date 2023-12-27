@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16727,
+  "num_followers": 16732,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQwMGRmODU5Mjk4MDA2MzE1YzgwOTMwOGY0OThkMjgyNTZjYWU0",
+  "snapshot_id": "MCwyYjJjNWNiZDg2NTJhZDcwYTIyMGE0ZjJjMzQ3MjdhN2RhOTUxOGY1",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -235,6 +235,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Cover Sessions, Vol. 3",
         "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 222146,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Mr. Sandman",
-        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -435,6 +435,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "As Long as You Love Me",
         "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 151618,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -823,18 +823,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
       "artists": [
         {
-          "name": "The Wind and The Wave",
-          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
         }
       ],
-      "duration_ms": 268893,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     }
   ],
   "unique_name": "Under the Covers",

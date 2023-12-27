@@ -3963,6 +3963,28 @@
     },
     {
       "album": {
+        "name": "How You Every O Shot ?",
+        "url": "https://open.spotify.com/album/71bCwTVmWHCvMqZobLp57y"
+      },
+      "artists": [
+        {
+          "name": "Cj Goon",
+          "url": "https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc"
+        },
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201639,
+      "name": "How You Every O Shot ?",
+      "url": "https://open.spotify.com/track/4fHDu43QvmYzhrXcXvhCZZ"
+    },
+    {
+      "album": {
         "name": "I Am What I Am (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/0Tc5my8FR1K0OtBlUK0Rkn"
       },
@@ -5070,7 +5092,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 237262,
       "name": "Nice & Good",
       "url": "https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh"

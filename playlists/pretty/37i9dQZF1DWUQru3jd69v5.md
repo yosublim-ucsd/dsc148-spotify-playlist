@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: emanuelino
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,645 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,651 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW) | 2:40 |
 | 55 | [DAMN ¡!](https://open.spotify.com/track/5ef8Gx0sUwDv1FLBKy8xwZ) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [BLOOD MOON](https://open.spotify.com/album/6rqBpQ8HaT1z8RpdEa96KO) | 1:56 |
 
-Snapshot ID: `MCwzM2Q3Y2U5OTI2MTNiMTRkN2EzMDlkYjBjZGRhZmFlOGVkNDQ4MjY4`
+Snapshot ID: `MCw4NjQ0OGRlOTY0NjM1MjM0ZmFlYTdjMDZlNDk0NTVhN2U0YzY3YWE5`

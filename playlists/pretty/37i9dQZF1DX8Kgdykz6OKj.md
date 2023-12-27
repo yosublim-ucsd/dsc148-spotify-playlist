@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,745 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,242 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 97 | [Wassup](https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo) | [Day & Night](https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG) | 4:03 |
 | 98 | [New Day](https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3) | [Abstract Orchestra](https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [New Day \(feat\. Illa J\)](https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j) | 2:25 |
 | 99 | [Misty](https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:38 |
-| 100 | [Midnight Schemes](https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro) | [K\. Sparks](https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Palm Trees](https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM) | 2:16 |
+| 100 | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv) | 5:55 |
 
-Snapshot ID: `MCwzZDJkODg1MGE3Nzg3ZmJhMGFjZDU4Y2Y3OGM4MDI0NzYyZGFjMGVi`
+Snapshot ID: `MCwxN2FmZWMwZTA0ZGQzNGE0MTFjMjZkMTM4MDkwMGQ2YTI4NDM1NzIz`

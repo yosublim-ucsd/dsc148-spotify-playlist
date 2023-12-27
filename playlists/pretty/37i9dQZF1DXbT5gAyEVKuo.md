@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,608 likes - 49 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,641 likes - 49 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 44 | [I Want More \- Live](https://open.spotify.com/track/4xuDNUP9gCNye1QSTS7Gkc) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Willingham](https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1) | [I Want More \(Live\)](https://open.spotify.com/album/0H3x29mJ1RE9N4aQW4AdQn) | 7:42 |
 | 45 | [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 |
 | 46 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/2ysp98TmA9ozUKoMhTedx1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8) | 9:08 |
-| 47 | [Your Great Name \(Live\)](https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name \(Live\) \- Single](https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm) | 4:25 |
-| 48 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 6:42 |
+| 47 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 6:42 |
+| 48 | [Your Great Name \(Live\)](https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name \(Live\) \- Single](https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm) | 4:25 |
 | 49 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl) | 4:09 |
 
-Snapshot ID: `MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy`
+Snapshot ID: `MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm`

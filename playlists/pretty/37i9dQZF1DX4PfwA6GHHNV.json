@@ -1,37 +1,13 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 14326,
+  "num_followers": 14351,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzQ4OTJmOTVkMmNlNmMzZTU2YTI3NjQ3YmJjYTllZjExNjk5NGQ4",
+  "snapshot_id": "MCwwNTFkNGI1N2RhYjQxYmQwMGJlZTcxMGE1OTU2YjQ0NWEyZmNmNTIw",
   "tracks": [
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "S\u00f3 Olha - Ao Vivo",
-      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
-    },
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
@@ -87,6 +63,30 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "S\u00f3 Olha - Ao Vivo",
+      "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Sabe Que \u00c9 Gostosa",
         "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 214545,
       "name": "Sabe Que \u00c9 Gostosa",
       "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Morena Surreal",
+        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
+      },
+      "artists": [
+        {
+          "name": "Enry Sanches",
+          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
+        }
+      ],
+      "duration_ms": 214676,
+      "name": "Morena Surreal",
+      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 205531,
       "name": "Do Nada",
       "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Morena Surreal",
-        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
-      },
-      "artists": [
-        {
-          "name": "Enry Sanches",
-          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
-        }
-      ],
-      "duration_ms": 214676,
-      "name": "Morena Surreal",
-      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
     },
     {
       "added_at": "2023-12-24 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 17322,
+  "num_followers": 17325,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGQ4YTYyNmNmYWM5OTEyZDQ5YzNiMWU1NzkzNmIyZmIwYmE2ZWIy",
+  "snapshot_id": "MCwxYWZiODRlMGFlM2Q2ZWE2ZmYwYzYxMzI5NzFlZjI5ZjRhYTYzNDU0",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Voodoo Woman",
-      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Two Bugs and a Roach",
         "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Voodoo Woman",
+      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -687,18 +687,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+        "name": "Sufferin' Mind",
+        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Guitar Slim",
+          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
         }
       ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+      "duration_ms": 147440,
+      "name": "Well I Done Got Over It",
+      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 147440,
-      "name": "Well I Done Got Over It",
-      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2020-05-03 08:57:28",

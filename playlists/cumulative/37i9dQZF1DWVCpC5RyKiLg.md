@@ -4,10 +4,11 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-178 songs - 9 hr 44 min
+179 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 Metro e 65 \- Ao Vivo](https://open.spotify.com/track/2yhtzzLeMc3t0LgtlZMgS8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto Ao Vivo no Maracanãzinho](https://open.spotify.com/album/3xQrJnXUzbGn4vfeZRmOug) | 3:43 | 2023-11-17 |  |
 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 | 2022-06-10 |  |
 | [12 Horas \(Ao Vivo\)](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas \(Ao Vivo\)](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 | 2022-01-27 | 2022-07-28 |
 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 | 2022-01-27 |  |
@@ -135,7 +136,7 @@
 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 | 2022-01-27 |  |
 | [Pra Te Fazer Lembrar](https://open.spotify.com/track/0MjB6am7NYH8cTyZTerCiR) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Tá Diferente](https://open.spotify.com/album/1NSdCbQ63jeXt0jpUJQzWI) | 3:31 | 2022-01-27 | 2022-07-29 |
 | [Pra você acreditar \- Ao vivo](https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:23 | 2022-01-27 |  |
-| [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu) | 3:14 | 2022-06-10 |  |
+| [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu) | 3:14 | 2022-06-10 | 2023-12-27 |
 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 | 2022-01-27 |  |
 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 | 2022-01-27 |  |
 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 | 2022-01-27 | 2023-07-10 |

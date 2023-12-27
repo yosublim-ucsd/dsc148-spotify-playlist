@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-417 songs - 19 hr 15 min
+418 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 | 2021-10-05 |  |
 | [How We Move \(feat\. King Louie\)](https://open.spotify.com/track/1bASl14tk13VjW3xLAHB0q) | [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW), [King Louie](https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN) | [How We Move \(feat\. King Louie\)](https://open.spotify.com/album/5TRaETWC2wZMVcGtSCSkTx) | 3:47 | 2021-10-05 | 2022-07-02 |
 | [How You Every O Shot ?](https://open.spotify.com/track/1vqbMsvYzRfkrwVrE7Zsw1) | [Cj Goon](https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [How You Every O Shot ?](https://open.spotify.com/album/11GN66ehziPUBqWBwciGH8) | 3:21 | 2021-12-06 | 2023-12-09 |
+| [How You Every O Shot ?](https://open.spotify.com/track/4fHDu43QvmYzhrXcXvhCZZ) | [Cj Goon](https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [How You Every O Shot ?](https://open.spotify.com/album/71bCwTVmWHCvMqZobLp57y) | 3:21 | 2023-08-18 |  |
 | [I Am What I Am \(feat\. Fivio Foreign\)](https://open.spotify.com/track/7MxWrgJmuEBOtEvqpo5iki) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [I Am What I Am \(feat\. Fivio Foreign\)](https://open.spotify.com/album/0Tc5my8FR1K0OtBlUK0Rkn) | 3:38 | 2021-10-05 | 2022-07-29 |
 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 | 2021-10-05 |  |
 | [I Get That](https://open.spotify.com/track/5b9qArPaYpmfQiDy1NyOnk) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [I Get That](https://open.spotify.com/album/6MEIvTogyop8KuoRQ42KM2) | 2:08 | 2021-10-05 | 2022-07-18 |
@@ -245,7 +246,7 @@
 | [Nairobi](https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/5dvUS7NVMJPAMyzEcPWMPp) | 3:16 | 2021-10-05 | 2022-02-27 |
 | [NAME OF LOVE](https://open.spotify.com/track/7CEV6aC9ByhqKyNJTUnRAz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [NAME OF LOVE](https://open.spotify.com/album/68ukCT096uuDJqB3Rg68Hf) | 1:46 | 2022-06-10 | 2022-06-24 |
 | [New Opps](https://open.spotify.com/track/5p2btOYmVnkJp6z8aoNMwl) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [New Opps](https://open.spotify.com/album/5Xw38QEyGPa5X1G51TvXpf) | 1:48 | 2022-06-24 | 2022-07-29 |
-| [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 | 2022-04-12 |  |
+| [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 | 2022-04-12 | 2023-12-27 |
 | [No Adlibs](https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge) | [No Adlibs](https://open.spotify.com/album/1AATPemo63RsvrpQMg24b0) | 2:14 | 2022-06-10 | 2022-06-25 |
 | [No Cap](https://open.spotify.com/track/3jCWSpumAzYP3ur8OUGEFN) | [Gee Gotti](https://open.spotify.com/artist/6pTKmkmCVWffnddgoZy8qZ) | [No Cap](https://open.spotify.com/album/5X6Z84H5j7omlXmRPdOIwq) | 2:37 | 2022-06-10 | 2022-06-24 |
 | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/track/1K2JtjX3s8QaEKvsbC1UXX) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/album/7bwhQ4ir83KULY8HnhhpJm) | 4:03 | 2021-10-05 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,608 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,600 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Engel](https://open.spotify.com/track/4TAiUmnMwwx3LIrwSVnfG0) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [Engel](https://open.spotify.com/album/3qnyQsQavyD0qgNwRI1NIs) | 2:34 |
 | 75 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
 
-Snapshot ID: `MCxjMWJmZmM5MTllYmIyYmMwNTdhZWEzMDFkZTFjOTRjZjdlYWRiYmJi`
+Snapshot ID: `MCw0MGI0OTk1MzI0NGFiN2JiNjBiYmY5NTU2MDI2NjhiMTdlOTI3OGM4`

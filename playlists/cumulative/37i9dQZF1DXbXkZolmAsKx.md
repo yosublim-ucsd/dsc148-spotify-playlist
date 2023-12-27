@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-117 songs - 10 hr 14 min
+118 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Live Room Out](https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:37 | 2022-08-11 |  |
 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 | 2022-08-11 |  |
 | [Low Sudden](https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu) | 2:38 | 2023-06-07 | 2023-12-24 |
+| [Low Sudden](https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN) | 2:38 | 2023-06-07 |  |
 | [Low Sudden](https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 2:38 | 2022-08-11 | 2023-10-01 |
 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 | 2022-08-11 | 2022-11-26 |
 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 | 2022-09-20 |  |
@@ -103,7 +104,7 @@
 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 | 2022-08-11 |  |
 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 | 2023-01-27 |  |
 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2022-08-11 | 2023-04-30 |
-| [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 | 2022-08-17 |  |
+| [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 | 2022-08-17 | 2023-12-27 |
 | [Sunrise on the Mississippi](https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 4:09 | 2022-09-20 |  |
 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 | 2022-08-11 |  |
 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 | 2022-08-11 |  |

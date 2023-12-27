@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,297 likes - 128 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,319 likes - 128 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 127 | [Brume Silencieuse](https://open.spotify.com/track/0G4v5eDVkTMUmdn5VWqbEM) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [Brume Silencieuse](https://open.spotify.com/album/2PY9afUqaVNeCgrHjBjdjw) | 2:21 |
 | 128 | [Change](https://open.spotify.com/track/09wXdnNxg0U2owlGzrWghJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:25 |
 
-Snapshot ID: `MCxhZWU5MWY5ZWYyNTQ1MzVkYzFiZGY3YzllMWZlNTcyMjI1NGNmMjU3`
+Snapshot ID: `MCxiNDNhMTU4YWQ5NGFhM2ZmY2MxNDMxYzJjNmJiZmI2Y2QxZWEwOWI5`

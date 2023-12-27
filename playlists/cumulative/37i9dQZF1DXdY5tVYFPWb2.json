@@ -797,6 +797,40 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/6b6mqFLPPyzkJZLWBxqJud"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "G.RINA",
+          "url": "https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS"
+        },
+        {
+          "name": "Kick a Show",
+          "url": "https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG"
+        },
+        {
+          "name": "ZEN-LA-ROCK",
+          "url": "https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242499,
+      "name": "Backseat (feat. G.RINA, Kick a Show, ZEN-LA-ROCK & JUVENILE)",
+      "url": "https://open.spotify.com/track/0KHRem2sNG7J5vCFhEdjTT"
+    },
+    {
+      "album": {
         "name": "JCT",
         "url": "https://open.spotify.com/album/2fVEKsHOAfozCSTHYtq1d8"
       },
@@ -4440,7 +4474,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 213333,
       "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) - Desired Remix",
       "url": "https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j"

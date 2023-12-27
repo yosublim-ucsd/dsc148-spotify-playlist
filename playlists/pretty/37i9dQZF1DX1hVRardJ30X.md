@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,028 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,029 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [La Policía](https://open.spotify.com/track/0ikvqZXQeP4HS5g3mbx15Y) | [Cookiespookycrew](https://open.spotify.com/artist/65bUUlp1B8SWoHyZGb5yw3) | [La Policía](https://open.spotify.com/album/1dYyk0hutCYTSSiJZCRvnR) | 5:09 |
 | 51 | [Y Volveré](https://open.spotify.com/track/1LdWBdvsvKgWtBClkgDnig) | [El Caplan](https://open.spotify.com/artist/7aq8QznnjQOzTv1qizDAGf) | [Y Volveré](https://open.spotify.com/album/6UE9icR1Wvh9RAe5bspq6E) | 3:54 |
 
-Snapshot ID: `MCxlYzg5YTIwNDdmMjYzZTY3ZTM0OTQ3MjgwZmEwNzYzYWYwMDM2YjJm`
+Snapshot ID: `MCxmNjI4OTZlODAwMjM5ODFlY2FmMGEzNmFjZWUyNzYwOWUwMmY0ZjNj`

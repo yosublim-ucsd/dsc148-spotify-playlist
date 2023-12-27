@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Carz",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Young zetton",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 120287,
       "name": "100DPS",
       "url": "https://open.spotify.com/track/0mtOe43uOXT2qifwOkXRrO"
@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Booster",
+        "url": "https://open.spotify.com/album/77hc4feh0eNalLLloGnphI"
+      },
+      "artists": [
+        {
+          "name": "Mijeua",
+          "url": "https://open.spotify.com/artist/2WRw1ximJcspUBwaapmFhF"
+        },
+        {
+          "name": "EDWARD(\u6211)",
+          "url": "https://open.spotify.com/artist/7tlATmu4HQx6OYIBpCgwyh"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198637,
+      "name": "Booster",
+      "url": "https://open.spotify.com/track/6Uy4hqwAMF3IK2E61Zhbwl"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5aQg6EAjCubsij9OcXhZe3"
       },
@@ -457,6 +479,24 @@
     },
     {
       "album": {
+        "name": "CountDown",
+        "url": "https://open.spotify.com/album/0chXe9DAQPAj9x8BtUQsd5"
+      },
+      "artists": [
+        {
+          "name": "seek",
+          "url": "https://open.spotify.com/artist/5ZOyIC4fdzLPNqbGhLW0wp"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "Champion belt",
+      "url": "https://open.spotify.com/track/6vrOErSduGYLHtzMuuKrCZ"
+    },
+    {
+      "album": {
         "name": "CheckMate",
         "url": "https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw"
       },
@@ -490,6 +530,24 @@
       "duration_ms": 248000,
       "name": "CHEESE BANGER",
       "url": "https://open.spotify.com/track/1fPNZz13a64JdO6hHXCCDa"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/3uSUJtM5rl3Xcd0G7o7ipn"
+      },
+      "artists": [
+        {
+          "name": "kedy",
+          "url": "https://open.spotify.com/artist/1ykSXwLpoylLO3SNlXStA9"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154964,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5ECnmnkjtRSAiOds1HVh45"
     },
     {
       "album": {
@@ -765,6 +823,24 @@
     },
     {
       "album": {
+        "name": "envy",
+        "url": "https://open.spotify.com/album/6fEhDbswoDgsTfqBmMlXXY"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u7530\u30ae\u30e3\u30eb\u795e\u5bae",
+          "url": "https://open.spotify.com/artist/0Vxzbf42RZnV5TUq3JeOIs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161648,
+      "name": "envy",
+      "url": "https://open.spotify.com/track/0aL0jwSQzXjIiPRQFRSnvf"
+    },
+    {
+      "album": {
         "name": "F-TOWN FLOW",
         "url": "https://open.spotify.com/album/6NfQX1anUrDcs0FUtbjyJl"
       },
@@ -810,7 +886,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 166101,
       "name": "fake friend",
       "url": "https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w"
@@ -1002,7 +1078,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 120000,
       "name": "FREERIDE ON ROAD",
       "url": "https://open.spotify.com/track/655nGWRDqC6m6D2AeJuCdr"
@@ -1126,6 +1202,28 @@
       "duration_ms": 108382,
       "name": "GREED",
       "url": "https://open.spotify.com/track/3dE7eI6ZuzhXeJb3SJ6JBS"
+    },
+    {
+      "album": {
+        "name": "Green Hill",
+        "url": "https://open.spotify.com/album/4uvHftZy3cLqJpTN3jjKYP"
+      },
+      "artists": [
+        {
+          "name": "Robbie Duncan",
+          "url": "https://open.spotify.com/artist/6KYcCkb8Ne44TabbH4vmMS"
+        },
+        {
+          "name": "\u51e1\u5ea6",
+          "url": "https://open.spotify.com/artist/7J3NKlR5DBnBlkGarSkqoH"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144719,
+      "name": "Green Hill",
+      "url": "https://open.spotify.com/track/5ges7BvLIO7V4UWCX7XiTC"
     },
     {
       "album": {
@@ -1481,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Jerky",
+        "url": "https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ"
+      },
+      "artists": [
+        {
+          "name": "GioGio",
+          "url": "https://open.spotify.com/artist/2ak8BuJIDBr42JHPiehyLi"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171196,
+      "name": "Jerky",
+      "url": "https://open.spotify.com/track/4fAhvtlPNJnciRmeGvHbBk"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -1774,7 +1890,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 175348,
       "name": "MY TURN",
       "url": "https://open.spotify.com/track/3Wlh7leleaZiPcBa551xKU"
@@ -2236,7 +2352,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 158104,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/0hg3vVtDKx9unqW6h0QJBy"
@@ -2654,7 +2770,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 223410,
       "name": "Yaminouchi",
       "url": "https://open.spotify.com/track/5lJocOmXtCH53DYMzNG8NH"
@@ -2724,7 +2840,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 123101,
       "name": "Yay!",
       "url": "https://open.spotify.com/track/4EpbLihqVioKcz1ToNuGPQ"
@@ -2746,6 +2862,24 @@
       "duration_ms": 147272,
       "name": "yeah is back",
       "url": "https://open.spotify.com/track/13Alm5RZKSXFiBonAuov4T"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/6zGRZS9wFoHr0L0aQwFYQg"
+      },
+      "artists": [
+        {
+          "name": "tip jam",
+          "url": "https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/2VE101brHK8ixFEfMq2SPD"
     },
     {
       "album": {

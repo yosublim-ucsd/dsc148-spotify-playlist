@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,786 songs - 3 day 7 hr 59 min
+1,787 songs - 3 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-03-23 | 2022-07-29 |
 | [Gouldian Finch](https://open.spotify.com/track/1Zldb4ExDOShiURHT6q53b) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Gouldian Finch](https://open.spotify.com/album/73gIQgjaguRvVe6YhVeyBe) | 2:46 | 2022-03-29 | 2022-04-19 |
 | [Grace](https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Grace](https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P) | 2:15 | 2021-03-06\* | 2021-05-21 |
+| [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 | 2023-12-26 |  |
 | [Grandma's Meadow](https://open.spotify.com/track/0FHxhSuJskgFaSasG2iwn1) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:23 | 2021-04-30 | 2022-05-27 |
 | [Grandmother's Song](https://open.spotify.com/track/3E5RxrpJLq3qiIlWW6kTLL) | [Nova Venti](https://open.spotify.com/artist/65AIqmanICbhwuqDweh3Gi) | [Grandmother's Song](https://open.spotify.com/album/7tboJDndQTAiaFvwowrmOQ) | 1:52 | 2021-03-08 | 2021-05-15 |
 | [Gratification](https://open.spotify.com/track/2XVmWYEwZCdasybflM4Q2l) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 4:17 | 2021-03-20 | 2022-04-03 |
@@ -1626,7 +1627,7 @@
 | [Truss](https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Imvula/Truss](https://open.spotify.com/album/2PgSIpWxAyvrkIw0zhg59c) | 1:56 | 2022-03-29 | 2022-04-04 |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-07-08 | 2023-10-27 |
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-03-22 | 2022-04-17 |
-| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 |  |
+| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 | 2023-12-27 |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-29 | 2022-06-06 |
 | [Tu as disparu](https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Tu as disparu](https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD) | 1:55 | 2022-08-08 | 2023-03-16 |
 | [Tu brilles](https://open.spotify.com/track/4lQ8UtqxO1SRpMf4m5pNa9) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu brilles](https://open.spotify.com/album/3qg5hHtKgkTimpSAbRVrhc) | 2:22 | 2021-03-10 | 2021-03-11 |

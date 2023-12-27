@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,088 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,076 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 85 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 |
 | 86 | [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 |
 | 87 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 |
-| 88 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 |
-| 89 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
+| 88 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
+| 89 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 |
 | 90 | [Sky High](https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Casket Case](https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS) | 2:28 |
 | 91 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
 | 92 | [Like That](https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That](https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Find It In Your Mind](https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Find It In Your Mind](https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR) | 3:19 |
 | 100 | [Straight Into The Ground](https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:30 |
 
-Snapshot ID: `MCw1NTQyYmMyZjE5MWQ1OWUxYTAwMmI1MzRlYjg4M2RlMzZkNzdiNjRh`
+Snapshot ID: `MCw1MTBjN2Y0YTVmNmU1NGViNGZlOTk4MDIyNTBlYjE1YmI4NzYxY2Fm`

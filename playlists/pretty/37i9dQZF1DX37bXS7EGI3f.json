@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 758659,
+  "num_followers": 758830,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZkMmRhODUzYmE1MzkzZTAwOTc0MDUzN2I2YzA5OTkxMGU2NmNh",
+  "snapshot_id": "MCw1YzUxZTk0NjEwZTcwOGQyNjZiM2JhNmM1ZmZhMjdmZjAyNDJjNjFj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Wonders Still Awaiting",
-        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Wonders Still Awaiting",
+        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 206720,
       "name": "Light up the Sky",
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Emerge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b"
-      },
-      "artists": [
-        {
-          "name": "Chaos Magic",
-          "url": "https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC"
-        },
-        {
-          "name": "Caterina Nix",
-          "url": "https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Beneath Your Skin",
-      "url": "https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Emerge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b"
+      },
+      "artists": [
+        {
+          "name": "Chaos Magic",
+          "url": "https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC"
+        },
+        {
+          "name": "Caterina Nix",
+          "url": "https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Beneath Your Skin",
+      "url": "https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Black Venom",
-        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
-      },
-      "artists": [
-        {
-          "name": "Without Warning",
-          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Black Venom",
-      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Keeper of the Celestial Flame of Abernethy",
         "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Black Venom",
+        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
+      },
+      "artists": [
+        {
+          "name": "Without Warning",
+          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Black Venom",
+      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Drink with the Gods",
         "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 250000,
       "name": "Drink with the Gods",
       "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
-      },
-      "artists": [
-        {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+      },
+      "artists": [
+        {
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Call of the North",
         "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
     }
   ],
   "unique_name": "Epic & Melodic",

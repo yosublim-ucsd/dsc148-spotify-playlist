@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-832 songs - 1 day 19 hr 34 min
+833 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Gloria](https://open.spotify.com/track/59aXJx1kWnQZlCYLTrsG6J) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Grande Liquidacao](https://open.spotify.com/album/7jgDYAIb8nboWnhuvZOC9Q) | 3:20 | 2019-07-20 | 2019-07-31 |
 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 | 2019-05-26\* | 2023-02-06 |
 | [Go Away Little Girl](https://open.spotify.com/track/7njaM2eztw1mjxOAjFrgHF) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [Going Solo with Steve Lawrence](https://open.spotify.com/album/53OXxc7feVFlzCHddDLvc5) | 2:14 | 2019-07-16 | 2019-08-27 |
-| [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2019-05-31 | 2023-10-26 |
+| [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2019-05-31 |  |
 | [God Only Knows \- Remastered](https://open.spotify.com/track/1MkRkfwHm934KhbeT0XKbC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Pet Sounds Sessions \(30th Anniversary Collection\)](https://open.spotify.com/album/04l3lWxRCHBwaKo6o4lhuL) | 2:54 | 2019-05-30 | 2019-05-31 |
 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 | 2019-07-16 | 2020-08-15 |
 | [Going Up The Country](https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 2:51 | 2019-06-22 | 2022-11-13 |
@@ -389,7 +389,7 @@
 | [Johnny Angel \- Single Version](https://open.spotify.com/track/5j4CGIpT35ipZrF93ejrhl) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [The Best Of Shelley Fabares](https://open.spotify.com/album/34UZq3EssjswYxXqFqGuVN) | 2:19 | 2019-07-20 | 2019-08-09 |
 | [Johnny Remember Me](https://open.spotify.com/track/52BzVXmdUFvufNwQH7US1S) | [John Leyton](https://open.spotify.com/artist/7oht1HPKaMDnuALYWZHgtV) | [Telstar: The Joe Meek Story OST](https://open.spotify.com/album/66xmukQnL3C6w4mIrdrmaz) | 2:38 | 2019-07-24 | 2019-08-08 |
 | [Jump in the Line](https://open.spotify.com/track/59oPFBesMm8CFVwdRRm2k2) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Legacy of Harry Belafonte: When Colors Come Together](https://open.spotify.com/album/4h1RbWPe6MlgbDgraKsN5N) | 3:41 | 2019-07-17 | 2019-08-09 |
-| [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 | 2020-08-22 |  |
+| [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 | 2020-08-22 | 2023-12-27 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/269rUyj7DapVabdn6Fuz2M) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/2CQjM87TL5hUDvzFCqyzs1) | 3:41 | 2019-06-23 | 2022-07-29 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/1uBsu3PbD2909UBIfEMLvK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jumpin' Jack Flash / Child Of The Moon](https://open.spotify.com/album/10OB4Z0KBJtCayAX7Gk57m) | 3:42 | 2022-08-12 | 2023-07-30 |
 | [Just Like a Woman](https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:50 | 2019-06-23 | 2022-07-28 |
@@ -648,6 +648,7 @@
 | [Sunny](https://open.spotify.com/track/2JdM4xPoCuHrMzOGQrMUBj) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/3X7VD7TmOXlrnWGgjM6Qyd) | 2:45 | 2019-06-21 | 2021-10-16 |
 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 | 2022-06-08 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 | 2020-08-15 | 2023-11-18 |
+| [Sunny Afternoon](https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT) | 3:32 | 2022-08-12 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/5KwbWPmwnOoXNqdMhh2S3m) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Bonus Track Edition\)](https://open.spotify.com/album/3yExIlG5OQdTeWQJFoZAEn) | 3:33 | 2019-05-26\* | 2020-06-05 |
 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 | 2019-06-23 | 2023-09-18 |
 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 | 2022-06-08 | 2022-10-31 |
@@ -725,7 +726,7 @@
 | [There! I've Said It Again](https://open.spotify.com/track/3mwiyHBHfAzOe89MwqJeEb) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [There I've Said It Again](https://open.spotify.com/album/6H2obkE8t9qlR7hMjIdveT) | 2:24 | 2019-07-22 | 2019-08-02 |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:42 | 2020-12-22 | 2021-10-13 |
 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 | 2019-07-17 | 2019-08-27 |
-| [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2022-06-08 |  |
+| [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2022-06-08 | 2023-12-27 |
 | [These Days](https://open.spotify.com/track/2ZRBKVRMQ9OK4EeTaMHHSY) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/48F2kUB0xFkajs3zKUEzHv) | 3:30 | 2019-06-22 | 2021-05-27 |
 | [These Eyes](https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Wheatfield Soul](https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g) | 3:45 | 2019-06-25 | 2021-05-27 |
 | [Things](https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Things & Other Things](https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3) | 2:31 | 2020-12-22 | 2022-06-07 |

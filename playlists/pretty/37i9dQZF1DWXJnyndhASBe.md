@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Asster, Kabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,259 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,288 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd) | 4:52 |
 | 50 | [OPIUM!](https://open.spotify.com/track/7ip4YylQWTrnvazpkii4RW) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [OPIUM!](https://open.spotify.com/album/2EgwS6mpTUMqkMBB3PxQg8) | 3:03 |
 
-Snapshot ID: `MCwzMGE0YWEzNjg2OTkxOGEyODdkYmI1ZTQ4M2ZmZjgzODdkNTdjNTU1`
+Snapshot ID: `MCw3MTQ0OTVmOWE4YmNmYWU2NDlmZGE1Y2RkNjY2ZWJkNDQ5MTk5NDIz`

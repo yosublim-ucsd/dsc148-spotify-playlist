@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1492562,
+  "num_followers": 1492566,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODQ3ZDAwZTBkNDU2ZjFkOTAwMWY5MzYwZjZlODdlY2E0ZGZiZDRk",
+  "snapshot_id": "MCxhNTkyODQ1NjYyMTU3ZmQyZTQyZTVhYzdkODY1NjkxOGNlYjYyNTE5",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Between the Country",
-        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 269083,
-      "name": "Letter to Madeline",
-      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Latigo EP",
-        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "All Love Everything (Deluxe)",
         "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228120,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/16AefybWxoNF6pM2jzZ2ka"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Latigo EP",
+        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Heart Beats",
-        "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Don't Let It Get You Down",
-      "url": "https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Tourism",
         "url": "https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Heart Beats",
+        "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Don't Let It Get You Down",
+      "url": "https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
     },
     {
       "added_at": "2023-11-17 05:00:00",

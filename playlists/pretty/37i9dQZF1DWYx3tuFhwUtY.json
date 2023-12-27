@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 143334,
+  "num_followers": 143337,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzMxNjg4Y2VjODk2MWM2YTBmNjExZmY4ZjJjOGI2N2RjYjlhMjA1",
+  "snapshot_id": "MCwxYTU4YzkzZGM0MmU3OGMyNmEzOGE2NDY3MDY4M2RlMTFjZTMwN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199124,
       "name": "Ag\u00fcitaecoco",
       "url": "https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 168074,
-      "name": "Write A List of Things To Look Forward To",
-      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 320328,
       "name": "Days",
       "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 168074,
+      "name": "Write A List of Things To Look Forward To",
+      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "The Lightning I, II",
         "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 154893,
       "name": "The Lightning II",
       "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2023-10-23 19:19:23",

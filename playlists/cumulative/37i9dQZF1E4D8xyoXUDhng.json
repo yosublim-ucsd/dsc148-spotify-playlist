@@ -14045,6 +14045,24 @@
     },
     {
       "album": {
+        "name": "Soul Food",
+        "url": "https://open.spotify.com/album/6oyHRHebe3HU30W0iSmMmr"
+      },
+      "artists": [
+        {
+          "name": "Shirley Murdock",
+          "url": "https://open.spotify.com/artist/446ZfKMyzU2hwfHA4CI3dy"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273960,
+      "name": "Shout Now",
+      "url": "https://open.spotify.com/track/0FEGWmAHlgRffNFqoS1ahG"
+    },
+    {
+      "album": {
         "name": "Harriet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
       },
@@ -16829,6 +16847,28 @@
     },
     {
       "album": {
+        "name": "Dorothy Norwood: Live",
+        "url": "https://open.spotify.com/album/3i4Yau185PBEkcyAZ0rgkE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Norwood",
+          "url": "https://open.spotify.com/artist/3B2PSZmAw3xz6cQ2XMXta7"
+        },
+        {
+          "name": "The Northern California G.M.W.A. Mass Choir",
+          "url": "https://open.spotify.com/artist/3LeKU2nLETcT0vNrHLUnpd"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308866,
+      "name": "Victory Is Mine",
+      "url": "https://open.spotify.com/track/2PdoPOjC8qhDgpz2NlOcYg"
+    },
+    {
+      "album": {
         "name": "Vision Of Love (The Voice Australia 2019 Performance / Live)",
         "url": "https://open.spotify.com/album/1anvxJYfBI8DX3IHACx7VI"
       },
@@ -17480,7 +17520,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"
@@ -17614,7 +17654,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 192227,
       "name": "Wonderful Is Your Name",
       "url": "https://open.spotify.com/track/6IH3XfSDOaVknLHhsIvyuX"

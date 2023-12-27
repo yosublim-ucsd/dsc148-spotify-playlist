@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1925,
+  "num_followers": 1924,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTUwNmM0MThhMzUyM2NmM2VhZWExZWIxN2IxYzRhNTI0Y2I4ODVj",
+  "snapshot_id": "MCw2M2E2ZDMwZTI1M2FlYjg3MTJhMGQ5MTE1YWNhY2MzOTE2Yzc2ZmNj",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Summer Bae",
-      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Salary",
         "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 169200,
       "name": "Salary",
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Summer Bae",
+      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+      "duration_ms": 210724,
+      "name": "Majje",
+      "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "AFRICAN MUSIC",
-        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        },
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 210724,
-      "name": "Majje",
-      "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
-      },
-      "artists": [
-        {
-          "name": "SHENA SKIES",
-          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
       },
       "artists": [
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+          "name": "SHENA SKIES",
+          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
         }
       ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+      "duration_ms": 182500,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Leega",
+        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "Leega",
+      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Type Of Girl",
         "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 210279,
       "name": "Type Of Girl",
       "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Leega",
-        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 216398,
-      "name": "Leega",
-      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
     }
   ],
   "unique_name": "Made In Uganda",

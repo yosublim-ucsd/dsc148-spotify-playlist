@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 102870,
+  "num_followers": 102901,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU3NTNhOGYzN2Q4OTFlOGM4YTBlMGU0Y2I0MzIwMWM1YWE1ZTdi",
+  "snapshot_id": "MCxkNDZkM2U4YmY1YTAyNzE2ZDA2NjVhZjMxNTI3MDVlMDM2YTc3MTg1",
   "tracks": [
     {
       "added_at": "2023-10-06 07:11:21",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
-        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
-      },
-      "artists": [
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        },
-        {
-          "name": "Txrbo",
-          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
-      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
         "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 216114,
       "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
       "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
+        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Txrbo",
+          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
+      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Sunkissed",
-        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
-      },
-      "artists": [
-        {
-          "name": "Urworld",
-          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
-        }
-      ],
-      "duration_ms": 242154,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 259721,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
+      },
+      "artists": [
+        {
+          "name": "Urworld",
+          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
+        }
+      ],
+      "duration_ms": 242154,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Nude",
-        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
-      },
-      "artists": [
-        {
-          "name": "JETSET'ER",
-          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "\u0e08\u0e39\u0e1a",
-      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "begins",
         "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 231946,
       "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "Nude",
+        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
+      },
+      "artists": [
+        {
+          "name": "JETSET'ER",
+          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "\u0e08\u0e39\u0e1a",
+      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1655,22 +1655,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-        "url": "https://open.spotify.com/album/1rXb5s1tafG6YOlii5cGKS"
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
       "artists": [
         {
-          "name": "JAYLERR",
-          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
-        },
-        {
-          "name": "Ice Paris",
-          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
         }
       ],
-      "duration_ms": 193894,
-      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-      "url": "https://open.spotify.com/track/0qMQZhDD8hjV7KvZ19Jm4n"
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
     },
     {
       "added_at": "2023-10-06 07:11:21",

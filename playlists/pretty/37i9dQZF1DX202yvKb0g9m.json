@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 109355,
+  "num_followers": 109445,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODU4MjgwMTVhZjY2ZDcyMjExOTIyYjk0ZmU0YjRkN2U2ZjMyOGNh",
+  "snapshot_id": "MCw5NWE5ZjM5MjRmMjY2MDAzZjIzZTY5N2Y3NTVlZmZmY2QxMzlmNDk0",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Sector II: Acid",
-        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
-      },
-      "artists": [
-        {
-          "name": "MATRiXXMAN",
-          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
-        }
-      ],
-      "duration_ms": 465312,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "What Time Is Love",
         "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 375013,
       "name": "What Time Is Love / Time Of Love",
       "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Sector II: Acid",
+        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
+      },
+      "artists": [
+        {
+          "name": "MATRiXXMAN",
+          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
+        }
+      ],
+      "duration_ms": 465312,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",

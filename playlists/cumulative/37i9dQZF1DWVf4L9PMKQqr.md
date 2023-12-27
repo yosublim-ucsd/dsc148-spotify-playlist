@@ -4,7 +4,7 @@
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-85 songs - 4 hr 9 min
+86 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Cada Noche un Amor](https://open.spotify.com/track/5WiQDTNxxdUQut3jCUZz0e) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 3:31 | 2021-05-07 |  |
 | [Concha Nacar](https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:18 | 2021-05-07 |  |
 | [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2021-05-07 | 2023-12-25 |
+| [Concha nácar / Limosna \- Remastered](https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Vereda tropical \(Remastered\)](https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V) | 2:55 | 2021-05-07 |  |
 | [Cosas Que Suceden](https://open.spotify.com/track/66TEyiKkT24YtD5md5qvJE) | [Agustin Lara Jr.](https://open.spotify.com/artist/2imA995pqgdOtN780UWweZ) | [...Solamente una Vez](https://open.spotify.com/album/59bTiNwUTyKzIW5B2GXRH2) | 3:20 | 2021-05-07 | 2023-12-21 |
-| [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 | 2021-05-07 |  |
+| [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 | 2021-05-07 | 2023-12-27 |
 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 | 2021-05-07 |  |
 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:53 | 2021-05-07 |  |
 | [De Riguroso Schottis](https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU) | [Lilian De Celis](https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:10 | 2021-05-07 |  |

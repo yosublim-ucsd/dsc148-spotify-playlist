@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Kim So Yeon\(김소연\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-822 songs - 1 day 22 hr 59 min
+823 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ace](https://open.spotify.com/track/0TEKLqzs45Pevjnrsl4ruz) | [길건](https://open.spotify.com/artist/22QCJ7zR43Fn4xEJRhREhG) | [Freedom](https://open.spotify.com/album/6wMoSJl4K6nRdBZextMlVP) | 3:22 | 2022-12-05 | 2023-02-28 |
 | [Acrobat's first love](https://open.spotify.com/track/0CyWioli3Jfqh9KYwwomk8) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART24](https://open.spotify.com/album/5mGrSafaWHAkJ6sCzY8nmG) | 3:54 | 2022-05-03 | 2022-07-09 |
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-04-07 | 2023-10-07 |
+| [addiction](https://open.spotify.com/track/6GZt0S6Q2xxNWue95xrE3w) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/6hbWgCHZINoOH1BtgrC472) | 3:30 | 2023-11-21 |  |
 | [Affection](https://open.spotify.com/track/6JdYu71MXicYwaFmfwZp9j) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 4:05 | 2022-05-03 | 2022-07-14 |
 | [After breaking up](https://open.spotify.com/track/0kHllwqBcJdQimFCkPPaNI) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:28 | 2022-04-22 | 2022-07-14 |
 | [Agonized](https://open.spotify.com/track/7HSLUdUgdr3EB3cCgt34FR) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:52 | 2022-04-22 | 2022-07-05 |
@@ -275,7 +276,7 @@
 | [Hwang Jini](https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:34 | 2022-04-07 |  |
 | [I always miss you](https://open.spotify.com/track/5omWndP0ClBe6lpu9EZVMn) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:33 | 2022-04-07 | 2022-06-20 |
 | [I am](https://open.spotify.com/track/1QciMqLiMTQNcHMvkz2QV6) | [Kim Suchan](https://open.spotify.com/artist/50EaMvYHnpDCZvShM4Cz1A) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:24 | 2022-05-03 | 2023-03-28 |
-| [I am a fool](https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:23 | 2022-04-22 |  |
+| [I am a fool](https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:23 | 2022-04-22 | 2023-12-27 |
 | [I Believe](https://open.spotify.com/track/2mVbMxChs8tNPvIMbYebpV) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:32 | 2022-05-03 | 2022-07-18 |
 | [I collapse](https://open.spotify.com/track/0B1UGyhwmxjkAPXfXuWhU0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:16 | 2022-05-03 | 2022-05-10 |
 | [I cried](https://open.spotify.com/track/4OQyfnMZhVGGqeCX9bpol1) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:53 | 2022-05-03 | 2022-05-30 |

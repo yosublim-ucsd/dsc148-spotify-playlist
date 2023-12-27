@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 39586,
+  "num_followers": 39626,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTgyODAxYjcxMWM4OGVkODlkYjlmYTY5YTVlMDAwMTE3OGJlM2Rl",
+  "snapshot_id": "MCw1ZTk2NTI1YzNjNmI2MGY1NmRkYzVjZjI0OGI5ZmIxZjk0ZjFiZDU3",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Bodas de Plata: Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
-      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Bodas de Plata: Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
+      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Caminando Y Cantando",
-        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+        "name": "Pastorita Huaracina",
+        "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
       },
       "artists": [
         {
-          "name": "Sentimiento Andino",
-          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Valicha",
-      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
+      "duration_ms": 188786,
+      "name": "A los Filos de un Cuchillo",
+      "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Caminando Y Cantando",
+        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Andino",
+          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Valicha",
+      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Pastorita Huaracina",
-        "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
-      },
-      "artists": [
-        {
-          "name": "Pastorita Huaracina",
-          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "A los Filos de un Cuchillo",
-      "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
+      },
+      "artists": [
+        {
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Nuestra Promesa",
         "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 290853,
       "name": "Nuestra Promesa",
       "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",

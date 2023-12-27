@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-301 songs - 1 day 1 hr 54 min
+303 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Matir Roud](https://open.spotify.com/track/0MqjGExHFk9yuVRBOYxTIo) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Jed](https://open.spotify.com/album/18JuuxQCdUw2L7sCUpoblH) | 4:28 | 2023-10-24 |  |
 | [Matir Roud \(Bonus Track\)](https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 4:29 | 2023-07-17 | 2023-10-25 |
 | [Maya](https://open.spotify.com/track/0pNFYOj2eRAvIBX5cFrmHc) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Maya](https://open.spotify.com/album/2ccWwV3F8ExvbQ258jCaj8) | 6:44 | 2023-08-14 | 2023-09-07 |
-| [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 | 2022-06-16 |  |
+| [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 | 2022-06-16 | 2023-12-27 |
+| [Mayabee](https://open.spotify.com/track/697L56blyFsXn3NKxkpiWN) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/3Oc8bW5CC7dTBrp7jW1Xau) | 4:02 | 2023-11-21 |  |
 | [Medley: Bangladesh / Sultana Bibiana / Ghumonto Shohore / Jala Jala / Oshamajik / Shurjo / Bhoboghure / Chile Kothar Shepai / Blues and Rod / Obocehton / Omanush / Mitther Agrashon / Dhuboshor](https://open.spotify.com/track/4kzv2Iwa3FkfCrvw7VJuXB) | [Minerva](https://open.spotify.com/artist/3phSuSjTMPcF9Tr02vbCnj) | [Medley: Bangladesh / Sultana Bibiana / Ghumonto Shohore / Jala Jala / Oshamajik / Shurjo / Bhoboghure / Chile Kothar Shepai / Blues and Rod / Obocheton / Omanush / Mitther Agrashon / Dhruboshor](https://open.spotify.com/album/1ZL0DoPL6ZMBnUshYPN0vJ) | 18:58 | 2023-04-03 | 2023-04-29 |
 | [Megh](https://open.spotify.com/track/4GqfTI88KHKxUBTPUvIh9y) | [Stone Bangladesh](https://open.spotify.com/artist/7Gl718NLA7dsFZ8bWvQELQ) | [Megh](https://open.spotify.com/album/4zt0PYPzduetlLoKP6BCUF) | 5:02 | 2023-07-20 |  |
 | [Meye](https://open.spotify.com/track/0mncMDi5ID5KTbeeBPBvzI) | [Ayub Bachchu](https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF) | [Mixed Album Super Hit Vol\. 1](https://open.spotify.com/album/4PDa4Od5d6I6W8DZpDaPIW) | 5:53 | 2023-04-03 |  |
@@ -237,7 +238,8 @@
 | [Proticchobi](https://open.spotify.com/track/1cO5oG1LoTyimmlKT30pS2) | [BAGDHARA](https://open.spotify.com/artist/7uiRC0NlNdHQKVhjTztgrg) | [Proticchobi](https://open.spotify.com/album/7Bcv366EbFAYTOm3xky9rD) | 5:22 | 2023-01-20 |  |
 | [Protishruti](https://open.spotify.com/track/4LFXQy7NN0KdraTRs2WZj9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Protishruti](https://open.spotify.com/album/2jGoGgLlFQKTpuEnxCXSDq) | 4:58 | 2022-06-16 | 2023-01-21 |
 | [Provu](https://open.spotify.com/track/4IJ1xoz8M9omBst9dd9IKH) | [Abirbhaab](https://open.spotify.com/artist/60DzpTSQlf934knmD0jkdr) | [Provu](https://open.spotify.com/album/65CBawaHaqasNGO8BBMbm8) | 4:46 | 2023-02-28 | 2023-09-13 |
-| [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 | 2022-06-16 |  |
+| [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 | 2022-06-16 | 2023-12-27 |
+| [Punorjonmo](https://open.spotify.com/track/48wo8JVnTkD1pmLzrSpXRM) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/4QFW6z1FaExTAhwoiDkg7r) | 7:53 | 2023-11-21 |  |
 | [PURBAPOR](https://open.spotify.com/track/2JccX3rLZQi4f2IE9c7b7o) | [ADVERB BAND](https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR) | [PURBAPOR](https://open.spotify.com/album/3FczU5hSZZ5QBCq4TqqFAN) | 6:00 | 2023-07-31 | 2023-08-24 |
 | [Purnata](https://open.spotify.com/track/1Hu5kkx4WAnpsmYJClkjQX) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 5:59 | 2022-11-30 | 2023-06-24 |
 | [Purnota](https://open.spotify.com/track/67RmLSjDk4AWMYUxn6J7R1) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 5:59 | 2023-04-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Rogerinho, Ana Castela e Ludmilla, Tasha & Tracie e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,891 likes - 69 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,207 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Vai Barulhando](https://open.spotify.com/track/6wCwiuStfcXd1LNk20CvaY) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [DJ Dodô](https://open.spotify.com/artist/1AwayCNfbReYqh7wm3gqDo) | [Vai Barulhando](https://open.spotify.com/album/3nMoUuTARHFbmUeAjW513z) | 1:56 |
 | 69 | [Tudo Ou Nada](https://open.spotify.com/track/0gboY45ftHxGkxSlYfQvbY) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Tudo Ou Nada](https://open.spotify.com/album/3JpTCQ2xTClWJzrOSWkNOh) | 3:17 |
 
-Snapshot ID: `MCxlNGNlMGEzNTVhZWU2MzU1Nzg0YjVjM2E0MTQyN2E3MGU5MjJhMzMw`
+Snapshot ID: `MCw2NjkwNDM0OGU0MGViZWRjNTI1MDQzOTU1MjM5MmQ5NGUwMjA5Y2Yw`

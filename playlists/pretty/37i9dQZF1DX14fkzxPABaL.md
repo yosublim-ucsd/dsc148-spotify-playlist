@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,780 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,882 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 |
 | 100 | [Dos Extraños](https://open.spotify.com/track/0W8RPldmytO1ETl5OnuJjw) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Dos Extraños](https://open.spotify.com/album/1R7O40i07tOHZMcQ2hF3Fk) | 2:47 |
 
-Snapshot ID: `MCw5YWM5ZmVlZTQ1N2VhZGZhYTQ2MjFmZTkxN2I3OWFiNTQyMjVmZTBi`
+Snapshot ID: `MCxhNzlmZThjMzNkMzdmZjE5ZDE5MTgwMjE3NmVmODE5MDNhYTVlMjQ4`

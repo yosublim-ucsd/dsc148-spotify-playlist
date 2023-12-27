@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Fatima Campo en portada. ",
-  "num_followers": 131963,
+  "num_followers": 131971,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQwZjhhZDgyMjYwMTkyNjYxYTI3NzdhZjNiZWZlYmFjN2YwMDcw",
+  "snapshot_id": "MCxmZTY5ZTAzYzkzYjBlYjI4NWZjOGQ3MDQ3YTU4M2NkOTRlMzFhOWFi",
   "tracks": [
     {
       "added_at": "2023-12-08 07:58:31",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "Una Vida",
         "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 140160,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 179108,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 179108,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "Como Si No Se Hubiera Ido",
+      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "...Y Lleg\u00f3 Para Quedarse",
         "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 186628,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 165290,
-      "name": "Como Si No Se Hubiera Ido",
-      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Otra Cruda",
-        "url": "https://open.spotify.com/album/2EKI28iW0w1uy303XrOZkV"
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
       },
       "artists": [
         {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Otra Cruda",
-      "url": "https://open.spotify.com/track/3BxKSTYJdszlmMJJF2rlrJ"
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Otra Cruda",
+        "url": "https://open.spotify.com/album/2EKI28iW0w1uy303XrOZkV"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Otra Cruda",
+      "url": "https://open.spotify.com/track/3BxKSTYJdszlmMJJF2rlrJ"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "No Mereces Que Te Quiera",
         "url": "https://open.spotify.com/album/5cpewiOogeoLSa6u5qMQQa"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/222Kyi97cIqQA4TxYKyYwh"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
     },
     {
       "added_at": "2023-12-08 07:58:31",

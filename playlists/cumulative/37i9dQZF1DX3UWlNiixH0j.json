@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30c9\u30df\u30b3",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: CAR10",
   "name": "Edge!",
   "tracks": [
     {
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
@@ -2438,6 +2438,28 @@
       "duration_ms": 141306,
       "name": "COSMO",
       "url": "https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG"
+    },
+    {
+      "album": {
+        "name": "Couch potato",
+        "url": "https://open.spotify.com/album/2K3OcxqdyKdntOkR0p1y3z"
+      },
+      "artists": [
+        {
+          "name": "JunIzawa",
+          "url": "https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I"
+        },
+        {
+          "name": "Tami Keem",
+          "url": "https://open.spotify.com/artist/4H2v1nlEJIETN8rDRmVXG1"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Couch potato",
+      "url": "https://open.spotify.com/track/0xaw7RO8FbezqjqTDxdvYN"
     },
     {
       "album": {
@@ -5210,7 +5232,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 261706,
       "name": "Hitohito",
       "url": "https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad"
@@ -5954,6 +5976,24 @@
       "duration_ms": 242004,
       "name": "In Crossing",
       "url": "https://open.spotify.com/track/7fzC8IP1IbYvuhgMxRBlrY"
+    },
+    {
+      "album": {
+        "name": "In Dream",
+        "url": "https://open.spotify.com/album/3fxihPqxRXbFXiu6ETaZPB"
+      },
+      "artists": [
+        {
+          "name": "car10",
+          "url": "https://open.spotify.com/artist/3ePrkBqwNRNOxntiehVBtS"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "In Dream",
+      "url": "https://open.spotify.com/track/3dmEvQZ5jCINSheM7wPbmo"
     },
     {
       "album": {
@@ -7170,7 +7210,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 187157,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
@@ -8214,7 +8254,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 162286,
       "name": "Nanairo Colorful",
       "url": "https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O"
@@ -12098,7 +12138,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 138807,
       "name": "take care",
       "url": "https://open.spotify.com/track/7Gjgl7STeQcpkHmztnhqDi"
@@ -13965,6 +14005,28 @@
     },
     {
       "album": {
+        "name": "WISH",
+        "url": "https://open.spotify.com/album/4iDYR9tE9s8T8nEA7eMEGk"
+      },
+      "artists": [
+        {
+          "name": "MahiToThePeople",
+          "url": "https://open.spotify.com/artist/44cV1YrDmWKCT3nYNf9KXc"
+        },
+        {
+          "name": "Koji Shimotsu",
+          "url": "https://open.spotify.com/artist/5ieReuBPIlmThOD8NMCUQ7"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290935,
+      "name": "WISH",
+      "url": "https://open.spotify.com/track/0Nq1UdmGhRmcHrfJh6xzzW"
+    },
+    {
+      "album": {
         "name": "Jupiter Jazz",
         "url": "https://open.spotify.com/album/4fNySJa19Xr37458bSh8wA"
       },
@@ -14442,7 +14504,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 188575,
       "name": "\u3042\u306a\u305f\u306e\u865c",
       "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
@@ -15446,7 +15508,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 205220,
       "name": "\u3075\u304d\u3060\u3057",
       "url": "https://open.spotify.com/track/4LT84HiyJT3I1cNbwykO09"

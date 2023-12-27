@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-245 songs - 9 hr 29 min
+246 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [crush on you](https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:24 | 2022-04-15 | 2023-09-13 |
 | [crush on you](https://open.spotify.com/track/1vlzSY7AttAiAvSEe1JbVs) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:24 | 2022-04-15 | 2022-11-19 |
 | [crush on you](https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:24 | 2022-04-15 | 2022-12-07 |
+| [crush on you](https://open.spotify.com/track/3Cc3LdR3jKVhd4QFg6giXD) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s) | [crush on you](https://open.spotify.com/album/1JTdnT0NeG7mRf64KXmIE0) | 1:24 | 2022-04-15 |  |
 | [Cujo](https://open.spotify.com/track/4reSkHtZwtc3dGnmG8blkE) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cujo](https://open.spotify.com/album/3hWNMSeDkARnpSCgmQUyLF) | 1:40 | 2022-04-15 | 2022-07-29 |
 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 | 2022-04-15 |  |
 | [Daydream](https://open.spotify.com/track/4zf41XjqWlQPJOqQIVX3Xw) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC) | [Hide Away](https://open.spotify.com/album/6LUJ3AHJDYiP4mhsfIRh9t) | 2:48 | 2022-04-15 | 2022-07-24 |
@@ -79,7 +80,7 @@
 | [go away](https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [go away](https://open.spotify.com/album/6vtdKV232OX7c3KHCcgeLD) | 2:12 | 2022-04-15 | 2022-07-29 |
 | [gold](https://open.spotify.com/track/58LtMOwgUsR2RH70Du6hiK) | [Flux The Cynic](https://open.spotify.com/artist/7KVnt5tFYViqLUPgUkkDoF), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [flux the cynic](https://open.spotify.com/album/298IErQJY2iMNJxzJrEGtF) | 1:47 | 2022-04-15 | 2022-07-17 |
 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-15 | 2023-08-23 |
-| [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 | 2022-04-15 |  |
+| [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 | 2022-04-15 | 2023-12-27 |
 | [hand of god](https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:43 | 2022-04-15 | 2023-09-27 |
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 | 2022-11-26 |
 | [Here There](https://open.spotify.com/track/1lXBO9MA1ZnyQSaMPS0Ipo) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 1:59 | 2022-04-15 | 2023-05-24 |

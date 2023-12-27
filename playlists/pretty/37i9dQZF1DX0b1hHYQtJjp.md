@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,979 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,026 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 77 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 |
 | 78 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 
-Snapshot ID: `MCwxN2Q4ZjRkM2M5YzBiODJjODhiY2Y2MDVlNWUzMTE5NDkzYmFlN2Ey`
+Snapshot ID: `MCw0M2MyMjJhNWYxZDBmZWZiMjNiOWFlY2NlODAyODA0ZjhiOTY5ZmQw`

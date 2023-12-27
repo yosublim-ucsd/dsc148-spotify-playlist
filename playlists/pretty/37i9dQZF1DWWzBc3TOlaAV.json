@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 886446,
+  "num_followers": 886595,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDVhNzM2MTExYzMyZmM5ZmMyNWJhYmE3MjRmM2ZiOTEyOGU2OGI5",
+  "snapshot_id": "MCxkNmIwNGVhODIxNThlNzlkOGRkYWQzZDU5ZmE4MTc0NjU2NTc5NGEz",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
         }
       ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Wipe Out",
-        "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
+        "name": "Small Faces - Deluxe Edition (2012 Remaster)",
+        "url": "https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i"
       },
       "artists": [
         {
-          "name": "The Surfaris",
-          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
         }
       ],
-      "duration_ms": 166092,
-      "name": "Wipe Out",
-      "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
+      "duration_ms": 166680,
+      "name": "Itchycoo Park (Mono Version) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Small Faces - Deluxe Edition (2012 Remaster)",
-        "url": "https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i"
+        "name": "Wipe Out",
+        "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
       },
       "artists": [
         {
-          "name": "Small Faces",
-          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
         }
       ],
-      "duration_ms": 166680,
-      "name": "Itchycoo Park (Mono Version) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK"
+      "duration_ms": 166092,
+      "name": "Wipe Out",
+      "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
     },
     {
       "added_at": "2023-01-18 21:00:56",

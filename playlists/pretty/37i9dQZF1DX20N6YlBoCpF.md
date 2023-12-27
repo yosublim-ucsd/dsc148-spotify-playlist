@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3?si=w5ciPZvJTIGPgTLvZXNVFQ">Loki Rothman</a> & <a href="https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=Ym0I4NVKQAuXHQrVg1qFaQ">Die Heuwels Fantasties</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,275 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,313 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
 | 60 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 
-Snapshot ID: `MCxhMjFjNGI0OTY5Y2QyYmY0YzVkM2YxMzFmMWY1OTA5NTMxZjkxOTdi`
+Snapshot ID: `MCw1NGY0OWQ2NzcxODQ0ODFlNDkwMzk2NDBlMDE3MDQxNjY5MjZlYWM5`

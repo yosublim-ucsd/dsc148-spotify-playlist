@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. PauByChance",
-  "num_followers": 124600,
+  "num_followers": 124610,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTc1ZmE2OGNkYmIzMzg3ZTE5MTEwYTYwYTBlNGYxNjIyZTE2NGU1",
+  "snapshot_id": "MCwzODM4NTgyMWQ2NDgzMzYzNzViYTczYTgxYTkwYTA2MzU0MTM4MTk2",
   "tracks": [
     {
       "added_at": "2023-12-15 09:57:03",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "debo dejar de fumar",
+        "url": "https://open.spotify.com/album/4G8fBBPQC00s5VH8d2p142"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        },
+        {
+          "name": "exit303",
+          "url": "https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "debo dejar de fumar",
+      "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -543,22 +563,18 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "debo dejar de fumar",
-        "url": "https://open.spotify.com/album/4G8fBBPQC00s5VH8d2p142"
+        "name": "Mu\u00aa",
+        "url": "https://open.spotify.com/album/3TsePG9RE5sNLxEROVLB66"
       },
       "artists": [
         {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        },
-        {
-          "name": "exit303",
-          "url": "https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         }
       ],
-      "duration_ms": 169750,
-      "name": "debo dejar de fumar",
-      "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
+      "duration_ms": 163513,
+      "name": "Mu\u00aa",
+      "url": "https://open.spotify.com/track/2z8XbTZQYKOIFfiEbGu8HF"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -575,22 +591,6 @@
       "duration_ms": 151000,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Mu\u00aa",
-        "url": "https://open.spotify.com/album/3TsePG9RE5sNLxEROVLB66"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        }
-      ],
-      "duration_ms": 163513,
-      "name": "Mu\u00aa",
-      "url": "https://open.spotify.com/track/2z8XbTZQYKOIFfiEbGu8HF"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
+      },
+      "artists": [
+        {
+          "name": "New Boix",
+          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Otra Noche de Verano",
+      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "L\u00aa N\u00aave",
         "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
-      },
-      "artists": [
-        {
-          "name": "New Boix",
-          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Otra Noche de Verano",
-      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "No Stoy a Tu Lao (Reverb) [Slowed]",
-        "url": "https://open.spotify.com/album/0CpIRUPmH2pKen7qwV2BFW"
-      },
-      "artists": [
-        {
-          "name": "OH!DULCEARi",
-          "url": "https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn"
-        },
-        {
-          "name": "importmedia",
-          "url": "https://open.spotify.com/artist/5RvWv9k1KMKFW27Ue9H2dc"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "No Stoy a Tu Lao (Reverb) - Slowed",
-      "url": "https://open.spotify.com/track/5JZV4xWDkOlp4hxxtEHfns"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "Anesthesia",
         "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 144000,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "No Stoy a Tu Lao (Reverb) [Slowed]",
+        "url": "https://open.spotify.com/album/0CpIRUPmH2pKen7qwV2BFW"
+      },
+      "artists": [
+        {
+          "name": "OH!DULCEARi",
+          "url": "https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn"
+        },
+        {
+          "name": "importmedia",
+          "url": "https://open.spotify.com/artist/5RvWv9k1KMKFW27Ue9H2dc"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "No Stoy a Tu Lao (Reverb) - Slowed",
+      "url": "https://open.spotify.com/track/5JZV4xWDkOlp4hxxtEHfns"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Psicomaniatico",
-        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        }
-      ],
-      "duration_ms": 137865,
-      "name": "Psicomaniatico",
-      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "EL TRUCO",
         "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 181092,
       "name": "Sangre",
       "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Psicomaniatico",
+        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "duration_ms": 137865,
+      "name": "Psicomaniatico",
+      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "nuevesiNKO\u2661",
-        "url": "https://open.spotify.com/album/7afoR1cm0EDelClNBHtyYT"
-      },
-      "artists": [
-        {
-          "name": "NKO",
-          "url": "https://open.spotify.com/artist/3fcPLvBeIFMRH5ghc0OK0a"
-        },
-        {
-          "name": "nuevesinko",
-          "url": "https://open.spotify.com/artist/5d77smsqsQSbZ53VgWVPbQ"
-        }
-      ],
-      "duration_ms": 123910,
-      "name": "no debi bajar\u02d8\ufe35\u02d8",
-      "url": "https://open.spotify.com/track/0qIP3jb6eezK3pVJZigowo"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "2035",
         "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "nuevesiNKO\u2661",
+        "url": "https://open.spotify.com/album/7afoR1cm0EDelClNBHtyYT"
+      },
+      "artists": [
+        {
+          "name": "NKO",
+          "url": "https://open.spotify.com/artist/3fcPLvBeIFMRH5ghc0OK0a"
+        },
+        {
+          "name": "nuevesinko",
+          "url": "https://open.spotify.com/artist/5d77smsqsQSbZ53VgWVPbQ"
+        }
+      ],
+      "duration_ms": 123910,
+      "name": "no debi bajar\u02d8\ufe35\u02d8",
+      "url": "https://open.spotify.com/track/0qIP3jb6eezK3pVJZigowo"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1671,38 +1671,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Club Mood",
-        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
+        "name": "Es Un Placer Conocerte",
+        "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
       "artists": [
         {
-          "name": "Lazykidd",
-          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
+          "name": "Imperial Blxndie",
+          "url": "https://open.spotify.com/artist/7yLoYQcZVkMgie2CvjpuT1"
         },
         {
-          "name": "Kid$trange",
-          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
+          "name": "Dani Manzan",
+          "url": "https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Club Mood",
-      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "fireflies",
-        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
-      },
-      "artists": [
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "fireflies",
-      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
+      "duration_ms": 160075,
+      "name": "Es Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1727,22 +1711,38 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Es Un Placer Conocerte",
-        "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
+        "name": "fireflies",
+        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
       },
       "artists": [
         {
-          "name": "Imperial Blxndie",
-          "url": "https://open.spotify.com/artist/7yLoYQcZVkMgie2CvjpuT1"
-        },
-        {
-          "name": "Dani Manzan",
-          "url": "https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0"
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
         }
       ],
-      "duration_ms": 160075,
-      "name": "Es Un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+      "duration_ms": 205241,
+      "name": "fireflies",
+      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Club Mood",
+        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
+      },
+      "artists": [
+        {
+          "name": "Lazykidd",
+          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
+        },
+        {
+          "name": "Kid$trange",
+          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Club Mood",
+      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
     },
     {
       "added_at": "2023-12-15 09:57:03",

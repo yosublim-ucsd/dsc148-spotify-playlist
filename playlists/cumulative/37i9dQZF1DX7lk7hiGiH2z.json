@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 185454,
       "name": "Eisb\u00e4r-Pinguin Rock",
       "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
@@ -3340,6 +3340,28 @@
       "duration_ms": 197893,
       "name": "Laubkonfetti (Es ist Herbst)",
       "url": "https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR"
+    },
+    {
+      "album": {
+        "name": "Giraffenaffen Winterlieder",
+        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "Leise rieselt der Schnee",
+      "url": "https://open.spotify.com/track/4rlto54mESOE4qS5qzlfDe"
     },
     {
       "album": {

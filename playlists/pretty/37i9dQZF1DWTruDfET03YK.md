@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,358 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,406 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 34 | [Foxy Fakeout](https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 2:08 |
 | 35 | [La Gata](https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:38 |
 | 36 | [El Gato Carpintero](https://open.spotify.com/track/3osiguY3buNPqZlckyTonk) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:16 |
-| 37 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
-| 38 | [Que Titungui Titungui](https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW) | [CD5: Panam Y Circo 10 Años](https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v) | 2:24 |
+| 37 | [Que Titungui Titungui](https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW) | [CD5: Panam Y Circo 10 Años](https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v) | 2:24 |
+| 38 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
 | 39 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 40 | [El Caballo Comisario](https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Canta Baila Juega](https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv) | 1:51 |
 | 41 | [Como las Vacas](https://open.spotify.com/track/6Qg8LyemcbXVnDWXnCcuQJ) | [Pez al Revés](https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2), [Leopoldo Caracoche](https://open.spotify.com/artist/2NFttPRH6bAwbK8ELlwqIY), [Lucas Rosenwasser](https://open.spotify.com/artist/6TztmvR2ifD2qbS2cbrCgW) | [Pez Al Revés](https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 49 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
 | 50 | [Pato Con Tres Patas](https://open.spotify.com/track/79eWa4cjirSHSmKg8f3WTN) | [Pez al Revés](https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2), [Cascacuerda](https://open.spotify.com/artist/42JQQWzk1ZzwSbj9JqBUF3), [Juan Pablo Ezquerra](https://open.spotify.com/artist/7jVd7dSHaEDxcZMyiZsQ23) | [Pez Al Revés](https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x) | 2:08 |
 
-Snapshot ID: `MCwxMmE4ODU3ZjBiNDM5NzJkNzk2ZDIwOTQzYjAzYTViNTlkNzQ4MTQ3`
+Snapshot ID: `MCwzYzZhN2NlYmUwY2QxNDI2NTMzN2JmODExNzc0NjlhNjMzY2Q5MTEy`

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1120520,
+  "num_followers": 1120728,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTA2Mzg3NTU3YzNkNTU2MDRmYzA1ZTNmOWUyZjIwMWEwNGM3NWQz",
+  "snapshot_id": "MCw2OWZkZTgxODVkYmY2YTA3ZTU1NGQzZjA2Y2JhMjc4NzU3MzlhYmM3",
   "tracks": [
     {
       "added_at": "2023-12-13 10:11:36",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-12-13 10:11:36",
       "album": {
-        "name": "Saat Kau Telah Mengerti",
-        "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
+        "name": "Selamat (Selamat Tinggal)",
+        "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
       "artists": [
         {
           "name": "Virgoun",
           "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        },
+        {
+          "name": "Audy",
+          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
         }
       ],
-      "duration_ms": 290751,
-      "name": "Saat Kau Telah Mengerti",
-      "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
+      "duration_ms": 313670,
+      "name": "Selamat (Selamat Tinggal)",
+      "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
     },
     {
       "added_at": "2023-12-13 10:11:36",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-12-13 10:11:36",
       "album": {
-        "name": "Selamat (Selamat Tinggal)",
-        "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
+        "name": "Saat Kau Telah Mengerti",
+        "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
       },
       "artists": [
         {
           "name": "Virgoun",
           "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        },
-        {
-          "name": "Audy",
-          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
         }
       ],
-      "duration_ms": 313670,
-      "name": "Selamat (Selamat Tinggal)",
-      "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
+      "duration_ms": 290751,
+      "name": "Saat Kau Telah Mengerti",
+      "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
     },
     {
       "added_at": "2023-12-13 10:11:36",
@@ -560,7 +560,7 @@
       },
       "artists": [
         {
-          "name": "Pendarra",
+          "name": "Amigdala",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],

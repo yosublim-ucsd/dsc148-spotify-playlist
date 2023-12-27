@@ -4,7 +4,7 @@
 
 > Best songs of 2023 plus some of Obama&\#x27;s favorite summer songs\. Includes 22, &amp; 21 editions + bonus tracks.
 
-2,762 songs - 6 day 13 hr 45 min
+2,763 songs - 6 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 | 2023-07-24 | 2023-08-20 |
 | [Freedom](https://open.spotify.com/track/4S4QeGP0866I9oVyCyUMXa) | [AIS](https://open.spotify.com/artist/2R7laIbwkvPPud2g6Ia9Uz) | [Freedom](https://open.spotify.com/album/2qg46upRNBqRdQPicGbrBK) | 4:17 | 2021-11-27 | 2021-12-12 |
 | [Freedom](https://open.spotify.com/track/2SUT0HAX6tfo0Vk8tYfBYG) | [B.A.D.A.](https://open.spotify.com/artist/5DRgp80WYkhaRnALRKlWRz), [Rayon Nelson](https://open.spotify.com/artist/31vrrmY4Ouk1Y9RdZy8r3a) | [Freedom](https://open.spotify.com/album/4HghTbSIMUCQXIjQ93qmKM) | 4:30 | 2020-06-29 | 2020-07-13 |
+| [Freedom](https://open.spotify.com/track/3fbTDuocnHvdpir8W9F9mT) | [Michelle Luna](https://open.spotify.com/artist/2w6TB1vTFpX5nSCb9Wivck) | [Little Secrets](https://open.spotify.com/album/2WiH1ZHtCuJ0ZppmDkej6D) | 2:46 | 2023-12-27 |  |
 | [French Food](https://open.spotify.com/track/5uv330wHMM4VDJ7vlKy828) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [French Food](https://open.spotify.com/album/1oFHV3sX7aFSA2AcKrgSN2) | 3:08 | 2021-08-21 | 2021-09-15 |
 | [Frenemies](https://open.spotify.com/track/1EulXkYiwv2XLpvKs8R1ta) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Frenemies](https://open.spotify.com/album/78fUV4QBFjWMqGGpYhmoMJ) | 2:52 | 2020-03-28 | 2020-04-07 |
 | [Fresh](https://open.spotify.com/track/3gGGpWjG5TPA73BeRp7asf) | [Hatewine](https://open.spotify.com/artist/6b7ytNpGmrGPdvYnzFrxqB) | [Fresh](https://open.spotify.com/album/5bkVz2AjrqFDmYCXmHC5Al) | 3:22 | 2021-05-21 | 2021-06-06 |
@@ -916,7 +917,7 @@
 | [Further Away](https://open.spotify.com/track/1lvZILzA50uGrxy2rm2rlT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Dangerous Diversion](https://open.spotify.com/album/3mTehsa895REJQ7XceuU3a) | 4:56 | 2020-05-22 | 2020-06-10 |
 | [Future](https://open.spotify.com/track/1du59daS2oeY8medsWkMV5) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Future](https://open.spotify.com/album/0QcIvjkrT35gQpcGA1fBo3) | 2:40 | 2023-08-30 | 2023-09-26 |
 | [Future Trippin](https://open.spotify.com/track/7qCv1lilDoVJUynmWyXUNP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Future Trippin](https://open.spotify.com/album/5KuErZHMYkPyseDHHCdc2y) | 3:15 | 2020-06-10 | 2020-07-02 |
-| [FUXIA](https://open.spotify.com/track/359SZXsa5CJtP0FNVqfzQ3) | [Pascal Pirita](https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4) | [Un Lugar](https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ) | 3:21 | 2023-12-18 |  |
+| [FUXIA](https://open.spotify.com/track/359SZXsa5CJtP0FNVqfzQ3) | [Pascal Pirita](https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4) | [Un Lugar](https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ) | 3:21 | 2023-12-18 | 2023-12-27 |
 | [G](https://open.spotify.com/track/02REBPzejm75Yqm8cnYrPC) | [S.F.H.](https://open.spotify.com/artist/2CvYO3hLvErhr88F4IbX6s) | [G](https://open.spotify.com/album/22gXJUPsRW9H6cekQ21XS0) | 4:28 | 2021-02-26 | 2021-03-14 |
 | [G In Georgia](https://open.spotify.com/track/0LOv13KH2TSoHbO7WaW31n) | [Tyler Neal](https://open.spotify.com/artist/3FCIOAlI83je5C3dD4Fma9) | [G In Georgia](https://open.spotify.com/album/7iOojwj2vksT6dYGEqRSLv) | 3:44 | 2023-07-08 | 2023-07-29 |
 | [G In Georgia \- Live](https://open.spotify.com/track/6fB3rxQoPWsZeLqb7PXeZ3) | [Tyler Neal](https://open.spotify.com/artist/3FCIOAlI83je5C3dD4Fma9) | [G In Georgia \(Live\)](https://open.spotify.com/album/6yRjgQoIsdwGFa0vuIDaSe) | 3:52 | 2023-07-31 | 2023-08-20 |
@@ -2769,6 +2770,6 @@
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-07-11 | 2023-02-12 |
 | [Ámame](https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e) | [Josh Galiano](https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb), [Dari Ferrari](https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP) | [Ámame](https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL) | 3:07 | 2023-08-02 | 2023-08-11 |
 | [火](https://open.spotify.com/track/3VIFS0KM6EXUvXXCwU7lh9) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [火](https://open.spotify.com/album/2uTPzFLzReLtFPcqtMZB0d) | 3:38 | 2021-04-30 | 2021-05-16 |
-| [爛在沙發上](https://open.spotify.com/track/4MoPVuAxOvtH0RIOhIiIwH) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [海海人生](https://open.spotify.com/album/38WPFkWuwBq9fbgFh7K23D) | 3:10 | 2023-12-19 |  |
+| [爛在沙發上](https://open.spotify.com/track/4MoPVuAxOvtH0RIOhIiIwH) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [海海人生](https://open.spotify.com/album/38WPFkWuwBq9fbgFh7K23D) | 3:10 | 2023-12-19 | 2023-12-27 |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

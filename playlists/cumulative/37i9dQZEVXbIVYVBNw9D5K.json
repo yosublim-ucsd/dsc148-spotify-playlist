@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 251780,
       "name": "A\u015fk\u0131n Olay\u0131m",
       "url": "https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9"
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 169695,
       "name": "Bir G\u00fcn Ol Yerimde",
       "url": "https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 170943,
       "name": "Cehennemin Dibi",
       "url": "https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y"
@@ -4160,6 +4160,24 @@
       "duration_ms": 223950,
       "name": "Dip",
       "url": "https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd"
+    },
+    {
+      "album": {
+        "name": "Sevgiye Zaman Ver",
+        "url": "https://open.spotify.com/album/787uYig5h50xsm6yAyHzMx"
+      },
+      "artists": [
+        {
+          "name": "Rafet El Roman",
+          "url": "https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226481,
+      "name": "Direniyorum",
+      "url": "https://open.spotify.com/track/2gcVsbyo517zAHOyvGbZWB"
     },
     {
       "album": {
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 212062,
       "name": "Laf\u0131 m\u0131 Olur",
       "url": "https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X"
@@ -14980,7 +14998,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 141072,
       "name": "YAPTIRICAZ TIRNAKLARINI",
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"

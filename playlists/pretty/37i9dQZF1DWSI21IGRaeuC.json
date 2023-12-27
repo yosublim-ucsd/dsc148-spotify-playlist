@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 31128,
+  "num_followers": 31157,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTZhNTY4OWU4ODY1NTk4M2E3ODA3NmQyNjUyZWVhOGNmNDczZDEw",
+  "snapshot_id": "MCw2MDg5NmZhODZlNDI2MzY5NGNlZjEzYjIwZjA5MGYxZmEzZmIwNDll",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "U Won't See Me",
-        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        },
-        {
-          "name": "Mystic Bill",
-          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "U Won't See Me",
-      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "U Won't See Me",
+        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Mystic Bill",
+          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "U Won't See Me",
+      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "ROCK THIS",
         "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204375,
       "name": "ROCK THIS",
       "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251500,
       "name": "Atomic Sun",
       "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Supermodel Thick",
         "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Picante EP",
         "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
       },
       "artists": [
         {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 602761,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
       },
       "artists": [
         {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
         }
       ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+      "duration_ms": 602761,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Where Ya At",
         "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 228750,
       "name": "Where Ya At",
       "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
     },
     {
       "added_at": "2023-12-15 05:00:00",

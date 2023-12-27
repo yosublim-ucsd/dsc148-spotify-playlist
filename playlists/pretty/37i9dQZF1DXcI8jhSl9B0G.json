@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74012,
+  "num_followers": 74071,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzMzMzllNzAwMmQ0ZDY4OTQyOTgyMDNhMmZjZGYyODBmMTdjZmI1",
+  "snapshot_id": "MCwzMDAzNWQ1NTY1NGMyYWExNjExMWQ4MTg4ZTQxNWRiZWFjYzFlYTA1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Inappropriate Behaviour",
         "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 196772,
       "name": "Inappropriate Behaviour",
       "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "A Song To Be Named",
+        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "A Song To Be Named",
+      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 216476,
       "name": "8 Hour Drive",
       "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "A Song To Be Named",
-        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 249999,
-      "name": "A Song To Be Named",
-      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2309803,
+  "num_followers": 2309770,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTQ3MDA1NGM1YTk3ZmU5Y2EwMTZiMmJlNDJmOTI0N2YyZmU1MjM4",
+  "snapshot_id": "MCxiNjZlZDlmMzc4ZDU5MDY1YTc2YTNjMjM2YWQ4ZDU0MjI3YWJlMzhl",
   "tracks": [
     {
       "added_at": "2023-07-25 00:14:57",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Hayloft",
+      "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Hayloft",
-      "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Don't You Feel Amazing?",
-        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Don't You Feel Amazing?",
-      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 163560,
       "name": "I.N.V.U.",
       "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Don't You Feel Amazing?",
+        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Don't You Feel Amazing?",
+      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "BLOODSTREAM",
-        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 189312,
-      "name": "BLOODSTREAM",
-      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "BLOODSTREAM",
+        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 189312,
+      "name": "BLOODSTREAM",
+      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "How Will I Know If Heaven Will Find Me?",
-        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "New York Transit Queen",
         "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "How Will I Know If Heaven Will Find Me?",
+        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd"
     },
     {
       "added_at": "2023-07-25 00:14:57",

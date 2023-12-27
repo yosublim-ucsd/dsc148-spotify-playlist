@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Silica Gel(\uc2e4\ub9ac\uce74\uac94)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HANRORO(\ud55c\ub85c\ub85c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 208839,
       "name": "Heavy Days of Youth (Prod. Jeong DongHwan) (Veiled Musician X LEE MU JIN with Hwagok-dong)",
       "url": "https://open.spotify.com/track/6MUXMpfPsIhEftomfUrBaD"
@@ -10240,6 +10240,24 @@
       "duration_ms": 241391,
       "name": "\ud328\ub7ec\uae00\ub77c\uc774\ub529 Paragliding",
       "url": "https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p"
+    },
+    {
+      "album": {
+        "name": "\ud558\ub8e8\uc0b4\uc774 Mayfly",
+        "url": "https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242287,
+      "name": "\ud558\ub8e8\uc0b4\uc774 Mayfly",
+      "url": "https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: REI AMI",
-  "num_followers": 83113,
+  "num_followers": 83104,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2NjZjkyZjRlMzUyNmNhOWI0NTYzYjMwZTU2NmNiNzhhMDQ0OTQ3",
+  "snapshot_id": "MCw4NDMyODNhYmU5ZDQ4YzlmZGI3Y2YzNTUzNjJmZTJlZmRkOTQwMjc4",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Better Than the Boys",
+        "url": "https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 154884,
+      "name": "Better Than the Boys",
+      "url": "https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Better Than the Boys",
-        "url": "https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 154884,
-      "name": "Better Than the Boys",
-      "url": "https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Can you (Galcher Lustwerk Remix)",
         "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 173008,
       "name": "Rings of Saturn",
       "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2023-11-24 04:00:00",

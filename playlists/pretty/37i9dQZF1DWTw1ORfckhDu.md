@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Alina Burnet ja TUULI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,981 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,992 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
 | 60 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
 
-Snapshot ID: `MCxhYjJhMGZiZGUyOGYwMjQ1Njk2NmI1OWU1NDhlMTA3ZjI2NGQwMWE1`
+Snapshot ID: `MCw5YzBjN2UwYTQxM2E2ZTRlMmYyNDEzNDM2NTM0YjYzMDJjNGM0NGJh`

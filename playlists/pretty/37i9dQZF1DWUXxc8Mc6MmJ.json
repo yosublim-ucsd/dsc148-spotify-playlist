@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 731315,
+  "num_followers": 731662,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q2NWQ0MmY3YTliNjY3MDFiMDc4YWI0OWRmYTlkZDc0NGQ3NWJh",
+  "snapshot_id": "MCwzNjA2Y2Q5Y2I5M2U4MmZmNzAyYmNkY2ZmMTMwM2Y0ZWMwY2MzMGNl",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
         "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 3",
-        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 214851,
-      "name": "Very, Slowly",
-      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 226991,
       "name": "\uae34 \ubc24\uc774 \uc624\uba74",
       "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 3",
+        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 214851,
+      "name": "Very, Slowly",
+      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
     },
     {
       "added_at": "2023-08-16 08:28:23",

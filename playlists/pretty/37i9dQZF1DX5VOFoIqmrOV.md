@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,404 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,588 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 29 | [Emannavoo](https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Nava Manmadhudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0) | 3:34 |
 | 30 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 |
 | 31 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri, Sinov Raj](https://open.spotify.com/artist/66y0P2nJxIKqpyHtBLCkbr) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 |
-| 32 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 |
-| 33 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |
+| 32 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |
+| 33 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 |
 | 34 | [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 |
 | 35 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 |
 | 36 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Sniggy](https://open.spotify.com/artist/0ioIcfFt7AbPVmSInTsWX6) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 39 | [Emo Emo](https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Raahu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm) | 4:02 |
 | 40 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 |
 | 41 | [Rang de](https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Shivani](https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje) | [Aa Aaa](https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY) | 4:01 |
-| 42 | [Em Sandeham Ledu](https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Oohalu Gusagusalade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5HaFZv77oP0GMVZXSfyz4h) | 3:52 |
-| 43 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 |
+| 42 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 |
+| 43 | [Em Sandeham Ledu](https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Oohalu Gusagusalade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5HaFZv77oP0GMVZXSfyz4h) | 3:52 |
 | 44 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz , Shreya Ghoshal](https://open.spotify.com/artist/0SrOoISCcqWMq27CrEA5vo) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
 | 45 | [Yedurangula Vaana](https://open.spotify.com/track/2Q9QGlZC5J5rPeeU8oWpHX) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/2R30N8Q00fVGnHdyZhTccV) | 4:12 |
 | 46 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 | 75 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
 
-Snapshot ID: `MCw5MjcwMGNmN2ZkOTNiZDhiOGRkMTU5NDZlYWYxOGRhNDFlZWYxZjY1`
+Snapshot ID: `MCxjYzdmNGQzYmY5OTA0YTIyNTBmOTNmZjhmMDEzNTQ5MWZlOTlkZDcz`

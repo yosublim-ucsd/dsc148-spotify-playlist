@@ -966,6 +966,24 @@
     {
       "album": {
         "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158950,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
+    },
+    {
+      "album": {
+        "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
       "artists": [
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 556007,
       "name": "Sunlight of Oneness",
       "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"

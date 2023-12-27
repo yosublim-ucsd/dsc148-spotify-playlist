@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-401 songs - 21 hr 52 min
+402 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Celebration](https://open.spotify.com/track/1l0mLzBpmdKu5u2DV0osdL) | [Joshy Soul](https://open.spotify.com/artist/077rXfQQLRyXfLdwGckDsg) | [Celebration](https://open.spotify.com/album/280uUsigSm6p62j3g4kCDK) | 3:57 | 2021-07-26 | 2022-07-26 |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-07-30 | 2023-08-26 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2021-09-11 | 2022-07-29 |
-| [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 | 2022-05-02 |  |
+| [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 | 2022-05-02 | 2023-12-27 |
 | [Come Down \- Slow Motion Remix](https://open.spotify.com/track/0sjLWNqhT9EhnKsoOLDjrv) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Come Down \(Slow Motion Remix\)](https://open.spotify.com/album/1UfazJ7xKXHMLCPjrD6JBl) | 4:21 | 2021-07-26 | 2022-04-21 |
 | [Comfy](https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Trillary Banks](https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY) | [Comfy](https://open.spotify.com/album/1WDYeelj0L1Xl4U4ZYOZKk) | 2:43 | 2022-08-26 | 2023-12-24 |
 | [Coming Closer](https://open.spotify.com/track/238p3EKRYESqsZdgE5DCDR) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:26 | 2021-07-26 | 2022-07-31 |
@@ -273,6 +273,7 @@
 | [Play](https://open.spotify.com/track/6t542uAqikGaV2ivLGPtKR) | [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [PLAY](https://open.spotify.com/album/6fwGrUGDBjL04UOue5fU3m) | 3:08 | 2021-07-26 | 2022-07-15 |
 | [Polite \- Mura Masa Remix](https://open.spotify.com/track/1p9rgYTrfwr2vfSlHXHOyn) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Polite \(Mura Masa Remix\)](https://open.spotify.com/album/2Pfn9zVC8sWAaJ6gvvd3nP) | 3:50 | 2021-11-12 | 2022-07-27 |
 | [Pomegranate](https://open.spotify.com/track/4fuCjmRIxbmGHnplGymd9c) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Pomegranate](https://open.spotify.com/album/6R1039pv3LJlHZfdwmVWcZ) | 3:27 | 2022-07-30 | 2023-08-26 |
+| [POP!](https://open.spotify.com/track/1WOMvLTxNyayalobISQKPA) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [POP!](https://open.spotify.com/album/79PrnehNRNhhcZp5NDBF4s) | 3:16 | 2023-12-08 |  |
 | [POP!](https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [POP!](https://open.spotify.com/album/2hDGxRzjtmYbq977e9CCPa) | 3:16 | 2022-11-18 | 2023-12-24 |
 | [pour up](https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:05 | 2022-07-30 |  |
 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-02-25 | 2022-07-30 |

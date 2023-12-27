@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,181 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,183 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 64 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
 | 65 | [VOY@GER \- SideM Ver.](https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [VOY@GER \(SideM盤\)](https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r) | 5:39 |
 | 66 | [素敵にCon grazia！](https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY) | [伊集院北斗 \(CV.神原大地\)](https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo) | [THE IDOLM@STER SideM 49 ELEMENTS \-05 Jupiter](https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt) | 3:58 |
-| 67 | [暗黒への前奏曲](https://open.spotify.com/track/3amVvNoNSVbopjXo7HLndF) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:54 |
-| 68 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 |
+| 67 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 |
+| 68 | [暗黒への前奏曲](https://open.spotify.com/track/3amVvNoNSVbopjXo7HLndF) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:54 |
 | 69 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
 | 70 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
 | 71 | [運命光年](https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
 | 75 | [Baile Apasionado](https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq) | [橘 志狼 \(CV.古畑恵介\)](https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2), [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq), [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM WORLD TRE@SURE 03](https://open.spotify.com/album/2600B026iZThRT78I7Xjlk) | 4:08 |
 
-Snapshot ID: `MCw3NTNlY2Q3OTBhMWY0MTU1NWQ0NjI3MjNkMzIyYWI3NzFjYzg3OTk5`
+Snapshot ID: `MCxhZDA3Zjc3YWYwYjY2NWJiNzcwZTEyN2VhZjgxMGFlMzkxOWMzYWFm`

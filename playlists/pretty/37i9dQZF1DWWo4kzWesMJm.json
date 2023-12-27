@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 143439,
+  "num_followers": 143510,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmY3YzFlZDM2Mzg1Yzk1ZjBkOTAwYjM3YWY3Y2ViMmZhZWFjNDQ1",
+  "snapshot_id": "MCw1YTlhOGFmMDUxMzJlZjYyNDliNTM1NzU1NTg2MTA5ZDg2OTMzNTcw",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Femme Studio",
-        "url": "https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 237427,
-      "name": "Laisse-moi t'aimer",
-      "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Femme Studio",
+        "url": "https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "duration_ms": 237427,
+      "name": "Laisse-moi t'aimer",
+      "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
       "artists": [
         {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "La recette",
         "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Je sais pas si \u00e7a va",
-        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
       "artists": [
         {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
         }
       ],
-      "duration_ms": 166293,
-      "name": "Mal barr\u00e9",
-      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Je sais pas si \u00e7a va",
+        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Mal barr\u00e9",
+      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 281373,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
-      },
-      "artists": [
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
       },
       "artists": [
         {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2023-11-16 16:29:20",

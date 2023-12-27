@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Caravans",
+        "url": "https://open.spotify.com/album/5ZNGTDtEnN5USSqVf05v76"
+      },
+      "artists": [
+        {
+          "name": "VAN",
+          "url": "https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Caravans",
+      "url": "https://open.spotify.com/track/4aUsG52cGWHK3WPBfGXtRv"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/30WBFpJoG7wWyG071eRR4Q"
       },
@@ -216,6 +234,46 @@
       "duration_ms": 232779,
       "name": "Dame Percu",
       "url": "https://open.spotify.com/track/5wDjbCArHeCNWURorADfsC"
+    },
+    {
+      "album": {
+        "name": "Danger Street (TSOS Remix)",
+        "url": "https://open.spotify.com/album/0J41mW7OOmypEpoufjw1jm"
+      },
+      "artists": [
+        {
+          "name": "Walter G",
+          "url": "https://open.spotify.com/artist/1LMZL3VJSIm3OjKTtpuyUw"
+        },
+        {
+          "name": "TSOS",
+          "url": "https://open.spotify.com/artist/2QI80I9Q5emtXhiXaC97fs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412729,
+      "name": "Danger Street - TSOS Percussion Dub Remix",
+      "url": "https://open.spotify.com/track/70YuSpqQmIg4XUzyjgJBkN"
+    },
+    {
+      "album": {
+        "name": "Depressed",
+        "url": "https://open.spotify.com/album/4H6IcyN0kTKGNDDRffqzYm"
+      },
+      "artists": [
+        {
+          "name": "Skatman",
+          "url": "https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321266,
+      "name": "Depressed",
+      "url": "https://open.spotify.com/track/4GOL8xOVmGqQtXs7nPCbyV"
     },
     {
       "album": {
@@ -304,6 +362,24 @@
       "duration_ms": 321739,
       "name": "Everybody - Original Mix",
       "url": "https://open.spotify.com/track/1z4VXGRNhl0U1MSYai6iNT"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2UvQVcoK4SAFNwKmKwRTjH"
+      },
+      "artists": [
+        {
+          "name": "Re.You",
+          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413114,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/7MGsIDiAEon9K26qP8DvOy"
     },
     {
       "album": {
@@ -408,6 +484,28 @@
       "duration_ms": 488347,
       "name": "Jit Dhifkom - Mr. ID Remix",
       "url": "https://open.spotify.com/track/6tlyvODAgnu4M2lFqGswyc"
+    },
+    {
+      "album": {
+        "name": "Jump Up To Dis",
+        "url": "https://open.spotify.com/album/3BVMRhIDQU9SkLI79keKgK"
+      },
+      "artists": [
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415081,
+      "name": "Jump Up To Dis",
+      "url": "https://open.spotify.com/track/65Kgd8LGPzZqNFWbK9ReSH"
     },
     {
       "album": {
@@ -559,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Maneyama",
+        "url": "https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L"
+      },
+      "artists": [
+        {
+          "name": "ReqTeq",
+          "url": "https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280975,
+      "name": "Maneyama",
+      "url": "https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2"
+    },
+    {
+      "album": {
         "name": "Cantana",
         "url": "https://open.spotify.com/album/2RF6jGOxn9Y7DsofkNVh2H"
       },
@@ -570,7 +690,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 473116,
       "name": "Mangiamo",
       "url": "https://open.spotify.com/track/6bkEMeizXjKNYYRx3LymPy"
@@ -666,7 +786,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 238213,
       "name": "Nos El Bahr",
       "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
@@ -728,7 +848,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 430580,
       "name": "Pelagonia",
       "url": "https://open.spotify.com/track/2vqu2qrgnas7iNLWlm0ISx"
@@ -806,7 +926,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 357435,
       "name": "Pussy Power - DESIREE Remix",
       "url": "https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM"
@@ -828,10 +948,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 201818,
       "name": "Raga",
       "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
+    },
+    {
+      "album": {
+        "name": "Red Rios",
+        "url": "https://open.spotify.com/album/6TFZserJ12Q5AzOfA0iYej"
+      },
+      "artists": [
+        {
+          "name": "Gledd",
+          "url": "https://open.spotify.com/artist/22acKtOVQjVSPROi4qSiQc"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Red Rios",
+      "url": "https://open.spotify.com/track/3ZZS140AxSe6O9MdL3tiOA"
     },
     {
       "album": {
@@ -887,6 +1025,32 @@
     },
     {
       "album": {
+        "name": "Sanctuary (Angelos Remix)",
+        "url": "https://open.spotify.com/album/0gA2vamKYjGwWQOnndhoHy"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Mourad Belouadi",
+          "url": "https://open.spotify.com/artist/21YzKW55BvnHZI1cxR2TIZ"
+        },
+        {
+          "name": "Angelos",
+          "url": "https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388076,
+      "name": "Sanctuary - Angelos Remix",
+      "url": "https://open.spotify.com/track/0VhUkPNSmaw2ePhM0quAPm"
+    },
+    {
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -924,7 +1088,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 454192,
       "name": "Solace - Armonica Remix",
       "url": "https://open.spotify.com/track/17CiDJp5YcOUbM54KPGJg0"
@@ -964,10 +1128,36 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 397560,
       "name": "The Butterfly and the Bee (Mixed)",
       "url": "https://open.spotify.com/track/35K7E1TO8BnQSO0k8tBRGF"
+    },
+    {
+      "album": {
+        "name": "Through The Night (Manoo Remix)",
+        "url": "https://open.spotify.com/album/1UpxMsBZg9gMIDoGjWZD1B"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499512,
+      "name": "Through The Night - Manoo Remix",
+      "url": "https://open.spotify.com/track/0dRxV78yq55Wi7BzrxIE7T"
     },
     {
       "album": {
@@ -1016,7 +1206,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 270508,
       "name": "Toque Del Sol",
       "url": "https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg"
@@ -1074,7 +1264,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 248138,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/14OwaEsA5D2Pl0TyqLL1io"

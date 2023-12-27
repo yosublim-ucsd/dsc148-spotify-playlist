@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 18161,
+  "num_followers": 18208,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzkzYjUzZDUwNjM3YzI3MjJkY2M2Mjg3NDYzZjRlNWE1MGNiZTU3",
+  "snapshot_id": "MCw1NzhiYTU1YzQxYTA0NzkyOTE5ZjdiOWZkNjg0YzQ1YzkwZDA5Yzc1",
   "tracks": [
     {
       "added_at": "2023-12-23 00:04:49",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "C\u00f3mo Eran las Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "Un Bossa +",
         "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "C\u00f3mo Eran las Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -707,18 +723,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
+      "duration_ms": 162606,
+      "name": "Parapente",
+      "url": "https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -739,22 +759,18 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+        "name": "Ojos de R\u00edo",
+        "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 162606,
-      "name": "Parapente",
-      "url": "https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW"
+      "duration_ms": 136512,
+      "name": "Ojos de R\u00edo",
+      "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -791,22 +807,6 @@
       "duration_ms": 200869,
       "name": "Nuevo mundo (feat. Juancho Marqu\u00e9s)",
       "url": "https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
-        "name": "Ojos de R\u00edo",
-        "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 136512,
-      "name": "Ojos de R\u00edo",
-      "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
     },
     {
       "added_at": "2023-12-23 00:04:49",

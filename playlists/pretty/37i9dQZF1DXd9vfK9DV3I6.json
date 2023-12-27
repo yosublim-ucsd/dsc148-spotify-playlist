@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 295443,
+  "num_followers": 295599,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGQwMmEyM2U3YmIwM2NhYTk0Mzk2NTc4OTlhZjM4YmZmY2VjNjJh",
+  "snapshot_id": "MCw4MWJiZmEwOTU3ZTQ0NDZkMzUwMmZkMzQwM2NhNjZlZjk0ZTJhYzM5",
   "tracks": [
     {
       "added_at": "2023-12-04 17:13:40",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcsl\u00fcm Ar\u0131",
-          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Indoor Voyager EP",
         "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 545813,
       "name": "Tarlabasi - Be Svendsen Remix",
       "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcsl\u00fcm Ar\u0131",
+          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "In Control (feat. Selin)",
         "url": "https://open.spotify.com/album/2k5oEpL6XqBHLWWm2Ygq9M"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 179232,
       "name": "In Control (feat. Selin)",
       "url": "https://open.spotify.com/track/1JDwfM6fzE7HtRukcJSZDd"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -315,6 +315,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "K\u0259nan Bayraml\u0131",
+          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
       },
@@ -347,26 +367,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
-      },
-      "artists": [
-        {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Amelie Martinez",
-          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
-        }
-      ],
-      "duration_ms": 200950,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "1980",
         "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
       },
@@ -387,8 +387,28 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+        }
+      ],
+      "duration_ms": 200950,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Schhh (feat. Irina Rimes)",
+        "url": "https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp"
       },
       "artists": [
         {
@@ -396,33 +416,13 @@
           "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         },
         {
-          "name": "K\u0259nan Bayraml\u0131",
-          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
         }
       ],
-      "duration_ms": 214214,
-      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "I Lost You",
-        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
-      },
-      "artists": [
-        {
-          "name": "Havana",
-          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
-        },
-        {
-          "name": "Yaar",
-          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
-        }
-      ],
-      "duration_ms": 225558,
-      "name": "I Lost You - Radio Edit",
-      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
+      "duration_ms": 185689,
+      "name": "Schhh (feat. Irina Rimes)",
+      "url": "https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -447,22 +447,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+        "name": "I Lost You",
+        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "Havana",
+          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
         },
         {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+          "name": "Yaar",
+          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+      "duration_ms": 225558,
+      "name": "I Lost You - Radio Edit",
+      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -483,26 +483,6 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Schhh (feat. Irina Rimes)",
-        "url": "https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh (feat. Irina Rimes)",
-      "url": "https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -547,6 +527,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "My Name Is Tokyo",
         "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
-        }
-      ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 194198,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 168000,
       "name": "Deep Anatolia",
       "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Ethnique",
-        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
-      },
-      "artists": [
-        {
-          "name": "Yusuf Ek\u015fio\u011flu",
-          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
-        }
-      ],
-      "duration_ms": 167375,
-      "name": "Ethnique",
-      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Hebele Hubulu & Belantash",
         "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+        "name": "Anatolian Vibe",
+        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
       "artists": [
         {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+          "name": "Kad1r",
+          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
+        },
+        {
+          "name": "Bugra Atmaca",
+          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
         }
       ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
+      "duration_ms": 187779,
+      "name": "Anatolian Vibe",
+      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
     }
   ],
   "unique_name": "mosaic",

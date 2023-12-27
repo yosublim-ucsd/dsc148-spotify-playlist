@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,927 songs - 6 day 6 hr 14 min
+3,928 songs - 6 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1238,7 +1238,7 @@
 | [Gemini](https://open.spotify.com/track/0KLCCEZEHrBOdWqXT61oSy) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Gemini](https://open.spotify.com/album/2r6KWNnIXw0HeGJsmiVc3c) | 1:55 | 2021-08-27 | 2021-11-19 |
 | [Genesee](https://open.spotify.com/track/3z9GfV4SQsg2dVECeEldwv) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Melrose Avenue EP Vol\. I](https://open.spotify.com/album/4bHmqsV6XYhYiyVpT0URS6) | 1:45 | 2022-05-26 | 2022-11-25 |
 | [Gentile](https://open.spotify.com/track/5G9vRwuCNaX3OwY6OPqEN4) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Gentile](https://open.spotify.com/album/22kZqwlYpRCNM8Q35iyjky) | 2:06 | 2023-05-18 | 2023-06-02 |
-| [gentleman in grey](https://open.spotify.com/track/2mnDLmGX7TnIDgaw7nUQve) | [Walter Black & Pinky Jazzman](https://open.spotify.com/artist/5vSsNRvnWbmuEtH4HJlWKp) | [gentleman in grey](https://open.spotify.com/album/5FAdLPnhLQ59fDApKURpFg) | 2:15 | 2023-12-14 |  |
+| [gentleman in grey](https://open.spotify.com/track/2mnDLmGX7TnIDgaw7nUQve) | [Walter Black & Pinky Jazzman](https://open.spotify.com/artist/5vSsNRvnWbmuEtH4HJlWKp) | [gentleman in grey](https://open.spotify.com/album/5FAdLPnhLQ59fDApKURpFg) | 2:15 | 2023-12-14 | 2023-12-27 |
 | [Gentlyyy](https://open.spotify.com/track/7bOBBXCIgSbqB6CkaaR81a) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Gentlyyy](https://open.spotify.com/album/10NxiiHgxjuCyPjA3TQvS4) | 2:08 | 2020-04-10 | 2020-06-12 |
 | [Georgia](https://open.spotify.com/track/02u7h45sCjGQj32LjoUZ2f) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Georgia](https://open.spotify.com/album/7yE9HYhxgl5ewadykqPr7z) | 2:17 | 2020-09-11 | 2020-12-18 |
 | [Gerocco](https://open.spotify.com/track/7p1gJlddiggTIbhCyRrGL1) | [Fab Beat](https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Gerocco](https://open.spotify.com/album/2E1JAFBTWbXAZTnGrr8tAb) | 4:31 | 2020-06-16 | 2020-09-11 |
@@ -3045,6 +3045,7 @@
 | [Snowy Streets](https://open.spotify.com/track/2nw52IaHkc54CJXcAjcyjy) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Snowy Streets](https://open.spotify.com/album/6M58dmM81lF4GRrcH1SDVa) | 2:26 | 2023-04-20 | 2023-11-17 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 | 2020-11-21 |
 | [So Easy](https://open.spotify.com/track/07YLsacHg8GmyV5T3YczQY) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [So Easy](https://open.spotify.com/album/1OmKZcbW3eLny0wL2TtlHk) | 2:43 | 2019-08-02 | 2020-02-11 |
+| [So Far](https://open.spotify.com/track/43hDsOD5SGfXwogkfNuwop) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [So Far](https://open.spotify.com/album/3aEVmGuUWNSP5K18sJvWqY) | 1:58 | 2023-12-21 |  |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-12 | 2023-10-20 |
 | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/track/1DxysigyMyIVr8Tk3jsuEU) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/album/2ogy79YI5aNr5vO4n8f3F0) | 2:40 | 2020-03-04 | 2020-05-01 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2019-11-29 |

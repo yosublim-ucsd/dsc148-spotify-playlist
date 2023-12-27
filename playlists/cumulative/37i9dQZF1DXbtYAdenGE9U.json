@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
+  "description": "The legendary Armin van Buuren is taking over with the ultimate selection of Trance anthems! #NYE2023",
   "name": "Trance Classics",
   "tracks": [
     {
@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "1998 - Paul van Dyk Remix",
+      "url": "https://open.spotify.com/track/5bXnzTMEhriK5eDcnqQiAF"
+    },
+    {
+      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -42,6 +64,28 @@
       "duration_ms": 193880,
       "name": "9Pm (Till I Come)",
       "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+    },
+    {
+      "album": {
+        "name": "Access",
+        "url": "https://open.spotify.com/album/23hsjehr7o0RSogMGoUa6c"
+      },
+      "artists": [
+        {
+          "name": "DJ Misjah",
+          "url": "https://open.spotify.com/artist/3GKyfn5Iyo8i5TxoV9jPms"
+        },
+        {
+          "name": "DJ Tim",
+          "url": "https://open.spotify.com/artist/04VoCQzRyRw8P2jo52hqja"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "Access",
+      "url": "https://open.spotify.com/track/7hSoJdm05diF5TTUMVSGE2"
     },
     {
       "album": {
@@ -74,7 +118,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 179800,
       "name": "Airwave - Radio Vocal Edit",
       "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
@@ -132,7 +176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 212000,
       "name": "As The Rush Comes",
       "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
@@ -172,7 +216,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
@@ -190,7 +234,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 234160,
       "name": "Beachball - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
@@ -212,7 +256,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Beautiful - 1999 Mix",
       "url": "https://open.spotify.com/track/59ktkd4Y30uNOeuxJhBN5e"
@@ -230,7 +274,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 194560,
       "name": "Bellissima - Radio Edit",
       "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
@@ -309,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220280,
+      "name": "Blue Fear",
+      "url": "https://open.spotify.com/track/0oGXt4ltv3G11EbBvRatAS"
+    },
+    {
+      "album": {
         "name": "Trance Top 1000 - The Legends",
         "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
       },
@@ -356,7 +418,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
@@ -396,10 +458,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 190413,
       "name": "Bullet In the Gun 2000 - Radio Mix",
       "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
+    },
+    {
+      "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Burned With Desire - Rising Star Vocal Mix",
+      "url": "https://open.spotify.com/track/0hocATHAfap6fAFXVwVuVY"
     },
     {
       "album": {
@@ -422,6 +506,28 @@
       "duration_ms": 669685,
       "name": "C'est Musique - Armin van Buuren Mix",
       "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance 600",
+        "url": "https://open.spotify.com/album/62lXAqif61gAUTTDtBgGQY"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Cafe Del Mar - Three 'N One 2002 Update Radio Edit",
+      "url": "https://open.spotify.com/track/1Si0CJjbYupkMosLv0pZJX"
     },
     {
       "album": {
@@ -462,7 +568,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD"
@@ -491,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Armada Music - Trance Legacy",
+        "url": "https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L"
+      },
+      "artists": [
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/5obzwJeaeJttOXseEFLCj4"
+    },
+    {
+      "album": {
         "name": "Carte Blanche (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
@@ -502,7 +626,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
@@ -586,7 +710,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
@@ -677,6 +801,46 @@
     },
     {
       "album": {
+        "name": "Armada Music - Trance Legacy",
+        "url": "https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199667,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/7g4v49q8u3b8oVZ9EqPsT1"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "Concrete Angel",
+      "url": "https://open.spotify.com/track/3qKkpIAtpmcKalGQ0wvFWs"
+    },
+    {
+      "album": {
         "name": "Concrete Angel",
         "url": "https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o"
       },
@@ -692,7 +856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 235024,
       "name": "Concrete Angel - Radio Edit",
       "url": "https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL"
@@ -710,7 +874,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 257760,
       "name": "Cry",
       "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
@@ -772,7 +936,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 210786,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
@@ -808,7 +972,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 212133,
       "name": "Ecuador - Original Radio Edit",
       "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
@@ -848,7 +1012,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
@@ -866,7 +1030,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 194946,
       "name": "Escape - Radio Edit",
       "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
@@ -1022,7 +1186,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 259200,
       "name": "Feel the Beat",
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
@@ -1044,7 +1208,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/6N2pJ8VdWc3DyoahZ2GoBW"
@@ -1109,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Vincent de Moor",
+          "url": "https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1vbGNBZ9P4dsVipQMbsDo0"
+    },
+    {
+      "album": {
         "name": "I Believe / Follow Me",
         "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
@@ -1124,7 +1306,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 392560,
       "name": "Follow Me - Lange's Club Mix",
       "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
@@ -1153,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "For An Angel - E-Werk Club Mix",
+      "url": "https://open.spotify.com/track/4ISDjsRpPykd4Aype0o2Y2"
+    },
+    {
+      "album": {
         "name": "For An Angel",
         "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
       },
@@ -1164,7 +1364,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 233243,
       "name": "For An Angel - PVD Angel In Heaven Radio Edit",
       "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
@@ -1222,7 +1422,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 208506,
       "name": "God Is a DJ",
       "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
@@ -1258,10 +1458,50 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 217146,
       "name": "Gouryella",
       "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
+    },
+    {
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Gouryella",
+          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217146,
+      "name": "Gouryella",
+      "url": "https://open.spotify.com/track/4j46ToSyw8fkgLlU2n23Jw"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/5x6YUq1d8jP6Z9ZXgb9REq"
     },
     {
       "album": {
@@ -1298,10 +1538,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
+    },
+    {
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        },
+        {
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Happiness Happening - Lange Remix",
+      "url": "https://open.spotify.com/track/40XWkL0I2pvcJJRzz3Ck2E"
     },
     {
       "album": {
@@ -1389,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4FhJoT6DCL1IpqaHnjRMcZ"
+      },
+      "artists": [
+        {
+          "name": "Coast 2 Coast",
+          "url": "https://open.spotify.com/artist/5o92GLs23EvUulPx2l5qu9"
+        },
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/7GtU7FKlaslpCi2GTB7Ej4"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209300,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3bORtU89mmxzrRy32Elv02"
+    },
+    {
+      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/7ug3lXDnZVKFVlJfUiTIPr"
       },
@@ -1404,6 +1688,50 @@
       "duration_ms": 424200,
       "name": "Hypnotic (Binary Finary 2000 Remix)",
       "url": "https://open.spotify.com/track/1KHNbJJBG6fUV9vCFP9BcR"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Legends",
+        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
+      },
+      "artists": [
+        {
+          "name": "CRW",
+          "url": "https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu"
+        },
+        {
+          "name": "R.A.F.",
+          "url": "https://open.spotify.com/artist/5zPjQPolIdoRWJaAup51H7"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204465,
+      "name": "I Feel Love - R.A.F. Zone Mix",
+      "url": "https://open.spotify.com/track/55V1QIizRw1wZCMWyRkCJ5"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/19BJGLAAmlZq7nMgeeJB6g"
     },
     {
       "album": {
@@ -1430,7 +1758,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 518221,
       "name": "Insomnia - Monster Mix",
       "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
@@ -1466,7 +1794,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 215640,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
@@ -1484,10 +1812,50 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 203440,
       "name": "Komodo (Radio Edit)",
       "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
+    },
+    {
+      "album": {
+        "name": "L.E.D. There Be Light",
+        "url": "https://open.spotify.com/album/7CIkuYofoZlvSG4wLr39u2"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153150,
+      "name": "L.E.D. There Be Light - Single Mix",
+      "url": "https://open.spotify.com/track/3GJqpBTOkrvR5XRxIo1Ie5"
+    },
+    {
+      "album": {
+        "name": "Let The Light Shine In (Crusy & Jose De Mara Remix)",
+        "url": "https://open.spotify.com/album/76CKJTVGc65vGDcGbmoR56"
+      },
+      "artists": [
+        {
+          "name": "Darren Tate",
+          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
+        },
+        {
+          "name": "Jono Grant",
+          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198285,
+      "name": "Let The Light Shine In",
+      "url": "https://open.spotify.com/track/4r0QFrGKt8RzFGadAn2vlm"
     },
     {
       "album": {
@@ -1520,7 +1888,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 313120,
       "name": "Lizard",
       "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
@@ -1608,6 +1976,32 @@
       "duration_ms": 254014,
       "name": "Lucky Strike",
       "url": "https://open.spotify.com/track/6gNpYQYQL17tRpuQKByvHY"
+    },
+    {
+      "album": {
+        "name": "Luvstruck",
+        "url": "https://open.spotify.com/album/5zipLTwuPaNjKtO0VcAup3"
+      },
+      "artists": [
+        {
+          "name": "Southside Spinners",
+          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Benjamin Bates",
+          "url": "https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "Luvstruck - Marco V & Benjamin Remix",
+      "url": "https://open.spotify.com/track/33SqfKjpHrdzbmnLF5nAp7"
     },
     {
       "album": {
@@ -1718,7 +2112,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 241346,
       "name": "Mystery Land",
       "url": "https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt"
@@ -1740,7 +2134,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 196093,
       "name": "Need To Feel Loved - Radio Edit",
       "url": "https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6"
@@ -1776,7 +2170,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 208933,
       "name": "Nessaja",
       "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
@@ -1848,10 +2242,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 268600,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - Ibiza Anthems Mini Mix 2",
+        "url": "https://open.spotify.com/album/07h9d80BYaUL7OaYnOtaZN"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/5bnUjj92zOde2PV0rRSZFq"
     },
     {
       "album": {
@@ -1918,7 +2330,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 186066,
       "name": "Operation Blade (7\" Radio Edit)",
       "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
@@ -1990,7 +2402,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 200333,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
@@ -2015,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "Ferry Corsten Collected",
+        "url": "https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF"
+    },
+    {
+      "album": {
         "name": "Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered]",
         "url": "https://open.spotify.com/album/5A24W7ufM7GIQ4QVDuGhuX"
       },
@@ -2034,6 +2464,28 @@
       "duration_ms": 189700,
       "name": "Rapture (Armin Van Burren Remix Remastered - Made Radio Edit) [feat. Nadia Ali]",
       "url": "https://open.spotify.com/track/4RQGig0Vhr4GXmqfklCCyK"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
     },
     {
       "album": {
@@ -2081,6 +2533,28 @@
     },
     {
       "album": {
+        "name": "The World Of Trance (40 Biggest Trance Hits Ever) - Armada Music",
+        "url": "https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "OceanLab",
+          "url": "https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195090,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3AxVLHZNU46wZaNK4dZi8M"
+    },
+    {
+      "album": {
         "name": "Super8 & Tab Presents: 20 Years Of Anjunabeats",
         "url": "https://open.spotify.com/album/6rdKFS3wdC1qNusoEwju6j"
       },
@@ -2125,6 +2599,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1MGXnOrS52N8bt2ceoezp5"
+    },
+    {
+      "album": {
         "name": "Seven Cities",
         "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
@@ -2140,7 +2636,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 211333,
       "name": "Seven Cities - Solarstone's Atlantis Mix",
       "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
@@ -2158,10 +2654,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
+    },
+    {
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "The Space Brothers",
+          "url": "https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219992,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3IPeKHjUlNPphCPnR3AGEF"
     },
     {
       "album": {
@@ -2180,7 +2694,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 189816,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU"
@@ -2328,10 +2842,36 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 692513,
       "name": "Silence - DJ Ti\u00ebsto's in Search of Sunrise Remix",
       "url": "https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU"
+    },
+    {
+      "album": {
+        "name": "Trance Anthems Top 60",
+        "url": "https://open.spotify.com/album/72XiReSpOBjWiKuF83byA6"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Silence - Ti\u00ebsto's In Search Of Sunrise Remix",
+      "url": "https://open.spotify.com/track/4bUpfS6TyKz2tWfpimRGU4"
     },
     {
       "album": {
@@ -2412,7 +2952,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 212560,
       "name": "Stay - Original Single Edit",
       "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
@@ -2466,7 +3006,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 238018,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
@@ -2513,6 +3053,32 @@
     },
     {
       "album": {
+        "name": "A State Of Trance - Future Favorite Best Of 2011",
+        "url": "https://open.spotify.com/album/1DqG5bYuKihFemopDkmc4p"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Marcus Sch\u00f6ssow",
+          "url": "https://open.spotify.com/artist/6DPTAvEy0t5DyYBEtba0QW"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "Sun & Moon - Marcus Schossow Remix Edit",
+      "url": "https://open.spotify.com/track/4YRGaCTrlxiTEj16ykZViG"
+    },
+    {
+      "album": {
         "name": "Group Therapy",
         "url": "https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa"
       },
@@ -2553,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "Superstring - Rank 1 Remix",
+      "url": "https://open.spotify.com/track/17DZLobEcbOKv5V0Mu8Qzb"
+    },
+    {
+      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -2568,7 +3156,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
@@ -2590,6 +3178,28 @@
       "duration_ms": 454106,
       "name": "Surrender - Original Mix",
       "url": "https://open.spotify.com/track/544RqpJzs54nrlCU5NzvvS"
+    },
+    {
+      "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/40FjILzRvfgSP8Y70c5G6j"
+      },
+      "artists": [
+        {
+          "name": "The Thrillseekers",
+          "url": "https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5"
+        },
+        {
+          "name": "En-Motion",
+          "url": "https://open.spotify.com/artist/3GX1gYiJiHmVTOdCMyjukl"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241520,
+      "name": "Synaesthesia - En-Motion Remix",
+      "url": "https://open.spotify.com/track/6eYjUe4LXsV5u76ymGObqS"
     },
     {
       "album": {
@@ -2622,10 +3232,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 190426,
       "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance Year Mix 2012",
+        "url": "https://open.spotify.com/album/0WzwCEuC9ENaTnhKgfvMVe"
+      },
+      "artists": [
+        {
+          "name": "Omnia",
+          "url": "https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA"
+        },
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/3RnohgGcKLo0NmGzhA9pnV"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155986,
+      "name": "The Fusion",
+      "url": "https://open.spotify.com/track/2jqXWmlLTo2KAgK7PeHyVa"
     },
     {
       "album": {
@@ -2735,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "The Theme",
+        "url": "https://open.spotify.com/album/3n0kAuzcbVBS0I893yXagK"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187343,
+      "name": "The Theme",
+      "url": "https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn"
+    },
+    {
+      "album": {
         "name": "The Whiteroom",
         "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
       },
@@ -2816,7 +3466,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
@@ -2838,6 +3488,24 @@
       "duration_ms": 230146,
       "name": "Till The Sky Falls Down",
       "url": "https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Anthems",
+        "url": "https://open.spotify.com/album/4m0zebeAx1s9dCQwFAHSOP"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "Till The Sky Falls Down",
+      "url": "https://open.spotify.com/track/4ScHK8dVV6Jcb2yzucsdwK"
     },
     {
       "album": {
@@ -2870,7 +3538,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 175160,
       "name": "Time to Burn - Radio Edit",
       "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
@@ -2888,7 +3556,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 515173,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
@@ -2939,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "A State Of Trance 600",
+        "url": "https://open.spotify.com/album/62lXAqif61gAUTTDtBgGQY"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Traffic - Montana Radio Edit",
+      "url": "https://open.spotify.com/track/4TYaISjU6uHx7kmKh8RoNp"
+    },
+    {
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -2950,7 +3636,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-27",
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
@@ -2972,6 +3658,24 @@
       "duration_ms": 170360,
       "name": "Tuvan",
       "url": "https://open.spotify.com/track/1QH83zBuFEy7Tbgf2UvAnD"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance 2009",
+        "url": "https://open.spotify.com/album/2r09TPHhLazINs1T4nR96l"
+      },
+      "artists": [
+        {
+          "name": "GAIA",
+          "url": "https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219709,
+      "name": "Tuvan",
+      "url": "https://open.spotify.com/track/096iOAkDY9H7E3C5t0ovM9"
     },
     {
       "album": {
@@ -3012,6 +3716,24 @@
       "duration_ms": 225841,
       "name": "Universal Nation",
       "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Legends",
+        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
+      },
+      "artists": [
+        {
+          "name": "Warrior",
+          "url": "https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK"
     },
     {
       "album": {
@@ -3086,6 +3808,24 @@
       "duration_ms": 224299,
       "name": "What It Feels Like for a Girl - Above & Beyond Club Radio Edit",
       "url": "https://open.spotify.com/track/38OrcY3HY0NiFuBpiwBnsL"
+    },
+    {
+      "album": {
+        "name": "10 Years Armada",
+        "url": "https://open.spotify.com/album/5KxwFabTcBVOZA0ztO7FPk"
+      },
+      "artists": [
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "What Ya Got 4 Me - Vocal Mix",
+      "url": "https://open.spotify.com/track/2mMk6O2R0gpasYAe7nm5pK"
     },
     {
       "album": {

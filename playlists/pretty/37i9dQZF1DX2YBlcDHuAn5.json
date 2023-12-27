@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6629,
+  "num_followers": 6633,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy",
+  "snapshot_id": "MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5",
   "tracks": [
     {
       "added_at": "2023-12-01 08:47:54",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 247666,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
       "added_at": "2023-12-01 08:47:54",

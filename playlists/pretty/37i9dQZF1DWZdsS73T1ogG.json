@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: lil joujou\n",
-  "num_followers": 522413,
+  "num_followers": 522419,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjMyNzFhOWZjZDgyOGY2N2M0ZGRlNDA2YTM4ZDA1MGU4YmYwMzQz",
+  "snapshot_id": "MCw3ZjFiOTViNjNkZjQwZjkxYzY3NTIwNGQ2OTIyZDJkMTc3MTJlYjg5",
   "tracks": [
     {
       "added_at": "2023-12-21 10:41:58",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-12-21 10:41:58",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
       },
       "artists": [
         {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+      "duration_ms": 195066,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
     },
     {
       "added_at": "2023-12-21 10:41:58",
@@ -727,18 +723,22 @@
     {
       "added_at": "2023-12-21 10:41:58",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "added_at": "2023-12-21 10:41:58",
@@ -823,30 +823,6 @@
     {
       "added_at": "2023-12-21 10:41:58",
       "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 226725,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
-    },
-    {
-      "added_at": "2023-12-21 10:41:58",
-      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "added_at": "2023-12-21 10:41:58",
+      "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 226725,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
     },
     {
       "added_at": "2023-12-21 10:41:58",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-12-21 10:41:58",
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
+    },
+    {
+      "added_at": "2023-12-21 10:41:58",
+      "album": {
         "name": "No Te Vires",
         "url": "https://open.spotify.com/album/4L2Uyj9MGhj4MLsN2xGjy0"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 168219,
       "name": "No Te Vires",
       "url": "https://open.spotify.com/track/55isUVgoGajzCufq8FJp3v"
-    },
-    {
-      "added_at": "2023-12-21 10:41:58",
-      "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
-      },
-      "artists": [
-        {
-          "name": "Teo",
-          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
     },
     {
       "added_at": "2023-12-21 10:41:58",

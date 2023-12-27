@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 334474,
+  "num_followers": 334517,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmFlNTJmYTkwMDc3MTg5MzFiY2ZkNGM0Nzg3YTA3OWNjZDczZDVk",
+  "snapshot_id": "MCxjMTYwMmMxNzYwY2IyN2IxOTExZWI4ZThmZjM1OWNhYmI2OWViZDc3",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "The Way We Are",
-        "url": "https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv"
-      },
-      "artists": [
-        {
-          "name": "Cory Wells",
-          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
-        }
-      ],
-      "duration_ms": 278624,
-      "name": "End of a Good Thing",
-      "url": "https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "The Way We Are",
+        "url": "https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv"
+      },
+      "artists": [
+        {
+          "name": "Cory Wells",
+          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
+        }
+      ],
+      "duration_ms": 278624,
+      "name": "End of a Good Thing",
+      "url": "https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Walking Disaster",
-        "url": "https://open.spotify.com/album/3cqogTHL6NnU25ijfLpLtg"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Walking Disaster",
-      "url": "https://open.spotify.com/track/5aVoovrdVz1PLZa6iLl2cf"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Fashion Forward (Acoustic)",
         "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Walking Disaster",
+        "url": "https://open.spotify.com/album/3cqogTHL6NnU25ijfLpLtg"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Walking Disaster",
+      "url": "https://open.spotify.com/track/5aVoovrdVz1PLZa6iLl2cf"
     },
     {
       "added_at": "2022-04-04 15:03:53",

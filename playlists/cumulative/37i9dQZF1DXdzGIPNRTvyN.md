@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 |  |
-| [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 |  |
+| [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 | 2023-12-27 |
 | [528 Hz Whispered Stream](https://open.spotify.com/track/6Gv8jmDrZ41knvfN6n5qOO) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Whispered Stream](https://open.spotify.com/album/1qjyXMiu6uFH6emC5OcD4W) | 2:31 | 2023-11-18 |  |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 |  |
@@ -39,7 +39,7 @@
 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 | 2023-07-28 |  |
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-03-03 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 |  |
-| [Circular](https://open.spotify.com/track/3Mt19LG4M02KsJGqNkqgnL) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Circular](https://open.spotify.com/album/3YAXcOJ0uBYgmYMb6ylpSp) | 3:26 | 2023-12-18 | 2023-12-22 |
+| [Circular](https://open.spotify.com/track/3Mt19LG4M02KsJGqNkqgnL) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Circular](https://open.spotify.com/album/3YAXcOJ0uBYgmYMb6ylpSp) | 3:26 | 2023-12-18 |  |
 | [Citrus](https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Sage & Citrus](https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1) | 2:50 | 2023-10-26 |  |
 | [Clarity](https://open.spotify.com/track/06H8kGJm3IIGOUXacNVWLi) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Clarity](https://open.spotify.com/album/3Hfd3gaDa5zt0gqmZZzyqQ) | 2:57 | 2023-12-18 |  |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2023-12-18 | 2023-12-24 |

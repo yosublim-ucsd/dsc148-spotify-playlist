@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617615,
+  "num_followers": 1617588,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYxNjUyM2EwYjBiYWExMzM4ZTE4YWZjNDRhZTc5MWIyNmYxNzc5",
+  "snapshot_id": "MCw2MWEyZWI4ZTAzMzA5ODc3OGI0MjQzNTUwZDJiNmNlNTZiMGNlNmM0",
   "tracks": [
     {
       "added_at": "2023-12-22 21:59:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
         "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
         "url": "https://open.spotify.com/album/6bcMIqGM6TwlPvhJYsCCSf"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 272516,
       "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
       "url": "https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 108281,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -991,26 +991,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Runway",
-        "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
+        "name": "Dead Men (feat. Cozz)",
+        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
       },
       "artists": [
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
         },
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
         }
       ],
-      "duration_ms": 186491,
-      "name": "Runway",
-      "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
+      "duration_ms": 171989,
+      "name": "Dead Men (feat. Cozz)",
+      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
     }
   ],
   "unique_name": "Spilled Ink",

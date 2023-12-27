@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 75081,
+  "num_followers": 75176,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE5YTY4ZGY5NmYyNWUyNTBjMDQ1NTA2MzYxMDVmYjUyMjZiMzE2",
+  "snapshot_id": "MCxjNjUzZWEyYjEyMzQ5YjQyOWNkYzBjYmZmYTU0MTcxMjExNDRkMWJh",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
-      },
-      "artists": [
-        {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
-        }
-      ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Badak Maleoun Seneh",
         "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 954506,
       "name": "Ala Babee Waqef Qamaren",
       "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "added_at": "2022-09-13 14:22:57",
