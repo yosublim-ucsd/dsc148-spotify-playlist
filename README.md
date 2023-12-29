@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7275\)
+## Playlists <a name="playlists"></a> \(7276\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1192,6 +1192,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Chill Indie Music](/playlists/pretty/1khS5Pll0YEduwuZdciEbe.md)
 - [Chill Instrumental Beats](/playlists/pretty/37i9dQZF1DX0khTY3HFA4M.md)
 - [Chill Latino](/playlists/pretty/37i9dQZF1DWYzTSrc7SiSZ.md)
+- [Chill Mix](/playlists/pretty/37i9dQZF1EVHGWrwldPRtj.md)
 - [Chill Out Jazz](/playlists/pretty/37i9dQZF1DXdk2DZvqpqJY.md)
 - [Chill Out Music](/playlists/pretty/37i9dQZF1DX32oVqaQE8BM.md)
 - [Chill Pop](/playlists/pretty/37i9dQZF1DX0MLFaUdXnjA.md)
