@@ -522,6 +522,24 @@
     {
       "album": {
         "name": "Follow That Star",
+        "url": "https://open.spotify.com/album/19USTGFVfbU8zrR77imn8M"
+      },
+      "artists": [
+        {
+          "name": "Renwick Duesbury",
+          "url": "https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Follow That Star",
+      "url": "https://open.spotify.com/track/5PT3xaGkIN9xsRK8U5fpbx"
+    },
+    {
+      "album": {
+        "name": "Follow That Star",
         "url": "https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML"
       },
       "artists": [
@@ -648,7 +666,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 258372,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/3jWnra0rKnLwSf0jN67i84"

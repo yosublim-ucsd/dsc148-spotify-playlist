@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
@@ -3460,6 +3460,28 @@
       "duration_ms": 474626,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U"
+    },
+    {
+      "album": {
+        "name": "LUPIN THE THIRD JAZZ \u30fc Another \"JAZZ\"",
+        "url": "https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup"
+      },
+      "artists": [
+        {
+          "name": "Yuji Ohno",
+          "url": "https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu"
+        },
+        {
+          "name": "You & Explosion Band",
+          "url": "https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239758,
+      "name": "THEME FROM LUPIN \u2162 '78 - 2002 version",
+      "url": "https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi"
     },
     {
       "album": {

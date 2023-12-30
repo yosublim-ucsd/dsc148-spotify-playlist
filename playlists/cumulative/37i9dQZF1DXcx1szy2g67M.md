@@ -2,9 +2,9 @@
 
 ### [Winter '23](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Niks aan te doen, Winter 2023 is coming!
+> Zo klinkt de winter van 2023/2024!
 
-330 songs - 16 hr 39 min
+331 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [God Is In The Soundwaves](https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [God Is In The Soundwaves](https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ) | 2:43 | 2023-11-09 |  |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-30 | 2023-06-11 |
 | [Good Times](https://open.spotify.com/track/6ZxliZhVPhMJLZzbS0sOeU) | [Dukewood](https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b), [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Good Times](https://open.spotify.com/album/0Lxc0Ms7NHeZpIBJZPK9ws) | 3:05 | 2023-02-23 | 2023-03-25 |
+| [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2023-12-27 |  |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-02-23 | 2023-05-16 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-22 |  |
 | [Happier](https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier](https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL) | 3:17 | 2023-12-08 |  |
@@ -187,7 +188,7 @@
 | [Love Myself](https://open.spotify.com/track/5zxDNiK8R1nnoTrdhAUrrC) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/02CMBTAlxSxs1X5hj8fDSf) | 2:59 | 2023-02-23 | 2023-02-28 |
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-09 |  |
 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 | 2023-02-23 | 2023-06-11 |
-| [Maar 1 Wens Met Kerstmis](https://open.spotify.com/track/0sfETdT3iZMCuh38fCoz1X) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Maar 1 Wens Met Kerstmis](https://open.spotify.com/album/6HGyfUC9HO0v6S6WDrjCKc) | 2:46 | 2023-12-14 |  |
+| [Maar 1 Wens Met Kerstmis](https://open.spotify.com/track/0sfETdT3iZMCuh38fCoz1X) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Maar 1 Wens Met Kerstmis](https://open.spotify.com/album/6HGyfUC9HO0v6S6WDrjCKc) | 2:46 | 2023-12-14 | 2023-12-30 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-02-23 | 2023-05-12 |
 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-07-30 |  |
 | [me and my big mouth](https://open.spotify.com/track/6bAMtverQa0Aryho6wGmkV) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [me and my big mouth](https://open.spotify.com/album/3GSXrqL19GsJQciZUcuy41) | 2:48 | 2023-02-23 | 2023-05-05 |

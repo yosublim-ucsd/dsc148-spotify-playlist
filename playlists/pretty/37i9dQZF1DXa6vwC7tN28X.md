@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,735 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,791 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 12 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 13 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
 | 14 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
-| 15 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
-| 16 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
+| 15 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
+| 16 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
 | 17 | [Como Dos Extraños \(feat\. Nestor Marconi\)](https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH) | 2:54 |
 | 18 | [Cambalache](https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3) | 2:34 |
 | 19 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 42 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 43 | [El Deseo de Evita](https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC) | [Los Visitantes](https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW) | [Espiritango](https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige) | 1:55 |
 | 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
-| 45 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
+| 45 | [Flaca](https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk) | [Flaca](https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0) | 2:49 |
 
-Snapshot ID: `MCxlMTk4YmJlMTg3MjFhYWYyMzE3Y2UyMzBkMzQwMDJjMTEyNmZlMzdk`
+Snapshot ID: `MCw5Mjg5YjdkYjJlNjMxYWNmMzNmOWIyNGQ2N2RhZTUyYWQwZGRjZGU5`

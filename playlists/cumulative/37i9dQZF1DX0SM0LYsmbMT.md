@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,928 songs - 6 day 6 hr 16 min
+3,929 songs - 6 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,7 @@
 | [Come Winter](https://open.spotify.com/track/3n1aLaKotsbpYhIFZJ2rf3) | [iLL' J](https://open.spotify.com/artist/0m65ukC40o4dJh5BUrHKDj), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Come Winter](https://open.spotify.com/album/0KalYKHccDgndrJG3fMm2g) | 2:40 | 2021-12-23 | 2022-01-06 |
 | [Come With Me](https://open.spotify.com/track/2kF7AD1F63aOOmotGK4eEW) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Come With Me](https://open.spotify.com/album/1ezkCTLpxyeEhbicERF3ta) | 2:09 | 2021-03-14 | 2021-08-27 |
 | [Comfort](https://open.spotify.com/track/0UzAonSeNonj6hjUqOD6If) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Comfort](https://open.spotify.com/album/1cAdpo2gfJQxHcbPRcPa76) | 2:09 | 2019-06-08 | 2019-10-17 |
-| [Coming In To Land](https://open.spotify.com/track/3MAOcO3qKTCgyFx0gTno2p) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M) | [Coming In To Land](https://open.spotify.com/album/02F2qL21sBB5GMqy4pseTz) | 2:24 | 2023-12-14 |  |
+| [Coming In To Land](https://open.spotify.com/track/3MAOcO3qKTCgyFx0gTno2p) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M) | [Coming In To Land](https://open.spotify.com/album/02F2qL21sBB5GMqy4pseTz) | 2:24 | 2023-12-14 | 2023-12-30 |
 | [comme ça.](https://open.spotify.com/track/32SebboTVV30b9Atx9OKFU) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [comme ça.](https://open.spotify.com/album/53U3C0MBQYdDGMnNUHRXlh) | 1:37 | 2022-01-27 |  |
 | [Como](https://open.spotify.com/track/4P2vzyD2SoN9WIkXKSqSDE) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Como](https://open.spotify.com/album/0Lmtn1wQW2mylIF95koVXo) | 2:05 | 2023-11-13 |  |
 | [Compañeros](https://open.spotify.com/track/31Q1j84jjrOG0MtXvhjJ4h) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Compañeros](https://open.spotify.com/album/1wcLLYDA0dlnFQiu6B83HA) | 2:08 | 2021-02-27 | 2021-05-14 |
@@ -3847,6 +3847,7 @@
 | [wind sings in its whirling](https://open.spotify.com/track/4N0M7kmCIyqyLAJ9tgTqSc) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [wind sings in its whirling](https://open.spotify.com/album/1kbl9atJXVlJlXExENyldt) | 2:13 | 2019-09-27 | 2019-12-20 |
 | [Windborne](https://open.spotify.com/track/78EA9Uo3VV8YPpRYfyW1Ks) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Shapes](https://open.spotify.com/album/6RLbbnkG7M2F63YZhRUNBj) | 1:52 | 2020-05-12 | 2020-07-18 |
 | [Winding Up](https://open.spotify.com/track/1rGvNMdxYGnE6lH2EeMfwQ) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Winding Up](https://open.spotify.com/album/25r1LrZ6Mcm5Pokir7Nl0n) | 2:22 | 2021-09-10 |  |
+| [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-21 |  |
 | [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-10-26 | 2023-11-24 |
 | [Windmills](https://open.spotify.com/track/2f4mTu5Y6I3wVApqhy5wbV) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Windmills](https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl) | 1:58 | 2021-08-27 |  |
 | [Window Seat](https://open.spotify.com/track/5Bhw8byo03Q4odqpLnCpGx) | [Nasahx](https://open.spotify.com/artist/7aSiCOtwsJ4ZYq8PWCmJQb) | [Window Seat](https://open.spotify.com/album/0ODlnftOTluPQbjTdNzucR) | 2:05 | 2019-07-20 | 2019-12-11 |

@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,302 songs - 2 day 9 hr 21 min
+1,307 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,11 @@
 | [3SEXTI](https://open.spotify.com/track/3mlujCyRZbTWXdZMXECQp0) | [Martina Persic](https://open.spotify.com/artist/4yQErJsj6jRRfwvTiNa9FX), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [3SEXTI](https://open.spotify.com/album/6OKajztIWX24Ut1gCM4cCz) | 2:47 | 2022-09-22 | 2022-10-07 |
 | [4 grabbar](https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [4 grabbar](https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa) | 2:24 | 2022-10-06 | 2022-12-09 |
 | [456](https://open.spotify.com/track/47VpgMBALlZSyHoyc7BfJV) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Stanna Likadan / 456](https://open.spotify.com/album/5GQz1UCcw6GcgquP6LZ1Oj) | 2:17 | 2021-12-16 | 2022-01-20 |
+| [48 \- Freestyle](https://open.spotify.com/track/7JSWL0O96Qmshvh9mwMTJD) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 1:46 | 2023-12-28 |  |
 | [4LIFE](https://open.spotify.com/track/5bOTOVKDjDlsrRtrGZRVed) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [4LIFE](https://open.spotify.com/album/3jCGwrJnJd0tP34WN8ZFhD) | 2:45 | 2023-05-04 | 2023-05-19 |
 | [5 av 5](https://open.spotify.com/track/2kRPB6FKB8TEw4kHtEgtSP) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [5 av 5](https://open.spotify.com/album/5o2NuQTb4f8jHkrQU9ckkt) | 2:13 | 2022-09-08 | 2022-11-11 |
 | [5.40 i Grünerløkka](https://open.spotify.com/track/5F2TQ0OE7ay2U5SGIi8ViG) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [5.40 i Grünerløkka](https://open.spotify.com/album/3IiVaNXwfmju0f8Z7ncX2j) | 3:17 | 2022-05-26 | 2022-08-19 |
+| [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 | 2023-12-28 |  |
 | [5AM](https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:48 | 2021-12-16 | 2022-01-28 |
 | [6 1 Night](https://open.spotify.com/track/6hRykwokvxC051CxLQcgFZ) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [6 1 Night](https://open.spotify.com/album/7cJPcG6O3enJ6LHwVgv7NW) | 2:08 | 2023-06-08 | 2023-07-28 |
 | [666](https://open.spotify.com/track/6oe7pckqiHPvNjQCO3NCME) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [666](https://open.spotify.com/album/2eD69WbIj8fGEYdj66mvXT) | 2:11 | 2023-05-04 | 2023-05-19 |
@@ -453,6 +455,7 @@
 | [GE ALLT](https://open.spotify.com/track/7sfS4X1Tl7KEeqJTivat91) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [GE ALLT](https://open.spotify.com/album/18T1HcCEcXkEEELae1D5E4) | 2:45 | 2023-06-29 | 2023-07-21 |
 | [Gelatin](https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Gelatin](https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG) | 3:00 | 2022-03-10 | 2022-03-25 |
 | [Genua](https://open.spotify.com/track/12AvFLuM5FPrGb5WKLon3r) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Genua](https://open.spotify.com/album/5dHTG02KPD83NuYONPCb3e) | 2:20 | 2023-03-23 | 2023-05-19 |
+| [Get Jiggy](https://open.spotify.com/track/6ydBZr2Iv7UzPG4bogi9i1) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Get Jiggy](https://open.spotify.com/album/1Br0ieQseDhJOo2SQZeDbB) | 2:14 | 2023-12-28 |  |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-12 | 2022-08-12 |
 | [GGTM](https://open.spotify.com/track/0o4FDGWQApAhJDiNm9ppne) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:29 | 2023-04-19 | 2023-04-28 |
 | [GHETTO](https://open.spotify.com/track/4k3qhcOy9cuWXZ1TEhqhud) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Slim Prince](https://open.spotify.com/artist/2sDEJu2GS3AKx2RtMr9l2m), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [GHETTO](https://open.spotify.com/album/6NQpi7xJYfSqLNAsDtDhdv) | 4:19 | 2023-10-26 |  |
@@ -672,6 +675,7 @@
 | [Landa \(feat\. Youzie\)](https://open.spotify.com/track/4QoeXPLir8Sf7lhlHgy9nn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Landa \(feat\. Youzie\)](https://open.spotify.com/album/0ib0KJdU14BsNB4jr0f8g0) | 2:26 | 2023-07-06 | 2023-11-03 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-06-17 | 2022-08-26 |
 | [landet ingenting](https://open.spotify.com/track/6bPJ3yeNhI5lyL9usLSRVZ) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:14 | 2023-08-08 | 2023-09-01 |
+| [LAST DANCE](https://open.spotify.com/track/5TwvvppjNqEpguRX6V63J7) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [LAST DANCE](https://open.spotify.com/album/7koez1d7j3mUbuScPH2ncv) | 2:33 | 2023-12-28 |  |
 | [Lay Low](https://open.spotify.com/track/00qyoiew5KL83ob2Leqp8F) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Lay Low](https://open.spotify.com/album/2S58a2nf12RarEUAwM5gzg) | 3:19 | 2021-12-16 | 2022-01-05 |
 | [Lebanese Beauty](https://open.spotify.com/track/4lR14xynE2svX4uHQhh02l) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Lebanese Beauty](https://open.spotify.com/album/1F0LKMVW32JrOMGSxkWnRM) | 2:10 | 2022-07-21 | 2022-08-12 |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-05-11 | 2023-10-06 |
@@ -917,6 +921,7 @@
 | [Parana](https://open.spotify.com/track/77hThkgpdeGMelIJHo0BYp) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Parana](https://open.spotify.com/album/7l1GggbF5ZwDII6wVEBfgx) | 2:14 | 2022-05-05 | 2022-05-27 |
 | [Paranoia](https://open.spotify.com/track/6MJkTZ9Js0MdzdMe6G3pfz) | [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Malika](https://open.spotify.com/artist/3FmUPwwRC8VgtksNUyPa6e) | [Paranoia](https://open.spotify.com/album/0nCYVd2cZ6jawjRMFqCqoa) | 2:46 | 2022-08-05 | 2022-08-26 |
 | [PARANOIA](https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx), [RUNI](https://open.spotify.com/artist/4hmrUcRgiNbJn6tcXMzqEN), [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [PARANOIA](https://open.spotify.com/album/68NNwLH3DHcTNFUmitcX2p) | 2:32 | 2023-06-15 | 2023-07-28 |
+| [Paranoid](https://open.spotify.com/track/3DlxdVsJHBCvUk3zVMGJeF) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Paranoid](https://open.spotify.com/album/0qrZHXZIexinbbHFXUFuyu) | 2:40 | 2023-12-28 |  |
 | [PARIS](https://open.spotify.com/track/4NVrLX1GnugxscdEMSQv42) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [PARIS](https://open.spotify.com/album/6iuxDMYqro7dvf1RWZtSRq) | 2:41 | 2023-08-03 | 2023-10-27 |
 | [PARIS/SPAIN](https://open.spotify.com/track/1zw6HIXJ1gfWEZRLrI6Y1v) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [PARIS/SPAIN](https://open.spotify.com/album/1G6jsqQvBGmgtumZVi4bV4) | 2:09 | 2023-07-06 | 2023-10-07 |
 | [Partner \(feat\. Aleksej\)](https://open.spotify.com/track/4eeaLsWKGiqZIUcrByHGPd) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G), [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [Partner \(feat\. Aleksej\)](https://open.spotify.com/album/4WRY0N4iMUn3ckYbd1QL54) | 2:29 | 2022-10-27 | 2022-11-25 |

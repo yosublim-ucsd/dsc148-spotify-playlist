@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-92 songs - 4 hr 57 min
+93 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 | 2023-12-08 |  |
-| [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 |  |
+| [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 | 2023-12-30 |
 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 | 2023-12-08 |  |
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 |  |
 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 | 2023-12-08 |  |
@@ -96,6 +96,7 @@
 | [Somos Revolución](https://open.spotify.com/track/0B9vyHN45CnhRShpNOx5Bq) | [AlaDeMoska](https://open.spotify.com/artist/1ekttoTgjC4AhaG3r4eaMT) | [Revolución](https://open.spotify.com/album/4puu04REkxY8b9E3OXfNyo) | 4:07 | 2023-12-08 |  |
 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 | 2023-12-08 |  |
 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 | 2023-12-08 |  |
+| [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 | 2023-12-28 |  |
 | [Tus Bragas](https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [Ay De Mi!](https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E) | 3:18 | 2023-12-08 |  |
 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 | 2023-12-08 |  |
 | [Txus](https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 1:43 | 2023-12-08 |  |

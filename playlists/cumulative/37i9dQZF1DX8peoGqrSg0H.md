@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-419 songs - 1 day 1 hr 9 min
+420 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
+| [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 |  |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD](https://open.spotify.com/artist/2Jp5KBkpzm1dRFal9Nlmvm) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 | 2023-09-08 | 2023-09-14 |
@@ -85,7 +86,7 @@
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [SPARK!](https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [THE SECRETS OF THE UNIVERSE](https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin) | 3:19 | 2023-11-16 | 2023-12-16 |
 | [SPIDERMAN](https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [SPIDERMAN](https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk) | 2:48 | 2023-02-23 | 2023-03-10 |
-| [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 | 2023-12-14 |  |
+| [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 | 2023-12-14 | 2023-12-30 |
 | [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 | 2023-08-04 | 2023-09-02 |
 | [Sugar](https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Sugar](https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ) | 3:21 | 2023-02-02 | 2023-02-11 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |

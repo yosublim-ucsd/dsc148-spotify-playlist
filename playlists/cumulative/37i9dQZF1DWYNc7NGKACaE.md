@@ -4,7 +4,7 @@
 
 > essa é só pra quem vive no 2.0x
 
-67 songs - 2 hr 30 min
+68 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3) | 2:11 | 2023-09-26 |  |
 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 | 2023-09-26 |  |
 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 | 2023-09-26 |  |
+| [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 | 2023-12-27 |  |
 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG) | 2:33 | 2023-09-26 |  |
 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 | 2023-09-26 |  |
 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 | 2023-09-26 |  |

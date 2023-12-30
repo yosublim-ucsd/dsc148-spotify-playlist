@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 586450,
+  "num_followers": 586726,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWM4NjAwYzAyMzk4ZWExN2EwNmY5NzlkNzVjNGJhY2NhMWRjMDYw",
+  "snapshot_id": "MCxmMWZmMDFkOTEzNmZkZDA2YTg3ZjY0MTYyZDI0NmIwZGM2NjFmMmU3",
   "tracks": [
     {
       "added_at": "2023-12-22 04:53:23",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 194900,
+      "name": "People You Know",
+      "url": "https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 194900,
-      "name": "People You Know",
-      "url": "https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204992,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Knowing Me, Knowing You",
-      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+      "duration_ms": 183861,
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -667,22 +683,6 @@
       "duration_ms": 172173,
       "name": "Another life (feat. Rema)",
       "url": "https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 222578,
       "name": "My Kink Is Karma",
       "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
+        "name": "Different Lives",
+        "url": "https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        },
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Different Lives",
+      "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -995,22 +1015,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "All You Had To Do Was Stay",
-      "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
       },
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Different Lives",
-        "url": "https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
       "artists": [
         {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        },
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 197250,
-      "name": "Different Lives",
-      "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+      "duration_ms": 193293,
+      "name": "All You Had To Do Was Stay",
+      "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
         "name": "The Loneliest Time",
         "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 274506,
       "name": "The Loneliest Time (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Stupid Feelings",
         "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 166924,
       "name": "Stupid Feelings",
       "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
     },
     {
       "added_at": "2023-12-22 04:53:23",

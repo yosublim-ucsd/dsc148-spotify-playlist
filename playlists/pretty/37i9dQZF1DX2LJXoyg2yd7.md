@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,429 likes - 40 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,500 likes - 40 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 6 | [Lahalak](https://open.spotify.com/track/0jyG4EPccAzfS2W7O57fMX) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Lahalak](https://open.spotify.com/album/6as7cTm2oCcI3T7QkmIms3) | 4:15 |
 | 7 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 |
 | 8 | [Shofli Hal](https://open.spotify.com/track/7xAq1Ppkk6P7NqlWhqNGx0) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Shofli Hal](https://open.spotify.com/album/4K7TwAl75zoZIlfQeWv1IN) | 4:38 |
-| 9 | [بلوه غيابك](https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz) | [Assala Al Magdi](https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf) | [بلوه غيابك](https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ) | 2:46 |
-| 10 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
+| 9 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
+| 10 | [بلوه غيابك](https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz) | [Assala Al Magdi](https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf) | [بلوه غيابك](https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ) | 2:46 |
 | 11 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 |
 | 12 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
 | 13 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 37 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 38 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
 | 39 | [Leman Ashkeeh](https://open.spotify.com/track/2PuOShmbN0ZeagodIh5fSf) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Faisal Abdulkarim 2021](https://open.spotify.com/album/3UAlvuKYQZY7isdpIlh7iZ) | 4:50 |
-| 40 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
+| 40 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
 
-Snapshot ID: `MCwzZmQwM2E3MDMwMDkyMWFiMGI5ZDlhNWNhYjI3Mzg2YzAwZWZjNTNi`
+Snapshot ID: `MCxiMmJjMTdiYjNlODc5M2FlY2Y3ZWM4ZGU3ZGY1NzFjYmZkODVlY2I0`

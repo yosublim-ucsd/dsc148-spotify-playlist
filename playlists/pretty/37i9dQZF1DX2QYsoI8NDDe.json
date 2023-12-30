@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 501236,
+  "num_followers": 501286,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMzNDdkOTJhM2ZmMTkyMDRjOWUyNzkyZWQ5NDJiZGE4MmM2NThi",
+  "snapshot_id": "MCxjMGJiMGRmNTliMjUwY2Q0Yzc5YjlkMGRiNDQ0ODlmYTQ5MWZiOTgx",
   "tracks": [
     {
       "added_at": "2023-12-08 17:59:24",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Mentirme",
         "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 188087,
       "name": "Mentirme",
       "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -467,6 +451,22 @@
       "duration_ms": 189200,
       "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -503,22 +503,6 @@
       "duration_ms": 191040,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Quiz\u00e1s Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 275064,
-      "name": "Quiz\u00e1s Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -571,6 +555,22 @@
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Quiz\u00e1s Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 275064,
+      "name": "Quiz\u00e1s Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Se Acabo (En Vivo)",
-        "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
+        "name": "Ese es el problema",
+        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Se Acabo - En Vivo",
-      "url": "https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb"
+      "duration_ms": 167075,
+      "name": "Ese es el problema",
+      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -907,18 +903,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Ese es el problema",
-        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
+        "name": "Se Acabo (En Vivo)",
+        "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 167075,
-      "name": "Ese es el problema",
-      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
+      "duration_ms": 158000,
+      "name": "Se Acabo - En Vivo",
+      "url": "https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb"
     },
     {
       "added_at": "2023-12-08 17:59:24",

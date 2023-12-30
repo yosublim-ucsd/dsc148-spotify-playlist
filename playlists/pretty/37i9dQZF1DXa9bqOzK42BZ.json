@@ -1,13 +1,29 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD_XhBS2mDgi67XVbyhA\">Phina</a> ",
-  "num_followers": 7449,
+  "num_followers": 7658,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGY4ZmViMmI1N2FhMmQxMTE3MmY0MzcxYTRmMjY3NzgwMjUzYTRj",
+  "snapshot_id": "MCw2ZGJhYWRhMDk1ZGUyNzRiYWIxZjgwZGQyYjAxYmFiNDFlNDcwZmVj",
   "tracks": [
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
@@ -89,20 +105,28 @@
       "url": "https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd"
     },
     {
-      "added_at": "2023-10-13 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Sisi Ni Wale",
-        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+        "name": "Amefanya",
+        "url": "https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs"
       },
       "artists": [
         {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        },
+        {
+          "name": "Anastasia Mukabwa",
+          "url": "https://open.spotify.com/artist/4aGIO4v0X0u7qbycmR5YG9"
+        },
+        {
+          "name": "Solomon Mukubwa",
+          "url": "https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY"
         }
       ],
-      "duration_ms": 228251,
-      "name": "Sisi Ni Wale",
-      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+      "duration_ms": 199200,
+      "name": "Amefanya",
+      "url": "https://open.spotify.com/track/6uI75Ob2PBGfXLw6NwSAkH"
     },
     {
       "added_at": "2023-12-15 00:01:00",

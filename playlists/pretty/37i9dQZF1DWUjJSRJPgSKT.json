@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 23915,
+  "num_followers": 24136,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2RkMmJjN2E5ZDFhNTgzMGQ4MTMzNTkxOThlYjExYTVhMTU0MTg2",
+  "snapshot_id": "MCxlYTNlYjgyMmQxNjdlZjBlM2UzMmFjZjE4ZTMzNjk4N2U5MzJkZjIy",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:55",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 383560,
-      "name": "Seven Steps to Heaven",
-      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+      "duration_ms": 308466,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Relaxin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 308466,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H"
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Here Comes Louis Smith (Remastered)",
+        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
+      },
+      "artists": [
+        {
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+        }
+      ],
+      "duration_ms": 402546,
+      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "The Best Of Horace Silver",
         "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 435560,
       "name": "Nutville",
       "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Here Comes Louis Smith (Remastered)",
-        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
-      },
-      "artists": [
-        {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
-        }
-      ],
-      "duration_ms": 402546,
-      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Know What I Mean?",
+        "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -679,6 +699,22 @@
       "duration_ms": 353826,
       "name": "Super Jet",
       "url": "https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -715,42 +751,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Know What I Mean?",
-        "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 307986,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 370626,
-      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175040,
       "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 370626,
+      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 830000,
+      "name": "Steps-What Was - Digitally Remastered",
+      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
         "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "Grand Central",
-      "url": "https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 431733,
       "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 273226,
+      "name": "Grand Central",
+      "url": "https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5"
     },
     {
       "added_at": "2023-12-20 10:53:55",

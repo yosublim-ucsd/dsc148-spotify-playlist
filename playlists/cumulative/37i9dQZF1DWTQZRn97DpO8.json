@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Yam\u00ea",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Monsieur Nov",
   "name": "le miel",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 186446,
       "name": "B\u00e9cane",
       "url": "https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh"
+    },
+    {
+      "album": {
+        "name": "C'est Quoi L'Amour",
+        "url": "https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj"
+      },
+      "artists": [
+        {
+          "name": "PabloSantana",
+          "url": "https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65217,
+      "name": "C'est Quoi L'Amour (Bonus Track)",
+      "url": "https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh"
     },
     {
       "album": {
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 223384,
       "name": "Sans dire au revoir",
       "url": "https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8"

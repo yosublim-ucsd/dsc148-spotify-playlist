@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 奥田民生
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,202 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,210 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 7 | [Yozora](https://open.spotify.com/track/6xUPHMakPsGiur26RV3ABu) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [20Escape](https://open.spotify.com/album/2HReb5L8Pix27hRgQRNbzS) | 2:56 |
 | 8 | [asphalt](https://open.spotify.com/track/2c8OIHUpfDUFUfRPHDIYOO) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [In a world full of mistakes](https://open.spotify.com/album/4GpiJvxoDFZ7wpUnrPYsnt) | 2:49 |
 | 9 | [Vacation](https://open.spotify.com/track/1nY3Sb25GVWecLUuzXkiqD) | [K.E.I](https://open.spotify.com/artist/2luMyTFQDuycg42EqbaYXZ) | [Vacation](https://open.spotify.com/album/2yZFULPynW6BB1yIpZIsYu) | 3:48 |
-| 10 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
+| 10 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 |
 | 11 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
 | 12 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 |
 | 13 | [僕に彼女ができたんだ](https://open.spotify.com/track/1CzAdgGHPXQXorOJvVaRPF) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [himawari](https://open.spotify.com/track/6EMixJeYzOGRHrrGz4EVwT) | [RKID'z](https://open.spotify.com/artist/2M4aC5IMTkKDehBolXar1B) | [HIMAWARI](https://open.spotify.com/album/7L3JLQdnE1BWXXubSZSqWZ) | 3:39 |
 | 50 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
 
-Snapshot ID: `MCxmNTg2ZmMwYTk3MGM1YmYyYTFkNDdmMzFlZGE2NTZjN2M1ZDhhMDVk`
+Snapshot ID: `MCxlM2NkMmJiMmRiYmY1ZTM0ZTMwYzE2ZmQxNGY1MjRlNzUwNDVkM2Mw`

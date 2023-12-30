@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 奥田民生
 
-305 songs - 18 hr 5 min
+306 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 | 2023-09-21 | 2023-10-03 |
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-02-02 | 2023-02-24 |
 | [The bothered birthday](https://open.spotify.com/track/2RJySXuT5ALvB2hPRPTCLX) | [Yuna Hoshino](https://open.spotify.com/artist/0PkmvSD3XRGyGrOScz4Av1) | [The bothered birthday](https://open.spotify.com/album/1keD0gL0gusiLlIRM0ubB0) | 3:47 | 2023-11-16 | 2023-12-14 |
-| [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-11-09 |  |
+| [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-11-09 | 2023-12-30 |
+| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2023-12-21 |  |
 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 | 2023-02-23 | 2023-04-28 |
 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 | 2023-07-12 | 2023-08-18 |
 | [TSUBAKI](https://open.spotify.com/track/4vH4FdRmhYVr2tYao3EcFh) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U) | [TSUBAKI](https://open.spotify.com/album/3xbZcT0yy4K0ndV78iIrRx) | 5:27 | 2023-05-11 | 2023-11-11 |

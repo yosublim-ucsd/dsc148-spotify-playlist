@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Jimin
 
-2,708 songs - 6 day 14 hr 11 min
+2,709 songs - 6 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-19 | 2023-03-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-12-24 |  |
 | [Camera Roll](https://open.spotify.com/track/3fH8cIQ8tFxTcES101sUBu) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Camera Roll](https://open.spotify.com/album/2zYTSSjnmK9CUcjtH394t0) | 4:23 | 2023-09-10 | 2023-10-02 |
-| [Can I](https://open.spotify.com/track/0XrDL2vTxnKnkLqr4JWozJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos) | [Can I](https://open.spotify.com/album/3sRRAgKD2ivU8W6tLtxKXj) | 2:42 | 2023-12-17 |  |
+| [Can I](https://open.spotify.com/track/0XrDL2vTxnKnkLqr4JWozJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos) | [Can I](https://open.spotify.com/album/3sRRAgKD2ivU8W6tLtxKXj) | 2:42 | 2023-12-17 | 2023-12-30 |
+| [Can I](https://open.spotify.com/track/6A1mtMXGVUURR4dkGxobth) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos) | [YELLOW NOTE](https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ) | 2:42 | 2023-12-27 |  |
 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2023-06-18 | 2023-06-26 |
 | [Can't Go \(feat\. Phoelix\)](https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:44 | 2023-04-16 | 2023-04-24 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-29 | 2023-02-27 |
@@ -1766,7 +1767,7 @@
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-04-02 | 2023-04-17 |
 | [Sokonashi Beauty](https://open.spotify.com/track/3aEN8WxAZJdgWAr0UY68Qm) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7H6O4bSyIxIKD5mavo8JMc) | 4:10 | 2023-04-16 | 2023-04-24 |
 | [Sol](https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Sol](https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W) | 3:43 | 2023-10-22 | 2023-11-06 |
-| [SOLDIER LOVE](https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [SOLDIER LOVE](https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE) | 3:50 | 2023-12-24 |  |
+| [SOLDIER LOVE](https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [SOLDIER LOVE](https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE) | 3:50 | 2023-12-24 | 2023-12-30 |
 | [Solotrip](https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Solotrip](https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo) | 3:12 | 2023-02-12 | 2023-02-20 |
 | [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 | 2023-02-26 | 2023-03-20 |
 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 | 2023-08-20 | 2023-09-18 |

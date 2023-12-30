@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyjão, Silva
 
-535 songs - 1 day 2 hr 33 min
+536 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Longe de Mim](https://open.spotify.com/track/4VQ5sykAzSAcimgu6cRxPj) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [Longe de Mim](https://open.spotify.com/album/06ojZMF5zjFtXX5axLV2JU) | 3:14 | 2023-01-27 | 2023-02-04 |
 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 | 2022-08-01 | 2023-02-25 |
 | [Louco de Amor](https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9) | [INTENSO](https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c) | 3:08 | 2022-11-18 | 2023-02-25 |
+| [love leve](https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [love leve](https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU) | 2:47 | 2023-12-28 |  |
 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 | 2023-01-27 | 2023-04-09 |
 | [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 | 2023-06-16 | 2023-07-15 |
 | [Lá De Onde Eu Vim](https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Lá De Onde Eu Vim](https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B) | 3:07 | 2023-05-26 | 2023-07-08 |
@@ -537,7 +538,7 @@
 | [X](https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [X](https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp) | 3:46 | 2022-05-13 | 2022-12-03 |
 | [Xodó](https://open.spotify.com/track/22Wxpf3RUrgvQkP6RifxHa) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Xodó](https://open.spotify.com/album/4ytS3bELXWGYJrQpr8LBA7) | 2:24 | 2022-07-01 | 2022-08-13 |
 | [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 | 2023-08-04 | 2023-09-02 |
-| [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 |  |
+| [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 | 2023-12-30 |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-09-26 |  |
 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 | 2022-08-19 | 2023-01-28 |
 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 | 2023-07-07 | 2023-08-26 |

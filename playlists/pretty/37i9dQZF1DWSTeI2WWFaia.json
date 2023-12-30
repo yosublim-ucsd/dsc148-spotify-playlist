@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617588,
+  "num_followers": 1617570,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWEyZWI4ZTAzMzA5ODc3OGI0MjQzNTUwZDJiNmNlNTZiMGNlNmM0",
+  "snapshot_id": "MCxhYTYxNjUyM2EwYjBiYWExMzM4ZTE4YWZjNDRhZTc5MWIyNmYxNzc5",
   "tracks": [
     {
       "added_at": "2023-12-22 21:59:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Max Julien",
-        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Max Julien",
-      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 137197,
       "name": "black mirror",
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -639,6 +639,30 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 177360,
       "name": "Vertigo (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2023-12-22 21:59:11",

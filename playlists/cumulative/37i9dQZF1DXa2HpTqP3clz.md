@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-497 songs - 1 day 5 hr 49 min
+498 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 | 2022-05-27 |  |
 | [Broken Glass](https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym) | [Marija Droze](https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um) | [Maria with a "J"](https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk) | 3:59 | 2023-05-26 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/5coNtASTgr4ECMpm6MzZdj) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [Almost Proud](https://open.spotify.com/album/3BtI26idKsGankLt7Sofaf) | 2:57 | 2022-02-18 | 2022-04-11 |
+| [Buck Creek Girls](https://open.spotify.com/track/29pFQh9n5R0wz3jlBgtlSC) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cinnamon Tree](https://open.spotify.com/album/6v8OahRwkvsmxDJB4ZYljO) | 2:04 | 2023-11-24 |  |
 | [Buck Creek Girls](https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cinnamon Tree](https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux) | 2:04 | 2021-12-17 | 2023-12-24 |
 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 | 2022-01-07 | 2022-06-23 |
 | [Burden Bearer](https://open.spotify.com/track/7nSMFiEj3445wpjfjzNoCx) | [Doyle Lawson & Quicksilver](https://open.spotify.com/artist/0yCkCJaSvA88lfongkpnXT) | [Burden Bearer](https://open.spotify.com/album/3psnpX8eUxcR8X6LR3ZofX) | 2:30 | 2021-12-17 | 2022-03-11 |
@@ -255,7 +256,7 @@
 | [Lookout Mountain](https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Lookout Mountain](https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp) | 3:48 | 2022-02-11 | 2022-06-01 |
 | [Love Along the Way](https://open.spotify.com/track/0JKRJhLhtbsZFnyvk17Aid) | [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Borrowed Time](https://open.spotify.com/album/3kH6Zv3RT7JmoyOtpdcU2X) | 3:05 | 2022-01-21 | 2022-07-27 |
 | [Love Along the Way](https://open.spotify.com/track/6nkEksqMHYkwLQWSduWNMa) | [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Love Along the Way](https://open.spotify.com/album/3DoWXvOcB9cPd6KsbRQ0am) | 3:05 | 2021-12-17 | 2022-04-21 |
-| [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 | 2023-06-23 |  |
+| [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 | 2023-06-23 | 2023-12-30 |
 | [Love, Oh Careless Love \- Simply Bluegrass](https://open.spotify.com/track/5mlS721XOhAFMJeFdNM4Q3) | [Doyle Lawson](https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F) | [Love, Oh Careless Love \(Simply Bluegrass\)](https://open.spotify.com/album/6FNIOceWrC3UJH3cLAmOYu) | 3:29 | 2021-12-17 | 2022-06-01 |
 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 |  |
 | [Lyin' Low](https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lyin' Low](https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4) | 4:18 | 2021-12-17 | 2023-05-11 |

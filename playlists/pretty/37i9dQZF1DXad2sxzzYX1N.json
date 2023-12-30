@@ -1,12 +1,12 @@
 {
   "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
-  "num_followers": 85306,
+  "num_followers": 89115,
   "original_name": "Indie that hit different in 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ3NDNkNDZhYTg5MmJjZTAyMjRmOWMzYWM1ZTY0Zjc5MDA2ZTQz",
+  "snapshot_id": "MCwxNWJlYzFmYWU2YWQxMDYwZDVhMzdjNDFhODg1ZDkyMjgxZGZkZWRl",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "orange blood",
-        "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
-      },
-      "artists": [
-        {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
-        }
-      ],
-      "duration_ms": 145833,
-      "name": "missin something",
-      "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
-    },
-    {
       "added_at": "2023-12-11 18:34:48",
       "album": {
         "name": "playpen",
@@ -783,6 +767,22 @@
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -817,20 +817,20 @@
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
-      "added_at": "2023-11-30 17:24:39",
+      "added_at": "2023-12-01 00:20:32",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
+        "name": "True That",
+        "url": "https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5"
       },
       "artists": [
         {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+          "name": "Michael Cera",
+          "url": "https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3"
         }
       ],
-      "duration_ms": 189681,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
+      "duration_ms": 186000,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N"
     }
   ],
   "unique_name": "Indie that hit different in 2023",

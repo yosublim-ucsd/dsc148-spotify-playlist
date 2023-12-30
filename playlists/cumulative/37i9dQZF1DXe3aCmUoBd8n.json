@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Top Sharqi hits right now. Cover: Nassif Zeytoun.",
+  "description": "Top Sharqi hits right now. Cover: Abeer Nehme.",
   "name": "Top Sharqi Hits",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185196,
       "name": "Bala Ma Nhess - Always April Remix",
       "url": "https://open.spotify.com/track/6keIGjWMM4J9sO6uZjF6GN"
@@ -680,6 +680,24 @@
       "duration_ms": 208584,
       "name": "Bi Amro",
       "url": "https://open.spotify.com/track/6rwmGovvGuA89IED5UTd6A"
+    },
+    {
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199864,
+      "name": "Bi Saraha",
+      "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
     },
     {
       "album": {

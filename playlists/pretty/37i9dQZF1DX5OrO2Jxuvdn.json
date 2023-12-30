@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
-  "num_followers": 96805,
+  "num_followers": 96803,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzhlNTBmNGVmZDUxNWFhZTQxMzM1YjUzMmMyYTE3NWNlYzYwYWQ4",
+  "snapshot_id": "MCwwMTEzNjg1YzVjMjc3NWMyYmNhZmZhYTU0NGJiNTdlMzUyMTY0YmQ1",
   "tracks": [
     {
       "added_at": "2023-10-05 18:42:19",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Kill The Lights (Deluxe)",
-        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Kick The Dust Up",
-      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
+      "duration_ms": 206864,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "One Thing At A Time (Sampler)",
-        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 206864,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
+      "duration_ms": 190586,
+      "name": "Kick The Dust Up",
+      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 230373,
-      "name": "Redneck Yacht Club",
-      "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
+      "duration_ms": 178426,
+      "name": "Arkansas",
+      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1203,18 +1203,34 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1251,22 +1267,6 @@
       "duration_ms": 177066,
       "name": "Flatliner (feat. Dierks Bentley)",
       "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "When She Says Baby",
+      "url": "https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 216773,
       "name": "If You're Going Through Hell (Before The Devil Even Knows)",
       "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "When She Says Baby",
-      "url": "https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5XZ317tmx2xF9ikD4nKusw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 160839,
       "name": "Drinkin\u2019 Beer. Talkin\u2019 God. Amen. (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/0rOVgtieEk5SoypbulRiKI"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2023-10-05 18:42:19",

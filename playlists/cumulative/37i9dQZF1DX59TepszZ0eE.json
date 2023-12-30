@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Izandla Zethu Ziyakubanjwa",
+        "url": "https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305783,
+      "name": "Izandla Zethu Ziyakubanjwa",
+      "url": "https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2"
+    },
+    {
+      "album": {
         "name": "Izulu Namafu",
         "url": "https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW"
       },
@@ -2126,6 +2144,36 @@
       "duration_ms": 212687,
       "name": "Provider",
       "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+    },
+    {
+      "album": {
+        "name": "Re Bone Ka Naledi (Live At The State Theatre)",
+        "url": "https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA"
+      },
+      "artists": [
+        {
+          "name": "Wacha Mkhukhu Wachumlilo",
+          "url": "https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163"
+        },
+        {
+          "name": "Given",
+          "url": "https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo"
+        },
+        {
+          "name": "Kago",
+          "url": "https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616454,
+      "name": "Re Bone Ka Naledi (feat. Kago, Given, Paul) - (Live At The State Theatre)",
+      "url": "https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW"
     },
     {
       "album": {

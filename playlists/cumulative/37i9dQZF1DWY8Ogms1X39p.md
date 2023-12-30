@@ -2,7 +2,7 @@
 
 ### [Yang Penting Happy](https://open.spotify.com/playlist/37i9dQZF1DWY8Ogms1X39p)
 
-> Feel good songs yang bikin kamu happy
+> Apapun yang terjadi di belakang, sambut tahun yang baru dengan happy!
 
 121 songs - 6 hr 58 min
 

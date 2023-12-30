@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 191006,
+  "num_followers": 191144,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4",
+  "snapshot_id": "MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 141620,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 141620,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 201956,
-      "name": "Hail To The Victor",
-      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 204240,
       "name": "Riot!",
       "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 201956,
+      "name": "Hail To The Victor",
+      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "digging for windows",
+        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
+      },
+      "artists": [
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "digging for windows",
+      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 236282,
       "name": "This Land - Single Version",
       "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "digging for windows",
-        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
-      },
-      "artists": [
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "digging for windows",
-      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
     },
     {
       "added_at": "2023-06-23 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 167347,
+  "num_followers": 167794,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTIyOGNjYTc2NzBiNTA1YTVkODdkZDBhMTkzNzk5OWExYjM1MGE4",
+  "snapshot_id": "MCwwNzM4MDRkYmIwZjg2ZGI2Njk4NGI0NmMxOGE0ZDc4NTY2NzI1YTU3",
   "tracks": [
     {
       "added_at": "2023-12-22 08:52:31",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
         "name": "Samara Joy",
         "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
@@ -307,6 +307,42 @@
       "duration_ms": 227893,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Cafe Society (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        },
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 150800,
+      "name": "Mountain Greenery",
+      "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -331,38 +367,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
         }
       ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "Cafe Society (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        },
-        {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
-        }
-      ],
-      "duration_ms": 150800,
-      "name": "Mountain Greenery",
-      "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -419,38 +435,6 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -511,6 +495,22 @@
       "duration_ms": 138986,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
       "artists": [
         {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+      "duration_ms": 170053,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -659,18 +655,22 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
       "artists": [
         {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 170053,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+      "duration_ms": 238120,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
-        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 261609,
-      "name": "On a Clear Day (You Can See Forever) - Live",
-      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 246640,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
+        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 261609,
+      "name": "On a Clear Day (You Can See Forever) - Live",
+      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1263,34 +1295,22 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Blue Trane",
-        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
+        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
       "artists": [
         {
-          "name": "Eric Reed Trio",
-          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "You're Sensational",
-      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
+          "name": "George Shearing Quintet",
+          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
+        },
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Stompin' At The Savoy - 1956 Version",
-      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+      "duration_ms": 152160,
+      "name": "I Hear Music - Remastered",
+      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1311,38 +1331,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
-        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Quintet",
-          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
-        },
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "I Hear Music - Remastered",
-      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+      "duration_ms": 249480,
+      "name": "Stompin' At The Savoy - 1956 Version",
+      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1383,6 +1383,58 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Harry James & Harry James' Orchestra",
+          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
+      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Bing With A Beat",
+        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander Quintet",
+          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -1411,38 +1463,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Bing With A Beat",
-        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
+        "name": "Far Away Lands",
+        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Harry James & Harry James' Orchestra",
-          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
-      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+      "duration_ms": 312626,
+      "name": "A Dab Of This And That",
+      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1463,38 +1495,6 @@
       "duration_ms": 447200,
       "name": "Back Beat",
       "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander Quintet",
-          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
-        "name": "Far Away Lands",
-        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "A Dab Of This And That",
-      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "What a Little Moonlight Can Do",
-      "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
         "name": "Groove Connection",
         "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 233600,
       "name": "Little Lucy",
       "url": "https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "What a Little Moonlight Can Do",
+      "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
     },
     {
       "added_at": "2023-12-22 08:52:31",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "I'm Putting All My Eggs In One Basket",
-      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
-    },
-    {
-      "added_at": "2023-12-22 08:52:31",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
+    },
+    {
+      "added_at": "2023-12-22 08:52:31",
+      "album": {
         "name": "Easy come easy go (Edit)",
         "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-12-22 08:52:31",
       "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
       "artists": [
         {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
+      "duration_ms": 141866,
+      "name": "I'm Putting All My Eggs In One Basket",
+      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
     }
   ],
   "unique_name": "Feel Good Jazz",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Marwan Pablo",
+  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Inkonnu & Sipo",
   "name": "Arab Hip-Hop",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 132000,
       "name": "Bader Khol3a",
       "url": "https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 179136,
       "name": "BAHZ",
       "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 129229,
       "name": "Dabbaba",
       "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
@@ -1392,6 +1392,28 @@
       "duration_ms": 168411,
       "name": "Dexter",
       "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
+    },
+    {
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "album": {
@@ -2836,7 +2858,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 156000,
       "name": "Kda Msh Bees",
       "url": "https://open.spotify.com/track/3f1AUIx5LZoS3afGcSOJNl"
@@ -3082,6 +3104,28 @@
       "duration_ms": 145321,
       "name": "Klashat",
       "url": "https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb"
+    },
+    {
+      "album": {
+        "name": "L7ARB (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242708,
+      "name": "L7ARB - Spotify Singles",
+      "url": "https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa"
     },
     {
       "album": {
@@ -3352,7 +3396,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 228075,
       "name": "Lmossiba (\u0627\u0644\u0645\u0635\u064a\u0628\u0629)",
       "url": "https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky"
@@ -3410,7 +3454,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 198620,
       "name": "Logha",
       "url": "https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d"
@@ -3504,7 +3548,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
@@ -4038,7 +4082,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 196901,
       "name": "Noss Ellil",
       "url": "https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz"
@@ -4677,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Seven Bullets",
+        "url": "https://open.spotify.com/album/4OErllJqRh7wBvsIzqQmjg"
+      },
+      "artists": [
+        {
+          "name": "Moudy Al Arabe",
+          "url": "https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484797,
+      "name": "Seven Bullets",
+      "url": "https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9"
+    },
+    {
+      "album": {
         "name": "Sham3 3id El Milad",
         "url": "https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN"
       },
@@ -4829,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "SBITAR",
+        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169621,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
+    },
+    {
+      "album": {
         "name": "SME3NI",
         "url": "https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb"
       },
@@ -4840,7 +4920,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182961,
       "name": "SME3NI",
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
@@ -5151,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Ta2reban",
+        "url": "https://open.spotify.com/album/2ktW3wBPnU7MVrs305ULyV"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209433,
+      "name": "Ta2reban",
+      "url": "https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR"
+    },
+    {
+      "album": {
         "name": "Beyt El Ro3b",
         "url": "https://open.spotify.com/album/6qgcvg7IquOqjbgnBeRnfY"
       },
@@ -5210,6 +5308,28 @@
       "duration_ms": 251000,
       "name": "Tamnini",
       "url": "https://open.spotify.com/track/4caObZDuJtKmP21WGaQ8Zm"
+    },
+    {
+      "album": {
+        "name": "TAY9 (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        },
+        {
+          "name": "AKOA",
+          "url": "https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229776,
+      "name": "TAY9 - Spotify Singles",
+      "url": "https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG"
     },
     {
       "album": {
@@ -5385,6 +5505,28 @@
     },
     {
       "album": {
+        "name": "TODO BEN\u00c9 (Spotify Singles)",
+        "url": "https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "TODO BEN\u00c9 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
+    },
+    {
+      "album": {
         "name": "TOO BAD",
         "url": "https://open.spotify.com/album/1l9g8CblI5U64euEuJFFE3"
       },
@@ -5476,6 +5618,28 @@
       "duration_ms": 171131,
       "name": "Tuxedo",
       "url": "https://open.spotify.com/track/5HlG2nrqhheXniOhZ7NPLU"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Spotify Singles)",
+        "url": "https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176589,
+      "name": "Unplugged - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
     },
     {
       "album": {
@@ -5912,7 +6076,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 168042,
       "name": "ZIGZAG",
       "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"
@@ -5956,6 +6120,28 @@
       "duration_ms": 170671,
       "name": "\u00c7a d\u00e9pend",
       "url": "https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu"
+    },
+    {
+      "album": {
+        "name": "\u00c9chec (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Sipo",
+          "url": "https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "\u00c9chec - Spotify Singles",
+      "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-214 songs - 17 hr 43 min
+215 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2023-09-25 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2023-09-25 |  |
 | [Right Here! Right Now!](https://open.spotify.com/track/4n9lVLJfHKtu7ogdcTOUdZ) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 4:31 | 2023-09-25 |  |
-| [Right On \- Art of Tones Remix](https://open.spotify.com/track/1FD5ZYHOIkSg2ssMr5f7eK) | [Pete Maxey](https://open.spotify.com/artist/32OiiJCPHcKkXZnwJNHCFq), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [XPRESS Remixes, Vol\. 1](https://open.spotify.com/album/5e88pYlZnBq40mnhaCXAdW) | 5:05 | 2023-09-25 |  |
+| [Right On \- Art of Tones Remix](https://open.spotify.com/track/1FD5ZYHOIkSg2ssMr5f7eK) | [Pete Maxey](https://open.spotify.com/artist/32OiiJCPHcKkXZnwJNHCFq), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [XPRESS Remixes, Vol\. 1](https://open.spotify.com/album/5e88pYlZnBq40mnhaCXAdW) | 5:05 | 2023-09-25 | 2023-12-30 |
+| [Right On \- Art of Tones Remix](https://open.spotify.com/track/52WX6k2ycQOfGHNq7wFXE0) | [Pete Maxey](https://open.spotify.com/artist/32OiiJCPHcKkXZnwJNHCFq), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [XPRESS Remixes, Vol\. 1](https://open.spotify.com/album/4y06UGWAynTGD8DGLaLKt0) | 5:05 | 2023-09-25 |  |
 | [RIP Ralph](https://open.spotify.com/track/3QgMiALhW4LM97T43W97Fp) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [Easy Tiger EP](https://open.spotify.com/album/4Co89cS2EQcUM7ob3KUjM0) | 5:17 | 2023-09-25 |  |
 | [Ritmo](https://open.spotify.com/track/7aVdRjY6O5nZQ3lYXfhVm4) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Ritmo EP](https://open.spotify.com/album/6q4X0yzQWbPQWBiAsbtSk1) | 5:39 | 2023-09-25 |  |
 | [Rockin \- Poppin Full Tilting \- Long](https://open.spotify.com/track/1pp84p5MQFL8lrtNLvB5tR) | [Lee Alfred](https://open.spotify.com/artist/0FptEZQbvyLFSVUvCUc2xe) | [Rockin \- Poppin Full Tilting](https://open.spotify.com/album/1oneWyxtUUeTKXFuGfmhJ1) | 6:14 | 2023-09-25 |  |

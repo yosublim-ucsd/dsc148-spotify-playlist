@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Because we loved",
+        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
+      },
+      "artists": [
+        {
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
+        },
+        {
+          "name": "CHOI JUNG HOON of JANNABI",
+          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Because we loved",
+      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
+    },
+    {
+      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -378,7 +400,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 184093,
       "name": "Don't be mad",
       "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 259829,
       "name": "Scented Things",
       "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"

@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-399 songs - 23 hr 4 min
+400 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Big Thug Boys](https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Big Thug Boys](https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj) | 2:52 | 2021-09-10 | 2022-02-11 |
 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-08-17 | 2023-09-28 |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-09-10 | 2022-10-29 |
+| [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-12-21 |  |
 | [Bop Daddy](https://open.spotify.com/track/1NyHjGLDvRk7BhAqqhNH1d) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bop Daddy](https://open.spotify.com/album/3YZPvusPiLYzToo05wbsdW) | 3:35 | 2022-03-02 | 2022-06-17 |
 | [Bounce](https://open.spotify.com/track/5ZmcGfRzK1PDU58SW9tQrV) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Bounce](https://open.spotify.com/album/5D3SmvYpcH6PKbDtRUXBDv) | 3:02 | 2022-03-31 | 2022-04-15 |
 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 | 2021-03-25 | 2022-06-11 |
@@ -110,7 +111,7 @@
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-10-13 | 2022-10-29 |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-01-27 | 2022-02-10 |
 | [Drogba \(Joanna\)](https://open.spotify.com/track/1QzELPNi43SmpKuLPPdkNk) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Drogba \(Joanna\)](https://open.spotify.com/album/6QYzKtdg8bQtvjzlDyBmXj) | 3:19 | 2020-01-14 | 2022-04-20 |
-| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-27 |  |
+| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-27 | 2023-12-30 |
 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 | 2020-01-14 |  |
 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2021-09-10 | 2022-06-20 |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-11 | 2022-05-25 |

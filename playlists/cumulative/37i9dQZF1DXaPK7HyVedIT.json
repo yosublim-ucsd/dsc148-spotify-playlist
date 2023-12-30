@@ -1320,6 +1320,32 @@
     {
       "album": {
         "name": "Faded",
+        "url": "https://open.spotify.com/album/2vVkHhEsdBVdz9Plsouag7"
+      },
+      "artists": [
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "Garonzos",
+          "url": "https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A"
+        },
+        {
+          "name": "HOMINID",
+          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103354,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5cOSrZbXBlAARg81bp8bk9"
+    },
+    {
+      "album": {
+        "name": "Faded",
         "url": "https://open.spotify.com/album/0wadAXXTAsJKtbFcBZjI5Y"
       },
       "artists": [
@@ -1390,6 +1416,24 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "album": {
+        "name": "Fluttering",
+        "url": "https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275847,
+      "name": "Fluttering",
+      "url": "https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,672 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,726 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 37 | [El Hombre Suburbano](https://open.spotify.com/track/1pakHYd2svU7ytp8H7RsuE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/0pCYUpMnAkVNkCNtPluhSC) | 2:21 |
 | 38 | [Trato de hacer blues](https://open.spotify.com/track/1XEANKLQHjtulQRj28X60i) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [10 años de Blues Criollo \(Vol\. 1\)](https://open.spotify.com/album/7gqryZPanv9wQMNrIxBAYU) | 5:49 |
 | 39 | [Todo Mal](https://open.spotify.com/track/2X1zXfkUGFHq3D7Fl9T37E) | [Don Vilanova Botafogo](https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53), [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Patas Negras](https://open.spotify.com/album/7Jz4V8qexPjZbT3TvQ4fai) | 4:20 |
-| 40 | [Gris](https://open.spotify.com/track/2ipUiBU7acIwFmNXRFDclR) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/62rTbLNfcEIArsBBX8zCVt) | 3:05 |
+| 40 | [Gris](https://open.spotify.com/track/04NXyJNpHfcNNSt6dFcuJa) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/0OakarP6DcA6GIsIQmySKs) | 3:05 |
 | 41 | [La Extremaunción](https://open.spotify.com/track/2MbUoTtHgceEopgTgdD112) | [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Federico Dannemann](https://open.spotify.com/artist/4OU6bEG2xDcF7KMOwgksQO), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Valdivia](https://open.spotify.com/album/7HTuFQBLSkwOatzrGKfdJB) | 3:03 |
 | 42 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 43 | [Mapuche](https://open.spotify.com/track/1oMPPjk92PNVK2FnJdqHGj) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [770](https://open.spotify.com/album/0rIUI4vvDHJsXpxAW7ZKCS) | 4:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 59 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 60 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MCw1NjE5NWY5NDE4MjVmYTVmZTNjMTc2ZjY2NTA1NTZjNDM3MzA5ZDc0`
+Snapshot ID: `MCxiM2M1NWU2YzVhMzdlMzIxYzAzYmUwZmZiYWFiNzE3YzUyYTA1MWQ5`

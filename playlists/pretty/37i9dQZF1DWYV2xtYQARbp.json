@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14463,
+  "num_followers": 14483,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTE0NDgxNjY2NDdmYjU4MDVkYWY0YTBmMWU2YmUzNmJjNzJhMTAx",
+  "snapshot_id": "MCwzYjhhNmFjODA1NjRkZjNjMDE5NTFkNTIxNWNkN2Y5OWZkYjZkNzQ4",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Talking 'bout",
-        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
-      },
-      "artists": [
-        {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Two Headed Cow",
         "url": "https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 170520,
       "name": "Fishfight",
       "url": "https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Talking 'bout",
+        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
+      },
+      "artists": [
+        {
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Crystal Gazing Luck Amazing",
-        "url": "https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP"
-      },
-      "artists": [
-        {
-          "name": "Compulsive Gamblers",
-          "url": "https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Rock & Roll Nurse",
-      "url": "https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 180213,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Crystal Gazing Luck Amazing",
+        "url": "https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP"
+      },
+      "artists": [
+        {
+          "name": "Compulsive Gamblers",
+          "url": "https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Rock & Roll Nurse",
+      "url": "https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Beware the Ides of March",
-        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
       "artists": [
         {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
         }
       ],
-      "duration_ms": 131039,
-      "name": "You'll Be Sorry Now",
-      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+      "duration_ms": 204320,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Beware the Ides of March",
+        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
+      },
+      "artists": [
+        {
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "You'll Be Sorry Now",
+      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Popular Favorites",
         "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 319893,
       "name": "Do the Milkshake",
       "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "You, The Night\u2026 and The Music",
-        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
       "artists": [
         {
-          "name": "Gallon Drunk",
-          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Just One More",
-      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,34 +651,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "14 Frenzied Shakers",
-        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
+        "name": "You, The Night\u2026 and The Music",
+        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
       },
       "artists": [
         {
-          "name": "Les Sexareenos",
-          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
+          "name": "Gallon Drunk",
+          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
         }
       ],
-      "duration_ms": 154386,
-      "name": "(Oh Mom) Teach Me How to Uncle Willy",
-      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+      "duration_ms": 235600,
+      "name": "Just One More",
+      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -695,6 +679,22 @@
       "duration_ms": 145400,
       "name": "Round Every Corner",
       "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "14 Frenzied Shakers",
+        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
+      },
+      "artists": [
+        {
+          "name": "Les Sexareenos",
+          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "(Oh Mom) Teach Me How to Uncle Willy",
+      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Thee Caesars of Trash",
-        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
-      },
-      "artists": [
-        {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Broad Appeal",
         "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 130000,
       "name": "Michigan Blues",
       "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Thee Caesars of Trash",
+        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
+      },
+      "artists": [
+        {
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+        }
+      ],
+      "duration_ms": 161426,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
     },
     {
       "added_at": "2022-03-28 20:14:58",

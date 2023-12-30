@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1554,
+  "num_followers": 1558,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGU3OWI5NTU1Mjk0YzEzZWY4MmFlZTQ3ZWZjMDQzYjlhYjYzNDRk",
+  "snapshot_id": "MCxiZTUxNWViNmY4MmQzZjc2M2M0NDVlNWFmNTI5NDUwYTMyOGJhMDBh",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Rich Crack Baby",
         "url": "https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 227224,
       "name": "Foreva (feat. T.I.)",
       "url": "https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
     },
     {
       "added_at": "2022-11-01 04:00:00",

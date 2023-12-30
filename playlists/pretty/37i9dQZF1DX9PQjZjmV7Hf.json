@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 42253,
+  "num_followers": 42471,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGE5ODE4OWRlNTMwMGRkMjMwODVjNzI5MTEyNjg0ZjUwZTI4MTMw",
+  "snapshot_id": "MCxlMmI3MzkzZmE5NDU2YjM5ZDU4NWJhZTY2YTYyOTMwYTZlMjNiNTYz",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -659,6 +659,42 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
+        }
+      ],
+      "duration_ms": 135682,
+      "name": "Ain't Hard Enough (feat. Mozzy)",
+      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Jumpin on a Jet",
+      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -683,22 +719,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Future Hndrxx Presents: The WIZRD",
-        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Jumpin on a Jet",
-      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 240895,
       "name": "None of This",
       "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
-        }
-      ],
-      "duration_ms": 135682,
-      "name": "Ain't Hard Enough (feat. Mozzy)",
-      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -831,18 +831,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 151980,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
+      "duration_ms": 185155,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -863,22 +867,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
       },
       "artists": [
         {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 185155,
-      "name": "Effortless",
-      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
+      "duration_ms": 151980,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
     },
     {
       "added_at": "2022-10-01 20:14:07",

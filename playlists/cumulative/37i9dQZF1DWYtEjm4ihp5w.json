@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dada",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Bo9al",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 236582,
       "name": "AJI TCHOUF",
       "url": "https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl"
@@ -640,6 +640,28 @@
       "duration_ms": 243687,
       "name": "Chno Raytra",
       "url": "https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB"
+    },
+    {
+      "album": {
+        "name": "CHOUHA",
+        "url": "https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192737,
+      "name": "CHOUHA",
+      "url": "https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9"
     },
     {
       "album": {
@@ -1438,6 +1460,24 @@
       "duration_ms": 309152,
       "name": "Iori 6",
       "url": "https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb"
+    },
+    {
+      "album": {
+        "name": "SBITAR",
+        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188882,
+      "name": "JANAH 4",
+      "url": "https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT"
     },
     {
       "album": {
@@ -2244,7 +2284,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185552,
       "name": "Nichane",
       "url": "https://open.spotify.com/track/18mE2O1ogNq2OFW71jfyS0"
@@ -2752,6 +2792,24 @@
       "duration_ms": 179178,
       "name": "Skhoon",
       "url": "https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy"
+    },
+    {
+      "album": {
+        "name": "SBITAR",
+        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169621,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
     },
     {
       "album": {
@@ -3686,7 +3744,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 183878,
       "name": "ZOK",
       "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"

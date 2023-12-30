@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 222734,
+  "num_followers": 223308,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFlZDU0ZjM2OWRkYWFlOWI3ZDg0MGRmMTZkYTIyZjQyMWFiOTdm",
+  "snapshot_id": "MCxmNWQ4NWZkMGRmOWJiN2VmMjFlNDNhMWExMWNkODg0YjI4MmZmZDFi",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Solitude Is Bliss",
-      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 177426,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Solitude Is Bliss",
+      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -639,22 +639,6 @@
       "duration_ms": 251440,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Why Won't You Make Up Your Mind?",
-      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
+      "duration_ms": 199093,
+      "name": "Why Won't You Make Up Your Mind?",
+      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -819,22 +803,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "It Is Not Meant To Be",
-      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -863,6 +831,22 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -931,6 +915,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "It Is Not Meant To Be",
+      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Sometimes The Blues Is Just A Passing Bird",
         "url": "https://open.spotify.com/album/5lCQtNmeRx4cI4UDwdv6Rn"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 325546,
       "name": "Sprawl II (Mountains Beyond Mountains)",
       "url": "https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 138293,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4wtxSmTTeg6CiuhwIVKv0b"
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1071,6 +1055,22 @@
       "duration_ms": 364493,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4wtxSmTTeg6CiuhwIVKv0b"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Horchata",
+      "url": "https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Halcyon Digest",
         "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Horchata",
-      "url": "https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "We Used to Wait",
-      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Before Today",
         "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 308680,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1283,18 +1283,34 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
       "artists": [
         {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "We Used to Wait",
+      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1356,9 +1372,9 @@
           "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1443,38 +1459,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "/\\/\\ /\\ Y /\\",
-        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "BORN FREE",
-      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "White Sky",
-      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Transference",
         "url": "https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 238853,
       "name": "Got Nuffin",
       "url": "https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "/\\/\\ /\\ Y /\\",
+        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "BORN FREE",
+      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
     },
     {
       "added_at": "2021-10-05 08:40:49",

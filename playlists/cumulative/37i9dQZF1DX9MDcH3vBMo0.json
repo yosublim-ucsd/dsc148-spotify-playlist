@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Breathable",
+        "url": "https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk"
+      },
+      "artists": [
+        {
+          "name": "Miriam Juno",
+          "url": "https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161233,
+      "name": "Breathable",
+      "url": "https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7"
+    },
+    {
+      "album": {
         "name": "Broken Wings",
         "url": "https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V"
       },
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 131250,
       "name": "Gaillardia",
       "url": "https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW"
@@ -4913,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "Je vous en prie",
+        "url": "https://open.spotify.com/album/29pQv0Mg95Ru8WBuizctt9"
+      },
+      "artists": [
+        {
+          "name": "Brielle De Villiers",
+          "url": "https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163380,
+      "name": "Je vous en prie",
+      "url": "https://open.spotify.com/track/4RyaKjR8XWve8p4ZJ16xss"
+    },
+    {
+      "album": {
         "name": "Jean Paul errant",
         "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
       },
@@ -5939,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Luce Stellare",
+        "url": "https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0"
+      },
+      "artists": [
+        {
+          "name": "Simone Scarda",
+          "url": "https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156372,
+      "name": "Luce Stellare",
+      "url": "https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX"
       },
@@ -6292,7 +6346,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 135000,
       "name": "Memories In Red",
       "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
@@ -7430,7 +7484,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 276250,
       "name": "Ornamental",
       "url": "https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm"
@@ -8409,6 +8463,24 @@
     },
     {
       "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/5kUjtWoxB9rBFHc6Kwk4FE"
+      },
+      "artists": [
+        {
+          "name": "Blake Hollow",
+          "url": "https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136723,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/2Iek9V6Gs6uJ1IMWIoqqu5"
+    },
+    {
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -9140,7 +9212,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145750,
       "name": "Serre moi",
       "url": "https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt"

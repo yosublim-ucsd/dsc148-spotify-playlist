@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 558593,
+  "num_followers": 560185,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDFlYmZmZmQ3ODA1MWI0YWIxMTRkZTgzOTdiODEzMmQ0ODFkZmEx",
+  "snapshot_id": "MCw0ODc2NmNiY2RmYTQyMDZmZjg4Y2NiOWEwNzRjYzc3OGNkNzg0YjBi",
   "tracks": [
     {
       "added_at": "2023-10-13 20:39:02",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Los Corridos Del Millon",
+        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Los Incomparables De Tijuana",
+          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
         }
       ],
-      "duration_ms": 190413,
-      "name": "Juan Martha",
-      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+      "duration_ms": 236160,
+      "name": "El Numero Uno",
+      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Los Corridos Del Millon",
-        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
-      },
-      "artists": [
-        {
-          "name": "Los Incomparables De Tijuana",
-          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "El Numero Uno",
-      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 219962,
       "name": "Carrera A Muerte",
       "url": "https://open.spotify.com/track/2rJBndq82AOiGEEE84im02"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Las M\u00e1s Pegadas",
-        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176973,
       "name": "Corrido de Domingo Corrales",
       "url": "https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "El Cartel de Los Cielos",
-        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Corridos Arrolladores Vol. 1",
-        "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
+        "name": "El Cartel de Los Cielos",
+        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 189120,
-      "name": "El Tarasco",
-      "url": "https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z"
+      "duration_ms": 238266,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
+        "name": "Corridos Arrolladores Vol. 1",
+        "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "El Tarasco",
+      "url": "https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
         "name": "Corridos A Quema Ropa",
         "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 224866,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3YFDt8RyMWJIdom6WNAwu4"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Roman Iriarte",
-      "url": "https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "Charro Avitia",
         "url": "https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
+        "name": "20 Corridos Valientes",
+        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Kil\u00f3metro 1160",
+      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "La Patrulla 05",
-      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -1207,34 +1207,34 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "20 Corridos Valientes",
-        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
       "artists": [
         {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 192522,
-      "name": "Kil\u00f3metro 1160",
-      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
+      "duration_ms": 154440,
+      "name": "Roman Iriarte",
+      "url": "https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK"
     },
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
-        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
       "artists": [
         {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 198026,
-      "name": "la carga blanca",
-      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
+      "duration_ms": 198533,
+      "name": "Baraja De Oro",
+      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
     }
   ],
   "unique_name": "Corridos de Anta\u00f1o",

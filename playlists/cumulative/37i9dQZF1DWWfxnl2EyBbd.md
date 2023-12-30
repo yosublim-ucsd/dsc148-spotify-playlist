@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-532 songs - 1 day 16 hr 50 min
+533 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 | 2022-10-13 |  |
 | [Red Milk](https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg) | 7:42 | 2022-02-18 | 2022-10-18 |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-03-10 |  |
-| [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 |  |
+| [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 | 2023-12-30 |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-04-29 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-12 |  |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-02-10 |  |
@@ -463,6 +463,7 @@
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 |  |
 | [The Tale of Bon Jean](https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Tale of Bon Jean](https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu) | 2:40 | 2023-03-10 |  |
 | [The Wind In The Night](https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:02 | 2022-02-10 | 2023-12-24 |
+| [The Wind In The Night](https://open.spotify.com/track/6GTSgyjdnJIehgiQu38qhL) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK) | 5:02 | 2023-12-22 |  |
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [There Is No Music](https://open.spotify.com/track/3zJ8fYyoaAMOkQbhb86Yxb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 6:08 | 2022-02-10 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-11-12 |  |

@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 271160,
       "name": "Jeg er en by",
       "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
@@ -2292,6 +2292,28 @@
       "duration_ms": 213920,
       "name": "Jordsjuk",
       "url": "https://open.spotify.com/track/2NdDmQVO610U8ktnWlwhcQ"
+    },
+    {
+      "album": {
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/35zPbkQMTbuFydsC263MFl"
     },
     {
       "album": {

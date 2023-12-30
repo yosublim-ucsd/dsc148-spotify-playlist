@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,205 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,302 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
 | 2 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
-| 3 | [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 |
+| 3 | [ACID GUNZX](https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:46 |
 | 4 | [FINAL CHAMPION](https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:07 |
 | 5 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 |
 | 6 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [Home](https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak) | [Shaun Mbah](https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb) | [Home](https://open.spotify.com/album/38ltBimsfXSIt42l5wXP9W) | 2:53 |
 | 90 | [Steady Raging](https://open.spotify.com/track/3PAY5N7jcGGfgtZY6RrBfc) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS) | [Let's Start a Riot](https://open.spotify.com/album/5qwUm4V3XqyEgOMTRgMQto) | 2:13 |
 
-Snapshot ID: `MCwxYjJmZWVlMGI5YTIzYmFjNTIxZGEzZGU0MDBmMDIzZjNlNDExMGJk`
+Snapshot ID: `MCxiM2Q4ZGQyODJmN2Q0ZTQ1OTdlZmRhNTY0NDI1YTQ0OTg4ZDVlZmJk`

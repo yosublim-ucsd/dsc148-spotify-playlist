@@ -6,86 +6,210 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDAzNmI5Y2FiOGQ0MzgwNGUwNDFjZTMxNGJhZTJkODAzZA==",
+  "snapshot_id": "MjgzOTcxMDAsMDAwMDAwMDA1YzZiZjc2ODUzYWI1N2Y0N2JiMzJkNWNmM2Y4ZGRmOA==",
   "tracks": [
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Swarm Tactics",
-        "url": "https://open.spotify.com/album/6nnhcnPe3Yk8XAtISwc7qn"
+        "name": "leave in five (with MisterWives)",
+        "url": "https://open.spotify.com/album/3j5q6hVFznb22ICOJThuTL"
       },
       "artists": [
         {
-          "name": "Blacklovefresh",
-          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 217945,
+      "name": "leave in five",
+      "url": "https://open.spotify.com/track/6MhxEsnxu5rGYGLjVJ7H1i"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Caspa Clark- Ninja Warrior",
+        "url": "https://open.spotify.com/album/50hfWF7oWKIoM63p6XXeFY"
+      },
+      "artists": [
+        {
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Savage Vibez",
+      "url": "https://open.spotify.com/track/0rY3BNukE0Dcm4Z3h5U4nO"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Decapitation Chamber",
+        "url": "https://open.spotify.com/album/4599NgmjSfdjeNgq1iarXi"
+      },
+      "artists": [
+        {
+          "name": "Lazarus",
+          "url": "https://open.spotify.com/artist/5KZfRaQHfjizCZsoRV9vqA"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Yct Phenom",
-          "url": "https://open.spotify.com/artist/2qLsHoDJporJBqTeVae7Hk"
+          "name": "DJ Symphony",
+          "url": "https://open.spotify.com/artist/75nXQyLeB5YjzE7LV8l5gx"
         }
       ],
-      "duration_ms": 205530,
-      "name": "Swarm Tactics",
-      "url": "https://open.spotify.com/track/4fZixz1BVUnWvRo26iGUno"
+      "duration_ms": 216082,
+      "name": "Decapitation Chamber",
+      "url": "https://open.spotify.com/track/7hkx7WJoBglksDJXL0ujoD"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Trillstatik 3",
-        "url": "https://open.spotify.com/album/48A3ZaH8Vdt9Q5ccZtyEEu"
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
       },
       "artists": [
         {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "JFK",
-          "url": "https://open.spotify.com/artist/1GWCTwPBXPO49TNRMzs5Lv"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 125225,
-      "name": "Set In Stone",
-      "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
+      "duration_ms": 171827,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Poison Clan Rocks The World B-More Venoms",
-        "url": "https://open.spotify.com/album/4xiCUq9H7VxzMdGvZLf2is"
+        "name": "Mwaki (Ti\u00ebsto's VIP Mix)",
+        "url": "https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe"
       },
       "artists": [
         {
-          "name": "Blacklovefresh",
-          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Skarr Akbar",
-          "url": "https://open.spotify.com/artist/0WkNLQDIpye3XsveNDSqtC"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 280476,
-      "name": "Born Wit It",
-      "url": "https://open.spotify.com/track/0V6Nb1GJbWtNMgSmoHXTQ1"
+      "duration_ms": 160439,
+      "name": "Mwaki - Ti\u00ebsto's VIP Mix",
+      "url": "https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "duration_ms": 167993,
+      "name": "Bumsbar - Konzert Mix",
+      "url": "https://open.spotify.com/track/10YUHph4tvranin73hlyk0"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Dirty Pop EP",
+        "url": "https://open.spotify.com/album/13oU4JYH1olLGNjZZcWYq0"
+      },
+      "artists": [
+        {
+          "name": "Dirty Pop",
+          "url": "https://open.spotify.com/artist/1P9qwyWSWUTlfirGYw3epr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/3w9WnM30pp0TEby6LupUX8"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Lace It (with Eminem & benny blanco)",
+        "url": "https://open.spotify.com/album/2GWbJqFPEi1FGC9DnBRbk1"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Lace It (with Eminem & benny blanco)",
+      "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Very Important Remixes",
+        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
+      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Shade of Blue",
         "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
@@ -113,7 +237,35 @@
       "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Trillstatik 3",
+        "url": "https://open.spotify.com/album/48A3ZaH8Vdt9Q5ccZtyEEu"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "JFK",
+          "url": "https://open.spotify.com/artist/1GWCTwPBXPO49TNRMzs5Lv"
+        }
+      ],
+      "duration_ms": 125225,
+      "name": "Set In Stone",
+      "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Lean Wit Me",
         "url": "https://open.spotify.com/album/5Atb2nslVAPtuYQsHFTvxK"
@@ -133,31 +285,7 @@
       "url": "https://open.spotify.com/track/1vyyN86TAPy26pgX4Iv5yZ"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Very Important Remixes",
-        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        },
-        {
-          "name": "Misha K",
-          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
-      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
         "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
@@ -185,7 +313,7 @@
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Mr. McAdams",
         "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
@@ -201,27 +329,7 @@
       "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Power of the Saber Blade",
-        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        },
-        {
-          "name": "Beat Saber",
-          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Power of the Saber Blade",
-      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Bompton King",
         "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
@@ -241,7 +349,27 @@
       "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Power of the Saber Blade",
+        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Beat Saber",
+          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Power of the Saber Blade",
+      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
         "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
@@ -261,7 +389,7 @@
       "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Hackney Diamonds (Live Edition)",
         "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
@@ -277,7 +405,7 @@
       "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "What We're Up Against",
         "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
@@ -301,7 +429,7 @@
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Sans valeurs",
         "url": "https://open.spotify.com/album/6nHSLuslrzpFh1jjQw3Rxt"
@@ -317,115 +445,7 @@
       "url": "https://open.spotify.com/track/0Gmd5KVTh5ZDkFswbvgajB"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/3RapAVSl4bppMqTYwZMfwi"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 162536,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/4Yfp2BQfz2rDx0SuUXcrkY"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Long Story Short: Willie Nelson 90 (Live At The Hollywood Bowl)",
-        "url": "https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        },
-        {
-          "name": "The Food Stamps",
-          "url": "https://open.spotify.com/artist/5pfG3M75POLAstIYjYQA6O"
-        }
-      ],
-      "duration_ms": 181585,
-      "name": "Time of the Preacher - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
-      "url": "https://open.spotify.com/track/4p0Hh9ZRtyFbRROF5ssEoI"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Softly (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Softly - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Tate Kobang",
-          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "RNB (Lil Wayne & Tate Kobang)",
-      "url": "https://open.spotify.com/track/2FnDwGL42mw1mzTE9ZhKwO"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "What're We Doing Here",
         "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Rebel Diamonds",
         "url": "https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
@@ -497,7 +517,23 @@
       "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "CHRYSALIS",
+        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "COMPANY",
+      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Flying Objects (Extended Version)",
         "url": "https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a"
@@ -529,23 +565,7 @@
       "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "CHRYSALIS",
-        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "COMPANY",
-      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Life's a Sugar Pill",
         "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Schoenberg: Suite for Piano, Op. 25: VI. Gigue (Musical Moments)",
         "url": "https://open.spotify.com/album/76tMrjiiyTkRO0GyzEDVED"
@@ -581,31 +601,7 @@
       "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "One of the Girls",
-        "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
-        }
-      ],
-      "duration_ms": 215952,
-      "name": "One Of The Girls - Sped Up",
-      "url": "https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Out The Door",
         "url": "https://open.spotify.com/album/3QECMke3JUHn8JKuWTWVeV"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Facing The Sideways Rain",
         "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"

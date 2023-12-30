@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,228 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,243 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 22 | [I'm Coming Home \(To See My Mother\)](https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues](https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF) | 3:19 |
 | 23 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
 | 24 | [I'm A Lover Not A Fighter](https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO) | [Lazy Lester](https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV) | [I Hear You Knockin'!](https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk) | 2:45 |
-| 25 | [Accentuate The Positive](https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 2:24 |
+| 25 | [Yellow Dog Blues](https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Plays W\. C\. Handy](https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2) | 4:15 |
 | 26 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
 | 27 | [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 |
 | 28 | [Trick Bag](https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn), [Sam Charters](https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP) | [The Sonet Blues Story](https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx) | 3:08 |
-| 29 | [Yellow Dog Blues](https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Plays W\. C\. Handy](https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2) | 4:15 |
+| 29 | [Accentuate The Positive](https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 2:24 |
 | 30 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 |
 | 31 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
 | 32 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
 | 40 | [Dark Clouds Rollin'](https://open.spotify.com/track/4VU7zTodGQKwJh5295pflB) | [Silas Hogan](https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d) | [Louisiana Swamp Blues Vol\. 6](https://open.spotify.com/album/14nEVobg09hiQy9tY1cFFa) | 2:55 |
 
-Snapshot ID: `MCwxNWE2Zjc2NTUwNmExMTRiNWI0ZDM2ZDg5ZGI5YTU1MTgyNzBhYzI3`
+Snapshot ID: `MCw5OTI1ODFiODViNjFiYzE3YWVmNDJkNWEzNDIyYTIyMDE0ZTY3OGZi`

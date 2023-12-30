@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 196859,
+  "num_followers": 197254,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M3ZDBlMzQzNzk1YWVmOGZlNGE3OWQzMjA4OGE2NWFkZWY2YWFj",
+  "snapshot_id": "MCxjZTFmNjQ0YTkwZWFlZTA0YzE4OTY2NTJkNzQyMmJmN2VjN2IxMzdi",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "35 Exitos",
         "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 125906,
       "name": "La cama de piedra",
       "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "M\u00e9xico Gran Colecci\u00f3n Ranchera: Jorge Negrete",
-        "url": "https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 135418,
-      "name": "Alla en el Rancho Grande",
-      "url": "https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Yo Soy Mexicano",
         "url": "https://open.spotify.com/album/5VZBNCZlegrwEBbmgWryRE"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 208440,
       "name": "Juan Charrasqueado",
       "url": "https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "M\u00e9xico Gran Colecci\u00f3n Ranchera: Jorge Negrete",
+        "url": "https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 135418,
+      "name": "Alla en el Rancho Grande",
+      "url": "https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs"
     }
   ],
   "unique_name": "Charros de Oro",

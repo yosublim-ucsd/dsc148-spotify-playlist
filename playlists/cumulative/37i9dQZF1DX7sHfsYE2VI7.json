@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL"
+    },
+    {
+      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 391000,
       "name": "Suntoucher",
       "url": "https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb"

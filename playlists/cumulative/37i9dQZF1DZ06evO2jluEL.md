@@ -4,7 +4,7 @@
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-52 songs - 4 hr 29 min
+53 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Deus Conhece](https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab) | 4:56 | 2023-07-09 |  |
 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 | 2023-07-09 |  |
 | [Doce Presença](https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 3:32 | 2023-07-09 |  |
+| [Dá\-me Ouvidos](https://open.spotify.com/track/23o46vvYcaJLGQomYj24c0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 5:19 | 2023-12-29 |  |
 | [Eu Dependo de Deus](https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 5:01 | 2023-07-09 |  |
 | [Eu Vou Vencer](https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:41 | 2023-07-09 |  |
 | [Fala Comigo](https://open.spotify.com/track/0muW7QDLTKANNZunJUR3j1) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 4 \- 24h por Dia](https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA) | 4:41 | 2023-07-09 |  |
@@ -35,7 +36,7 @@
 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 | 2023-07-09 |  |
 | [Meu Prazer](https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Márcio Pereira](https://open.spotify.com/artist/0qdCtA4DBrgIcS3hdL6ZcB), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 5:07 | 2023-07-09 |  |
 | [Milhares de Milhares](https://open.spotify.com/track/2Hkp20ozKGXEj6cBsCWpbq) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 6:58 | 2023-07-09 |  |
-| [Nas Mãos do Oleiro](https://open.spotify.com/track/08N7NWeuMRKPNM86GZDcCP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:34 | 2023-07-09 |  |
+| [Nas Mãos do Oleiro](https://open.spotify.com/track/08N7NWeuMRKPNM86GZDcCP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:34 | 2023-07-09 | 2023-12-30 |
 | [No Meio de uma Tempestade](https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 4:44 | 2023-07-09 |  |
 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 | 2023-07-09 |  |
 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 | 2023-07-09 |  |

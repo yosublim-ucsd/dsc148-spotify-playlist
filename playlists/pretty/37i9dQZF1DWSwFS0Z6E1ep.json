@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 238707,
+  "num_followers": 239108,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzEwN2NkY2UyYjExYzM1Zjg4ZDg0YmNkOTdiMjBhNmVmZWVlYTNh",
+  "snapshot_id": "MCwxODU4MWQwNTYxZmY3MGQ4ZjJiY2FmZGY4OTVmMDVkZDBmZjg0M2Vk",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 152200,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -671,26 +687,6 @@
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 150960,
-      "name": "Peggy Sue",
-      "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -711,18 +707,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 150866,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+      "duration_ms": 150960,
+      "name": "Peggy Sue",
+      "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -759,38 +759,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 128399,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -823,6 +807,22 @@
       "duration_ms": 142453,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Sweet Little Sixteen",
+      "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Sweet Little Sixteen",
-      "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Canadian Crew",
-        "url": "https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "Sh-Boom (Life Could Be a Dream)",
-      "url": "https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "One Dozen Berry's",
         "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 151773,
       "name": "Rock And Roll Music",
       "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Canadian Crew",
+        "url": "https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "Sh-Boom (Life Could Be a Dream)",
+      "url": "https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Wonderful One",
         "url": "https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 147828,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "The Cadence Years, Vol. 1",
+        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 391426,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Cadence Years, Vol. 1",
-        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Gonna Romp and Stomp / Bad Girl",
-        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
-      },
-      "artists": [
-        {
-          "name": "Slim Rhodes",
-          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "Gonna Romp and Stomp",
-      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
-        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
+        "name": "Gonna Romp and Stomp / Bad Girl",
+        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
       },
       "artists": [
         {
-          "name": "Warren Smith",
-          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+          "name": "Slim Rhodes",
+          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
         }
       ],
-      "duration_ms": 170084,
-      "name": "Rock 'n' Roll Ruby",
-      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
+      "duration_ms": 138374,
+      "name": "Gonna Romp and Stomp",
+      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
+        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
+      },
+      "artists": [
+        {
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+        }
+      ],
+      "duration_ms": 170084,
+      "name": "Rock 'n' Roll Ruby",
+      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The King of Rockabilly (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 132866,
       "name": "Everybody's Trying to Be My Baby - Remastered 2022",
       "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1795,22 +1811,6 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Recording Artist - Rosco Gordon",
-        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 156088,
-      "name": "Bop With Me Baby",
-      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Marty: A Lifetime In Music 1957-2019",
         "url": "https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 140533,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records Recording Artist - Rosco Gordon",
+        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Bop With Me Baby",
+      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Something for Nothing / Little Fine Healthy Thing",
         "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly 50",
         "url": "https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 117111,
       "name": "Hey Baby Doll",
       "url": "https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 141785,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' with My Baby / It's Me Baby",
         "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 140984,
       "name": "Rockin' with My Baby",
       "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 141785,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
     },
     {
       "added_at": "2022-06-07 05:25:13",

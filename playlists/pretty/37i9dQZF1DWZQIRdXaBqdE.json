@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 390823,
+  "num_followers": 391052,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzRiOGEwZjgzNDM0YmExMmI3MzZkMzI5NDZmNTgyZDEzMWMwYjYz",
+  "snapshot_id": "MCw1NzA3MmJhYmY1ODZhMzhjMGY5ZDg3OGM3YmE5NDY4M2Y0MDA4Njg4",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "East Bound and Down",
-        "url": "https://open.spotify.com/album/6T5ljAT08JRLgPclFln5qH"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/4NzlpYVrTYG1eo8BCu3MLB"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195346,
       "name": "Tulsa Time",
       "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "East Bound and Down",
+        "url": "https://open.spotify.com/album/6T5ljAT08JRLgPclFln5qH"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "East Bound and Down",
+      "url": "https://open.spotify.com/track/4NzlpYVrTYG1eo8BCu3MLB"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+      "duration_ms": 228173,
+      "name": "Paint Me A Birmingham",
+      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Paint Me A Birmingham",
-      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Essential Alabama 3.0",
         "url": "https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179533,
       "name": "Leaving Louisiana In The Broad Daylight",
       "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Ultimate Dolly Parton",
+        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+      "duration_ms": 249293,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -891,18 +895,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -923,22 +927,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Ultimate Dolly Parton",
-        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Islands In the Stream",
-      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 153200,
       "name": "Mammas, Don't Let Your Babies Grow Up to Be Cowboys",
       "url": "https://open.spotify.com/track/1gKSpFpX3poa17WIAyFVsp"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Chiseled In Stone",
         "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 145200,
       "name": "Set 'Em Up Joe",
       "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Walking the Line",
+        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Walking the Line",
-        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Very Best Of David Frizzell & Shelly West",
         "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 195133,
       "name": "Who's Gonna Fill Their Shoes",
       "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Baby Don't Get Hooked On Me",
         "url": "https://open.spotify.com/album/2xFMzRc1yucPQIk8P0CcxM"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
-      },
-      "artists": [
-        {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "All-Time Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 134400,
       "name": "I've Got A Tiger By The Tail",
       "url": "https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
+      },
+      "artists": [
+        {
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2023-08-21 00:02:44",

@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Nabi, Tony Boy, Gemitaiz, Medy e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di Salmo, Nabi, Tony Boy, Gemitaiz e tanti altri.
 
-2,832 songs - 5 day 8 hr 16 min
+2,833 songs - 5 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [A POCO](https://open.spotify.com/track/1UI8NDos8s33amn4b0bFpi) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [A POCO](https://open.spotify.com/album/7x2KF5t9dTLCWKwGxs15aT) | 1:42 | 2023-09-14 | 2023-10-06 |
 | [A Te](https://open.spotify.com/track/2FfW4nOJAwdkDA4mqV2acv) | [Cromo](https://open.spotify.com/artist/1oZePnbK6Qe8NewfhLhJWF) | [Loco](https://open.spotify.com/album/2nS05bLw8MFc4uaFn7tKQv) | 2:38 | 2023-04-20 | 2023-05-05 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-06-30 | 2022-08-05 |
+| [A TE E FAMIGLIA](https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [A TE E FAMIGLIA](https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D) | 2:51 | 2023-12-28 |  |
 | [A VUO FRNÌ](https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [A VUO FRNÌ](https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji) | 2:59 | 2023-11-17 | 2023-11-24 |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-04 | 2022-11-25 |
 | [A+](https://open.spotify.com/track/1vrdFpluU9oMiX2Quh75iW) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh) | [A+](https://open.spotify.com/album/6H7eEpGRjUyBER3Qyq0wkZ) | 1:43 | 2022-11-18 | 2022-12-02 |
@@ -1660,7 +1661,7 @@
 | [Mood](https://open.spotify.com/track/1OpRSagCpHTm4i8l8DWwJF) | [YOUNGGUCCI](https://open.spotify.com/artist/7H20paGoAca5bp3V3K3svi) | [Mood](https://open.spotify.com/album/7DZjUltdRb2F38DYmLykjd) | 3:17 | 2022-05-19 | 2022-06-10 |
 | [Moonwalking](https://open.spotify.com/track/639T7wdrTdOwhXwXIHU2MI) | [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [Moonwalking](https://open.spotify.com/album/62HDRAHx09HwPTrJDCsmWH) | 2:38 | 2022-10-20 | 2022-11-04 |
 | [Moped](https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Moped](https://open.spotify.com/album/2aPFHvvfAtAfDXtQ5jHNxS) | 2:14 | 2023-04-27 | 2023-05-19 |
-| [Morire](https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Morire](https://open.spotify.com/album/4dSRjaXGU5uh7E2i8rppWI) | 2:32 | 2023-12-07 |  |
+| [Morire](https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Morire](https://open.spotify.com/album/4dSRjaXGU5uh7E2i8rppWI) | 2:32 | 2023-12-07 | 2023-12-30 |
 | [Moshpit](https://open.spotify.com/track/1Ymh2mboYz0jzwnsQc6xAB) | [Knowpmw](https://open.spotify.com/artist/17krypRYPb6x6ojBgFuhLx) | [Moshpit](https://open.spotify.com/album/7IWedGLJrqHF1g4tUyiATN) | 2:07 | 2023-01-12 | 2023-01-20 |
 | [Mostri](https://open.spotify.com/track/11bFnA1WqHL7Em2HlFX81Y) | [HOLY GA](https://open.spotify.com/artist/3fo7qEbaPHE3aHmilJYiK7) | [Mostri](https://open.spotify.com/album/5yUak2zyA4Rd9t0iQOobnQ) | 2:25 | 2023-01-19 | 2023-01-27 |
 | [mostri lovers](https://open.spotify.com/track/4Cfmb6VYYsGuigxl0sqAoJ) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [mostri lovers](https://open.spotify.com/album/1UYOUC7DmoaOwTsbHzzObL) | 2:58 | 2023-07-20 | 2023-08-25 |

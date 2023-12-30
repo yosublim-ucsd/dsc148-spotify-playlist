@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,792 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,976 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 2 | [Tum Aaye Ho Toh](https://open.spotify.com/track/7d2k1S52ohPqOkw2tcreS4) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Tum Aaye Ho Toh](https://open.spotify.com/album/0qUCgrLRa9JCNVtxq3frR4) | 4:18 |
 | 3 | [Baahon Mein Teri \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/10iPsqVBevgJOVj77WnaPe) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 4:43 |
-| 4 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 |
+| 4 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 |
 | 5 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 |
 | 6 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
 | 7 | [Haule Se](https://open.spotify.com/track/0cwluZ190b1ZPXG8jMBhwn) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haule Se](https://open.spotify.com/album/3z3m2MnZZxweHa53fr9pT8) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tootey Hai Hum](https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mugdha Hasbanis](https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 3:40 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCxiODMxMDUxNzM3ZjEyNWE1NGIzNmE0MmU5NTY1YjcwZDU2NzUyNzE1`
+Snapshot ID: `MCwyNzFhOTZmNzU3ZWMzMzRhNDM0OWM3MTMwZDhjMDQxNGZmODNlMzBh`

@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 137793,
+  "num_followers": 137996,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRiNDhiMWJhNmRkMjBhNzYyNmFmYjg0MzhlNjU0ZjBmMTQzOWNh",
+  "snapshot_id": "MCw4MzI4NWM2ZjA0NzgxYmI3M2FhMmMyMjNmOTQ3ZjAwYjMzYWZhOThl",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -335,22 +335,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Fitchburg Street",
-        "url": "https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw"
-      },
-      "artists": [
-        {
-          "name": "Doyle Bramhall",
-          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Life by the Drop",
-      "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Fitchburg Street",
+        "url": "https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw"
+      },
+      "artists": [
+        {
+          "name": "Doyle Bramhall",
+          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -455,22 +455,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Buddy Whittington",
-        "url": "https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp"
-      },
-      "artists": [
-        {
-          "name": "Buddy Whittington",
-          "url": "https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Pay the Band",
-      "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "The Story of Sonny Boy Slim",
         "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 173000,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Buddy Whittington",
+        "url": "https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Whittington",
+          "url": "https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Pay the Band",
+      "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -743,6 +743,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Texas Guitar Slinger",
+        "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
+      },
+      "artists": [
+        {
+          "name": "Joe \"Guitar\" Hughes",
+          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "A Blue Song",
+      "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Electric Blues",
         "url": "https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 299853,
       "name": "I'm About to Lose My Mind",
       "url": "https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Texas Guitar Slinger",
-        "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
-      },
-      "artists": [
-        {
-          "name": "Joe \"Guitar\" Hughes",
-          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "A Blue Song",
-      "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
     },
     {
       "added_at": "2018-02-27 16:43:49",

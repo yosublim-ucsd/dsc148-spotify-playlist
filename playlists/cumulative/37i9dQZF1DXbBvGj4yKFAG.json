@@ -1416,7 +1416,7 @@
     {
       "album": {
         "name": "old songs",
-        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
+        "url": "https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7"
       },
       "artists": [
         {
@@ -1427,6 +1427,24 @@
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 63934,
+      "name": "i'm going to fail my class",
+      "url": "https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q"
+    },
+    {
+      "album": {
+        "name": "old songs",
+        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
+      },
+      "artists": [
+        {
+          "name": "mage tears",
+          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
       "duration_ms": 63934,
       "name": "i'm going to fail my class",
       "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"

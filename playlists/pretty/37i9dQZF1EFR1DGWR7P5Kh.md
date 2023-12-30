@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 32 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 718 likes - 32 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 |
 | 2 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
-| 3 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 3 | [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 |
 | 4 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 |
 | 5 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 |
 | 6 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 31 | [One Time](https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 4:22 |
 | 32 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `MjgzOTQwNTAsMDAwMDAwMDA3ODgzZjExYjI1MzA2MjY1OWVkNTFhNTg1MzVlZTk4ZA==`
+Snapshot ID: `MjgzOTgzNzAsMDAwMDAwMDA4OWMwMjU1M2Y4NWY4NWRjYmIzZjRiNDgwYzYxNDAwMg==`

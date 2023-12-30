@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Acting Like ILY / Any Jungle",
+        "url": "https://open.spotify.com/album/6kC6I2FG23uyj9xfNBgNYE"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Acting Like ILY",
+      "url": "https://open.spotify.com/track/45is1yT2W6tO8azc9ssZwX"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/34PRqIXi8aFVD7UI0BrA22"
       },
@@ -170,6 +188,24 @@
       "duration_ms": 159375,
       "name": "Assumptions (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/03j8OmSMpzzdl0lS31kiBB"
+    },
+    {
+      "album": {
+        "name": "Live & Direct / Axelerator",
+        "url": "https://open.spotify.com/album/35YKQ8jA0fr5nyD6zmoPTy"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Axelerator",
+      "url": "https://open.spotify.com/track/2ZwJMnIA3Lg02Q3Zd3a1HA"
     },
     {
       "album": {
@@ -999,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Dancefloor",
+        "url": "https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE"
+    },
+    {
+      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/2kXFxJUhpKvnt8NqyDGROL"
       },
@@ -1338,7 +1392,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 215708,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
@@ -1905,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "HAMMER (FIRE AGAIN)",
+      "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "album": {
         "name": "Be Mine / Harder",
         "url": "https://open.spotify.com/album/3GVb1oZONNtDwxmCoPyOt2"
       },
@@ -2124,6 +2200,28 @@
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
+    },
+    {
+      "album": {
+        "name": "Don Malaa \u2013 After Hours",
+        "url": "https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291102,
+      "name": "How it is - Subshift Remix",
+      "url": "https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF"
     },
     {
       "album": {
@@ -2726,7 +2824,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 195697,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/2mgYFBHNtU8ur5MB7wJs5C"
@@ -2918,7 +3016,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 176640,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/4IqH5YN7ujdJmsvUuJs6YW"
@@ -2994,7 +3092,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 186933,
       "name": "Move With Tha",
       "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
@@ -3374,7 +3472,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 202462,
       "name": "On My Line",
       "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
@@ -3572,7 +3670,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 165000,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/7yFfFSxMZKLiirS1r0TZEK"
@@ -3630,7 +3728,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 251613,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
@@ -4007,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "MULTIPLICITY",
+        "url": "https://open.spotify.com/album/1ej8yqRN2IM5SVUHXYgq0O"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4bxlUbXBRevcWUsD4Kf2Bt"
+    },
+    {
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/5fWF12Q6i1SENEL2pfafMP"
       },
@@ -4130,7 +4246,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 219375,
       "name": "Share My Love",
       "url": "https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf"
@@ -4242,7 +4358,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 191445,
       "name": "Sometimes I Get",
       "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
@@ -4348,7 +4464,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 226992,
       "name": "Steppin",
       "url": "https://open.spotify.com/track/2U8VSzt3VUxDud3AvXIBZe"
@@ -4596,7 +4712,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 208129,
       "name": "The Funktion",
       "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
@@ -5236,7 +5352,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 241875,
       "name": "When the beat Bang",
       "url": "https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l"
@@ -5396,7 +5512,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 199218,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/5kM3cpM7CKCXxcOANzLKJ2"
@@ -5414,7 +5530,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 320000,
       "name": "Yo",
       "url": "https://open.spotify.com/track/7AoYfh1jh8NUiwnLkVFzDD"

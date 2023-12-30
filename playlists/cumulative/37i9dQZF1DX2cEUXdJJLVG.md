@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-295 songs - 17 hr 45 min
+296 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2022-09-09 | 2022-10-14 |
 | [Backpack](https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Backpack](https://open.spotify.com/album/23VitqlOhg49f9RSxVNqAF) | 5:11 | 2022-09-09 | 2023-12-15 |
 | [Basement Party](https://open.spotify.com/track/51aHgbHQoLHS2t10mJhWHg) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Basement Party](https://open.spotify.com/album/1NiUXeZA7qJoy3Yc0Q4NbU) | 4:04 | 2023-12-14 |  |
+| [be like that](https://open.spotify.com/track/0m3vkFhDCpZfkh0Si3AEEt) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [no sleep in LA \- deluxe edition](https://open.spotify.com/album/5WDCUqOIXtmhICXT1c9fYl) | 2:29 | 2023-12-28 |  |
 | [Be Mine Tonight](https://open.spotify.com/track/37TmjR8M8jWOCZp9YqHJkB) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Delafleur](https://open.spotify.com/artist/7FdVxrLShXIz1P2mWMKuOX) | [Be Mine Tonight](https://open.spotify.com/album/6QfbCqUEbhG3L4dXBOS3JN) | 2:50 | 2022-09-09 | 2022-10-15 |
 | [Be Thankful For What You’ve Got](https://open.spotify.com/track/3UfyMJ6JzeBNqjLUgGHKR2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Be Thankful For What You’ve Got](https://open.spotify.com/album/1hrfBmXwtZo4X82uEayn3M) | 3:50 | 2022-09-09 |  |
 | [Be You \- The Vapor Caves Remix](https://open.spotify.com/track/3qvKMkPes45nAwjlTMyXnp) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [The Vapor Caves](https://open.spotify.com/artist/0CJqQk3cv4aRT9j5c9DJ95) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 4:08 | 2023-06-01 |  |

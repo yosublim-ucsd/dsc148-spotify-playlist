@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joey B
 
-538 songs - 1 day 2 hr 18 min
+539 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Abansi](https://open.spotify.com/track/4cpgs6woge57Zlh89Z7UFm) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Abansi](https://open.spotify.com/album/79kWLNGCwbaMgi879WXuwA) | 1:05 | 2023-07-20 | 2023-07-28 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-24 | 2022-12-09 |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-02 | 2022-12-02 |
-| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 |  |
+| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 | 2023-12-30 |
+| [ACID GUNZX](https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:46 | 2023-12-22 |  |
 | [Action](https://open.spotify.com/track/6GynhMpLIO4E0LtjIVyFWI) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Action](https://open.spotify.com/album/0TP1u2BmtOuMhOqbj9PJIC) | 2:18 | 2022-06-30 | 2022-09-10 |
 | [ACTIVE](https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y) | [ACTIVE](https://open.spotify.com/album/3DbKlFlBI0yjzjTOYJIgKR) | 3:02 | 2023-12-08 |  |
 | [Addicted](https://open.spotify.com/track/192ciZ16D6JInKOktNTD02) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:30 | 2022-06-30 | 2022-10-14 |

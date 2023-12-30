@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 281673,
+  "num_followers": 281847,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjczZGE5MWU5OGUyMGJhZTZmMDliYjM1OGZmODIzZWU1NDBkMzc3",
+  "snapshot_id": "MCwzNGFhNTA5ZGQwMTlmNTg2OGRjZWU4ZDc3MTQwYjE1N2MwNzA3ODY2",
   "tracks": [
     {
       "added_at": "2023-12-15 20:41:19",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -307,22 +327,26 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -347,30 +371,6 @@
       "duration_ms": 142816,
       "name": "One in a Million - Alok Remix",
       "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
+        "name": "Drinkee (Vintage Culture & John Summit Remix)",
+        "url": "https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Drinkee - Vintage Culture & John Summit Remix",
+      "url": "https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -599,6 +623,26 @@
       "duration_ms": 221885,
       "name": "You Were Loved (with OneRepublic)",
       "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -627,46 +671,26 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
+        "name": "Devotion (2020 Remix)",
+        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
         },
         {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Fafaq",
+          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Psycho Killer",
-      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "Drinkee (Vintage Culture & John Summit Remix)",
-        "url": "https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Drinkee - Vintage Culture & John Summit Remix",
-      "url": "https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy"
+      "duration_ms": 152131,
+      "name": "Devotion - 2020 Remix",
+      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -691,30 +715,6 @@
       "duration_ms": 172250,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/6cDVw32EV7JgKc4bJMvE5f"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "Devotion (2020 Remix)",
-        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        },
-        {
-          "name": "Fafaq",
-          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
-        }
-      ],
-      "duration_ms": 152131,
-      "name": "Devotion - 2020 Remix",
-      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Club Zero Cool, Vol. 2",
-        "url": "https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Feels Like Love",
-      "url": "https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
         "name": "Lambada",
         "url": "https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 211707,
       "name": "Lambada",
       "url": "https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Club Zero Cool, Vol. 2",
+        "url": "https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Feels Like Love",
+      "url": "https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP"
     }
   ],
   "unique_name": "Suor EDM",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56479,
+  "num_followers": 56560,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGZhNjFjNjcwNWE4MTYxNDU4MjMzODNiNGFjY2UzYjkwZGMwZDMw",
+  "snapshot_id": "MCw0NWMzYWU4ODViNzMzZjU2ZmE5ODc4OTExNTg0Y2Q3ZGI0YzJjY2Q1",
   "tracks": [
     {
       "added_at": "2023-12-12 05:37:45",
@@ -97,10 +97,26 @@
       "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
     },
     {
-      "added_at": "2023-12-22 10:25:20",
+      "added_at": "2023-12-29 05:58:59",
       "album": {
-        "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
-        "url": "https://open.spotify.com/album/3TAsU0sWj2HJvVzrv6IzBK"
+        "name": "Oh Manuja (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/44bNJORYmLvGc8jLKJjvn8"
+      },
+      "artists": [
+        {
+          "name": "Deepak Venugopal",
+          "url": "https://open.spotify.com/artist/3jtUn32g8azXv3aOygJIWv"
+        }
+      ],
+      "duration_ms": 197034,
+      "name": "Oh Manuja (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/4CY6goQSAHxsW7E49qGd7Z"
+    },
+    {
+      "added_at": "2023-12-29 05:59:35",
+      "album": {
+        "name": "Geleya (From \"Salaar Cease Fire - Kannada\")",
+        "url": "https://open.spotify.com/album/6zLl6aU0S0gX1fK8qxcbcX"
       },
       "artists": [
         {
@@ -108,13 +124,13 @@
           "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
         },
         {
-          "name": "Ravi Basrur and Team",
-          "url": "https://open.spotify.com/artist/7Izuio7qwe8nqf5T2ReoC4"
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
         }
       ],
-      "duration_ms": 187058,
-      "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
-      "url": "https://open.spotify.com/track/3IM1xDonQRaK2dlxD2D5lN"
+      "duration_ms": 195000,
+      "name": "Geleya (From \"Salaar Cease Fire - Kannada\")",
+      "url": "https://open.spotify.com/track/5bbwl8HDP5UO4CHU4DoamL"
     },
     {
       "added_at": "2023-12-21 14:10:28",
@@ -139,6 +155,26 @@
       "duration_ms": 275241,
       "name": "Hathurina Deepa (From \"Ranga Samudra\")",
       "url": "https://open.spotify.com/track/3FTIz33oSuRWxiAdVKw9ue"
+    },
+    {
+      "added_at": "2023-12-29 06:00:37",
+      "album": {
+        "name": "Maaye and Company",
+        "url": "https://open.spotify.com/album/1StSx08pHgQQhxI5OC8PZv"
+      },
+      "artists": [
+        {
+          "name": "Vidwan Shankar Shanbog",
+          "url": "https://open.spotify.com/artist/6NhTdAlKjOVEa5K2PjG5ur"
+        },
+        {
+          "name": "Siddarth",
+          "url": "https://open.spotify.com/artist/5FBO9WNnoLsMVhJjLSpKE4"
+        }
+      ],
+      "duration_ms": 220148,
+      "name": "Bangara Jinke Inde",
+      "url": "https://open.spotify.com/track/46TCLkszjStp1FOkvZr6KH"
     },
     {
       "added_at": "2023-12-15 12:12:22",
@@ -179,6 +215,26 @@
       "duration_ms": 229426,
       "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
       "url": "https://open.spotify.com/track/6hPq0V8yd4qHP64V6aFfEw"
+    },
+    {
+      "added_at": "2023-12-22 10:25:20",
+      "album": {
+        "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
+        "url": "https://open.spotify.com/album/3TAsU0sWj2HJvVzrv6IzBK"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ravi Basrur and Team",
+          "url": "https://open.spotify.com/artist/7Izuio7qwe8nqf5T2ReoC4"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
+      "url": "https://open.spotify.com/track/3IM1xDonQRaK2dlxD2D5lN"
     },
     {
       "added_at": "2023-12-21 09:17:34",
@@ -1255,7 +1311,7 @@
     {
       "added_at": "2023-11-06 09:44:43",
       "album": {
-        "name": "Kaatera Theme Music (from \"Kaatera\")",
+        "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
         "url": "https://open.spotify.com/album/0Wx7fxuNdWrQDO018q0Kij"
       },
       "artists": [
@@ -1273,7 +1329,7 @@
         }
       ],
       "duration_ms": 95604,
-      "name": "Kaatera Theme Music (from \"Kaatera\")",
+      "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/1DYR3AHIgr155IP3QzWkxG"
     },
     {
@@ -1635,70 +1691,6 @@
       "duration_ms": 252000,
       "name": "Restart (From \"12th Fail\") (Kannada)",
       "url": "https://open.spotify.com/track/7vpRvnjTzSzQV1CFIuDtSj"
-    },
-    {
-      "added_at": "2023-10-17 12:02:20",
-      "album": {
-        "name": "Nenapina Butthi (from \"Vasanthakalada Hoogalu\")",
-        "url": "https://open.spotify.com/album/0WABjnudlWngyLpkVC8B8p"
-      },
-      "artists": [
-        {
-          "name": "Pratham",
-          "url": "https://open.spotify.com/artist/7qsu0SYzX2qKmd9GcUmbOt"
-        },
-        {
-          "name": "Bharath Janardhan",
-          "url": "https://open.spotify.com/artist/1XahZIYu35FIpKehAg9nh5"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Nenapina Butthi (from \"Vasanthakalada Hoogalu\")",
-      "url": "https://open.spotify.com/track/5MpATkYPz61er1KBPs2xod"
-    },
-    {
-      "added_at": "2023-10-12 13:40:46",
-      "album": {
-        "name": "Sugar Factory (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0gulmMVqOnPOimuaKoOgsd"
-      },
-      "artists": [
-        {
-          "name": "Amrita Nayak",
-          "url": "https://open.spotify.com/artist/1dBnrfHsPSWZlx5HMH5FLR"
-        },
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Kabir Rafi",
-          "url": "https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2"
-        }
-      ],
-      "duration_ms": 262512,
-      "name": "Jahapanah (from \"Sugar Factory\")",
-      "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
-    },
-    {
-      "added_at": "2023-10-17 12:02:20",
-      "album": {
-        "name": "Bhavapoorna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Fluq7hrgMb5nUKdqmrMAf"
-      },
-      "artists": [
-        {
-          "name": "M.D.Pallavi",
-          "url": "https://open.spotify.com/artist/5i1cicgbYw5bJeLBKdOJqX"
-        },
-        {
-          "name": "V. Manohar",
-          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
-        }
-      ],
-      "duration_ms": 200416,
-      "name": "Thandani Thandanino",
-      "url": "https://open.spotify.com/track/6gok0id67ERXliiTMqttVP"
     }
   ],
   "unique_name": "Latest Kannada",

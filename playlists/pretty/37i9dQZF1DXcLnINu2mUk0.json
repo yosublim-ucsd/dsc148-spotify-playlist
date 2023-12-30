@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42198,
+  "num_followers": 42245,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl",
+  "snapshot_id": "MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -511,18 +511,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -559,26 +567,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
       "artists": [
         {
           "name": "Van Zee",
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
         }
       ],
-      "duration_ms": 206315,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
+      "duration_ms": 195685,
+      "name": "So Flawless",
+      "url": "https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -751,22 +755,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
       },
       "artists": [
         {
           "name": "Van Zee",
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
         }
       ],
-      "duration_ms": 195685,
-      "name": "So Flawless",
-      "url": "https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx"
+      "duration_ms": 206315,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC"
+      },
+      "artists": [
+        {
+          "name": "zzzcadu",
+          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
+        }
+      ],
+      "duration_ms": 162191,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC"
-      },
-      "artists": [
-        {
-          "name": "zzzcadu",
-          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
-        }
-      ],
-      "duration_ms": 162191,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 257500,
       "name": ".Sais e Minerais",
       "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg"
-      },
-      "artists": [
-        {
-          "name": "Mestre",
-          "url": "https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V"
-        }
-      ],
-      "duration_ms": 188808,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "PESO DA COROA",
         "url": "https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "M3lodia",
-        "url": "https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg"
       },
       "artists": [
         {
-          "name": "Belarmino Nascimento",
-          "url": "https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d"
+          "name": "Mestre",
+          "url": "https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V"
         }
       ],
-      "duration_ms": 235344,
-      "name": "M3lodia",
-      "url": "https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq"
+      "duration_ms": 188808,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1419,6 +1403,22 @@
       "duration_ms": 174315,
       "name": "Selva",
       "url": "https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "M3lodia",
+        "url": "https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz"
+      },
+      "artists": [
+        {
+          "name": "Belarmino Nascimento",
+          "url": "https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d"
+        }
+      ],
+      "duration_ms": 235344,
+      "name": "M3lodia",
+      "url": "https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq"
     },
     {
       "added_at": "2023-12-22 00:00:01",

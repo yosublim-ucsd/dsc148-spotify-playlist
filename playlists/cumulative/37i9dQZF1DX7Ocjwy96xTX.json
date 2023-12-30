@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 259146,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Black Sheep (Brie Larson Vocal Version)",
+        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version",
+      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
+    },
+    {
+      "album": {
         "name": "Into You",
         "url": "https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2"
       },
@@ -792,10 +814,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 228653,
       "name": "Caught In Time, So Far Away",
       "url": "https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "album": {
@@ -2152,7 +2192,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 212307,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6"
@@ -2200,6 +2240,24 @@
       "duration_ms": 246766,
       "name": "Into The Silence",
       "url": "https://open.spotify.com/track/3yW8BYCknGSObrjaaDfn1Z"
+    },
+    {
+      "album": {
+        "name": "Demon Compass",
+        "url": "https://open.spotify.com/album/61jBwWqfPNkDDHUtgKHRax"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/5e7WNpmrKaHtNoyq9XynHM"
     },
     {
       "album": {
@@ -2484,7 +2542,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
@@ -2848,6 +2906,24 @@
       "duration_ms": 156720,
       "name": "Murder Your Memory",
       "url": "https://open.spotify.com/track/5imSIRUGtX4aeRRA81UakE"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "album": {
@@ -3543,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
+    },
+    {
+      "album": {
         "name": "[trauma ray]",
         "url": "https://open.spotify.com/album/7vejvPuK0jnMXpzNiikHsR"
       },
@@ -3738,7 +3832,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 241533,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
@@ -3850,7 +3944,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 189753,
       "name": "Slumbernumb",
       "url": "https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G"
@@ -4496,7 +4590,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 204933,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
@@ -4640,7 +4734,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 134556,
       "name": "wonder if u care",
       "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
@@ -4698,6 +4792,24 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm"
+    },
+    {
+      "album": {
+        "name": "Bad Baby",
+        "url": "https://open.spotify.com/album/6ow2SBsf9mLOVF6VTC8DoV"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "You Weren't There Anymore",
+      "url": "https://open.spotify.com/track/175ndarc5RD9aBMUl9jt2W"
     },
     {
       "album": {

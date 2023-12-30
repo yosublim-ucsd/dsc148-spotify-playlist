@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: AUR
+> Current Pakistani hits under one roof\. Cover: Atif Aslam
 
-109 songs - 7 hr 5 min
+111 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Habibi](https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Habibi](https://open.spotify.com/album/0moKWKFC54L7cybq4HDtT7) | 3:07 | 2023-05-04 | 2023-12-22 |
 | [Happy Hour](https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 3:15 | 2023-05-04 |  |
 | [Hona Tha Pyar](https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Bol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l) | 3:41 | 2023-05-04 |  |
+| [Humsafar](https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA) | [QB](https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb) | [Humsafar \(2011\)](https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH) | 6:21 | 2023-12-29 |  |
 | [Ik Lamha](https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v) | 4:18 | 2023-05-04 |  |
 | [Ik Lamha](https://open.spotify.com/track/70MVLulHguwdhGo7100hsU) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Ik Lamha](https://open.spotify.com/album/6bmCb8UcDltIrFV0mCFaWR) | 4:18 | 2023-05-04 | 2023-11-30 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2023-06-26 |  |
@@ -113,9 +114,10 @@
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-07-31 | 2023-11-30 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-11 | 2023-09-30 |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-11 |  |
-| [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 | 2023-05-04 |  |
+| [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 | 2023-05-04 | 2023-12-30 |
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 | 2023-12-21 |  |
 | [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |
+| [Zindagi](https://open.spotify.com/track/2DaPCl392tphoi2TqslBdG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP) | [Zindagi](https://open.spotify.com/album/7JE3yjCRu0Uxs1eSVstvu7) | 4:09 | 2023-12-29 |  |
 
 \*This playlist was first scraped on 2023-05-05. Prior content cannot be recovered.

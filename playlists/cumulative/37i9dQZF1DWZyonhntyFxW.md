@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-256 songs - 13 hr 3 min
+257 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-15 | 2023-08-19 |
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/4TA9jCeWYJvru5fv3FGAII) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/2dLHncSmks58yzlVvgsGFd) | 3:02 | 2023-08-17 | 2023-08-25 |
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-05-10 | 2022-08-24 |
+| [Msh True](https://open.spotify.com/track/4e9CodHmD7W5Yh4pPo3rBH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 2:48 | 2023-12-29 |  |
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-06 | 2022-08-24 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |
 | [Nargasa](https://open.spotify.com/track/6C3b22RiVowlAiv0aDHvRl) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Nargasa](https://open.spotify.com/album/6auK24zM4t5RIKPC6cI17y) | 2:33 | 2022-05-10 | 2022-07-29 |
@@ -218,7 +219,7 @@
 | [YA7](https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [YA7](https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE) | 2:27 | 2022-09-13 | 2022-11-09 |
 | [Yaba](https://open.spotify.com/track/4CzLzmQVOC0jjTacKi5hEU) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Yaba](https://open.spotify.com/album/0EPLFiYGRSbu7WdWLYbhig) | 3:01 | 2023-08-17 | 2023-09-03 |
 | [YAL BENT YAL AMWAL](https://open.spotify.com/track/4FhiS0mcyUsUlmErYI3Wus) | [Khaled Rossia](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [YAL BENT YAL AMWAL](https://open.spotify.com/album/79vYPems7ABKByaaJ0yAz4) | 3:06 | 2023-12-08 |  |
-| [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 |  |
+| [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 | 2023-12-30 |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 | 2022-12-27 |

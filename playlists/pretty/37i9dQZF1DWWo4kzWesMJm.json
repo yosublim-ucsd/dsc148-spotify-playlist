@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 143510,
+  "num_followers": 143726,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTlhOGFmMDUxMzJlZjYyNDliNTM1NzU1NTg2MTA5ZDg2OTMzNTcw",
+  "snapshot_id": "MCxiYmY3YzFlZDM2Mzg1Yzk1ZjBkOTAwYjM3YWY3Y2ViMmZhZWFjNDQ1",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Tiago",
-      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Tiago",
+      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -635,34 +635,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -683,18 +667,34 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
       "artists": [
         {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\u00c0 nos h\u00e9ros du quotidien",
-      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 218133,
       "name": "Le reste",
       "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\u00c0 nos h\u00e9ros du quotidien",
+      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207400,
       "name": "Bonne id\u00e9e",
       "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Histoires de",
-        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "C'est une belle journ\u00e9e",
-      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Histoires de",
+        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "C'est une belle journ\u00e9e",
+      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "La recette",
         "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 197691,
       "name": "La recette",
       "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+      },
+      "artists": [
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 216400,
       "name": "La vie ne vaut rien",
       "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
-      },
-      "artists": [
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Derri\u00e8re l'amour",
         "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
       },
@@ -1119,18 +1087,34 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
       "artists": [
         {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
         }
       ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1147,6 +1131,22 @@
       "duration_ms": 155800,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+      },
+      "artists": [
+        {
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     },
     {
       "added_at": "2023-11-16 16:29:20",

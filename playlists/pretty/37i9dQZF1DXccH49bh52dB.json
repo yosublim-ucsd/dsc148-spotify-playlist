@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 536799,
+  "num_followers": 537550,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTY0Y2NkNWM3NzVjYjNjNTE3NWEzMjVhYjZhMWJmZTczZTIyNTYx",
+  "snapshot_id": "MCwyMzJlOWUwN2UwY2E3NWFmYjVkOGYwMDhkNGM3ZmY1OWNlNTk4OTll",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 220573,
       "name": "Middle",
       "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "The Ocean (feat. Shy Martin)",
+        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "The Ocean (feat. Shy Martin)",
+      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -935,22 +935,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 180120,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -975,22 +975,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sick Boy",
-        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 180120,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sick Boy",
-        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Drew Love",
-          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "THE NIGHTDAY",
         "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
       },
@@ -1335,22 +1335,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw"
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
         }
       ],
-      "duration_ms": 218964,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1"
+      "duration_ms": 221986,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 201938,
       "name": "Goodbye (feat. Lyse) - Radio Edit",
       "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Stop Loving You",
         "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
       },
@@ -1519,46 +1499,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/3nShNINlg4p0DhOQAfIKQt"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 171233,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0L5dwOLG1xpw9oD5FcyQak"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Cut Your Teeth (Kygo Remix)",
-        "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
-      },
-      "artists": [
-        {
-          "name": "Kyla La Grange",
-          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 399013,
-      "name": "Cut Your Teeth - Kygo Remix",
-      "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1583,6 +1539,50 @@
       "duration_ms": 180401,
       "name": "Runaways (feat. Teemu)",
       "url": "https://open.spotify.com/track/6sgnDuroY3cSWDPOIO3yoa"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Cut Your Teeth (Kygo Remix)",
+        "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
+      },
+      "artists": [
+        {
+          "name": "Kyla La Grange",
+          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 399013,
+      "name": "Cut Your Teeth - Kygo Remix",
+      "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/3nShNINlg4p0DhOQAfIKQt"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0L5dwOLG1xpw9oD5FcyQak"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "September Song (Remixes)",
-        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "Mark Ralph",
-          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
-        }
-      ],
-      "duration_ms": 215030,
-      "name": "September Song - Indian Summer Mix",
-      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
       },
@@ -1935,22 +1915,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rainbows",
-        "url": "https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm"
+        "name": "September Song (Remixes)",
+        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
       "artists": [
         {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         },
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "Mark Ralph",
+          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Come Into My World (with NERVO)",
-      "url": "https://open.spotify.com/track/4Bpyapy2YVNAQBUOBp17uu"
+      "duration_ms": 215030,
+      "name": "September Song - Indian Summer Mix",
+      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1975,22 +1955,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "ILYAF (I love you always forever)",
-        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
+        "name": "Rainbows",
+        "url": "https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm"
       },
       "artists": [
         {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
         },
         {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         }
       ],
-      "duration_ms": 166091,
-      "name": "ILYAF (I love you always forever)",
-      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
+      "duration_ms": 192786,
+      "name": "Come Into My World (with NERVO)",
+      "url": "https://open.spotify.com/track/4Bpyapy2YVNAQBUOBp17uu"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2011,18 +1991,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+        "name": "ILYAF (I love you always forever)",
+        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
+      "duration_ms": 166091,
+      "name": "ILYAF (I love you always forever)",
+      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 183587,
       "name": "Summer Air",
       "url": "https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
     },
     {
       "added_at": "2023-09-08 04:00:00",

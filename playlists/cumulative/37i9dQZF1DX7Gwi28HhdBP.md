@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-234 songs - 17 hr 30 min
+235 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Zelzal](https://open.spotify.com/track/0NIPlnoBzm52xIDkdkHX5M) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Zelzal](https://open.spotify.com/album/3T7Yt8u7VfO1E6wlsoJCpy) | 4:18 | 2021-12-16 | 2023-05-13 |
 | [أبويا قالي زمان](https://open.spotify.com/track/4VuheYb2mYov1QsFM5eIxi) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/7igxcRyRLCuujN4JfJsNlx) | 3:46 | 2022-07-14 |  |
 | [أبويا قالي زمان](https://open.spotify.com/track/6MdDjqdi61JRdW7ZhmsZIp) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/59iv1aUX6P1xLgzBlJfJcg) | 3:46 | 2021-12-16 | 2022-07-28 |
-| [أخوك يشرف بلد \- من فيلم حمص وحلاوة](https://open.spotify.com/track/6WcQ9rUbuDhFGAr7vYzlIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [أخوك يشرف بلد \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/4XFxQG7aF7Z0zALVa3Ee0P) | 6:02 | 2023-12-14 |  |
+| [أخوك يشرف بلد \- من فيلم حمص وحلاوة](https://open.spotify.com/track/6WcQ9rUbuDhFGAr7vYzlIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [أخوك يشرف بلد \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/4XFxQG7aF7Z0zALVa3Ee0P) | 6:02 | 2023-12-14 | 2023-12-30 |
 | [أنا العريس](https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [أنا العريس](https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf) | 4:14 | 2021-12-16 |  |
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
@@ -232,6 +232,7 @@
 | [موجوع يا إبن أدم](https://open.spotify.com/track/0kBOQbO01NPFdC703cJHkO) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [موجوع يا إبن أدم](https://open.spotify.com/album/7fCBKICFGpNCWRcSo5MhgO) | 8:56 | 2023-11-15 |  |
 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 | 2023-01-03 |  |
 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 |  |
+| [نص بنات بلدك](https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [نص بنات بلدك](https://open.spotify.com/album/0IG0hyjIdkYn10GVmmcfIi) | 2:08 | 2023-12-29 |  |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-05-13 |
 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 | 2023-08-30 |  |
 | [وقت المصلحة](https://open.spotify.com/track/1AJpQusk0FD6jPj9fjyMPC) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5gFFD93W7eXAX5AR6LZnQW) | 3:44 | 2021-12-16 | 2022-07-29 |

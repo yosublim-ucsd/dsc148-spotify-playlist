@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Wendy York Stand
 
-242 songs - 19 hr 30 min
+243 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Someday My Prince Will Come \- Live at 100Ban Hall, Kobe, 2022](https://open.spotify.com/track/6H1gpUbzY2NGPpWdADWXn4) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Kazuhiko Takeda](https://open.spotify.com/artist/4dz95tAaThmn1OI31rMkhU), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx), [Naoko Tanaka](https://open.spotify.com/artist/2CfxaAgevavjDFRRghjSVt), [Yuji Ito](https://open.spotify.com/artist/7nwmT6Ckut3gaKlyfL45NF) | [Someday My Prince Will Come \(Live at 100Ban Hall, Kobe, 2022\)](https://open.spotify.com/album/4kT6XpWuPM5q7lnevRGMNY) | 6:36 | 2023-03-07 | 2023-04-05 |
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
-| [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 |  |
+| [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 | 2023-12-30 |
 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 | 2023-12-27 |
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 | 2023-08-17 |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |
@@ -183,6 +183,7 @@
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |
 | [The Star\-Crossed Lovers](https://open.spotify.com/track/1rb5DXtKEEj1RBYIqif0iA) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [The Star\-Crossed Lovers](https://open.spotify.com/album/4ztShkBEvgeWnP6yTgDxHn) | 3:17 | 2022-11-15 | 2022-12-21 |
 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 | 2022-09-06 | 2023-01-18 |
+| [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 | 2023-12-26 |  |
 | [Theme From Lupin Ⅲ '78（2002 Version）](https://open.spotify.com/track/7skWm7t4fHMrjlJ5mD4fKP) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ － Another “JAZZ”](https://open.spotify.com/album/4Ouzx4TdQw8sPuruST5rX4) | 4:02 | 2023-11-14 | 2023-12-08 |
 | [Theme of “House of Jaxx”](https://open.spotify.com/track/1qucmF56XOiRvwaQWcI7Xs) | [House of Jaxx](https://open.spotify.com/artist/7v9iqfzdbh5i5njjSc9sjs) | [House of Jaxx](https://open.spotify.com/album/5zvDArByRwmVEhHDy911XY) | 8:28 | 2022-09-06 | 2022-10-12 |
 | [Theme of “Muscle King”](https://open.spotify.com/track/6adzrDs94f06CWv2rktMGC) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Theme of “Muscle King”](https://open.spotify.com/album/775ACjpCE3Q79Kbn5JioP1) | 3:37 | 2022-11-22 | 2022-12-21 |

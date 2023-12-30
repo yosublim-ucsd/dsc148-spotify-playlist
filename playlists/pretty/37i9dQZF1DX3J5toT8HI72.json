@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 789398,
+  "num_followers": 789605,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWJhMGE4YzA3YmY5OTIzYzc3Y2U2YjJjNGM1NDUxOGQyM2ZmZjY5",
+  "snapshot_id": "MCw3ZjU4NTc3OTgxNzk2MWIzZjRmMGFhODhiZWMxZGVmZDdhOWIzNWE2",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -639,6 +639,22 @@
       "duration_ms": 168640,
       "name": "Mais Ningu\u00e9m",
       "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Verdade (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 181077,
+      "name": "Voc\u00ea Humilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Verdade (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
+        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
+        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 181077,
-      "name": "Voc\u00ea Humilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N"
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -723,22 +739,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
-        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Verdade (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 191254,
       "name": "Potinho - Ao Vivo",
       "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Aquecimento Ver\u00e3o MPB",
-        "url": "https://open.spotify.com/album/5D5rxNEHttGjhkAXJ8AUq3"
-      },
-      "artists": [
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/2IKzHKzPulnRsqyGHwhIdT"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 193029,
       "name": "Cosquinha No Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Aquecimento Ver\u00e3o MPB",
+        "url": "https://open.spotify.com/album/5D5rxNEHttGjhkAXJ8AUq3"
+      },
+      "artists": [
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/2IKzHKzPulnRsqyGHwhIdT"
     },
     {
       "added_at": "2023-12-11 13:23:48",

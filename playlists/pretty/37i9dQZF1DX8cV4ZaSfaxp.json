@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 49433,
+  "num_followers": 49473,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU2OWVkYTQ0YmExNzg0ODczMGVkNTE0NmU2ZTkyMmJiNTUxNzkw",
+  "snapshot_id": "MCxlMDZkNDE0ZDI0OWUzY2RmZmViMDNhZjYxNzQ2MGIwZjczNjBjYTNj",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 213480,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/2YZa0dsV3xXGZ61XFYiRt8"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250951,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 250951,
-      "name": "After a long time(Digging Club Seoul Ver.)",
-      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Color of Night",
-        "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
-      },
-      "artists": [
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 209156,
-      "name": "Thinking About You (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Sweet Girl",
         "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+        "name": "Color of Night",
+        "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+      "duration_ms": 209156,
+      "name": "Thinking About You (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -959,6 +943,22 @@
       "duration_ms": 252798,
       "name": "Suddenly - Digging Club Seoul Version",
       "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.03",
         "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
       },
       "artists": [
         {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "THE PARK IN THE NIGHT part three",
         "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "SUMMER LOVE\u2026",
-        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "CSVC",
-          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 250004,
-      "name": "SUMMER LOVE\u2026",
-      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+        "name": "SUMMER LOVE\u2026",
+        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
       },
       "artists": [
         {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
         }
       ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+      "duration_ms": 250004,
+      "name": "SUMMER LOVE\u2026",
+      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1663,6 +1647,22 @@
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

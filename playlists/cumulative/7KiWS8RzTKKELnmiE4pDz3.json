@@ -235,6 +235,28 @@
     },
     {
       "album": {
+        "name": "WAKE UP LUCKI",
+        "url": "https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "F1LTHY",
+          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140120,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/0qYotAhNzAECQYzv411A2C"
+    },
+    {
+      "album": {
         "name": "2020 Vision",
         "url": "https://open.spotify.com/album/5bkklyYbs2N8y3S7Uh08sO"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 158938,
       "name": "A Fan's Mail (Tron Song Suite II)",
       "url": "https://open.spotify.com/track/6qXNCWY49AaZ5nfp9AJIc5"
@@ -1996,6 +2018,28 @@
       "duration_ms": 131918,
       "name": "Chess Players (feat. DaBoii)",
       "url": "https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY"
+    },
+    {
+      "album": {
+        "name": "Long Live Mexico",
+        "url": "https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156880,
+      "name": "Child (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6"
     },
     {
       "album": {
@@ -3624,6 +3668,24 @@
       "duration_ms": 138866,
       "name": "Goyard",
       "url": "https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7"
+    },
+    {
+      "album": {
+        "name": "Snotty World (Deluxe)",
+        "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89730,
+      "name": "Grab Da Door!",
+      "url": "https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr"
     },
     {
       "album": {
@@ -6919,6 +6981,24 @@
     },
     {
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/16czINg68lsXnb7y3zfdoQ"
+      },
+      "artists": [
+        {
+          "name": "kokori",
+          "url": "https://open.spotify.com/artist/1tUWteCf6kMckNEm6DFGOZ"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126304,
+      "name": "ok / what i do",
+      "url": "https://open.spotify.com/track/4V7fgGBWKeNnTfn4UvcV60"
+    },
+    {
+      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q"
       },
@@ -10105,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139426,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20"
+    },
+    {
+      "album": {
         "name": "Thot Slayer 2",
         "url": "https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4"
       },
@@ -10316,6 +10414,24 @@
       "duration_ms": 158537,
       "name": "URUS FREESTYLE",
       "url": "https://open.spotify.com/track/4Osh1jJU2EhKoTgnEK3i8s"
+    },
+    {
+      "album": {
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105714,
+      "name": "V-Friends",
+      "url": "https://open.spotify.com/track/7FUx1SDHG4Im52aKu3iCXC"
     },
     {
       "album": {
@@ -11102,10 +11218,32 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 135392,
       "name": "You > Them (Hate It!)",
       "url": "https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9"
+    },
+    {
+      "album": {
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Zaza (feat. Future)",
+      "url": "https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp"
     }
   ],
   "url": "https://open.spotify.com/playlist/7KiWS8RzTKKELnmiE4pDz3"

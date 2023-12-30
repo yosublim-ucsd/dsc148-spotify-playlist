@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Hatwhashna",
       "url": "https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya"
@@ -5202,6 +5202,28 @@
       "duration_ms": 195170,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Fusion Series - Season 2",
+        "url": "https://open.spotify.com/album/6DknDPrX15ZlroyrKlCuVh"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239121,
+      "name": "Just A Dream - Coke Studio Fusion Mix",
+      "url": "https://open.spotify.com/track/5UsZaGons0ZlGwsex1TxIX"
     },
     {
       "album": {
@@ -6694,7 +6716,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 217839,
       "name": "Masr7ya",
       "url": "https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1"
@@ -8140,7 +8162,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 157682,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw"
@@ -10658,7 +10680,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 240673,
       "name": "Tegy Ntrahn",
       "url": "https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi"
@@ -14556,7 +14578,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 253894,
       "name": "\u0648 \u0627\u0641\u062a\u0643\u0631\u062a",
       "url": "https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o"

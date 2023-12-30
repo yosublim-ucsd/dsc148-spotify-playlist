@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 321203,
+  "num_followers": 321427,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQ0ZGMwNzJiYjg1NTA0MGIxMjg3ZjY0ZGNjYzhiYzAwZmFjMzYy",
+  "snapshot_id": "MCw2MzA2OGIxZWMwYTY4NDZkZWVlYmFjYTJjZGIwMmEwZmJiODk5Yzk2",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 275320,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "GISEKE",
-        "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        }
-      ],
-      "duration_ms": 145181,
-      "name": "TIBBE",
-      "url": "https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Evolution: The Polydor Anthology",
         "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 355373,
       "name": "Love Will Bring Us Back Together",
       "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "GISEKE",
+        "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "TIBBE",
+      "url": "https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 289013,
       "name": "Friends And Strangers",
       "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "In the Hand of the Inevitable",
         "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
       },
       "artists": [
         {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1079,6 +1063,38 @@
       "duration_ms": 222000,
       "name": "I'll Be With You",
       "url": "https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1115,22 +1131,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Stoned Woman",
         "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 348760,
       "name": "Stomp And Buck Dance",
       "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Funkhaus Studio Sessions",
         "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 300186,
       "name": "No Use - Funkhaus Sessions",
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Sleazeball",
         "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
       },
@@ -1339,42 +1339,6 @@
       "duration_ms": 267066,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Rubberband EP",
-        "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 344986,
-      "name": "Rubberband of Life (feat. Ledisi)",
-      "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1409,6 +1373,42 @@
       "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Rubberband EP",
+        "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 344986,
+      "name": "Rubberband of Life (feat. Ledisi)",
+      "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "SGJAZZ, Vol. 2",
@@ -1427,6 +1427,22 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Groove Collective",
+        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
+      },
+      "artists": [
+        {
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Whatchugot",
+      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1463,22 +1479,6 @@
       "duration_ms": 286600,
       "name": "Nothing Has Changed",
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Groove Collective",
-        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
-      },
-      "artists": [
-        {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Whatchugot",
-      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2022-07-14 19:24:43",

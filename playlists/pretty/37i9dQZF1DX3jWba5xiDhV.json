@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 180730,
+  "num_followers": 181384,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjc2MDExM2ZhNjlkY2E1OTUxNDRhYTM5NzUzNDAxZDk3NDYwMTIw",
+  "snapshot_id": "MCwzYjIyZmZlMzRjY2IxNDhhMDc5Y2E3YTk1YTA1ZDNmZjlkN2FjZTA0",
   "tracks": [
     {
       "added_at": "2023-12-13 14:54:09",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -479,6 +459,26 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+        "name": "Color My Love",
+        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Splendida giornata",
-      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Color My Love",
-        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
       },
       "artists": [
         {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
+      "duration_ms": 279213,
+      "name": "Splendida giornata",
+      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 509240,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Tac..!",
         "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 236333,
       "name": "Balla Ba",
       "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Eyes (2020 Remaster)",
-        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
-        }
-      ],
-      "duration_ms": 398733,
-      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
-      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Disco Fizz",
         "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Eyes (2020 Remaster)",
+        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
+        }
+      ],
+      "duration_ms": 398733,
+      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Polydans Remixes",
-        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 239788,
-      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Bambina c/o Bye Bye Mi Amor",
         "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     }
   ],
   "unique_name": "Italo Disco",

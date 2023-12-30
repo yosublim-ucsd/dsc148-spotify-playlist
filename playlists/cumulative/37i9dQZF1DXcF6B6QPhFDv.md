@@ -2,7 +2,7 @@
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> The Rolling Stones along with today's Rock songs you need to know.
+> blink\-182 along with today's Rock songs you need to know.
 
 438 songs - 1 day 0 hr 52 min
 

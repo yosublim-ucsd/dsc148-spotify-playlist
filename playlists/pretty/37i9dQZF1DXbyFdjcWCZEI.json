@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 18208,
+  "num_followers": 18379,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzhiYTU1YzQxYTA0NzkyOTE5ZjdiOWZkNjg0YzQ1YzkwZDA5Yzc1",
+  "snapshot_id": "MCwyYzkzYjUzZDUwNjM3YzI3MjJkY2M2Mjg3NDYzZjRlNWE1MGNiZTU3",
   "tracks": [
     {
       "added_at": "2023-12-23 00:04:49",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Parque Acu\u00e1tico",
-        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 172646,
-      "name": "Parque Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "TOCO Y ME VOY",
         "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 226082,
       "name": "TOCO Y ME VOY",
       "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "Parque Acu\u00e1tico",
+        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "Parque Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 302613,
-      "name": "Bossa & People",
-      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "Un Bossa +",
         "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
-        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 179393,
-      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
-      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+      "duration_ms": 302613,
+      "name": "Bossa & People",
+      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Azules Turquesas",
-        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "Pa La Playita",
         "url": "https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 196663,
       "name": "Pa La Playita",
       "url": "https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "Azules Turquesas",
+        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
         "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 204506,
       "name": "HOY SOMOS NUEVOS SERES (MASTER 2)",
       "url": "https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 162606,
       "name": "Parapente",
       "url": "https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -843,18 +843,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+        "name": "Peque\u00f1os Sue\u00f1os (Feat. Natalie Perez)",
+        "url": "https://open.spotify.com/album/4vWpM1IlJRmmxtdKkKyU1d"
       },
       "artists": [
         {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+      "duration_ms": 230933,
+      "name": "Peque\u00f1os Sue\u00f1os (Feat. Natalie Perez)",
+      "url": "https://open.spotify.com/track/2UivQh2IhQJ916OPqxptcz"
     },
     {
       "added_at": "2023-12-23 00:04:49",

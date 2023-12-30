@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 233059,
+  "num_followers": 233257,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk",
+  "snapshot_id": "MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "De Cuba a Per\u00fa",
+        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
+      },
+      "artists": [
+        {
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+        }
+      ],
+      "duration_ms": 295543,
+      "name": "Usted No Sabe",
+      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 221538,
       "name": "Guachineo",
       "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De Cuba a Per\u00fa",
-        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
-      },
-      "artists": [
-        {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
-        }
-      ],
-      "duration_ms": 295543,
-      "name": "Usted No Sabe",
-      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -511,22 +511,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Latino 56 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
-        "url": "https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
       },
       "artists": [
         {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        },
-        {
-          "name": "Maykel Fonts",
-          "url": "https://open.spotify.com/artist/25XlE014uP57NwPYobN64T"
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
         }
       ],
-      "duration_ms": 302706,
-      "name": "Dale Lo Que Lleva (with Maykel Fonts)",
-      "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -547,6 +543,26 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Latino 56 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
+        "url": "https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Maykel Fonts",
+          "url": "https://open.spotify.com/artist/25XlE014uP57NwPYobN64T"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Dale Lo Que Lleva (with Maykel Fonts)",
+      "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Timba Cubana",
         "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 325026,
       "name": "Un Mal Sue\u00f1o",
       "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "De Vuelta al Barrio",
         "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
       },
@@ -699,6 +679,22 @@
       "duration_ms": 346266,
       "name": "La Cosa Mala",
       "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -723,18 +719,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -771,6 +771,22 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
+        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "Marcando la Distancia",
+      "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -835,26 +851,6 @@
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
     }
   ],
   "unique_name": "Salsa Cubana",

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-947 songs - 2 day 5 hr 59 min
+948 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Stand Alone](https://open.spotify.com/track/7r8GcalRUjI04yLLZA7SeU) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Stand Alone](https://open.spotify.com/album/750PaBcRD3QBD7YWWWrXBc) | 3:28 | 2023-11-14 |  |
 | [STARLIGHT](https://open.spotify.com/track/0It8D8AkMinflbj6R60RKQ) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/3V2uBiNgiyz29NKV4pYjOC) | 3:01 | 2023-02-11 | 2023-03-08 |
 | [STARLIGHT](https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/2ghGwpzmyJ03sYKNul4zK2) | 3:01 | 2023-02-10 | 2023-02-11 |
+| [Starry Silent Night](https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:10 | 2023-12-28 |  |
 | [Storyteller](https://open.spotify.com/track/0UIuUzxbCTgtZWuoGNvj8E) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [MAHOUWOKIKUHITO](https://open.spotify.com/album/3KKZLnZko1skljax0XDFVT) | 3:32 | 2023-11-12 | 2023-12-20 |
 | [Stupid Fellows](https://open.spotify.com/track/1NXUWmialdPsB4VGTnlJo8) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [Parade](https://open.spotify.com/album/4xZGmvQe1rpqM9cCK5AJPm) | 3:19 | 2022-09-06 | 2022-09-15 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-06-09 | 2022-06-22 |
@@ -773,7 +774,7 @@
 | [旅人の森](https://open.spotify.com/track/6sKWnOIrkz6jCBBZEF1yKw) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [旅人の森](https://open.spotify.com/album/5tDVANPhUrxeg16FOGA3Im) | 4:07 | 2022-06-21 | 2022-07-28 |
 | [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-08 | 2023-03-09 |
 | [日進月光](https://open.spotify.com/track/2PA1iWAJEt4zIw0wPKYKAo) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [日進月光](https://open.spotify.com/album/1zqnDGi6DUlszkJP4Helq8) | 3:20 | 2022-07-24 | 2022-07-27 |
-| [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 | 2023-12-26 |  |
+| [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 | 2023-12-26 | 2023-12-30 |
 | [春とレム](https://open.spotify.com/track/7KaOma99geyFVlWkzFoXxi) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [春とレム](https://open.spotify.com/album/4NNwImwuKgKXvInVlQqNQL) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [春と修羅](https://open.spotify.com/track/0F95jhY2gWWNHGPH3ao4uN) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [春と修羅](https://open.spotify.com/album/0WDdPXS7zQ5lfRvyMJnhmX) | 3:27 | 2023-03-15 | 2023-04-12 |
 | [春に涙](https://open.spotify.com/track/7xZdNUzmUCCpRY7lr24gVI) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [春に涙](https://open.spotify.com/album/5LVfBVPbFg4lEAxzWr5flj) | 2:48 | 2023-12-19 |  |

@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-215 songs - 9 hr 39 min
+216 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Endless days](https://open.spotify.com/track/327CihmGe7iHumIBpBZiB0) | [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Regain](https://open.spotify.com/album/0MIVTr8DqIDFLCX927riTB) | 2:03 | 2022-09-08 |  |
 | [Enigma](https://open.spotify.com/track/4K8WSebx5Ebslh1c4Seqvg) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Night Owl](https://open.spotify.com/album/4YHfNA08alIQZfabBEtw1x) | 2:28 | 2023-12-01 |  |
 | [Every Time](https://open.spotify.com/track/3MDkws8QGzLrMrWVAbzoXO) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Volta](https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb) | 4:01 | 2020-10-20\* | 2022-08-31 |
+| [Everything Is Fine](https://open.spotify.com/track/1aeR7yTsLThwlEYCqpkKOX) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Everything Is Fine](https://open.spotify.com/album/4JNdquw53UBvzCz19mH5A0) | 2:06 | 2023-12-28 |  |
 | [Fall Has Come](https://open.spotify.com/track/6sW1czgSDDLkISEpk8zzI9) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [River Boats](https://open.spotify.com/album/0NIerYM4WLUzEuuudlXnft) | 2:04 | 2020-10-20\* | 2020-11-06 |
 | [Fall in Love in September](https://open.spotify.com/track/73cnVIWBUfGotvQQHTkr5y) | [Staysea](https://open.spotify.com/artist/6gxc5HErxRvWbXZBU9feZr) | [Fall in Love in September](https://open.spotify.com/album/5eVh6ovKtRpV6b7GDU8yMK) | 1:43 | 2022-09-08 |  |
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 | 2022-08-31 |
@@ -75,7 +76,7 @@
 | [Funk for Food](https://open.spotify.com/track/2rLwz4Eihs3PXhx7e4qhcN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Funk for Food](https://open.spotify.com/album/1qBIwBv13XdiXfnU07Fsw9) | 1:55 | 2020-10-20\* | 2022-08-31 |
 | [Funky Shit](https://open.spotify.com/track/4ndEDfXSJVeLG4SObU3TUd) | [Loopmaffia](https://open.spotify.com/artist/6VeF1dMdyeD7aiJYVP72GH) | [This Is How It Should Be Done Volume 1](https://open.spotify.com/album/7v78mNvI7W0rJvhjkOTKAc) | 3:00 | 2022-04-28 | 2022-08-31 |
 | [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 | 2022-08-30 | 2023-09-16 |
-| [Furry Love](https://open.spotify.com/track/6g6TMQ4UBnsCi4wyURafjQ) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/43ab60R3uqxuiXVdQLYICK) | 2:31 | 2023-08-25 |  |
+| [Furry Love](https://open.spotify.com/track/6g6TMQ4UBnsCi4wyURafjQ) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/43ab60R3uqxuiXVdQLYICK) | 2:31 | 2023-08-25 | 2023-12-30 |
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-08-30 |  |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-08-30 | 2023-12-22 |
 | [Gentle Breeze](https://open.spotify.com/track/7b8ZLIbapBJfvQkQ7lWsp6) | [Gumale](https://open.spotify.com/artist/4rp0D1ACUOeq3oyFRIaJQ5), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Gentle Breeze](https://open.spotify.com/album/05FGk3KoZWr1ptjPO85AJ7) | 8:02 | 2023-12-21 |  |

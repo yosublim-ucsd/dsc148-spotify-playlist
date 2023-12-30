@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Danny Schiller",
-  "num_followers": 19375,
+  "num_followers": 19416,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzlkMzlkODM3YmE1Y2ExMzZlZmUwOWI4ZmQ4ZTkyYzIxODM5ZmVj",
+  "snapshot_id": "MCw3YzIxNDhhMWZmNjY1YWExMjA4ZjEwNTMwODIyMDExNTE4ZTIxNTRj",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "las consecuencias",
         "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
       },
@@ -447,18 +431,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 176106,
-      "name": "Querida Rosa",
-      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 con Leche",
+      "url": "https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mujer El\u00e9ctrica",
-        "url": "https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 113639,
-      "name": "Caf\u00e9 con Leche",
-      "url": "https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK"
+      "duration_ms": 176106,
+      "name": "Querida Rosa",
+      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "La Casa de Mis Pap\u00e1s",
+        "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 176844,
+      "name": "La Casa de Mis Pap\u00e1s",
+      "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "\u00bfY Si Te Invito?",
         "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
       },
@@ -707,18 +723,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "La Casa de Mis Pap\u00e1s",
-        "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
         }
       ],
-      "duration_ms": 176844,
-      "name": "La Casa de Mis Pap\u00e1s",
-      "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -743,22 +775,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
-      },
-      "artists": [
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 190380,
-      "name": "Norte",
-      "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
+      },
+      "artists": [
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 190380,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
-        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 236301,
-      "name": "Te Lo Debo Contar",
-      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Extra\u00f1os",
         "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
       },
@@ -1203,38 +1187,6 @@
       "duration_ms": 231878,
       "name": "Extra\u00f1os",
       "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1255,6 +1207,54 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
+        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 236301,
+      "name": "Te Lo Debo Contar",
+      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     }
   ],
   "unique_name": "Latin Folk",

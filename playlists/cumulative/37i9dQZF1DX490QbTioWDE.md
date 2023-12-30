@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno  & Migrantes.
 
-380 songs - 1 day 0 hr 16 min
+381 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Si Fuera Tan Fácil](https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Fuera Tan Fácil](https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ) | 3:27 | 2023-11-14 |  |
 | [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/track/1bfjDohijZVRKHWT53QNFk) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/album/5MFQ2u5jkOxOmZ2IsrK3pf) | 2:52 | 2023-09-01 | 2023-10-07 |
 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 | 2023-11-10 |  |
+| [Si Pudiera](https://open.spotify.com/track/5ZovhgjwXVdhIdRHfCu9lf) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Si Pudiera](https://open.spotify.com/album/2yfl1SMfsO58DgHZzRKcCD) | 3:06 | 2023-12-29 |  |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 | 2023-12-11 |
 | [Si Te Vas](https://open.spotify.com/track/1GU0RxGm8tUSBlaq0mtDOa) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si Te Vas](https://open.spotify.com/album/6Pi2x8NLs6yYA4DxxHglmj) | 3:12 | 2023-10-13 | 2023-12-14 |
 | [Si Te Vas de Mí \- Live](https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si Te Vas de Mí \(Live\)](https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc) | 3:00 | 2022-01-07 | 2022-07-21 |
@@ -328,7 +329,7 @@
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2023-05-26 |
 | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/album/3Es15bUlmBVcCH8RpPsEjH) | 3:33 | 2021-12-24 |  |
 | [Te Olvidaré \- En Vivo](https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Olvidaré \(En Vivo\)](https://open.spotify.com/album/4CBSfAj78zjg0JqIK9iKug) | 2:14 | 2022-07-15 | 2022-08-19 |
-| [Te perdiste mi amor](https://open.spotify.com/track/3gn9F8Te6zvC3Priyw8ABC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/7wkWJ1gv9rhq2L7Nahl3PF) | 3:12 | 2023-05-19 |  |
+| [Te perdiste mi amor](https://open.spotify.com/track/3gn9F8Te6zvC3Priyw8ABC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/7wkWJ1gv9rhq2L7Nahl3PF) | 3:12 | 2023-05-19 | 2023-12-30 |
 | [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 | 2023-03-18 |
 | [Te Perdí](https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Te Perdí](https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng) | 3:30 | 2023-06-21 |  |
 | [Te Pido Perdon](https://open.spotify.com/track/5mVKmmkGvftY88sm3tocch) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 3:06 | 2021-12-24 | 2022-07-29 |

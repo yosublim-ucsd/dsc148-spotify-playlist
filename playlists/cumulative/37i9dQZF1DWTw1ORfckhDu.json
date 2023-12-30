@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Alina Burnet ja TUULI.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Adi L Hasla.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182400,
       "name": "8 raajaa",
       "url": "https://open.spotify.com/track/513HUrV6nzrYQpzpF1tuHs"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 253693,
       "name": "Anna menn\u00e4",
       "url": "https://open.spotify.com/track/5fX01EBr1vtikePLVTY1LT"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 138333,
       "name": "Babii",
       "url": "https://open.spotify.com/track/3uhlkrLVK5mYPVxH1VpyJg"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 209032,
       "name": "Etsint\u00e4kuulutus",
       "url": "https://open.spotify.com/track/0Td4xxrHmkb3Sx63WgnMih"
@@ -996,6 +996,24 @@
       "duration_ms": 182546,
       "name": "Feimii",
       "url": "https://open.spotify.com/track/7HOHMXcmf8gl4YuKwBO7SV"
+    },
+    {
+      "album": {
+        "name": "First Day Out 2",
+        "url": "https://open.spotify.com/album/2Z9JO6wm3gC6yoAEsv9LTE"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173347,
+      "name": "First Day Out 2",
+      "url": "https://open.spotify.com/track/437CvMtsHlKc30ZX3GxZ5S"
     },
     {
       "album": {
@@ -1899,6 +1917,32 @@
     },
     {
       "album": {
+        "name": "Kolmestaa (feat. Lauri Haav & Etta)",
+        "url": "https://open.spotify.com/album/2fNvVSMdDSoOHnOgTWrB7M"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179278,
+      "name": "Kolmestaa (feat. Lauri Haav & Etta)",
+      "url": "https://open.spotify.com/track/6PSdyypNd84uQn4f2qFrtC"
+    },
+    {
+      "album": {
         "name": "Kopernikaaninen",
         "url": "https://open.spotify.com/album/3ZApBSnT4xKET5mllPMSzL"
       },
@@ -1990,7 +2034,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 164307,
       "name": "KUKA ON SUN ISI?",
       "url": "https://open.spotify.com/track/7BQHwUxhmCTKY9PJQIFFJ7"
@@ -2122,6 +2166,24 @@
       "duration_ms": 163555,
       "name": "LACOSTE",
       "url": "https://open.spotify.com/track/2jZMZM4VRQ4ROgw8GnL9UC"
+    },
+    {
+      "album": {
+        "name": "Lain yl\u00e4puolella",
+        "url": "https://open.spotify.com/album/2r0Knv2X5jM4XD3kv79l0H"
+      },
+      "artists": [
+        {
+          "name": "Adi L Hasla",
+          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154798,
+      "name": "Lain yl\u00e4puolella",
+      "url": "https://open.spotify.com/track/2peyUaFwHmLpGVsWWphKtJ"
     },
     {
       "album": {
@@ -2570,6 +2632,28 @@
       "duration_ms": 153075,
       "name": "Meid\u00e4n p\u00f6yt\u00e4 (feat. Cledos, Elastinen)",
       "url": "https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3"
+    },
+    {
+      "album": {
+        "name": "Mei\u00e4n Vuos",
+        "url": "https://open.spotify.com/album/1BbHH0S4u4NzBHkOVAHjMm"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "Mei\u00e4n Vuos",
+      "url": "https://open.spotify.com/track/0X84P3sGzZVnTdKzOWD2E9"
     },
     {
       "album": {
@@ -3064,6 +3148,24 @@
       "duration_ms": 212000,
       "name": "oma tarina",
       "url": "https://open.spotify.com/track/6XSkjVF9rabSI4AEBDuKga"
+    },
+    {
+      "album": {
+        "name": "onnenonkija",
+        "url": "https://open.spotify.com/album/34KqEsdYRzjsF3Dm0dyOLo"
+      },
+      "artists": [
+        {
+          "name": "D1 DANI",
+          "url": "https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163593,
+      "name": "onnenonkija",
+      "url": "https://open.spotify.com/track/7k3QhKhTk5kltyO3XS9X8p"
     },
     {
       "album": {
@@ -4013,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4n (Hj\u00e4rta Remix)",
+        "url": "https://open.spotify.com/album/1cNH4ZXId2U9qnX9m3Nq3l"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Syd\u00e4n - Hj\u00e4rta Remix",
+      "url": "https://open.spotify.com/track/5n2VF6KuVIQXk9lvBWUAsl"
+    },
+    {
+      "album": {
         "name": "Syssy (Part 2)",
         "url": "https://open.spotify.com/album/3zhD7LFgclpwZGJDfLINoc"
       },
@@ -4504,7 +4628,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 88903,
       "name": "VAATEKOMERO",
       "url": "https://open.spotify.com/track/3XSpHwStP70NI29chDcpQ7"

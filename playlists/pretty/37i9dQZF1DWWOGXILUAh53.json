@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: YUQI, ALAN WALKER & JVKE",
-  "num_followers": 139178,
+  "num_followers": 139368,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGMwZDcyMDA3OWY0NjlhY2I2MWVjNTZmYmQ0MzZlZmZlZGJiZDkz",
+  "snapshot_id": "MCwxYjM4YzRkMjliYjgzMDg2YWY3ZTM4NTE5YWZkODE3OGMyY2E1Y2M2",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -37,20 +37,80 @@
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Never Giving Up",
-        "url": "https://open.spotify.com/album/2O9Vnp4n6Ltg4rV8euCKiJ"
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
       "artists": [
         {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Never Giving Up",
-      "url": "https://open.spotify.com/track/1uPekOW3B0qQkSkwSW69il"
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Stop The Time",
+        "url": "https://open.spotify.com/album/6qjOCRqN6sT4gHq2NmNuIG"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "duration_ms": 168695,
+      "name": "Stop The Time",
+      "url": "https://open.spotify.com/track/21PLu6RKamRrwSj3pOa6Ok"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 141369,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -75,6 +135,22 @@
       "duration_ms": 121967,
       "name": "good to me",
       "url": "https://open.spotify.com/track/15YvfDB4xjwOsIVnFE4h4B"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Never Giving Up",
+        "url": "https://open.spotify.com/album/2O9Vnp4n6Ltg4rV8euCKiJ"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Never Giving Up",
+      "url": "https://open.spotify.com/track/1uPekOW3B0qQkSkwSW69il"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -111,26 +187,6 @@
       "duration_ms": 154583,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "42",
-      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -821,22 +877,6 @@
       "url": "https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Good At Goodbyes",
-        "url": "https://open.spotify.com/album/6W2DHMEQzAuZbFX41oK5oi"
-      },
-      "artists": [
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 214976,
-      "name": "Good At Goodbyes",
-      "url": "https://open.spotify.com/track/2dGq1DXChJfos8lxXJBfnG"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Heart Still Beating",
@@ -891,26 +931,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -951,30 +971,6 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 166632,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
     }
   ],
   "unique_name": "New Dance Pop",

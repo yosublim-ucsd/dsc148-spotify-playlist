@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=WCY8hxsATsuIOixdYi89Gw">Demi Lee Moore</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=vQ1P0WwBSEuc\-FVaj5pLzA">Irene\-Louise Van Wyk</a>
 
-189 songs - 10 hr 33 min
+190 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Afrikaans is Alles](https://open.spotify.com/track/3eeGal6kEMlUaPnxY7bTtJ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Afrikaans is Alles](https://open.spotify.com/album/6L81naBshdxYFpIBllKhGj) | 3:53 | 2023-03-09 | 2023-04-28 |
 | [Als Is Okay](https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Als Is Okay](https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb) | 3:01 | 2023-11-16 |  |
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 | 2023-09-22 |
-| [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-10 |  |
+| [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-10 | 2023-12-30 |
 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 | 2023-10-19 |  |
 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 | 2022-11-03 |  |
 | [Ballade Vir 'N Enkeling](https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Ja\. Nee\. Lekker\. \(Deluxe Edition\)](https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY) | 3:02 | 2023-03-09 | 2023-08-11 |
@@ -186,6 +186,7 @@
 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 | 2023-03-09 |  |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |
 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 | 2023-03-09 |  |
+| [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 |  |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |

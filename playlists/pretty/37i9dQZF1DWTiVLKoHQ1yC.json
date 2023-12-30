@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 172206,
+  "num_followers": 172359,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
+  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Celestia EP",
-        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 229249,
-      "name": "Celestia",
-      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 190084,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Celestia EP",
+        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 229249,
+      "name": "Celestia",
+      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
       "artists": [
         {
-          "name": "Going Deeper",
-          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         }
       ],
-      "duration_ms": 283628,
-      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+      "duration_ms": 283628,
+      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "I Saw Good",
-        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "I Saw Good",
-      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 214634,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "I Saw Good",
+        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "I Saw Good",
+      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
     },
     {
       "added_at": "2022-11-25 16:56:36",

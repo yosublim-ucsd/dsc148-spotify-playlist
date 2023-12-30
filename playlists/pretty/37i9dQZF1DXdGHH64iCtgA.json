@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 72887,
+  "num_followers": 72958,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGM0ODAwZTJlYjk1Y2ZiYjMzMzY4MjBiNDRmMjQwYTFiZjMyOTQ4",
+  "snapshot_id": "MCxlNjQyNzhlZjQ1Zjc2ZTMyY2RjMTZmMmNkY2I2MDc0OTM4MWM2ZTcw",
   "tracks": [
     {
       "added_at": "2023-10-27 13:51:08",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs"
       },
@@ -623,22 +603,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "PFW (Paris Fashion Week)",
-        "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
       "artists": [
         {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         },
         {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         }
       ],
-      "duration_ms": 210461,
-      "name": "PFW (Paris Fashion Week)",
-      "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
+      "duration_ms": 156480,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -659,6 +639,26 @@
       "duration_ms": 334586,
       "name": "My Lullaby for You",
       "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "PFW (Paris Fashion Week)",
+        "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "PFW (Paris Fashion Week)",
+      "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Pain in the Ass",
+        "url": "https://open.spotify.com/album/7vcGhNDkHj4tJlI0ys1cq5"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 400373,
+      "name": "Pain In The Ass",
+      "url": "https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "Pain in the Ass",
-        "url": "https://open.spotify.com/album/7vcGhNDkHj4tJlI0ys1cq5"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass",
-      "url": "https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "LOOK AT ME RIGHT NOW",
-        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
-      },
-      "artists": [
-        {
-          "name": "GRANT KNOCHE",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 128358,
-      "name": "LOOK AT ME RIGHT NOW",
-      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 230780,
       "name": "TASTY - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "LOOK AT ME RIGHT NOW",
+        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 128358,
+      "name": "LOOK AT ME RIGHT NOW",
+      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "REBELS NEVER DIE",
         "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 245624,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "Incapable",
-        "url": "https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Incapable (Edit)",
-      "url": "https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "Play in the Dark",
         "url": "https://open.spotify.com/album/1lEmoATjl2zTNpRIjuDsTz"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Incapable",
+        "url": "https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Incapable (Edit)",
+      "url": "https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "Sol De Mi Vida",
         "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 187593,
       "name": "Sol",
       "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "Galazy EP",
-        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 412197,
-      "name": "Electrian",
-      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "Like A Good Old Friend",
-        "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Like A Good Old Friend",
-      "url": "https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9"
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Like A Good Old Friend",
+        "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Like A Good Old Friend",
+      "url": "https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 216706,
       "name": "Beograd - Edit",
       "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1547,6 +1531,22 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "Young Lies",
         "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 405768,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 405768,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
     }
   ],
   "unique_name": "Runway",

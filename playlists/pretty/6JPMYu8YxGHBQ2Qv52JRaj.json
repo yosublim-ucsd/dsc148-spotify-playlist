@@ -6,13 +6,33 @@
     "name": "Maciej P\u0119dzich",
     "url": "https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2"
   },
-  "snapshot_id": "NjQ4LDQ4MTA0M2MzOGE1ODM0NWUyNDFlZmEzZDgwNmU1ZjQ4ZDVmZDQxMjE=",
+  "snapshot_id": "Njc1LGQ2OGRmNzBjMjYwZWZhOGQxZGIzZWI0YWM0ODU0ODQyMGJhNmI4OTI=",
   "tracks": [
     {
-      "added_at": "2023-12-01 08:56:30",
+      "added_at": "2023-12-29 20:00:43",
       "album": {
-        "name": "Move With Tha",
-        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "HAMMER (FIRE AGAIN)",
+      "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "added_at": "2023-12-29 20:03:42",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
       },
       "artists": [
         {
@@ -20,177 +40,149 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Move With Tha",
-      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
-      "added_at": "2023-12-01 09:02:14",
+      "added_at": "2023-12-29 20:06:44",
       "album": {
-        "name": "Missing U",
-        "url": "https://open.spotify.com/album/5H69wAqyg8C74OxfNhWu6u"
-      },
-      "artists": [
-        {
-          "name": "RDGO",
-          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Missing U",
-      "url": "https://open.spotify.com/track/4IqH5YN7ujdJmsvUuJs6YW"
-    },
-    {
-      "added_at": "2023-12-01 09:03:29",
-      "album": {
-        "name": "Share My Love",
-        "url": "https://open.spotify.com/album/7F2T19MHij604pwdnvA9qc"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Share My Love",
-      "url": "https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf"
-    },
-    {
-      "added_at": "2023-12-01 09:00:55",
-      "album": {
-        "name": "Yeah Yeah",
-        "url": "https://open.spotify.com/album/7fNauzvAnfqsDs9z6AuCgP"
-      },
-      "artists": [
-        {
-          "name": "Keeld",
-          "url": "https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/5kM3cpM7CKCXxcOANzLKJ2"
-    },
-    {
-      "added_at": "2023-12-01 09:00:22",
-      "album": {
-        "name": "When the beat Bang",
-        "url": "https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 241875,
-      "name": "When the beat Bang",
-      "url": "https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l"
-    },
-    {
-      "added_at": "2023-12-01 09:05:39",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/4yiFV421AV4gBN8cotNt7z"
-      },
-      "artists": [
-        {
-          "name": "Makla",
-          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
-        },
-        {
-          "name": "NA\u00d8",
-          "url": "https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/7yFfFSxMZKLiirS1r0TZEK"
-    },
-    {
-      "added_at": "2023-12-01 08:58:29",
-      "album": {
-        "name": "The Move",
-        "url": "https://open.spotify.com/album/1lvwcJ55cV3YH8Wvz17auY"
-      },
-      "artists": [
-        {
-          "name": "Isenberg",
-          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
-        },
-        {
-          "name": "JC Stormz",
-          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
-        }
-      ],
-      "duration_ms": 226992,
-      "name": "Steppin",
-      "url": "https://open.spotify.com/track/2U8VSzt3VUxDud3AvXIBZe"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "On My Line",
-        "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
+        "name": "Acting Like ILY / Any Jungle",
+        "url": "https://open.spotify.com/album/6kC6I2FG23uyj9xfNBgNYE"
       },
       "artists": [
         {
           "name": "Zero",
           "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 202462,
-      "name": "On My Line",
-      "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
+      "duration_ms": 245625,
+      "name": "Acting Like ILY",
+      "url": "https://open.spotify.com/track/45is1yT2W6tO8azc9ssZwX"
     },
     {
-      "added_at": "2023-12-01 09:04:08",
+      "added_at": "2023-12-29 20:06:10",
       "album": {
-        "name": "Yo",
-        "url": "https://open.spotify.com/album/7jpAA46FcqA5gb20EhzZKt"
-      },
-      "artists": [
-        {
-          "name": "Dustycloud",
-          "url": "https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/7AoYfh1jh8NUiwnLkVFzDD"
-    },
-    {
-      "added_at": "2023-12-01 09:04:00",
-      "album": {
-        "name": "The Funktion",
-        "url": "https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS"
+        "name": "Sometimes I Get",
+        "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
       },
       "artists": [
         {
           "name": "Curbi",
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
         }
       ],
-      "duration_ms": 208129,
-      "name": "The Funktion",
-      "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
+      "duration_ms": 191445,
+      "name": "Sometimes I Get",
+      "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
+    },
+    {
+      "added_at": "2023-12-29 20:01:15",
+      "album": {
+        "name": "Live & Direct / Axelerator",
+        "url": "https://open.spotify.com/album/35YKQ8jA0fr5nyD6zmoPTy"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Axelerator",
+      "url": "https://open.spotify.com/track/2ZwJMnIA3Lg02Q3Zd3a1HA"
+    },
+    {
+      "added_at": "2023-12-29 20:02:14",
+      "album": {
+        "name": "Dancefloor",
+        "url": "https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE"
+    },
+    {
+      "added_at": "2023-12-29 20:15:22",
+      "album": {
+        "name": "MULTIPLICITY",
+        "url": "https://open.spotify.com/album/1ej8yqRN2IM5SVUHXYgq0O"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4bxlUbXBRevcWUsD4Kf2Bt"
+    },
+    {
+      "added_at": "2023-12-29 20:15:31",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/6lDUeUJ9QBUNrJJpEOJm3c"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Duckworthsound",
+          "url": "https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 195697,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/2mgYFBHNtU8ur5MB7wJs5C"
+    },
+    {
+      "added_at": "2023-12-29 20:16:15",
+      "album": {
+        "name": "Don Malaa \u2013 After Hours",
+        "url": "https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 291102,
+      "name": "How it is - Subshift Remix",
+      "url": "https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF"
+    },
+    {
+      "added_at": "2023-12-29 20:15:54",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 251613,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
     }
   ],
   "unique_name": "Mac's Mixtape",

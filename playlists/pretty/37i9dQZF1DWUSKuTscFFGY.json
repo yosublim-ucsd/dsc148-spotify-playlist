@@ -1,15 +1,15 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Zara Larsson",
-  "num_followers": 233001,
+  "num_followers": 233027,
   "original_name": "Nouveaut\u00e9s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjUwNDIwNDY3NDZmZjdkNGFlMzZiNWM0NTkwZTU1NDNjODFmYmM0",
+  "snapshot_id": "MCxmZWNiYmRkMzJiZTczODU2ODcyOTI4NTkyZTQ0MjZiYTQ4MmIwMmE3",
   "tracks": [
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Memory Lane & Winter Song",
         "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
@@ -25,91 +25,7 @@
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Oh Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/1VVm0vuCYCvTjxHoY49yyZ"
-      },
-      "artists": [
-        {
-          "name": "Aime Simone",
-          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Wish I Could Cry",
-      "url": "https://open.spotify.com/track/1dn6DFWgzn5Zb8eOpwy7Ju"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 210322,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "if you only knew",
         "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
@@ -125,7 +41,39 @@
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
@@ -141,7 +89,7 @@
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
@@ -157,7 +105,23 @@
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
@@ -177,7 +141,87 @@
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Oh Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/1VVm0vuCYCvTjxHoY49yyZ"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Wish I Could Cry",
+      "url": "https://open.spotify.com/track/1dn6DFWgzn5Zb8eOpwy7Ju"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Am I Enough",
+        "url": "https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Am I Enough",
+      "url": "https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Stuck In Paradise",
         "url": "https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U"
@@ -201,55 +245,7 @@
       "url": "https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Hard to Love",
-      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8"
-      },
-      "artists": [
-        {
-          "name": "Preston Pablo",
-          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "playpen",
-        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "we're all eating each other",
-      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Eras Of Us",
         "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
@@ -265,55 +261,7 @@
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "girl in new york",
-        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177140,
-      "name": "girl in new york",
-      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 180527,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "To Love Someone",
         "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
@@ -329,23 +277,59 @@
       "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "A Very Bad Fun Idea (Taken From The Film \"BONUS TRACK\")",
-        "url": "https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU"
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
       },
       "artists": [
         {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 215211,
-      "name": "A Very Bad Fun Idea - Taken From The Film \"BONUS TRACK\"",
-      "url": "https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui"
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "girl in new york",
+        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177140,
+      "name": "girl in new york",
+      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "And So It Begins",
         "url": "https://open.spotify.com/album/6nxKx36eNYHiy2IHos6bQD"
@@ -361,7 +345,23 @@
       "url": "https://open.spotify.com/track/1s4FnYPkihRFSzyfCNlRXb"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "A Very Bad Fun Idea (Taken From The Film \"BONUS TRACK\")",
+        "url": "https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215211,
+      "name": "A Very Bad Fun Idea - Taken From The Film \"BONUS TRACK\"",
+      "url": "https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "High Concept (Deluxe)",
         "url": "https://open.spotify.com/album/4K4xd1yJCISdl7jkRHBb3G"
@@ -393,27 +393,7 @@
       "url": "https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Il y a",
-        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Il y a",
-      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "One Way Flight",
         "url": "https://open.spotify.com/album/0ilIGAmm0OHY9xvVRePEpW"
@@ -429,55 +409,7 @@
       "url": "https://open.spotify.com/track/1fHmyExTgqR3FsiGAI7PGs"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Different Kind Of Beautiful",
-        "url": "https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 201007,
-      "name": "Different Kind Of Beautiful",
-      "url": "https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Am I Enough",
-        "url": "https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Am I Enough",
-      "url": "https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -493,7 +425,55 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Different Kind Of Beautiful",
+        "url": "https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 201007,
+      "name": "Different Kind Of Beautiful",
+      "url": "https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
@@ -513,39 +493,7 @@
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Snow Angel (Deluxe)",
-        "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "orbit",
-        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189994,
-      "name": "orbit",
-      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -561,7 +509,39 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "orbit",
+        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189994,
+      "name": "orbit",
+      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Snow Angel (Deluxe)",
+        "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Two Hearts",
         "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
@@ -577,7 +557,7 @@
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Don't Need to Sleep",
         "url": "https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Why Do the Bad Things Feel Good",
         "url": "https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z"
@@ -609,7 +589,7 @@
       "url": "https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "BLEED",
         "url": "https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk"
@@ -625,7 +605,7 @@
       "url": "https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/60yL1dEhAtjueNtCZD9fkE"
@@ -641,7 +621,7 @@
       "url": "https://open.spotify.com/track/09dCk3StPaVK9JpTU6PGN2"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "know that you're not alone",
         "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
@@ -657,7 +637,7 @@
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/7MeWkn9Yzn3ZZeLTedcjHn"
@@ -673,7 +653,7 @@
       "url": "https://open.spotify.com/track/6snZcyxY401V8zPoWWf3w8"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Someone I Used To Know",
         "url": "https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf"
@@ -693,7 +673,7 @@
       "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "closure",
         "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
@@ -709,7 +689,7 @@
       "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Stellaria",
         "url": "https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Part. 2",
         "url": "https://open.spotify.com/album/0lXpDIWlL7C0IzXPbqAM7L"
@@ -741,7 +721,7 @@
       "url": "https://open.spotify.com/track/1tepZwxYNRJ7OhIl0wuhdP"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
@@ -757,7 +737,7 @@
       "url": "https://open.spotify.com/track/5H42YUEriD3ToSUpJ9wklA"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "club heaven",
         "url": "https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn"
@@ -773,7 +753,7 @@
       "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -789,7 +769,7 @@
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Mirror (Deluxe)",
         "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
@@ -805,7 +785,7 @@
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "BITTERSWEET",
         "url": "https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX"
@@ -821,7 +801,27 @@
       "url": "https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Il y a",
+        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 205365,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Crying in the Carwash",
         "url": "https://open.spotify.com/album/3NLGtBlKz64dChSLbLQqzV"

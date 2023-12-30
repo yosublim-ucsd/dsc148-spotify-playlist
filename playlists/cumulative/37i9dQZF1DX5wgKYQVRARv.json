@@ -2220,6 +2220,24 @@
     {
       "album": {
         "name": "Black Heart",
+        "url": "https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Devil In Me",
+      "url": "https://open.spotify.com/track/7GXeVinQU94kuwF5QY2Tdg"
+    },
+    {
+      "album": {
+        "name": "Black Heart",
         "url": "https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc"
       },
       "artists": [
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Jackal",
       "url": "https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1"
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 232594,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
@@ -9308,7 +9326,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 415666,
       "name": "Subatlantic",
       "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"

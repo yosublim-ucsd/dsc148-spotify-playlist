@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 602703,
+  "num_followers": 602865,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzJiZGFlOGU2YjMyNmY3OGRlYWRiMDY2M2QyMzI0MjhmYzc2MmJi",
+  "snapshot_id": "MCw2ZmU1N2ZkZTQyNzYwYWQ2MTFmOTI4MWY4NjE4YmI1NGZlZTQyNzc1",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Unknown - EP",
-        "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "Tremble - Studio Version",
-      "url": "https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 276186,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Unknown - EP",
+        "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "Tremble - Studio Version",
+      "url": "https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "This Is Not A Test",
         "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Shout to the Lord (Live)",
         "url": "https://open.spotify.com/album/1oAH2mzkbV5UY9FvloQVHa"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 279506,
       "name": "Shout to the Lord - Live",
       "url": "https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "All Sons & Daughters",
-        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        }
-      ],
-      "duration_ms": 296343,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Pieces Of A Real Heart",
-        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+        "name": "All Sons & Daughters",
+        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+      "duration_ms": 296343,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1015,6 +999,22 @@
       "duration_ms": 245424,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 242107,
       "name": "Waymaker - Radio Version",
       "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 333053,
-      "name": "I Am Not Alone - Live",
-      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -1223,6 +1207,38 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 333053,
+      "name": "I Am Not Alone - Live",
+      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1247,38 +1263,34 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Ultimate Worship: Hillsong (Live)",
-        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
       },
       "artists": [
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "God's Not Done with You",
+        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 195617,
+      "name": "God's Not Done with You - Single Version",
+      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1303,22 +1315,6 @@
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "God's Not Done with You",
-        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 195617,
-      "name": "God's Not Done with You - Single Version",
-      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1371,22 +1367,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Awakening - Live From Chicago",
         "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
       },
@@ -1407,6 +1387,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "We Are Messengers",
         "url": "https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL"
       },
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+        "name": "Ultimate Worship: Hillsong (Live)",
+        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
       },
       "artists": [
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+      "duration_ms": 220826,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Anything Worth Saying",
+        "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 291986,
+      "name": "My Savior My God",
+      "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 274814,
       "name": "Lord, I Need You - Live",
       "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Anything Worth Saying",
-        "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 291986,
-      "name": "My Savior My God",
-      "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "Hallelujah Even Here",
-      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
       },
@@ -1687,26 +1671,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Into The Deep (Live)",
-        "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
-        }
-      ],
-      "duration_ms": 388133,
-      "name": "Into The Deep - Live",
-      "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "The Story Of Your Life",
         "url": "https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39"
       },
@@ -1719,6 +1683,38 @@
       "duration_ms": 243360,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "Hallelujah Even Here",
+      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
+        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 287434,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
     }
   ],
   "unique_name": "Everyday Inspiration",

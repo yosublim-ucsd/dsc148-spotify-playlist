@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 75066,
-  "original_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "num_followers": 75834,
+  "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkyZTBmZjM1M2Q3ZmQ3NWUyYWVjMTAxMTk3ZjU4NGJhMDUwYmQ0",
+  "snapshot_id": "MCwzZDc2Y2YyNDFmYTI1ZTUwNDhmZDczN2U1ZTA5N2RiOTIyZjliYjZj",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 165653,
       "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
       "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "What Comes Will Come",
+      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "no sleep in LA",
         "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "STRUGGLER",
-        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
         }
       ],
-      "duration_ms": 231240,
-      "name": "What Comes Will Come",
-      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -1035,38 +1051,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "denver luna (acappella)",
         "url": "https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "WRECKED",
         "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
       },
@@ -1435,18 +1415,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
       },
       "artists": [
         {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
         }
       ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Better Than I?",
         "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
       },
@@ -1519,6 +1519,30 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
+        "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 111044,
+      "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
+      "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1559,30 +1583,6 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
-        "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 111044,
-      "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
-      "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
     },
     {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
+      },
+      "artists": [
+        {
+          "name": "Insincere",
+          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
+        }
+      ],
+      "duration_ms": 165307,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
+    },
+    {
       "added_at": "2023-11-20 15:00:00",
       "album": {
         "name": "Pemmican",
@@ -1853,20 +1869,20 @@
       "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
-      "added_at": "2023-12-01 18:29:06",
+      "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "smile",
-        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
       },
       "artists": [
         {
-          "name": "Insincere",
-          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
         }
       ],
-      "duration_ms": 165307,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
+      "duration_ms": 113526,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1891,22 +1907,6 @@
       "duration_ms": 257828,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pain/Pleasure",
-        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 113526,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -2073,6 +2073,6 @@
       "url": "https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ"
     }
   ],
-  "unique_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "unique_name": "EA SPORTS FC 24 Official Soundtrack",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs"
 }

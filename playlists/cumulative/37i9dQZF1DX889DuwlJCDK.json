@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A box of Stockholm",
+        "url": "https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160122,
+      "name": "A box of Stockholm",
+      "url": "https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl"
+    },
+    {
+      "album": {
         "name": "ABCD Girl",
         "url": "https://open.spotify.com/album/1JaETgTmW0daTqaS5HLZSa"
       },
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160122,
       "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
       "url": "https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo"
@@ -5378,6 +5396,24 @@
       "duration_ms": 216005,
       "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u3066\u3001\u98db\u3093\u3060\u30d0\u30a4\u30c8",
       "url": "https://open.spotify.com/track/5zY4faVL5mefzyO4HSBHoc"
+    },
+    {
+      "album": {
+        "name": "\u5024\u5343\u91d1",
+        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286225,
+      "name": "\u5024\u5343\u91d1",
+      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
     },
     {
       "album": {
@@ -6372,7 +6408,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 173266,
       "name": "\u672a\u604b",
       "url": "https://open.spotify.com/track/7di9SUFpG3DttWIodKMhJ0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,177 likes - 38 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,228 likes - 38 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 24 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
 | 25 | [Gasolina](https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 10](https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF) | 3:50 |
 | 26 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
-| 27 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
-| 28 | [Nando](https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 2:59 |
+| 27 | [Nando](https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 2:59 |
+| 28 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
 | 29 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 30 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
 | 31 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Pobre Marinero](https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 5:08 |
 | 38 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
 
-Snapshot ID: `MCw0NjgzYzNlNzgyNzM5YmZjZWJlMzAzYWYwMzA2YzMxYTVlNzZlMjli`
+Snapshot ID: `MCxiNThiNTc3YzlkZjVlMzNjOTJmY2FjYmE5MzQ5YmJlZDMyMjBiZWZi`

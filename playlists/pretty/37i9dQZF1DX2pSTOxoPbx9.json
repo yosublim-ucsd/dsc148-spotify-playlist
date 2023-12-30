@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 801374,
+  "num_followers": 801959,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTQyNDgzMjJkMjc4MTM2NWM2ZTlkZTc4MmZjOGFkN2VhYTdhOWI4",
+  "snapshot_id": "MCw1N2FhMDRmNjg2MjUzNGVhNmM3YmQ3YzFiNmYwZWE3YTA1NjAwNmM5",
   "tracks": [
     {
       "added_at": "2023-11-20 17:42:26",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 219226,
-      "name": "9 Crimes",
-      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+        "name": "9",
+        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+      "duration_ms": 219226,
+      "name": "9 Crimes",
+      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Carry the Fire",
-        "url": "https://open.spotify.com/album/42NjSADnDs97o75bICIqs0"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 202520,
-      "name": "Bottom of the River",
-      "url": "https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Carry the Fire",
+        "url": "https://open.spotify.com/album/42NjSADnDs97o75bICIqs0"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "Bottom of the River",
+      "url": "https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "In My Body",
-        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 354266,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Bones EP",
-        "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
+        "name": "In My Body",
+        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 265098,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
+      "duration_ms": 354266,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+        "name": "Bones EP",
+        "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
+      "duration_ms": 265098,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Agape",
-        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 285677,
-      "name": "When You Break",
-      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "The Crow Mother",
         "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 216493,
       "name": "The Fold",
       "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Agape",
+        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 285677,
+      "name": "When You Break",
+      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 300960,
       "name": "My Love Took Me Down To the River To Silence Me",
       "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "One Big Nothing",
-        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Fall Forever",
         "url": "https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 282232,
       "name": "Sane",
       "url": "https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "One Big Nothing",
+        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Roubion",
-          "url": "https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2"
-        }
-      ],
-      "duration_ms": 140034,
-      "name": "Don't Know Who I Am",
-      "url": "https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Broods",
         "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 180067,
       "name": "Sleep Baby Sleep",
       "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "Gamble for a Rose",
-        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
-      },
-      "artists": [
-        {
-          "name": "King Charles",
-          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Loose Change for the Boatman",
-      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1579,6 +1547,38 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Roubion",
+          "url": "https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2"
+        }
+      ],
+      "duration_ms": 140034,
+      "name": "Don't Know Who I Am",
+      "url": "https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
         "name": "Into the Glass - EP",
         "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 203360,
       "name": "Beautiful Undone",
       "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "Old Flint",
-        "url": "https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
+        "name": "Old Flint",
+        "url": "https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 307520,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
         "name": "Farm b/w Lift",
         "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Fever To The Form",
-        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 252080,
-      "name": "House Of Saint Give Me",
-      "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
+      "duration_ms": 212258,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
     }
   ],
   "unique_name": "Dark & Stormy",

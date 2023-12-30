@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Maeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,247 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,269 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 |
 | 50 | [Only One](https://open.spotify.com/track/6LBJHRRjxmvgG6p0jFYEdJ) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [Only One](https://open.spotify.com/album/25mBuCyLdfYl3j7wIfCw7O) | 3:17 |
 
-Snapshot ID: `MCw1YTUzZDc0ODI1ODI4ZjNiYmRmNTVmZjEyMmU3ODVmMGQyMzc2MmQ4`
+Snapshot ID: `MCxiMDQ5NTM1NTU2YTJhZmE5OWE5YzkxNWRjYzM2MWViYjhiMDMwYTlj`

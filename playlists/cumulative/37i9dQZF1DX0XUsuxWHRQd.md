@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Juice WRLD, Central Cee and JID.
+> Music from Drake, Jack Harlow and Juice WRLD.
 
-1,883 songs - 4 day 1 hr 34 min
+1,884 songs - 4 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1070,7 +1070,8 @@
 | [Never Imagined \(feat\. Future\)](https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:12 | 2023-05-26 | 2023-06-17 |
 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2021-05-12 | 2021-09-04 |
 | [Never Lie \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0CLhMOVhX6TaPpugYkEsge) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Never Lie \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/6w9XKjOZTLF7CBhA5P6LOB) | 3:33 | 2019-08-23 | 2019-09-06 |
-| [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 | 2023-12-15 |  |
+| [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2023-12-30 |  |
+| [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 | 2023-12-15 | 2023-12-30 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 | 2022-10-29 |
 | [New York \(feat\. A Boogie Wit Da Hoodie & Jadakiss\)](https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 3:55 | 2022-07-15 | 2022-08-13 |
 | [NFL](https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [NFL](https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll) | 3:05 | 2023-10-20 | 2023-11-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 224323,
+  "num_followers": 224454,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjhjNjAzMmEyM2U2ZDdjOGJlYTY2YmVlYTU2ODk0YjgwMTdiNzYw",
+  "snapshot_id": "MCxjYTg5M2YwNDFmMWI3MGQwNzcyM2JhYTllM2Q0MGYwNzkwNDBjNWUz",
   "tracks": [
     {
       "added_at": "2023-12-22 12:39:29",
@@ -199,62 +199,6 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 104145,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
-        "url": "https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        }
-      ],
-      "duration_ms": 177551,
-      "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
-      "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -287,6 +231,62 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
+        "url": "https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "duration_ms": 177551,
+      "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
+      "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "Faz Completo, Chefe",
-        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Faz Completo, Chefe",
-      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -427,6 +407,50 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
+        "name": "Faz Completo, Chefe",
+        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Faz Completo, Chefe",
+      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Pensamentos Intrusivos",
-      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 154789,
       "name": "Porsche \"Ye Yo\"",
       "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -935,6 +935,30 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
         "name": "TRAP DE MALOKA",
         "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -1071,34 +1071,6 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1127,22 +1099,62 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "GB",
-          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Pique Novo",
-          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 177410,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Sensa\u00e7\u00e3o de Liberdade",
+      "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -1167,26 +1179,6 @@
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Gato Preto",
-      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -1235,8 +1227,72 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "Namora & Disfar\u00e7a (Bonus Track)",
+        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
       },
       "artists": [
         {
@@ -1244,49 +1300,13 @@
           "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Renc Renc",
-      "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Sensa\u00e7\u00e3o de Liberdade",
-      "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
+      "duration_ms": 102400,
+      "name": "Namora & Disfar\u00e7a - Bonus Track",
+      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
     },
     {
       "added_at": "2023-12-22 12:39:29",
@@ -1331,30 +1351,6 @@
       "duration_ms": 194753,
       "name": "Me Assume Ou Me Esquece - Ao Vivo",
       "url": "https://open.spotify.com/track/71clr6L0EOTBfZPHh5MwM9"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     }
   ],
   "unique_name": "AMPLIFIKA",

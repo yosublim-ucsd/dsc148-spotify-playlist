@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "A box of Stockholm",
+        "url": "https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160122,
+      "name": "A box of Stockholm",
+      "url": "https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl"
+    },
+    {
+      "album": {
         "name": "A.Y.A",
         "url": "https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu"
       },
@@ -9090,7 +9108,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 128533,
       "name": "Sono Keshiki o",
       "url": "https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s"
@@ -10048,6 +10066,24 @@
       "duration_ms": 244133,
       "name": "to be continued",
       "url": "https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK"
+    },
+    {
+      "album": {
+        "name": "todayyyyy",
+        "url": "https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "todayyyyy",
+      "url": "https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03"
     },
     {
       "album": {
@@ -13778,7 +13814,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160122,
       "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
       "url": "https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo"

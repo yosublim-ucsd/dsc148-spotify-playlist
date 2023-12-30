@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,121 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,630 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 16 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 |
 | 17 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
 | 18 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
-| 19 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 |
+| 19 | [Msh True](https://open.spotify.com/track/4e9CodHmD7W5Yh4pPo3rBH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 2:48 |
 | 20 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 |
 | 21 | [Mel Awel](https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp) | [3askalany](https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP) | [Mel Awel](https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS) | 3:22 |
 | 22 | [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 40 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCw3YmJjMjBkNjUwYmY3ZGZmMjE1N2JhNzYyNTlhYTM2ZDE4N2IyMWU0`
+Snapshot ID: `MCw1YzczNWI4NDkxNzk2ZDRiNjAyMWY4NTU5ZTA0ZDAyZTlhYmViZDdk`

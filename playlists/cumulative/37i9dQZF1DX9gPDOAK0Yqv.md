@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-403 songs - 1 day 10 hr 2 min
+404 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2022-11-23 |  |
 | [Home](https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY) | [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Home](https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN) | 4:54 | 2023-04-07 | 2023-12-13 |
 | [Human Robot](https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Human Robot](https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a) | 6:56 | 2023-08-04 |  |
-| [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 | 2023-10-27 |  |
+| [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 | 2023-10-27 | 2023-12-30 |
 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 | 2023-12-15 |  |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-02 | 2023-12-01 |
 | [Hypno Therapy](https://open.spotify.com/track/7nRA1ebc541cvTMXzNIz7O) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Hypno Therapy](https://open.spotify.com/album/16QXxjSeXbwkVyApPgU149) | 5:30 | 2023-02-04 | 2023-02-10 |
@@ -282,6 +282,7 @@
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 |  |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
+| [Requiem for a Dream \- 2024 Edit](https://open.spotify.com/track/6cq0wIPixlevfTh0fkL8TV) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Requiem for a Dream \(2024 Remake\)](https://open.spotify.com/album/1GtJHDGbaDG74zoNWHi3fF) | 3:54 | 2023-12-15 |  |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-23 | 2023-07-02 |
 | [Resonate](https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/0PcWgMMLJGtg1rdEtrF1fa) | 3:41 | 2023-07-07 |  |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2022-12-09 | 2023-04-09 |

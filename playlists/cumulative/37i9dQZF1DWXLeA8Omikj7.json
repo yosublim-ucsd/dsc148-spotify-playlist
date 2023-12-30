@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 309051,
       "name": "Blaumeise",
       "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 343332,
       "name": "Blissda",
       "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 264120,
       "name": "Dundas, Ontario",
       "url": "https://open.spotify.com/track/2xjxVDCkGBBEYWUjSZIl9S"
@@ -14878,7 +14878,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 146000,
       "name": "The Warehouse",
       "url": "https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi"

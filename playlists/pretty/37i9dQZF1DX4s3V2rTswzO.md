@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,625 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,751 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:03 |
-| 2 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/3JdD9wqvohYMjK6BmEHtTP) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Emotions](https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX) | 2:52 |
+| 2 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/0Seumg0NAq7KS1r0Yso52H) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Satie: Masterpieces](https://open.spotify.com/album/0prSt5SFLlXKakAkGoLTs0) | 2:52 |
 | 3 | [Lakmé: Flower Duet \(arr\. piano\)](https://open.spotify.com/track/0OzWMv5ZuMszZVwYUNL9j6) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Delibes \- Inspiring Composers](https://open.spotify.com/album/4pAzMSQaGNWt6sI1yYyzVL) | 2:51 |
 | 4 | [Schumann: 12 Gedichte aus Liebesfrühling, Op\. 37: No\. 11: Warum willst du andre fragen](https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 2:09 |
 | 5 | [Capriol Suite: 5\. Pied\-en\- l'air](https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU) | [Peter Warlock](https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Nicholas Kraemer](https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Fantasia on Greensleeves](https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV) | 2:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 50 | [The Poetry Of Wind And Waves](https://open.spotify.com/track/3o9Yhvfzz2M7vpznPrCmFi) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw) | [The Poetry Of Wind And Waves](https://open.spotify.com/album/7CENd1RU98aqawftWBefgk) | 2:30 |
 | 51 | [Peer Gynt, Op\. 23: Solveig's Song \(Arr\. for Violin and Piano by Charlie Siem\)](https://open.spotify.com/track/4ghT12J2hsyfn0JZ4RDWrf) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Vaughan Williams and Grieg: Violin Sonatas](https://open.spotify.com/album/0WufA4zaVLfu1VDwyyK8SZ) | 4:49 |
 
-Snapshot ID: `MCw4ODMxMmY5NzMxM2Y5YWZiYmY1YmRiNTU0ODMyZGM0MjQ2M2I5NWU1`
+Snapshot ID: `MCw3MzVmNWNlMjA0M2VmOGMyOTFkNTkzNjE3YmM2Y2Q5ZDYxM2QxNzU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,003 likes - 106 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,050 likes - 106 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 82 | [何必 \- 《前任4：英年早婚》電影主題曲](https://open.spotify.com/track/0Sh3GH2mqipOARvZ9qqABo) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [何必 \(《前任4：英年早婚》電影主題曲\)](https://open.spotify.com/album/5wuFaQ0LWK15tqI9BMpXcr) | 4:58 |
 | 83 | [為我停留](https://open.spotify.com/track/7MjhShQRAeSTvFN04DbeVd) | [Chen Linong](https://open.spotify.com/artist/33L43pzLHkc0qhwnfPLWAt) | [為我停留](https://open.spotify.com/album/5U1dRWOr4abp4P3qg5eEXq) | 3:32 |
 | 84 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
-| 85 | [胚胎](https://open.spotify.com/track/31p3SpR8P75SQbhrjXnSnH) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [胚胎](https://open.spotify.com/album/68JJ6HyWa5EPQkJnyLLTmI) | 4:06 |
+| 85 | [胚胎](https://open.spotify.com/track/0vHEEaOhxeKBDfZCwR9jCp) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [裘德](https://open.spotify.com/album/7rUFCGnoJWN63OkE8GEhG0) | 4:06 |
 | 86 | [極光](https://open.spotify.com/track/7hgto8fRGxZMh4lDa69Azw) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [極光](https://open.spotify.com/album/7hISVS1MlOmTDltGgAfaPJ) | 3:22 |
 | 87 | [十二月的熱情](https://open.spotify.com/track/2i501uCIQpESS4UJkjrPFx) | [Lim Tay Peng](https://open.spotify.com/artist/2C5tlCZvcXkn3kGZAyCXtB) | [十二月的熱情](https://open.spotify.com/album/6aKunRUdpz19OJBcwD9KKf) | 3:57 |
 | 88 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 105 | [現在的自己](https://open.spotify.com/track/5yEeCwJt7X68hIqN6I8QwB) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [現在的自己](https://open.spotify.com/album/1cgLI0KRmEV3bExgKMV7XZ) | 3:21 |
 | 106 | [不合时宜](https://open.spotify.com/track/1sSBzUnzhC233bIUf4Je6D) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [不合时宜](https://open.spotify.com/album/1ozyKU9ovth7R8h6CvYluo) | 3:18 |
 
-Snapshot ID: `MCw0YjY0MzhlOTRjNzU3ZmI0OTA1NDY5YmM1YTU0Yjk3ZmE0ZGNhYTQx`
+Snapshot ID: `MCxmNDRhMzBiYjBhMzQ5MDM2NDk3YzcwMjU4NDQwYjFlY2ViODA4Yjhl`

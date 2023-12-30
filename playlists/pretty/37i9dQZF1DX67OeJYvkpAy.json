@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90375,
+  "num_followers": 90389,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
+  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Two Years Clear",
-        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+          "name": "Mboogz",
+          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
         }
       ],
-      "duration_ms": 203128,
-      "name": "Two Years Clear",
-      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
+      "duration_ms": 213790,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
+        "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
       },
       "artists": [
         {
-          "name": "Mboogz",
-          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
         }
       ],
-      "duration_ms": 213790,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
+      "duration_ms": 203128,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -571,22 +575,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "House Invasions",
-        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
-      },
-      "artists": [
-        {
-          "name": "Nino SLG",
-          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "House Invasions",
-      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 191611,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> É O BRASIL FELIZ DE NOVO!!!!!!!!!!!!
+> oii chefe psshshhs relatorio? pshhhshshhs ta cortando aqui...psshshshs ta chiando psshhshshs vou fazer sim pshhhs
 
 361 songs - 16 hr 49 min
 
@@ -313,7 +313,7 @@
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-19 | 2023-08-04 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2023-05-03 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-20 | 2022-08-10 |
-| [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Hits Forró](https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 |  |
+| [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Hits Forró](https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 |  |
 | [Teu Amigo Cuidou](https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr) | [Mariana Reis](https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb) | [Ao Vivo Abril 2022](https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX) | 3:33 | 2022-07-04 | 2022-08-05 |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2022-05-26 | 2022-07-29 |
 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 | 2022-07-28 | 2022-09-22 |

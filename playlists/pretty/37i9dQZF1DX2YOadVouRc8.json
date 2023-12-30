@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 20404,
+  "num_followers": 20454,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzc3MjAxMDk4OTAwMDkzZDBlNzAwNGE0NmVmZWQzZWIxMzJjYzYy",
+  "snapshot_id": "MCwyNDEwNTE3ZWFkNmFmMzNiMmRiNTZmNTEzYWZmMWExNWQ1OTQ4ZDdm",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -352,7 +352,7 @@
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "DARRYL WUZ HERE",
-        "url": "https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX"
+        "url": "https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T"
       },
       "artists": [
         {
@@ -362,7 +362,7 @@
       ],
       "duration_ms": 115822,
       "name": "SUJIE",
-      "url": "https://open.spotify.com/track/3k7Ux0T0Amaj2dulDphT5u"
+      "url": "https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Routine Lover",
-        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
-      },
-      "artists": [
-        {
-          "name": "Good Nation",
-          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Routine Lover",
-      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "SUPARO (Remix)",
         "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 166271,
+      "name": "imagine (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
       },
@@ -995,22 +1015,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         },
         {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
-      "duration_ms": 166271,
-      "name": "imagine (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1035,26 +1055,6 @@
       "duration_ms": 132837,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "TEARS OF THE SUN",
-        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 170721,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv"
+      "duration_ms": 228470,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1207,42 +1211,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "SNAPCHAT",
-        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
-      },
-      "artists": [
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "SNAPCHAT",
-      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
+      "duration_ms": 170721,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1279,6 +1259,26 @@
       "duration_ms": 152941,
       "name": "Whine",
       "url": "https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "SNAPCHAT",
+        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
+      },
+      "artists": [
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "SNAPCHAT",
+      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "ULTRALIGHT",
         "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
     },
     {
       "added_at": "2023-12-22 00:01:00",

@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
 
-77 songs - 3 hr 51 min
+78 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Elfhelm, the City of the Elves](https://open.spotify.com/track/7bFn7fhtNkDyGmjzcRti02) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 3:18 | 2022-11-18 | 2022-11-23 |
 | [Everybody Loves Christmas](https://open.spotify.com/track/4Gq6cezJ21QZZ8EJHRN2JL) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Everybody Loves Christmas](https://open.spotify.com/album/1Ef2MscpOm3YYK7q41EiWE) | 3:15 | 2022-11-18 |  |
 | [Everybody Loves Christmas](https://open.spotify.com/track/2FpQtDVsANiElh8gZ9M5Al) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 3:16 | 2022-11-18 | 2023-01-12 |
+| [Everyday Will Be Like A Holiday \(from the Netflix Film "Good Grief"\)](https://open.spotify.com/track/5t9EKPIKia2UR1ciBPYycX) | [Good Grief \- Cast](https://open.spotify.com/artist/2PUfebyrUUsHeitajBQwrN) | [Everyday Will Be Like A Holiday \(from the Netflix Film "Good Grief"\)](https://open.spotify.com/album/2zbulrDfqdANNmQzqaO4tk) | 3:02 | 2023-12-27 |  |
 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 | 2022-11-18 |  |
 | [First Christmas \(That I Loved You\) \- From The Netflix Film Let It Snow](https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt) | 3:02 | 2022-11-18 | 2023-02-18 |
 | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4) | 3:02 | 2022-11-18 | 2023-11-07 |

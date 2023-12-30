@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 24994,
+  "num_followers": 25045,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QzYzMzODQ0NWMxMzRlNjkyN2NjYWNlMDZhMGE1NmZlYWFkNDQx",
+  "snapshot_id": "MCw3NmFkY2E3NWZjYjQwMjlmYzViYjFjODY0OWU1MDhmZjViNzdmNTFl",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -187,18 +187,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
       "artists": [
         {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
         }
       ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Blues Is King (Live At The International Club, Chicago/1966)",
         "url": "https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 211840,
       "name": "Tired Of Your Jive - Live At The International Club, Chicago/1966",
       "url": "https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Don't Drive Me Baby",
-      "url": "https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
+      "duration_ms": 159000,
+      "name": "Don't Drive Me Baby",
+      "url": "https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym"
     },
     {
       "added_at": "2020-10-21 20:41:20",

@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 223206,
+  "num_followers": 223181,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjVjMTBjM2FiNWU1MDE0ZmY3MjRhODRjMTViOWQyMTVlNzU2ZmI2",
+  "snapshot_id": "MCwxNGY4YTkzZjgzZmY4ZjI2YzBkNTRhMzM0YTBhNjg0YzAxNmViY2E3",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -271,18 +271,34 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -315,22 +331,6 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
-      },
-      "artists": [
-        {
-          "name": "Light The Torch",
-          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "The Safety of Disbelief",
-      "url": "https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
+      },
+      "artists": [
+        {
+          "name": "Light The Torch",
+          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "The Safety of Disbelief",
+      "url": "https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -931,22 +931,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 165891,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -971,18 +967,22 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
+      "duration_ms": 165891,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -999,6 +999,22 @@
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Bones Exposed",
+      "url": "https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -1039,22 +1055,6 @@
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
-        "name": "Restoring Force",
-        "url": "https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Bones Exposed",
-      "url": "https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+        "name": "Bullet For My Valentine",
+        "url": "https://open.spotify.com/album/76DreJ7TNtULuyeVoPC9rw"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 181290,
-      "name": "Dirty Rotten Bizkit",
-      "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
+      "duration_ms": 256068,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/0A04MG489D3uGPYpNcjniU"
     }
   ],
   "unique_name": "Heavy Gamers",

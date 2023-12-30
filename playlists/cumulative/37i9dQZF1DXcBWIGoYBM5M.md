@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> Nicki Minaj is on top of the Hottest 50!
+> Taylor Swift is on top of the Hottest 50!
 
 1,010 songs - 2 day 6 hr 12 min
 

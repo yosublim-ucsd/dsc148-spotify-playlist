@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: SXMPRA",
-  "num_followers": 561973,
+  "num_followers": 562380,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTlmZGRlODM4NTAwZTUwMDc4N2RhN2RjYWE0NWNhNzcxNDJlY2M2",
+  "snapshot_id": "MCw5YzZkY2MxZDM3ZjlmMjRmZjU4MGJmOWIxODg0NzMxMzkwOTBmMzU1",
   "tracks": [
     {
       "added_at": "2023-12-08 15:38:28",
@@ -27,6 +27,58 @@
       "duration_ms": 210976,
       "name": "BUSINESS MAN (feat. Juicy J)",
       "url": "https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1"
+    },
+    {
+      "added_at": "2023-12-27 19:57:37",
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 127768,
+      "name": "New Profile Pic",
+      "url": "https://open.spotify.com/track/0oGakZG2y3wcgHDF1YWPGD"
+    },
+    {
+      "added_at": "2023-12-27 19:57:37",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2023-12-08 15:38:28",
+      "album": {
+        "name": "I HOPE YOU'RE HAPPY",
+        "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
     },
     {
       "added_at": "2023-11-13 15:13:31",
@@ -75,26 +127,6 @@
       "duration_ms": 275675,
       "name": "in your darkest nightmares, you'll see me",
       "url": "https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44"
-    },
-    {
-      "added_at": "2023-12-08 15:38:28",
-      "album": {
-        "name": "I HOPE YOU'RE HAPPY",
-        "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        },
-        {
-          "name": "ZillaKami",
-          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
-      "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
     },
     {
       "added_at": "2023-11-16 22:44:54",
@@ -169,20 +201,24 @@
       "url": "https://open.spotify.com/track/0qDh00qePgockS9SuBap61"
     },
     {
-      "added_at": "2023-08-29 17:56:43",
+      "added_at": "2023-12-08 15:38:28",
       "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+        "name": "harmful",
+        "url": "https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
         }
       ],
-      "duration_ms": 180774,
-      "name": "Not Even Ghosts Are This Empty",
-      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
+      "duration_ms": 123926,
+      "name": "harmful",
+      "url": "https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -205,26 +241,6 @@
       "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
     },
     {
-      "added_at": "2023-12-08 15:38:28",
-      "album": {
-        "name": "harmful",
-        "url": "https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 123926,
-      "name": "harmful",
-      "url": "https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7"
-    },
-    {
       "added_at": "2023-12-05 18:11:47",
       "album": {
         "name": "RIGHT BETWEEN THE EYES",
@@ -239,6 +255,22 @@
       "duration_ms": 216960,
       "name": "RIGHT BETWEEN THE EYES",
       "url": "https://open.spotify.com/track/6MduUVifnAw1mft3JR41Z9"
+    },
+    {
+      "added_at": "2023-08-29 17:56:43",
+      "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Not Even Ghosts Are This Empty",
+      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
     },
     {
       "added_at": "2023-12-01 15:46:50",
@@ -275,26 +307,6 @@
       "duration_ms": 133286,
       "name": "MY DAY IS RUINED !",
       "url": "https://open.spotify.com/track/5DYpHAtMDShweH1zaYUXRQ"
-    },
-    {
-      "added_at": "2023-11-08 18:53:31",
-      "album": {
-        "name": "Radical $uicide",
-        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Memoirs of a Gorilla",
-      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
     },
     {
       "added_at": "2023-11-28 15:10:16",
@@ -1325,6 +1337,26 @@
       "url": "https://open.spotify.com/track/7GIQoV4S6xkko6fNzokflj"
     },
     {
+      "added_at": "2023-11-08 18:53:31",
+      "album": {
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Memoirs of a Gorilla",
+      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "SUN DOWN",
@@ -1627,22 +1659,6 @@
       "duration_ms": 161500,
       "name": "the world is big",
       "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 113553,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1997,22 +2013,6 @@
       "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "#ImSippinTeaInYoHood",
-      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
-    },
-    {
       "added_at": "2023-01-06 16:11:10",
       "album": {
         "name": "JFK",
@@ -2213,22 +2213,6 @@
       "url": "https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx"
     },
     {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "EYE SPY",
-        "url": "https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 146635,
-      "name": "EYE SPY",
-      "url": "https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3"
-    },
-    {
       "added_at": "2023-03-08 15:25:40",
       "album": {
         "name": "GRAVEWORLD.TV/LIVE",
@@ -2297,22 +2281,6 @@
       "url": "https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1"
     },
     {
-      "added_at": "2022-10-14 04:47:00",
-      "album": {
-        "name": "from hell, with love",
-        "url": "https://open.spotify.com/album/5Z1wCaNwpco3vL0q42r1ph"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 109792,
-      "name": "from hell, with love",
-      "url": "https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "PSYCHX",
@@ -2331,50 +2299,6 @@
       "duration_ms": 122542,
       "name": "I FEEL ALIVE",
       "url": "https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "MUDD",
-        "url": "https://open.spotify.com/album/1E4SvucOCxgyUiH5hU6BTH"
-      },
-      "artists": [
-        {
-          "name": "$werve",
-          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
-        },
-        {
-          "name": "Grioten",
-          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
-        },
-        {
-          "name": "Day$okee",
-          "url": "https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "MUDD",
-      "url": "https://open.spotify.com/track/5atfVRV16HQZTF8S6IuNWN"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Kick Rocks (feat. Lil Darkie)",
-        "url": "https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Kick Rocks (feat. Lil Darkie)",
-      "url": "https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ"
     },
     {
       "added_at": "2022-09-20 13:38:42",

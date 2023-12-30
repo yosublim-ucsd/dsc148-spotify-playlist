@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-150 songs - 7 hr 34 min
+151 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-30 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-30 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-07 |  |
+| [Feel Good](https://open.spotify.com/track/2YDRLaRfmwdtwfcg0nVLeO) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Feel Good](https://open.spotify.com/album/5TrjLIYChGEUMbJIu4UVwk) | 2:33 | 2023-12-22 |  |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2021-06-07 | 2023-10-18 |
 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 | 2021-06-07 |  |
 | [Fuck That](https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 2:30 | 2023-09-15 | 2023-10-18 |
@@ -142,7 +143,7 @@
 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2023-10-17 | 2023-12-08 |
 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 | 2023-05-26 | 2023-06-03 |
 | [Unload](https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Unload](https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP) | 3:50 | 2022-07-28 | 2022-10-13 |
-| [Vawulence](https://open.spotify.com/track/6L3uqX3OEBXMFB2HDfLlTx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:05 | 2023-10-17 |  |
+| [Vawulence](https://open.spotify.com/track/6L3uqX3OEBXMFB2HDfLlTx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:05 | 2023-10-17 | 2023-12-30 |
 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 | 2023-03-24 |  |
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-09-09 | 2022-10-01 |
 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 | 2023-03-31 | 2023-06-17 |

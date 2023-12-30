@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Jaido P",
-  "num_followers": 38854,
+  "num_followers": 39326,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDcxMzgxYTdlNzhjNjExNmFhY2ExMjlkZTRjOWZkYzg5ZTYwZGI2",
+  "snapshot_id": "MCw5OWQxMTA2ODc5M2MyZDUyYTNkOGU3MTJlNjAyMWE5NGYwZGRhMDIw",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Many Things",
+        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 167881,
+      "name": "Many Things",
+      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Many Things",
-        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 167881,
-      "name": "Many Things",
-      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+        "name": "Off The Planet (OTP)",
+        "url": "https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
         }
       ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+      "duration_ms": 157230,
+      "name": "Off The Planet (OTP)",
+      "url": "https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Off The Planet (OTP)",
-        "url": "https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
       },
       "artists": [
         {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 157230,
-      "name": "Off The Planet (OTP)",
-      "url": "https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0"
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -707,22 +707,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Egopiano",
-        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
+        "name": "Sere (feat. Tega boi dc)",
+        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
       },
       "artists": [
         {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+          "name": "Evil Beast",
+          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Egopiano",
-      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
+      "duration_ms": 130873,
+      "name": "Sere (feat. Tega boi dc)",
+      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -743,22 +743,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Sere (feat. Tega boi dc)",
-        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
+        "name": "Egopiano",
+        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
       },
       "artists": [
         {
-          "name": "Evil Beast",
-          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
         },
         {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 130873,
-      "name": "Sere (feat. Tega boi dc)",
-      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
+      "duration_ms": 151578,
+      "name": "Egopiano",
+      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Time (Remix)",
-        "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
-      },
-      "artists": [
-        {
-          "name": "Damo K",
-          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 147931,
-      "name": "Time - Remix",
-      "url": "https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Call of Duty",
         "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
       },
@@ -1091,6 +1071,22 @@
       "duration_ms": 144444,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Gdzilla",
+        "url": "https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO"
+      },
+      "artists": [
+        {
+          "name": "Gdzilla",
+          "url": "https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ"
     }
   ],
   "unique_name": "Street Energy ",

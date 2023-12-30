@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 373894,
       "name": "Rough and Straight",
       "url": "https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z"
@@ -1930,6 +1930,28 @@
       "duration_ms": 134400,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv"
+    },
+    {
+      "album": {
+        "name": "Strings of Serenity",
+        "url": "https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        },
+        {
+          "name": "Pratik Shrivastava",
+          "url": "https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Strings of Serenity",
+      "url": "https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4"
     },
     {
       "album": {

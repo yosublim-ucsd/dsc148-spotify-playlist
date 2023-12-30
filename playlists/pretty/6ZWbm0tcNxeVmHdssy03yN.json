@@ -1,13 +1,29 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 38817,
+  "num_followers": 38882,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NTk3MCxmYmEzMGQ2ZjQyYWZjMGI5YzU4ZDA4OTJjMjBmZDBmMTcxNjk3NjE0",
+  "snapshot_id": "NTk3MSw1NjNlZWMxMjc0NTQ1NzQyMjE1OGYyYTFmOWEwMDBjYjJkOGUwMGJl",
   "tracks": [
+    {
+      "added_at": "2023-12-29 11:47:00",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
+    },
     {
       "added_at": "2023-12-22 14:53:03",
       "album": {

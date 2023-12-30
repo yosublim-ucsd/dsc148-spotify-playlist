@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292959,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7"
+    },
+    {
+      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 267754,
       "name": "Whisper (Acoustic)",
       "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"

@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 384953,
+  "num_followers": 385905,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTI2NDljMjkyNzAyNDU3MjVhMjlmMTc0YTY4ZTBhZWFiYTdiYTc1",
+  "snapshot_id": "MCwwOWEyMGI0MGUyZjU1NDIwZGQ3ZDU3ZWQ3ZWRiYmYzZTgwNzU4ZWRh",
   "tracks": [
     {
       "added_at": "2023-12-19 17:30:28",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Delfin",
         "url": "https://open.spotify.com/album/1mJVITyXpxZqITt9O5iS5i"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 175984,
       "name": "Delfin",
       "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Farbenspiel",
-        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
-      },
-      "artists": [
-        {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
-        }
-      ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Bumsbar",
         "url": "https://open.spotify.com/album/4EnA5a6Tq3l6tVCM7hLPgP"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
       },
@@ -299,22 +279,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
       "artists": [
         {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
         }
       ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -339,6 +319,26 @@
       "duration_ms": 161046,
       "name": "Dorflove",
       "url": "https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 122585,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
       "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -555,26 +571,6 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
       "artists": [
         {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Auf dem Besen an den Tresen",
-        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
-      },
-      "artists": [
-        {
-          "name": "Milla Pink",
-          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Auf dem Besen an den Tresen",
-      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Die Nacht von Freitag auf Montag",
         "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 178578,
       "name": "Die Nacht von Freitag auf Montag",
       "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Eine Woche wach",
         "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
         "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 223671,
       "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
       "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -803,22 +819,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty",
       "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
-      },
-      "artists": [
-        {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
-        }
-      ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -923,26 +943,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
@@ -955,38 +955,6 @@
       "duration_ms": 144533,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Partyanimal",
-        "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
-      },
-      "artists": [
-        {
-          "name": "Micha von der Rampe",
-          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
-        }
-      ],
-      "duration_ms": 139159,
-      "name": "Partyanimal",
-      "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1007,6 +975,38 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Partyanimal",
+        "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
+      },
+      "artists": [
+        {
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
+        }
+      ],
+      "duration_ms": 139159,
+      "name": "Partyanimal",
+      "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Saufi saufi",
         "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 206302,
       "name": "Saufi saufi",
       "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
         "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1195,22 +1175,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Heute nicht!",
-        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
-      },
-      "artists": [
-        {
-          "name": "Ben Zucker",
-          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
-        }
-      ],
-      "duration_ms": 194271,
-      "name": "Heute nicht!",
-      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1235,6 +1199,46 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/2dqW7QnxwLvGwiEybKnKoD"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1255,6 +1259,22 @@
       "duration_ms": 174719,
       "name": "Hoch die H\u00e4nde Wochenende",
       "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Heute nicht!",
+        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
+      },
+      "artists": [
+        {
+          "name": "Ben Zucker",
+          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
+        }
+      ],
+      "duration_ms": 194271,
+      "name": "Heute nicht!",
+      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1299,22 +1319,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/2dqW7QnxwLvGwiEybKnKoD"
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
       },
       "artists": [
         {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         },
         {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
         }
       ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Felicit\u00e0 (Stereoact Remix)",
         "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
       },
@@ -1379,6 +1379,26 @@
       "duration_ms": 148447,
       "name": "Felicit\u00e0 - Stereoact Remix",
       "url": "https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1443,26 +1463,6 @@
       "duration_ms": 180741,
       "name": "Anna-Lena",
       "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2023-12-19 17:30:28",

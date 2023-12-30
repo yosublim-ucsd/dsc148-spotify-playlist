@@ -1741,6 +1741,32 @@
     },
     {
       "album": {
+        "name": "Biquini Rosa",
+        "url": "https://open.spotify.com/album/7JhholWiUJbXDITNrfuG5K"
+      },
+      "artists": [
+        {
+          "name": "Xandr\u00ea",
+          "url": "https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6"
+        },
+        {
+          "name": "Cinquenta",
+          "url": "https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb"
+        },
+        {
+          "name": "Eliboy",
+          "url": "https://open.spotify.com/artist/62vOIFbJrMrlzDyYBr47dI"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Biquini Rosa",
+      "url": "https://open.spotify.com/track/2ZhcnKSHpTt8FWJyp8bG7Y"
+    },
+    {
+      "album": {
         "name": "Biqu\u00edni Vermelhinho",
         "url": "https://open.spotify.com/album/5dVCNTQxOPwNegbahiRPGe"
       },
@@ -1812,7 +1838,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 129102,
       "name": "Bolos&Bolos",
       "url": "https://open.spotify.com/track/2xM35GeAs6RtOIJfsk1IfJ"
@@ -2302,7 +2328,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 161000,
       "name": "Celebridade",
       "url": "https://open.spotify.com/track/53VgXb9PPPa3VgMBtakuXx"
@@ -9086,6 +9112,28 @@
       "duration_ms": 141030,
       "name": "Papo De Milh\u00e3o",
       "url": "https://open.spotify.com/track/6HtOKrScDoxWjaWP2TMvsZ"
+    },
+    {
+      "album": {
+        "name": "Parab\u00e9ns Trap",
+        "url": "https://open.spotify.com/album/5f89OLvHLqd0eLMN3soLeq"
+      },
+      "artists": [
+        {
+          "name": "Canaan",
+          "url": "https://open.spotify.com/artist/4CjcSbhfNVieR9A6AAIMcU"
+        },
+        {
+          "name": "Mc Dilance",
+          "url": "https://open.spotify.com/artist/7ksf0sDjaMq0Nq5OSz9aoZ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Parab\u00e9ns Trap",
+      "url": "https://open.spotify.com/track/6vs70qAySibP0P68OD7ZqM"
     },
     {
       "album": {

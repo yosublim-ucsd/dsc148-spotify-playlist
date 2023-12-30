@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,211 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,361 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 |
 | 50 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
 
-Snapshot ID: `MCw0NTdmMTQ3N2Q3OGQ0MDg5NmM4YTlkZTYyNzk3ZTc5YWU2YmYwNTVi`
+Snapshot ID: `MCxhZWNlY2RlYTE3Njk1YTFmMDFiYWU5MjQ1YzIyNjNhZDU5N2RhNDI1`

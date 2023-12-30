@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-204 songs - 10 hr 59 min
+205 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-07-15 |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 |  |
-| [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 | 2023-06-13 |  |
+| [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 | 2023-06-13 |  |
+| [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 | 2023-06-13 | 2023-12-30 |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-02-09 | 2023-04-30 |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 5:07 | 2023-04-11 |  |
 | [If Only It Was Warmth](https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [If Only It Was Warmth](https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB) | 3:17 | 2023-05-19 |  |

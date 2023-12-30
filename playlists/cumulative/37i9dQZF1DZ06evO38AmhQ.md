@@ -4,7 +4,7 @@
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 33 min
+64 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cydi](https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Hillbilly Road](https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII) | 3:00 | 2023-06-17 |  |
 | [Diamantina Drover](https://open.spotify.com/track/2MVhIpEf23BMw7NxlU3AGZ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:02 | 2023-06-17 |  |
 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:35 | 2023-06-17 |  |
-| [Dingo](https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:22 | 2023-06-18 | 2023-12-27 |
+| [Dingo](https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:22 | 2023-06-18 |  |
 | [Drovers Boy](https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:37 | 2023-06-17 |  |
 | [Flower on the Water](https://open.spotify.com/track/0QnMzXTaJeGjSGg1uGB7UZ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:13 | 2023-06-17 | 2023-07-19 |
 | [Flower on the Water](https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:13 | 2023-07-18 |  |
@@ -42,6 +42,7 @@
 | [Keeper of the Stones](https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:45 | 2023-06-17 |  |
 | [King Of The Road](https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf), [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Both Sides Now](https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm) | 2:06 | 2023-06-17 |  |
 | [Mallee Boy](https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:17 | 2023-06-17 |  |
+| [My Oath to Australia](https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 2:58 | 2023-12-29 |  |
 | [Old Farts in Caravan Parks](https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Farts in Caravan Parks](https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu) | 3:54 | 2023-06-17 | 2023-12-14 |
 | [Old Man Emu](https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [J.W.'s Family Album](https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC) | 3:11 | 2023-06-17 |  |
 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 | 2023-06-17 |  |
@@ -53,7 +54,7 @@
 | [Sail the Nullarbor](https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:18 | 2023-06-17 |  |
 | [Salisbury Street](https://open.spotify.com/track/78LUWt8uDvQZD0WjnEYuUF) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:35 | 2023-06-17 | 2023-08-26 |
 | [Shelter](https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 2:51 | 2023-06-17 |  |
-| [The Big Red](https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 3:47 | 2023-12-13 |  |
+| [The Big Red](https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 3:47 | 2023-12-13 | 2023-12-30 |
 | [The Farming Game](https://open.spotify.com/track/5BqNSAK62LaKi1zshEZcqp) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 3:19 | 2023-07-04 | 2023-07-09 |
 | [The Great Divide](https://open.spotify.com/track/3aSBY4nOY4OsnI8tnfjLuR) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Great Divide](https://open.spotify.com/album/52HsOtg3ATx6ZDr8YNVLoO) | 2:56 | 2023-06-17 | 2023-09-19 |
 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 | 2023-06-17 |  |
@@ -70,6 +71,6 @@
 | [Wobbly Boot Hotel](https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 2:38 | 2023-06-17 |  |
 | [You and My Guitar](https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 2:49 | 2023-12-13 |  |
 | [You and My Guitar](https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 2:49 | 2023-06-17 | 2023-12-14 |
-| [You Come Back to Tassie](https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Family Album No.2](https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu) | 3:20 | 2023-12-14 |  |
+| [You Come Back to Tassie](https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Family Album No.2](https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu) | 3:20 | 2023-12-14 | 2023-12-30 |
 
 \*This playlist was first scraped on 2023-06-18. Prior content cannot be recovered.

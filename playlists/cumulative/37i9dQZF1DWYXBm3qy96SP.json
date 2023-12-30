@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1YT1X4pHlcMZbHuYrgLuRj"
+      },
+      "artists": [
+        {
+          "name": "Bryce Fox",
+          "url": "https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133905,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/0CqxXGyujgwmX0Bfyy7an4"
+    },
+    {
+      "album": {
         "name": "Cherryland",
         "url": "https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX"
       },
@@ -4662,7 +4680,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
@@ -6042,6 +6060,24 @@
       "duration_ms": 232138,
       "name": "GLOFS",
       "url": "https://open.spotify.com/track/35ZQUE0DuUFEptq5LJv6nI"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/49BkCKiRXVi1Oreyafvnuy"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195589,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/670fDWKpqkG8uwT0rKYwjp"
     },
     {
       "album": {
@@ -8942,7 +8978,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 279737,
       "name": "Love From The Other Side",
       "url": "https://open.spotify.com/track/2W0ML0bVXNew4Jmc40Rpzj"
@@ -9444,7 +9480,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 219973,
       "name": "Might Love Myself",
       "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
@@ -13801,6 +13837,24 @@
     },
     {
       "album": {
+        "name": "Back To The Water Below (Bonus Edition)",
+        "url": "https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190130,
+      "name": "Supermodel Avalanches",
+      "url": "https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U"
+    },
+    {
+      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
@@ -16339,6 +16393,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't Do the Same",
+        "url": "https://open.spotify.com/album/5dxCW08wpRWlzfCIHZ1p62"
+      },
+      "artists": [
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Wouldn't Do the Same",
+      "url": "https://open.spotify.com/track/38OJkYpHjUYLb6dgAaoCYS"
+    },
+    {
+      "album": {
         "name": "wow!",
         "url": "https://open.spotify.com/album/5rTM0GN3KMDrK7y91rMRH3"
       },
@@ -16470,7 +16542,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"

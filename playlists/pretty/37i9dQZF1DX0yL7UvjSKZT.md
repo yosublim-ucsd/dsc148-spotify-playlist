@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,230 likes - 168 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,369 likes - 168 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 45 | [Bottom Dollar](https://open.spotify.com/track/4KcgeB3zlr1VadVyyRUkGq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Bottom Dollar](https://open.spotify.com/album/3BYrfnQfnkR7QhAuuw7dTC) | 2:46 |
 | 46 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 |
 | 47 | [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 |
-| 48 | [The Blackest Crow](https://open.spotify.com/track/0S0GpX3D1wBJZh0GTKDv7z) | [Viv & Riley](https://open.spotify.com/artist/3lRPVZLqNprMmp9SrXrhcp) | [Imaginary People](https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C) | 4:58 |
+| 48 | [The Blackest Crow](https://open.spotify.com/track/0S0GpX3D1wBJZh0GTKDv7z) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Imaginary People](https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C) | 4:58 |
 | 49 | [Holding Pattern](https://open.spotify.com/track/29MlUsEsDHZ1vIv7I41UVq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:05 |
 | 50 | [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf) | 3:11 |
 | 51 | [Close Enough to Hear](https://open.spotify.com/track/1yzHQWBQPISoWaNfcyekyD) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Close Enough to Hear](https://open.spotify.com/album/7hpvneVKrCatRLTTC63NwT) | 4:35 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 167 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 168 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCxjZTEzNTA4ZmJiZmI3MTI1MzJlOTMxYTY5Y2NiNTc3NWZiYjhjNzFk`
+Snapshot ID: `MCxhMWIyYjU1NTE5N2QzNzBjN2ZmOTAyOGRlNjg1MDdkY2FjNTIwYTgx`

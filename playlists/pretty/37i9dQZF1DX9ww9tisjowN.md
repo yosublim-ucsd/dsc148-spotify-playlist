@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: natori \(なとり\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,944 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,778 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 38 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 |
 | 39 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 40 | [Finale.](https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 4:02 |
-| 41 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
+| 41 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 |
 | 42 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 43 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 |
 | 44 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 |
 | 45 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 |
-| 46 | [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 |
+| 46 | [Gaze](https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 4:03 |
 | 47 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 48 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
 | 49 | [Choose me](https://open.spotify.com/track/5Uj6NgupVm7ByY1JXNYTp5) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [10th Anniversary Best Vol.1](https://open.spotify.com/album/1y1xNiR0afPdNSpCkq2FBT) | 3:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 64 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
 | 65 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
 | 66 | [センチメンタリズム \- feat\. 芹澤 優](https://open.spotify.com/track/7BIFJ3tHxrU28sBICphJQY) | [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [FUTUREmode](https://open.spotify.com/artist/6Vd60p0nesFh1BT0cSJERo) | [センチメンタリズム \(feat\. 芹澤 優\)](https://open.spotify.com/album/3zNOIekTZH9wpKrqdfsKW9) | 3:45 |
-| 67 | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/track/1M2hb61cix3ZhM17zM83h9) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/album/3Knm7PiVwrw39BM3FCyLza) | 4:33 |
-| 68 | [SNEAKING](https://open.spotify.com/track/4zYlju4viLB237Htiz3zgo) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SNEAKING](https://open.spotify.com/album/39rmUoL2KGWuxRFQ28FfhN) | 2:36 |
+| 67 | [ブライダルドリーム](https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu) | [兎田ぺこら](https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt), [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [ブライダルドリーム](https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T) | 3:11 |
+| 68 | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/track/1M2hb61cix3ZhM17zM83h9) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/album/3Knm7PiVwrw39BM3FCyLza) | 4:33 |
 | 69 | [ラビリンス](https://open.spotify.com/track/3K2zyJhcnMMA6yOdR6hOW7) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [ラビリンス](https://open.spotify.com/album/1pHD8AFu4z1CvuTPjZFOFi) | 4:54 |
 | 70 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 |
 | 71 | [Igniter](https://open.spotify.com/track/2ft4oa972vArdrTKYdU6sd) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Starpeggio](https://open.spotify.com/album/4P0fK06vdodkHhWHdmY7ar) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/4d0ivoN64aC4n3v5y2SaPq) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ハートブレイク・ダンスミュージック](https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW) | 2:47 |
 | 75 | [DDD](https://open.spotify.com/track/0HD7n7QmEmpKhojIu7R1bx) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [DDD](https://open.spotify.com/album/355oemzw9IEexonVNBzKIv) | 2:54 |
 
-Snapshot ID: `MCxiYTA2OWU4NWRjMmNjNmZlOTk4MjU5ZjM3MTE1NGE0ZDk0NDQ0MjRk`
+Snapshot ID: `MCxmMmRlNWEzNzhlNWZmZDU5OGYxYzBmNmE0Y2YyNmJkOTMwYThmOTNk`

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 205854,
+  "num_followers": 206033,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDE3NDM3ZDg0NzkyMjgwZTk3MjVhMzlhYTQ4N2IxOTRjMGQ5MTUx",
+  "snapshot_id": "MCwxNTIwNDllMzBkZjYxOTA0NGVhYWJmNTRmYTk0Yjk3NzQ3Nzk1NTVm",
   "tracks": [
     {
       "added_at": "2023-11-10 05:01:00",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD"
     },
     {
-      "added_at": "2023-11-10 05:01:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Your Love Is Gold",
-        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
       },
       "artists": [
         {
@@ -36,13 +36,13 @@
           "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
         },
         {
-          "name": "Louie Thesinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
         }
       ],
-      "duration_ms": 166842,
-      "name": "Your Love Is Gold",
-      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr"
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
       },
       "artists": [
         {
@@ -172,13 +172,13 @@
           "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
         },
         {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
         }
       ],
-      "duration_ms": 164331,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D"
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -271,6 +271,26 @@
       "duration_ms": 208933,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        }
+      ],
+      "duration_ms": 164331,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -567,26 +587,6 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2023-09-01 04:00:00",

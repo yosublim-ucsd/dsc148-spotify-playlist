@@ -4,7 +4,7 @@
 
 > Jul au top de la première playlist de rap français !
 
-220 songs - 11 hr 22 min
+221 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Apocalypse](https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:50 | 2022-02-17 | 2022-07-29 |
 | [Aqua](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 | 2022-07-21 | 2023-01-27 |
 | [AZNVR \- une minute de musique](https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [AZNVR \(une minute de musique\)](https://open.spotify.com/album/0CwImsCyjRO0p2kVE60MQq) | 3:59 | 2023-01-12 | 2023-04-07 |
+| [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-28 |  |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-05 |  |
 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 | 2022-05-19 | 2022-11-11 |
 | [Big Meech](https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Big Meech](https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz) | 3:40 | 2022-01-06 | 2022-07-29 |
@@ -219,7 +220,7 @@
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-02-09 | 2023-10-06 |
 | [Trophée](https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trophée](https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ) | 3:19 | 2022-07-07 | 2022-08-19 |
 | [Téléphone \- Extrait de CRCLR MVT SAISON II](https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Téléphone \(Extrait de CRCLR MVT SAISON II\)](https://open.spotify.com/album/6RaA2bknaESIlh1iv5FFcP) | 3:08 | 2022-01-06 | 2022-01-21 |
-| [Une Autre](https://open.spotify.com/track/3XuOt3wEdc1tgYlCigX1xS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Une Autre](https://open.spotify.com/album/6yDRuuonLZsQyOF6PhbaHG) | 2:46 | 2023-10-05 |  |
+| [Une Autre](https://open.spotify.com/track/3XuOt3wEdc1tgYlCigX1xS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Une Autre](https://open.spotify.com/album/6yDRuuonLZsQyOF6PhbaHG) | 2:46 | 2023-10-05 | 2023-12-30 |
 | [Urus](https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Urus](https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ) | 2:28 | 2022-11-03 | 2023-09-15 |
 | [Vengeance !](https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [!](https://open.spotify.com/album/3n0nvH5owR2tGHLWL4s4Au) | 1:55 | 2022-01-13 | 2022-04-29 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 | 2023-01-13 |

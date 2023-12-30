@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1061630,
+  "num_followers": 1061976,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTBkY2VlNzEyYjk2MzgxNmY3ZTJlYmZmYWEzMDVkYjNjZDk5M2Nk",
+  "snapshot_id": "MCwwMjE3YzBjN2YzMjNkNmE4NDg2ZjI4MzJkMjU3NTNhYWYwMmQyYTI4",
   "tracks": [
     {
       "added_at": "2023-12-18 19:12:30",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 199232,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 117173,
-      "name": "The Sunshine",
-      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 335333,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 117173,
+      "name": "The Sunshine",
+      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 223786,
-      "name": "No You Girls",
-      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 343253,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "No You Girls",
+      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1163,22 +1179,6 @@
       "duration_ms": 210106,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 245456,
       "name": "Way It Goes",
       "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Consolers of the Lonely",
-        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Salute Your Solution",
-      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Everything Else Has Gone Wrong",
-        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
+        "name": "Consolers of the Lonely",
+        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
         }
       ],
-      "duration_ms": 219893,
-      "name": "Eat, Sleep, Wake (Nothing But You)",
-      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
+      "duration_ms": 179973,
+      "name": "Salute Your Solution",
+      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1451,6 +1435,22 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Everything Else Has Gone Wrong",
+        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eat, Sleep, Wake (Nothing But You)",
+      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Paul - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
         }
       ],
-      "duration_ms": 287506,
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
-      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+      "duration_ms": 255613,
+      "name": "Wraith Pinned to the Mist and Other Games",
+      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -1579,38 +1611,6 @@
       "duration_ms": 199053,
       "name": "Caring Is Creepy - 2021 Remaster",
       "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Wraith Pinned to the Mist and Other Games",
-      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Masterpiece (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "Paul - 2023 Remaster",
-      "url": "https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ"
     },
     {
       "added_at": "2023-12-18 19:12:30",

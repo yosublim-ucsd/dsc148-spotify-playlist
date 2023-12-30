@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,052 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,090 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 | 50 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 
-Snapshot ID: `MCxhM2RiMDgyMzc0MGYxNjU3ZmM5NzIzNThiN2IxYjA4ZGY1NTA0MmQ2`
+Snapshot ID: `MCxjYTA1YzQ0ZWRhNDc3NTIxYWEwMTBkNjYwMDA2MzZlZjA3NTIyMjIy`

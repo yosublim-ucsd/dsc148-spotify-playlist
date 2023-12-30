@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 115787,
+  "num_followers": 117528,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVmZDc3YzQ1YTJlMTYxYzA4OThiOTI2MDUzM2YxMmYxZDJiMjcy",
+  "snapshot_id": "MCxhZGZiY2JlYmE2MzY4MzllMDY3M2Q3Mzg2ODlmZmQyNTUyZGY1MzNl",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "My Affection (with PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "My Affection (with PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Dancing Shadows",
-        "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "Care for You",
-      "url": "https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Woman (feat. Lianne La Havas)",
         "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "Care for You",
+      "url": "https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 197995,
-      "name": "Undo (Back To My Heart)",
-      "url": "https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Love Me Like (feat. DUCKWRTH)",
         "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 164745,
       "name": "Love Me Like (feat. DUCKWRTH)",
       "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Undo (Back To My Heart)",
+      "url": "https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "like you",
-        "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
-      },
-      "artists": [
-        {
-          "name": "Braden Ross",
-          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
-        },
-        {
-          "name": "Days to Waste",
-          "url": "https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26"
-        },
-        {
-          "name": "fawlin",
-          "url": "https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm"
-        }
-      ],
-      "duration_ms": 194831,
-      "name": "like you",
-      "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
         "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
       },
@@ -1507,6 +1483,30 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "like you",
+        "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
+      },
+      "artists": [
+        {
+          "name": "Braden Ross",
+          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
+        },
+        {
+          "name": "Days to Waste",
+          "url": "https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26"
+        },
+        {
+          "name": "fawlin",
+          "url": "https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm"
+        }
+      ],
+      "duration_ms": 194831,
+      "name": "like you",
+      "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 185371,
       "name": "Compromise (feat. Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Sympati For Djevelen",
         "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
       },
@@ -1691,34 +1707,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Who Do You Pray To?",
-        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
       },
       "artists": [
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
         }
       ],
-      "duration_ms": 189092,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     }
   ],
   "unique_name": "Laid Back Beats",

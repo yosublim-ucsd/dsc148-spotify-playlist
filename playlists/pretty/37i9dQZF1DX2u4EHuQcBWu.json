@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 185572,
+  "num_followers": 185729,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmZmZTZkNmVmNTI2Nzc3NWFhNmRlMmMyYWZkNDliNmI0OWU1NzA0",
+  "snapshot_id": "MCw1MGFlYzY0MDhmNjBlOWJkZjcyNmE5YjA5MGVlZWVhMjdlZjA3OWIz",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -243,58 +243,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "This is Not America (feat. Ibeyi)",
-        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 231332,
-      "name": "This is Not America (feat. Ibeyi)",
-      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "El Aguante",
-      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
       },
@@ -419,6 +367,58 @@
       "duration_ms": 227444,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "This is Not America (feat. Ibeyi)",
+        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 231332,
+      "name": "This is Not America (feat. Ibeyi)",
+      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Bombea",
+        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 216688,
+      "name": "La Fuerza del Amor",
+      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Bombea",
-        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
       },
       "artists": [
         {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 216688,
-      "name": "La Fuerza del Amor",
-      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
+      "duration_ms": 197386,
+      "name": "Santiago De Chile",
+      "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -647,22 +663,6 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "M\u00fasica Libre",
-        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Santiago De Chile",
-      "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Almismotiempo",
-        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 222432,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
         "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 250080,
       "name": "Somos M\u00e1s Americanos",
       "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Almismotiempo",
+        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 222432,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "M\u00e1s Poder",
         "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 255600,
       "name": "M\u00e1s Poder",
       "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -983,22 +983,6 @@
       "duration_ms": 226922,
       "name": "Somos Sur",
       "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "De Sur a Norte",
-        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
-      },
-      "artists": [
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Clandestino / Bloody Border",
-        "url": "https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6"
+        "name": "De Sur a Norte",
+        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
         }
       ],
-      "duration_ms": 173977,
-      "name": "Bloody Bloody Border",
-      "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
+      "duration_ms": 217000,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Clandestino / Bloody Border",
+        "url": "https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 173977,
+      "name": "Bloody Bloody Border",
+      "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "La Historia Del Folklore (2da Parte)",
         "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Antifa Dance",
         "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 155689,
       "name": "Antifa Dance",
       "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
-      },
-      "artists": [
-        {
-          "name": "Fiskales Ad-Hok",
-          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
-        }
-      ],
-      "duration_ms": 128573,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 456933,
       "name": "Los desaparecidos",
       "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 110308,
-      "name": "Matar al Presidente",
-      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
+      "duration_ms": 237080,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Rompan Todo",
-      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
+      "duration_ms": 110308,
+      "name": "Matar al Presidente",
+      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Pateando Craneos",
         "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 161666,
       "name": "La Fuerza Policial",
       "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Antolog\u00eda 1968-1992",
-        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
       },
@@ -1727,6 +1711,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Antolog\u00eda 1968-1992",
+        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+      },
+      "artists": [
+        {
+          "name": "La Barranca",
+          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+        }
+      ],
+      "duration_ms": 303120,
+      "name": "D\u00eda Negro",
+      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Paco Vampiro",
         "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 201284,
       "name": "Paco Vampiro",
       "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Guayabo",
-        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
-      },
-      "artists": [
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 152052,
-      "name": "Guayabo",
-      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+        "name": "Guayabo",
+        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
       },
       "artists": [
         {
-          "name": "La Barranca",
-          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
         }
       ],
-      "duration_ms": 303120,
-      "name": "D\u00eda Negro",
-      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
+      "duration_ms": 152052,
+      "name": "Guayabo",
+      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+        "name": "El Objeto Antes Llamado Disco",
+        "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+      "duration_ms": 273946,
+      "name": "Zopilotes",
+      "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

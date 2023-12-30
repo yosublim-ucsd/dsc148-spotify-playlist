@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Medy\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-419 songs - 20 hr 37 min
+420 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-09 | 2022-10-04 |
 | [90 SPECIAL \(feat\. Sfera Ebbasta & Shiva\)](https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 2:53 | 2023-06-29 | 2023-09-29 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-21 | 2022-09-02 |
+| [A TE E FAMIGLIA](https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [A TE E FAMIGLIA](https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D) | 2:51 | 2023-12-28 |  |
 | [A VOLTE](https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:42 | 2023-09-14 | 2023-10-06 |
 | [Abbronzatissima](https://open.spotify.com/track/00oyMVy9fXV6M3X4BzLHld) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Abbronzatissima](https://open.spotify.com/album/2SqYx4suWqZ3FakytOVwRW) | 2:52 | 2023-07-20 | 2023-08-09 |
 | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR) | 2:23 | 2023-10-09 | 2023-12-19 |
@@ -334,7 +335,7 @@
 | [Rappresento \(feat\. Jake La Furia\)](https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [The Illest, Vol\. 3](https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P) | 3:07 | 2023-01-26 | 2023-02-09 |
 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 | 2022-10-07 | 2022-11-18 |
 | [RASOI](https://open.spotify.com/track/3zXE6GFKQeXt5DG1BYncDw) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [RASOI / RIGOR MORTIS](https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW) | 2:39 | 2023-04-06 | 2023-05-05 |
-| [RAY LIOTTA \- goodfellas](https://open.spotify.com/track/2ghK72VHQzKy3olZWsrwQ7) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Effetto notte \(L'alba\)](https://open.spotify.com/album/1RwNWkA8leLYPXdCjoOdHl) | 3:04 | 2023-11-23 |  |
+| [RAY LIOTTA \- goodfellas](https://open.spotify.com/track/2ghK72VHQzKy3olZWsrwQ7) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Effetto notte \(L'alba\)](https://open.spotify.com/album/1RwNWkA8leLYPXdCjoOdHl) | 3:04 | 2023-11-23 | 2023-12-30 |
 | [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:48 | 2023-02-09 | 2023-03-03 |
 | [RED&BLUE](https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [RED&BLUE](https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC) | 3:27 | 2023-11-30 | 2023-12-15 |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-04 | 2022-11-18 |

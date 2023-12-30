@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8928,
+  "num_followers": 8935,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk",
+  "snapshot_id": "MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "We Belong To Jesus (feat. New Life Kids)",
         "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 186280,
       "name": "Never Be Shaken",
       "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 228506,
       "name": "I Am Alive",
       "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -835,6 +835,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
+      },
+      "artists": [
+        {
+          "name": "Stephen Witt",
+          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Living in Freedom",
+      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 228063,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Living in Freedom",
-        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
-      },
-      "artists": [
-        {
-          "name": "Stephen Witt",
-          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Living in Freedom",
-      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
     },
     {
       "added_at": "2021-06-29 13:36:02",

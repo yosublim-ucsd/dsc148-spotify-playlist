@@ -256,6 +256,24 @@
     {
       "album": {
         "name": "Baby Love",
+        "url": "https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180166,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7"
+    },
+    {
+      "album": {
+        "name": "Baby Love",
         "url": "https://open.spotify.com/album/0pqafVcoCMQ9z7rEMSY7ej"
       },
       "artists": [
@@ -697,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Citadelle",
+        "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165728,
+      "name": "Citadelle",
+      "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
+    },
+    {
+      "album": {
         "name": "Hokage",
         "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
       },
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 164677,
       "name": "Double Jeu",
       "url": "https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 138000,
       "name": "D\u00c9SOL\u00c9 POURQUOI ?",
       "url": "https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO"
@@ -2539,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Ma s\u0153ur",
+        "url": "https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Ma s\u0153ur",
+      "url": "https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2"
+    },
+    {
+      "album": {
         "name": "Ma ville",
         "url": "https://open.spotify.com/album/2lCynzkp4TkRTzxXePjDD2"
       },
@@ -3414,7 +3468,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160604,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse"

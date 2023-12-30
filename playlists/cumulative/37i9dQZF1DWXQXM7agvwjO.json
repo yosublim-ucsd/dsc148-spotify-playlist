@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 217973,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3hQDJ5gTY8pw9Y7giqrde4"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 165976,
       "name": "Em Trang Tr\u00ed",
       "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO"
@@ -9309,6 +9309,24 @@
     },
     {
       "album": {
+        "name": "kill the thought",
+        "url": "https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "kill the thought",
+      "url": "https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu"
+    },
+    {
+      "album": {
         "name": "Kill Your Ego",
         "url": "https://open.spotify.com/album/5AOJIBmdhYFHrZKsZy8fTj"
       },
@@ -12179,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "notalk",
+        "url": "https://open.spotify.com/album/0GNYzi2vz0hCaGclsIaaFv"
+      },
+      "artists": [
+        {
+          "name": "Common People Like You",
+          "url": "https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196591,
+      "name": "notalk",
+      "url": "https://open.spotify.com/track/2BGj4MbUPWcBKsLubfnLw1"
+    },
+    {
+      "album": {
         "name": "THE CHARM PARK II EXTRA",
         "url": "https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC"
       },
@@ -12846,7 +12882,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 225070,
       "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/0ncyk8m3pWbzpWHRN5vk16"
@@ -16412,7 +16448,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 353023,
       "name": "Tasogare Perspective",
       "url": "https://open.spotify.com/track/6brNws9ckOQ2WEPZXi6ZxQ"

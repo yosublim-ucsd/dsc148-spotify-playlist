@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-434 songs - 1 day 2 hr 1 min
+435 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-19 | 2022-06-26 |
 | [When Tears Fall](https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [When Tears Fall](https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO) | 2:48 | 2023-01-20 |  |
 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 | 2022-06-25 |  |
-| [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 | 2023-11-03 |  |
+| [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 | 2023-11-03 | 2023-12-30 |
 | [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 | 2023-01-20 |  |
 | [WILIN'](https://open.spotify.com/track/7AiB9ggkygd2xLF0x4HVN4) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CHURCH GIRLS LOVE R&B](https://open.spotify.com/album/44iSFo3yR8NhX8CJUsERmk) | 4:09 | 2022-03-05 | 2022-04-08 |
 | [Win](https://open.spotify.com/track/7JgMB2xjZQ7yXG50DQFcpS) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [Win](https://open.spotify.com/album/6Wo2MhAA70UrNXhVfI65rn) | 2:36 | 2022-04-01 | 2023-01-15 |
@@ -441,6 +441,7 @@
 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 | 2022-02-27 | 2022-06-05 |
 | [Your Love Is Simple \- Chris Howland Remix](https://open.spotify.com/track/5tGLlErR37eyo9Md7rdEe8) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Your Love Is Simple \(Chris Howland Remix\)](https://open.spotify.com/album/2EyMMxClHFpDYVBmRGhdwf) | 3:05 | 2022-02-27 | 2022-06-16 |
 | [Your Love Will Never Change](https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change](https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu) | 4:22 | 2023-10-31 |  |
+| [Your World](https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 3:16 | 2023-11-03 |  |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2023-01-20 | 2023-12-24 |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

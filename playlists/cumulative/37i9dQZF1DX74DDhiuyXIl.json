@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 281500,
       "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
       "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
@@ -6524,6 +6524,24 @@
       "duration_ms": 220952,
       "name": "\u9668\u843d\u00b72023",
       "url": "https://open.spotify.com/track/7KHuvkL01uS3AdJm6sVHQ1"
+    },
+    {
+      "album": {
+        "name": "\u5875",
+        "url": "https://open.spotify.com/album/0m6CjTolvhN5IJKL4O6yAQ"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274363,
+      "name": "\u966a\u4f60\u53bb\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/36G5RaJA3nctN4dJFDSB48"
     },
     {
       "album": {

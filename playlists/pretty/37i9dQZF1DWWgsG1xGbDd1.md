@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,636 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,879 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Skylarking](https://open.spotify.com/track/58iZqKMclBROw5IjI4cwQ6) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:07 |
 | 60 | [Soul Locks](https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9) | [St Ct and the Gladiators Band](https://open.spotify.com/artist/0dKddycMI80gcYQTkqKFQh) | [Studio One Dub Volume 2](https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3) | 3:17 |
 
-Snapshot ID: `MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4`
+Snapshot ID: `MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh`

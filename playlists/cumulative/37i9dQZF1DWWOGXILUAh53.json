@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 214976,
       "name": "Good At Goodbyes",
       "url": "https://open.spotify.com/track/2dGq1DXChJfos8lxXJBfnG"
@@ -5602,6 +5602,28 @@
       "duration_ms": 136363,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7"
+    },
+    {
+      "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
     },
     {
       "album": {
@@ -6994,7 +7016,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
@@ -8986,7 +9008,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155409,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
@@ -13347,6 +13369,24 @@
     },
     {
       "album": {
+        "name": "Stop The Time",
+        "url": "https://open.spotify.com/album/6qjOCRqN6sT4gHq2NmNuIG"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168695,
+      "name": "Stop The Time",
+      "url": "https://open.spotify.com/track/21PLu6RKamRrwSj3pOa6Ok"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby"
       },
@@ -14410,6 +14450,28 @@
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
+    },
+    {
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141369,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J"
     },
     {
       "album": {

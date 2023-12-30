@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
@@ -1430,6 +1430,24 @@
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
       "album": {
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
@@ -4753,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "\u8056\u8a95\u661f",
+        "url": "https://open.spotify.com/album/0btE4CEOFvogF0mBkIvv9p"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "\u8056\u8a95\u661f",
+      "url": "https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4"
+    },
+    {
+      "album": {
         "name": "\u80fd\u4e0d\u80fd\u548c\u6211\u7559\u5728\u53f0\u5317 ( \u966a\u6211\u5e7e\u5929 )",
         "url": "https://open.spotify.com/album/1dJKc7tL64EpUoqEj2f0JB"
       },
@@ -4764,7 +4804,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 243000,
       "name": "\u80fd\u4e0d\u80fd\u548c\u6211\u7559\u5728\u53f0\u5317(\u966a\u6211\u5e7e\u5929)",
       "url": "https://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm"
@@ -4858,7 +4898,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
@@ -5060,7 +5100,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 296006,
       "name": "\u98de\u9e1f\u548c\u8749",
       "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"

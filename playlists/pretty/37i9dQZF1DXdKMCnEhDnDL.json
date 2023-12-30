@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: Donnie & Marco Schuitmaker",
-  "num_followers": 478601,
+  "num_followers": 478770,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTQ5NTBiZGQ5NGYzMjJjNDVhNDUyNGNjNTc4MjcxOThiNGExMTA3",
+  "snapshot_id": "MCw4ODZiNzljNzRiMDIwYzI3YzYxMzMzYjU4NDI5YmNjMzFmYWI4NDcw",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -127,26 +127,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Vanavond (Uit M'n Bol)",
-        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Vanavond (Uit M'n Bol)",
-      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -183,6 +175,30 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Vanavond (Uit M'n Bol)",
+        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Vanavond (Uit M'n Bol)",
+      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Champions League",
         "url": "https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec"
       },
@@ -199,42 +215,6 @@
       "duration_ms": 142001,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Sterrenlopen",
-        "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Troostzoekers (met Froukje)",
-      "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -303,6 +283,26 @@
       "duration_ms": 154003,
       "name": "Ruggengraat",
       "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Sterrenlopen",
+        "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Troostzoekers (met Froukje)",
+      "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Houden Van Mij",
-        "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 138053,
-      "name": "Houden Van Mij",
-      "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Boven",
         "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 154383,
       "name": "Hou Me Los Van Dichtbij",
       "url": "https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Houden Van Mij",
+        "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Houden Van Mij",
+      "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
     },
     {
       "added_at": "2023-12-21 23:00:00",

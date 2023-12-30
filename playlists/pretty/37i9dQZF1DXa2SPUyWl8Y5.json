@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 482945,
+  "num_followers": 483173,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTQwYjZlNzY3OWEzNjUzZmY4MmJmODE5MTA1M2ViMmQ1NWIwZjQ4",
+  "snapshot_id": "MCw2YjA4MGNkOWI3NTI4NWI2MWI1MDdmYmNkMzhmYWM5YTY2MWM5OTA3",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 404532,
       "name": "Solid",
       "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Lost in Berlin",
-        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
       "artists": [
         {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Wormhole",
         "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
       },
@@ -815,54 +831,6 @@
       "duration_ms": 437953,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -887,18 +855,50 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
       "artists": [
         {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
         }
       ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
       },
       "artists": [
         {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
         }
       ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Proper Time",
         "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
       },
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "If I Had Wings",
-        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 420495,
-      "name": "If I Had Wings",
-      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -1059,6 +1027,22 @@
       "duration_ms": 241282,
       "name": "Sense of Wonder",
       "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+        "name": "If I Had Wings",
+        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
       "artists": [
         {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
         }
       ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+      "duration_ms": 420495,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Close to the Edge",
-        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
       "artists": [
         {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 308081,
-      "name": "Close to the Edge",
-      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Exoplanet",
-        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
+        "name": "Close to the Edge",
+        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
       },
       "artists": [
         {
-          "name": "Third Person",
-          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
-        },
-        {
-          "name": "Intara",
-          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
         }
       ],
-      "duration_ms": 501290,
-      "name": "Exoplanet",
-      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
+      "duration_ms": 308081,
+      "name": "Close to the Edge",
+      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1195,6 +1175,26 @@
       "duration_ms": 232258,
       "name": "The Elder",
       "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Exoplanet",
+        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
+      },
+      "artists": [
+        {
+          "name": "Third Person",
+          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
+        },
+        {
+          "name": "Intara",
+          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
+        }
+      ],
+      "duration_ms": 501290,
+      "name": "Exoplanet",
+      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Cliff (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 444816,
-      "name": "Cliff - Einmusik Remix",
-      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
+      "duration_ms": 380039,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
+        "name": "Cliff (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 380039,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
+      "duration_ms": 444816,
+      "name": "Cliff - Einmusik Remix",
+      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
     },
     {
       "added_at": "2023-11-27 19:00:00",

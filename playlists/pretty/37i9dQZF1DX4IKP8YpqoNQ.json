@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 28683,
+  "num_followers": 28688,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmJiMTU5YjVmYjJmNmE0ZjFjNDk1Njk1NTMwY2FjYjk2NDMyMTdj",
+  "snapshot_id": "MCwzMDBiMDRhOWFlY2FkY2ZmNDI3ODE4ODQ1MzkwYmEyNmE5YmJiMGNi",
   "tracks": [
     {
       "added_at": "2023-12-11 13:51:26",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "Feng Suave (Live from Studio Helmbreker)",
-        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Tomb For Rockets - Live from Studio Helmbreker",
-      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
-    },
-    {
-      "added_at": "2023-12-11 13:51:26",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 210600,
       "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
+    },
+    {
+      "added_at": "2023-12-11 13:51:26",
+      "album": {
+        "name": "Feng Suave (Live from Studio Helmbreker)",
+        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Tomb For Rockets - Live from Studio Helmbreker",
+      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "I Remember - Live",
-      "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
-    },
-    {
-      "added_at": "2023-12-11 13:51:26",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244973,
       "name": "Appletree - Live",
       "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
+    },
+    {
+      "added_at": "2023-12-11 13:51:26",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "I Remember - Live",
+      "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -703,6 +703,22 @@
       "duration_ms": 344053,
       "name": "OCT 33 - Live In Studio",
       "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
+    },
+    {
+      "added_at": "2023-12-11 13:51:26",
+      "album": {
+        "name": "Lalah Hathaway Live!",
+        "url": "https://open.spotify.com/album/0rKQQSb74PppVPuJWk4bSi"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 342066,
+      "name": "Angel (Live)",
+      "url": "https://open.spotify.com/track/2u3NAcq8UDfuZZiPNBtg94"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -867,34 +883,18 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "Lalah Hathaway Live!",
-        "url": "https://open.spotify.com/album/0rKQQSb74PppVPuJWk4bSi"
+        "name": "The Tour",
+        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
       "artists": [
         {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 342066,
-      "name": "Angel (Live)",
-      "url": "https://open.spotify.com/track/2u3NAcq8UDfuZZiPNBtg94"
-    },
-    {
-      "added_at": "2023-12-11 13:51:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+      "duration_ms": 308066,
+      "name": "Misty Blue - Live",
+      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "The Tour",
-        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Misty Blue - Live",
-      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
+        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
+        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 253183,
+      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
+      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
+    },
+    {
+      "added_at": "2023-12-11 13:51:26",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
-        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
+        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+        "url": "https://open.spotify.com/album/2wH0qd6qfjG0GCOig8hpO8"
       },
       "artists": [
         {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 253183,
-      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
-      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
+      "duration_ms": 367186,
+      "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+      "url": "https://open.spotify.com/track/7x4wq1V9AfzzryrsfSOkSH"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -1063,22 +1079,6 @@
       "duration_ms": 247106,
       "name": "That's Life - Live At The Apollo Theater, 1967",
       "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
-    },
-    {
-      "added_at": "2023-12-11 13:51:26",
-      "album": {
-        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-        "url": "https://open.spotify.com/album/2wH0qd6qfjG0GCOig8hpO8"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-      "url": "https://open.spotify.com/track/7x4wq1V9AfzzryrsfSOkSH"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 299938,
-      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
-    },
-    {
-      "added_at": "2023-12-11 13:51:26",
-      "album": {
         "name": "Live From San Francisco",
         "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
-        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 220672,
-      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
-      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+      "duration_ms": 299938,
+      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -1455,6 +1439,22 @@
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+    },
+    {
+      "added_at": "2023-12-11 13:51:26",
+      "album": {
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 220672,
+      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
     },
     {
       "added_at": "2023-12-11 13:51:26",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-12-11 13:51:26",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+        "name": "Walk With Me (Live from Blackbird Studio)",
+        "url": "https://open.spotify.com/album/7pzyZnDFd3tacQSa7drYhV"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+      "duration_ms": 222490,
+      "name": "Walk With Me (Live from Blackbird Studio)",
+      "url": "https://open.spotify.com/track/18P7aUOSdvpiciQTq4AuRd"
     },
     {
       "added_at": "2023-12-11 13:51:26",

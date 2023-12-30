@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 337866,
       "name": "Cielo de Tambores",
       "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
@@ -384,6 +384,24 @@
       "duration_ms": 338964,
       "name": "Digo Yo",
       "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+    },
+    {
+      "album": {
+        "name": "Un Alto en el Camino",
+        "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341787,
+      "name": "Duele Mas",
+      "url": "https://open.spotify.com/track/3ucblmon6wWteun2UQxzUg"
     },
     {
       "album": {

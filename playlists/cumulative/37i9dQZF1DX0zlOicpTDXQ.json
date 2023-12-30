@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Everyday Will Be Like A Holiday (from the Netflix Film \"Good Grief\")",
+        "url": "https://open.spotify.com/album/2zbulrDfqdANNmQzqaO4tk"
+      },
+      "artists": [
+        {
+          "name": "Good Grief - Cast",
+          "url": "https://open.spotify.com/artist/2PUfebyrUUsHeitajBQwrN"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Everyday Will Be Like A Holiday (from the Netflix Film \"Good Grief\")",
+      "url": "https://open.spotify.com/track/5t9EKPIKia2UR1ciBPYycX"
+    },
+    {
+      "album": {
         "name": "Christmas With You (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB"
       },

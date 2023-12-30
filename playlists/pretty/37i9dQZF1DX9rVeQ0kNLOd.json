@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGY3MjNiMDlhZDMzYjVhYzc1ODI4M2ZlN2NjNzUxOGJjNDlhNmQ4",
+  "snapshot_id": "MCxlZDM2MmYzMDVkMmQxYjZjMjdjODZjMjExMGMxMDY4NWFiZThlOGMz",
   "tracks": [
     {
       "added_at": "2023-12-21 15:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "The Flame of Love",
-        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
+        "name": "\u7d19\u4e00\u91cd",
+        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 199117,
-      "name": "The Flame of Love",
-      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
+      "duration_ms": 249477,
+      "name": "\u7d19\u4e00\u91cd",
+      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "\u7d19\u4e00\u91cd",
-        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
+        "name": "\u30ab\u30bf\u30b3\u30c8",
+        "url": "https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
         }
       ],
-      "duration_ms": 249477,
-      "name": "\u7d19\u4e00\u91cd",
-      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
+      "duration_ms": 158888,
+      "name": "\u30ab\u30bf\u30b3\u30c8",
+      "url": "https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -667,22 +667,6 @@
       "duration_ms": 167500,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "\u30ab\u30bf\u30b3\u30c8",
-        "url": "https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7"
-      },
-      "artists": [
-        {
-          "name": "sloppy dim",
-          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
-        }
-      ],
-      "duration_ms": 158888,
-      "name": "\u30ab\u30bf\u30b3\u30c8",
-      "url": "https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
+      },
+      "artists": [
+        {
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
+        }
+      ],
+      "duration_ms": 147370,
+      "name": "minority",
+      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "\u820c\u6253",
         "url": "https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v"
       },
@@ -823,18 +823,26 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "\u9003\u907f\u884c",
-        "url": "https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R"
+        "name": "bathroom",
+        "url": "https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         }
       ],
-      "duration_ms": 191689,
-      "name": "\u9003\u907f\u884c",
-      "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"
+      "duration_ms": 211266,
+      "name": "bathroom",
+      "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

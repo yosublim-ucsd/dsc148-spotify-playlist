@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 36 | [The Light](https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7) | [Kween G](https://open.spotify.com/artist/4u6bHNyuB19sp2uin2m4f1), [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Sensible Rebel](https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p) | 3:37 |
 | 37 | [Give You Love](https://open.spotify.com/track/2sLohdWs9SCAdPEMWOKusH) | [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Give You Love](https://open.spotify.com/album/5xodDEpuEEZ3ZdzTUhVj2u) | 3:06 |
 | 38 | [Crocs &jersey](https://open.spotify.com/track/568EH1ZKN7cAD0jEQnAEPq) | [Keinoh Music](https://open.spotify.com/artist/0sKiFuMsuB9nVLXovDc5bb), [Otis Banuchi](https://open.spotify.com/artist/24o0ghLqqWJsq3Tk9Ngukc), [Fakher Ahmed](https://open.spotify.com/artist/5CAnXsi43dznJE7qXujny3) | [Crocs &jersey](https://open.spotify.com/album/21XTnqu53Mkb5xyQ0M2Dal) | 2:43 |
-| 39 | [Mandela Effect](https://open.spotify.com/track/5n8KYQfXbZI28b1dZEv3y1) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [Mandela Effect](https://open.spotify.com/album/5zmclbxfppW8ztaPHcXDak) | 2:50 |
+| 39 | [Mandela Effect](https://open.spotify.com/track/47CEewp6ispwIepDYM2p7R) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [High Thoughts Chapter II \(Chronicles Of The Problematic Child\)](https://open.spotify.com/album/0oWJjUQdCenIybR48NSesC) | 2:50 |
 | 40 | [Love Say](https://open.spotify.com/track/1XooJUOhghelEYTYS6Wp4z) | [Joshtheson](https://open.spotify.com/artist/3TnAeKpnEEsiXZ5wBazNiz) | [Love Say](https://open.spotify.com/album/3KpId1zKLJuRG43mql2U3H) | 3:16 |
 | 41 | [Ego](https://open.spotify.com/track/2QHwHoWDSLHGEyIbuVnruw) | [Kracbone](https://open.spotify.com/artist/0oqY3cDPiLXw0El4rX9ipV), [BEMA](https://open.spotify.com/artist/1MEIvHcvx0FWdBQHAS3CqT) | [EGO](https://open.spotify.com/album/0chPWygz2Av5fNYfoUapWv) | 3:47 |
 | 42 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCw2YWY3NzcyMTE0MTE2MmMyZmM4ZjdmYTY2ZDY5ODIyYjhlODM3NzEw`
+Snapshot ID: `MCxhYWEzNzAyMTQ1ZDBjNzk2MTIzNTM2ZDRhMzY5N2UyNGY0YTRkYzNj`

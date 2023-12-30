@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-799 songs - 1 day 19 hr 44 min
+800 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 | 2022-01-28 | 2022-07-25 |
 | [Birthday](https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Birthday](https://open.spotify.com/album/16OJXa3NYyAebywfOjoPbc) | 3:01 | 2023-12-08 | 2023-12-16 |
 | [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 | 2022-08-20 |
-| [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 | 2023-10-13 |  |
+| [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 | 2023-10-13 | 2023-12-30 |
 | [blame on you](https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:44 | 2022-03-29 | 2022-04-17 |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-01-28 | 2022-07-29 |
 | [bloom](https://open.spotify.com/track/40dhAKaLDL1K5EwAJmhRab) | [PETITE](https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF) | [bloom](https://open.spotify.com/album/53JYsTjyi67V8cJW6sPT12) | 3:52 | 2023-05-11 | 2023-05-19 |
@@ -214,6 +214,7 @@
 | [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-31 | 2023-04-21 |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [Feeling Blue](https://open.spotify.com/track/5FRmwsdluvsB7MBAs9LECw) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Feeling Blue](https://open.spotify.com/album/5SeunKVKGFgcbP0rdxnT1e) | 2:50 | 2022-01-28 | 2022-07-28 |
+| [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 | 2023-12-15 |  |
 | [feelings are fatal](https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 2:04 | 2022-03-29 | 2023-11-30 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-23 | 2023-04-01 |
 | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/track/0VRbh9c002tLmNm4G1nhWN) | [JAWN](https://open.spotify.com/artist/2yRfs4MG77gLXamZ5RsVRE), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/album/00lQadmdVTecUp147ww5NN) | 3:54 | 2022-02-11 | 2022-07-29 |

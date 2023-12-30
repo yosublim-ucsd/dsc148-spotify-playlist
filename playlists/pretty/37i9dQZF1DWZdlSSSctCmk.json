@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 115526,
+  "num_followers": 115617,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0",
+  "snapshot_id": "MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 244440,
       "name": "Summer In The City",
       "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Three",
-      "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "In The Music The Village Never Ends",
         "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 311866,
       "name": "Nomalizo",
       "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "The Return of The Durutti Column",
+        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Sketch for Summer",
+      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "The Return of The Durutti Column",
-        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sketch for Summer",
-      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 262978,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "sketches",
-      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Since Then. 2017",
         "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
       },
@@ -983,22 +967,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 387593,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
+      "duration_ms": 243213,
+      "name": "sketches",
+      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1015,22 +995,6 @@
       "duration_ms": 347250,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1055,6 +1019,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 387593,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Midnight Voyage",
         "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 357500,
       "name": "Gobi",
       "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1223,6 +1207,42 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Time out of Mind",
+        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
+      },
+      "artists": [
+        {
+          "name": "Troubleman",
+          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1259,26 +1279,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Time out of Mind",
-        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
-      },
-      "artists": [
-        {
-          "name": "Troubleman",
-          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Amo Amo",
-        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Closer to You",
-      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Amo Amo",
+        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 257019,
       "name": "Nisyan",
       "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Into Daylight",
         "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Mutual Feelin' (Edit)",
         "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 226000,
       "name": "Mutual Feelin' - Edit",
       "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
-        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 377849,
-      "name": "Starz - Original Mix",
-      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1567,6 +1551,22 @@
       "duration_ms": 194250,
       "name": "Peace Now - Folamour Remix",
       "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
+        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 377849,
+      "name": "Starz - Original Mix",
+      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1603,26 +1603,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
-        "url": "https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC"
       },
       "artists": [
         {
-          "name": "Giorgio Tuma",
-          "url": "https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK"
+          "name": "R Plus",
+          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
         },
         {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
         }
       ],
-      "duration_ms": 349565,
-      "name": "Through Your Hands Love Can Shine - Turbotito Remix",
-      "url": "https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv"
+      "duration_ms": 209311,
+      "name": "My Boy (Edit)",
+      "url": "https://open.spotify.com/track/3Eesmgchl9UQ2zM2DV6LgL"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1643,22 +1639,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC"
+        "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
+        "url": "https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE"
       },
       "artists": [
         {
-          "name": "R Plus",
-          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
+          "name": "Giorgio Tuma",
+          "url": "https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK"
         },
         {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
         }
       ],
-      "duration_ms": 209311,
-      "name": "My Boy (Edit)",
-      "url": "https://open.spotify.com/track/3Eesmgchl9UQ2zM2DV6LgL"
+      "duration_ms": 349565,
+      "name": "Through Your Hands Love Can Shine - Turbotito Remix",
+      "url": "https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Gentle EP",
         "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
       },
@@ -1723,22 +1743,6 @@
       "duration_ms": 347505,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Simulcast",
-        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Outer Sunset",
-      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
     }
   ],
   "unique_name": "Balearic Beats",

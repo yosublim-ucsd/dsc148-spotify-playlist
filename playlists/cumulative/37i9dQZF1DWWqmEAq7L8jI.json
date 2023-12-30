@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 212106,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"
@@ -4440,6 +4440,24 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/2rBwcxUeh9PWsZ01lHbAqI"
+      },
+      "artists": [
+        {
+          "name": "Zayli",
+          "url": "https://open.spotify.com/artist/07tY7Hto2XN2jsaAtjgQ8g"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121113,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/77Ed4iW5WLoxqQlGmN9bUY"
     },
     {
       "album": {
@@ -5668,7 +5686,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"

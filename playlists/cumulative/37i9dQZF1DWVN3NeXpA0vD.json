@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155769,
       "name": "Don't Cry For Me (with Jason Derulo)",
       "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
@@ -1958,6 +1958,24 @@
       "duration_ms": 269431,
       "name": "Swing - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212849,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7DH3o4acluc4mUUsAoLeBN"
     },
     {
       "album": {

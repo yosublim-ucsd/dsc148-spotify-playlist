@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tom Odell
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,006 likes - 63 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,998 likes - 63 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [I’m Just Ken \- Merry Kristmas Barbie](https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:16 |
 | 46 | [Einer von so vielen](https://open.spotify.com/track/0eOWirIjLR0Hj6SKd3TPmN) | [Mijo](https://open.spotify.com/artist/1UFe8wvqGgbzvRGq3yya1X) | [Einer von so vielen](https://open.spotify.com/album/3RS8OZR7vnoLVeR4GdWVIg) | 3:08 |
 | 47 | [Lass uns feiern](https://open.spotify.com/track/4LxVI06l2HJ1PPJVzTCTk9) | [Booz](https://open.spotify.com/artist/6TuVQLhn2QGz4ro1RAzXyc), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl) | [Lass uns feiern](https://open.spotify.com/album/1LhqqSGD971jExMz60nAtV) | 2:57 |
-| 48 | [White Owl](https://open.spotify.com/track/4ShBbBo8J5mgI5mdlLQYOu) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [White Owl](https://open.spotify.com/album/7ialluhKylLZ5ZvZirxnY0) | 2:47 |
+| 48 | [Whiite Owl](https://open.spotify.com/track/4ShBbBo8J5mgI5mdlLQYOu) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Sophie Alice](https://open.spotify.com/artist/5zkQllvcmtftirjkFcgL9Q) | [Whiite Owl](https://open.spotify.com/album/7ialluhKylLZ5ZvZirxnY0) | 2:47 |
 | 49 | [Si si \(140bpm \- Emin\)](https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [EXPORT](https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s) | 2:44 |
 | 50 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
 | 51 | [wer wir waren](https://open.spotify.com/track/52uMovKo0Oo8bponOopTbH) | [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [wer wir waren](https://open.spotify.com/album/3pXtZtMd2Wt0KDjXmJGLqq) | 2:30 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 62 | [american fantasy](https://open.spotify.com/track/1Et21JkyGRd5rBTbPNUCmm) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [american fantasy](https://open.spotify.com/album/3PQcianQk4Nf2ksnFVrLxC) | 2:22 |
 | 63 | [Weitblick](https://open.spotify.com/track/2IcJGxJU5W1yGWQXDnOEd9) | [conan.luis](https://open.spotify.com/artist/1H9Smm4OzNFwBB0BELY2PD) | [Weitblick](https://open.spotify.com/album/6q3qxVEDRlM2i5wDWuLGje) | 2:46 |
 
-Snapshot ID: `MCxiOTdkMWNiMmQ1NTFlNjNlMThmMDc2NmE3YWUzYmIyNGVhNjNlOWM0`
+Snapshot ID: `MCwyYzFjYTI0ZGExMjY5MTEwZmUzZDJjMDdmYjdlZWMxZTcyZjlmOTUy`

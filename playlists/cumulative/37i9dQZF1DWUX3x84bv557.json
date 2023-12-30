@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 184000,
       "name": "Dat Hadden Wij Moeten Zijn",
       "url": "https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 204923,
       "name": "De Helft Van Mij",
       "url": "https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj"
@@ -4103,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Jonge Zelf",
+        "url": "https://open.spotify.com/album/4xMbpM9TTBrEXkLmRA9Ywd"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199816,
+      "name": "Jonge Zelf",
+      "url": "https://open.spotify.com/track/5CqImNhjgc4mOBpQgiHcBr"
+    },
+    {
+      "album": {
         "name": "Jouw Love",
         "url": "https://open.spotify.com/album/7s1jQ9f82JwSBC14Z1tvHH"
       },
@@ -4580,6 +4598,24 @@
       "duration_ms": 196744,
       "name": "Leef je in mij",
       "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
+    },
+    {
+      "album": {
+        "name": "Lege Dansvloer",
+        "url": "https://open.spotify.com/album/06jXRm9XknDiudbHnY9eB6"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154538,
+      "name": "Lege Dansvloer",
+      "url": "https://open.spotify.com/track/5dqs0pwFjsXJzg5aWKDDD8"
     },
     {
       "album": {
@@ -5280,7 +5316,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 168292,
       "name": "Morgen Gaan We Praten",
       "url": "https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9"
@@ -7638,6 +7674,28 @@
       "duration_ms": 147648,
       "name": "volgens mij ben ik verliefd",
       "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
+    },
+    {
+      "album": {
+        "name": "Volle Maan",
+        "url": "https://open.spotify.com/album/2Bt8e5tFs8Kpe6o0wPqRI5"
+      },
+      "artists": [
+        {
+          "name": "TOMMY",
+          "url": "https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM"
+        },
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Volle Maan",
+      "url": "https://open.spotify.com/track/2ArCv6pgZP2c62gU6Bc4aa"
     },
     {
       "album": {

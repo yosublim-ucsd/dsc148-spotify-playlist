@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 246257,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
@@ -7596,6 +7596,24 @@
       "duration_ms": 330447,
       "name": "The Witching Hour",
       "url": "https://open.spotify.com/track/0P8qMJDuy4wv4sHIHqZgkG"
+    },
+    {
+      "album": {
+        "name": "Notes of Longing",
+        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195019,
+      "name": "The Young Weaver",
+      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     },
     {
       "album": {

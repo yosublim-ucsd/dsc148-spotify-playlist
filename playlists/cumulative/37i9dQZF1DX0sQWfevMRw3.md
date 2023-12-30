@@ -2,9 +2,9 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> JULEN PÅ FYRA HJUL ÄR HÄR!!
+> 2023 VAR EPANS ÅR!!
 
-910 songs - 1 day 14 hr 50 min
+911 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [NU VILL JAG HA EN](https://open.spotify.com/track/5oLmpCYC1pDdvdeBBOocSK) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [NU VILL JAG HA EN](https://open.spotify.com/album/4YmBIeAOwKtQ6xl0IK7zx1) | 2:30 | 2023-06-01 | 2023-06-23 |
 | [NU ÄR JAG DIN BUKIS](https://open.spotify.com/track/51CorYy7F1xK0Bbe9ECHfR) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [NU ÄR JAG DIN BUKIS](https://open.spotify.com/album/3GSAc5Gjtz0RwmQsGpy3gq) | 2:02 | 2023-04-06 | 2023-05-05 |
 | [NU ÅKER DEN NER](https://open.spotify.com/track/4SBnZCJtn23bFt3AXHB8nx) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [NU ÅKER DEN NER](https://open.spotify.com/album/5iGtxpuVLpEenvX2E4PDAr) | 2:31 | 2023-09-14 | 2023-10-27 |
+| [Nyår i min EPA](https://open.spotify.com/track/2Fkg7zBC2m5aOHo9XJO4Kl) | [Sevzen X Caal](https://open.spotify.com/artist/4VdryM6mhgN4lN4FyYVrak) | [Nyår i min EPA](https://open.spotify.com/album/38AslBHhLZZtFzMJwQah1n) | 2:41 | 2023-12-28 |  |
 | [NYÅRSLÖFTEN](https://open.spotify.com/track/1kQqiHU5WB11jM6dWuhuZ5) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [NYÅRSLÖFTEN](https://open.spotify.com/album/0R61JgO8HrHKUEoC5cAQQF) | 2:25 | 2023-12-21 |  |
 | [När det blir helg](https://open.spotify.com/track/6pvsSvBYdt9H2WkE6a8mKg) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [När det blir helg](https://open.spotify.com/album/3K48P2tSiZb2ijBR4idNhz) | 2:30 | 2022-10-06 | 2022-12-30 |
 | [NÄR LIVET SUGER](https://open.spotify.com/track/5YnRmCdV7CUtl9LQyIkDnt) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [NÄR LIVET SUGER](https://open.spotify.com/album/5nFOZWHf7ZWUuMbtQHo3kH) | 2:46 | 2023-05-11 | 2023-06-30 |

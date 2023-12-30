@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Nasty C & ODUMODUBLVCK",
-  "num_followers": 23090,
+  "num_followers": 23213,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGEzNDBkZjA2M2E5NDA5Y2EwMzlmMGE5MGU3ODk1NDY5MzYzNWJh",
+  "snapshot_id": "MCwwOWE2Nzc1NTZlMTcyMzkwYmRjNzAzNjJhNDYwNjY3MmY2NDI0ODM2",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Entrapreneur",
-        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 144253,
-      "name": "Entrapreneur",
-      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -539,28 +539,28 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+        "name": "We Only Talk About Real Shit When We're Fucked Up",
+        "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
         },
         {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 259545,
-      "name": "Thang For You (feat. NoCap)",
-      "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
+      "duration_ms": 209751,
+      "name": "Home Alone (with J. Cole)",
+      "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
     },
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "DARRYL WUZ HERE",
-        "url": "https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX"
+        "url": "https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T"
       },
       "artists": [
         {
@@ -570,7 +570,7 @@
       ],
       "duration_ms": 106478,
       "name": "ACID GUNZX",
-      "url": "https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh"
+      "url": "https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -595,22 +595,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "We Only Talk About Real Shit When We're Fucked Up",
-        "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
       },
       "artists": [
         {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 209751,
-      "name": "Home Alone (with J. Cole)",
-      "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. NoCap)",
+      "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
     },
     {
       "added_at": "2023-12-22 00:01:00",

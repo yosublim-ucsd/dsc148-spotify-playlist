@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 238416,
       "name": "Chilipi Gnapakam",
       "url": "https://open.spotify.com/track/0fOP4QWtRFAL0tze8ensBC"
@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Prementhundo Gundellona",
+        "url": "https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233224,
+      "name": "Prementhundo Gundellona",
+      "url": "https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf"
+    },
+    {
+      "album": {
         "name": "Priya",
         "url": "https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu"
       },
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 64026,
       "name": "Sara Sara",
       "url": "https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x"
@@ -3582,6 +3600,32 @@
       "duration_ms": 92182,
       "name": "Uppenalaa",
       "url": "https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL"
+    },
+    {
+      "album": {
+        "name": "Varnana",
+        "url": "https://open.spotify.com/album/3lmW5UAWiXw2gMe2dMXLm1"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Sarvari",
+          "url": "https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS"
+        },
+        {
+          "name": "Sravani Charugundla",
+          "url": "https://open.spotify.com/artist/3E2FmsMjf2E9T9Nbav7VN2"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Varnana",
+      "url": "https://open.spotify.com/track/6EEopdWEiFtrQhOW33bRva"
     },
     {
       "album": {

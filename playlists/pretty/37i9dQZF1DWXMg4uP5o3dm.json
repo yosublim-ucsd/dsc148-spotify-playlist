@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 471743,
+  "num_followers": 471996,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDZkZjc3YTIxOTc2ZTJlM2ViOGRjZmJlMjQ2OGExNzU2Y2I4MGYw",
+  "snapshot_id": "MCw2NmZmMWI2ZWM0MDRlNmI2NGVjYjAxYzZlMDVkNDkyOWE4NDYxMjA1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 214333,
       "name": "NO ESCAPE",
       "url": "https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
-        "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
+        "name": "GAY 4 ME (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/7iR7ByaH9gsE5yKqPZBmU0"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 313344,
-      "name": "\u00bf (feat. Halsey)",
-      "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
+      "duration_ms": 174739,
+      "name": "GAY 4 ME (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/0SpPqrdsoudUHbahZa9Sm5"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
+        "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 313344,
+      "name": "\u00bf (feat. Halsey)",
+      "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "GAY 4 ME (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/7iR7ByaH9gsE5yKqPZBmU0"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "GAY 4 ME (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/0SpPqrdsoudUHbahZa9Sm5"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Max Maco Is Dead Right?",
-        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
+      "duration_ms": 176459,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+        "name": "Max Maco Is Dead Right?",
+        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 176459,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
+      "duration_ms": 174306,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Die For A Night",
-      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Drinking with Cupid",
         "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
       },
@@ -1407,22 +1391,34 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
-        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Die For A Night",
+      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
       },
       "artists": [
         {
           "name": "MISSIO",
           "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+      "duration_ms": 223671,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1475,22 +1471,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "MERIDIAN",
-        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
-      },
-      "artists": [
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "PUMP THE BREAK",
-      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1507,38 +1487,6 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1563,6 +1511,58 @@
       "duration_ms": 180667,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "PUMP THE BREAK",
+      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Dead",
-        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
-      },
-      "artists": [
-        {
-          "name": "Baby Jane",
-          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Failed at Math(s)",
         "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Dead",
+        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
+      },
+      "artists": [
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "RUN THRU ME",
+        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "RUN THRU ME",
+      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Miracle, Baby",
         "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
       },
@@ -1779,34 +1795,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "god damn!",
-        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
+        "name": "peachy",
+        "url": "https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT"
       },
       "artists": [
         {
-          "name": "viisi",
-          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
+          "name": "Saint Slumber",
+          "url": "https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM"
         }
       ],
-      "duration_ms": 116307,
-      "name": "god damn!",
-      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "RUN THRU ME",
-        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "RUN THRU ME",
-      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
+      "duration_ms": 203200,
+      "name": "peachy",
+      "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"
     }
   ],
   "unique_name": "Alternative Beats",

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Jesse Baez.
 
-619 songs - 1 day 9 hr 39 min
+620 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-13 |  |
 | [De Más](https://open.spotify.com/track/4p19BdGQ1jlQiGSPutGe6J) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [De Más](https://open.spotify.com/album/5D40rsTMMrvxltrAHoil80) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-02 | 2022-01-25 |
+| [De Otra Vida](https://open.spotify.com/track/1ToksVaQi3XOqwlmfn5mLH) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Cuando No Quede Nadie](https://open.spotify.com/album/0iDz5ao0k2wowPRbaMC2Jt) | 3:02 | 2023-12-29 |  |
 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 | 2023-02-17 | 2023-06-24 |
 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 | 2023-07-07 | 2023-07-22 |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2022-01-24 | 2022-04-09 |
@@ -457,7 +458,7 @@
 | [Provide](https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Provide](https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa) | 4:00 | 2021-12-02 | 2022-01-25 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2021-12-02 | 2022-01-29 |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-01-24 | 2022-10-28 |
-| [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 | 2023-10-13 |  |
+| [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 | 2023-10-13 | 2023-12-30 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2023-08-11 | 2023-08-26 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-20 | 2023-08-23 |
 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 | 2022-10-27 | 2023-02-17 |

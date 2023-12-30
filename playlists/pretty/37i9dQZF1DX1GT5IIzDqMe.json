@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 87660,
+  "num_followers": 87757,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBhZDdhZTA1NzcxMTFjZTZkMzZiZGMwYTVlY2Y0N2ZmNmM0NDk3",
+  "snapshot_id": "MCxmZDE4MjAxZTgwN2JmMmJiMTk1NmU2ZjVmYzY3M2IzZmJhZWE5ZmQ4",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "No Ufo's (Original Version)",
+        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
+      },
+      "artists": [
+        {
+          "name": "Model 500",
+          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "No Ufo's - Vocal",
+      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "No Ufo's (Original Version)",
-        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
-      },
-      "artists": [
-        {
-          "name": "Model 500",
-          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "No Ufo's - Vocal",
-      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -599,54 +579,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
         },
         {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -667,6 +615,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
@@ -683,22 +647,38 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
         },
         {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -723,22 +703,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         },
         {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         }
       ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -755,6 +735,26 @@
       "duration_ms": 411999,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -831,46 +831,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Patterns the Album",
         "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
       },
@@ -903,6 +863,46 @@
       "duration_ms": 339336,
       "name": "Do It All Night (C2 Edit) - Mixed",
       "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Bearer (feat. Karina Mia)",
+        "url": "https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        },
+        {
+          "name": "Karina Mia",
+          "url": "https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu"
+        }
+      ],
+      "duration_ms": 360773,
+      "name": "The Bearer (feat. Karina Mia) - Brother's Burden Pt1",
+      "url": "https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     }
   ],
   "unique_name": "Detroit Techno",

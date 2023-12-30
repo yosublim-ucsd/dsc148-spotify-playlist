@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-165 songs - 11 hr 24 min
+166 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 | 2022-04-01 | 2022-07-29 |
 | [Lo Frágil De La Locura](https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:19 | 2022-04-01 | 2022-07-29 |
 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 | 2022-07-08 | 2022-07-28 |
-| [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 | 2022-04-01 |  |
+| [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 | 2022-04-01 | 2023-12-30 |
 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 | 2022-04-01 |  |
 | [Luna](https://open.spotify.com/track/4D5nVZMNE9vjWtIYzYIKaR) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Código de Barras](https://open.spotify.com/album/1banfoBhLiQH0mhSJK54xS) | 4:34 | 2022-04-01 | 2022-07-29 |
 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 | 2022-04-01 | 2022-07-29 |
@@ -146,6 +146,7 @@
 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 | 2022-07-08 |  |
 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 | 2022-04-01 | 2022-07-29 |
 | [Suerte](https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 5:39 | 2022-07-08 |  |
+| [Sutil](https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:15 | 2023-12-07 |  |
 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 | 2022-04-01 |  |
 | [Te Vas](https://open.spotify.com/track/2WengSk6pPmZ5kRRwrgiSu) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Sideral](https://open.spotify.com/album/2U5M8ZgqLFlvAl4EpDlH7K) | 3:59 | 2022-04-01 | 2022-07-09 |
 | [Te Voy a Llevar](https://open.spotify.com/track/4WOwHySxwon4QhRszoMazm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Este Fuerte Viento Que Sopla](https://open.spotify.com/album/6HyHimLPwJgAVkpH7fc8gb) | 4:34 | 2022-04-01 | 2022-07-06 |

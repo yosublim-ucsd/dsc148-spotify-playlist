@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10695,
+  "num_followers": 10720,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njk1NDRmODdlNzBkYmVmOTA0MWM1ZTQ0MGJlMjg0MDU0MjViNmYw",
+  "snapshot_id": "MCxjMzViODdjOGQ3M2IzMzk0MjRlYjQzM2Q3NGVjYzJjMDJiNGZlYjc5",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Praia de Artista",
-      "url": "https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Energy Sync",
         "url": "https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 397107,
       "name": "Energy Sync - Club Mix",
       "url": "https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Praia de Artista",
+      "url": "https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Parente Neon",
-        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
-      },
-      "artists": [
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Moleque Vampiro",
-      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "TRAVESSIA",
         "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 207517,
       "name": "SINA",
       "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Parente Neon",
+        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
+      },
+      "artists": [
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Moleque Vampiro",
+      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -355,30 +355,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Laiarai\u00e1 (Remixes)",
-        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
-      },
-      "artists": [
-        {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "LOV.ini",
-          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Laiarai\u00e1 (LOV.ini Remix)",
-      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kengaral Eletrohits, Vol. 2",
         "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
@@ -415,6 +391,30 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Laiarai\u00e1 (Remixes)",
+        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
+      },
+      "artists": [
+        {
+          "name": "Henrique Portugal",
+          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "LOV.ini",
+          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Laiarai\u00e1 (LOV.ini Remix)",
+      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -447,22 +447,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+        "name": "ALGO",
+        "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
       "artists": [
         {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
         },
         {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+          "name": "BLANCAh",
+          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
         }
       ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+      "duration_ms": 352099,
+      "name": "Algo 2",
+      "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Ideologia Chinesa",
         "url": "https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k"
       },
@@ -511,42 +531,6 @@
       "duration_ms": 323629,
       "name": "House Aprovado Pelo Governo",
       "url": "https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "ALGO",
-        "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
-      },
-      "artists": [
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        },
-        {
-          "name": "BLANCAh",
-          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
-        }
-      ],
-      "duration_ms": 352099,
-      "name": "Algo 2",
-      "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "VA IFN 001 - Techno Concept",
-        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 311129,
-      "name": "Fixity - Original Mix",
-      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -579,6 +563,42 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Me Destr\u00f3i (Stroka Remix)",
+        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pethit",
+          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
+        },
+        {
+          "name": "Stroka",
+          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Me Destr\u00f3i - Stroka Remix",
+      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Proibidao EP",
         "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
       },
@@ -607,22 +627,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Me Destr\u00f3i (Stroka Remix)",
-        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
+        "name": "Criptogramas",
+        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
       },
       "artists": [
         {
-          "name": "Thiago Pethit",
-          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
-        },
-        {
-          "name": "Stroka",
-          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Me Destr\u00f3i - Stroka Remix",
-      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+      "duration_ms": 333103,
+      "name": "Criptogramas",
+      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -647,22 +663,6 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Criptogramas",
-        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
-      },
-      "artists": [
-        {
-          "name": "Vermelho Wonder",
-          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
-        }
-      ],
-      "duration_ms": 333103,
-      "name": "Criptogramas",
-      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Keyboard Cats EP",
-        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mussi",
-          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
-        }
-      ],
-      "duration_ms": 369924,
-      "name": "Keyboard Cats",
-      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "N\u00f3dulo",
         "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 337643,
       "name": "Sem Sono",
       "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Keyboard Cats EP",
+        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mussi",
+          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
+        }
+      ],
+      "duration_ms": 369924,
+      "name": "Keyboard Cats",
+      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
     },
     {
       "added_at": "2023-11-10 03:03:00",

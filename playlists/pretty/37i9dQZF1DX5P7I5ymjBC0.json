@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 67408,
+  "num_followers": 67462,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzVkMjVkODBmYWVjMmI2NWM4MmQyYzg2NzJjNTI0OWZhMzJjNWZj",
+  "snapshot_id": "MCw1NjE1MTg4ZWFlMDE2YTAyMWZkYjY4ZmZjYWNjYjFlZjk1YWFjMThl",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Chaap Tilak",
-        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
-      },
-      "artists": [
-        {
-          "name": "Namita Choudhary",
-          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Chaap Tilak",
-      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 532300,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Chaap Tilak",
+        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
+      },
+      "artists": [
+        {
+          "name": "Namita Choudhary",
+          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -699,6 +699,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        },
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Natkhat Nadiya",
+      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -735,50 +759,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        },
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Natkhat Nadiya",
-      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Albela",
-        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Rishabh Shankar",
-          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Albela",
-      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Chhap Tilak",
         "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 271058,
       "name": "Chhap Tilak",
       "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Albela",
+        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Rishabh Shankar",
+          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Albela",
+      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Mann Bheetar",
         "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -931,6 +931,22 @@
       "duration_ms": 243750,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Savera - Single",
+        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        }
+      ],
+      "duration_ms": 245510,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
-      },
-      "artists": [
-        {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -1011,18 +1011,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Palkan",
-        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
+        "name": "We for Love",
+        "url": "https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo"
       },
       "artists": [
         {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        },
+        {
+          "name": "Malini Awasthi",
+          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
         }
       ],
-      "duration_ms": 361080,
-      "name": "Palkan",
-      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
+      "duration_ms": 293500,
+      "name": "Divine Krishna",
+      "url": "https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk"
     }
   ],
   "unique_name": "Fusion Finds",

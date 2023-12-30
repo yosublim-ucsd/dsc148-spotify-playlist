@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Gordon Flanders
+> 持續發掘世一超新聲！Cover: Lau Heung King
 
-156 songs - 8 hr 59 min
+157 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,9 @@
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-05-11 |  |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-06 | 2023-04-14 |
 | [年月漫漫 \- 電影《年少日記》主題曲](https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [年月漫漫 \(電影《年少日記》主題曲\)](https://open.spotify.com/album/77YMeS9QqVa3cYEeaQOO11) | 4:07 | 2023-11-16 |  |
-| [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-04-13 |  |
+| [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-04-13 | 2023-12-30 |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 | 2023-04-14 |
+| [愛已過去](https://open.spotify.com/track/753l3KVLgAqD53c45xELdI) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [愛已過去](https://open.spotify.com/album/1YvaAkHpA402aSMUSGH9QN) | 5:13 | 2023-12-28 |  |
 | [慢半拍](https://open.spotify.com/track/1eFbcn9JmUe57fwf6MZL01) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [FLANDERS](https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki) | 3:48 | 2023-12-14 |  |
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-11 |  |

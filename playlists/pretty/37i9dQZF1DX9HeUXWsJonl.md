@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,606 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,794 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 |
-| 2 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
-| 3 | [Trafiquant](https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Trafiquant](https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM) | 3:25 |
-| 4 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
-| 5 | [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 |
+| 2 | [Trafiquant](https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Trafiquant](https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM) | 3:25 |
+| 3 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
+| 4 | [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 |
+| 5 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
 | 6 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 |
 | 7 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
 | 8 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 |
 | 50 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 |
 
-Snapshot ID: `MCwxMGUwYjgyM2JkYjA1ZWI3OTdiNWRhY2EzMzUyNWYzOWQzZDIxODdl`
+Snapshot ID: `MCxjY2QwOGNiYzkyODQwZWYxZWMyYjYxZWU5NDZjMzQ3OTM3ZDRjMjZk`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-344 songs - 23 hr 41 min
+346 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Maximal Crazy \(Original Mix\)](https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-10-20\* |  |
 | [Meet Her \- Tiësto vs\. Da Hool](https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her \(Tiësto vs\. Da Hool\)](https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT) | 2:12 | 2023-11-23 |  |
 | [Miami \(Original Mix\)](https://open.spotify.com/track/0GXyu2iFC3ECfK8c4CF9xN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 2:04 | 2020-10-20\* | 2023-04-20 |
+| [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2023-12-28 |  |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-13 |  |
 | [My Whistle](https://open.spotify.com/track/6EJrL8d1vpO87Z79g8vuKn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Electro House Anthems: Best of 2019 \(Presented by Spinnin' Records\)](https://open.spotify.com/album/2lmXdc2qmZjWbHhfgi3pmN) | 2:35 | 2022-11-10 | 2022-11-14 |
 | [My Whistle](https://open.spotify.com/track/7nLDTwNkVr4RWPjJCdYv5b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Together](https://open.spotify.com/album/2GO8bfob0a7pR7HFbeWRNk) | 2:35 | 2020-10-20\* | 2022-07-29 |
@@ -302,6 +303,7 @@
 | [Take Me \- Radio Edit](https://open.spotify.com/track/7fqGjdUTg71b7M5iE6Qzrb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kyler England](https://open.spotify.com/artist/6YvjlSVLWjXqSvATafQkSK) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 3:32 | 2020-10-20\* | 2023-04-20 |
 | [Ten Seconds Before Sunrise](https://open.spotify.com/track/53PmCQJjEBsiXNrXsuPjqM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 7:31 | 2022-07-28 | 2023-04-20 |
 | [Ten Seconds Before Sunrise](https://open.spotify.com/track/6mU8nFGN8Y3Kj56Cndsb14) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:31 | 2020-10-20\* | 2022-07-29 |
+| [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2023-12-28 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2020-10-20\* |  |
 | [The Feeling](https://open.spotify.com/track/6C7aU6azGmrq5h5FZ2EIIz) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ou Est Le Swimming Pool](https://open.spotify.com/artist/1m3jswEIBazYObuVL9NriQ) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:45 | 2020-10-20\* | 2023-04-20 |
 | [The House Of Now \- Tiësto Edit](https://open.spotify.com/track/2wKEQFKicVzKc77wskAtkB) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 2:07 | 2020-10-20\* | 2023-04-20 |

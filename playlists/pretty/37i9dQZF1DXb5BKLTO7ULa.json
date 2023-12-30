@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Tom Odell",
-  "num_followers": 259735,
+  "num_followers": 259722,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M4ODI4ZmE0NzM5YzgxNzgzNzYwZDc5M2JmMmUyMTRhMWYzMTQ1",
+  "snapshot_id": "MCw2M2RhOTQwMzlmYzAwMTVmZGMzOTczMTYyOWM0NzZkMDU0NjczMjE4",
   "tracks": [
     {
       "added_at": "2023-12-22 09:42:53",
@@ -23,6 +23,38 @@
       "duration_ms": 205634,
       "name": "The End",
       "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "That's A Lie",
+        "url": "https://open.spotify.com/album/7n8ZIjeMZitonEa1skRmjC"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "duration_ms": 165696,
+      "name": "That's A Lie",
+      "url": "https://open.spotify.com/track/47YMU7asK6HPPTLB8ctVbZ"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -43,6 +75,66 @@
       "duration_ms": 160342,
       "name": "Rijker",
       "url": "https://open.spotify.com/track/4rKPOGsEU0mPMfWozI95PP"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Tanger",
+        "url": "https://open.spotify.com/album/4HOjdJGe5q8RnsgAMbr4qZ"
+      },
+      "artists": [
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 206761,
+      "name": "Tanger",
+      "url": "https://open.spotify.com/track/49HWqG8Cfz9euF3Gg5QxwZ"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "A Maze",
+        "url": "https://open.spotify.com/album/683B893MLcsJG2Mj03Fli7"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 225208,
+      "name": "A Maze",
+      "url": "https://open.spotify.com/track/1Jg8gaX3pD3a53UX7bhJM2"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -129,6 +221,26 @@
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
     },
     {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Volle Maan",
+        "url": "https://open.spotify.com/album/2Bt8e5tFs8Kpe6o0wPqRI5"
+      },
+      "artists": [
+        {
+          "name": "TOMMY",
+          "url": "https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM"
+        },
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Volle Maan",
+      "url": "https://open.spotify.com/track/2ArCv6pgZP2c62gU6Bc4aa"
+    },
+    {
       "added_at": "2023-12-22 09:42:53",
       "album": {
         "name": "Hou Mij Vast",
@@ -149,6 +261,22 @@
       "url": "https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W"
     },
     {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Lege Dansvloer",
+        "url": "https://open.spotify.com/album/06jXRm9XknDiudbHnY9eB6"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "duration_ms": 154538,
+      "name": "Lege Dansvloer",
+      "url": "https://open.spotify.com/track/5dqs0pwFjsXJzg5aWKDDD8"
+    },
+    {
       "added_at": "2023-12-22 09:42:53",
       "album": {
         "name": "Residentie Orkest Sessions Pt. II",
@@ -167,6 +295,38 @@
       "duration_ms": 346729,
       "name": "Wouldn't Understand It",
       "url": "https://open.spotify.com/track/60tyMQKoTH60jkdFjnW1LU"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Jongen Van Bodem",
+        "url": "https://open.spotify.com/album/2dScnA4RjtDeutthbjRI0m"
+      },
+      "artists": [
+        {
+          "name": "Zarfani",
+          "url": "https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Andere Branche 2.0",
+      "url": "https://open.spotify.com/track/4aDpWsv7G3rOHhfkUCytpZ"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "rabo rekening",
+        "url": "https://open.spotify.com/album/5ZIcHsPuHQHiQNBtSxs2YH"
+      },
+      "artists": [
+        {
+          "name": "gladde paling",
+          "url": "https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS"
+        }
+      ],
+      "duration_ms": 90833,
+      "name": "rabo rekening",
+      "url": "https://open.spotify.com/track/3lGQtSxNYklPmnyMlsfkFy"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -219,6 +379,38 @@
       "duration_ms": 144000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/0iQgaEgI5x9UChNcAmktYV"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Say What I Can't Say",
+        "url": "https://open.spotify.com/album/5nUoB7Z7bsT5GnkmGjWdGL"
+      },
+      "artists": [
+        {
+          "name": "Ciao Lucifer",
+          "url": "https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Say What I Can't Say",
+      "url": "https://open.spotify.com/track/1y9pJ1sYDbXt6HqPq5bOWs"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "It's a Mad World",
+        "url": "https://open.spotify.com/album/4YavB17CTyvVVN01AYMjO9"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 153540,
+      "name": "It's a Mad World",
+      "url": "https://open.spotify.com/track/7d3UINr3Bl6eG27mnLajMp"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -275,6 +467,38 @@
       "duration_ms": 159375,
       "name": "Headphones (feat. Aron Blom)",
       "url": "https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -437,6 +661,22 @@
       "url": "https://open.spotify.com/track/5Nx0z7IzYSoNjkYtKxT7Vb"
     },
     {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/0AyjlHh016jtgOLApiJAGq"
+      },
+      "artists": [
+        {
+          "name": "Latifah",
+          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+        }
+      ],
+      "duration_ms": 166138,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/1QVUsLez7jEBRMAOIznOv8"
+    },
+    {
       "added_at": "2023-12-22 09:42:53",
       "album": {
         "name": "PRECISIE",
@@ -455,6 +695,22 @@
       "duration_ms": 124830,
       "name": "PRECISIE",
       "url": "https://open.spotify.com/track/0beMtecd3To87MMuMPb03E"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2siYbvyK2oQlwF3doNBmts"
+      },
+      "artists": [
+        {
+          "name": "Tur-G",
+          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
+        }
+      ],
+      "duration_ms": 82064,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/27GLozlAgrobCCEYSl8pqh"
     },
     {
       "added_at": "2023-12-22 09:42:53",
@@ -507,6 +763,22 @@
       "duration_ms": 217500,
       "name": "Wish I Could Cry",
       "url": "https://open.spotify.com/track/1dn6DFWgzn5Zb8eOpwy7Ju"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Jaren Komen Jaren Gaan",
+        "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Jaren Komen Jaren Gaan",
+      "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
     },
     {
       "added_at": "2023-12-22 09:42:53",

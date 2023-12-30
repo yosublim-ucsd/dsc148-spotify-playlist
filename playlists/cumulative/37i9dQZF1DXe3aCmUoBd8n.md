@@ -2,9 +2,9 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Nassif Zeytoun.
+> Top Sharqi hits right now\. Cover: Abeer Nehme.
 
-136 songs - 7 hr 53 min
+137 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bahebek Lelsama](https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Bahebek Lelsama](https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn) | 3:20 | 2023-03-13 | 2023-04-11 |
 | [Bakkir](https://open.spotify.com/track/3575KkXrlkfMdNTlC0W6oU) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Bakkir](https://open.spotify.com/album/0cFFikmh724goAxaIhedC0) | 3:01 | 2023-05-19 |  |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-05-04 | 2023-03-14 |
-| [Bala Ma Nhess \- Always April Remix](https://open.spotify.com/track/6keIGjWMM4J9sO6uZjF6GN) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bala Ma Nhess \(Always April Remix\)](https://open.spotify.com/album/0WgGBcWLyWxGk4cIAvZkYP) | 3:05 | 2022-06-20 |  |
+| [Bala Ma Nhess \- Always April Remix](https://open.spotify.com/track/6keIGjWMM4J9sO6uZjF6GN) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bala Ma Nhess \(Always April Remix\)](https://open.spotify.com/album/0WgGBcWLyWxGk4cIAvZkYP) | 3:05 | 2022-06-20 | 2023-12-30 |
 | [Bas Bhebbak \- بس بحبك](https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Bas Bhebbak \(بس بحبك\)](https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ) | 3:08 | 2023-06-13 |  |
 | [Bde'ellak](https://open.spotify.com/track/4g3dSoIjesUCD7MoyHD9zz) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Bde'ellak](https://open.spotify.com/album/6qMYqrsovsovPbl6EkSkhI) | 2:54 | 2022-05-04 | 2023-03-14 |
 | [Befdiki](https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Befdiki](https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa) | 3:34 | 2023-06-02 |  |
@@ -45,6 +45,7 @@
 | [Betwale3 Nar](https://open.spotify.com/track/7fVZ6x92fzG2pXXyz47cKw) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Betwale3 Nar](https://open.spotify.com/album/1CmaOgULKrGgELbpizwXUC) | 3:52 | 2022-05-04 | 2022-06-21 |
 | [Bhebik Men Albi](https://open.spotify.com/track/6yFd2IpEob9kFyv8kVLdDx) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Bhebik Men Albi](https://open.spotify.com/album/0qFcuLS5osJSsKSqRS44tW) | 3:25 | 2023-05-19 | 2023-06-14 |
 | [Bi Amro](https://open.spotify.com/track/6rwmGovvGuA89IED5UTd6A) | [Majd Moussally](https://open.spotify.com/artist/3rkjF41xaOv7YIOhylmoIc) | [Bi Amro](https://open.spotify.com/album/6vVGzovhYC1Q8k7KQ5bq7x) | 3:28 | 2022-06-20 | 2023-07-28 |
+| [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 | 2023-12-27 |  |
 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 | 2022-05-04 | 2023-03-14 |
 | [Bkhounak](https://open.spotify.com/track/3OJavGar3xFkSaEyEZQG7O) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Bkhounak](https://open.spotify.com/album/2vCxyxg3tr3H7IwLVizPn2) | 3:15 | 2023-01-05 | 2023-06-03 |
 | [Byekhtelif El Hadis](https://open.spotify.com/track/6cy3DFiCOxFPFvqJB4Yhqe) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Byekhtelif El Hadis](https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf) | 3:13 | 2022-05-04 | 2022-07-17 |

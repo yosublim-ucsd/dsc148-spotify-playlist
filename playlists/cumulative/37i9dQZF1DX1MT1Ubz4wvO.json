@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Chabelos en portada.",
+  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Cerro Dublin en portada.",
   "name": "Novedades Rock",
   "tracks": [
     {
@@ -5659,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "casa de espejos",
+        "url": "https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141484,
+      "name": "casa de espejos",
+      "url": "https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp"
+    },
+    {
+      "album": {
         "name": "Puerta 9",
         "url": "https://open.spotify.com/album/4DdXxjm3JeTH5ZJAy04rlK"
       },
@@ -9079,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "Dicen Por Ah\u00ed/Mi Alma En Cuerdas",
+        "url": "https://open.spotify.com/album/6SnNiARxOIb9lrmox5A76Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Dicen Por Ah\u00ed/Mi Alma En Cuerdas",
+      "url": "https://open.spotify.com/track/6iiMNiGqqMs0BEqN0ElasW"
+    },
+    {
+      "album": {
         "name": "Montevideo Rock (En Vivo)",
         "url": "https://open.spotify.com/album/6KWbGjTW4cvCFbc5Atdo9i"
       },
@@ -11623,6 +11659,32 @@
     },
     {
       "album": {
+        "name": "Empezar de Nuevo",
+        "url": "https://open.spotify.com/album/2wIHOD0fAHdfVheIaj4FNr"
+      },
+      "artists": [
+        {
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+        },
+        {
+          "name": "Pepe Grela",
+          "url": "https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ"
+        },
+        {
+          "name": "Don Gorri",
+          "url": "https://open.spotify.com/artist/2CvcmjRpcM7N4HZ8GrZnSr"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Empezar de Nuevo",
+      "url": "https://open.spotify.com/track/6yKSqIwOSyYeb2ZjLAA6cK"
+    },
+    {
+      "album": {
         "name": "En Abril",
         "url": "https://open.spotify.com/album/5E4U5Fs7o5y129g9fqMJEw"
       },
@@ -12196,6 +12258,24 @@
       "duration_ms": 162194,
       "name": "entre los dos",
       "url": "https://open.spotify.com/track/4ddMTuwReLGSZvzseBD7c1"
+    },
+    {
+      "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "album": {
@@ -14125,6 +14205,32 @@
     },
     {
       "album": {
+        "name": "For You (Cover Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0e4D2hepNaxZ6cGoVGRPZd"
+      },
+      "artists": [
+        {
+          "name": "Pressive",
+          "url": "https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4"
+        },
+        {
+          "name": "Fear the Fall",
+          "url": "https://open.spotify.com/artist/4KQFW6OllXONO0V7WDYbOV"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211887,
+      "name": "For You (Cover Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1mabOOw9EiV3JBPcrSU7Zf"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/64OtNozTGi3bsXYU0a4DVz"
       },
@@ -15440,7 +15546,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172599,
       "name": "Hago lo que quiero",
       "url": "https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8"
@@ -17782,7 +17888,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 223538,
       "name": "KLF",
       "url": "https://open.spotify.com/track/3A7Vq0gmRNu9iiAQWSkqxK"
@@ -18704,7 +18810,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 329133,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0XQGjs9FPMA8IITUGlWgEb"
@@ -21654,7 +21760,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 232500,
       "name": "Madre Coraz\u00f3n de \u00c1tomo",
       "url": "https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO"
@@ -23356,6 +23462,24 @@
       "duration_ms": 148285,
       "name": "Mi Peor Decisi\u00f3n",
       "url": "https://open.spotify.com/track/7jy3aEdzuTuhcwTpxIBX07"
+    },
+    {
+      "album": {
+        "name": "Mi Peor Navidad",
+        "url": "https://open.spotify.com/album/65Aj201VF6M4Rnyw7cBZ34"
+      },
+      "artists": [
+        {
+          "name": "Seguimos Perdiendo",
+          "url": "https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191191,
+      "name": "Mi Peor Navidad",
+      "url": "https://open.spotify.com/track/1fKaYll1ZAk1lrrSMB431k"
     },
     {
       "album": {
@@ -26893,6 +27017,32 @@
     },
     {
       "album": {
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/2Sfl1I5H0XJWzXcqlTuz1E"
+      },
+      "artists": [
+        {
+          "name": "Baby Varela",
+          "url": "https://open.spotify.com/artist/0YVOyRHw01ctrOgi2RiSyF"
+        },
+        {
+          "name": "Over",
+          "url": "https://open.spotify.com/artist/7vuyUCdImw3UFyFpf8LYVj"
+        },
+        {
+          "name": "Soulfxrsale",
+          "url": "https://open.spotify.com/artist/6rQkKXq1ebg4tU1nteC5To"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155193,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/7g3wdMEX0LpB22vEGELWH6"
+    },
+    {
+      "album": {
         "name": "OCULTISMO",
         "url": "https://open.spotify.com/album/1qmzYglAkSKgR65AhuIPkk"
       },
@@ -28710,7 +28860,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 225671,
       "name": "Ponte en Mi Piel",
       "url": "https://open.spotify.com/track/2bjQJqg8ne0CxxvZEi3wmx"
@@ -28790,7 +28940,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155893,
       "name": "Por Lo Que Cuentan",
       "url": "https://open.spotify.com/track/4pwz2chMQWJBw4892UWIz4"
@@ -34101,6 +34251,24 @@
     },
     {
       "album": {
+        "name": "Stomp Dream",
+        "url": "https://open.spotify.com/album/1yr9sbgM2MdVoHNpHoNxT0"
+      },
+      "artists": [
+        {
+          "name": "Los Surfer Compadres",
+          "url": "https://open.spotify.com/artist/5CSMGDyOeNLyizI30QafN8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "Stomp Dream",
+      "url": "https://open.spotify.com/track/419Sr01CHEvJ1cAoGY7iv8"
+    },
+    {
+      "album": {
         "name": "Fuera de onda",
         "url": "https://open.spotify.com/album/5U2p5dMmBDD2mAoHnRYMuN"
       },
@@ -34528,7 +34696,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 206429,
       "name": "Tajada",
       "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
@@ -35246,7 +35414,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 263453,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/26O60rz0MdvMaZrXnxmUx2"
@@ -35318,7 +35486,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 193333,
       "name": "Tirando",
       "url": "https://open.spotify.com/track/3oKkOdKGpoticRUIFHVoSD"
@@ -35658,6 +35826,24 @@
       "duration_ms": 283966,
       "name": "Todo Importa Nada",
       "url": "https://open.spotify.com/track/46dnk96UPttgMfJgSemqfT"
+    },
+    {
+      "album": {
+        "name": "El s\u00edndrome del impostor",
+        "url": "https://open.spotify.com/album/4b8IQxXOwQYlDyYdUo8Gwc"
+      },
+      "artists": [
+        {
+          "name": "Reysombra",
+          "url": "https://open.spotify.com/artist/32RB7uVFWwJ0qICv90wMRy"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192083,
+      "name": "Todo ir\u00e1 bien",
+      "url": "https://open.spotify.com/track/4Qo3s4JVWWKv40vS6d45Ch"
     },
     {
       "album": {

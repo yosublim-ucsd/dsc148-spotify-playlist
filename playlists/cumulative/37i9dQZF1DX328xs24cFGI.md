@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-240 songs - 15 hr 55 min
+241 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,9 +128,10 @@
 | [きみのうた](https://open.spotify.com/track/3SlqmORmAZal8ciwUjl5qa) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [きみのうた](https://open.spotify.com/album/5NoPtytLmMigoL3IU3XsXb) | 4:41 | 2023-02-09 | 2023-08-05 |
 | [きみ想い](https://open.spotify.com/track/4xxxASeHAQRekJ8gERGQGA) | [KAZUKI UJIIE](https://open.spotify.com/artist/7I1iLceQ59KQx4u60FjZp7) | [きみ想い](https://open.spotify.com/album/5GYkce5DlctqBIclB361Qv) | 4:11 | 2023-06-01 | 2023-06-03 |
 | [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 | 2023-03-18 |
+| [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2023-12-26 |  |
 | [しわあわせ](https://open.spotify.com/track/2F1Zfnh89pO7urUL7KoVfn) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [しわあわせ](https://open.spotify.com/album/0SoKJtlMONWEI19IZ2QAzr) | 4:38 | 2023-05-25 | 2023-06-02 |
 | [それはまるで映画みたいな恋だった。](https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [それはまるで映画みたいな恋だった。](https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ) | 4:01 | 2023-02-21 | 2023-03-15 |
-| [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2023-11-01 |  |
+| [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2023-11-01 | 2023-12-30 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-15 | 2023-09-29 |
 | [ただそれだけ](https://open.spotify.com/track/36SIW9lTd7Aa4oStAC9y1E) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [恋愛至上主義](https://open.spotify.com/album/3wd2Js2vgvDwTRgDVWtrgr) | 3:12 | 2023-06-13 | 2023-06-28 |
 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 | 2023-04-18 | 2023-06-14 |

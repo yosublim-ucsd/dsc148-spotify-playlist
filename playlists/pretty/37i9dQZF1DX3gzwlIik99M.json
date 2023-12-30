@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210887,
+  "num_followers": 210904,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
+  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Mundo Guanaco",
-        "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "El Pibe Tigre",
-      "url": "https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Victimas del Vaciamiento",
         "url": "https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 190066,
       "name": "Soy de la Esquina",
       "url": "https://open.spotify.com/track/6QgFbmtynzdNpHWsmSKmPy"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Mundo Guanaco",
+        "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "El Pibe Tigre",
+      "url": "https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Madera Prohibida",
-        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
-      },
-      "artists": [
-        {
-          "name": "Los Antiguos",
-          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
-        }
-      ],
-      "duration_ms": 311222,
-      "name": "La Culpa Al Viento",
-      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Venas De Acero",
         "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Madera Prohibida",
+        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
+      },
+      "artists": [
+        {
+          "name": "Los Antiguos",
+          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
+        }
+      ],
+      "duration_ms": 311222,
+      "name": "La Culpa Al Viento",
+      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
-      },
-      "artists": [
-        {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Basado en Hechos Reales",
         "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
       "artists": [
         {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
         }
       ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+      },
+      "artists": [
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2023-04-28 03:00:00",

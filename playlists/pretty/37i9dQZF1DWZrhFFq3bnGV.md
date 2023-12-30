@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Thesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,173 likes - 81 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,187 likes - 81 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 62 | [L'arc en ciel](https://open.spotify.com/track/6i2wBBpMnen68NQxMHZqgS) | [Madame & Toean](https://open.spotify.com/artist/3qJ0WDJjy8j5LuJc5updgi) | [L'arc en ciel](https://open.spotify.com/album/1PudlIkTLY2c1A2CtpURj6) | 4:38 |
 | 63 | [Senandung Saja](https://open.spotify.com/track/2yWtnT8eqlv7O6UU1P3xeR) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Senandung Saja](https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh) | 3:50 |
 | 64 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 |
-| 65 | [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 |
+| 65 | [Wait for the Dawn](https://open.spotify.com/track/51C7LDpnAcUVrbfTSKK0Xm) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/78axvoUJmfhQ74lhOJdJI9) | 4:58 |
 | 66 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 |
 | 67 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 |
 | 68 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 80 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 81 | [Pengungkapan Hatimu](https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pengungkapan Hatimu](https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe) | 3:56 |
 
-Snapshot ID: `MCxlMDg2OTkwNzEyZGM0NzFkNmEyYzkyYmI1YTFmZmE4ODdjNTcxNzFi`
+Snapshot ID: `MCw5NDZmYmU0NTc0NWJmNGY3YjJmMzM4MTFmZjVmNThmMWYzMTE3YWRi`

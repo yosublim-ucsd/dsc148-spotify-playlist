@@ -2,7 +2,7 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> TALK au top des meilleurs morceaux rock du moment.
+> Sum 41 au top des meilleurs morceaux rock du moment.
 
 102 songs - 5 hr 49 min
 

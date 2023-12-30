@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2360764,
+  "num_followers": 2360926,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWFlYjA1MDEyYzY2MmYyYjkyOGJiYjIwMzVkZDc4N2JkMDA3ZjYw",
+  "snapshot_id": "MCxlZDkwYzFlN2ViNjBiYWFjYzE2MGVkMGNiNDc2MzU2MDBhNWY3NDU2",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -443,18 +443,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Daughter - Remastered",
-      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+      "duration_ms": 250906,
+      "name": "Everlong - Acoustic Version",
+      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -475,18 +475,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Everlong - Acoustic Version",
-      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+      "duration_ms": 234333,
+      "name": "Daughter - Remastered",
+      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "In the Aeroplane Over the Sea",
-        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
-      },
-      "artists": [
-        {
-          "name": "Neutral Milk Hotel",
-          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "In the Aeroplane Over the Sea",
-      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
         }
       ],
-      "duration_ms": 358773,
-      "name": "Coffee & TV",
-      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -663,6 +647,22 @@
       "duration_ms": 254480,
       "name": "You Were Meant For Me",
       "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "Coffee & TV",
+      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Torn/Wishing I Was There",
-        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Torn - Acoustic MTV Unplugged",
-      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 241013,
       "name": "Kind & Generous",
       "url": "https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Torn/Wishing I Was There",
+        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Torn - Acoustic MTV Unplugged",
+      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "A Tribute Album",
-        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "A Few Small Repairs",
         "url": "https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 264200,
       "name": "Sunny Came Home",
       "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "A Tribute Album",
+        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 278880,
-      "name": "Last Day of Our Acquaintance",
-      "url": "https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9"
+      "duration_ms": 244666,
+      "name": "Adia",
+      "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
     }
   ],
   "unique_name": "90s Acoustic",

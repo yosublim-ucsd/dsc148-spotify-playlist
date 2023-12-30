@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 76641,
+  "num_followers": 76771,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
+  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 548360,
+      "name": "Closer/Wrap Me In Your Arms",
+      "url": "https://open.spotify.com/track/2ysp98TmA9ozUKoMhTedx1"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Yahweh / Yeshua Hamashiach",
         "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
@@ -771,42 +787,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Tell Of His Goodness",
-        "url": "https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq"
-      },
-      "artists": [
-        {
-          "name": "Jerome L. Ferrell & The Lighthouse Choir",
-          "url": "https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs"
-        },
-        {
-          "name": "Douglas Miller",
-          "url": "https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB"
-        }
-      ],
-      "duration_ms": 348826,
-      "name": "Tell Of His Goodness",
-      "url": "https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 548360,
-      "name": "Closer/Wrap Me In Your Arms",
-      "url": "https://open.spotify.com/track/2ysp98TmA9ozUKoMhTedx1"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Miracle Worker (Live)",
         "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Tell Of His Goodness",
+        "url": "https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq"
+      },
+      "artists": [
+        {
+          "name": "Jerome L. Ferrell & The Lighthouse Choir",
+          "url": "https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs"
+        },
+        {
+          "name": "Douglas Miller",
+          "url": "https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB"
+        }
+      ],
+      "duration_ms": 348826,
+      "name": "Tell Of His Goodness",
+      "url": "https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Your Great Name (Live) - Single",
         "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
       },
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Sessions - EP",
-        "url": "https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl"
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Chantae Cann",
-          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
         }
       ],
-      "duration_ms": 249176,
-      "name": "Maintain (feat. Chantae Cann) (Live)",
-      "url": "https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp"
+      "duration_ms": 292600,
+      "name": "As We Worship",
+      "url": "https://open.spotify.com/track/6yORqP4FcmePh187fTnLsz"
     }
   ],
   "unique_name": "Gospel Live",

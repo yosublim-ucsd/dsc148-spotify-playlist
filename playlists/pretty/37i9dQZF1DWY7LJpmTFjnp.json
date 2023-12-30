@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 1014284,
+  "num_followers": 1014598,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWYyZTQ5Y2JjNDA5Mjg2NzI2Y2MwOGE3YzQyNTBhMDI0MzcwNjk2",
+  "snapshot_id": "MCwxOWZlNWRiYWVmMjAyNWMyZWFjZmJhMmQzYmFjMjg1NGQ1NDkyZDYw",
   "tracks": [
     {
       "added_at": "2023-12-15 06:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Desde Cero",
+        "url": "https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Complicado Y Aturdido",
+      "url": "https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "A 30 A\u00f1os",
         "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 209040,
       "name": "Siento Que...",
       "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Desde Cero",
-        "url": "https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Complicado Y Aturdido",
-      "url": "https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Tenochtitl\u00e1n",
-        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Tenochtitl\u00e1n",
-      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Maldita Vecindad y los Hijos del Quinto Patio",
         "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Contra Todo Pron\u00f3stico",
-        "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 252006,
-      "name": "Contra Todo Pron\u00f3stico",
-      "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Contra Todo Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 252006,
+      "name": "Contra Todo Pron\u00f3stico",
+      "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
       },
       "artists": [
         {
-          "name": "2 minutos",
-          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         },
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 194769,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1323,6 +1323,26 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1355,6 +1375,26 @@
       "duration_ms": 326146,
       "name": "Las Batallas/Rarotonga - MTV Unplugged",
       "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Mu\u00f1equita Sint\u00e9tica",
+        "url": "https://open.spotify.com/album/3pAbzsdOcyO4WBOsOVBjA0"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1415,22 +1455,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Mu\u00f1equita Sint\u00e9tica",
-        "url": "https://open.spotify.com/album/3pAbzsdOcyO4WBOsOVBjA0"
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         },
         {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 283488,
-      "name": "Mu\u00f1equita Sint\u00e9tica",
-      "url": "https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F"
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1455,54 +1495,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
       },
       "artists": [
         {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+      "duration_ms": 734790,
+      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1523,6 +1527,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Calles de Talcahuano",
         "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
       },
@@ -1535,42 +1555,6 @@
       "duration_ms": 226572,
       "name": "Calles de Talcahuano",
       "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 734790,
-      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 241813,
       "name": "La Locomotora - MTV Unplugged",
       "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Hojas de t\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Hojas de t\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+      "duration_ms": 328680,
+      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
+      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1695,18 +1699,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Nezayork",
-        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+        "name": "Tropiplop",
+        "url": "https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 154005,
-      "name": "Nezayork",
-      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
+      "duration_ms": 264030,
+      "name": "En la Ciudad de la Furia",
+      "url": "https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg"
     }
   ],
   "unique_name": "La + Chingona",

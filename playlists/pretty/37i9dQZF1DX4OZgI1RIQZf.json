@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 80203,
+  "num_followers": 80392,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw",
+  "snapshot_id": "MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "A Weekend in the City",
         "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Blood Red Moon",
-        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 271546,
-      "name": "Blood Red Moon",
-      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+        "name": "Blood Red Moon",
+        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+      "duration_ms": 271546,
+      "name": "Blood Red Moon",
+      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -775,6 +759,22 @@
       "duration_ms": 185386,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "In Ghost Colours (UK Version Delux)",
-        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
       "artists": [
         {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 268986,
-      "name": "So Haunted",
-      "url": "https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d"
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+        "name": "In Ghost Colours (UK Version Delux)",
+        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
         }
       ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
+      "duration_ms": 268986,
+      "name": "So Haunted",
+      "url": "https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Skeleton Song",
-        "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls"
       },
       "artists": [
         {
-          "name": "Bambi L",
-          "url": "https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh"
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
         }
       ],
-      "duration_ms": 162127,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer"
     }
   ],
   "unique_name": "Indie Halloween",

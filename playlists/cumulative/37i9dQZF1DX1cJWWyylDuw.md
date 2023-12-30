@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-512 songs - 1 day 9 hr 14 min
+514 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Black Colors](https://open.spotify.com/track/1RaP9HvKpIICb0HFWFjX5m) | [Victim Of Deception](https://open.spotify.com/artist/0EiohUJSIPGACElZ7CE5S5) | [VoD vs LDD](https://open.spotify.com/album/14wWJX2bVWtyIhiRNf2g8x) | 4:07 | 2021-12-17 | 2022-02-10 |
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2021-12-17 | 2023-12-24 |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2021-12-17 | 2022-07-26 |
+| [Black of My Eyes](https://open.spotify.com/track/2vAzfGEhThu7kM0ZR6nK1D) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7svL45hiXd5Ms0MBn3saXS) | 3:52 | 2023-12-13 |  |
 | [Black of My Eyes](https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG) | 3:52 | 2022-07-08 | 2023-12-24 |
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2021-12-17 |  |
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2021-12-17 |  |
@@ -152,7 +153,7 @@
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2021-12-17 | 2022-07-28 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2021-12-17 | 2023-04-29 |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2021-12-17 | 2023-04-29 |
-| [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 |  |
+| [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 | 2023-12-30 |
 | [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 | 2023-02-10 |  |
 | [Dynasty](https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Dynasty](https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit) | 4:26 | 2023-02-10 |  |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 |  |
@@ -340,7 +341,7 @@
 | [Of Fury](https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Of Fury](https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP) | 4:47 | 2021-12-17 |  |
 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 | 2021-12-17 |  |
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
-| [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 |  |
+| [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2023-12-30 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
 | [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |
 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
@@ -426,6 +427,7 @@
 | [Synaptic Depravation](https://open.spotify.com/track/0qYSwywyNslSTuCUrBInwg) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Synaptic Depravation](https://open.spotify.com/album/6cbulNIl1MwMkCEcwaQu4R) | 6:09 | 2022-04-01 | 2022-07-24 |
 | [Synthetic Smile](https://open.spotify.com/track/6QrALflBXHCdDUPOgNViCe) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Synthetic Smile](https://open.spotify.com/album/1GTLz7qK0mKXXFLhKcNa2Y) | 3:02 | 2022-03-11 | 2022-07-27 |
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2021-12-17 | 2023-12-24 |
+| [Take Me To Hell](https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7) | 3:30 | 2023-12-13 |  |
 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2021-12-31 |  |
 | [Temporal Punishment](https://open.spotify.com/track/0BrMX9UdxQq20WLia3ttmF) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Temporal Punishment](https://open.spotify.com/album/6DmmmNr1IbT1k21NAdM3Ay) | 3:40 | 2021-12-17 | 2022-07-29 |
 | [The Abyss](https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [JT Cavey](https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:34 | 2023-03-24 |  |

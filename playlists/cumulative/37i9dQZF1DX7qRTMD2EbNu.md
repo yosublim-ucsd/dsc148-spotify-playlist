@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ?si=RutQE7cQQKqMjXVs9PD\_YA"> Joey B</a>
 
-374 songs - 18 hr 58 min
+376 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Accra](https://open.spotify.com/track/07IGm3D3QJrZkrpqWovJi6) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [The Unbroken](https://open.spotify.com/album/2j44U6xDDXZtlQQ6UUhkpY) | 4:34 | 2023-05-04 | 2023-06-10 |
 | [Accra](https://open.spotify.com/track/3P0kayacgqoapvVdclC2ab) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Tappers Joint](https://open.spotify.com/album/6pQOTcrTGjiNpzxNX43wmD) | 2:41 | 2023-10-27 | 2023-11-10 |
 | [Accra \(feat\. Akan\)](https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT) | [The Unbroken](https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO) | 4:34 | 2022-08-05 | 2023-05-04 |
-| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 |  |
+| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 | 2023-12-30 |
+| [ACID GUNZX](https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:46 | 2023-12-22 |  |
 | [ACTIVE](https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y) | [ACTIVE](https://open.spotify.com/album/3DbKlFlBI0yjzjTOYJIgKR) | 3:02 | 2023-12-08 |  |
 | [ADEAKYE](https://open.spotify.com/track/0HgG7qLyE4O9G0aSIh0rUt) | [Emo Brainy](https://open.spotify.com/artist/1hMpcHk70V0YcCqGwEASJM) | [ADEAKYE](https://open.spotify.com/album/0fut9nLp8iRbY4Ue0CEDbs) | 2:34 | 2023-05-26 | 2023-06-10 |
 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 | 2023-06-17 |
@@ -331,7 +332,8 @@
 | [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW) | 3:41 | 2023-03-10 | 2023-06-23 |
 | [Streets Ayeshi](https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [QV](https://open.spotify.com/artist/50CBRvn7AKdKTErB76P7dv), [Abdoulaye Diope](https://open.spotify.com/artist/5B7uXAP6dAICj1MahqaPSy) | [Trenches Babies](https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd) | 4:16 | 2022-09-01 |  |
 | [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 | 2023-12-01 |  |
-| [SUJIE](https://open.spotify.com/track/3k7Ux0T0Amaj2dulDphT5u) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:55 | 2023-12-22 |  |
+| [SUJIE](https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:55 | 2023-12-22 |  |
+| [SUJIE](https://open.spotify.com/track/3k7Ux0T0Amaj2dulDphT5u) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:55 | 2023-12-22 | 2023-12-30 |
 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 | 2023-05-04 | 2023-05-20 |
 | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp) | 2:54 | 2022-11-25 | 2023-02-24 |
 | [Switch](https://open.spotify.com/track/7yRAFznS8XbA9g8KkCW83X) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Switch](https://open.spotify.com/album/2d8MfrCy3VLlkB38w4J4lh) | 3:45 | 2023-01-27 | 2023-02-11 |

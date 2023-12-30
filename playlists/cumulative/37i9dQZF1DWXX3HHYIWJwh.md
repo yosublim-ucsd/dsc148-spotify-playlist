@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-76 songs - 4 hr 0 min
+77 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-11-23 |  |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-11-23 | 2023-11-30 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-11-23 |  |
-| [dame un beso](https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/3T5uunEVFcYhl4uqKSxyUV) | 3:22 | 2023-12-26 |  |
+| [dame un beso](https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/3T5uunEVFcYhl4uqKSxyUV) | 3:22 | 2023-12-26 | 2023-12-30 |
+| [dame un beso](https://open.spotify.com/track/6PNS6uP80uCchkfpRL0rbE) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ) | 3:22 | 2023-12-26 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-11-23 |  |
 | [Don't think](https://open.spotify.com/track/3TTDxcRf6IkQMMHcuAVzyF) | [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1), [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP) | [Don't think](https://open.spotify.com/album/5qNO5mFv2coLAbVYGtTqZG) | 3:54 | 2023-11-28 | 2023-12-20 |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1409276,
+  "num_followers": 1410071,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTE4Yjg0MjQ0NDQ1ZGE4ZWFlZWZjNmFmZDA1ZTdhMTQxMDA2NTk0",
+  "snapshot_id": "MCwwZjJiZGJiODE2YTZhMTgyNGU2ZGZkOTM2ZmU3NWY2ODhmNjMzNjIx",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 350400,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 314560,
-      "name": "Hangar 18",
-      "url": "https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Great Gonzos! The Best Of Ted Nugent",
         "url": "https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 502600,
       "name": "Stranglehold",
       "url": "https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Hangar 18",
+      "url": "https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe"
     },
     {
       "added_at": "2021-12-13 15:23:11",

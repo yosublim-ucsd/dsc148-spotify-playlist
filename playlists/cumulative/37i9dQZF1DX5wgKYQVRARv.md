@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-667 songs - 2 day 9 hr 34 min
+668 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Deeper](https://open.spotify.com/track/39VguAwhE7kIdAcjk7Mhsr) | [Vulture Industries](https://open.spotify.com/artist/2ZkCq3NiRMh8QkAWzQWXnp) | [Deeper](https://open.spotify.com/album/0NHqtthytldD6LpW3Zx4ec) | 5:59 | 2021-12-17 | 2022-07-01 |
 | [Departure to the Front Lines \- From "Naruto"](https://open.spotify.com/track/2amtzNnkwdG4fQimgmsLw4) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Departure to the Front Lines \(From "Naruto"\)](https://open.spotify.com/album/01hJZ8jwF7xxCZLpc55Eis) | 2:10 | 2023-01-20 | 2023-08-20 |
 | [Desolate July](https://open.spotify.com/track/79iAtQxsYrd95t33D3kFhg) | [Sons Of Apollo](https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f) | [Desolate July](https://open.spotify.com/album/216OjxhPPYwrY3sEWy2V80) | 5:58 | 2021-12-17 | 2022-07-29 |
+| [Devil In Me](https://open.spotify.com/track/7GXeVinQU94kuwF5QY2Tdg) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN) | 3:33 | 2023-12-06 |  |
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2022-07-13 | 2023-12-24 |
 | [Devils and Angels](https://open.spotify.com/track/43ioujgfr3uASYa0v1xmdp) | [Psychotic Waltz](https://open.spotify.com/artist/2dOv4EhVP0W9QU8irQJEld) | [Devils and Angels](https://open.spotify.com/album/36jqRyLbU0wixx7RU2HgEQ) | 6:29 | 2021-12-17 | 2022-07-29 |
 | [Devonian: Nascent](https://open.spotify.com/track/3aKfvwFdNWXPDQuW5XOJ6k) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq), [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Devonian: Nascent](https://open.spotify.com/album/6q1qy7xbrjPnzGMW0vp4SF) | 11:05 | 2021-12-17 | 2022-05-14 |
@@ -292,7 +293,7 @@
 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 | 2023-12-06 |  |
 | [It Hurts](https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH) | [It Hurts](https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w) | 4:55 | 2022-02-11 | 2023-01-21 |
 | [It's Killing Me](https://open.spotify.com/track/2tEi6TsccIknIkb2sHidse) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [It's Killing Me](https://open.spotify.com/album/6uVcfD5vrQlTs26f1Rrous) | 3:54 | 2023-01-20 |  |
-| [Jackal](https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Phantom](https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P) | 3:30 | 2023-01-20 | 2023-12-17 |
+| [Jackal](https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Phantom](https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P) | 3:30 | 2023-01-20 |  |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/2Jba2VUVpZD7yr5AQl3z6K) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Judgement \(& Punishment\)](https://open.spotify.com/album/1rdD03sOLqU6iqPOEsGAFN) | 4:19 | 2022-07-13 | 2022-07-29 |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/6CrjUrtl4s2fGErcFmNhHq) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Macro](https://open.spotify.com/album/4cTjPXaFkUyaHr29G1PiT9) | 4:19 | 2022-07-13 |  |
 | [Juno](https://open.spotify.com/track/0AtM8eGmS8imRoJ9Y4La4E) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Sonder](https://open.spotify.com/album/2DNaVYXNrbGqhCTpkCAANH) | 5:12 | 2022-07-13 | 2022-07-29 |
@@ -407,7 +408,7 @@
 | [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 | 2022-07-13 |  |
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
-| [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 |  |
+| [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 | 2023-12-30 |
 | [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2023-12-07 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
@@ -510,7 +511,7 @@
 | [Straight Lines](https://open.spotify.com/track/6WTioFyIEiYB5Ge0SJO8Rd) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Witness](https://open.spotify.com/album/3FVRmhZVaZfLvqHupMbJ6V) | 4:22 | 2022-07-08 | 2022-09-03 |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2021-12-17 | 2022-09-03 |
 | [Stuck](https://open.spotify.com/track/74vy9v25MuoqNVBdAjGwJC) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 6:48 | 2021-12-17 | 2022-09-03 |
-| [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 | 2023-05-12 |  |
+| [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 | 2023-05-12 | 2023-12-30 |
 | [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 | 2023-02-25 |
 | [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 | 2023-04-02 |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |

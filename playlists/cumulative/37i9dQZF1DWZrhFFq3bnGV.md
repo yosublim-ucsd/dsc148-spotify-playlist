@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Thesar
 
-165 songs - 11 hr 51 min
+166 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Time](https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Jessie Tanoko](https://open.spotify.com/artist/2QHCr14mVb7OaFLCu6bDnI) | [Time](https://open.spotify.com/album/43UmfySArofutUhY1bKzkb) | 2:59 | 2022-09-02 | 2023-06-30 |
 | [True Love](https://open.spotify.com/track/4UyUg4GESbNUhjKlZerwRN) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [True Love](https://open.spotify.com/album/0jQmL0BclbfbxCXJLvRsBg) | 3:46 | 2022-12-22 | 2023-03-04 |
 | [Tune for Lovely Souls](https://open.spotify.com/track/26UE9dPxITf8w5MeXNajx4) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt), [Musiversal](https://open.spotify.com/artist/0CKghiJKtmUuuPZHFOiwlW) | [Tune for Lovely Souls](https://open.spotify.com/album/3VsWmqZ6JHs4Enq0vdtePx) | 2:37 | 2022-09-02 |  |
-| [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 | 2022-09-02 |  |
+| [Wait for the Dawn](https://open.spotify.com/track/51C7LDpnAcUVrbfTSKK0Xm) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/78axvoUJmfhQ74lhOJdJI9) | 4:58 | 2023-11-28 |  |
+| [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 | 2022-09-02 | 2023-12-30 |
 | [Waktuku Hampa](https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Detik Waktu Quartet](https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK) | [Waktuku Hampa](https://open.spotify.com/album/367KtX1YYymKFcjfN847nC) | 3:17 | 2022-09-02 |  |
 | [Winter Blues](https://open.spotify.com/track/66s1u8mRLGBU8h0vYrLC5v) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 7:13 | 2022-09-02 | 2023-11-04 |
 | [Would You Be Mine](https://open.spotify.com/track/7pJBJRbkvwHvrsNwss0Z8I) | [Kevin Yosua](https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Elfa Zulham](https://open.spotify.com/artist/48uVjt6LfI2I0yI8QLXG0H), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p) | [Would You Be Mine](https://open.spotify.com/album/7rEKGX1ZcmvYBfrd1ghw8t) | 7:49 | 2022-09-02 | 2023-06-09 |

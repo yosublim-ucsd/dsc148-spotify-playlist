@@ -1,15 +1,15 @@
 {
   "description": "Music from \"The Imaginary\". \u30b9\u30bf\u30b8\u30aa\u30dd\u30ce\u30c3\u30af\u6700\u65b0\u4f5c\u300c\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc \u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u3000\u00a9 2023 Ponoc",
-  "num_followers": 302,
+  "num_followers": 309,
   "original_name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc The Imaginary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDY4Zjc1MWQ3MTAwYWRiNzFlYWU2M2M0Y2ViNTRjNjRkM2JiNmZl",
+  "snapshot_id": "MCwwM2NiYmYzOWEwMjM2Y2UwMjljMzZhMDIwM2UzOTdiYTUxODgwNTU3",
   "tracks": [
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "Nothing's Impossible (from \"The Imaginary\" soundtrack)",
         "url": "https://open.spotify.com/album/3m9Ps9RBt9AUnmJgwSq9HQ"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/4JHHiUFhwAAmojORjcgEUG"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 27250,
+      "name": "Interlude for \u201cThe Imaginary\u201d Theme \u2013 Welcome to the World of the Imaginaries",
+      "url": "https://open.spotify.com/track/2vYH2zKOvLxjsa9JwGkHIP"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -49,7 +65,23 @@
       "url": "https://open.spotify.com/track/1DIgbhMXhdgxfjdvkgzE4v"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 7541,
+      "name": "Interlude for Blow Away the Blues",
+      "url": "https://open.spotify.com/track/1THP8mlg6De1bNP5vA5YXX"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -69,7 +101,23 @@
       "url": "https://open.spotify.com/track/6tzQ0hZ9U5ZNuCWAgtOVag"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 12041,
+      "name": "Interlude for The Legendary Christmas Tree",
+      "url": "https://open.spotify.com/track/18OU2FMt3psEKZ5h6njCzG"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -89,7 +137,23 @@
       "url": "https://open.spotify.com/track/746ocoEDNKtVMa719FqJZ8"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 24458,
+      "name": "Interlude for Attack of the Yeti",
+      "url": "https://open.spotify.com/track/6UxwIDT6XxcYlHHDwcGgpI"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -109,7 +173,23 @@
       "url": "https://open.spotify.com/track/2kYj4zSksSCrPZ65WOW71r"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 31041,
+      "name": "Interlude for You Can See Me?",
+      "url": "https://open.spotify.com/track/5lnWke0y4wUIid6nfUv679"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -129,7 +209,23 @@
       "url": "https://open.spotify.com/track/21ChmX06xLgw1Gk5jXlPJH"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 13416,
+      "name": "Interlude for Bunting\u2019s Theme",
+      "url": "https://open.spotify.com/track/0wc84twbQ1tOuihF1UAkwW"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -149,7 +245,23 @@
       "url": "https://open.spotify.com/track/5hgGq8HsekcvGmzwHSUlZl"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 24333,
+      "name": "Interlude for No Clue, No Hope",
+      "url": "https://open.spotify.com/track/0lpOzTuZJFJWAMSD0eUnPu"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -169,7 +281,23 @@
       "url": "https://open.spotify.com/track/1aJbPHqxxQR4GV0cmxu8JB"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 13833,
+      "name": "Interlude for Voglio una casa",
+      "url": "https://open.spotify.com/track/2wrCbabYkkY4zT8x17U3Fp"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -193,7 +321,23 @@
       "url": "https://open.spotify.com/track/4edOd3yS0WwS5Z5ybXUmCQ"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 40874,
+      "name": "Interlude for Emily\u2019s Theme (Induction)",
+      "url": "https://open.spotify.com/track/1iSKeoJvVbazk7JgVi3ZlN"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -213,7 +357,23 @@
       "url": "https://open.spotify.com/track/3U2OXBmjUQB6kxim5T1eZ4"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 24625,
+      "name": "Interlude for Voglio una casa (instrumental)",
+      "url": "https://open.spotify.com/track/4SgxCQ7DJs4BCZ83AvWzno"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -233,7 +393,23 @@
       "url": "https://open.spotify.com/track/6G0qI6lVrPmSr0iE88HbxY"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 47541,
+      "name": "Interlude for Welcome to the World of the Imaginaries (Venice)",
+      "url": "https://open.spotify.com/track/36UieXgsTKR0nqniH8OI1X"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -253,7 +429,23 @@
       "url": "https://open.spotify.com/track/2v5STK9jCJOhkhsA9s44pJ"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 23458,
+      "name": "Interlude for Venetian Banquet",
+      "url": "https://open.spotify.com/track/3CmH5vYtw2FOAsBtnM0guI"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -273,7 +465,23 @@
       "url": "https://open.spotify.com/track/4eoxu2BQMlcos0uAVPYc6Q"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 14333,
+      "name": "Interlude for Lascia ch\u2019io pianga",
+      "url": "https://open.spotify.com/track/3T6go7JFKqyAqNbqKAMqJZ"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -293,7 +501,23 @@
       "url": "https://open.spotify.com/track/4qQaGSkOzX712mk14ACy7I"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 11708,
+      "name": "Interlude for Emily\u2019s Theme (First Job)",
+      "url": "https://open.spotify.com/track/5S8bgYNkbMVwrvcaq4Mjfv"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -313,7 +537,23 @@
       "url": "https://open.spotify.com/track/1hB5LS20LgMVGXF8zqBWP4"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 18624,
+      "name": "Interlude for Also Sprach Zarathustra (Einleitung)",
+      "url": "https://open.spotify.com/track/6rXgEeMkHBIOPPspmhkPoQ"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -333,7 +573,23 @@
       "url": "https://open.spotify.com/track/6A0UqvOCsjNRki8pltCYM4"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 13541,
+      "name": "Interlude for \u201cThe Imaginary\u201d Theme (Dusk)",
+      "url": "https://open.spotify.com/track/0W4IPVk6iUZoxDBRQ39MjA"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -353,7 +609,23 @@
       "url": "https://open.spotify.com/track/5qnlRU8sNOtl5QQEnGDcB2"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 19333,
+      "name": "Interlude for Bunting's Theme (Reunion)",
+      "url": "https://open.spotify.com/track/0rCN9tmibnXJTFMRtM9vye"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -373,7 +645,23 @@
       "url": "https://open.spotify.com/track/5NHatl92M11DkaWCEC5TIR"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 20541,
+      "name": "Interlude for Nothing's Impossible (Attic)",
+      "url": "https://open.spotify.com/track/0oirKTrkKYP1iWigQJMuIq"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -393,7 +681,23 @@
       "url": "https://open.spotify.com/track/5PEJwAgQRdPsqBDdZnelXK"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 12708,
+      "name": "Interlude for Escaping",
+      "url": "https://open.spotify.com/track/2Um2BWtJDlnwyEyuC1ayTa"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -413,7 +717,23 @@
       "url": "https://open.spotify.com/track/4iC7FuZc2xrvRppdKzuwwb"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 28125,
+      "name": "Interlude for Bunting is Everywhere (Ruins)",
+      "url": "https://open.spotify.com/track/3InbOBpZmEWL49p1xzN4et"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -433,7 +753,23 @@
       "url": "https://open.spotify.com/track/61Jyqtjv4S87eowAJPNTCI"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 9958,
+      "name": "Interlude for Disappearing \u2013 No Clue, No Hope",
+      "url": "https://open.spotify.com/track/7j6yqsOf9uI6RDZ6cnaykK"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -453,7 +789,23 @@
       "url": "https://open.spotify.com/track/26o1c22XstAFSwl4AxqHen"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 53666,
+      "name": "Interlude for Hymn to The Imaginaries (Determination)",
+      "url": "https://open.spotify.com/track/1qHvtbm3xFQ9l6eKK3N9TI"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -473,7 +825,23 @@
       "url": "https://open.spotify.com/track/1dg1yGAmpedhylxgYoiGZ0"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 9541,
+      "name": "Interlude for I Want to See Amanda",
+      "url": "https://open.spotify.com/track/6Cz5zfAl89uz4JXCvp7moN"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -493,7 +861,23 @@
       "url": "https://open.spotify.com/track/06dLrnBtcepgBPL6CQAwjB"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 25291,
+      "name": "Interlude for Bunting is Everywhere - Welcome to the World of the Imaginaries - The Girl",
+      "url": "https://open.spotify.com/track/7oKKn85nYk9lm5w9hZGvyS"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -513,7 +897,23 @@
       "url": "https://open.spotify.com/track/3YiYIhDQuOw053ZPa4LtQw"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 18458,
+      "name": "Interlude for Nothing\u2019s Impossible (strings)",
+      "url": "https://open.spotify.com/track/5X7ut17k5TQIIE3PH1s9YF"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -533,7 +933,23 @@
       "url": "https://open.spotify.com/track/0Vxi1MC0I5c6I9n0Ila9Wc"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fcInterlude",
+        "url": "https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc",
+          "url": "https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H"
+        }
+      ],
+      "duration_ms": 12375,
+      "name": "Interlude for Hymn to The Imaginaries",
+      "url": "https://open.spotify.com/track/1ylvTqtwXBp3EXdH9WKJPi"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"
@@ -553,7 +969,7 @@
       "url": "https://open.spotify.com/track/1HoUmEHK9NhVQfJc6cBh0D"
     },
     {
-      "added_at": "2023-12-05 15:00:00",
+      "added_at": "2023-12-28 15:00:00",
       "album": {
         "name": "\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 233811,
+  "num_followers": 234028,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQwN2Q2MzljMmE3N2M0ODk4OWE3YjQ3MjllNzgwOTAyOGM5MDEw",
+  "snapshot_id": "MCw1ZjZlMzI5NDVkNDAxNWIzNzFkOTAwNjY1ZDk1ZjgxOTcwNmQzMjBi",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360751,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 233320,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360751,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Latin Dance Series - Bachata",
-        "url": "https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o"
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz"
       },
       "artists": [
         {
-          "name": "The Latin Dance Machine",
-          "url": "https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Muchachita Loca",
-      "url": "https://open.spotify.com/track/3sc5V807LrB6laUneVyu52"
+      "duration_ms": 220264,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Como Yo",
-        "url": "https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz"
+        "name": "Latin Dance Series - Bachata",
+        "url": "https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "The Latin Dance Machine",
+          "url": "https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK"
         }
       ],
-      "duration_ms": 220264,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh"
+      "duration_ms": 241680,
+      "name": "Muchachita Loca",
+      "url": "https://open.spotify.com/track/3sc5V807LrB6laUneVyu52"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1447,26 +1447,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
+      "duration_ms": 236306,
+      "name": "Abrazame Amor",
+      "url": "https://open.spotify.com/track/0QFY7BoSoL3f7hRBmTCvTn"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1487,18 +1479,26 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
       "artists": [
         {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
         }
       ],
-      "duration_ms": 236306,
-      "name": "Abrazame Amor",
-      "url": "https://open.spotify.com/track/0QFY7BoSoL3f7hRBmTCvTn"
+      "duration_ms": 228000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
     },
     {
       "added_at": "2023-04-27 23:54:49",

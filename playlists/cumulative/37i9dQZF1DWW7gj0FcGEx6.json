@@ -5189,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Ferrari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5waFiv4n2SNfxk4vIJJE0k"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116986,
+      "name": "The Racing Line",
+      "url": "https://open.spotify.com/track/2pCBDZZHxmjmFGlfxxPEkd"
+    },
+    {
+      "album": {
         "name": "The Ride of the Witcher (feat. Percival Schuttenbach) [from The Witcher: Season 3]",
         "url": "https://open.spotify.com/album/4CuY2DkWhEAdOoD6VO7xR6"
       },

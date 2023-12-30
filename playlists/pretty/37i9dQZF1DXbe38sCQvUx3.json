@@ -1,13 +1,37 @@
 {
   "description": "a la orden pa'l desorden",
-  "num_followers": 126241,
+  "num_followers": 128053,
   "original_name": "b\u00e9lico y aluc\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWU1ODg2ZDc1ZjVmMWExNGRlYmU2ZmVhMDAxOGQzYTJiMzc5ZGIx",
+  "snapshot_id": "MCw3MWYxMWI2Njc3YjhmN2MzYzZkMTk2MzY1Y2U4MGIxZmUxNDA0Nzhj",
   "tracks": [
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
     {
       "added_at": "2023-12-22 16:01:00",
       "album": {
@@ -1391,26 +1415,6 @@
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2023-12-22 16:01:00",
-      "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
     },
     {
       "added_at": "2023-12-22 16:01:00",

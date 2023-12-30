@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-225 songs - 14 hr 24 min
+226 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,10 +125,11 @@
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
 | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/track/21hBJzNz2iMICXTe5JMbO9) | [Fredrik Segelstad](https://open.spotify.com/artist/5wHJSWQfAgCCChEShG9eOt) | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/album/5hKEOv6DlNk1MhC84fHc36) | 3:46 | 2022-03-23 | 2022-04-11 |
 | [Jeg elsker dig](https://open.spotify.com/track/3kdqYQxKV7Oz0ct2R2CFzq) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Jeg elsker dig](https://open.spotify.com/album/6DW9rrtAMtC80akurSJxH4) | 4:19 | 2022-01-20 | 2022-05-10 |
-| [Jeg er en by](https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Jeg er en by](https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2) | 4:31 | 2023-11-30 |  |
+| [Jeg er en by](https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Jeg er en by](https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2) | 4:31 | 2023-11-30 | 2023-12-30 |
 | [Jeg ror alene](https://open.spotify.com/track/2FvoA1uCruAwjV49IXQgQz) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY), [Jan Thomas](https://open.spotify.com/artist/3p1BYcJhXCb3WvHLriHIHS) | [Jeg ror alene](https://open.spotify.com/album/3lXlqG2xOV9fpREw4nfJsx) | 3:53 | 2021-12-16 | 2022-07-17 |
 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 | 2021-12-16 |  |
 | [Jordsjuk](https://open.spotify.com/track/2NdDmQVO610U8ktnWlwhcQ) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Vonde Visu](https://open.spotify.com/album/6KSVr0iwmaUr37NTBNaU5h) | 3:33 | 2022-03-23 | 2022-04-21 |
+| [Jovial](https://open.spotify.com/track/35zPbkQMTbuFydsC263MFl) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 2:50 | 2023-12-14 |  |
 | [Jovial](https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jovial](https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A) | 2:50 | 2023-01-05 | 2023-12-02 |
 | [Julinetter](https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Julinetter](https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ) | 5:39 | 2021-12-16 | 2022-07-29 |
 | [Jupiter](https://open.spotify.com/track/4o76TSM5Oks01fAwgBBSG4) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [Jupiter](https://open.spotify.com/album/3InLXFrUYYE9mAQEdUPXRe) | 4:39 | 2022-03-23 | 2022-04-21 |

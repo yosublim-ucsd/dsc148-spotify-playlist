@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-878 songs - 1 day 19 hr 42 min
+879 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Heaven Bound](https://open.spotify.com/track/3GTeDNluIT844Wy0nP3UR2) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Heaven Bound](https://open.spotify.com/album/3tGembZgInQMBhCEROWTuj) | 2:10 | 2023-12-15 |  |
 | [Helga](https://open.spotify.com/track/47n31kXP2dwfE82xtOA3qK) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Helga](https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC) | 2:36 | 2022-06-25 | 2022-09-12 |
 | [Help!](https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Help!](https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW) | 2:37 | 2023-08-25 |  |
+| [Her Song](https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Life and Death](https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj) | 2:58 | 2023-12-15 |  |
 | [Hero](https://open.spotify.com/track/3KOPnwgJYpXP2UEL3zfJ0H) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Table Or Bouff](https://open.spotify.com/album/75eH6od0lKW3zkDBkgRCsJ) | 2:22 | 2021-12-11 | 2022-01-01 |
 | [Hero or Heretic](https://open.spotify.com/track/4vlHqh3N5W8L1uyf8PQp0a) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Hero or Heretic](https://open.spotify.com/album/1bmnYHC80kpCd4VXygxgK8) | 3:07 | 2022-10-01 | 2022-11-11 |
 | [High Noon](https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [High Noon](https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J) | 2:10 | 2023-08-25 |  |
@@ -525,7 +526,7 @@
 | [No Ceilings](https://open.spotify.com/track/1gp0U9OhufHHgoDl5qNJsp) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [No Limits](https://open.spotify.com/album/2miXyGveSEG0bGayLr9Q9T) | 1:53 | 2021-12-11 | 2022-01-31 |
 | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/track/3FIeCXalAlSgdNPoCbUcls) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/album/44eq2VcE3yrVu0A31PCIkN) | 2:10 | 2021-12-11 | 2022-01-27 |
 | [No Church In A While](https://open.spotify.com/track/6yCdMEIrxBXwH2EfPYopnv) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:59 | 2021-12-11 | 2022-05-29 |
-| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 |  |
+| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 | 2023-12-30 |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-12 | 2022-08-07 |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-01-27 | 2023-08-26 |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-09-11 | 2023-03-25 |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-152 songs - 8 hr 42 min
+154 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Beat Unleashed](https://open.spotify.com/track/2rdxghXx9rb04Jyv6hcSaz) | [Cityburn](https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm) | [Beat Unleashed](https://open.spotify.com/album/6GB0zfDqUCR7l3DYo38brc) | 5:27 | 2023-10-13 |  |
 | [Behavior](https://open.spotify.com/track/4IYoFFsKrv45MgovCfY9YQ) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Behavior](https://open.spotify.com/album/3oEmXRszi59ljTfXI1jtEt) | 2:29 | 2023-09-15 |  |
 | [Believe Me](https://open.spotify.com/track/6Z3fxMhJqzXHvD6aPqevWQ) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Believe Me](https://open.spotify.com/album/6QgMlohOjyqxqnM8yoX3dV) | 3:13 | 2023-07-21 | 2023-10-28 |
+| [Bla Bla Bla \- TARS\. Stutter Techno Remix](https://open.spotify.com/track/6IuqRHRlpdwe9ps3O83o5U) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo) | [Bla Bla Bla \(TARS\. Stutter Techno Remix\)](https://open.spotify.com/album/7zLo9nfg4YeMhNJkGvWuMp) | 2:00 | 2023-12-29 |  |
 | [Bleed 4 Me](https://open.spotify.com/track/5VFM1FeeU4CrxxKElEPDNT) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Bleed 4 Me](https://open.spotify.com/album/18TrqpDbuAYXCjngJACUN4) | 2:55 | 2023-07-21 | 2023-08-19 |
 | [Blue Light](https://open.spotify.com/track/11BlrzW7vTHO0U98F53eiL) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [Aidryon](https://open.spotify.com/artist/4RbjULn5nefZjh0ez4bfu3) | [Blue Light](https://open.spotify.com/album/6n2lErg7ZlGwUj30xNQqrA) | 4:26 | 2023-09-15 | 2023-09-30 |
 | [Brand New Style \- L\-Side Remix](https://open.spotify.com/track/4rkriN2Bms2GZJf4mV9glY) | [Command Strange](https://open.spotify.com/artist/6ZslPRiDjYFasSPscHF7v2), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [Brand New Style \(L\-Side Remix\)](https://open.spotify.com/album/5ZAu2ANRHp6594iMFWobod) | 4:24 | 2023-07-21 | 2023-08-19 |
@@ -44,6 +45,7 @@
 | [Fall Through](https://open.spotify.com/track/1HEXrpLmq5JKUIKAztNnQt) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c), [EternalSub](https://open.spotify.com/artist/3dRGoXQUssZVV3gHOMVW48) | [Fall Through](https://open.spotify.com/album/7nok0I6cu6puv0cv1iXwzG) | 2:10 | 2023-07-21 | 2023-08-26 |
 | [Falling](https://open.spotify.com/track/1i5yqWsJBngtx3wzrcMgVi) | [Penubiz](https://open.spotify.com/artist/09mmLhlQsy6qsZ6xCxBPbE), [Stroiter](https://open.spotify.com/artist/3dGq1jN9SEGl5sdJVuaWPo), [NeverSleepSongs](https://open.spotify.com/artist/5G280fku98hJKVXuDbhC29) | [Falling](https://open.spotify.com/album/2U7U0SRvXfddiB9kouVsFX) | 2:49 | 2023-07-21 | 2023-10-14 |
 | [Falling Down](https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Lowdelic](https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD) | [Falling Down](https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj) | 3:21 | 2023-10-13 |  |
+| [Fanfare](https://open.spotify.com/track/0JeYyr2jxAUbC6CbTRLeBf) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Fanfare](https://open.spotify.com/album/79HieAvFWpw92JAN6i3rCq) | 4:07 | 2023-12-29 |  |
 | [Feel Good](https://open.spotify.com/track/5mvXTMweaYmTbHy4ccC9wQ) | [Liquid Dance](https://open.spotify.com/artist/0kNe32IrwnQ1fU2tA9VlUw) | [Feel Good](https://open.spotify.com/album/1SAuEG6VjC1KkZgafyMmDQ) | 3:00 | 2023-07-21 | 2023-10-28 |
 | [Flexin](https://open.spotify.com/track/5iYGvYHWSudzMiK5FTPCFA) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Screechy](https://open.spotify.com/artist/4Ts1L827tQWBpc9I2GekWG) | [Flexin](https://open.spotify.com/album/1gvmDauEydTvcxloQa0SZ8) | 3:20 | 2023-10-27 |  |
 | [FMF \- Bruno Furlan Remix](https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Vitor Vinter](https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [FMF](https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU) | 3:31 | 2023-08-25 |  |

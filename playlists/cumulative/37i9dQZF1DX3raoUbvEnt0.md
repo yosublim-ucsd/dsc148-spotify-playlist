@@ -4,7 +4,7 @@
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-43 songs - 2 hr 18 min
+45 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-10-04 |  |
 | [Winding Road](https://open.spotify.com/track/1X1zGR5z4HQbdJjwJmUwo0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Take Me Under / Winding Road](https://open.spotify.com/album/0ucSy38HOq1jRTtbHVgtZV) | 3:46 | 2022-10-04 |  |
 | [すべてがそこにありますように。](https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [すべてがそこにありますように。](https://open.spotify.com/album/0jXyshoedPS2dP4xTBtsiK) | 3:44 | 2022-10-04 |  |
+| [ふたりの距離](https://open.spotify.com/track/323lf8m7iDbTRtMrQEzdcb) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラックⅢ](https://open.spotify.com/album/4GCCo3tM8G1VkhoHMJzmfv) | 3:03 | 2023-12-28 |  |
 | [アイヌコタン](https://open.spotify.com/track/3yVjBjZBQ56FY2IZ84oUly) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:49 | 2022-10-04 |  |
 | [アチャ](https://open.spotify.com/track/4JeoWL5tHdTCqJrz3LD7mH) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 4:00 | 2022-10-04 |  |
 | [イトウの花](https://open.spotify.com/track/6kiUqErOJ93ta9xcw0spUo) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:59 | 2022-10-04 |  |
@@ -32,6 +33,7 @@
 | [新月の夜に](https://open.spotify.com/track/6uyKHr77uBJnOeNJZELpzy) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:32 | 2022-10-04 |  |
 | [旅の幕開け](https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:43 | 2022-10-04 |  |
 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 | 2023-01-17 |  |
+| [樺太の旅](https://open.spotify.com/track/7HvxmQvMoI6wtnTuWNcLJX) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラックⅡ](https://open.spotify.com/album/47l4joWRRiUK9z9R8t3aLK) | 2:50 | 2023-12-28 |  |
 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 | 2022-10-04 |  |
 | [殺しの匂い](https://open.spotify.com/track/43sqLLmiiulez3cMoNZrY2) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:21 | 2022-10-04 |  |
 | [無い物ねだり](https://open.spotify.com/track/06HDuFiRR1FerMuhqKR56U) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:37 | 2022-10-04 |  |

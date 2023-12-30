@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-137 songs - 10 hr 29 min
+138 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [OMG Ponnu](https://open.spotify.com/track/7CZYShn64kMixm8gqrTpww) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 4:44 | 2021-06-24 | 2023-05-10 |
 | [Onnavitta Yaarum Yenakilla \- Version 1](https://open.spotify.com/track/6TDcNFl56fTfbzyZcbTkMw) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Seemaraja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41iC61HwQAga6GAVvOtXAz) | 4:38 | 2021-06-24 | 2022-10-19 |
 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 | 2022-10-18 |  |
-| [Oxygen](https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Sudarshan Ashok](https://open.spotify.com/artist/0qx1y97ZpKS4VydjUGN0Rp) | [Kavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9) | 4:34 | 2021-06-24 |  |
+| [Oxygen](https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Sudarshan Ashok](https://open.spotify.com/artist/0qx1y97ZpKS4VydjUGN0Rp) | [Kavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9) | 4:34 | 2021-06-24 | 2023-12-30 |
+| [Oxygen](https://open.spotify.com/track/4fOd87EwMLT1YlIKas0Zz3) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Kavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xe8UP9JCeVFeprWWuQJFh) | 4:34 | 2021-06-24 |  |
 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 | 2021-06-24 | 2022-10-19 |
 | [Paisa Note \(From "Comali"\)](https://open.spotify.com/track/6FXKnyOJBnwQYzxDfcTd8i) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Paisa Note \(From "Comali"\)](https://open.spotify.com/album/4EmV12aHy15vDLIaVL2dAD) | 3:04 | 2021-06-24 |  |
 | [Pakkam Vanthu \(From "Kaththi"\)](https://open.spotify.com/track/3FYrauenN3nxu6G9OchcrO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 4:16 | 2021-06-24 | 2022-07-29 |

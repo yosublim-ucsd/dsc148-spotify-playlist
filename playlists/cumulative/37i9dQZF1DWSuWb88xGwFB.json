@@ -1507,6 +1507,32 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Talk About Me (feat. Michael M) [Mixes]",
+        "url": "https://open.spotify.com/album/13w5MNEVPinNtl7jEZZX10"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        },
+        {
+          "name": "Michael M",
+          "url": "https://open.spotify.com/artist/57ZPtrox3KaBOJvm6AHUNU"
+        },
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493602,
+      "name": "I Could Be This\u2026 (feat. Michael M) (Morel's That Mix)",
+      "url": "https://open.spotify.com/track/6tGt0ZXAVCSueT4mX4du77"
+    },
+    {
+      "album": {
         "name": "I Get Lifted",
         "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
       },
@@ -1804,7 +1830,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 227173,
       "name": "Just Us (B.O.P. Radio Joint)",
       "url": "https://open.spotify.com/track/30LrxBxBgJl2x4EQNVAEm2"

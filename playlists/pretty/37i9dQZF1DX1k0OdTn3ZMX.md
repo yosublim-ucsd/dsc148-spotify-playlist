@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Papa Roach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,173 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,741 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 50 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 |
 
-Snapshot ID: `MCxmMmMxYTM2NTlhMmNkYjc0YjM4MTE1Y2VhZDg2ODlmMzZmMjRlODBk`
+Snapshot ID: `MCxhMDQ4MGYwYmMxYTI2MzIzMDliMjg0ZWQ5MzVkYzM2OGMyZjQwNzNi`

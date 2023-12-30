@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
-  "num_followers": 516892,
+  "num_followers": 517649,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzI1YjJiYWQ3ZjE5NmE1MmIzMGNlNmUxNzI3MTUxZTFhNzA3YzZi",
+  "snapshot_id": "MCwyODA2ZDc5ZjQ1NzA1MDAyNjkxNTU2NmU3ZTkwNWI2MjU0YjI4ZWFm",
   "tracks": [
     {
       "added_at": "2023-12-26 03:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 152376,
-      "name": "TE AMO (em caixa alta)",
-      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+      "duration_ms": 198075,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -615,22 +611,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 198075,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 152376,
+      "name": "TE AMO (em caixa alta)",
+      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2023-12-26 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277311,
+  "num_followers": 277366,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy",
+  "snapshot_id": "MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Into You (The Remixes)",
-        "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
       },
       "artists": [
         {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 176917,
-      "name": "Into You - Acoustic Version",
-      "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+        "name": "Into You (The Remixes)",
+        "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
       },
       "artists": [
         {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
         }
       ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+      "duration_ms": 176917,
+      "name": "Into You - Acoustic Version",
+      "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Believe In The Kingdom",
-        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
-      },
-      "artists": [
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        },
-        {
-          "name": "Meaco",
-          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Praise You (feat. Meaco) - Chill Mix",
-      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "You for Me (Acoustic)",
         "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 185381,
       "name": "You for Me - Acoustic",
       "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Believe In The Kingdom",
+        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
+      },
+      "artists": [
+        {
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+        },
+        {
+          "name": "Meaco",
+          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Praise You (feat. Meaco) - Chill Mix",
+      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Lighter (feat. KSI & Ella Henderson) [Acoustic]",
         "url": "https://open.spotify.com/album/6INxj18FKxPT0rnS5ZZ7rL"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "How You Love Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 171101,
       "name": "How You Love Me - Acoustic Version",
       "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
@@ -1399,26 +1415,6 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Stay The Night (Acoustic)",
-        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Stay The Night - Acoustic",
-      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+        "name": "Stay The Night (Acoustic)",
+        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
         }
       ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+      "duration_ms": 171840,
+      "name": "Stay The Night - Acoustic",
+      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Real Life (Acoustic)",
-        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
+        "name": "Grabbitz - Friends EP",
+        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NAATIONS",
-          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Real Life - Acoustic",
-      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
+      "duration_ms": 61711,
+      "name": "7.6.14 (Intro)",
+      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1583,18 +1575,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Grabbitz - Friends EP",
-        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
+        "name": "Real Life (Acoustic)",
+        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NAATIONS",
+          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
         }
       ],
-      "duration_ms": 61711,
-      "name": "7.6.14 (Intro)",
-      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
+      "duration_ms": 222275,
+      "name": "Real Life - Acoustic",
+      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
     },
     {
       "added_at": "2023-10-06 04:01:00",

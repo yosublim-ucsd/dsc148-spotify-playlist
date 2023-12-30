@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86113,
+  "num_followers": 86173,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2EzMmZmZDQ0ZTIzYWYxMTM1MmUwYmY1NTQ1ODk4MzE0MGY2OGRi",
+  "snapshot_id": "MCwyZjMxM2QyZTQyMDdkMzI2NGJmOWRjN2Q3YmI0OTliYTVhMGRkZmM3",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Un Eterno Loop Sin Fin",
-        "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
       },
       "artists": [
         {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
         }
       ],
-      "duration_ms": 229671,
-      "name": "Un Eterno Loop Sin Fin",
-      "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -419,6 +423,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Un Eterno Loop Sin Fin",
+        "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 229671,
+      "name": "Un Eterno Loop Sin Fin",
+      "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Armenia",
         "url": "https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 174939,
       "name": "Alg\u00fan Contexto",
       "url": "https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -711,18 +707,34 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Pnmt Corrosion",
+        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+      },
+      "artists": [
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Izquierdo",
+      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -763,22 +775,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Pnmt Corrosion",
-        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
-      },
-      "artists": [
-        {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Izquierdo",
-      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Cangrejo",
         "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
       },
@@ -811,18 +807,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -843,18 +839,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
         }
       ],
-      "duration_ms": 249965,
-      "name": "B\u00fahoz",
-      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
       "artists": [
         {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -907,22 +907,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -943,22 +939,6 @@
       "duration_ms": 253150,
       "name": "Pimpinella",
       "url": "https://open.spotify.com/track/15wAbJ9CQRwQ1qjxaObWCk"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -995,6 +975,26 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Analog\u00eda de una Laguna",
         "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
       },
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
       },
       "artists": [
         {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     }
   ],
   "unique_name": "Rock Colombia",

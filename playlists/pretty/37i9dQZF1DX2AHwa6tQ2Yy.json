@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 45575,
+  "num_followers": 45616,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU4YWQ3MzRlNTk5MWU5MzQzZTJmOTc0ZGZhZGZiZWFmZDlmOTdm",
+  "snapshot_id": "MCwxOTlmOTQ5MzQ4OTk4NmUyYTZhZDI2ZjU4Zjg2OWRiODA5ZDdiYWM0",
   "tracks": [
     {
       "added_at": "2023-12-21 12:35:32",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "Bittersweet (Radio Edit)",
-        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Bittersweet - Radio Edit",
-      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 233053,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/3aLq93pLZHx25jcFhfbEee"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "Bittersweet (Radio Edit)",
+        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Bittersweet - Radio Edit",
+      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "Free (feat. Tom Misch)",
-        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
-      },
-      "artists": [
-        {
-          "name": "Joel Culpepper",
-          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "Free (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "Free (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
+      },
+      "artists": [
+        {
+          "name": "Joel Culpepper",
+          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Free (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me - Single Version",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me - Single Version",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "L.A.B IV",
         "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 220440,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 244200,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
         "name": "Spider",
         "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
       },
@@ -963,26 +963,6 @@
       "duration_ms": 174614,
       "name": "Spider",
       "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
-        "name": "What\u2019s going on?",
-        "url": "https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        },
-        {
-          "name": "Celina Sharma",
-          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
-        }
-      ],
-      "duration_ms": 223887,
-      "name": "What\u2019s going on?",
-      "url": "https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -1015,6 +995,26 @@
       "duration_ms": 181714,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "What\u2019s going on?",
+        "url": "https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        },
+        {
+          "name": "Celina Sharma",
+          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
+        }
+      ],
+      "duration_ms": 223887,
+      "name": "What\u2019s going on?",
+      "url": "https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "MARY",
-        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
+        "name": "Most Wanted (Deluxe)",
+        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 206052,
-      "name": "MARY",
-      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+      "duration_ms": 221538,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -1151,22 +1155,34 @@
     {
       "added_at": "2023-12-21 12:35:32",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+        "name": "MARY",
+        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+      "duration_ms": 206052,
+      "name": "MARY",
+      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+    },
+    {
+      "added_at": "2023-12-21 12:35:32",
+      "album": {
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-12-21 12:35:32",
@@ -1183,22 +1199,6 @@
       "duration_ms": 230920,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
-    },
-    {
-      "added_at": "2023-12-21 12:35:32",
-      "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     }
   ],
   "unique_name": "Soulful",

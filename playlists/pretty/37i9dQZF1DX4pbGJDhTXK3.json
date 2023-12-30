@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 132956,
+  "num_followers": 133036,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjViMjdlNDFkODYwM2E5ZjAyNjBmZGU4NDUyNjM2YTFkZDc2MTg4",
+  "snapshot_id": "MCxiNzZlN2FhODVmMjYyYTQ3OTQ5Yjg5NGY1ZTBhOThhZGIzZmZhNzJj",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
-        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
       },
       "artists": [
         {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
         }
       ],
-      "duration_ms": 358802,
-      "name": "Thirst Issues",
-      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
+        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
       },
       "artists": [
         {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
         }
       ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
+      "duration_ms": 358802,
+      "name": "Thirst Issues",
+      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Kuk Av Stal / November",
-        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
-      },
-      "artists": [
-        {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        }
-      ],
-      "duration_ms": 742331,
-      "name": "Kuk Av Stal",
-      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Ramma EP",
         "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
       },
@@ -683,8 +667,24 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+        "name": "Kuk Av Stal / November",
+        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
+      },
+      "artists": [
+        {
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+        }
+      ],
+      "duration_ms": 742331,
+      "name": "Kuk Av Stal",
+      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
         }
       ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Pax Americana",
-        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "HS",
-      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Tea In The Desert",
         "url": "https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ"
       },
@@ -843,8 +827,24 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+        "name": "Pax Americana",
+        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "HS",
+      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
         }
       ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-08-02 08:46:27",

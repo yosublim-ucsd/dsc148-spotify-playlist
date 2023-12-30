@@ -1,29 +1,13 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 53602,
+  "num_followers": 53708,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODRkNjgzMTgzZWNjNzIxMDZiMWQ1ZDQ1ZGJlODYzM2YyMDhmNWRk",
+  "snapshot_id": "MCw1OWUwZjYwOGI4MDJkYzhmMjk5ZWM3NjU0MWM3ODczYmVkNzY5YjMx",
   "tracks": [
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "N\u00eaga",
-        "url": "https://open.spotify.com/album/0ILkyF8v2r8RHS8e2ZAFQ7"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "N\u00eaga",
-      "url": "https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1"
-    },
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
@@ -51,6 +35,22 @@
       "duration_ms": 233534,
       "name": "Quebrados",
       "url": "https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "N\u00eaga",
+        "url": "https://open.spotify.com/album/0ILkyF8v2r8RHS8e2ZAFQ7"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "N\u00eaga",
+      "url": "https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Cola Comigo",
-        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 208617,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "Joyce Alane Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 192554,
       "name": "Final - Ao Vivo",
       "url": "https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Cola Comigo",
+        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 208617,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
+        "name": "Carinho",
+        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
         "name": "Como eu vim parar aqui?",
         "url": "https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Carinho",
-        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Carinho",
-      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "s\u00f3 eu sei",
         "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
       },
@@ -371,26 +371,6 @@
       "duration_ms": 115636,
       "name": "s\u00f3 eu sei",
       "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 259170,
-      "name": "TUDO CULPA DO RNB",
-      "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -415,6 +395,26 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -471,22 +471,42 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+        "name": "That's Why I Love You",
+        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
       "artists": [
         {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
         },
         {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
         }
       ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+      "duration_ms": 218000,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "P\u00e2nico",
+        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183005,
+      "name": "P\u00e2nico",
+      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -515,58 +535,22 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "P\u00e2nico",
-        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
         },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183005,
-      "name": "P\u00e2nico",
-      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "That's Why I Love You",
-        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        },
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "SHAWTY",
-        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
-      },
-      "artists": [
         {
           "name": "Diego Amani",
           "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 173385,
-      "name": "SHAWTY",
-      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -595,134 +579,18 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
       },
       "artists": [
         {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "\u00cdndigo (Te Venero)",
-        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "\u00cdndigo (Te Venero)",
-      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
-        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
-      },
-      "artists": [
-        {
-          "name": "Jun Alcan",
-          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tempo Pra Pensar",
-      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+      "duration_ms": 173385,
+      "name": "SHAWTY",
+      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -743,6 +611,118 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "\u00cdndigo (Te Venero)",
+        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 194137,
+      "name": "\u00cdndigo (Te Venero)",
+      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
+        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tempo Pra Pensar",
+      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 346939,
       "name": "Onda - Remix",
       "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-12-22 11:58:21",

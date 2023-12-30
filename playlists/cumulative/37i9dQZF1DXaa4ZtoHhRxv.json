@@ -1859,6 +1859,28 @@
     },
     {
       "album": {
+        "name": "I Can Feel It (VAVO Remix)",
+        "url": "https://open.spotify.com/album/1Wm3T2shJsILJjd5S3G6nN"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "I Can Feel It - VAVO Remix",
+      "url": "https://open.spotify.com/track/1lvILjcPM1uxURvBLZzucr"
+    },
+    {
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },

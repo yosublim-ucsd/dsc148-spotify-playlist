@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,623 likes - 101 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,879 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 21 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
 | 22 | [attempt to disagree](https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lakehouse](https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip) | 3:33 |
 | 23 | [One for sorrow, two for Joni Jones](https://open.spotify.com/track/5h9JLWHtDQDZyJJUTYroZJ) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:30 |
-| 24 | [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 |
+| 24 | [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 |
 | 25 | [Green](https://open.spotify.com/track/3FvATEo4dW73WFpm61cp5z) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [Green](https://open.spotify.com/album/70Z8jgEF6OctG5nojkCpVF) | 3:52 |
 | 26 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 | 27 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 100 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 101 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 |
 
-Snapshot ID: `MCxhYjJjM2MxZmM3MjgwYjc4M2E2MmQ4NDc4MmI1ODUwMzQ2YmU4YmQ5`
+Snapshot ID: `MCwxNGU0NDdlOTg2MmI5MjllNGUyMzRmN2MyNTA1NWY3ODQ2Y2Y3YzQ2`

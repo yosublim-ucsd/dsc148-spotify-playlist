@@ -1,13 +1,29 @@
 {
-  "description": "All eyes on you. Cover: Rio Romeo",
-  "num_followers": 358845,
+  "description": "All eyes on you. Cover: Jagwar Twin",
+  "num_followers": 359238,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjUyZWI4OTg3YzliYzlhMGIzNDMwY2M2ZDU4NGY2MTExODY5YzJk",
+  "snapshot_id": "MCwxNjdkYTYwN2U4MGI3MTZhMTIxM2FmMWFjMWRhZmVmMDJlMjdiMGUy",
   "tracks": [
+    {
+      "added_at": "2023-12-27 20:06:54",
+      "album": {
+        "name": "Bad Feeling (Oompa Loompa)",
+        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 133754,
+      "name": "Bad Feeling (Oompa Loompa)",
+      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "SLEEP PARALYSIS DEMON",
-        "url": "https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj"
+        "name": "Lent",
+        "url": "https://open.spotify.com/album/4v1R6oYeyeIDjDNBiQGo9Q"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "Autoheart",
+          "url": "https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc"
         }
       ],
-      "duration_ms": 154800,
-      "name": "SLEEP PARALYSIS DEMON",
-      "url": "https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX"
+      "duration_ms": 175000,
+      "name": "Stalker's Tango",
+      "url": "https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl"
     },
     {
       "added_at": "2023-11-15 21:21:33",
@@ -73,6 +89,70 @@
       "url": "https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF"
     },
     {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "The Family Jewels",
+        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Primordial Archive",
+        "url": "https://open.spotify.com/album/0En2jb4HUcJM57qWctnLNR"
+      },
+      "artists": [
+        {
+          "name": "Elliot Lee",
+          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Funny Bunny",
+      "url": "https://open.spotify.com/track/41iwYZWC9wiyOqeEigSywk"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "SLEEP PARALYSIS DEMON",
+        "url": "https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "SLEEP PARALYSIS DEMON",
+      "url": "https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "mad's world",
@@ -89,22 +169,6 @@
       "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Big Dumb Heart",
-        "url": "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 216314,
-      "name": "Big Dumb Heart",
-      "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
-    },
-    {
       "added_at": "2023-11-20 19:19:09",
       "album": {
         "name": "From the Start",
@@ -119,6 +183,70 @@
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 284770,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Big Dumb Heart",
+        "url": "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 216314,
+      "name": "Big Dumb Heart",
+      "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -153,6 +281,22 @@
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Remember You Omnichord",
+        "url": "https://open.spotify.com/album/53LntpJMcqlaYwyVDmV7xZ"
+      },
+      "artists": [
+        {
+          "name": "Trillian",
+          "url": "https://open.spotify.com/artist/3f1O89U9qMnCQbqcwmNXNV"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Remember You Omnichord",
+      "url": "https://open.spotify.com/track/1Q2BQP5bR6G0ZydJItu8mq"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "SPILT MILK",
@@ -169,22 +313,6 @@
       "url": "https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Bewitched",
@@ -199,22 +327,6 @@
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -247,22 +359,6 @@
       "duration_ms": 160613,
       "name": "The Bidding",
       "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "30 SECOND LOVE STORY",
-        "url": "https://open.spotify.com/album/5yHbTChYXogi7kX0DF404T"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 164052,
-      "name": "30 SECOND LOVE STORY",
-      "url": "https://open.spotify.com/track/6tLZW1YLLHRXq7GjtB5w3T"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1215,22 +1311,6 @@
       "duration_ms": 207619,
       "name": "Riot",
       "url": "https://open.spotify.com/track/2JVYdQafLX5jbr6IlQ1KIx"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Us and Pigs",
-        "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 174118,
-      "name": "Us and Pigs",
-      "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
     },
     {
       "added_at": "2023-10-27 04:01:00",

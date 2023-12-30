@@ -4,7 +4,7 @@
 
 > The top 150 tracks from Fresh Finds R&B in 2023\. Cover: <a href="https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w"> JayO </a>\. Updates every Wednesday.
 
-1,933 songs - 4 day 3 hr 36 min
+1,934 songs - 4 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,7 +1192,8 @@
 | [Nowhere](https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Time Revealed](https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6) | 2:31 | 2023-01-11 |  |
 | [Nowhere](https://open.spotify.com/track/3wnKCFSUyZ7wG7E4fKujUW) | [Kate Delos Santos](https://open.spotify.com/artist/77x0FLGCR1eJ5cQoqoni3X) | [Nowhere](https://open.spotify.com/album/23Hle9hlQTWNOaLK4g7OS5) | 3:30 | 2022-10-19 | 2022-12-01 |
 | [nowhere to go](https://open.spotify.com/track/244XWLmemNFjKIEoSGG43B) | [gny](https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ) | [nowhere to go](https://open.spotify.com/album/285fQtUmTZsZtDt7fFllWB) | 3:04 | 2023-09-08 | 2023-11-30 |
-| [Noxious](https://open.spotify.com/track/3oEDcTDOFQIwbuzUiTHeEp) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Noxious](https://open.spotify.com/album/6MN5gbMx28ev83Oz5SFQXT) | 3:55 | 2023-01-21 |  |
+| [Noxious](https://open.spotify.com/track/3oEDcTDOFQIwbuzUiTHeEp) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Noxious](https://open.spotify.com/album/6MN5gbMx28ev83Oz5SFQXT) | 3:55 | 2023-01-21 | 2023-12-30 |
+| [Noxious](https://open.spotify.com/track/7zPbxrDLYVQQ9pgBpjOPGG) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Noxious](https://open.spotify.com/album/213ZUwqIT9HakoXHXVExZG) | 3:55 | 2023-11-29 |  |
 | [Nsala](https://open.spotify.com/track/58qwr5zgmWj97uns2lpK40) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Nsala](https://open.spotify.com/album/3H73PfIDwRxHPiztW8Kawd) | 3:26 | 2022-07-01 | 2022-08-04 |
 | [Nside](https://open.spotify.com/track/02JosnlLwG7wEaG5NdUgJP) | [Bliu Prince](https://open.spotify.com/artist/6Mbu1OLeIZ5JvbQ4ck0E1M) | [Nside](https://open.spotify.com/album/2suJ54WtEdZciI7aKCRXfx) | 2:15 | 2023-03-31 | 2023-08-04 |
 | [Nuclear Reactor](https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx) | 3:15 | 2023-07-21 | 2023-10-04 |

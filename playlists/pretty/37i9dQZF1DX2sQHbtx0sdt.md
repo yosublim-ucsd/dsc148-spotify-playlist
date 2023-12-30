@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,550 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,298 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 74 | [Ntja'ka](https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Ntja'ka](https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB) | 4:21 |
 | 75 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 
-Snapshot ID: `MCxhMWZjZmE2YTkxMWFiZWI1ZTk2YTRlZTE3NjJjMjUyZTk3ZDQzYTg1`
+Snapshot ID: `MCw2NzAxM2Y2MDAwZGViMGQwZWMzM2Y3NGM2ODQ5MTVkMjJlMGU4Yjg1`

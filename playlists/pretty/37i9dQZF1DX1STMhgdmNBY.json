@@ -1,29 +1,13 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 68157,
+  "num_followers": 68340,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmVhZDFmNzJiM2IzZWQ1ZmJmNDc4OGI1N2UxYjc0Y2MwNTA4OTBj",
+  "snapshot_id": "MCw3ZGI1YTg4YTQyNTEwNWEyNDdhNmYzODYwZTBhYzJmZGFlMmFjNTg2",
   "tracks": [
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Souled Out On You",
-      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
-    },
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Souled Out On You",
+      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 383200,
-      "name": "A Man And The Blues",
-      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 216093,
       "name": "I Ain't Blue - 2008 Remaster",
       "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 383200,
+      "name": "A Man And The Blues",
+      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -455,18 +455,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+        "name": "Get Back To The Land",
+        "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        },
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Three O'clock Blues",
-      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
+      "duration_ms": 266350,
+      "name": "Get Back To The Land",
+      "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -487,18 +491,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Here Comes Shuggie Otis",
-        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
       "artists": [
         {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 255946,
-      "name": "Gospel Groove",
-      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
+      "duration_ms": 183293,
+      "name": "Three O'clock Blues",
+      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -519,6 +523,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Here Comes Shuggie Otis",
+        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Gospel Groove",
+      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Get Back To The Land",
-        "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        },
-        {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
-        }
-      ],
-      "duration_ms": 266350,
-      "name": "Get Back To The Land",
-      "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "An Introduction To Otis Rush",
         "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170800,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 341173,
       "name": "Gambler's Blues",
       "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Drivin' Wheel - Single Version",
-      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -879,6 +863,38 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -903,38 +919,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "A Few Good Years",
-      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 203226,
       "name": "Sittin' And Cryin' The Blues",
       "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Today I Sing the Blues",
-      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Today I Sing the Blues",
+      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
     },
     {
       "added_at": "2023-10-05 13:06:44",

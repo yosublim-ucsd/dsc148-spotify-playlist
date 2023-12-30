@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,449 likes - 41 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,464 likes - 41 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 40 | [A Bit More \- Edit](https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Transformation](https://open.spotify.com/artist/59rSMOnBRk7rxcdysC38Fb) | [A Bit More](https://open.spotify.com/album/3xKAj9oBSoozdJbizqf2tm) | 4:58 |
 | 41 | [Can't Breathe \- Bilevicius Radio Remix](https://open.spotify.com/track/6ygdZhn7ij8MZuTNYStm3F) | [Circular Run](https://open.spotify.com/artist/5tZ9Qrp84JRdN5tyM05ko9), [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Can't Breathe \(Remixes\)](https://open.spotify.com/album/4KDHxYxJ9hfRVpICFKNt6o) | 3:18 |
 
-Snapshot ID: `MCwzMzA1MGE0NTc2YTFiMGI3NmZjMmFmYmVjN2Y2ODJiMWQwNWJlNWUy`
+Snapshot ID: `MCxjNjE0ZGM0OWFmYTUyY2RiMTVkZTFjZDdmNGY5OGIxOTE5MTFiNmQw`

@@ -3907,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "When You Say You Love Me",
+        "url": "https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX"
+      },
+      "artists": [
+        {
+          "name": "More Ease",
+          "url": "https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "When You Say You Love Me",
+      "url": "https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qDN2w02Pz4lRqnZANiRNr"
       },

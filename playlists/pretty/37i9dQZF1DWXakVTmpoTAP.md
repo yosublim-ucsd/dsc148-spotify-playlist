@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,220 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,217 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 22 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
 | 23 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 24 | [He Didn't Have to Be](https://open.spotify.com/track/6sXDEs7z0LLitIPnPBJ4QM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 4:42 |
-| 25 | [Just Fishin'](https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Proud To Be Here \(Deluxe Edition\)](https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R) | 3:30 |
-| 26 | [Daughter](https://open.spotify.com/track/3p58uPQ08nLtr8IwVGdYKg) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:32 |
-| 27 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
-| 28 | [Ready, Set, Don't Go](https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Home At Last](https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W) | 3:48 |
+| 25 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 |
+| 26 | [Just Fishin'](https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Proud To Be Here \(Deluxe Edition\)](https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R) | 3:30 |
+| 27 | [Daughter](https://open.spotify.com/track/3p58uPQ08nLtr8IwVGdYKg) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:32 |
+| 28 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
 | 29 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
-| 30 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
-| 31 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
-| 32 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
-| 33 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
-| 34 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
-| 35 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 |
+| 30 | [Ready, Set, Don't Go](https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Home At Last](https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W) | 3:48 |
+| 31 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
+| 32 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
+| 33 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
+| 34 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
+| 35 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
 | 36 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 
-Snapshot ID: `MCxiNTFiNWIzM2U0NGY0NmY5NzBmYjBhN2Y2ZmI5OWQyMmUwOGZjZmI3`
+Snapshot ID: `MCw2ODhiNTc3NTRjNTQxNzYxMzZhZDkzOTM1NDMxNGRhZjk1ZDE1YTNk`

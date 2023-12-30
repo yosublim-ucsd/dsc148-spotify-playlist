@@ -4,7 +4,7 @@
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-57 songs - 4 hr 41 min
+58 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Raga Shivaranjani \(Yearning\)](https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:03 | 2023-06-20 |  |
 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 | 2023-06-20 |  |
 | [Roslyn](https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Roslyn](https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp) | 3:17 | 2023-06-20 |  |
-| [Saffron Dreams \(The Night Mudra\)](https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 8:05 | 2023-06-20 |  |
+| [Saffron Dreams \(The Night Mudra\)](https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 8:05 | 2023-06-20 | 2023-12-30 |
 | [Sagar Kinare](https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 4:06 | 2023-06-20 |  |
 | [Sagar Kinare \(Sitar Instrumental\)](https://open.spotify.com/track/7cMpAcWOmmcYWwhwSJr2xD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:43 | 2023-06-20 |  |
 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 | 2023-06-20 | 2023-12-16 |
@@ -53,6 +53,7 @@
 | [Sitar Todi](https://open.spotify.com/track/0OhQFqc2Gfvv8qr7Z3Kzlw) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:46 | 2023-06-20 |  |
 | [Soul Mate](https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 3:38 | 2023-06-20 |  |
 | [Stoney Sitar](https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW) | [Sitar Water](https://open.spotify.com/artist/48heZtys7Y8VCsIdVLQ6Ak) | [Stoney Sitar](https://open.spotify.com/album/3l4WUfnEoaPxoUC0JSjYCV) | 9:03 | 2023-06-20 |  |
+| [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 | 2023-12-28 |  |
 | [Summer Nights](https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58) | [Sitarsnub](https://open.spotify.com/artist/6CwnNZVoL0QAlp7GAvlAPO) | [Summer Nights](https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa) | 2:34 | 2023-06-20 |  |
 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6) | [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn), [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt) | 5:20 | 2023-06-20 |  |
 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/42iTqTyNXmmXuavGKLVyBA) | [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0Y67OpN6bblrqZfuNUGiwF) | 5:20 | 2023-06-20 | 2023-12-16 |

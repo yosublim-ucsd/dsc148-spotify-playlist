@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "A\u00efcha",
+        "url": "https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "A\u00efcha",
+      "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
+    },
+    {
+      "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
       },
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166114,
       "name": "Une Autre",
       "url": "https://open.spotify.com/track/3XuOt3wEdc1tgYlCigX1xS"

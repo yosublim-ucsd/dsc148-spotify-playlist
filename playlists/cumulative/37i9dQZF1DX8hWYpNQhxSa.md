@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-162 songs - 12 hr 50 min
+164 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [verge of a setback](https://open.spotify.com/track/5Ajdp8WVFj2px9prPRYYx8) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:52 | 2022-06-25 | 2022-07-29 |
 | [Very Elegant](https://open.spotify.com/track/46rgVwV7tuEi5MIOfhM2ks) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:15 | 2022-06-25 | 2022-07-29 |
 | [Very Elegant](https://open.spotify.com/track/6fNKFeZUwRbCEhBAJCscv9) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:15 | 2022-06-25 |  |
+| [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-27 |  |
 | [WISE](https://open.spotify.com/track/3wf5Sdu75ioCuDubkBOtNv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:41 | 2022-06-25 |  |
 | [WISE](https://open.spotify.com/track/6OVNaqOK6r5CYsZCTcWHNd) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:41 | 2022-06-25 | 2022-07-29 |
 | [without tears](https://open.spotify.com/track/17AAEk14kARZqTVti9uqvq) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 3:58 | 2022-06-25 | 2023-12-20 |
@@ -166,7 +167,8 @@
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-10-14 |  |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-05-08 | 2022-07-29 |
 | [予告編 〜本編は4/10スタート](https://open.spotify.com/episode/6AnGu6LG6tOWAOaBT5h4xa) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 1:00 | 2022-12-20 | 2023-01-20 |
-| [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 |  |
+| [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 | 2023-12-30 |
+| [公開中『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/track/4EsU9GtLP4jM5j2cGs9Xv0) | [『劇場版 SPY×FAMILY CODE: White』](https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse) | [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/album/1OKiciCC6AscQfSTJBOqU4) | 0:29 | 2023-12-27 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-08 | 2022-07-29 |
 | [子守唄](https://open.spotify.com/track/1Vo6Bz6ekS0Yn64LwTgaMY) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:40 | 2022-12-20 |  |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-01 |  |

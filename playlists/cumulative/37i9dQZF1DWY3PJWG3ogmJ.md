@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-253 songs - 15 hr 15 min
+255 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Beyond the Tomb](https://open.spotify.com/track/0c2MVfLpCAQOts74o45rOb) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Beyond the Tomb](https://open.spotify.com/album/5RdSBcj60rNvo4SUdlUMqu) | 4:49 | 2022-01-14 | 2022-09-03 |
 | [Black Hoodie](https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:29 | 2022-01-14 |  |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2022-01-14 | 2022-07-29 |
+| [Black of My Eyes](https://open.spotify.com/track/2vAzfGEhThu7kM0ZR6nK1D) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7svL45hiXd5Ms0MBn3saXS) | 3:52 | 2023-01-18 |  |
 | [Black of My Eyes](https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG) | 3:52 | 2022-04-22 | 2023-12-24 |
 | [Black Wizards](https://open.spotify.com/track/0C4L8AfG4gRXFhdenDW9Hz) | [NAG](https://open.spotify.com/artist/3evg1UEZUtTYxkKF3ylb8m) | [Black Wizards](https://open.spotify.com/album/7rli40VYlwAwn99cagvQVo) | 2:43 | 2022-01-14 | 2022-07-28 |
 | [Blackened Sun](https://open.spotify.com/track/3F0Mky7mgMfEZCkEWlIhfm) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Infinite Punishment](https://open.spotify.com/album/0nkyqTJnAiiHhSNDyPJvnM) | 3:45 | 2022-01-14 | 2022-07-28 |
@@ -91,7 +92,7 @@
 | [Eternal Forward Motion](https://open.spotify.com/track/2XHh7pPw1E8v37dWFBuleV) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/51ABB3Sdg2UdPbNBDieJ6y) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [Eternal Forward Motion](https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp) | 3:49 | 2023-01-18 |  |
 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 | 2022-01-14 |  |
-| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-01-14 |  |
+| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-01-14 | 2023-12-30 |
 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 | 2022-01-14 |  |
 | [Fire](https://open.spotify.com/track/4nZAKFFvyviDamzAyDGpYm) | [Wither](https://open.spotify.com/artist/23G4Hi7LA117Dkkdn0OW4O) | [Fire](https://open.spotify.com/album/5OTakQzTEWQNNdkZwhIchV) | 2:03 | 2022-01-14 | 2022-07-12 |
 | [Firefight](https://open.spotify.com/track/1dYkWaH2SMZ3ZX0wOkVCBN) | [Full Blown Chaos](https://open.spotify.com/artist/1zABhVAXI7p40y57hnfDlV) | [Heavy Lies The Crown](https://open.spotify.com/album/4nb8gewxZnfoOmqQEwZ3qa) | 5:39 | 2022-01-14 | 2022-11-13 |
@@ -163,7 +164,7 @@
 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 | 2022-01-14 |  |
 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 | 2022-01-14 | 2023-04-09 |
 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 | 2022-01-14 |  |
-| [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 | 2022-01-14 |  |
+| [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 | 2022-01-14 | 2023-12-30 |
 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 | 2022-02-10 | 2022-07-22 |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-12-14 |  |
 | [Pariah](https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Pariah](https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM) | 3:29 | 2022-01-14 | 2022-07-29 |
@@ -213,6 +214,7 @@
 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/1Vbmq7Tp3hRhrhUbDT7AME) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/album/2ZdKo8ZWbTBffLX0iVJ8y9) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 | 2022-04-22 |  |
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2022-01-14 | 2023-12-24 |
+| [Take Me To Hell](https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7) | 3:30 | 2023-01-18 |  |
 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 | 2023-01-18 |  |
 | [The American Dream](https://open.spotify.com/track/2H2gDrojHBPjq9sucp94rs) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/5SF3RGdhBeThw4DTTcbtzu) | 3:16 | 2022-04-08 | 2022-04-20 |
 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 | 2022-01-14 | 2022-07-29 |

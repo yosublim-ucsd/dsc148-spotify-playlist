@@ -1,13 +1,29 @@
 {
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA\">Sneziey</a>\n",
-  "num_followers": 47782,
+  "num_followers": 48193,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWEyMzRhOWQzZmMwNGM4MTRkMTRlNDYxYmMzMmZlMzRjZmQyMmRk",
+  "snapshot_id": "MCxiODNiYWQxMjM3YWIwOTkxNTgxM2U5OWFhNDcyOGNkMzA0ZDk5NzYz",
   "tracks": [
+    {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
+        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
+        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 336213,
+      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
+      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+    },
     {
       "added_at": "2023-05-05 07:24:36",
       "album": {
@@ -117,6 +133,34 @@
       "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Re Bone Ka Naledi (Live At The State Theatre)",
+        "url": "https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA"
+      },
+      "artists": [
+        {
+          "name": "Wacha Mkhukhu Wachumlilo",
+          "url": "https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163"
+        },
+        {
+          "name": "Given",
+          "url": "https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo"
+        },
+        {
+          "name": "Kago",
+          "url": "https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "duration_ms": 616454,
+      "name": "Re Bone Ka Naledi (feat. Kago, Given, Paul) - (Live At The State Theatre)",
+      "url": "https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW"
+    },
+    {
       "added_at": "2023-05-05 07:24:36",
       "album": {
         "name": "Wakhazimula (Live)",
@@ -165,20 +209,20 @@
       "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
     },
     {
-      "added_at": "2023-05-05 07:24:36",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
-        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+        "name": "Izandla Zethu Ziyakubanjwa",
+        "url": "https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
         }
       ],
-      "duration_ms": 336213,
-      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
-      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+      "duration_ms": 305783,
+      "name": "Izandla Zethu Ziyakubanjwa",
+      "url": "https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2"
     },
     {
       "added_at": "2023-05-05 07:24:36",

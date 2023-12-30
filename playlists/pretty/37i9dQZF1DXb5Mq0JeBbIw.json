@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 6424,
+  "num_followers": 6493,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY4YmU0ODc4NDNiYzFkNTNhNTYzMTUwNjU3YWQ5NDk0MTM4NWFk",
+  "snapshot_id": "MCw3YTgzNDcwMWUyNGJhYjNiMmQ4NjVmZTI5NTI5ZjFkYWY1YWYyNDFm",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-10 12:23:51",
       "album": {
-        "name": "Blame The Moon",
-        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 223723,
-      "name": "Blame The Moon",
-      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
-    },
-    {
-      "added_at": "2023-10-10 12:23:51",
-      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "added_at": "2023-10-10 12:23:51",
+      "album": {
+        "name": "Blame The Moon",
+        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 223723,
+      "name": "Blame The Moon",
+      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Too Good At Goodbyes (Acoustic)",
-        "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 220095,
-      "name": "Too Good At Goodbyes - Acoustic",
-      "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
-    },
-    {
       "added_at": "2023-11-08 15:46:49",
       "album": {
         "name": "Part Of The Light",
@@ -159,6 +143,22 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Too Good At Goodbyes (Acoustic)",
+        "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 220095,
+      "name": "Too Good At Goodbyes - Acoustic",
+      "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
       "added_at": "2023-11-08 15:46:49",
       "album": {
         "name": "A Few More Hours at YYZ",
@@ -319,6 +303,22 @@
       "duration_ms": 172202,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Around the Well",
         "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 251280,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Starving (Acoustic)",
         "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
     },
     {
-      "added_at": "2023-12-21 14:00:26",
-      "album": {
-        "name": "Anti-Hero",
-        "url": "https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 199252,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Yesterday",
@@ -783,6 +767,22 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL"
+    },
+    {
+      "added_at": "2023-12-21 14:00:26",
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 199252,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 307620,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
       },
       "artists": [
         {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
         }
       ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",

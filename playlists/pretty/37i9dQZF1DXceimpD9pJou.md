@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,675 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,801 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Lo Volverás a Hacer](https://open.spotify.com/track/2WDM9eAze9QxpLdPnQQfnF) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l) | [Lo Volverás A Hacer](https://open.spotify.com/album/39RuXu7ZYtQAvImhN8CIUM) | 3:40 |
 | 100 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 
-Snapshot ID: `MCw4MDg5MTJmYTdjNGYxNjc4NzEzZGFhNzMxNDI4ZTc2OTA0NTdiMTc3`
+Snapshot ID: `MCxiOGFmMjlkODYyZTFmZDQyNjc1NzA2OTVjODk1MWRmN2RmYTVlZjcy`

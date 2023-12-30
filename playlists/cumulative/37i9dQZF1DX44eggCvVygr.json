@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "All the music from Netflix's La Casa de Papel/Money Heist.",
-  "name": "La Casa de Papel Official Playlist",
+  "description": "Some heists, like some love stories, are irresistible. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix. ",
+  "name": "La Casa de Papel and Berlin Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "Lost Angeles",
+        "url": "https://open.spotify.com/album/7urtHe1NCIWrYAXeZ0mm0q"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "All of the Love in the World",
+      "url": "https://open.spotify.com/track/45Ut1HUeW4ctP2nWXkxRE7"
+    },
     {
       "album": {
         "name": "Further Standards",
@@ -153,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Since Frank",
+        "url": "https://open.spotify.com/album/6peFdqDYJrZTrXoViRwBVx"
+      },
+      "artists": [
+        {
+          "name": "Amy Stroup",
+          "url": "https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "As Long As You're With Me",
+      "url": "https://open.spotify.com/track/6eAuIwnjzvUFxtNVTPlKA3"
+    },
+    {
+      "album": {
         "name": "Dad Rock",
         "url": "https://open.spotify.com/album/3ZE0KqYLeOX1RpLwexfFP5"
       },
@@ -260,6 +300,24 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "album": {
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/4FqUtvO3kF5FKTWHTqoluu"
     },
     {
       "album": {
@@ -693,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Gilbert Becaud (1963-1964) [2011 Remastered] [Deluxe version]",
+        "url": "https://open.spotify.com/album/5kbcDrXNUaToRlppfyjdUe"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Et maintenant",
+      "url": "https://open.spotify.com/track/7ljux6L94K33WbEM8mKGrf"
+    },
+    {
+      "album": {
         "name": "Alto Mar",
         "url": "https://open.spotify.com/album/7x4Bs1HonnKWQHyF0Ermcn"
       },
@@ -726,6 +802,24 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
     },
     {
       "album": {
@@ -913,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "IRM (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3yskvqosKohzIMFeEAHAFt"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160442,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/5FrbEiNS4IT5AAlU60XoVn"
+    },
+    {
+      "album": {
         "name": "Golden Age Radio: Vintage",
         "url": "https://open.spotify.com/album/54ZWQvMUlb9w2EyaBBtMxJ"
       },
@@ -931,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
+    },
+    {
+      "album": {
         "name": "Pizza Pop",
         "url": "https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df"
       },
@@ -946,6 +1084,28 @@
       "duration_ms": 183800,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf"
+    },
+    {
+      "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "album": {
@@ -1018,6 +1178,24 @@
       "duration_ms": 200680,
       "name": "La poup\u00e9e",
       "url": "https://open.spotify.com/track/1glzpd9mGcAtbaRdQQCwgc"
+    },
+    {
+      "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r"
+      },
+      "artists": [
+        {
+          "name": "Emily Watts",
+          "url": "https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157683,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr"
     },
     {
       "album": {
@@ -1211,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Mon Man\u00e8ge \u00c0 Moi",
+        "url": "https://open.spotify.com/album/3s4C2XtDUPH0doInmJvIML"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Mon man\u00e8ge \u00e0 moi",
+      "url": "https://open.spotify.com/track/2uwtqiD3LzqpU5g2nnQPUA"
+    },
+    {
+      "album": {
         "name": "My Life Is Going On (M\u00fasica Original De La Serie De TV La Casa De Papel / Money Heist)",
         "url": "https://open.spotify.com/album/3Q4MvKGORSPdwa0OWLWXOA"
       },
@@ -1265,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Alma Mater",
+        "url": "https://open.spotify.com/album/28yaRHUvkkvZ4tftpyAeYf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Le\u00e3o",
+          "url": "https://open.spotify.com/artist/1HY3qhAqbGC5jM7lfbSqft"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/3Xaq7pzNUWfo4JVMfdKEh4"
+    },
+    {
+      "album": {
         "name": "Pescador De Hombres",
         "url": "https://open.spotify.com/album/6Tx5TBvbXUC3AsWr3buaGK"
       },
@@ -1280,6 +1494,42 @@
       "duration_ms": 231640,
       "name": "Pescador De Hombres",
       "url": "https://open.spotify.com/track/7od71ucLRijC3mHYPXej7q"
+    },
+    {
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "Que c'est triste Venise",
+      "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
+    },
+    {
+      "album": {
+        "name": "La Inimitable",
+        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Que Me Coma el Tigre",
+      "url": "https://open.spotify.com/track/7kHhEXPEIRgkZHvE0RLOqa"
     },
     {
       "album": {
@@ -1336,6 +1586,28 @@
       "duration_ms": 157453,
       "name": "Schubert: Ave Maria, D.839 - Arr. Hazell",
       "url": "https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh"
+    },
+    {
+      "album": {
+        "name": "Electronic Pleasure",
+        "url": "https://open.spotify.com/album/2C5oKE03phy4w8yHTkWTNW"
+      },
+      "artists": [
+        {
+          "name": "N-Trance",
+          "url": "https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt"
+        },
+        {
+          "name": "Ricardo Da Force",
+          "url": "https://open.spotify.com/artist/7oofaqs3ZPfzIuamtI4cSw"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3k3QGyFyA5qrT5BLqeU1Ss"
     },
     {
       "album": {
@@ -1456,6 +1728,24 @@
       "duration_ms": 191026,
       "name": "Te Estoy Amando Locamente",
       "url": "https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV"
+    },
+    {
+      "album": {
+        "name": "Fire Fleet And Candlelight",
+        "url": "https://open.spotify.com/album/00BbQk8JTzSQBEuZAQz5oV"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "The Circle Game",
+      "url": "https://open.spotify.com/track/4iTSDr8jIXEfJcyl9qymmC"
     },
     {
       "album": {
@@ -1760,6 +2050,28 @@
       "duration_ms": 269973,
       "name": "Way to Fall",
       "url": "https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF"
+    },
+    {
+      "album": {
+        "name": "We'll All Be Alright",
+        "url": "https://open.spotify.com/album/1aqMkpIK0UcThBLWV1KMZr"
+      },
+      "artists": [
+        {
+          "name": "Amy Stroup",
+          "url": "https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166027,
+      "name": "We'll All Be Alright",
+      "url": "https://open.spotify.com/track/70cFd2R8RaD0nc2bYPeNqS"
     },
     {
       "album": {

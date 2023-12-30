@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-323 songs - 22 hr 52 min
+324 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [People Make The World Go Round](https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics and More 30th Anniversary Edition](https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW) | 3:31 | 2022-05-11 | 2023-04-21 |
 | [People Make The World Go Round](https://open.spotify.com/track/66LIwvlv1tJgBnwFknX09P) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Ultimate Collection](https://open.spotify.com/album/3GMszmYUeaEIQK7CRNM6Kf) | 3:32 | 2022-02-21 | 2022-04-21 |
 | [Pure Love \- Single Version](https://open.spotify.com/track/04fl3MpMyozWgWQ76Cp1pz) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [The Platinum Collection](https://open.spotify.com/album/19yUt3LB9LVecQmk6rtA6v) | 2:35 | 2021-12-13 | 2022-07-29 |
-| [Quiet Storm](https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 7:48 | 2022-02-21 |  |
+| [Quiet Storm](https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 7:48 | 2022-02-21 | 2023-12-30 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 | 2021-12-13 |  |
 | [Reunited](https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:45 | 2021-12-13 |  |
 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 | 2021-12-13 | 2022-07-29 |
@@ -286,6 +286,7 @@
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-13 | 2022-07-29 |
 | [The Closer I Get to You](https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:40 | 2021-12-13 |  |
 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 | 2022-02-04 | 2023-04-21 |
+| [This Time](https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [This Time](https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR) | 3:21 | 2023-12-11 |  |
 | [Through the Fire](https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:48 | 2021-12-13 | 2022-02-05 |
 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 | 2021-12-13 |  |
 | [Through The Test Of Time](https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Love Is Gonna Getcha](https://open.spotify.com/album/709eBqOXOnZfdMts8husvP) | 5:07 | 2021-12-13 | 2022-07-29 |

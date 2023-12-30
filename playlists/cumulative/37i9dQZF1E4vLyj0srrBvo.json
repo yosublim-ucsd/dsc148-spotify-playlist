@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 95002,
       "name": "Athoth a Go!! Go!!",
       "url": "https://open.spotify.com/track/5HEpI1nOR0vHicKklJRvvd"
@@ -3500,10 +3500,32 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 297459,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
+    },
+    {
+      "album": {
+        "name": "Black Sheep (Brie Larson Vocal Version)",
+        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version",
+      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
     },
     {
       "album": {
@@ -4368,7 +4390,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 193957,
       "name": "Bunny Is A Rider",
       "url": "https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX"
@@ -4584,7 +4606,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
@@ -4820,7 +4842,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 114280,
       "name": "CEASE AND DESIST",
       "url": "https://open.spotify.com/track/3cIttzoAjoc44h6noteqJh"
@@ -5120,7 +5142,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -7318,7 +7340,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172121,
       "name": "DIP N DRIP",
       "url": "https://open.spotify.com/track/2BH9ryNKlONkENIhgMM4lq"
@@ -7812,7 +7834,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
@@ -8180,7 +8202,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 107853,
       "name": "Eight",
       "url": "https://open.spotify.com/track/0z469se40CjMQBHosv73sz"
@@ -8270,7 +8292,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 224532,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/4bluBoPOXW3paAep55c1KC"
@@ -9202,7 +9224,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
@@ -9874,7 +9896,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 126315,
       "name": "Frenesi - Machine Girl GabberTrap Mix",
       "url": "https://open.spotify.com/track/3wt5rmyeDO4ScM5fsKI33Y"
@@ -10148,7 +10170,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
@@ -10418,7 +10440,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145272,
       "name": "Girls In Bikinis",
       "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
@@ -10458,7 +10480,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 134693,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin"
@@ -10718,7 +10740,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 245280,
       "name": "Gold Guns Girls",
       "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
@@ -11970,7 +11992,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
@@ -12078,7 +12100,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 179701,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/39oLvVAYrXwMhZ8ylVsTCy"
@@ -12154,7 +12176,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 184132,
       "name": "Hit Me Where It Hurts",
       "url": "https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4"
@@ -12566,7 +12588,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 281577,
       "name": "Humble Bones",
       "url": "https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54"
@@ -13760,7 +13782,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 249896,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/1quJ23GtZEWmlrfx79bh1a"
@@ -14034,7 +14056,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 176346,
       "name": "Jackie",
       "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
@@ -16838,7 +16860,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155376,
       "name": "Mentally Not Here",
       "url": "https://open.spotify.com/track/4F0Tzpl5dPK7lalFCDChdg"
@@ -17228,7 +17250,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 147355,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/4H97Ldkl4dvkGbcfqZxUhJ"
@@ -17412,7 +17434,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 239832,
       "name": "Motion",
       "url": "https://open.spotify.com/track/0fKyRv26iIdZo9XCQ56jPO"
@@ -17700,7 +17722,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
@@ -18456,7 +18478,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 116756,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r"
@@ -19872,7 +19894,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 110873,
       "name": "Perfectly Not Close To Me (ft. Yves Tumor)",
       "url": "https://open.spotify.com/track/0FqkI0vR3Z28v6GSudbKXj"
@@ -20446,7 +20468,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 184222,
       "name": "Pop Star",
       "url": "https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR"
@@ -20756,7 +20778,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 140693,
       "name": "PREY",
       "url": "https://open.spotify.com/track/2x5NmER7At4EkPzEzVJZBd"
@@ -23056,7 +23078,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/403EjoWwYSX37paKSySxs1"
@@ -24594,7 +24616,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 149090,
       "name": "Stay Ugly",
       "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
@@ -25018,7 +25040,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 217651,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0"
@@ -25108,7 +25130,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 184505,
       "name": "Supersoaker",
       "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
@@ -26968,7 +26990,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 228800,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
@@ -28442,7 +28464,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
@@ -28586,7 +28608,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 231906,
       "name": "White Gold",
       "url": "https://open.spotify.com/track/7dZ51w8RIzFVzU46L4weYa"

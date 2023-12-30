@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Acelerar",
+        "url": "https://open.spotify.com/album/54lANb2xnQqzva8WtmryRj"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Acelerar",
+      "url": "https://open.spotify.com/track/7GlqylDuAfMmARdPKzz4dr"
+    },
+    {
+      "album": {
         "name": "Acid Soul",
         "url": "https://open.spotify.com/album/53VfZ9loNDc0Y0jZ7Sn7iT"
       },
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"

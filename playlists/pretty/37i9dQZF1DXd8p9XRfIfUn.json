@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: El Bogueto",
-  "num_followers": 69015,
+  "num_followers": 69143,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDRiOWMzYTBlNzE1OTc2ZGQwM2ZkM2U2MzYzMDE4N2E0NmRhNjRm",
+  "snapshot_id": "MCw2ODg5NWRiNDNhMzdmZjE5OTJkMTQ3YzMwNWRkNTkyOTQyYTUzZWYz",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -619,6 +619,34 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -631,6 +659,22 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/4FpnFwYPDBoGLFKpZKGfZK"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "duration_ms": 176894,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/5FhoinWk971cMHGcvc8LC3"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -655,22 +699,6 @@
       "duration_ms": 113000,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/4FpnFwYPDBoGLFKpZKGfZK"
-      },
-      "artists": [
-        {
-          "name": "El Osito Wito",
-          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
-        }
-      ],
-      "duration_ms": 176894,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/5FhoinWk971cMHGcvc8LC3"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -711,34 +739,6 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Wapo y Mam\u00f3n",
-        "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Wapo y Mam\u00f3n",
-      "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Siempre Fine",
         "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165679,
       "name": "Siempre Fine",
       "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Wapo y Mam\u00f3n",
+        "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Wapo y Mam\u00f3n",
+      "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Cu\u00e1ndo Ser\u00e1",
+        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cu\u00e1ndo Ser\u00e1",
+      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1155,42 +1175,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Cu\u00e1ndo Ser\u00e1",
-        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cu\u00e1ndo Ser\u00e1",
-      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Uy k raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy k raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Uy k raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy k raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "COMO TE VEO",
         "url": "https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE"
       },
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

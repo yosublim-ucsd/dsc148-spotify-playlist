@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "BOCINITA",
+        "url": "https://open.spotify.com/album/4GcoyeiB1N2qmnn25d5EO9"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "BOCINITA",
+      "url": "https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145000,
       "name": "ENCENDIDA",
       "url": "https://open.spotify.com/track/6VYb2hj7EWlohjzAasIiNy"
@@ -2220,6 +2238,28 @@
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Consentida",
+        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299650,
+      "name": "La Ni\u00f1a Consentida",
+      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
       "album": {
@@ -3081,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1a Mala",
+        "url": "https://open.spotify.com/album/4LUFDFtkwWHZhEPjy9OTh3"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Ni\u00f1a Mala",
+      "url": "https://open.spotify.com/track/6jFhUbJjxlhfQmWmxbqRPB"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/1Zj7e945ki1uT1av5KZuQ5"
       },
@@ -3140,7 +3198,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 228391,
       "name": "No Me Tocan",
       "url": "https://open.spotify.com/track/0lLdwqrYSHDh55xxp2LOVg"
@@ -3862,7 +3920,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 206400,
       "name": "Quieren Tirarme",
       "url": "https://open.spotify.com/track/4OEa7tpSCn4EogdIsxCXW5"

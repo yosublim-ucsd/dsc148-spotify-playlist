@@ -1,13 +1,37 @@
 {
   "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Peso Pluma, Anitta en portada.",
-  "num_followers": 360522,
+  "num_followers": 363018,
   "original_name": "MEXCLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmQ2MzcyYjhjYjVjNjU4N2I5NGI4YWFjZDZlNTM5MTQ3ZWY1ODU4",
+  "snapshot_id": "MCwxN2E4ZTJiODMxMzNiNWM5YTUzODQzMzE3Mzg3YjgyZGY5YzRiYzg4",
   "tracks": [
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
@@ -1431,30 +1455,6 @@
       "duration_ms": 213926,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "A Todos Los Rumberos",
-        "url": "https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 269653,
-      "name": "A Todos Los Rumberos",
-      "url": "https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo"
     },
     {
       "added_at": "2023-12-22 06:00:00",

@@ -4,11 +4,11 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lili\-Ann De Francesco
 
-596 songs - 1 day 7 hr 36 min
+598 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2023-12-08 |  |
+| [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2023-12-08 | 2023-12-30 |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 | 2023-04-01 |
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-02-11 | 2022-09-03 |
 | [26](https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [26](https://open.spotify.com/album/02zFvHEB9r68XIMpGdKjZv) | 3:08 | 2022-06-03 | 2022-08-06 |
@@ -66,6 +66,7 @@
 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 | 2022-08-26 | 2022-10-15 |
 | [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 | 2022-09-02 |
 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 | 2022-09-02 | 2022-12-24 |
+| [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 |  |
 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-11-10 |  |
 | [Between The Lines](https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Between The Lines](https://open.spotify.com/album/3fCkMihwoQJsCmuiOzCeRa) | 2:16 | 2023-09-29 |  |
 | [Big Star](https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Big Star](https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K) | 3:00 | 2023-05-12 | 2023-07-15 |
@@ -202,6 +203,7 @@
 | [getting older](https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [getting older](https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01) | 2:46 | 2022-12-09 | 2022-12-31 |
 | [Getting Older](https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Getting Older](https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI) | 2:45 | 2022-04-01 | 2022-10-01 |
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-08-06 |
+| [Ghosts](https://open.spotify.com/track/4UMVMjGUK9mij06jp2gO3Z) | [Mariah Rose Faith](https://open.spotify.com/artist/2Q2Z74Il8tZHMtfFcmz5fh) | [Ghosts](https://open.spotify.com/album/7kAXVka5jf1LjLnbK0GTfm) | 4:13 | 2023-12-29 |  |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
 | [Girl Who Comes Next](https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Girl Who Comes Next](https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a) | 3:25 | 2023-02-10 | 2023-03-11 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-10-16 |
@@ -276,7 +278,7 @@
 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 | 2023-12-14 |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-21 | 2022-10-01 |
 | [I Wanna Be In Love Again](https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [I Wanna Be In Love Again](https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY) | 4:37 | 2022-12-02 | 2023-02-11 |
-| [I Wanna Love Me](https://open.spotify.com/track/51TKMs2c7yIXWPxakttfUQ) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [this is my love life](https://open.spotify.com/album/5ytlpIs7TWZrclE8WQDDiK) | 2:46 | 2023-06-16 |  |
+| [I Wanna Love Me](https://open.spotify.com/track/51TKMs2c7yIXWPxakttfUQ) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [this is my love life](https://open.spotify.com/album/5ytlpIs7TWZrclE8WQDDiK) | 2:46 | 2023-06-16 | 2023-12-30 |
 | [I Want You](https://open.spotify.com/track/1q32AhBbgDPdBr5VyCRHq6) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [What Was, Not Now](https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe) | 3:30 | 2022-01-14 | 2022-07-02 |
 | [I'm Good](https://open.spotify.com/track/0d0lVRztdBmdkL04WORCPP) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:20 | 2022-10-14 | 2022-12-24 |
 | [I'm in a Rut](https://open.spotify.com/track/0W5JUrUOQmQbTmUOQwk7vx) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [I'm in a Rut](https://open.spotify.com/album/2JQiACEDZjhS8MmaCgqo6n) | 2:58 | 2022-04-15 | 2022-09-03 |

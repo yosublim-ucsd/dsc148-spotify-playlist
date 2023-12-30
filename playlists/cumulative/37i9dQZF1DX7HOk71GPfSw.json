@@ -34977,6 +34977,24 @@
     },
     {
       "album": {
+        "name": "a night in virginia",
+        "url": "https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113865,
+      "name": "two am",
+      "url": "https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO"
+    },
+    {
+      "album": {
         "name": "two minutes of me fucking around",
         "url": "https://open.spotify.com/album/2elUVputagWUGveiYdFCWL"
       },

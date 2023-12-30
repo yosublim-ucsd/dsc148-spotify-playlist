@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Emanero, Angela Torres, Karina & j mena.
 
-359 songs - 20 hr 39 min
+360 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Fuiste](https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw) | [Verónica Lujan](https://open.spotify.com/artist/6o4MTZaGrBQ0pHMPYlQYa2) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:03 | 2022-01-21 | 2022-07-22 |
 | [Grabada en Mi Corazón](https://open.spotify.com/track/5QfJefR5mjd95r2764uMmV) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Grabada en Mi Corazón](https://open.spotify.com/album/3sFG1c5NgvJCow48WphhDA) | 2:49 | 2022-01-21 | 2022-07-16 |
 | [Gracias](https://open.spotify.com/track/5u986eU3jCkZzym2Gb3TM2) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Gracias](https://open.spotify.com/album/3VOdx5jz3An6DX3oqjibTd) | 2:06 | 2022-04-01 | 2022-04-19 |
-| [Gritaras Te Quiero \- Goza La Cumbia Mamita!](https://open.spotify.com/track/4PBwqWsRglYItLGTtF8EXl) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Gritaras Te Quiero \(Goza La Cumbia Mamita!\)](https://open.spotify.com/album/2xW3K4MUql6PZlTyBPuzoF) | 1:48 | 2023-12-15 |  |
+| [Gritaras Te Quiero](https://open.spotify.com/track/6q84kjerpfatlMD3RzGA32) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [GOZA LA CUMBIA MAMITA!](https://open.spotify.com/album/52Fcj2EQw8kOPqX5fEHa49) | 1:48 | 2023-12-22 |  |
+| [Gritaras Te Quiero \- Goza La Cumbia Mamita!](https://open.spotify.com/track/4PBwqWsRglYItLGTtF8EXl) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Gritaras Te Quiero \(Goza La Cumbia Mamita!\)](https://open.spotify.com/album/2xW3K4MUql6PZlTyBPuzoF) | 1:48 | 2023-12-15 | 2023-12-30 |
 | [Hasta el Amanecer](https://open.spotify.com/track/6sOxNeps1ULMAiIJRE1EJu) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Hasta el Amanecer](https://open.spotify.com/album/6PmzZJxtyxQrlPIwzyPeyv) | 3:48 | 2022-01-21 | 2022-06-22 |
 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 | 2022-01-14 | 2022-12-24 |
 | [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 | 2022-04-01 | 2023-12-19 |

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: yonige
 
-1,353 songs - 3 day 12 hr 53 min
+1,354 songs - 3 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [8つ上のあなたに恋をした](https://open.spotify.com/track/4iADbOKVeDoHs508tQdVcC) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [8つ上のあなたに恋をした](https://open.spotify.com/album/6YmhTM28XqjZmKjbJFgK2N) | 4:32 | 2022-06-02 | 2022-07-09 |
 | [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 | 2023-07-25 | 2023-07-27 |
 | [96](https://open.spotify.com/track/3DFTBYmTBM0hju2dFDVNG7) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [96](https://open.spotify.com/album/7byqPEkAGlMsKCsnwL9K1g) | 3:07 | 2023-03-07 | 2023-04-12 |
+| [A box of Stockholm](https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [A box of Stockholm](https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q) | 2:40 | 2023-12-28 |  |
 | [A revolution](https://open.spotify.com/track/6JbWY04QxDrzoQgKUuILPu) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/2VjBSHmjbkuXRzIWS2QRKa) | 4:46 | 2022-08-17 | 2022-08-24 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-14 |
 | [A4A4A4](https://open.spotify.com/track/07scOjkDS43SXSMOppTpz7) | [鍵を返せ](https://open.spotify.com/artist/5Mzb8gbFXMwiaEwXGYfZqj) | [A4A4A4](https://open.spotify.com/album/05IsbXp12zO1BBaR03nC8e) | 3:23 | 2023-08-17 | 2023-08-23 |
@@ -122,7 +123,7 @@
 | [dawn](https://open.spotify.com/track/08VicdA5GcOHHrizr77pA5) | [IN THE POOL](https://open.spotify.com/artist/10DhiyiwQ9FcZxmPO1vESW) | [S.O.O.M](https://open.spotify.com/album/7xceq6o7W4p8MN7xUgDbkY) | 5:34 | 2022-06-14 | 2022-06-22 |
 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 | 2023-05-02 | 2023-06-14 |
 | [dawn break](https://open.spotify.com/track/26e7gjbVjxjWBnucSOJ66X) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [dawn break](https://open.spotify.com/album/1JEVV143Zg0HX5eEHFCGsc) | 2:36 | 2023-05-30 | 2023-06-07 |
-| [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-02 |  |
+| [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-02 | 2023-12-30 |
 | [Dear Mom.](https://open.spotify.com/track/4xXLWhQPvbfYPfePQrA9kX) | [黑木](https://open.spotify.com/artist/2X1CtlSS1wXCjvQUPDdWNE) | [Dear Mom.](https://open.spotify.com/album/6YPi0EXRUIe4Ur3za4mQcl) | 4:06 | 2023-12-12 | 2023-12-20 |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-31 | 2022-07-28 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-04-05 |
@@ -134,7 +135,7 @@
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/77rj86ejZIot8ctbOFIBz5) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:38 | 2023-03-23 | 2023-06-14 |
 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 | 2022-06-07 | 2022-06-12 |
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-21 | 2023-12-14 |
-| [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2023-12-12 | 2023-12-26 |
+| [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2023-12-12 |  |
 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 | 2022-11-08 |  |
 | [don't cry](https://open.spotify.com/track/1q1aSnLbv4KG4oXEvYig4H) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [don't cry](https://open.spotify.com/album/33OyKHKpfnHKAgfLO3EJKb) | 3:40 | 2022-06-07 | 2022-06-14 |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
@@ -176,7 +177,7 @@
 | [Fool](https://open.spotify.com/track/0NWKnbVeZuKPOmGnl2gh6q) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5UcrQdw6afVoQqI7tpxTw2) | 2:15 | 2022-05-31 | 2022-07-19 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-07-21 | 2022-07-23 |
 | [FREEDOM!](https://open.spotify.com/track/5YThJeUxwNPrWMCmiZZrIQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [FREEDOM!](https://open.spotify.com/album/2MOk0vG38H1M133hRGIkK3) | 3:57 | 2022-06-07 | 2022-07-06 |
-| [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-12-13 | 2023-12-04 |
+| [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-12-13 |  |
 | [Futatsu no ashita](https://open.spotify.com/track/7FafEVghhbuNa5fwPbo752) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [Futatsu no ashita](https://open.spotify.com/album/5IxhQa8RC3XOqwZglRxf2x) | 4:57 | 2023-11-14 | 2023-11-22 |
 | [Fuzzy](https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Fuzzy](https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP) | 3:44 | 2023-06-27 | 2023-07-05 |
 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 | 2023-06-20 | 2023-08-25 |
@@ -297,7 +298,7 @@
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-07 | 2023-01-14 |
 | [KICKASS](https://open.spotify.com/track/4LW5HsiZ9bWNnDtBEYVVuq) | [TRiDENT](https://open.spotify.com/artist/7rZdMuqbboWedMFTA5hsrh) | [Dream Up](https://open.spotify.com/album/5Vty5dumIvnNzf9SOGY7sW) | 3:02 | 2023-11-14 | 2023-11-22 |
 | [KICKS!KICKS!KICKS!](https://open.spotify.com/track/5PuOvSSnUz95P0sl4gpiqS) | [Q.I.S.](https://open.spotify.com/artist/28WPc8Ww4MrKCvUynmJ74C) | [KICKS!KICKS!KICKS!](https://open.spotify.com/album/1fRTpzxnoUG7Kh2isjxbzI) | 3:29 | 2023-09-05 | 2023-09-13 |
-| [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 |  |
+| [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 | 2023-12-30 |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2023-12-13 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 | 2023-10-17 | 2023-11-16 |
@@ -871,7 +872,7 @@
 | [スタンド・バイ・ミー](https://open.spotify.com/track/1uqIzwX6OaH0adzFHHb8ms) | [初恋モーテル](https://open.spotify.com/artist/1WEhXsGPvA5DS1810cjnOS) | [スタンド・バイ・ミー](https://open.spotify.com/album/63xKPJKQLaOfC4X2jQMbWw) | 4:50 | 2023-11-28 | 2023-12-06 |
 | [スターゲイザー](https://open.spotify.com/track/4qCSth5mnvHMgdfj6HdOoR) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [スターゲイザー](https://open.spotify.com/album/4jin3PAlVzrpcXSY3MJw3X) | 2:58 | 2023-11-02 | 2023-11-08 |
 | [スタートライン](https://open.spotify.com/track/6d7n4mH1mkHXTNWyOzcfSo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [スタートライン](https://open.spotify.com/album/711bie7AWuI4FxkHLXeW8E) | 4:31 | 2022-05-31 | 2022-07-01 |
-| [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 |  |
+| [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [スピカ](https://open.spotify.com/track/0Iu24nTB1Ocr7y9shBwNGl) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [スピカ](https://open.spotify.com/album/122ctF0AoqSB1lp3m3nhtX) | 4:16 | 2022-08-25 | 2022-08-31 |
 | [スプートニク\(2021\)](https://open.spotify.com/track/1hMNisqTEUv1l20bQcptVt) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 4:46 | 2022-06-16 | 2022-06-22 |
 | [スモーキン・ビリー](https://open.spotify.com/track/6JaF5T2956QWqa4bHfv9aM) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [スモーキン・ビリー](https://open.spotify.com/album/2hjfiA40BEOHHkCaOJiGFD) | 3:14 | 2022-06-07 | 2022-07-01 |

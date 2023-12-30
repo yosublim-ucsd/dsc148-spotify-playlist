@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Luis Vazquez",
-  "num_followers": 256281,
+  "num_followers": 256325,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTgwNjIyZDBhNjczODI5YTBiNDU0MDA5OGZmM2Y5YWFkYTYyZGMz",
+  "snapshot_id": "MCxiNGY5OTJiNWE5NDEzNjZjMWEyYWM1MjUxNGU0ZjNmN2Q3NTM3ZjIx",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -195,18 +195,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+        "name": "Besos con Fernet",
+        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+      "duration_ms": 147375,
+      "name": "Besos con Fernet",
+      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -231,22 +235,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Besos con Fernet",
-        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 147375,
-      "name": "Besos con Fernet",
-      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185734,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 204454,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185734,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Ay, Ay, Ay",
+        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 208347,
+      "name": "Ay, Ay, Ay",
+      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Ay, Ay, Ay",
-        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 208347,
-      "name": "Ay, Ay, Ay",
-      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 208008,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Espacio",
         "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 203590,
       "name": "Espacio",
       "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 208008,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
     }
   ],
   "unique_name": "el nuevo tropical",

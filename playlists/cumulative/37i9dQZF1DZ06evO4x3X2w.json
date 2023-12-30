@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 316826,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
@@ -712,6 +712,24 @@
       "duration_ms": 300672,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Get A Grip",
+      "url": "https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m"
     },
     {
       "album": {

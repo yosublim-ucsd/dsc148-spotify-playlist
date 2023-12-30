@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 63691,
+  "num_followers": 63795,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGY3YmYzNzE2MzljNTBkN2JjNTIxN2RjNGYzODdiMTA1ZTZkNzJl",
+  "snapshot_id": "MCw1YjQ3NGVmYTcwMjVmNTFhMmNhMGQ5MTJiN2FiY2ZjZjQ0YTk4Zjdj",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -787,6 +807,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
         "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
@@ -807,22 +843,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Qu\u00e9 Te Dio",
-      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Contigo Quiero",
+        "url": "https://open.spotify.com/album/1xGe0CQ3XByxNtZGlJVdo8"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 259122,
+      "name": "Contigo Quiero",
+      "url": "https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Quer\u00eda Volverte a Ver",
         "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Contigo Quiero",
-        "url": "https://open.spotify.com/album/1xGe0CQ3XByxNtZGlJVdo8"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 259122,
-      "name": "Contigo Quiero",
-      "url": "https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O"
     },
     {
       "added_at": "2023-09-26 16:29:26",

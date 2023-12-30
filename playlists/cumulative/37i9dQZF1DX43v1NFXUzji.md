@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Cover: Peso Pluma
 
-591 songs - 1 day 9 hr 30 min
+592 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 | 2023-09-01 |  |
 | [12x3](https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp) | 2:39 | 2023-07-21 | 2023-09-02 |
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-28 | 2023-04-04 |
+| [2 Hielos](https://open.spotify.com/track/5M2bLvjsa9Jzg8CCnxcxGG) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [WorKING](https://open.spotify.com/album/02STLoPPeQ8PoV91Ilkg08) | 3:14 | 2023-12-22 |  |
 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 | 2023-04-03 | 2023-12-01 |
 | [200 Mph](https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:50 | 2022-03-23 | 2022-07-27 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 2:47 | 2021-12-16 | 2023-04-04 |
@@ -131,7 +132,7 @@
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2021-12-16 | 2023-04-04 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2022-06-08 | 2023-04-04 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-12-16 | 2022-07-29 |
-| [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 | 2023-10-20 |  |
+| [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 | 2023-10-20 | 2023-12-30 |
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-04-03 | 2023-05-27 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-16 | 2023-04-04 |
 | [DE CAROLINA](https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:01 | 2023-04-03 |  |

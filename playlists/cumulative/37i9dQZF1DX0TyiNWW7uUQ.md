@@ -4,7 +4,7 @@
 
 > Best performed tracks of Kollywood Cream in 2023 \#SpotifyWrapped<br/>Cover : Jailer
 
-158 songs - 10 hr 26 min
+159 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Yaen Ennai Pirindhaai \- Male](https://open.spotify.com/track/2GYzXSeNa3Y0BfIfS1VJj3) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Banita Sandhu](https://open.spotify.com/artist/3bYGK3QTL74pMUVbcgkIza) | [Adithya Varma](https://open.spotify.com/album/3IvKduSq7d2SnZiwxA7hJK) | 3:18 | 2022-01-04 | 2022-08-25 |
 | [Yathe Yathe](https://open.spotify.com/track/6mmGbsCqf5e8vxv1WodYIG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 5:44 | 2022-01-04 | 2022-06-29 |
 | [Yelo Pullelo](https://open.spotify.com/track/44tt44Coydbx27QJlWiKXb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 3:25 | 2022-01-04 | 2022-06-15 |
-| [Yennai Maatrum Kadhale](https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:34 | 2023-10-06 |  |
+| [Yennai Maatrum Kadhale](https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:34 | 2023-10-06 | 2023-12-30 |
+| [Yennai Maatrum Kadhale \(From "Naanum Rowdy Dhaan"\)](https://open.spotify.com/track/4QROxOGtSMviE3NydK7Hpo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Rockstar Anirudh Special](https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C) | 4:34 | 2023-11-16 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

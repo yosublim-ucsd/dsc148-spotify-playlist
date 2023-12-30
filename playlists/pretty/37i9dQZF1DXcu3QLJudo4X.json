@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 74214,
+  "num_followers": 74587,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmZkZDgxOTJkNTIwODU3NWUyZGU5NTI4MjgyYTAwMjEyNzZhOGQ5",
+  "snapshot_id": "MCwyMzM5M2VmMzMzYjVjYjFiM2Y5NGQzM2JkMmUxMTQyYjU5ZjI5NjM5",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 264800,
       "name": "Stormy Monday",
       "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 184906,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206933,
       "name": "Driftin' Blues",
       "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2023-08-23 10:30:13",

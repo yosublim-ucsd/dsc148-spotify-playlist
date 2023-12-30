@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,727 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,813 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 19 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 | 20 | [Lingerie](https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Lingerie](https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx) | 3:29 |
 | 21 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
-| 22 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
-| 23 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
+| 22 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
+| 23 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
 | 24 | [Love 66](https://open.spotify.com/track/6xqEi8MYklEc6N2sU61lqY) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Love 66](https://open.spotify.com/album/74xvo4Pvay6Adp8h1NHEPp) | 5:22 |
 | 25 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
 | 26 | [Singular](https://open.spotify.com/track/0yTMkAKfAHDSEh4CQhKU26) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Singular](https://open.spotify.com/album/3ffB44QD77vSxTGv95cTFG) | 4:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 |
 | 60 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 
-Snapshot ID: `MCw0YTcwOWE1MzdmYzQ0NzMyMjlmZTVlYWQzZjY2MjA5MTY1OTI4MGRk`
+Snapshot ID: `MCwzM2Y2NWM1N2I1NzExOTUwMzY5ZTJiMWMyMDM0MjkwZDJjNjUwYzI4`

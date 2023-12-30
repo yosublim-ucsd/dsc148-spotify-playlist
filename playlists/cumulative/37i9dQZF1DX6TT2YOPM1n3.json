@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Current Pakistani hits under one roof. Cover: AUR",
+  "description": "Current Pakistani hits under one roof. Cover: Atif Aslam",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -802,6 +802,24 @@
       "duration_ms": 221986,
       "name": "Hona Tha Pyar",
       "url": "https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF"
+    },
+    {
+      "album": {
+        "name": "Humsafar (2011)",
+        "url": "https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH"
+      },
+      "artists": [
+        {
+          "name": "QB",
+          "url": "https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381848,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA"
     },
     {
       "album": {
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 386612,
       "name": "Wo Humsafar Tha - From \"Humsafar\"",
       "url": "https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ"
@@ -2288,6 +2306,28 @@
       "duration_ms": 230640,
       "name": "Yeh Jism",
       "url": "https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU"
+    },
+    {
+      "album": {
+        "name": "Zindagi",
+        "url": "https://open.spotify.com/album/7JE3yjCRu0Uxs1eSVstvu7"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Leo Twins",
+          "url": "https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249810,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/2DaPCl392tphoi2TqslBdG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3"

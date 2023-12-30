@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 37027,
+  "num_followers": 37050,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjcwMTNkMzg1N2IzMzZjMjRiZDgxOWIxNjVmNWNhYmFiZWVhYTM2",
+  "snapshot_id": "MCwxNmIxNWI2NjE3YjZlZGMxOTg3ZmYxZTUzOTY5ZWJkZDIxYjk0NTJj",
   "tracks": [
     {
       "added_at": "2023-11-10 17:37:13",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
       "artists": [
         {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -803,6 +787,22 @@
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 249926,
-      "name": "What Am I",
-      "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+      "duration_ms": 249926,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "duration_ms": 242732,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
-      },
-      "artists": [
-        {
-          "name": "Alfie Sharp",
-          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
-        }
-      ],
-      "duration_ms": 242732,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Kitchen Sunset",
+        "url": "https://open.spotify.com/album/2lXM5RbHeCzQ7z2H17A5JK"
+      },
+      "artists": [
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        },
+        {
+          "name": "David Nuri",
+          "url": "https://open.spotify.com/artist/18PiyiMZ2GmEdIJW0l2rqm"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Kitchen Sunset",
+      "url": "https://open.spotify.com/track/2W4vCfd2QEYhgKA2UNwRch"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Siesta (feat. Emeli Sand\u00e9)",
         "url": "https://open.spotify.com/album/2mLz1qJnElGlzVDpBV8PQI"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 291853,
       "name": "King Midas",
       "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Kitchen Sunset",
-        "url": "https://open.spotify.com/album/2lXM5RbHeCzQ7z2H17A5JK"
-      },
-      "artists": [
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        },
-        {
-          "name": "David Nuri",
-          "url": "https://open.spotify.com/artist/18PiyiMZ2GmEdIJW0l2rqm"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Kitchen Sunset",
-      "url": "https://open.spotify.com/track/2W4vCfd2QEYhgKA2UNwRch"
     },
     {
       "added_at": "2023-11-10 17:37:13",

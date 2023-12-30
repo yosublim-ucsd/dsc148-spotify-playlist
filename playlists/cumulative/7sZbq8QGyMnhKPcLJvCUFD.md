@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-473 songs - 1 day 0 hr 17 min
+475 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 | 2023-04-28 |
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 | 2023-08-10 |
 | [Fata Morgana](https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG) | [Lennart Schroot](https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4) | [Fata Morgana](https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5) | 2:14 | 2022-12-20 | 2023-04-28 |
+| [FAVHELLA](https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Mc Guidanny](https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [FAVHELLA](https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI) | 1:56 | 2023-12-29 |  |
 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 | 2023-08-08 |  |
 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 | 2023-08-08 |  |
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 | 2023-08-10 |
@@ -436,6 +437,7 @@
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2023-05-25 | 2023-08-10 |
 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [Nomeli](https://open.spotify.com/artist/1BUS9imdzOiho5SfNrqjft) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 | 2023-05-02 | 2023-12-14 |
 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 | 2023-12-13 |  |
+| [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 |  |
 | [Vision](https://open.spotify.com/track/1G3sEIZJQpPtsPNTLlWSzs) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Vision](https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96) | 2:25 | 2023-01-13 | 2023-04-28 |
 | [Vision pt\. II](https://open.spotify.com/track/5f9W174NPbE0OiQeo0D5Wx) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Vision pt\. II](https://open.spotify.com/album/42OoezDnLxr1TWxJ36NatW) | 3:28 | 2023-08-08 | 2023-12-14 |
 | [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 | 2023-12-14 |

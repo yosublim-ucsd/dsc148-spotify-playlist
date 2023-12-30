@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Our Picks of 2023 is curated by Roadrunner Records and highlights some of our favorite releases this year
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,744 likes - 39 songs - 2 hr 1 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,740 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-1,218 songs - 3 day 6 hr 26 min
+1,219 songs - 3 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,7 +1057,8 @@
 | [聽不見的愛情](https://open.spotify.com/track/51KUDLINaiFkOTelnkvGke) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [聽不見的愛情](https://open.spotify.com/album/3Re3xj4rs5hgbS4yFJVbwC) | 5:06 | 2022-10-10 |  |
 | [背後的地球](https://open.spotify.com/track/2JH5jkvBMbjFiUVTesYWFP) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [背後的地球](https://open.spotify.com/album/6rX2rWrg3SPE5PJ3M8ZWGc) | 4:52 | 2022-12-26 | 2023-01-10 |
 | [胖起來](https://open.spotify.com/track/4YFcSX86SCmjj0hycxBdoM) | [芒果醬](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN), [黃于恩 溫妮](https://open.spotify.com/artist/1ltKsoaLwfE3DJhrtKUWXJ) | [胖起來](https://open.spotify.com/album/2c13iXwtHdhg8K9cNmeo0q) | 3:40 | 2023-03-06 | 2023-03-21 |
-| [胚胎](https://open.spotify.com/track/31p3SpR8P75SQbhrjXnSnH) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [胚胎](https://open.spotify.com/album/68JJ6HyWa5EPQkJnyLLTmI) | 4:06 | 2023-12-04 |  |
+| [胚胎](https://open.spotify.com/track/0vHEEaOhxeKBDfZCwR9jCp) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [裘德](https://open.spotify.com/album/7rUFCGnoJWN63OkE8GEhG0) | 4:06 | 2023-12-25 |  |
+| [胚胎](https://open.spotify.com/track/31p3SpR8P75SQbhrjXnSnH) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [胚胎](https://open.spotify.com/album/68JJ6HyWa5EPQkJnyLLTmI) | 4:06 | 2023-12-04 | 2023-12-30 |
 | [能不能和我留在台北\(陪我幾天\)](https://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [能不能和我留在台北 \( 陪我幾天 \)](https://open.spotify.com/album/1dJKc7tL64EpUoqEj2f0JB) | 4:03 | 2022-12-26 | 2023-01-10 |
 | [能量觀測中心](https://open.spotify.com/track/16neiOAcplrSyfxIM8ULGy) | [縉 Jin](https://open.spotify.com/artist/6JfXcHzBOntsXu0MojxAXJ) | [能量觀測中心](https://open.spotify.com/album/4SiBJOG1rWj90Nn5hgmUDw) | 3:20 | 2023-06-19 | 2023-10-03 |
 | [腦袋都是你 \- 《HIStory5\-遇見未來的你》LINE TV插曲](https://open.spotify.com/track/5d3W1YWCHNTnZJPSXZ30eP) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [腦袋都是你 \(《HIStory5\-遇見未來的你》LINE TV插曲\)](https://open.spotify.com/album/4QIJXGqhZloU0LEA6lTYNZ) | 3:50 | 2023-02-13 | 2023-11-21 |

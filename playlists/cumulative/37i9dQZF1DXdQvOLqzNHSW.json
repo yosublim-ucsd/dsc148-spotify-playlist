@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "album": {
         "name": "BNR & Balloon",
         "url": "https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl"
       },
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 182189,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
@@ -2062,6 +2080,24 @@
       "duration_ms": 203317,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/3l1QX9fhldeI23AlON5iY3"
+    },
+    {
+      "album": {
+        "name": "spark__space",
+        "url": "https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159962,
+      "name": "collar",
+      "url": "https://open.spotify.com/track/1uSeHCbkm5iMH3qJe0zdK1"
     },
     {
       "album": {
@@ -7548,7 +7584,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 240493,
       "name": "Meet the Frownies",
       "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
@@ -8256,7 +8292,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
@@ -8676,7 +8712,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 117783,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3"
@@ -10066,7 +10102,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
@@ -10196,7 +10232,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 161652,
       "name": "She's Just the Type of Girl",
       "url": "https://open.spotify.com/track/79ri2kyVbP57qMLfNDHI3S"
@@ -10290,6 +10326,24 @@
       "duration_ms": 237521,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np"
+    },
+    {
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/2Ka1MPym74RaVFNrH9QK3n"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203955,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/3aL5ZnB59jfM9Y3XJSICAu"
     },
     {
       "album": {
@@ -10510,7 +10564,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 146571,
       "name": "so be it in my dreams",
       "url": "https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF"
@@ -11330,7 +11384,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 272000,
       "name": "swan hug (feat. jjared)",
       "url": "https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm"
@@ -12310,7 +12364,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 140326,
       "name": "Took One Look",
       "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"

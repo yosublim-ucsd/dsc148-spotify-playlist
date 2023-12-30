@@ -4581,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/1UmqHxFmxP4EzE5QJyQuev"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/3UiHjJKB0hLbOqBA3RJeU9"
+    },
+    {
+      "album": {
         "name": "Bound To Be",
         "url": "https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb"
       },
@@ -5972,6 +5990,24 @@
       "duration_ms": 147134,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
+    },
+    {
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1YT1X4pHlcMZbHuYrgLuRj"
+      },
+      "artists": [
+        {
+          "name": "Bryce Fox",
+          "url": "https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133905,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/0CqxXGyujgwmX0Bfyy7an4"
     },
     {
       "album": {
@@ -7806,6 +7842,24 @@
       "duration_ms": 164887,
       "name": "Dead End Friend",
       "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
+    },
+    {
+      "album": {
+        "name": "Dead of the Night",
+        "url": "https://open.spotify.com/album/3eCyIoBF1SaSxdgPRiDn9u"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Dead of the Night",
+      "url": "https://open.spotify.com/track/4656liaOhNs4kuj88lASid"
     },
     {
       "album": {
@@ -15406,7 +15460,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 131076,
       "name": "I am a Machine",
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
@@ -16154,7 +16208,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 159981,
       "name": "i should call my friends",
       "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
@@ -17687,6 +17741,24 @@
     },
     {
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/6K2gkQStxLFqcOMwlIrfuE"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206476,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2myY52kImPqBTBH8PpAdo7"
+    },
+    {
+      "album": {
         "name": "The Red EP",
         "url": "https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q"
       },
@@ -18458,6 +18530,28 @@
       "duration_ms": 185362,
       "name": "Leading",
       "url": "https://open.spotify.com/track/1hKwgDLMXRMYF5ELuVr6ni"
+    },
+    {
+      "album": {
+        "name": "leave in five (with MisterWives)",
+        "url": "https://open.spotify.com/album/3j5q6hVFznb22ICOJThuTL"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217945,
+      "name": "leave in five",
+      "url": "https://open.spotify.com/track/6MhxEsnxu5rGYGLjVJ7H1i"
     },
     {
       "album": {
@@ -33646,7 +33740,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
@@ -34146,7 +34240,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 120333,
       "name": "Today",
       "url": "https://open.spotify.com/track/5OiIkkbuzSkkJUDCq9EaWP"
@@ -34316,7 +34410,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 213106,
       "name": "Too Close for Comfort",
       "url": "https://open.spotify.com/track/6nrX4aDdUSLgznm6rkQwLv"
@@ -37534,6 +37628,24 @@
       "duration_ms": 172014,
       "name": "Would You Even",
       "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Do the Same",
+        "url": "https://open.spotify.com/album/5dxCW08wpRWlzfCIHZ1p62"
+      },
+      "artists": [
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Wouldn't Do the Same",
+      "url": "https://open.spotify.com/track/38OJkYpHjUYLb6dgAaoCYS"
     },
     {
       "album": {

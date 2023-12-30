@@ -2725,6 +2725,28 @@
     },
     {
       "album": {
+        "name": "Maaye and Company",
+        "url": "https://open.spotify.com/album/1StSx08pHgQQhxI5OC8PZv"
+      },
+      "artists": [
+        {
+          "name": "Vidwan Shankar Shanbog",
+          "url": "https://open.spotify.com/artist/6NhTdAlKjOVEa5K2PjG5ur"
+        },
+        {
+          "name": "Siddarth",
+          "url": "https://open.spotify.com/artist/5FBO9WNnoLsMVhJjLSpKE4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220148,
+      "name": "Bangara Jinke Inde",
+      "url": "https://open.spotify.com/track/46TCLkszjStp1FOkvZr6KH"
+    },
+    {
+      "album": {
         "name": "Bangari (From \"Berklee\")",
         "url": "https://open.spotify.com/album/0HYjxPNdzMyOfhaSncoXnI"
       },
@@ -7277,6 +7299,28 @@
     },
     {
       "album": {
+        "name": "Geleya (From \"Salaar Cease Fire - Kannada\")",
+        "url": "https://open.spotify.com/album/6zLl6aU0S0gX1fK8qxcbcX"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Geleya (From \"Salaar Cease Fire - Kannada\")",
+      "url": "https://open.spotify.com/track/5bbwl8HDP5UO4CHU4DoamL"
+    },
+    {
+      "album": {
         "name": "Madhagaja",
         "url": "https://open.spotify.com/album/4q1pWU4OKvEW5mcRt419VI"
       },
@@ -9660,7 +9704,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 262512,
       "name": "Jahapanah (from \"Sugar Factory\")",
       "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
@@ -10451,7 +10495,7 @@
     },
     {
       "album": {
-        "name": "Kaatera Theme Music (from \"Kaatera\")",
+        "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
         "url": "https://open.spotify.com/album/0Wx7fxuNdWrQDO018q0Kij"
       },
       "artists": [
@@ -10472,7 +10516,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 95604,
-      "name": "Kaatera Theme Music (from \"Kaatera\")",
+      "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/1DYR3AHIgr155IP3QzWkxG"
     },
     {
@@ -15914,7 +15958,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 198939,
       "name": "Nenapina Butthi (from \"Vasanthakalada Hoogalu\")",
       "url": "https://open.spotify.com/track/5MpATkYPz61er1KBPs2xod"
@@ -17220,6 +17264,24 @@
       "duration_ms": 219600,
       "name": "Oh Baby Girl (From \"Circus\")",
       "url": "https://open.spotify.com/track/4xGKbrZU4wUX39KueA6gQo"
+    },
+    {
+      "album": {
+        "name": "Oh Manuja (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/44bNJORYmLvGc8jLKJjvn8"
+      },
+      "artists": [
+        {
+          "name": "Deepak Venugopal",
+          "url": "https://open.spotify.com/artist/3jtUn32g8azXv3aOygJIWv"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197034,
+      "name": "Oh Manuja (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/4CY6goQSAHxsW7E49qGd7Z"
     },
     {
       "album": {
@@ -21432,7 +21494,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 200416,
       "name": "Thandani Thandanino",
       "url": "https://open.spotify.com/track/6gok0id67ERXliiTMqttVP"

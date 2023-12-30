@@ -208,6 +208,24 @@
     {
       "album": {
         "name": "Black Holes",
+        "url": "https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Black Holes (Solid Ground)",
+      "url": "https://open.spotify.com/track/0qPLNGJhvrhuuayoKhTR3B"
+    },
+    {
+      "album": {
+        "name": "Black Holes",
         "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
       },
       "artists": [
@@ -506,7 +524,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 261741,
       "name": "Colors",
       "url": "https://open.spotify.com/track/2BOUrjXoRIo2YHVAyZyXVX"

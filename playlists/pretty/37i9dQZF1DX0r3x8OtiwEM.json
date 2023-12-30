@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 921364,
+  "num_followers": 921913,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTkzNzJjOTBlODcwNTMyYWI4OTQyM2FjZDVjNTg3MDIzMjc0NzIx",
+  "snapshot_id": "MCw5MGJhYzU4ZTZmMDA1OTAzODRkZDNhZWRiNWZmMTc2MmRlNGRlYTI0",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 184040,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
+      "duration_ms": 269752,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 269752,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
+      "duration_ms": 184040,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        }
-      ],
-      "duration_ms": 271508,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "When the Lights Go (Deluxe)",
         "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
         }
       ],
-      "duration_ms": 329670,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+      "duration_ms": 271508,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -923,6 +903,26 @@
       "duration_ms": 205714,
       "name": "Heal My Mind",
       "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "duration_ms": 329670,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2023-11-27 18:33:25",

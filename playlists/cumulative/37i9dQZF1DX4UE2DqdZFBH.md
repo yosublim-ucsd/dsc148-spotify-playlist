@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-115 songs - 9 hr 21 min
+116 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Reach Out](https://open.spotify.com/track/5XTkSCwVY9X0rGrOqxtR3S) | [Tajdar Junaid](https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Reach Out](https://open.spotify.com/album/24dP5sZgOex0EQun8x4ddk) | 3:36 | 2022-06-10 |  |
 | [Rejoicing in Raghuvamsa](https://open.spotify.com/track/6VdHchCHuXKHoM6rz2ovRM) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9) | [IndoSoul \(Looking Within to Look Beyond\)](https://open.spotify.com/album/60buPwAjLPReMTOAeIrX4m) | 4:45 | 2022-06-10 |  |
 | [Rise](https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB) | [The Gap](https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g) | [Moving On](https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo) | 2:53 | 2022-06-10 |  |
-| [Rough and Straight](https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Rough and Straight](https://open.spotify.com/album/4fkvTRzMgyRG3z6PfUpQgU) | 6:13 | 2022-06-10 |  |
+| [Rough and Straight](https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Rough and Straight](https://open.spotify.com/album/4fkvTRzMgyRG3z6PfUpQgU) | 6:13 | 2022-06-10 | 2023-12-30 |
 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 | 2022-06-10 |  |
 | [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 |  |
 | [Shuddh Sarang](https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:23 | 2023-04-19 |  |
@@ -102,6 +102,7 @@
 | [Sonder](https://open.spotify.com/track/5QEHJD6fYLzMHBYMuIE3zh) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5) | [Sonder](https://open.spotify.com/album/1GPA0YRqvXXVNO4YiklJKl) | 3:16 | 2022-06-10 |  |
 | [So…Now Hear This](https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 5:09 | 2022-06-10 | 2023-11-04 |
 | [Space Trip](https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Yadhunandan Nagaraj](https://open.spotify.com/artist/5i1uUQMGXoNSVeNHpT2Zaf), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2) | [Hope](https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA) | 2:14 | 2022-06-10 |  |
+| [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 | 2023-12-28 |  |
 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 |  |
 | [Swan Song](https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9) | [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [Swan Song](https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ) | 4:02 | 2022-06-10 |  |
 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |

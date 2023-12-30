@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9372,
+  "num_followers": 9369,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4N2VjMjQ0ZTFhYzdlODlhMzY3ZTc1ZTBlZmRhZjg2Zjg0YzIw",
+  "snapshot_id": "MCxkZjg0NWQxZTY5MTQyNmE0MTY2OWQ4NjYwNmUzMmU4MGZkYzUxNzA1",
   "tracks": [
     {
       "added_at": "2023-11-15 14:49:16",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "I Hated Myself (Tablo's Word)",
-      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -607,6 +591,46 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "I Hated Myself (Tablo's Word)",
+      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 329487,
+      "name": "NoNo (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -651,30 +675,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Show Me the Money 777 Semi Final",
-        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
-      },
-      "artists": [
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 329487,
-      "name": "NoNo (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 217920,
       "name": "Bathtub (Feat. Whee In, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/6410lt5ieSLvkczCmltXnc"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -747,6 +727,26 @@
       "duration_ms": 246400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-11-15 14:49:16",

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-562 songs - 1 day 13 hr 56 min
+563 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,8 @@
 | [夢が僕らの太陽さ](https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:26 | 2022-06-14 | 2022-07-09 |
 | [夢よりも早くこの恋が覚めても](https://open.spotify.com/track/6vUCeKFR6Kb1AGODIT7yYL) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [あじゅじゅと夜と音楽と](https://open.spotify.com/album/2wC9ZGJSE7IwWJZjLd1Tqb) | 3:42 | 2022-06-09 | 2022-07-28 |
 | [夢を信じて / with 塩谷哲](https://open.spotify.com/track/4OH6Ykq4Lp2Bvpa4BVW1V7) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [塩谷哲](https://open.spotify.com/artist/1Q2teQhFRl3cL5a590DvKB) | [夢を信じて / with 塩谷哲](https://open.spotify.com/album/3VpNvVmCSeMiR0CBNsO349) | 4:17 | 2023-05-16 | 2023-06-09 |
-| [大大大大大好きな君へ♡](https://open.spotify.com/track/4tWEjnu8wb58t8Do4iWVzj) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3tsN6ioIH52vw6ObxJJRPs) | 3:47 | 2023-10-17 |  |
+| [大大大大大好きな君へ♡](https://open.spotify.com/track/0aCtWsyjzuSKjHZR4qKer3) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3VA9TKeduA0dbJ59JVU1Bz) | 3:47 | 2023-12-28 |  |
+| [大大大大大好きな君へ♡](https://open.spotify.com/track/4tWEjnu8wb58t8Do4iWVzj) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3tsN6ioIH52vw6ObxJJRPs) | 3:47 | 2023-10-17 | 2023-12-30 |
 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 | 2023-07-05 |
 | [好きになってはいけない理由](https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [好きになってはいけない理由](https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry) | 4:40 | 2023-10-03 | 2023-10-05 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 |  |

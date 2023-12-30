@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-179 songs - 13 hr 1 min
+180 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 | 2020-08-31 | 2023-07-29 |
 | [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 |  |
 | [Broken Things \- Acoustic](https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:08 | 2020-08-31 |  |
+| [Brother](https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Brother](https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU) | 3:58 | 2023-07-28 |  |
 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 | 2020-08-31 |  |
 | [Charmed](https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Charmed](https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc) | 3:33 | 2023-07-28 |  |
 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 | 2023-07-28 |  |
@@ -149,7 +150,7 @@
 | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo) | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh) | 4:04 | 2020-08-31 |  |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2023-07-28 |  |
 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 | 2020-08-31 |  |
-| [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 |  |
+| [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 | 2023-12-30 |
 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 | 2020-08-31 |  |
 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 | 2020-08-31 | 2022-07-24 |
 | [Thank God I Do](https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Thank God I Do](https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ) | 2:49 | 2023-07-28 |  |

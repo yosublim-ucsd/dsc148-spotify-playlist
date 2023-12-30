@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 151562,
       "name": "Bb Simon$",
       "url": "https://open.spotify.com/track/7mC3yedRbAHl7XyVPiQGlH"
@@ -8293,6 +8293,24 @@
     },
     {
       "album": {
+        "name": "Um Pequeno \u00c1lbum de Natal",
+        "url": "https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Eu Fumei a \u00c1rvore de Natal",
+      "url": "https://open.spotify.com/track/52hZ6Mr4vJawAwSQucW67R"
+    },
+    {
+      "album": {
         "name": "Eu j\u00e1 me vi",
         "url": "https://open.spotify.com/album/5QN345qS310NSgX1ovzqRH"
       },
@@ -12493,6 +12511,36 @@
     },
     {
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lenda",
+      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
+    },
+    {
+      "album": {
         "name": "Lendas",
         "url": "https://open.spotify.com/album/285U3Ge4LWoqdQPBN4ICY7"
       },
@@ -14332,7 +14380,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 183941,
       "name": "Megatron - Feat. Raffa Moreira",
       "url": "https://open.spotify.com/track/4UN7uguq2M4zepJYz7iaVN"
@@ -18246,6 +18294,28 @@
       "duration_ms": 144000,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/0LZEygupU3Dztp6S5zjQLF"
+    },
+    {
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/6J4Svp79B7Zl3W26JqNh4E"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/2yYhGpWhYOL1uZ7o7Rsbbt"
     },
     {
       "album": {
@@ -23966,7 +24036,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 174000,
       "name": "Ta Bom",
       "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
@@ -25098,7 +25168,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 152727,
       "name": "TREM SEM FREIO",
       "url": "https://open.spotify.com/track/6i1wx26bkqOjCN2fVhd8O6"

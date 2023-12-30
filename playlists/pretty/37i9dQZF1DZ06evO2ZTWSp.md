@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,258 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,205 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 41 | [Crybaby](https://open.spotify.com/track/1FeKkh024mTeLJwI3jiCSe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:55 |
 | 42 | [YDLM](https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [High Times For Low Lives](https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f) | 3:12 |
 | 43 | [Deep](https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:14 |
-| 44 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
-| 45 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
+| 44 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
+| 45 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
 | 46 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 |
 | 47 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 |
 | 48 | [Humanize](https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:30 |
 | 49 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
 | 50 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
-| 51 | [Lizzie Borden](https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 2:37 |
 
-Snapshot ID: `MjgzOTMxNTcsMDAwMDAwMDAzYWNjNGI1ZmVlNjhmN2NkYjllZTM2NWU5ODgzNDg5Yw==`
+Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA1ZjJlYWYyNGNlMWVlYjA4N2UzMmNlM2I2NWQ0M2JkNQ==`

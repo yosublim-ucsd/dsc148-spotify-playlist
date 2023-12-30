@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-144 songs - 16 hr 20 min
+145 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Sufi Medley](https://open.spotify.com/track/5B8LDzUQokG5X9zS9PphtB) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Sufi Kalaam](https://open.spotify.com/album/4ifFmYqbwRSbYuswAg0gax) | 8:10 | 2022-06-21 | 2022-10-25 |
 | [Sufi Medley](https://open.spotify.com/track/5NnRYBrDpYLvoBHaR3KMPQ) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Sufi Medley](https://open.spotify.com/album/7qMlaMJNlHUJjpRLQfj3L6) | 8:10 | 2022-08-02 |  |
 | [Sufiya](https://open.spotify.com/track/1bS7VhyB4SkkwumTBSGZpH) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Sufiya](https://open.spotify.com/album/7KOxaD21vaDTeqRC7qGV4i) | 3:58 | 2022-08-02 |  |
-| [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-06-21 |  |
+| [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 | 2023-11-17 |  |
+| [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-06-21 | 2023-12-30 |
 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 | 2022-08-02 |  |
 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 | 2022-08-02 |  |
 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 | 2022-06-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 35796,
+  "num_followers": 35838,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2JmNDM2NDE1NTgyOGVjZDJjZDg2YTAwZjZkYWI3YjJhOWM3NDg0",
+  "snapshot_id": "MCw1ZGU5NWIzNzU1ZjFjZDNiMmNmZWUyNWZjMDVjMWFmNDg3MGYzYWQw",
   "tracks": [
     {
       "added_at": "2023-11-23 02:53:45",
@@ -148,12 +148,12 @@
           "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
           "name": "Eva de Marce",
           "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
         }
       ],
       "duration_ms": 324556,
@@ -297,20 +297,24 @@
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+        "name": "Otun",
+        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 168755,
-      "name": "Ta Que Tiembla",
-      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+      "duration_ms": 263225,
+      "name": "Solo Quiero (feat. Pedrina)",
+      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -377,24 +381,20 @@
       "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Otun",
-        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 263225,
-      "name": "Solo Quiero (feat. Pedrina)",
-      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
+      "duration_ms": 168755,
+      "name": "Ta Que Tiembla",
+      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "La Matanza",
@@ -511,22 +527,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "EP II",
-        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 223482,
-      "name": "T\u00e1rtaro",
-      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
       "added_at": "2023-05-26 18:30:42",
@@ -621,24 +621,24 @@
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
         },
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -661,24 +661,24 @@
       "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
       },
       "artists": [
         {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         },
         {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -717,6 +717,26 @@
       "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
       "added_at": "2023-09-25 00:03:53",
       "album": {
         "name": "Caribbean All-Inclusive Luxury",
@@ -739,26 +759,6 @@
       "duration_ms": 182001,
       "name": "Masa",
       "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -817,20 +817,20 @@
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -953,24 +953,28 @@
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Amores Pasajeros",
-        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Iusef",
+          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
         }
       ],
-      "duration_ms": 145062,
-      "name": "Real Luv",
-      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
+      "duration_ms": 206590,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1023,30 +1027,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sal de Mar",
-        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Iusef",
-          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
-        }
-      ],
-      "duration_ms": 206590,
-      "name": "Sal de Mar",
-      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Los Estimados",
         "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
       },
@@ -1061,24 +1041,24 @@
       "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
     },
     {
-      "added_at": "2023-08-15 18:22:19",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "La Marea",
-        "url": "https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk"
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
       },
       "artists": [
         {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         },
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
         }
       ],
-      "duration_ms": 196165,
-      "name": "La Marea",
-      "url": "https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV"
+      "duration_ms": 145062,
+      "name": "Real Luv",
+      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1099,22 +1079,6 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1139,6 +1103,22 @@
     {
       "added_at": "2023-12-07 01:08:32",
       "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
         "name": "Isla Disco",
         "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 214363,
       "name": "Mayag\u00fcez",
       "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
+    },
+    {
+      "added_at": "2023-08-15 18:22:19",
+      "album": {
+        "name": "La Marea",
+        "url": "https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "La Marea",
+      "url": "https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "City of Mirrors",
-        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Glorieta",
-      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Poco a Poco (Remix)",
         "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 177099,
       "name": "Poco a Poco - Remix",
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "City of Mirrors",
+        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Glorieta",
+      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
     },
     {
       "added_at": "2023-05-05 23:46:53",

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 69678,
+  "num_followers": 69804,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU1N2M0NDNmYTljM2YzM2FjYTg4NGE1Yzc3ZDY2ODYzN2Y5NzI5",
+  "snapshot_id": "MCw5NmZiNjM0YTVmZGVkZDVmMTNhZWY5ODM1MDk5NzkxOTk2ODI2N2Jh",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -179,22 +179,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
+        "name": "Noches de Soledad",
+        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
       },
       "artists": [
         {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
         }
       ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
+      "duration_ms": 218920,
+      "name": "Noches de Soledad",
+      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -215,18 +211,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Noches de Soledad",
-        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Santiago Cardona",
-          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
+        },
+        {
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Noches de Soledad",
-      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Ya Se Tardaron",
         "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 175652,
       "name": "Ya Se Tardaron",
       "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
       },
@@ -755,26 +771,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
       },
@@ -799,6 +795,26 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "El Tabano",
         "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
       },
@@ -815,8 +831,8 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+        "name": "Generaci\u00f3n Tribal",
+        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
       },
       "artists": [
         {
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+      "duration_ms": 148786,
+      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
+      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Afroguaracha",
-        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
-      },
-      "artists": [
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Afroguaracha",
-      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
     }
   ],
   "unique_name": "Fiesta Tribal",

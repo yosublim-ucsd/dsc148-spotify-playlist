@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > na sua opinião, qual foi a trend do ano????
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,960 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,790 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 2 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 3 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Hits Forró](https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
+| 3 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Hits Forró](https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
 | 4 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 | 5 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 |
 | 6 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 69 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 70 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw5NTlmYjFlNDVhNzZjMDhmNTk4NTdhMWYzZGRhNjc1MDJiYzIzMDNl`
+Snapshot ID: `MCxhNzE3OTU2ODA4ZGMyNWI2YzZkNjIwMDM0NGNmYzdiZGYwZmMzNmZl`

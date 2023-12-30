@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 209469,
+  "num_followers": 209883,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzYxODFhMGY2ZGYyY2E3ZWNmOWNhYTllYzBiN2Q5NTM0ODYwMGMz",
+  "snapshot_id": "MCwxNjVmNGY2MTg3M2E2YjczMzVlNDZlODAzOGY0YThiOTVjMzJlZDY0",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "The Dino Soars",
+        "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+      },
+      "artists": [
+        {
+          "name": "Stegosaurus Rex",
+          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "LET ME SEE YA MOVE!",
         "url": "https://open.spotify.com/album/1qKJSTBYWQMuN4efzNuY2e"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "The Dino Soars",
-        "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
-      },
-      "artists": [
-        {
-          "name": "Stegosaurus Rex",
-          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Music for Awkward Dates",
-        "url": "https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk"
-      },
-      "artists": [
-        {
-          "name": "strxwberrymilk",
-          "url": "https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1"
-        }
-      ],
-      "duration_ms": 186257,
-      "name": "My Head Hurts",
-      "url": "https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Computer Afterlife",
         "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 86428,
       "name": "Implanted Memories",
       "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Music for Awkward Dates",
+        "url": "https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk"
+      },
+      "artists": [
+        {
+          "name": "strxwberrymilk",
+          "url": "https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1"
+        }
+      ],
+      "duration_ms": 186257,
+      "name": "My Head Hurts",
+      "url": "https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE"
     },
     {
       "added_at": "2023-08-03 17:54:32",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
+        "name": "carepackage",
+        "url": "https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN"
       },
       "artists": [
         {
-          "name": "Zock",
-          "url": "https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP"
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
         }
       ],
-      "duration_ms": 96414,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
+      "duration_ms": 92000,
+      "name": "tadpoles lullaby",
+      "url": "https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "carepackage",
-        "url": "https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN"
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
       },
       "artists": [
         {
-          "name": "galen tipton",
-          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+          "name": "Zock",
+          "url": "https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP"
         }
       ],
-      "duration_ms": 92000,
-      "name": "tadpoles lullaby",
-      "url": "https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT"
+      "duration_ms": 96414,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Somoku Hodo",
-        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Doku",
-      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Missed Kiss",
         "url": "https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 202135,
       "name": "Missed Kiss",
       "url": "https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
     },
     {
       "added_at": "2023-07-18 20:06:10",

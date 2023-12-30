@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Hi Nanna (TELUGU)",
+        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Gaaju Bomma",
+      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
+    },
+    {
+      "album": {
         "name": "Agnyaathavaasi",
         "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 294947,
       "name": "Kanulanu Thaake",
       "url": "https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 240070,
       "name": "Ninnele",
       "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 245760,
       "name": "Ramuloo Ramulaa",
       "url": "https://open.spotify.com/track/3qWfqpB8KJFxwvbpqbuLCh"

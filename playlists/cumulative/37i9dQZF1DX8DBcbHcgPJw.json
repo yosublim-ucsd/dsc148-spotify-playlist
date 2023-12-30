@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/7m4Ad25ivKiWXuSRh50T1G"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125257,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/0ZicqbVRJBG71sAGgc77s8"
+    },
+    {
+      "album": {
         "name": "El Show (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/6ixStXWEa5EK8ZLJF5dOM2"
       },
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 194269,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG"
@@ -6090,7 +6108,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
@@ -6700,6 +6718,36 @@
       "duration_ms": 145054,
       "name": "Quiero Creer",
       "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
+    },
+    {
+      "album": {
+        "name": "Quiero Verte Bailar (Remix)",
+        "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
+      },
+      "artists": [
+        {
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
+        },
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        },
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Quiero Verte Bailar (Remix)",
+      "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
     },
     {
       "album": {
@@ -7694,7 +7742,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 161410,
       "name": "Te Escapas De Mis Brazos",
       "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
@@ -8852,6 +8900,28 @@
       "duration_ms": 156893,
       "name": "Verano 2024",
       "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
+    },
+    {
+      "album": {
+        "name": "Verano Pasado",
+        "url": "https://open.spotify.com/album/3j39q5ziL55KvJn7onGy3c"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Verano Pasado",
+      "url": "https://open.spotify.com/track/7Jin5x96XaXowvaqixYBWw"
     },
     {
       "album": {

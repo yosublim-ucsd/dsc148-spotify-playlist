@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: okgiorgio",
-  "num_followers": 865548,
+  "num_followers": 865773,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjlhNWZkNTg2YjYzMTBjYzExOGE2MTBkMWRhNTNiNzdhNGMzMDA0",
+  "snapshot_id": "MCxiYjExYmFkNjhkOTg0NDg3MWNhN2MwNmViNGM3ZWVhOTZkN2NhYzE4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -63,22 +63,6 @@
       "duration_ms": 130285,
       "name": "Peace In Silence",
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Teenage Crime",
-        "url": "https://open.spotify.com/album/5w2hW6PibJ7ZXU3cQ2dcGN"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 192282,
-      "name": "Teenage Crime",
-      "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -141,24 +125,60 @@
       "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "JOY (Push The Button)",
-        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         },
         {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
         }
       ],
-      "duration_ms": 235198,
-      "name": "JOY (Push The Button)",
-      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Look At Me Dance",
+        "url": "https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        }
+      ],
+      "duration_ms": 185697,
+      "name": "Look At Me Dance",
+      "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "okokokokok",
+        "url": "https://open.spotify.com/album/225bRLDL6ZSHL8O5x2wp3k"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "okokokokok",
+      "url": "https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -177,20 +197,36 @@
       "url": "https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "okokokokok",
-        "url": "https://open.spotify.com/album/225bRLDL6ZSHL8O5x2wp3k"
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/5w2hW6PibJ7ZXU3cQ2dcGN"
       },
       "artists": [
         {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
         }
       ],
-      "duration_ms": 173486,
-      "name": "okokokokok",
-      "url": "https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9"
+      "duration_ms": 192282,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -281,42 +317,6 @@
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Look At Me Dance",
-        "url": "https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        },
-        {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        }
-      ],
-      "duration_ms": 185697,
-      "name": "Look At Me Dance",
-      "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "JOY (In Me All The Time)",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi"
     },
     {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "If You Love Her (Fellini F\u00e9lin Remix)",
+        "url": "https://open.spotify.com/album/1IPCfsV5r44lyfjZGgJAf8"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        },
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "If You Love Her - Fellini F\u00e9lin Remix",
+      "url": "https://open.spotify.com/track/4ayhn2zWzj5U0rExzktQgY"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "see u",
@@ -389,20 +409,24 @@
       "url": "https://open.spotify.com/track/0jpccS5tRQYLrOQmSKXT1Z"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "PUSHER",
-        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
+        "name": "License To Vibe",
+        "url": "https://open.spotify.com/album/2Cex1GrBGPH0FYIVq42Hlb"
       },
       "artists": [
         {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+          "name": "Tiger & Woods",
+          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
+        },
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/4ZVw63ejqta34L7Q3bRrpa"
         }
       ],
-      "duration_ms": 240000,
-      "name": "BLINDED",
-      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
+      "duration_ms": 196523,
+      "name": "License To Vibe",
+      "url": "https://open.spotify.com/track/2WUMcdNtVMYtyCnBcQps3t"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -423,6 +447,22 @@
       "duration_ms": 162445,
       "name": "Cash",
       "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "PUSHER",
+        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -495,6 +535,62 @@
       "duration_ms": 136000,
       "name": "deep in the water",
       "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
+    },
+    {
+      "added_at": "2023-11-24 17:16:34",
+      "album": {
+        "name": "Babychan",
+        "url": "https://open.spotify.com/album/5lHO8YkIlsuUDUhgTZcZG8"
+      },
+      "artists": [
+        {
+          "name": "Aili",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Babychan",
+      "url": "https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Feel No Pain",
+        "url": "https://open.spotify.com/album/03LjuNpUOqZvse2xQevGyd"
+      },
+      "artists": [
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        },
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "duration_ms": 238727,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/1WKqaB0S6VUsRuZah3Exk5"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -659,26 +755,6 @@
       "duration_ms": 238684,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "If You Love Her (Fellini F\u00e9lin Remix)",
-        "url": "https://open.spotify.com/album/1IPCfsV5r44lyfjZGgJAf8"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        },
-        {
-          "name": "Fellini F\u00e9lin",
-          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "If You Love Her - Fellini F\u00e9lin Remix",
-      "url": "https://open.spotify.com/track/4ayhn2zWzj5U0rExzktQgY"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1121,22 +1197,6 @@
       "url": "https://open.spotify.com/track/25y8mFqpFmhHTma6f0LEW1"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Chamallow",
-      "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Chroma Panorama",
@@ -1195,22 +1255,6 @@
       "duration_ms": 150585,
       "name": "POV",
       "url": "https://open.spotify.com/track/1bxJH1Dxulu6MQOed6zukD"
-    },
-    {
-      "added_at": "2023-11-24 17:16:34",
-      "album": {
-        "name": "Babychan",
-        "url": "https://open.spotify.com/album/5lHO8YkIlsuUDUhgTZcZG8"
-      },
-      "artists": [
-        {
-          "name": "Aili",
-          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Babychan",
-      "url": "https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1337,22 +1381,6 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Indigo Jack",
-        "url": "https://open.spotify.com/album/3wdYd1iZDlAH4wXNz9VPoK"
-      },
-      "artists": [
-        {
-          "name": "Huron John",
-          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
-        }
-      ],
-      "duration_ms": 172311,
-      "name": "3D PICTURES",
-      "url": "https://open.spotify.com/track/6pDMpZkD5slXJgJAWfiSqv"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "It's All a Bit Fuzzy",
@@ -1471,26 +1499,6 @@
       "duration_ms": 215158,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/1ykt4FccCEkspnAP8G5544"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-10-06 04:00:00",

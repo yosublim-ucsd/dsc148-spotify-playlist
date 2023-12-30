@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-110 songs - 6 hr 47 min
+111 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Grana](https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Fonomix](https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL) | 2:37 | 2023-09-08 |  |
 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 | 2023-09-08 |  |
 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 | 2023-09-08 |  |
+| [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 | 2023-12-15 |  |
 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 | 2023-09-08 |  |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-09-08 |  |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-09-08 | 2023-11-25 |
@@ -110,7 +111,7 @@
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 |  |
 | [Vamo a Darle](https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Vamo a Darle](https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT) | 4:18 | 2023-09-08 |  |
 | [Viuda Negra](https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [SAETA](https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y) | 3:18 | 2023-09-08 |  |
-| [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 | 2023-09-08 |  |
+| [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 | 2023-09-08 | 2023-12-30 |
 | [Volver](https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 3:28 | 2023-09-08 |  |
 | [Volver A Empezar](https://open.spotify.com/track/2x4iEvdZuTYNbIVGXeOrlY) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bellas Artes Malas Vidas](https://open.spotify.com/album/6nQnNie5sdURxPiMW9cp0Y) | 3:56 | 2023-10-26 |  |
 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 | 2023-09-08 |  |

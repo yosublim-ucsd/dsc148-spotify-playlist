@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 595571,
+  "num_followers": 595722,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh",
+  "snapshot_id": "MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
         }
       ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
       "artists": [
         {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 242826,
       "name": "Gitara",
       "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "tila tala",
-        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
-      },
-      "artists": [
-        {
-          "name": "syd hartha",
-          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
-        }
-      ],
-      "duration_ms": 281296,
-      "name": "tila tala",
-      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
@@ -423,6 +407,42 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "tila tala",
+        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
+      },
+      "artists": [
+        {
+          "name": "syd hartha",
+          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
+        }
+      ],
+      "duration_ms": 281296,
+      "name": "tila tala",
+      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 267759,
+      "name": "Kung 'Di Rin Lang Ikaw",
+      "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
@@ -435,6 +455,22 @@
       "duration_ms": 196582,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -475,26 +511,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        },
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 267759,
-      "name": "Kung 'Di Rin Lang Ikaw",
-      "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Popcorn",
         "url": "https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 264202,
       "name": "Torete",
       "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "o ninanais",
-        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 252214,
-      "name": "o ninanais",
-      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -555,6 +571,22 @@
       "duration_ms": 347120,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Michael Pangilinan",
+        "url": "https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk"
+      },
+      "artists": [
+        {
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+        }
+      ],
+      "duration_ms": 245586,
+      "name": "Bakit Ba Ikaw",
+      "url": "https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -579,18 +611,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Michael Pangilinan",
-        "url": "https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk"
+        "name": "Versions & Beyond",
+        "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
       },
       "artists": [
         {
-          "name": "Michael Pangilinan",
-          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
         }
       ],
-      "duration_ms": 245586,
-      "name": "Bakit Ba Ikaw",
-      "url": "https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq"
+      "duration_ms": 223013,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -619,22 +651,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Versions & Beyond",
-        "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
-      },
-      "artists": [
-        {
-          "name": "MYMP",
-          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Oks Lang",
         "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 336369,
       "name": "Oks Lang",
       "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
-      },
-      "artists": [
-        {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 282094,
+      "name": "Kahit Di Mo Alam",
+      "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Ang Aking Awitin",
         "url": "https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 212840,
       "name": "Ngiti",
       "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 282094,
-      "name": "Kahit Di Mo Alam",
-      "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
     },
     {
       "added_at": "2023-12-08 07:32:26",

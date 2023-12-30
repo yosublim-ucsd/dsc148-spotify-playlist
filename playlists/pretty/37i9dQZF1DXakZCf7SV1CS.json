@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 70947,
+  "num_followers": 71153,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3",
+  "snapshot_id": "MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -811,8 +811,8 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -927,8 +927,8 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2023-06-20 14:29:14",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "hot_babe_93",
+        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Be Your USA",
         "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 173000,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "hot_babe_93",
-        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 248976,
+      "name": "Hot Pink",
+      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 122153,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 248976,
-      "name": "Hot Pink",
-      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
     }
   ],
   "unique_name": "Hyperpop Classics",

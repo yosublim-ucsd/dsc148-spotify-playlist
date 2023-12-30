@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 26605,
+  "num_followers": 26683,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjVjYmNjMzQ3MWY4NTFkODU2YjVlNTIwNGFmN2QyOGE5ODdjOGU3",
+  "snapshot_id": "MCxjMTM2OGM1YjBjN2JjODAyZGI0Y2Q0MWQ3ZmQwM2FkMjg5NTc3NDI4",
   "tracks": [
     {
       "added_at": "2023-12-22 00:30:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-22 00:30:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
-    },
-    {
-      "added_at": "2023-12-22 00:30:00",
-      "album": {
         "name": "Summers",
         "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 248366,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6iFmLbyDLJxe9TFum9ofug"
+    },
+    {
+      "added_at": "2023-12-22 00:30:00",
+      "album": {
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     },
     {
       "added_at": "2023-12-22 00:30:00",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-12-22 00:30:00",
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         }
       ],
-      "duration_ms": 171700,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     }
   ],
   "unique_name": "Sound Semester ",

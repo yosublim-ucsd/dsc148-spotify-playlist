@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,798,051 likes - 99 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,798,533 likes - 99 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
-| 2 | [Bent \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/1haa8GXT0cl9wzRnpZG0YH) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 2:51 |
-| 3 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 |
-| 4 | [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 |
-| 5 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
+| 1 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 |
+| 2 | [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 |
+| 3 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
+| 4 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
+| 5 | [Bent \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/1haa8GXT0cl9wzRnpZG0YH) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 2:51 |
 | 6 | [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 |
 | 7 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 8 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Changes](https://open.spotify.com/track/4yKv2cx4TcIE0wiiu6Mwix) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Changes](https://open.spotify.com/album/25fFITkCpLiZOySKwXon54) | 3:20 |
 | 99 | [Play](https://open.spotify.com/track/6jltKC6iC1uscqcG8uJ7sw) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Play](https://open.spotify.com/album/0omwsxPVHZZY3A3lsqO7v0) | 2:15 |
 
-Snapshot ID: `MCxjMjY1NzVkZGNhMjNjZTY1OTAzMWM0YjVkMzdjMDc3NzM1ZDE5MDAx`
+Snapshot ID: `MCw5NGNhZmMwOWUwZjAxZDlhY2ZjMzhlZTRhNWExYTBiMDczZDY3NGZl`

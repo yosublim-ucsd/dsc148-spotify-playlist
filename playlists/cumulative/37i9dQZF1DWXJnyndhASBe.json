@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Asster, Kabe",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Blacha 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1431,6 +1431,40 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3xIz8LmpwBvEvuYI8GloqE"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        },
+        {
+          "name": "Phatrax",
+          "url": "https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187354,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/3E5NDdjSmwz3gi9EirADkz"
+    },
+    {
+      "album": {
         "name": "No face, no case",
         "url": "https://open.spotify.com/album/57VakzCvXkEhK80LcSelXB"
       },
@@ -1516,6 +1550,24 @@
       "duration_ms": 164571,
       "name": "JESTE\u015a POJ384NA",
       "url": "https://open.spotify.com/track/5f4h482eo40VoHJAX5rLYz"
+    },
+    {
+      "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208188,
+      "name": "JOEY TRIBBIANI",
+      "url": "https://open.spotify.com/track/5fLvitH2z3igxp5haldJhc"
     },
     {
       "album": {
@@ -1920,7 +1972,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 158181,
       "name": "Mamy ci\u0119\u017cko",
       "url": "https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9"
@@ -2226,7 +2278,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 184000,
       "name": "NIC DO STRACENIA",
       "url": "https://open.spotify.com/track/3nv37ifhZAxyTBj4mEInrI"
@@ -2390,7 +2442,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 183151,
       "name": "OPIUM!",
       "url": "https://open.spotify.com/track/7ip4YylQWTrnvazpkii4RW"
@@ -2416,7 +2468,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166336,
       "name": "Ostatnia prosta",
       "url": "https://open.spotify.com/track/6ItSElxz7augDffJSl8hHX"
@@ -2704,6 +2756,28 @@
       "duration_ms": 132000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6jkv6KmJE7UES9ohRonubH"
+    },
+    {
+      "album": {
+        "name": "Rolly",
+        "url": "https://open.spotify.com/album/1Yond5KCOeMaRSmw1ZZq0Q"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Rolly",
+      "url": "https://open.spotify.com/track/4NGn7ZjI1Ex9ZjcbOa6KNt"
     },
     {
       "album": {
@@ -3414,6 +3488,24 @@
       "duration_ms": 146666,
       "name": "w aucie noc i 90bpm",
       "url": "https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG"
+    },
+    {
+      "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "W KRAJU SCHABOWYCH KOTLET\u00d3W",
+      "url": "https://open.spotify.com/track/2r0tCQsTvEwkKEcZ9pYwZt"
     },
     {
       "album": {

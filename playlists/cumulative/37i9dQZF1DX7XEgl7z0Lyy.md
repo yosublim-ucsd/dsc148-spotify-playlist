@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-153 songs - 5 hr 17 min
+155 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 | 2023-07-21 | 2023-09-02 |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-08 |  |
 | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/album/35WsRcsKXK9VkwgWrLs2Is) | 2:25 | 2023-10-06 |  |
+| [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 | 2023-12-27 |  |
 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 | 2023-12-08 |  |
 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 | 2023-07-21 |  |
 | [iSSUE](https://open.spotify.com/track/3sGgq1Lqig56CQagEPz66T) | [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4), [lostrushi](https://open.spotify.com/artist/5Q2SPodgRF5DgI5Vs8y0Ve) | [iSSUE](https://open.spotify.com/album/0bj9tQpxckNFKsGzCWUWhO) | 1:05 | 2023-07-21 | 2023-07-29 |
@@ -98,6 +99,7 @@
 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 | 2023-09-22 |  |
 | [melancholy](https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra) | 2:02 | 2023-09-15 | 2023-10-12 |
 | [Melody and bars \- Remix](https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS), [Ezerkel](https://open.spotify.com/artist/02RtI2MmZwPgDqbFp6cC23), [6inxk](https://open.spotify.com/artist/5Cb3fZehN0o8sKUJcZL82S), [Khnife](https://open.spotify.com/artist/53SmayiyXKMINPttpyiRp1) | [Melody and bars \(Remix\)](https://open.spotify.com/album/1UG6ymTSsOPFM0pwH4yxYV) | 3:07 | 2023-08-25 | 2023-09-30 |
+| [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2023-12-28 |  |
 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2023-08-18 |  |
 | [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-07-21 | 2023-11-21 |

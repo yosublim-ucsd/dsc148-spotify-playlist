@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,166 likes - 54 songs - 2 hr 58 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,203 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 52 | [Play It Cool](https://open.spotify.com/track/3AUbzUkd6WtADkQhPkv6Y5) | [Markus Martinez](https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0), [DØSHI](https://open.spotify.com/artist/6Qq7ljz7f3hMO8uWDIDcuS) | [Play It Cool](https://open.spotify.com/album/4v7WCGOjx96P2QwLDeCn74) | 2:39 |
 | 53 | [THE GROOVY BUNNY](https://open.spotify.com/track/4BeQxgJbRl6aki4jYj0kvx) | [Tidis](https://open.spotify.com/artist/382RN83tXiZzt5v4hbvFN7) | [THE GROOVY BUNNY](https://open.spotify.com/album/5FdbXAHOTV3h1LDvYsqDgy) | 5:01 |
 | 54 | [No Cap \- Streaming Edit](https://open.spotify.com/track/5qQbAlcb6X3GDfY6NUHSkm) | [Flo.Von](https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV), [GiddiBangBang](https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF) | [No Cap](https://open.spotify.com/album/4WOoTq5JnSnqOLGAqpMrFX) | 3:30 |
+| 55 | [Barbarian](https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Barbarian](https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n) | 3:25 |
+| 56 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
+| 57 | [Get Ya](https://open.spotify.com/track/0FbgqLyPjvXOKC3xgPLnfl) | [Paccu](https://open.spotify.com/artist/2QZVFemr8vSLsSYPVYJSp3) | [Get Ya](https://open.spotify.com/album/6923eOyKdPkuAoMrTZXAgk) | 2:02 |
+| 58 | [Coqueteah \- Streaming Edit](https://open.spotify.com/track/25fL5edDFXGKqIOloY6ZQj) | [Tony Metric](https://open.spotify.com/artist/3jNo8kSqxXoHTiMUuLWG8O) | [Embobaa](https://open.spotify.com/album/3LYVfPRW585YUPHkV6CNib) | 3:26 |
 
-Snapshot ID: `ODE3MywwMzlmNzc3N2VjODk3MzkzODM1ZjJlZDFmYzhlNGIzMDBhZTdiNDg2`
+Snapshot ID: `ODE3Nyw4MjJiNjliOGQ1ZWE1ZWFhZTY0ZTg2NGFjZTJkNjJlYjQxMmVhM2Nh`

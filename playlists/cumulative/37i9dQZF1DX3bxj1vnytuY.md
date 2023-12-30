@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-242 songs - 1 day 0 hr 9 min
+243 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Kshama](https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Kshama](https://open.spotify.com/album/6uZ3d8tWQJQgmaTgoxdHy5) | 5:20 | 2022-04-13 | 2023-04-21 |
 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 | 2023-03-08 |  |
 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
+| [L3ar](https://open.spotify.com/track/1K8N2LASR0Nkox4mB2tqEM) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [HARMAK](https://open.spotify.com/artist/1CZuy5Dcxgtysh7ggzCRuL), [Sekou Percu](https://open.spotify.com/artist/5F8KxwgKB3laVADr5fsg0a) | [L3ar](https://open.spotify.com/album/0fKc7dd70dl1Xwu4Wf6sp4) | 6:39 | 2023-12-28 |  |
 | [Latlal \- Hyenah Remix](https://open.spotify.com/track/4zFwlzD1d4XJcelTfhpbgr) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 6:53 | 2023-04-07 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-12-04 |  |
 | [Lima](https://open.spotify.com/track/2ilC4aW81hmv8S1xd3DNcm) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Lima](https://open.spotify.com/album/794vccfp05jLVlOB3Pw7pI) | 3:32 | 2022-04-13 | 2022-09-09 |
@@ -145,7 +146,7 @@
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-03-07 |  |
 | [Malawi](https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU) | 4:43 | 2023-10-23 |  |
 | [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 | 2023-03-09 | 2023-11-05 |
-| [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 |  |
+| [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 | 2023-12-30 |
 | [Maneyama](https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneyama](https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L) | 4:40 | 2023-09-03 |  |
 | [Mathura](https://open.spotify.com/track/6LgavHPcUhWatD4vXcdeOb) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Mathura](https://open.spotify.com/album/6D77LAeB7DSHY3Tgq0hcPn) | 2:48 | 2023-05-18 |  |
 | [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 | 2022-12-15 | 2023-11-08 |

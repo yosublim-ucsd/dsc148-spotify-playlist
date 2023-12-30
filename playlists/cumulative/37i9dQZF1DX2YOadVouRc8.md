@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-344 songs - 17 hr 5 min
+345 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Streets](https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Streets](https://open.spotify.com/album/1goCePe21K8C2PtUJ5ylFa) | 2:46 | 2022-06-09 | 2023-03-04 |
 | [Stuck \(Your Heart\)](https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Stuck \(Your Heart\)](https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O) | 4:10 | 2023-03-10 | 2023-04-28 |
 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 | 2022-09-30 | 2023-03-18 |
-| [SUJIE](https://open.spotify.com/track/3k7Ux0T0Amaj2dulDphT5u) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:55 | 2023-12-22 |  |
+| [SUJIE](https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:55 | 2023-12-22 |  |
+| [SUJIE](https://open.spotify.com/track/3k7Ux0T0Amaj2dulDphT5u) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:55 | 2023-12-22 | 2023-12-30 |
 | [Suma](https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM) | [Samuel G](https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF) | [Suma](https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8) | 3:01 | 2023-04-21 | 2023-05-30 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |

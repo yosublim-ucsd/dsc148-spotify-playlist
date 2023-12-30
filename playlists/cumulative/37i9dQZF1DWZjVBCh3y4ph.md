@@ -4,7 +4,7 @@
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-74 songs - 3 hr 57 min
+75 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2023-09-28 |  |
 | [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 |  |
 | [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
-| [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 |  |
+| [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 | 2023-12-30 |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
 | [Je veux ton coeur](https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc) | [Teety](https://open.spotify.com/artist/6HeLKMKnHapbFxCOFppEF9) | [Je veux ton coeur \(Audio\)](https://open.spotify.com/album/3KzcVgfho9IgIo24nqWtVt) | 3:37 | 2023-09-28 | 2023-10-06 |
 | [Jessica \(Island Remix\)](https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(Island Remix\)](https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8) | 2:51 | 2023-10-26 | 2023-12-01 |
@@ -80,6 +80,7 @@
 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 | 2023-11-30 |  |
 | [Vini](https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Vini](https://open.spotify.com/album/0pLVrFf6Dim0z2IV84q02w) | 3:21 | 2023-10-19 | 2023-12-01 |
 | [Visa](https://open.spotify.com/track/5DBZASQQb9BjZeYyjuA1WG) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Visa](https://open.spotify.com/album/0SAjOy3Wii7Tet7MIA7Sia) | 3:41 | 2023-09-28 |  |
+| [Vivre ou Pardonner](https://open.spotify.com/track/5JMZ9ZTlkTRTH9jsL0sNlF) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Gwins](https://open.spotify.com/artist/6LTbAfj4mFbQGuw2o08rVc) | [Vivre ou Pardonner](https://open.spotify.com/album/34ms9IhHgVIiiTvWLDkbRg) | 3:02 | 2023-12-28 |  |
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 |  |
 

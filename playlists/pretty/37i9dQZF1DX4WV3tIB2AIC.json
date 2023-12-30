@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best gaming tracks of the year. Cover: ericdoa",
-  "num_followers": 11593,
+  "num_followers": 11835,
   "original_name": "Top Gaming Tracks of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWQ1NWExMjQxZDhkNWU4MWJiZDBhYmIzZDVkNWEwZTY2OGE1MjVl",
+  "snapshot_id": "MCw2YjllMjA0ZDY2YTRjZmE1MGQzNWM2ZTZhMzFlNTk1NTRmY2FlNWU2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -371,42 +371,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 145970,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "I Know (PR1SVX Edit)",
-        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "PR1ISVX",
-          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "I Know - PR1SVX Edit",
-      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
       },
@@ -431,6 +395,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "I Know (PR1SVX Edit)",
+        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "PR1ISVX",
+          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
+        }
+      ],
+      "duration_ms": 133829,
+      "name": "I Know - PR1SVX Edit",
+      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 145970,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "HOPE",
-      "url": "https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
-        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 166464,
-      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
-      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -635,6 +615,26 @@
       "duration_ms": 180933,
       "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
       "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
+        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 166464,
+      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
+      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "POPTHATRUNK",
+        "url": "https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "POPTHATRUNK",
+      "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 188575,
       "name": "Voices (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "POPTHATRUNK",
-        "url": "https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "POPTHATRUNK",
-      "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
     },
     {
       "added_at": "2023-11-29 12:16:00",

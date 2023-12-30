@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-499 songs - 1 day 4 hr 41 min
+501 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [After](https://open.spotify.com/track/0TLoVayT4L0wK8XqSJmcnN) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [Summer23](https://open.spotify.com/album/0bFEzvjsasoFJt9OBJVeC0) | 4:11 | 2023-10-20 |  |
 | [Ain't Hard To Tell](https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 3:11 | 2023-11-16 |  |
 | [Airborne Panic Attack](https://open.spotify.com/track/14TdZYBmuK8aKl9yTAQ9ud) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Airborne Panic Attack](https://open.spotify.com/album/5FdmmdyUz9j9B4sE3iRZ1v) | 3:14 | 2021-12-16 | 2022-03-25 |
+| [Airtight](https://open.spotify.com/track/4K6yWMsfaor0KqsHjsyzUU) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Underground](https://open.spotify.com/album/6DCsASmSr8YQvz3LPLF5Zw) | 1:53 | 2023-12-29 |  |
 | [All Dressed Up For Nothing](https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys \- EP](https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s) | 3:46 | 2022-09-30 | 2022-11-12 |
 | [All I Ever Wanted Was A Chance To Know Myself \(feat\. Max Bemis\)](https://open.spotify.com/track/3P80Qhd1KG6puSSY9va4de) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj), [Max Bemis](https://open.spotify.com/artist/2yX0YULtA4uv8x649DFekZ) | [All I Ever Wanted Was A Chance To Know Myself \(feat\. Max Bemis\)](https://open.spotify.com/album/2T7GVxIF8HYpZ2cwUIlkeP) | 3:43 | 2023-08-25 |  |
 | [All of the Best](https://open.spotify.com/track/5fjUtCqF6fy1r597IX1y7t) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [All of the Best](https://open.spotify.com/album/6QVraQbSZHo4S7XtEV6092) | 3:07 | 2021-12-16 | 2022-03-25 |
@@ -149,6 +150,7 @@
 | [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-07-20 | 2023-10-14 |
 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-21 | 2023-06-29 |
 | [Eyes Won't See](https://open.spotify.com/track/1pyypCHNVxC3Ju8LUMfm4z) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [The Great Suffering](https://open.spotify.com/album/0faVxGhKDgCeekHyOyrEuq) | 2:06 | 2023-02-24 | 2023-04-09 |
+| [Facade](https://open.spotify.com/track/0LOWGAqGt7dqnYOQzQqEJP) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [I Didn't Mean To Make It This Far](https://open.spotify.com/album/1zCG65ywBOBezPyY0epCQK) | 3:49 | 2023-12-29 |  |
 | [Face Down](https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [I Want](https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0) | 3:23 | 2022-09-06 | 2023-04-15 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 | 2023-10-14 |
 | [Failing Grace](https://open.spotify.com/track/2VTmB41ZgW8Ecm8rZ7YBqc) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Failing Grace](https://open.spotify.com/album/37qxbuMJrd8bMDfCPuoUY0) | 3:03 | 2022-10-28 | 2023-03-03 |
@@ -193,7 +195,7 @@
 | [Grow](https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Grow](https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S) | 3:47 | 2023-03-10 | 2023-06-17 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
 | [Half Nelson](https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Half Nelson](https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb) | 3:11 | 2023-10-13 | 2023-11-11 |
-| [Half Zombie](https://open.spotify.com/track/1a5LKQKoIfQcVualRfj3Tl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Half Zombie](https://open.spotify.com/album/6Kzgomzh4R4LqBRoCRlNIU) | 3:06 | 2023-12-14 |  |
+| [Half Zombie](https://open.spotify.com/track/1a5LKQKoIfQcVualRfj3Tl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Half Zombie](https://open.spotify.com/album/6Kzgomzh4R4LqBRoCRlNIU) | 3:06 | 2023-12-14 | 2023-12-30 |
 | [Halley](https://open.spotify.com/track/5Hqumcun0UcSFX8HvqSXQD) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Split](https://open.spotify.com/album/2WvEGTkP8WlvsPitQUlFQ8) | 4:04 | 2023-10-13 |  |
 | [Happy In Town](https://open.spotify.com/track/5L48Q15bVzwtpffvEMbUQW) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Vs\. The Moths…College Sessions 2001](https://open.spotify.com/album/3J5aHKE557cEKYng7szNHD) | 3:39 | 2022-10-28 | 2022-11-26 |
 | [Happy To Hide](https://open.spotify.com/track/7gr8noh4FDWKIYKqrLtGZy) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Happy To Hide](https://open.spotify.com/album/0WYjlydqLUcluHPRh0xKiO) | 3:02 | 2023-12-20 |  |
@@ -268,7 +270,7 @@
 | [Lights Out](https://open.spotify.com/track/0DlW7YgEY7s5qgdmAzcvdj) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 2:53 | 2023-07-28 | 2023-11-24 |
 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 | 2022-03-31 | 2022-09-07 |
 | [Little Miss Innocent](https://open.spotify.com/track/12IZSgW7o6fR37QUIfBA1A) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Here's To Being Alive](https://open.spotify.com/album/7yuj8y6ZPVxQUTMJoRRggq) | 2:48 | 2022-03-24 | 2022-09-07 |
-| [Long Way](https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Long Way](https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K) | 3:26 | 2023-10-20 |  |
+| [Long Way](https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Long Way](https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K) | 3:26 | 2023-10-20 | 2023-12-30 |
 | [Lost Without You](https://open.spotify.com/track/1CGXfTg13n4ffV2pSVqnkW) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [I Don't Belong Anywhere](https://open.spotify.com/album/2tg6crJ0g14sgA9qDLpRT3) | 3:51 | 2022-10-14 | 2023-03-11 |
 | [Lucky](https://open.spotify.com/track/2khr0Gm7Aa6x5IyWx8VDF9) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/3t4tuSnXX509RXzNABMHHm) | 4:03 | 2022-05-26 | 2022-07-01 |
 | [Luddite](https://open.spotify.com/track/0BTLSHxSjeA7UAQ9sTxXXz) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Luddite](https://open.spotify.com/album/0ux250DqqYVJwQ3jJTqG8N) | 4:01 | 2023-03-02 | 2023-05-27 |
@@ -358,7 +360,7 @@
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 | 2022-09-07 |
 | [Recovery](https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7) | [SPICE](https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM) | [Viv](https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba) | 3:08 | 2022-10-21 | 2023-03-11 |
 | [Rejoice](https://open.spotify.com/track/2mnZWMlT3qedh1c5rhbA1t) | [Dull Mourning](https://open.spotify.com/artist/2j8vT8beMEewV4f0lWa2ew) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 2:59 | 2022-09-06 | 2023-02-18 |
-| [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-08-25 | 2023-12-15 |
+| [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-08-25 |  |
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 | 2022-10-15 |
 | [Right There With You](https://open.spotify.com/track/2oHAFre5AkwfcNemSKMb5V) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:40 | 2023-02-24 | 2023-04-09 |
 | [Right There With You](https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:40 | 2023-04-07 | 2023-06-10 |
@@ -501,7 +503,7 @@
 | [Woohoo](https://open.spotify.com/track/10nd0tq8g3fFpCM4hkgHFR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:44 | 2022-11-11 | 2023-02-03 |
 | [Words of Love](https://open.spotify.com/track/0dhg4pXHwcMw6OY6c1SESI) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [Words of Love](https://open.spotify.com/album/6d8qdVb81VvEc6XPWrdNgP) | 3:53 | 2023-02-02 | 2023-05-13 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/6Ggg9AKfFQpmIDHFv49y1r) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Yeah Yeah Yeah](https://open.spotify.com/album/17J3qSTLNBHWzwUFPwizZX) | 3:07 | 2021-12-16 | 2022-01-14 |
-| [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-09-29 |  |
+| [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-09-29 | 2023-12-30 |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-07-28 | 2023-10-06 |
 | [Your Favourite Blade](https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 4:34 | 2022-02-17 | 2022-09-07 |
 | [Your Time](https://open.spotify.com/track/0RZAJxJwAoix2UtHi69yt5) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Your Time](https://open.spotify.com/album/1ZTr59SbSjkrs6VdXEA9Mt) | 3:10 | 2023-10-13 | 2023-11-11 |

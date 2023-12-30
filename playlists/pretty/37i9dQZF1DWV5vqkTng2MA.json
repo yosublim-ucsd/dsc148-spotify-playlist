@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 378288,
+  "num_followers": 378438,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZjNWRmNzA2NjE1MjcxMGVjOGZmOWI5YTZkZThlNTU1ZDBmODhk",
+  "snapshot_id": "MCxmMzE5NDQ5MzUwOWIyZmUyODlkOGI3ZGIyMjlmYTg2ZDU0NDEwYjUy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 254853,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
       "artists": [
         {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 254853,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 299719,
       "name": "Sugaree",
       "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Allen Stone",
-        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Allen Stone",
+        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "More Photographs (A Continuum)",
         "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
       },
@@ -1035,70 +1035,6 @@
       "duration_ms": 176053,
       "name": "This Is A Photograph II",
       "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Manic Revelations",
-        "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Riot In The Streets",
-      "url": "https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1135,6 +1071,70 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Manic Revelations",
+        "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Riot In The Streets",
+      "url": "https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "All My Shades Of Blue",
         "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alexander",
-        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Bad Bad Love",
-      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Alexander",
+        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Bad Bad Love",
+      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Muse",
         "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 202401,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 217680,
       "name": "I Don't Care About You",
       "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2023-09-15 04:00:00",

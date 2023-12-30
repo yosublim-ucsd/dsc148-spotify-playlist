@@ -2,7 +2,7 @@
 
 ### [Asadito Cumbiero](https://open.spotify.com/playlist/37i9dQZF1DWUyLwMSMFLA4)
 
-> ¡Asadito a pura cumbia y cuarteto!
+> ¡Asadito a pura cumbia con toques de cuarteto!
 
 149 songs - 9 hr 4 min
 

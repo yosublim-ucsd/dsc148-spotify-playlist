@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 162665,
       "name": "AYE",
       "url": "https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 139428,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/4zlPjYdpcAtadh9ZJpSag2"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 287028,
       "name": "Christ is Reason - Live",
       "url": "https://open.spotify.com/track/7eoK6tdL9l3399hjj7HkF9"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 164864,
       "name": "Come",
       "url": "https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb"
@@ -1714,6 +1714,28 @@
       "duration_ms": 157980,
       "name": "Comfort and Joy",
       "url": "https://open.spotify.com/track/0CydbzErDvlNPsRfm3bpTV"
+    },
+    {
+      "album": {
+        "name": "Comforter",
+        "url": "https://open.spotify.com/album/3MrIE1Ryy1cVhKwYVmypVf"
+      },
+      "artists": [
+        {
+          "name": "JoeKings",
+          "url": "https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR"
+        },
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162638,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/5Ammc0BznxFdYJ9VXioZUz"
     },
     {
       "album": {
@@ -2243,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Dear Father",
+        "url": "https://open.spotify.com/album/7jgfofC2vd6zmvCjD8gRzU"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136056,
+      "name": "Dear Father",
+      "url": "https://open.spotify.com/track/3sgLZ9XrLCR2RBDxzfI3rm"
+    },
+    {
+      "album": {
         "name": "Denge",
         "url": "https://open.spotify.com/album/3wpEqEKKmus12vXRY4NggY"
       },
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155218,
       "name": "Do You Know Jesus?",
       "url": "https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y"
@@ -2450,7 +2490,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 153780,
       "name": "Doh Doh Doh",
       "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
@@ -2638,7 +2678,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 222566,
       "name": "E Get Why",
       "url": "https://open.spotify.com/track/03WOBTOsKgiyebmNTHXX1w"
@@ -2678,7 +2718,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 175255,
       "name": "EBUBEDIKE",
       "url": "https://open.spotify.com/track/4PO63DTjskwJ0uss1o3UPq"
@@ -3048,7 +3088,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 176379,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
@@ -3172,7 +3212,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 191584,
       "name": "Fall my hand",
       "url": "https://open.spotify.com/track/26XsykNb04PVOljNt0ancu"
@@ -3414,6 +3454,32 @@
       "duration_ms": 160549,
       "name": "Fire on the Mountain",
       "url": "https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "album": {
@@ -3678,7 +3744,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 158999,
       "name": "Formula 1",
       "url": "https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK"
@@ -3766,7 +3832,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185782,
       "name": "Friday",
       "url": "https://open.spotify.com/track/6XrKk0ENod8h5oK47TohYg"
@@ -4408,7 +4474,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
@@ -5712,7 +5778,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 216666,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
@@ -6370,7 +6436,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 173015,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd"
@@ -6432,7 +6498,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 157000,
       "name": "Man on a Mission",
       "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
@@ -6652,7 +6718,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182400,
       "name": "Mercy (All My Days)",
       "url": "https://open.spotify.com/track/2oigCnQtcssHbowb4I0yqA"
@@ -6974,7 +7040,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
@@ -7242,7 +7308,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 156700,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/4r6L21WEKpgji0k3062hQR"
@@ -7264,7 +7330,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 174500,
       "name": "My Race",
       "url": "https://open.spotify.com/track/3avHchHg8ik9FzU5nqoFVd"
@@ -7588,7 +7654,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 149203,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/5Jf1U7ne9nukbiu3cvJ15B"
@@ -7900,7 +7966,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 165957,
       "name": "Omo No Worries",
       "url": "https://open.spotify.com/track/1HBFnEA6GamUYm7N87ORMO"
@@ -8036,7 +8102,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 192051,
       "name": "On My Side - Remix",
       "url": "https://open.spotify.com/track/36wdiBQwjv3z30mcwhNxxY"
@@ -8624,7 +8690,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 143999,
       "name": "Provider",
       "url": "https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388"
@@ -8756,7 +8822,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 133333,
       "name": "Real",
       "url": "https://open.spotify.com/track/1HCNR9ew8WunsxuoFp0SJ4"
@@ -9074,7 +9140,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 150877,
       "name": "Salem",
       "url": "https://open.spotify.com/track/7CD0HthTp42ZoopBcfNa1O"
@@ -9432,7 +9498,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 202080,
       "name": "Speak In Tongues",
       "url": "https://open.spotify.com/track/0eaY230Y03z4AI2OApMFgn"
@@ -9616,7 +9682,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 177876,
       "name": "Super Power",
       "url": "https://open.spotify.com/track/6k7JRza34ciOuj9it3BFSl"
@@ -9734,7 +9800,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 207992,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5"
@@ -10260,7 +10326,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 210718,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq"
@@ -10716,7 +10782,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
@@ -10800,7 +10866,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 129000,
       "name": "Working In Me",
       "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
@@ -11268,7 +11334,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 209539,
       "name": "Your Name Is Higher",
       "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"

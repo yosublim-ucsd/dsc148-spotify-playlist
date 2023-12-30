@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: ZAZEN BOYS
 
-899 songs - 2 day 11 hr 46 min
+900 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [fake drama](https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [saigoni nokorumono](https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ) | 3:47 | 2023-10-03 | 2023-10-11 |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-06-09 | 2022-06-12 |
 | [FALLING](https://open.spotify.com/track/7ms5u8VD4iHQLjRGh73IRG) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [FALLING](https://open.spotify.com/album/39CHUE0HBfOR5d65BPD6Pv) | 5:22 | 2022-05-10 | 2022-05-18 |
-| [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 | 2023-02-21 |  |
+| [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 | 2023-02-21 | 2023-12-30 |
 | [Feel Alive](https://open.spotify.com/track/6P0ZFKD6ovXnpJ8fOTzuRB) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [Feel Alive](https://open.spotify.com/album/5vbFIeNWKOdJaIC4JtgtG8) | 4:20 | 2022-05-12 | 2022-07-27 |
 | [Feel bad](https://open.spotify.com/track/2Plic6QHr74DA4XCnsJZ9R) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Feel bad](https://open.spotify.com/album/00dCuHlzXdSO61DbhQpBkF) | 3:59 | 2022-05-17 | 2022-06-12 |
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-06-15 |
@@ -452,6 +452,7 @@
 | [STAND!](https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [STAND!](https://open.spotify.com/album/3s5s6siW3yev2bVIZV4HU9) | 3:32 | 2022-05-17 | 2022-05-25 |
 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 | 2023-09-21 |  |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-01-01 |
+| [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-26 |  |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-10 | 2023-05-10 |
 | [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-07-29 |
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 | 2023-01-18 |

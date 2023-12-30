@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,044 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,267 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 40 | [Pedidos e Velas](https://open.spotify.com/track/5EvqdOrap1RfnlskPFtEkS) | [José Jr](https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6), [Fellipe Fernandes](https://open.spotify.com/artist/2wKQKNWN20Z93kGoyZyOd8) | [Pedidos e Velas](https://open.spotify.com/album/0DQI5QSC2O7X1jIH5SsJFR) | 3:40 |
 | 41 | [Filho \(Ao Vivo\)](https://open.spotify.com/track/7fg7zQsN02eHx6a5Rtoqeg) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/6TZCdezXorhDWvwKyJTxck) | 3:59 |
 | 42 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 |
-| 43 | [Que Todos Sejam Um \- Ao Vivo](https://open.spotify.com/track/1Ivb6O5iMhNrrWvm68YBxI) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5) | [Que Todos Sejam um \(Ao Vivo\)](https://open.spotify.com/album/1pfvtq4V0EAMhDR0gNfg7X) | 4:07 |
+| 43 | [Que Todos Sejam Um \- Ao Vivo](https://open.spotify.com/track/1Ivb6O5iMhNrrWvm68YBxI) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5) | [Que Todos Sejam Um \(Ao Vivo\)](https://open.spotify.com/album/1pfvtq4V0EAMhDR0gNfg7X) | 4:07 |
 | 44 | [Todos os Minutos](https://open.spotify.com/track/52oNVPYabIjHhcQ64DG3JR) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Todos os Minutos](https://open.spotify.com/album/14GBGJKuAH3kJoEoXvki2C) | 6:07 |
 | 45 | [Estás Entre Nós \(Tu És Minha Vida\)](https://open.spotify.com/track/4LTylm1ZtsbvqxZ6ESSXtt) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Estás Entre Nós \(Tu És Minha Vida\)](https://open.spotify.com/album/6X8utlD7oRfBR0lZ6Bz6LD) | 3:56 |
 | 46 | [Ele É Exaltado](https://open.spotify.com/track/7HRQlP02DVx6b2p63jJjC8) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Shekinah Worship Band](https://open.spotify.com/artist/5sDe64W2Ux5wGR8SMbc6gr) | [Ele É Exaltado](https://open.spotify.com/album/042YrCmmnc3OA8sf2tJjEb) | 6:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 79 | [Deus Menino](https://open.spotify.com/track/1oupbI5PfV8ReaHgyutZPM) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Deus Menino](https://open.spotify.com/album/2MuXwUizTRZglqb33JEL2o) | 4:40 |
 | 80 | [A Guerra Pertence a Ti \- Ao Vivo](https://open.spotify.com/track/3VTZKAvDSIQnLFGw7VtZuE) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Thalison Iuri](https://open.spotify.com/artist/2oM36NIyYASmMTQ3Z4EkD6) | [A Guerra Pertence a Ti \(Ao Vivo\)](https://open.spotify.com/album/4iRPMGizdWxoLAnFOotEB5) | 6:23 |
 
-Snapshot ID: `MCw2NjQ5MjQwZGRlNzM4MGRjM2M0NzQ4YTFjNjg5NThhNDkwMzM1YTMy`
+Snapshot ID: `MCwzNGRhNGJiYjlhZWY0OTMzOTg5OWFiZWFkZmJmNWVhMmFhZjk5YTZh`

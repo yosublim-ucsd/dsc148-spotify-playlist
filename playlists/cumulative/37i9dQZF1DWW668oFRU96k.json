@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 180960,
       "name": "54 Hours",
       "url": "https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 193124,
       "name": "Another Minute",
       "url": "https://open.spotify.com/track/4NrI7NKikhlOt9Hxa3sR0T"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 159360,
       "name": "Broken Hearted",
       "url": "https://open.spotify.com/track/1DWG77sh5FBbsDU9WBywuw"
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 134000,
       "name": "FEEL (feat. REWEL)",
       "url": "https://open.spotify.com/track/4BC7VcrszMhGHpM5eKEJOH"
@@ -4262,6 +4262,32 @@
       "duration_ms": 148050,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/1knslzDZzJBenrYwb76USr"
+    },
+    {
+      "album": {
+        "name": "Feel It Coming",
+        "url": "https://open.spotify.com/album/6NWKhb4Kjsb7vG5d996y4c"
+      },
+      "artists": [
+        {
+          "name": "He\u0245ven",
+          "url": "https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU"
+        },
+        {
+          "name": "Jakob Dreams",
+          "url": "https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz"
+        },
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Feel It Coming",
+      "url": "https://open.spotify.com/track/21IoGPoLq9kDAa613Obl7T"
     },
     {
       "album": {
@@ -6337,6 +6363,28 @@
     },
     {
       "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
+      },
+      "artists": [
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        },
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168937,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
+    },
+    {
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/21V3q9UH4Wg7W2XSg3blKq"
       },
@@ -7942,7 +7990,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 196092,
       "name": "Little Bit Yours",
       "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
@@ -8030,7 +8078,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 132386,
       "name": "Loca Loca",
       "url": "https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK"
@@ -8328,7 +8376,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 162545,
       "name": "Love Burns Out",
       "url": "https://open.spotify.com/track/50CkqXnP2JV3SC8EYb7hzM"
@@ -8420,7 +8468,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166451,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE"
@@ -10191,6 +10239,28 @@
     },
     {
       "album": {
+        "name": "Off Ways",
+        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180816,
+      "name": "Off Ways",
+      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
+    },
+    {
+      "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
@@ -11268,7 +11338,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 156923,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
@@ -13186,7 +13256,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 206767,
       "name": "Stargirl",
       "url": "https://open.spotify.com/track/5qtk1PMlaGz8NXROTon7Jt"
@@ -13920,7 +13990,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 162857,
       "name": "Tell Me You Love Me",
       "url": "https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH"
@@ -14034,7 +14104,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 187500,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/3sy2qxqhxJUybhCPcOhhwL"
@@ -14266,6 +14336,28 @@
       "duration_ms": 160629,
       "name": "The Siuuu",
       "url": "https://open.spotify.com/track/6wKrDgA0S2g4Te5b2Xh35c"
+    },
+    {
+      "album": {
+        "name": "Sekora in Retrospect 2023",
+        "url": "https://open.spotify.com/album/30SXd2dFPvAQlhwegnoaTD"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f8a",
+          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
+        },
+        {
+          "name": "Light Below",
+          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/4RapVMLCr6o0pz9I3ACPs1"
     },
     {
       "album": {
@@ -14504,7 +14596,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 147310,
       "name": "Time Machine (with MSPUIYI)",
       "url": "https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA"
@@ -14716,7 +14808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 186766,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/3haw41LeHrxaBjX8JzbOM9"
@@ -14804,6 +14896,36 @@
       "duration_ms": 215629,
       "name": "Uler Engkol",
       "url": "https://open.spotify.com/track/24cQGI2xCIRDr9yoF3wxuB"
+    },
+    {
+      "album": {
+        "name": "Under Your Spine",
+        "url": "https://open.spotify.com/album/6njDdUYRQNZKArxJiVlr6F"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Khainz",
+          "url": "https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX"
+        },
+        {
+          "name": "HEREON",
+          "url": "https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr"
+        },
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201657,
+      "name": "Under Your Spine",
+      "url": "https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid"
     },
     {
       "album": {
@@ -14928,7 +15050,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 196849,
       "name": "Us ft. ERNEST",
       "url": "https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q"

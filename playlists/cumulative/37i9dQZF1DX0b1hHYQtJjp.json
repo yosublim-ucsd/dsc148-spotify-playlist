@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Bad Feeling (Oompa Loompa)",
+        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133754,
+      "name": "Bad Feeling (Oompa Loompa)",
+      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -2233,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
+    },
+    {
+      "album": {
         "name": "Being Together",
         "url": "https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E"
       },
@@ -2748,7 +2784,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 189156,
       "name": "Bigger Than The Song",
       "url": "https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8"
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -6400,7 +6436,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 211657,
       "name": "Expensive (with Pentatonix)",
       "url": "https://open.spotify.com/track/59n5wNazV1fJarSwIZnPtf"
@@ -10746,7 +10782,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
@@ -11717,6 +11753,24 @@
     },
     {
       "album": {
+        "name": "Japanese Cafe",
+        "url": "https://open.spotify.com/album/1fXTNCdCXszXaKvPW1PhO4"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Japanese Cafe",
+      "url": "https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo"
       },
@@ -12256,7 +12310,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -14122,7 +14176,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 194772,
       "name": "Loved",
       "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
@@ -14938,7 +14992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 223100,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
@@ -21476,7 +21530,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 217905,
       "name": "THANK YOU",
       "url": "https://open.spotify.com/track/1frWSE3IFAXFUuFK9mqbjG"

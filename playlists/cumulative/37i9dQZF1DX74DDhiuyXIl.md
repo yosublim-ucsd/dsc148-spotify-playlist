@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-363 songs - 1 day 2 hr 10 min
+364 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [同.情](https://open.spotify.com/track/2nQ3JmUlwRdnkt6pRwOrpC) | [黃靖倫](https://open.spotify.com/artist/511uHEaNtVZFirzh4Q46d8) | [同.情](https://open.spotify.com/album/5LU2xEOtIM2ZdAmvOyyWXs) | 4:34 | 2022-11-29 | 2022-12-06 |
 | [向海而生](https://open.spotify.com/track/1lchFWRwWzvJvfgLhrio9F) | [陳楚生](https://open.spotify.com/artist/0IMkw0VaxHpS2AV23qlO9v) | [向海而生](https://open.spotify.com/album/54O2EBGNazC121OHw4iQeB) | 4:12 | 2023-11-13 | 2023-11-21 |
 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 | 2023-10-02 |  |
-| [唯一 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [唯一](https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v) | 4:41 | 2023-06-26 |  |
+| [唯一 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [唯一](https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v) | 4:41 | 2023-06-26 | 2023-12-30 |
 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-06-06 | 2022-07-28 |
 | [唯一的理由](https://open.spotify.com/track/6s5dcaEHYQ17iugGONCIkd) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi), [Judy Chou](https://open.spotify.com/artist/0TEuJoFCfA5zd9YQlwRk44) | [唯一的理由](https://open.spotify.com/album/1u21DSFACuRh2kGvymY0qI) | 3:18 | 2022-06-06 | 2022-07-22 |
 | [唯愛 \(劇集《七時吉祥》燃愛主題曲\)](https://open.spotify.com/track/2rKPlSH0u775wNadl5cIQy) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [唯愛](https://open.spotify.com/album/6NGEMgCXv3Ou8fthBMNhyb) | 3:20 | 2023-08-28 |  |
@@ -363,6 +363,7 @@
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2022-06-06 | 2022-07-29 |
 | [開往初戀的平行線](https://open.spotify.com/track/4QawTA1kfkh1LZxSLZPlfR) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [開往初戀的平行線](https://open.spotify.com/album/6nXyQqkXikmKGtBsMlyTti) | 4:24 | 2023-10-23 | 2023-11-06 |
 | [陨落·2023](https://open.spotify.com/track/7KHuvkL01uS3AdJm6sVHQ1) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [陨落·2023](https://open.spotify.com/album/3wPy9OowE0eecRp5GUp9KT) | 3:40 | 2023-09-18 | 2023-09-28 |
+| [陪你去流浪](https://open.spotify.com/track/36G5RaJA3nctN4dJFDSB48) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [塵](https://open.spotify.com/album/0m6CjTolvhN5IJKL4O6yAQ) | 4:34 | 2023-12-25 |  |
 | [陪你去流浪](https://open.spotify.com/track/4IOIy3ihQZ14jn5QI95aSr) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [陪你去流浪](https://open.spotify.com/album/73PTJANpjZF87s0lgOezSw) | 4:34 | 2022-06-06 | 2022-07-28 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2022-06-06 |  |
 | [願你快樂與我有關](https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [願你快樂與我有關](https://open.spotify.com/album/3xCLdIClUjgRSH2Brke9OP) | 3:47 | 2022-06-13 | 2022-07-29 |

@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 242792,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
@@ -5282,7 +5282,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
@@ -6108,6 +6108,24 @@
       "duration_ms": 273766,
       "name": "Etude of Adolescence",
       "url": "https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk"
+    },
+    {
+      "album": {
+        "name": "Euphoria Running Away",
+        "url": "https://open.spotify.com/album/3HASLyktJimnf5va4hG4uz"
+      },
+      "artists": [
+        {
+          "name": "BURNABLE/UNBURNABLE",
+          "url": "https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189448,
+      "name": "Euphoria Running Away",
+      "url": "https://open.spotify.com/track/3Aeqnm5tMc1mqRlrnkkmAK"
     },
     {
       "album": {
@@ -18457,6 +18475,24 @@
     },
     {
       "album": {
+        "name": "The Flower of Love",
+        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Starry Silent Night",
+      "url": "https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA"
+    },
+    {
+      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/7q2dZD6S2UQTrxbEIuztL0"
       },
@@ -19870,7 +19906,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 199117,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
@@ -23858,7 +23894,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 383613,
       "name": "\u3046\u308c\u3057\u304f\u3066",
       "url": "https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1"
@@ -34434,7 +34470,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 190066,
       "name": "\u661f\u5bc2\u591c",
       "url": "https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0"
@@ -36483,6 +36519,24 @@
     },
     {
       "album": {
+        "name": "\u7802\u4e0a\u306e\u57ce",
+        "url": "https://open.spotify.com/album/1x8ZPonj5b37bGHpZGjLNm"
+      },
+      "artists": [
+        {
+          "name": "tsukinimade",
+          "url": "https://open.spotify.com/artist/0w63rlk3xuufiSJfwJoTio"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222930,
+      "name": "\u7802\u4e0a\u306e\u57ce",
+      "url": "https://open.spotify.com/track/3HWYCBHGcremRUquEznuA9"
+    },
+    {
+      "album": {
         "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
         "url": "https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud"
       },
@@ -37963,6 +38017,24 @@
     },
     {
       "album": {
+        "name": "\u8e0a\u308a\u5834\u306e\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/0KyhovBbuSDaZckWIuJwEP"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209082,
+      "name": "\u8e0a\u308a\u5834\u306e\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2moXvLn60P2tXJ0iKK6Lia"
+    },
+    {
+      "album": {
         "name": "\u8e0a\u308a\u5b50",
         "url": "https://open.spotify.com/album/1OXJFRvbiQz9mcgWtQguUK"
       },
@@ -38032,7 +38104,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 189448,
       "name": "\u9003\u3052\u308b\u30e6\u30fc\u30d5\u30a9\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0Y8hbc72ws3W1FYQO5SGHG"

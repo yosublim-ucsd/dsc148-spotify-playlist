@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
-  "num_followers": 179510,
+  "num_followers": 179597,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQ1YmIwY2JkMWZiNmUyMjBkYzFmMWJkYzJiMWZhNDg1YTRiODVh",
+  "snapshot_id": "MCw5OTZmNzM5MTVmNzgwYmMyZjMxZTdmNWI2MWE1ODZmMDEwNDliMDUx",
   "tracks": [
     {
       "added_at": "2023-12-23 00:03:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Laberintos Entre Aristas Y Dialectos",
         "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 273013,
       "name": "A Veces Vuelvo - Acustico",
       "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 246858,
-      "name": "Tan Solo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
       },
       "artists": [
         {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1207,18 +1223,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1259,42 +1279,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 243185,
       "name": "Pitada",
       "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "De Musica Ligera",
         "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 174096,
       "name": "De Musica Ligera",
       "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Oma",
-        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Oma",
-      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+        "name": "Oma",
+        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+      "duration_ms": 198405,
+      "name": "Oma",
+      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1603,6 +1587,22 @@
       "duration_ms": 203805,
       "name": "Bajo el Sol",
       "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "AWCH (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1699,6 +1683,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

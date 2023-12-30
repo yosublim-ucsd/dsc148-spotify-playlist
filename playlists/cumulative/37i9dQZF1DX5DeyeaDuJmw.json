@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -4438,7 +4460,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 149142,
       "name": "\u00c1cido",
       "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"

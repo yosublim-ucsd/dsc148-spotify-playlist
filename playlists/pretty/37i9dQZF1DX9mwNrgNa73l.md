@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,164 likes - 90 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,593 likes - 90 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 4 | [Bulleya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 5 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 |
 | 6 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 |
-| 7 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 |
+| 7 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 |
 | 8 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 |
 | 9 | [Aas Paas Khuda](https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 5:19 |
 | 10 | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
 | 90 | [Madni Di Gal Kariye](https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Madni Di Gal Kariye](https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B) | 5:54 |
 
-Snapshot ID: `MCw3Nzk5ZDUyMjY0NTRjY2RjMjE3MDBhMDdlYjE3OGUyYzUwZGFjNmQ5`
+Snapshot ID: `MCw5M2Q5ZWU2MWNlNTdkZmM1ZDg0ZjI2NmIwMDA3YjE5Mjc3NDlmMmYy`

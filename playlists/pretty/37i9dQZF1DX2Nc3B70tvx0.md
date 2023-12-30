@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > New music from Adrianne Lenker, Sjowgren, Real Estate and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,854 likes - 101 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,860 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 100 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 |
 | 101 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
 
-Snapshot ID: `MCwyNWI3MmFjZmU1ZTNmNzUxMzA1OGQxODcwMTEyYjg4YTA0ZWUxMzRj`
+Snapshot ID: `MCw4NGU2NzE5NzBiZmNhMGE1NmI0ZDU3ODBlODI5NzNmY2EyYTcwODhl`

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 227067,
+  "num_followers": 227520,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWRjZjQzYjM2MTgxOTcxMjY3YzlmMDM1ZDUxNDRhYzI0NTM5YzJj",
+  "snapshot_id": "MCw5MjRlYmFiNDgxYjg0YzQ4OTcwMmU1MjRkZjJiYTY3ZmVjMTJlYThk",
   "tracks": [
     {
       "added_at": "2022-08-03 03:35:17",
@@ -103,22 +103,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Isaac Chambers & Dub Princess",
-        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
       },
       "artists": [
         {
-          "name": "Isaac Chambers",
-          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
-        },
-        {
-          "name": "Dub Princess",
-          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
     },
     {
       "added_at": "2023-09-25 00:08:51",
@@ -147,18 +143,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
+        "name": "Isaac Chambers & Dub Princess",
+        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Isaac Chambers",
+          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
+        },
+        {
+          "name": "Dub Princess",
+          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
+      "duration_ms": 336000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
       "added_at": "2023-11-23 03:15:26",
@@ -255,26 +255,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Camino de Flores",
-        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 341500,
-      "name": "Mirando El Fuego",
-      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2023-09-25 01:20:49",
@@ -299,18 +291,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+        "name": "Camino de Flores",
+        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+      "duration_ms": 341500,
+      "name": "Mirando El Fuego",
+      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -375,30 +375,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Laughter of the Sea",
         "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -725,26 +725,6 @@
       "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
     },
     {
-      "added_at": "2022-09-02 05:59:31",
-      "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Ch'usay Remixes",
@@ -783,6 +763,26 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-09-02 05:59:31",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
       },
       "artists": [
         {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1059,38 +1063,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1113,28 +1097,20 @@
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     },
     {
-      "added_at": "2023-09-25 03:13:21",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
       },
       "artists": [
         {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        },
-        {
-          "name": "mediopicky",
-          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
         }
       ],
-      "duration_ms": 182001,
-      "name": "Masa",
-      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1171,6 +1147,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
+        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
+      },
+      "artists": [
+        {
+          "name": "Abayomy Afrobeat Orquestra",
+          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
+        }
+      ],
+      "duration_ms": 457053,
+      "name": "Malunguinho",
+      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Samba del Arenal",
         "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
       },
@@ -1191,18 +1183,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
-        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
+        "name": "A Guide to the Birdsong of South America",
+        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
       },
       "artists": [
         {
-          "name": "Abayomy Afrobeat Orquestra",
-          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
         }
       ],
-      "duration_ms": 457053,
-      "name": "Malunguinho",
-      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
+      "duration_ms": 228019,
+      "name": "Capuchino Pecho Blanco",
+      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1225,22 +1217,6 @@
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "A Guide to the Birdsong of South America",
-        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Capuchino Pecho Blanco",
-      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
-    },
-    {
       "added_at": "2022-11-17 23:06:29",
       "album": {
         "name": "Pueblo",
@@ -1259,6 +1235,30 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
+    },
+    {
+      "added_at": "2023-09-25 03:13:21",
+      "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        },
+        {
+          "name": "mediopicky",
+          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+        }
+      ],
+      "duration_ms": 182001,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Tropical Gypsy",
-        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Tropical Gypsy",
-      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+        "name": "Tropical Gypsy",
+        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
       },
       "artists": [
         {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
         }
       ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+      "duration_ms": 181926,
+      "name": "Tropical Gypsy",
+      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     }
   ],
   "unique_name": "Tulum Vibes",

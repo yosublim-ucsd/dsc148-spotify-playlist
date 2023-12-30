@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Yemi Alade",
+  "description": "Tracks popping off in the Afro scene. Cover: Nelson Freitas",
   "name": "Afro Station",
   "tracks": [
     {
@@ -3465,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Mamae",
+        "url": "https://open.spotify.com/album/7F8XVMXoqeQ7b1SBLshRHF"
+      },
+      "artists": [
+        {
+          "name": "Jaymax",
+          "url": "https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170642,
+      "name": "Mamae",
+      "url": "https://open.spotify.com/track/05O5SXB2UNtknsETkzYo5O"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/77f1q1VYpa1L13B2eemN2p"
       },
@@ -5043,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Gangsta",
+        "url": "https://open.spotify.com/album/4FuhmRwDg6qdKuCS1RPPak"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Spiritual Gangsta",
+      "url": "https://open.spotify.com/track/17CeZUGav0EA8irJdBHjwB"
+    },
+    {
+      "album": {
         "name": "Hokage",
         "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
       },
@@ -6058,7 +6094,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155664,
       "name": "\u03b7. LIDJA",
       "url": "https://open.spotify.com/track/4TwXrpZXGgGB4vqzv99tAS"

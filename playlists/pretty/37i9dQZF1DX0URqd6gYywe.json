@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 107384,
+  "num_followers": 108018,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmYxY2ZhYmQwNjQ4YTc4YWFkN2Q2YjAxNWFiYTgxZGIyMmYxM2Jk",
+  "snapshot_id": "MCxmNzY0M2RjOTYxZDE3YzYyZWFlZjRkNjBjZDk3ODZkZDQ0NWFkYjlj",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Esperando el Milagro",
         "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 302731,
       "name": "El Farolito (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -879,38 +879,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Gran Rex",
-        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
-        "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Mujer Amante",
-      "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Naranja Persa",
         "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
       },
@@ -927,6 +895,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Cordero Atado",
         "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 336546,
       "name": "Etiqueta Negra",
       "url": "https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
+        "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 194343,
-      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
+      "duration_ms": 341826,
+      "name": "Hero\u00edna",
+      "url": "https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 194343,
+      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 341826,
-      "name": "Hero\u00edna",
-      "url": "https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Dejo Atr\u00e1s",
         "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 221946,
       "name": "Dejo Atr\u00e1s",
       "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Mec\u00e1nica Popular",
+        "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 284451,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Mec\u00e1nica Popular",
-        "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
       "artists": [
         {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 284451,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
+      "duration_ms": 235094,
+      "name": "Mejor Callar",
+      "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1299,22 +1315,6 @@
       "duration_ms": 313693,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 235094,
-      "name": "Mejor Callar",
-      "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "MADRID SIN VOS",
-        "url": "https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4"
+        "name": "L\u00e1piz Libertad",
+        "url": "https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh"
       },
       "artists": [
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          "name": "Juan Rosasco en Banda",
+          "url": "https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 224277,
-      "name": "MADRID SIN VOS",
-      "url": "https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1"
+      "duration_ms": 248064,
+      "name": "L\u00e1piz Libertad",
+      "url": "https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1447,6 +1451,22 @@
       "duration_ms": 130804,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "MADRID SIN VOS",
+        "url": "https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 224277,
+      "name": "MADRID SIN VOS",
+      "url": "https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1515,26 +1535,6 @@
       "duration_ms": 297934,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "L\u00e1piz Libertad",
-        "url": "https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh"
-      },
-      "artists": [
-        {
-          "name": "Juan Rosasco en Banda",
-          "url": "https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 248064,
-      "name": "L\u00e1piz Libertad",
-      "url": "https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx"
     },
     {
       "added_at": "2023-12-08 03:00:00",

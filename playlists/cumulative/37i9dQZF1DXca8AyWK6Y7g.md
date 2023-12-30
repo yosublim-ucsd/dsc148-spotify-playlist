@@ -4,7 +4,7 @@
 
 > baby look at the sky \*\*\*<br/>cover: Juliet Ivy
 
-1,888 songs - 3 day 23 hr 29 min
+1,889 songs - 3 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [AFU](https://open.spotify.com/track/47vYzNOJlCGynCNvfsOG7R) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/5JfMAZvLNeAx7DY2t5yvtS) | 3:07 | 2019-12-20 | 2020-03-19 |
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-29 | 2022-03-26 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-01-28 |
-| [airbag](https://open.spotify.com/track/12DjZ06QeaiKJ0s9NP0QBi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [airbag](https://open.spotify.com/album/1IgUbwewzkGvHRXttH8Acg) | 2:21 | 2023-12-15 |  |
+| [airbag](https://open.spotify.com/track/12DjZ06QeaiKJ0s9NP0QBi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [airbag](https://open.spotify.com/album/1IgUbwewzkGvHRXttH8Acg) | 2:21 | 2023-12-15 | 2023-12-30 |
 | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/track/2SkyMtc6If7sC7dd5HEjOy) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/album/0JVzrxVtxte65oUlGtCtst) | 3:14 | 2022-02-25 | 2022-03-26 |
 | [Airport](https://open.spotify.com/track/3tHScpIYBH11aMCbizU2E4) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Airport](https://open.spotify.com/album/10TsupQlJqTcOSAh4xdNIw) | 2:35 | 2020-05-04 | 2021-11-10 |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2021-10-14 | 2021-10-16 |
@@ -1092,7 +1092,7 @@
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2023-07-31 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-24 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
-| [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 | 2023-12-26 |
+| [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 |  |
 | [Missing Somebody](https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [This Is How The World Made Me](https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs) | 3:19 | 2022-06-24 | 2022-06-28 |
 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-05-06 | 2022-06-20 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-28 | 2023-02-11 |
@@ -1320,6 +1320,7 @@
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2023-08-18 |  |
 | [pretty isn’t pretty](https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:19 | 2023-09-08 | 2023-10-10 |
 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 | 2023-06-16 | 2023-12-15 |
+| [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 | 2023-11-10 |  |
 | [Probabilities](https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Probabilities](https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ) | 2:28 | 2022-07-22 | 2022-09-03 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-10-16 | 2021-03-22 |
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-28 | 2021-11-09 |
@@ -1667,7 +1668,7 @@
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2020-06-12 | 2021-11-02 |
 | [The Door](https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [The Door](https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5) | 3:31 | 2021-12-10 | 2022-01-29 |
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-28 | 2022-03-12 |
-| [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-24 |  |
+| [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-24 | 2023-12-30 |
 | [The Internet](https://open.spotify.com/track/3SONA2HtyUilUPckrSOiln) | [Hearts <3](https://open.spotify.com/artist/32gTQwEODaNCVu6SdNko3z) | [Devyn’s Song / The Internet](https://open.spotify.com/album/0P9MeBy3gauKZIruLK7ryv) | 3:02 | 2021-02-27 | 2021-10-16 |
 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 | 2023-11-10 |  |
 | [The Last Song](https://open.spotify.com/track/7KsgocRFvvODH3K0ZHLHL4) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You](https://open.spotify.com/album/1koaS0Hs1AGtDrGprHOqCf) | 4:09 | 2023-05-05 | 2023-07-22 |

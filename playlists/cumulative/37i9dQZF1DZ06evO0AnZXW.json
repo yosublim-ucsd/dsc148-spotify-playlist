@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 144733,
       "name": "Depression & Obsession",
       "url": "https://open.spotify.com/track/2H3wWrnO758y0fPH7Ilerg"
@@ -906,6 +906,24 @@
       "duration_ms": 144724,
       "name": "Sauce!",
       "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163201,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/2UwbhMie1EAYuTZ0QXeMwl"
     },
     {
       "album": {

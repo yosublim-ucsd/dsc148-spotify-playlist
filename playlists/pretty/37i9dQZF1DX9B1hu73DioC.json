@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 809405,
+  "num_followers": 809752,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTVjZTY2YTI1OWUwYTQ5OTk2NDA2Y2U5MDkwOWJjMWEyNTU3MjVi",
+  "snapshot_id": "MCw3OWJlMGJmMTlmZGNkMDM0YTQ4Y2NiZGJkMTJmNTdjODAxYTMyYzZh",
   "tracks": [
     {
       "added_at": "2023-12-12 21:37:08",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Built on Glass",
-        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 218067,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
@@ -411,6 +395,38 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Built on Glass",
+        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 218067,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -463,6 +479,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Average Guy (Blame)",
         "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
       },
@@ -479,22 +511,6 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -559,22 +575,6 @@
       "duration_ms": 153697,
       "name": "2AM",
       "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 173661,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "It Could Be Me",
-        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 127458,
-      "name": "It Could Be Me",
-      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Sing Spaceship, Sing!",
         "url": "https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 208407,
       "name": "SummerBrain",
       "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1403,6 +1403,54 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 293339,
+      "name": "Miami Baby",
+      "url": "https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "SUNSTRIKES",
         "url": "https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO"
       },
@@ -1427,22 +1475,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 293339,
-      "name": "Miami Baby",
-      "url": "https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Charmed",
         "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
       },
@@ -1463,18 +1495,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
       "artists": [
         {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1491,22 +1523,6 @@
       "duration_ms": 166021,
       "name": "on the pisces moon",
       "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1573,20 +1589,20 @@
       "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
     },
     {
-      "added_at": "2023-12-12 21:37:08",
+      "added_at": "2023-12-14 22:08:25",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
       },
       "artists": [
         {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
         }
       ],
-      "duration_ms": 141500,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
+      "duration_ms": 281333,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1655,22 +1671,6 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2023-12-14 22:08:25",
-      "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
     },
     {
       "added_at": "2023-12-12 21:37:08",

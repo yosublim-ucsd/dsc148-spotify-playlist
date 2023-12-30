@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Bla Bla Bla (TARS. Stutter Techno Remix)",
+        "url": "https://open.spotify.com/album/7zLo9nfg4YeMhNJkGvWuMp"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "TARS.",
+          "url": "https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120193,
+      "name": "Bla Bla Bla - TARS. Stutter Techno Remix",
+      "url": "https://open.spotify.com/track/6IuqRHRlpdwe9ps3O83o5U"
+    },
+    {
+      "album": {
         "name": "Bleed 4 Me",
         "url": "https://open.spotify.com/album/18TrqpDbuAYXCjngJACUN4"
       },
@@ -746,6 +768,24 @@
       "duration_ms": 201600,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4"
+    },
+    {
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/79HieAvFWpw92JAN6i3rCq"
+      },
+      "artists": [
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247690,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/0JeYyr2jxAUbC6CbTRLeBf"
     },
     {
       "album": {

@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql"
+    },
+    {
+      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 218000,
       "name": "Regalo Equivocado",
       "url": "https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9"

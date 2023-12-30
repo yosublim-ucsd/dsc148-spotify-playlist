@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 141040,
       "name": "D.I.S.C.O.",
       "url": "https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
@@ -5609,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "House",
+      "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/4FHhnmZpT898mjTBrcujXv"
       },
@@ -5786,7 +5804,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 202560,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb"
@@ -6260,7 +6278,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "King Of The Monsters",
       "url": "https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1"
@@ -7644,7 +7662,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 146250,
       "name": "Neurose 2.0",
       "url": "https://open.spotify.com/track/6p0w8fIsPUNk6kVHCxNqvn"
@@ -8208,6 +8226,24 @@
     {
       "album": {
         "name": "On & On",
+        "url": "https://open.spotify.com/album/5ttftDVgttEtNtNnEF0s8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2AeOsWyOXUV3ZQZMsBPbq8"
+    },
+    {
+      "album": {
+        "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
       "artists": [
@@ -8558,7 +8594,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
@@ -8656,7 +8692,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145777,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
@@ -9728,7 +9764,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 163369,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
@@ -10400,7 +10436,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 256614,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
@@ -11860,7 +11896,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 221413,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
@@ -12116,7 +12152,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
@@ -12260,7 +12296,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
@@ -12354,7 +12390,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj"

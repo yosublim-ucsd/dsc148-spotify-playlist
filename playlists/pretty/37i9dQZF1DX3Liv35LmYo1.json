@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 107059,
+  "num_followers": 107062,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
+  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 138337,
       "name": "Moving Still - Reprise",
       "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 270271,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Higher Elevation",
         "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     }
   ],
   "unique_name": "Night Shift",

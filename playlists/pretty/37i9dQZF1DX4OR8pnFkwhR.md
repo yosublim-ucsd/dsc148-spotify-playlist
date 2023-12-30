@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,280 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,320 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 3 | [フォーエバートゥエンティーンズ](https://open.spotify.com/track/5SZLeIN1qdDzvlqJA43ija) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [フォーエバートゥエンティーンズ](https://open.spotify.com/album/1s6cmneYCxXj2WwtK1YYgb) | 3:15 |
 | 4 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 |
 | 5 | [hot lemon](https://open.spotify.com/track/1ZTpqhGR9UeBpBVyoBFEXf) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [hot lemon](https://open.spotify.com/album/5dtQd5fuVHnFs0Siny4eD6) | 2:33 |
-| 6 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 |
+| 6 | [A box of Stockholm](https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [A box of Stockholm](https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q) | 2:40 |
 | 7 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 | 8 | [SHOZEN](https://open.spotify.com/track/5MNCIcHfHsH3BQCEsFc7R0) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 3:42 |
 | 9 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 |
@@ -24,19 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 14 | [hands](https://open.spotify.com/track/05hdZsL1nQ8lbjq67gmniB) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [hands](https://open.spotify.com/album/2x5VgGNV9IWTPCrHy7ht7r) | 2:46 |
 | 15 | [24/7](https://open.spotify.com/track/5Y0wyXD0vDlBB0jYaZICa9) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [24/7](https://open.spotify.com/album/143tV77vkc85Ng1qmJiheo) | 3:24 |
 | 16 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 |
-| 17 | [Holy Night](https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:52 |
-| 18 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 |
-| 19 | [Demo,](https://open.spotify.com/track/7J1qFnDjU5SNRDxpnLlpbD) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Love°C](https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk) | 2:59 |
-| 20 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 |
-| 21 | [眩しい日々へ](https://open.spotify.com/track/2rGS41CsfRBGPoCtyqLWlK) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [眩しい日々へ](https://open.spotify.com/album/0J0UZyf07GTJVw4kJcKB1D) | 4:55 |
-| 22 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 |
-| 23 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
-| 24 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 |
-| 25 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
-| 26 | [City Light,Konya](https://open.spotify.com/track/3FAg9ucNICMj9x34VkzNQy) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [City Light,Konya](https://open.spotify.com/album/63JCLnZJ7Hcba0noNaqXIt) | 4:15 |
-| 27 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
-| 28 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 |
-| 29 | [森](https://open.spotify.com/track/0h8XHGuOZOQSPoKJpWWmNf) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [森](https://open.spotify.com/album/28Ui8kKVp4lchmH3nQ2NAN) | 3:27 |
+| 17 | [踊り場のサーカスナイト](https://open.spotify.com/track/2moXvLn60P2tXJ0iKK6Lia) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [踊り場のサーカスナイト](https://open.spotify.com/album/0KyhovBbuSDaZckWIuJwEP) | 3:29 |
+| 18 | [Holy Night](https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:52 |
+| 19 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 |
+| 20 | [Demo,](https://open.spotify.com/track/7J1qFnDjU5SNRDxpnLlpbD) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Love°C](https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk) | 2:59 |
+| 21 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 |
+| 22 | [眩しい日々へ](https://open.spotify.com/track/2rGS41CsfRBGPoCtyqLWlK) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [眩しい日々へ](https://open.spotify.com/album/0J0UZyf07GTJVw4kJcKB1D) | 4:55 |
+| 23 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 |
+| 24 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
+| 25 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 |
+| 26 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
+| 27 | [City Light,Konya](https://open.spotify.com/track/3FAg9ucNICMj9x34VkzNQy) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [City Light,Konya](https://open.spotify.com/album/63JCLnZJ7Hcba0noNaqXIt) | 4:15 |
+| 28 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
+| 29 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 |
 | 30 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 |
 | 31 | [Letters, Lights, Travels On The Streets](https://open.spotify.com/track/4zMi0q2myV2N3OU0xuqR0p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Letters, Lights, Travels On The Streets](https://open.spotify.com/album/4rSbKbY15PsCF4GtDgrRqR) | 3:05 |
 | 32 | [Wishing](https://open.spotify.com/track/1VfdAoxCRpZce6H1Er7EUa) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5YcBwWlQmOm6Hd3VqohUsC) | 2:49 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 52 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
 | 53 | [COSMO](https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [COSMO](https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ) | 2:21 |
 | 54 | ["Later"](https://open.spotify.com/track/6IkOm5XIT9o4jwZKxR3uRR) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Design](https://open.spotify.com/album/6aiQoplCQlYraw3uZCwoFp) | 3:00 |
-| 55 | [だせえ惰性](https://open.spotify.com/track/3CRFLHw5Dt2PScSjM9ikbc) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [BRAND NEW DAYS](https://open.spotify.com/album/5e4UYLUOrC96EUnG5ZimPq) | 2:25 |
+| 55 | [Dasee Dasei](https://open.spotify.com/track/51HAbKZ8gYPICA3RPXUgpQ) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [Brand New Days](https://open.spotify.com/album/26gknD81VVN543W1OJBuDn) | 2:25 |
 | 56 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 |
 | 57 | [Not Queen](https://open.spotify.com/track/00Dtc5rQVt1ogVMZQJEQct) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Not Queen](https://open.spotify.com/album/2Q73xJxTrew6X3JZGPxgjA) | 2:58 |
 | 58 | [Comb Song](https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Being Polite \(In a Mean Way\)](https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI) | 2:32 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 65 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 |
 | 66 | [Love you](https://open.spotify.com/track/6EiYkXXJoDyTNDvIL8UiYk) | [NALUCK](https://open.spotify.com/artist/2pJw4suJbxO2ZUhNQMwJOq) | [piece](https://open.spotify.com/album/5oSSCIICpZWjsKHSMzMErq) | 3:59 |
 | 67 | [Saiai No Yukue.](https://open.spotify.com/track/2hTcj0PSKDczMBV2DtwQhP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Saiai No Yukue.](https://open.spotify.com/album/7boDE5vcCHaPqBcibwH8f2) | 4:05 |
-| 68 | [YEY！](https://open.spotify.com/track/1XvprZ9Q61nlDbzBao5IIa) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [mono](https://open.spotify.com/album/6R75V4gwRTLMZ68TObqJhs) | 3:28 |
+| 68 | [YEY!](https://open.spotify.com/track/3Hn8MwLoiiczn0gqsbm4aK) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [mono](https://open.spotify.com/album/4FrNwkNGFo7f3TSxvu9qfh) | 3:28 |
 | 69 | [take care](https://open.spotify.com/track/7Gjgl7STeQcpkHmztnhqDi) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [OBAKE IN TSUSHIMA\-NAKA](https://open.spotify.com/album/1htnvB6tjuxwVqZ5jigPFt) | 2:18 |
 | 70 | [バカ野郎](https://open.spotify.com/track/5nSEa5q3KBGVCtPgXe1nk5) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [I am hungry](https://open.spotify.com/album/2gWjWNdH7B6ro7Ys6hWXIf) | 1:34 |
 | 71 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [ポルトロン](https://open.spotify.com/track/33uGqJENJe8VcXoVIMHQ2q) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ポルトロン](https://open.spotify.com/album/6ynx5p9eto6w5pRdiXoKzR) | 3:14 |
 | 80 | [聖なるクリスマス](https://open.spotify.com/track/7i3YnL4zlmqGeQV9G1xLzr) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [聖なるクリスマス](https://open.spotify.com/album/2xC5tynQ7PhYwoOrooAlJ5) | 4:11 |
 
-Snapshot ID: `MCw5ZTE3OGQzMTQxZjNlOWI5YTE4MzFmZWExNGZmMzNkMzk3ZjY1OWYz`
+Snapshot ID: `MCxiOWY5OWEwNWZjMDNjNTU4MGQ2Y2Q1ZmEwYTdmYWUzZWUxYmM3ZGJl`

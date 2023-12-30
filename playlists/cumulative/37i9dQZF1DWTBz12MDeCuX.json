@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 198560,
       "name": "Cacio e Pepe",
       "url": "https://open.spotify.com/track/5mvKB3FSjIVWv8gkI1zK8x"
@@ -7732,6 +7750,24 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "album": {
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
     },
     {
       "album": {
@@ -11242,7 +11278,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 204921,
       "name": "Herzen in mein Eyes",
       "url": "https://open.spotify.com/track/4jv2lbbhHwizNJ5mpYcwPY"
@@ -16225,6 +16261,28 @@
     },
     {
       "album": {
+        "name": "Mandarine",
+        "url": "https://open.spotify.com/album/69aOKTs7lgnDQDpUsrqynQ"
+      },
+      "artists": [
+        {
+          "name": "bucci",
+          "url": "https://open.spotify.com/artist/1f8lvHw5C5ZNd9ACUi7TNh"
+        },
+        {
+          "name": "HELENA",
+          "url": "https://open.spotify.com/artist/4iOAX6CVaI8eD3oKyu913B"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Mandarine",
+      "url": "https://open.spotify.com/track/6XBFl5efs5q4csF6ZHa1wb"
+    },
+    {
+      "album": {
         "name": "MANEATER",
         "url": "https://open.spotify.com/album/6ICqwAAOR0uCNubGorI43X"
       },
@@ -20355,6 +20413,28 @@
     },
     {
       "album": {
+        "name": "pasta & mehr",
+        "url": "https://open.spotify.com/album/2ZTXiIBLARpoY1t5V9dO53"
+      },
+      "artists": [
+        {
+          "name": "dobel",
+          "url": "https://open.spotify.com/artist/2k56DBnh92ucRbT7lonjkS"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167509,
+      "name": "pasta",
+      "url": "https://open.spotify.com/track/78oxQhzMZVkfBQbzVwMQhI"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -22139,6 +22219,28 @@
     },
     {
       "album": {
+        "name": "sandmann",
+        "url": "https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11"
+      },
+      "artists": [
+        {
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6"
+        },
+        {
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154286,
+      "name": "sandmann",
+      "url": "https://open.spotify.com/track/0VjaALHWHv43TFwqwf2tKB"
+    },
+    {
+      "album": {
         "name": "Piccolo Amore",
         "url": "https://open.spotify.com/album/7744rXPM3L298rcwG4bX44"
       },
@@ -22736,7 +22838,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 128514,
       "name": "Schweinegeld",
       "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
@@ -23350,7 +23452,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 168633,
       "name": "Side B*tch",
       "url": "https://open.spotify.com/track/5uuXzZZdqZjFjwUZY2cPld"
@@ -23530,7 +23632,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 181786,
       "name": "SKEU SKEU (feat. wilsko & 7ia)",
       "url": "https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT"
@@ -23790,7 +23892,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -24694,6 +24796,28 @@
       "duration_ms": 175750,
       "name": "Static Rain (feat. Birdy)",
       "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
+    },
+    {
+      "album": {
+        "name": "Status",
+        "url": "https://open.spotify.com/album/5PzWrg3h59uwLyErCVG7QT"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "\u0117mma",
+          "url": "https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156862,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/4h8WLOqMjjGEw3wSjGOsHc"
     },
     {
       "album": {
@@ -25608,6 +25732,24 @@
       "duration_ms": 125270,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/6oGnFxltTet4MD3yuT5WvX"
+    },
+    {
+      "album": {
+        "name": "Tauchen",
+        "url": "https://open.spotify.com/album/7ch3M4qcbnjN4v19mZHz7U"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173376,
+      "name": "Tauchen",
+      "url": "https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o"
     },
     {
       "album": {
@@ -27679,6 +27821,24 @@
     },
     {
       "album": {
+        "name": "vermiss nicht mehr",
+        "url": "https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ"
+      },
+      "artists": [
+        {
+          "name": "Mika",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173321,
+      "name": "vermiss nicht mehr",
+      "url": "https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV"
+    },
+    {
+      "album": {
         "name": "Vermissen (feat. Henning May)",
         "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
       },
@@ -28890,7 +29050,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 152475,
       "name": "Weihnachtslied 2023",
       "url": "https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k"

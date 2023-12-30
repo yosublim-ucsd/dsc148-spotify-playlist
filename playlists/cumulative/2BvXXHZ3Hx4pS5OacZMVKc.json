@@ -2087,6 +2087,32 @@
     },
     {
       "album": {
+        "name": "FAVHELLA",
+        "url": "https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        },
+        {
+          "name": "Mc Guidanny",
+          "url": "https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps"
+        },
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116769,
+      "name": "FAVHELLA",
+      "url": "https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG"
+    },
+    {
+      "album": {
         "name": "Fearless Pt. II",
         "url": "https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D"
       },
@@ -6860,6 +6886,28 @@
       "duration_ms": 113125,
       "name": "uWu BURST",
       "url": "https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il"
+    },
+    {
+      "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N"
+      },
+      "artists": [
+        {
+          "name": "James Mercy",
+          "url": "https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2"
+        },
+        {
+          "name": "PhiloSofie",
+          "url": "https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213942,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU"
     },
     {
       "album": {

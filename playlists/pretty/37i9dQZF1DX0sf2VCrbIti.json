@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 1576,
+  "num_followers": 1717,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjY4Y2FlMDA4Y2JkMDAxYWJhNTQyOGRmZTY3YTQ2MWU1NmFhZDEx",
+  "snapshot_id": "MCw0OTBhOGQ5M2NiYzgwZmJkMjdhYWRkY2M2N2ZjMmMyZDlmNWE4Mzdj",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Traicionera (Baile Total)",
-        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Lloraras",
-      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Aqui Esperandote (2022 Remastered)",
         "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 282693,
       "name": "A Dormir Juntitos - 2022 Remastered",
       "url": "https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Traicionera (Baile Total)",
+        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Lloraras",
+      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Super \u00c9xitos Maracaibo 15",
         "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 192466,
       "name": "Amparito",
       "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -767,6 +751,38 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "La Billo's y Los Melodicos de coleccion, vol.1",
         "url": "https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Billo 74",
-        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Aguinaldo Con Billo",
-      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Siente El Amor",
         "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Billo 74",
+        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Aguinaldo Con Billo",
+      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Venga un Abrazo",
-      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -955,6 +939,22 @@
       "duration_ms": 367026,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Venga un Abrazo",
+      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 173290,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 275252,
-      "name": "El Mono",
-      "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "La Orquesta de Siempre: Volume 1",
         "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 275252,
+      "name": "El Mono",
+      "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Amores Perros (Soundtrack)",
         "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     }
   ],
   "unique_name": "Fiesta Decembrina",

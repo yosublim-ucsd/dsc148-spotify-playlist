@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,247 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,265 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 35 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
 | 36 | [nada!](https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:29 |
 | 37 | [Keep Trying](https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [Keep Trying](https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee) | 3:38 |
-| 38 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
-| 39 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
-| 40 | [MAL NECESARIO](https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MYKOSIS](https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro) | 2:54 |
-| 41 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 |
-| 42 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
+| 38 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
+| 39 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
+| 40 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 41 | [MAL NECESARIO](https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MYKOSIS](https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro) | 2:54 |
+| 42 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 |
 | 43 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
 | 44 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 45 | [paterson](https://open.spotify.com/track/14ueXImr9oNsOt5bcBmJsJ) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 4:42 |
-| 46 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
-| 47 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
+| 46 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
+| 47 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
 | 48 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
 | 49 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1`
+Snapshot ID: `MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl`

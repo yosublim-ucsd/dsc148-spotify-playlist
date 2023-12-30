@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 60351,
+  "num_followers": 60291,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDU1Zjg1NGU5MTlkY2RkYTFlMjk0ZjkzMzBjZGQ2MDI2MjM4NTMy",
+  "snapshot_id": "MCwyZWVmMjUxZjliNjIzYjVkYWIyY2NiNjllY2NiMDhlM2NkOTg3NjU0",
   "tracks": [
     {
       "added_at": "2023-12-16 03:23:16",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
         }
       ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
-        "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
-      "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "The Hotel Caf\u00e9 presents... Winter Songs",
         "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 266640,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
+        "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "A Very Special Christmas 3",
-        "url": "https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "Joyeux No\u00ebl",
         "url": "https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 136533,
       "name": "Fa La La",
       "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "A Very Special Christmas 3",
+        "url": "https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "No\u00ebl \u00e0 deux",
-        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
-      },
-      "artists": [
-        {
-          "name": "Marie Eve Janvier",
-          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
-        },
-        {
-          "name": "Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
-        }
-      ],
-      "duration_ms": 203169,
-      "name": "No\u00ebl c'est toi",
-      "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "No\u00ebl \u00e0 deux",
+        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
+      },
+      "artists": [
+        {
+          "name": "Marie Eve Janvier",
+          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Breau",
+          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
+        }
+      ],
+      "duration_ms": 203169,
+      "name": "No\u00ebl c'est toi",
+      "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

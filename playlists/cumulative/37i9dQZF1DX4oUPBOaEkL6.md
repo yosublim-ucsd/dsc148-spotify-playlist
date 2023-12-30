@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Kali Uchis & KAROL G
+> The hottest Latin hits in the US! Cover: Xavi
 
 370 songs - 20 hr 25 min
 

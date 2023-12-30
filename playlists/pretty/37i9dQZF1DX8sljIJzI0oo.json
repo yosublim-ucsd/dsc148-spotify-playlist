@@ -1,15 +1,15 @@
 {
   "description": "Rauw Alejandro is bringing the heat to Fuego this week. Listen to all mixtapes <a href=\"spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b\">HERE</a>.",
-  "num_followers": 1909452,
+  "num_followers": 1909743,
   "original_name": "Fuego",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTA3ODFhNjNmMWQ5MGE0MjRjMGM2MzI1YzgyNDc0MDFmZmI1MmVh",
+  "snapshot_id": "MCxlMjJhNTJhNGEzNzcwYmUwYmQwYmJlMmE0NDMyMDljMDBhMDE0OTYz",
   "tracks": [
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
@@ -25,47 +25,7 @@
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "Pa la Proxima",
-        "url": "https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 229239,
-      "name": "Pa la Proxima",
-      "url": "https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -85,27 +45,7 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
@@ -125,7 +65,67 @@
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "Pa la Proxima",
+        "url": "https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 229239,
+      "name": "Pa la Proxima",
+      "url": "https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "El Incomprendido",
         "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Tamagotchi",
         "url": "https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
@@ -361,51 +361,7 @@
       "url": "https://open.spotify.com/track/42qzMSlyVdf2Iar74eFePt"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "ELOVRGA",
-        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "ELOVRGA",
-      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
-        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Los Roques",
-      "url": "https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
@@ -421,23 +377,7 @@
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "wiggy",
-        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146559,
-      "name": "wiggy",
-      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
@@ -461,7 +401,67 @@
       "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "ELOVRGA",
+        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "ELOVRGA",
+      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Los Roques",
+      "url": "https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Coraz\u00f3n Roto pt. 3",
         "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
@@ -493,23 +493,7 @@
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
     },
     {
-      "added_at": "2023-12-21 05:00:00",
-      "album": {
-        "name": "Inestable",
-        "url": "https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 218372,
-      "name": "Inestable",
-      "url": "https://open.spotify.com/track/6iLG2K2RA0wrD4HrdYG7WZ"
-    },
-    {
-      "added_at": "2023-12-21 05:00:00",
+      "added_at": "2023-12-27 17:38:29",
       "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
@@ -531,6 +515,22 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2023-12-27 17:38:29",
+      "album": {
+        "name": "Inestable",
+        "url": "https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 218372,
+      "name": "Inestable",
+      "url": "https://open.spotify.com/track/6iLG2K2RA0wrD4HrdYG7WZ"
     }
   ],
   "unique_name": "Fuego",

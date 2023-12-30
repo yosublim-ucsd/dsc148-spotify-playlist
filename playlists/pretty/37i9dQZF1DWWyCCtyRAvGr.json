@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 165302,
+  "num_followers": 165568,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDViZjA3MDBhODAwNzc5NGUzMTEzOGM4MDkwNGRkZTg5NWRiNGEx",
+  "snapshot_id": "MCxhNzkzMmI1YWY4MTViYWJlNjQ0NWM4ZTY2ZDMwMzYyZGYxZjUzZmMz",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Soul Tender",
+        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
+      },
+      "artists": [
+        {
+          "name": "Gene Deer",
+          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
+        }
+      ],
+      "duration_ms": 459940,
+      "name": "Midnight Healing",
+      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Soul Tender",
-        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
-      },
-      "artists": [
-        {
-          "name": "Gene Deer",
-          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
-        }
-      ],
-      "duration_ms": 459940,
-      "name": "Midnight Healing",
-      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 420386,
+      "name": "Need Her So Bad",
+      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 420386,
-      "name": "Need Her So Bad",
-      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 176373,
       "name": "I Loved Another Woman",
       "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "The Right Time",
         "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 276986,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 282066,
       "name": "Finest Lovin' Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1367,6 +1351,38 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Shadows and Ghosts",
         "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 182706,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outta' Season",
-        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
         "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outta' Season",
+        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 202627,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1591,42 +1591,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Two Sides to the Story",
-        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Ray",
-          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
-        }
-      ],
-      "duration_ms": 365909,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Midnight in Mississippi '22",
-        "url": "https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Luther Dickinson",
-          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
-        }
-      ],
-      "duration_ms": 238034,
-      "name": "Midnight in Mississippi '22",
-      "url": "https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Moods 'n' Blues",
         "url": "https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU"
       },
@@ -1647,6 +1611,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Two Sides to the Story",
+        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Ray",
+          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
+        }
+      ],
+      "duration_ms": 365909,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Midnight in Mississippi '22",
+        "url": "https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "duration_ms": 238034,
+      "name": "Midnight in Mississippi '22",
+      "url": "https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI"
     },
     {
       "added_at": "2023-10-05 13:18:26",

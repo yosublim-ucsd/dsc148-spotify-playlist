@@ -2783,6 +2783,32 @@
     },
     {
       "album": {
+        "name": "L3ar",
+        "url": "https://open.spotify.com/album/0fKc7dd70dl1Xwu4Wf6sp4"
+      },
+      "artists": [
+        {
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        },
+        {
+          "name": "HARMAK",
+          "url": "https://open.spotify.com/artist/1CZuy5Dcxgtysh7ggzCRuL"
+        },
+        {
+          "name": "Sekou Percu",
+          "url": "https://open.spotify.com/artist/5F8KxwgKB3laVADr5fsg0a"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399590,
+      "name": "L3ar",
+      "url": "https://open.spotify.com/track/1K8N2LASR0Nkox4mB2tqEM"
+    },
+    {
+      "album": {
         "name": "Latlal Remixes",
         "url": "https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg"
       },
@@ -3066,7 +3092,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 441999,
       "name": "Malayou",
       "url": "https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk"

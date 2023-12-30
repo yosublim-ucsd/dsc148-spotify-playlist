@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 43 min
+37 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,13 @@
 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 | 2023-12-13 |  |
 | [Celica Supra](https://open.spotify.com/track/5H8KpFEURomwHFoNLErs8c) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 2:47 | 2023-12-13 |  |
 | [Checkpoint Titanium](https://open.spotify.com/track/0SDkZDclec5PO3zt6tYM31) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 2:44 | 2023-12-13 |  |
-| [Collage](https://open.spotify.com/track/2aHMHXqnnuwUGY4l7u4ws9) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 3:42 | 2023-12-20 |  |
+| [Collage](https://open.spotify.com/track/2aHMHXqnnuwUGY4l7u4ws9) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 3:42 | 2023-12-20 | 2023-12-30 |
 | [Cowboys](https://open.spotify.com/track/7iIGTan9Z53pubqaMx8nc0) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:44 | 2023-12-13 |  |
 | [Daydreamin](https://open.spotify.com/track/4f17qWEqIfpzq4mQLXxOgh) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:07 | 2023-12-13 |  |
 | [Float](https://open.spotify.com/track/69iPLMNd0d3sxmW52mwLZN) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:25 | 2023-12-13 |  |
 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 | 2023-12-13 |  |
-| [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/3RNcPRuujpuJPW8a3ELy9V) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 4:00 | 2023-12-13 |  |
+| [How Can It Be](https://open.spotify.com/track/6bhlt3X3iXMs3WqPpKFpEh) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [How Can It Be](https://open.spotify.com/album/0lmDyjMsjpGmPJ5a8ABjHM) | 4:00 | 2023-12-29 |  |
+| [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/3RNcPRuujpuJPW8a3ELy9V) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 4:00 | 2023-12-13 | 2023-12-30 |
 | [In The Dark \(Interlude\)](https://open.spotify.com/track/2Dco71VHft3vxhB8RyJ95c) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 1:33 | 2023-12-13 | 2023-12-27 |
 | [Intro](https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 1:01 | 2023-12-13 |  |
 | [Like When We Were Kids](https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:00 | 2023-12-13 |  |

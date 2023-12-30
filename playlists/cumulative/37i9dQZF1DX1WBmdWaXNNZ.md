@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-139 songs - 8 hr 45 min
+142 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Baka no Uta](https://open.spotify.com/track/39CcJng5G8RGnOiQuM5jMg) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Baka no Uta](https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz) | 3:25 | 2022-07-17 |  |
 | [Bakemono](https://open.spotify.com/track/1dHbm7QRN71DiFqwRAL963) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 2:27 | 2022-07-17 |  |
 | [Barabara](https://open.spotify.com/track/0WZsiLJt3fahbqEA04j2Qv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Baka no Uta](https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz) | 3:22 | 2022-07-17 |  |
-| [Beyond the Sequence](https://open.spotify.com/track/0q5bHv4FAaFK5bWYMucHar) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:25 | 2023-12-26 |  |
+| [Beyond the Sequence](https://open.spotify.com/track/0q5bHv4FAaFK5bWYMucHar) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:25 | 2023-12-26 | 2023-12-30 |
+| [Beyond the Sequence](https://open.spotify.com/track/57F3OT0OcwOzYc06dmM71L) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 3:25 | 2023-12-26 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-07-17 |  |
 | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE) | 3:54 | 2022-07-17 |  |
 | [Continues](https://open.spotify.com/track/2j07bmaxncaCWCRU2cYltM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Koi](https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7) | 4:26 | 2022-09-15 | 2022-11-13 |
@@ -75,6 +76,7 @@
 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 | 2022-04-07 |  |
 | [Nothing](https://open.spotify.com/track/037Z9dmkkqelP4cU0fcqWs) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:40 | 2022-04-07 | 2022-07-29 |
 | [Nothing](https://open.spotify.com/track/3Ar74ZAYT9fRzGqsGnE7Kc) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:40 | 2022-07-17 |  |
+| [Odd Couple](https://open.spotify.com/track/5IQFO0FaHVIkv3Xnu0ROBu) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 3:12 | 2023-12-26 |  |
 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 | 2023-09-07 | 2023-09-09 |
 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:46 | 2023-09-07 |  |
 | [Outcast \(Live Session\)](https://open.spotify.com/track/3iu6xaMIQHEP9mZMv7Nyew) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 1:56 | 2023-09-07 |  |
@@ -102,11 +104,12 @@
 | [Tomato](https://open.spotify.com/track/23Vc7bWEZKZaTpb7gyxOhL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI/CREATE](https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj) | 2:48 | 2022-07-17 |  |
 | [Week End](https://open.spotify.com/track/4yBciZ52BnlfqsbwmRKKKp) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:30 | 2022-04-07 | 2022-07-29 |
 | [Week End](https://open.spotify.com/track/5eZdmSbdCtO344dC0A3CB2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:30 | 2022-07-17 |  |
+| [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-26 |  |
 | [Why Don't You Play In Hell?](https://open.spotify.com/track/4cjKCc5EiJbRanDMw81SUG) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 3:41 | 2022-07-17 |  |
 | [Yuge](https://open.spotify.com/track/5D1d1YeP3q4TBj5k4c6Kxn) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Episode](https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8) | 2:56 | 2022-07-17 |  |
 | [Yume no Sotohe](https://open.spotify.com/track/5gco2ws1tdB6Md3vFqbwf4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 3:51 | 2022-07-17 |  |
 | [うちで踊ろう \(大晦日\)](https://open.spotify.com/track/2zyFTHMJZNTH2pqjxo48kE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議/創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 3:48 | 2022-04-07 | 2022-07-29 |
-| [おともだち](https://open.spotify.com/track/68BmFo8k9wtaAXgQjRt51s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:12 | 2023-12-26 |  |
+| [おともだち](https://open.spotify.com/track/68BmFo8k9wtaAXgQjRt51s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:12 | 2023-12-26 | 2023-12-30 |
 | [くせのうた](https://open.spotify.com/track/3VYGe2iv4Ja4KcgsKGhTZg) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 4:44 | 2022-04-07 | 2022-07-29 |
 | [くだらないの中に](https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 4:20 | 2022-04-07 | 2022-07-29 |
 | [さらしもの \(feat\. PUNPEE\)](https://open.spotify.com/track/0LXJ38MncJmqqVdeUhDIZv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Same Thing](https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3) | 3:50 | 2022-04-07 | 2022-07-29 |
@@ -125,7 +128,7 @@
 | [不思議](https://open.spotify.com/track/6NKn02oJDkUkRa9IHbMe3n) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議](https://open.spotify.com/album/5s6klVSavspAWCCKSjDYCn) | 4:50 | 2022-04-07 | 2022-07-29 |
 | [乱視](https://open.spotify.com/track/6qIcxgK7ZlF00wnkPB9KcX) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [フィルム](https://open.spotify.com/album/7qRrk4lJ3aukVtTe2c7Qyq) | 3:28 | 2022-04-07 | 2022-07-29 |
 | [仲間はずれ \(Live Session\)](https://open.spotify.com/track/1ntXyakVwav6cNBJRmYpH1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 1:56 | 2023-09-07 | 2023-09-09 |
-| [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 |  |
+| [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 | 2023-12-30 |
 | [創造](https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [創造](https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM) | 3:54 | 2022-04-07 | 2022-07-29 |
 | [化物](https://open.spotify.com/track/5IOKl1EeyOw7Bjp9E84tdw) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf) | 2:27 | 2022-04-07 | 2022-07-29 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-07 | 2022-07-29 |

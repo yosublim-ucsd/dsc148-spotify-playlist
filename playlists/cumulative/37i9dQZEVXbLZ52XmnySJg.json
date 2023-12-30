@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 260590,
       "name": "Humdard (From \"Ek Villain\")",
       "url": "https://open.spotify.com/track/2PvaburAUlhNHxVhw5lvOq"
@@ -6686,6 +6686,36 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "album": {
+        "name": "Ishq Jaisa Kuch (From \"Fighter\")",
+        "url": "https://open.spotify.com/album/1M0PQfcd72KDs5pT7BXizD"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169686,
+      "name": "Ishq Jaisa Kuch (From \"Fighter\")",
+      "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM"
     },
     {
       "album": {
@@ -8696,7 +8726,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -10390,7 +10420,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States\")",
       "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
@@ -11264,7 +11294,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 248181,
       "name": "Naa Ready",
       "url": "https://open.spotify.com/track/13ZISM2bmrMBCRlMzl669x"
@@ -15342,7 +15372,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 187102,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"

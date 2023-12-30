@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 126675,
+  "num_followers": 126797,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGIzZWJiZmMzOTc2NTk2MjU3MmJlNzc1NDhkY2VmZjgzNDQ0ODky",
+  "snapshot_id": "MCxkYzNmYmE3MmJlNDE1MDk2NjdmZjg5YzEwYzVmNDdhOGI1NjZmZmFh",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All I See (feat. CASS)",
-        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 183341,
-      "name": "All I See (feat. CASS)",
-      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All I See (feat. CASS)",
+        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 183341,
+      "name": "All I See (feat. CASS)",
+      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "neverfade",
-        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 179857,
-      "name": "neverfade",
-      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 238666,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "neverfade",
+        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 179857,
+      "name": "neverfade",
+      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "LET YOURSELF BE LOVED",
         "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
       },
@@ -755,6 +735,42 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -807,22 +823,6 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hands High",
-        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "Hands High",
-      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Love Running Wild",
         "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 201371,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hands High",
+        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "Hands High",
+      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206960,
       "name": "Right Where You Want Me",
       "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1243,22 +1223,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Glory (Live)",
-        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
       "artists": [
         {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
         },
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Never Let You Go - Live",
-      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
+      "duration_ms": 227500,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1283,6 +1263,26 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All Glory (Live)",
+        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        },
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Never Let You Go - Live",
+      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
     },
     {
       "added_at": "2023-02-18 04:35:24",

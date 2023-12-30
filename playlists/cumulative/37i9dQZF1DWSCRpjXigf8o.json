@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 261706,
       "name": "Hitohito",
       "url": "https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad"
@@ -5745,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "Shiawase no Mawarimichi",
+        "url": "https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Shiawase no Mawarimichi",
+      "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
+    },
+    {
+      "album": {
         "name": "ROACH",
         "url": "https://open.spotify.com/album/05PlYzA6iAlIjPclb5dUcb"
       },
@@ -6504,6 +6522,24 @@
       "duration_ms": 181938,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     },
     {
       "album": {

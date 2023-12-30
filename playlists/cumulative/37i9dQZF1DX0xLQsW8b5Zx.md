@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-189 songs - 8 hr 25 min
+190 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 | 2022-05-06 |  |
 | [Nathalie](https://open.spotify.com/track/48zoQZk5Vc4Y71SvvJuyLm) | [Pepita Slappers](https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z) | [Honey Bee](https://open.spotify.com/album/7FSJZmaJWEAxzNTHL7Jdf5) | 3:34 | 2022-05-06 | 2022-07-24 |
 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 | 2022-07-05 |  |
+| [North Side Gal](https://open.spotify.com/track/0CwX2DEmDAxx4WYMjty8Mh) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:31 | 2023-10-27 |  |
 | [North Side Gal](https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:31 | 2022-09-02 | 2023-12-24 |
 | [North Side Gal](https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69) | 2:31 | 2022-07-05 | 2022-10-20 |
 | [North Side Gal](https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/2z1GaPw5X4d7HHRSIwxInv) | 2:31 | 2022-05-06 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Rockabilly Rebel](https://open.spotify.com/track/0CKYAhx3EzIg19GUkXhJWA) | [Orion](https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU) | [Sun Collector Classics \- Rockabilly](https://open.spotify.com/album/0T8bNZn4Gy55Sz0PIeaMEv) | 2:43 | 2022-09-02 | 2022-11-12 |
 | [Rockabilly Rebel](https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz) | [Orion](https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU) | [Sun Collector Classics \- Rockabilly](https://open.spotify.com/album/1RlKHwfQJLx9GQsjb1Y5QF) | 2:43 | 2022-05-06 | 2022-07-28 |
 | [Rocket to the Moon](https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0) | [Pepita Slappers](https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z) | [Rocket to the Moon](https://open.spotify.com/album/63sO9QAPD2hjpNh98WFiwC) | 3:34 | 2022-05-06 | 2022-07-28 |
-| [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 | 2022-07-05 |  |
+| [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 | 2022-07-05 | 2023-12-30 |
 | [Rockin' The Night Away](https://open.spotify.com/track/7fnlgiottlzCU3Q42ClGza) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' The Night Away](https://open.spotify.com/album/7Lwi2V27gMNZPrAOBgvIXR) | 2:53 | 2022-05-06 | 2022-07-29 |
 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 | 2022-07-05 | 2023-06-30 |
 | [Rocky Road Blues](https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/7xv9TdxQWJLyx8wDpcyAAf) | 3:27 | 2022-05-06 | 2022-07-29 |

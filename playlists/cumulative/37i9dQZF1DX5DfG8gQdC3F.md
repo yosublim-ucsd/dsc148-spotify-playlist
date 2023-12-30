@@ -2,7 +2,7 @@
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Central Cee, Wizkid, Zeds Dead, Jimin and more.
+> New Music Friday will return in 2024\. Happy New Year!
 
 10,165 songs - 22 day 12 hr 56 min
 

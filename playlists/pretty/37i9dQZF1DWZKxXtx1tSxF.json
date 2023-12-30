@@ -1,12 +1,12 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 35890,
+  "num_followers": 36012,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTA0Mzg2MDczZmE4OTIyN2U2MjQ0Y2M3YzY1OWU1OTE1MDRkZGFk",
+  "snapshot_id": "MCxhOWM1ODE5NmYyZmZlZjE0YzQ5NDc2ZDk3NGE2MDQ0YjY4ODJiNjdl",
   "tracks": [
     {
       "added_at": "2023-08-14 15:00:12",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Inefable",
-        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 207879,
-      "name": "Confianza",
-      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Parque Acu\u00e1tico",
         "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 172646,
       "name": "Parque Acu\u00e1tico",
       "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Inefable",
+        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 207879,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "Soundamerica",
         "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 315933,
       "name": "An\u00f3nimos (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -699,8 +699,8 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 309346,
+      "name": "El Paraiso de los Perros",
+      "url": "https://open.spotify.com/track/309zcIa7rkb1QMKX4fw1Lf"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 309346,
-      "name": "El Paraiso de los Perros",
-      "url": "https://open.spotify.com/track/309zcIa7rkb1QMKX4fw1Lf"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 194981,
-      "name": "Ay, Ay",
-      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 270173,
       "name": "No Te Fumes Mi Mariguana",
       "url": "https://open.spotify.com/track/0LFjHJnsZd1B6KPnvTmIVy"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
     },
     {
       "added_at": "2023-08-14 15:00:12",

@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Nasty C & ODUMODUBLVCK
 
-343 songs - 17 hr 43 min
+344 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-11-25 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-18 | 2022-10-08 |
 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 | 2023-06-23 | 2023-10-02 |
-| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 |  |
+| [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 | 2023-12-30 |
+| [ACID GUNZX](https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:46 | 2023-12-22 |  |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-26 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-10-13 |
 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 | 2023-08-10 | 2023-09-15 |

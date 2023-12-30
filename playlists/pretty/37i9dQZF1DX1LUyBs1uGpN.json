@@ -1,15 +1,39 @@
 {
   "description": "\u00a1Pura Doble P! Chachaaauuuuuu",
-  "num_followers": 804470,
+  "num_followers": 807205,
   "original_name": "This Is Peso Pluma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWFjZTVlNjdhMDM2ODhkMzNlMzg4OWM1OWM3MmY5NDIzY2RmMjlj",
+  "snapshot_id": "MCw2NTZkNjRjOTM2MGFiMjVlYjc1NWVlNGIzMWM1M2QyMDBhNDQ2MmVj",
   "tracks": [
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
+      "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
         "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -141,7 +165,7 @@
       "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -161,7 +185,7 @@
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -185,7 +209,7 @@
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
@@ -233,7 +257,7 @@
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -249,7 +273,7 @@
       "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
@@ -269,7 +293,7 @@
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "1 1 1",
         "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
@@ -305,7 +329,7 @@
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Rosa Pastel",
         "url": "https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v"
@@ -361,7 +385,7 @@
       "url": "https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Ex-Special",
         "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
@@ -381,7 +405,7 @@
       "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "El Belic\u00f3n",
         "url": "https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur"
@@ -401,7 +425,7 @@
       "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
@@ -421,7 +445,7 @@
       "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -441,7 +465,7 @@
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -461,7 +485,7 @@
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "PLEBADA",
         "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -501,7 +525,7 @@
       "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -541,7 +565,7 @@
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
@@ -561,7 +585,7 @@
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "77",
         "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "LA CHAMBA",
         "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
@@ -649,7 +673,7 @@
       "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/3CEk3KwDixeCKOVPacup7L"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/5rGJkSCM6ZDi69eZb7qoNx"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
@@ -745,7 +769,7 @@
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Disco en Vivo (En Vivo)",
         "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/0qDWzwE43rC80PSPppB37o"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -821,7 +845,7 @@
       "url": "https://open.spotify.com/track/4w5hSBHaXu849xt0g9eeDg"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
@@ -849,7 +873,7 @@
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
@@ -869,7 +893,7 @@
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -885,7 +909,7 @@
       "url": "https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Todo Es Playa",
         "url": "https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE"
@@ -901,7 +925,7 @@
       "url": "https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Ah y Que?",
         "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
@@ -917,7 +941,7 @@
       "url": "https://open.spotify.com/track/3df0OA3jp7WbRgbkA4zBN7"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -933,7 +957,7 @@
       "url": "https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "30 Tiros",
         "url": "https://open.spotify.com/album/6TaC0bj5LB0ivBCK0cseIH"
@@ -949,7 +973,7 @@
       "url": "https://open.spotify.com/track/2SfL8jCTC7XxKhsD4YhSmV"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -965,7 +989,7 @@
       "url": "https://open.spotify.com/track/3IeL2BjoIaLICr6QDXxlcj"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -981,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
@@ -1005,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Disco en Vivo (En Vivo)",
         "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
@@ -1021,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4E6s2aBCZuoHdo2ADKmX1R"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Disco en Vivo, Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/38axttNElf1zwOUvInHwpx"
@@ -1037,7 +1061,7 @@
       "url": "https://open.spotify.com/track/4hpYhZhGn6JyUv62qpu2WP"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Ah y Que?",
         "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
@@ -1057,7 +1081,7 @@
       "url": "https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Pisteando Con Amigos",
         "url": "https://open.spotify.com/album/0C9MlBweseVhFJVpnfpLN8"
@@ -1077,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3hMW9VmTRV1ghqCj2efoRJ"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/0e4cbWt2IcUYPXn7jCQXt0"
@@ -1093,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5rw1Kmm5BklmJzbgh1HCXr"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -1109,7 +1133,7 @@
       "url": "https://open.spotify.com/track/2BfYlQPq501DdEfc2inL9t"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -1125,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu"
     },
     {
-      "added_at": "2023-12-20 19:15:35",
+      "added_at": "2023-12-30 00:00:00",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -1139,22 +1163,6 @@
       "duration_ms": 225034,
       "name": "Con Dinero Baila el Perro",
       "url": "https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR"
-    },
-    {
-      "added_at": "2023-12-20 19:15:35",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Sembrando",
-      "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
     }
   ],
   "unique_name": "This Is Peso Pluma",

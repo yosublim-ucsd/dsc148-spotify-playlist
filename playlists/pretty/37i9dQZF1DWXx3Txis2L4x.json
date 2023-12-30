@@ -1,12 +1,12 @@
 {
   "description": "Don't use these shoes to run, they just look nice for the playlist cover. Use real running shoes, please.",
-  "num_followers": 606002,
+  "num_followers": 606453,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTRjYWFmODVlYzNkZmQ5NmQ3MDk5MjFlYTFkYmU4M2VmYTYwNDg3",
+  "snapshot_id": "MCxkZmQ0NTE5ZjBkN2EwOTVhYmQzYzEyNjMzMzdlODY2NzA4OTBhZWNh",
   "tracks": [
     {
       "added_at": "2023-12-13 22:13:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Good Morning Revival",
-        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 174026,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Good Morning Revival",
+        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235400,
       "name": "My God Is the Sun",
       "url": "https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219400,
       "name": "Lazaretto",
       "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 171322,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Enemies",
-        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "added_at": "2023-12-13 22:13:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-12-13 22:13:25",
       "album": {
-        "name": "Club Majesty",
-        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
-      },
-      "artists": [
-        {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Fireman & Dancer",
-      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
-    },
-    {
-      "added_at": "2023-12-13 22:13:25",
-      "album": {
         "name": "Figure Eight",
         "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
+    },
+    {
+      "added_at": "2023-12-13 22:13:25",
+      "album": {
+        "name": "Club Majesty",
+        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Fireman & Dancer",
+      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
     },
     {
       "added_at": "2023-12-13 22:13:25",

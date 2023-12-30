@@ -4,7 +4,7 @@
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-82 songs - 6 hr 37 min
+83 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 | 2023-05-11 |  |
 | [Coming Home \(feat\. Akanksha Grover\)](https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Akanksha Grover](https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 4:54 | 2023-08-03 | 2023-12-25 |
 | [Dil Mein Ab](https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Paniya](https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW) | 3:10 | 2023-07-26 |  |
+| [Divine Krishna](https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [We for Love](https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo) | 4:53 | 2023-10-18 |  |
 | [Garaj Garaj](https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Ajoy Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 2:38 | 2023-05-11 |  |
 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 | 2023-05-11 |  |
 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 | 2023-05-11 |  |
@@ -60,7 +61,7 @@
 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 | 2023-05-11 |  |
 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 | 2023-07-21 |  |
 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 | 2023-05-11 |  |
-| [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
+| [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 | 2023-12-30 |
 | [Paniya](https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Paniya](https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW) | 6:50 | 2023-07-26 | 2023-10-19 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-11 |  |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 | 2023-08-04 |

@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,787 songs - 3 day 8 hr 2 min
+1,790 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 | 2021-11-26 | 2022-07-29 |
 | [Bluebird](https://open.spotify.com/track/2NW5l5VDQNbt7IIS6SAZH6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Bluebird](https://open.spotify.com/album/3JpEvq41EcVub0QNEhlwvH) | 3:07 | 2022-04-20 | 2022-07-24 |
 | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/track/3LQwGnHo2iHiRGbLl5aPXQ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/album/1DsyDD6mimG3xUjdCvPFSz) | 3:24 | 2021-03-17 | 2022-07-29 |
+| [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 | 2023-12-26 |  |
 | [Bouyant](https://open.spotify.com/track/5Y20UnPaxMhE5BaXvOuThw) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Bouyant](https://open.spotify.com/album/33OCaMvYFiTmjxUlRFbNmb) | 1:57 | 2021-07-22 | 2022-06-09 |
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2022-12-22 | 2023-04-16 |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-02-24 | 2022-04-06 |
@@ -385,7 +386,7 @@
 | [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2021-03-24 | 2022-07-29 |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/5YrgPcJCR26wsCtTgKYATs) | [Arthur Mass](https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:30 | 2021-03-14 | 2022-04-05 |
 | [Dinner For Two](https://open.spotify.com/track/2QjxTQAOtgiTJSO83VjJcv) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Dinner For Two](https://open.spotify.com/album/3uaRzslDvp8Jo2wjl3E7c8) | 2:47 | 2022-03-29 | 2022-04-06 |
-| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-04-15 |  |
+| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-04-15 | 2023-12-30 |
 | [Distant Memories](https://open.spotify.com/track/39UpkwSpdQRpmBoZgNYD36) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [Distant Memories](https://open.spotify.com/album/61ACEWgliqcvyd27g3MXWH) | 2:55 | 2021-03-21 | 2021-05-20 |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2021-05-25 | 2022-04-19 |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/5QarVtsSmGDiIsCy49yLEs) | [Tony Deans](https://open.spotify.com/artist/3d7m26R3bBUoThTdRLqfDC) | [Do They Know It's Christmas?](https://open.spotify.com/album/0jN1WfdTAdNwP3dAPKUlym) | 3:45 | 2021-03-16 | 2021-05-07 |
@@ -923,7 +924,7 @@
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-04-15 | 2023-07-24 |
 | [Lying To Myself](https://open.spotify.com/track/1vVxZWn3OeYOGdY6aHJtmu) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Lying To Myself](https://open.spotify.com/album/2WFArmMoZLA784OtqrKLyP) | 4:17 | 2021-03-16 | 2022-04-17 |
 | [Lyon](https://open.spotify.com/track/67b6LvfxFlCLWwxv2nYtDa) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 1:52 | 2021-05-06 | 2022-04-12 |
-| [Lyrides](https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Lyrides](https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV) | 2:43 | 2022-12-22 |  |
+| [Lyrides](https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Lyrides](https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV) | 2:43 | 2022-12-22 | 2023-12-30 |
 | [Lys De La Paix](https://open.spotify.com/track/0BEc6joSWDSRiNRWX2CPN5) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Lys De La Paix](https://open.spotify.com/album/1LBUWlf1AXoFY9nqVMTp45) | 2:54 | 2021-09-22 | 2021-09-24 |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-04-14 | 2022-10-13 |
 | [Længsel](https://open.spotify.com/track/1lwVlrh8sqai2WuvVqfZYy) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Længsel](https://open.spotify.com/album/6M4c1eoqnrXP4pQfDddaeU) | 1:55 | 2021-03-10 | 2022-04-21 |
@@ -985,6 +986,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
 | [Moderato malinconico](https://open.spotify.com/track/4aLv7wK3U690o6TXfg2VIm) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alvaro Cendoya](https://open.spotify.com/artist/1jyT4Lhl2rlLEQivwIgDat) | [Ponce: Complete Piano Works, Vol\. 2](https://open.spotify.com/album/63SsbvjLqIzTXSHAemQT71) | 2:20 | 2021-05-17 | 2021-05-18 |
 | [Moment of Silence](https://open.spotify.com/track/4eSYFvsqnVIfy75EflVtmg) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Moment of Silence](https://open.spotify.com/album/60M9flmWaOCcYKU0HEP1Fu) | 2:46 | 2021-05-07 | 2022-04-14 |
+| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-26 |  |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-07-27 | 2022-08-02 |
 | [Monastral](https://open.spotify.com/track/59Y2voKQ0Ie6ptgS5VrnEn) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Aureolin](https://open.spotify.com/album/3x7NlTjKHUuwxq4pgO8nnT) | 2:03 | 2021-03-09 | 2022-04-18 |
 | [Monmartre](https://open.spotify.com/track/2iOeUalTtkixjGZbwkEiGd) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Monmartre](https://open.spotify.com/album/5o4AGZzBjLYVNupbR9GZFE) | 1:41 | 2021-04-27 | 2021-05-13 |
@@ -1017,6 +1019,7 @@
 | [Musicbox](https://open.spotify.com/track/0pmeTXglx0EPPjp9deog17) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [Musicbox](https://open.spotify.com/album/0NXyGcvwGuSZ18knQPmhtR) | 2:28 | 2021-05-12 | 2022-04-02 |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-07-27 | 2022-12-24 |
 | [My Oak](https://open.spotify.com/track/03lm0budvLeN51ri2W0eRJ) | [Jeff Bright Jr](https://open.spotify.com/artist/7E6ohNXHygGbx68hwQxEXN) | [My Oak](https://open.spotify.com/album/70yvq1iSou9rQ5zRoDYXTn) | 2:41 | 2022-03-29 | 2022-04-16 |
+| [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 | 2023-12-26 |  |
 | [Myrdal\-Flam](https://open.spotify.com/track/5qoUtJVdcNWR3EndlthjYH) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Myrdal\-Flam](https://open.spotify.com/album/3GDcszou7Rblob4YilhzJB) | 1:58 | 2021-03-21 | 2022-04-12 |
 | [Mystery](https://open.spotify.com/track/3VS7GB995gxkYsThMYQ7l7) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Forget Me Not](https://open.spotify.com/album/6kWRc5rLWPA5f7HCxyKzTn) | 4:09 | 2021-09-22 | 2022-07-19 |
 | [Myth](https://open.spotify.com/track/61dAOLGkqOSyZQUPA5BbdQ) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:39 | 2021-03-17 | 2022-04-03 |
@@ -1373,7 +1376,7 @@
 | [Soirée Chorale](https://open.spotify.com/track/58IwKBN3bFuJwub5Z5TaGO) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Soirée Chorale](https://open.spotify.com/album/2aIxLvoCk2Br7q9kPCSkY6) | 2:16 | 2022-06-14 | 2022-07-08 |
 | [Sol Lucet](https://open.spotify.com/track/5xK6Cl0JX7aKAuNEzFhyRn) | [Melanie Brown](https://open.spotify.com/artist/5pxml4hhSFevcsonpJOIgp) | [Sol Lucet](https://open.spotify.com/album/2Cgbz7Tw2GWOMtkoPPz2p7) | 3:48 | 2022-04-14 | 2022-04-16 |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-12-22 | 2023-10-18 |
-| [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 |  |
+| [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 | 2023-12-30 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2022-02-06 |
 | [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-03-16 | 2021-03-17 |
 | [Solitaire](https://open.spotify.com/track/7jYOivheBtZYcsnJhQOMXT) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Solitaire](https://open.spotify.com/album/0pJKEJHiWZfkESbo8slz54) | 1:54 | 2021-03-17 | 2022-04-11 |

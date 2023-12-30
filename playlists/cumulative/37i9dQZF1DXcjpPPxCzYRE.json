@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Paper Doors",
+        "url": "https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY"
+      },
+      "artists": [
+        {
+          "name": "Felix Riebl",
+          "url": "https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O"
+        },
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5"
+    },
+    {
+      "album": {
         "name": "In Your Hands",
         "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
       },
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 166493,
       "name": "LOTO",
       "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 237746,
       "name": "Moving in Slow Motion",
       "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"

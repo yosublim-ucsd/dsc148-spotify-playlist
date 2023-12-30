@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u6301\u4fee (Chih Siou)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Juice Boy",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 190898,
       "name": "Oh Bob",
       "url": "https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd"
@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Watch me!",
+        "url": "https://open.spotify.com/album/2gph7iEY0OSvhwMI36TebV"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60924,
+      "name": "Watch me!",
+      "url": "https://open.spotify.com/track/16hFT7Hp0eHUlFP5LLHmcH"
+    },
+    {
+      "album": {
         "name": "Weirdo (Acoustic Version)",
         "url": "https://open.spotify.com/album/6iLV2Ew0CYO9zJAgja0sxj"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 201363,
       "name": "\u4f60\u5920\u4e86",
       "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 261968,
       "name": "\u5047\u88dd\u6c92\u8b8a\u904e",
       "url": "https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU"
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 212142,
       "name": "\u59b3\u662f\u6211\u5bf6\u8c9d\u311f",
       "url": "https://open.spotify.com/track/6uJpYIALRaPdVnad3NCmda"
@@ -5328,7 +5346,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 239459,
       "name": "\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7vAwqw2kiPVUTdI6SBouwy"
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172092,
       "name": "\u610f\u7336\u672a\u76e1 (feat. \u6d3e\u5049\u4fca)",
       "url": "https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39"
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 161454,
       "name": "\u653e\u68c4",
       "url": "https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V"
@@ -6533,6 +6551,24 @@
     },
     {
       "album": {
+        "name": "JUICE",
+        "url": "https://open.spotify.com/album/1T5xlqGjw5ox9NM5DQoyWU"
+      },
+      "artists": [
+        {
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "\u6c92\u8cc7\u683c\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7hOCDYAC5nSVu24qqN2xLl"
+    },
+    {
+      "album": {
         "name": "\u6c92\u95dc\u4fc2\u5566",
         "url": "https://open.spotify.com/album/56QBa7gkoKp5AlFcNiWtHI"
       },
@@ -6708,6 +6744,28 @@
       "duration_ms": 259459,
       "name": "\u6f14\u7b97\u6cd5",
       "url": "https://open.spotify.com/track/7as27DSfspb7LHRWAp1Vz0"
+    },
+    {
+      "album": {
+        "name": "\u7099\u71b1\u7684\u91ce (\u300a\u58de\u7537\u5b69\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/29gUhnR2wi2dPkZkMPLzKj"
+      },
+      "artists": [
+        {
+          "name": "\u77e5\u66f4",
+          "url": "https://open.spotify.com/artist/5L84ifCEkzPSo2pE0FQ6KE"
+        },
+        {
+          "name": "\u58de\u7279 ?te",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "\u7099\u71b1\u7684\u91ce - \u300a\u58de\u7537\u5b69\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7kC2rUHqNEOzSVtJ6xRuI7"
     },
     {
       "album": {
@@ -7474,7 +7532,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 250614,
       "name": "\u8655\u8655\u907a\u61be",
       "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
@@ -8184,7 +8242,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 303813,
       "name": "\u91cd\u65b0\u8a08\u7b97\u4e2d..",
       "url": "https://open.spotify.com/track/6ipFdaHtD6US06AcPBN5LX"

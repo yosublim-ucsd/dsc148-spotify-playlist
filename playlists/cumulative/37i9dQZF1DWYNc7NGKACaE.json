@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Si No Est\u00e1s (Sped Up)",
+        "url": "https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3"
+      },
+      "artists": [
+        {
+          "name": "Formula Speed",
+          "url": "https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139807,
+      "name": "Si No Est\u00e1s - Sped Up",
+      "url": "https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv"
+    },
+    {
+      "album": {
         "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE",
         "url": "https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG"
       },

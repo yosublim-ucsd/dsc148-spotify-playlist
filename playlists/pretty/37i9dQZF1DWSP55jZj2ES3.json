@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 528147,
+  "num_followers": 528220,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjA3YjFkMDA1M2NmMTZlYmE1YjQ3NGYzODk1MTQ1MDFjMTEzNmNj",
+  "snapshot_id": "MCwzN2M5MDBjZjQ4MWQxMDdmZGQ5MjYxMjU1ZDhlODQ0Yzk1YmRkZTAz",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "One Wayne G",
         "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 136888,
       "name": "20191009 I Like Her",
       "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 124504,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176466,
       "name": "Campus",
       "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 124504,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "1st Time",
-        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "1st Time",
-      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "French Kiwi Juice",
         "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "1st Time",
+        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "1st Time",
+      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "OUTTA MY MIND",
         "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 226005,
       "name": "OUTTA MY MIND",
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 246815,
-      "name": "Beat 54 (All Good Now)",
-      "url": "https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
+      "duration_ms": 246815,
+      "name": "Beat 54 (All Good Now)",
+      "url": "https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -955,6 +939,22 @@
       "duration_ms": 224933,
       "name": "Put a Light On",
       "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Amo XO",
-        "url": "https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
       "artists": [
         {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 148192,
-      "name": "Beach Bummer",
-      "url": "https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq"
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1263,34 +1263,18 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+        "name": "Amo XO",
+        "url": "https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq"
       },
       "artists": [
         {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
         }
       ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "peppermint",
-        "url": "https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 132915,
-      "name": "peppermint",
-      "url": "https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE"
+      "duration_ms": 148192,
+      "name": "Beach Bummer",
+      "url": "https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1311,6 +1295,22 @@
       "duration_ms": 193093,
       "name": "Dapper (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "peppermint",
+        "url": "https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 132915,
+      "name": "peppermint",
+      "url": "https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 158015,
-      "name": "Are You Feeling Sad?",
-      "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 158015,
+      "name": "Are You Feeling Sad?",
+      "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 239324,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Cleaner Air",
         "url": "https://open.spotify.com/album/2JAbq9m4RsGqPFRIB7s7q5"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 128129,
       "name": "Cleaner Air",
       "url": "https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
     },
     {
       "added_at": "2023-09-16 00:49:46",

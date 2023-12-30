@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-226 songs - 12 hr 25 min
+227 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 | 2022-11-15 | 2023-08-25 |
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 |  |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 |  |
+| [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 |  |
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |
@@ -207,7 +208,7 @@
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 |  |
-| [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 |  |
+| [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |
 | [Soneyeah](https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g) | [Quake](https://open.spotify.com/artist/6PytpCLLu3iY5kXYQq6Dxd), [Martin Yo](https://open.spotify.com/artist/5aoFP8e4teKaBy6MVh8x8f), [Adi Dhar](https://open.spotify.com/artist/0nYRMoyeXOXmvMnkHl9Xfi) | [Soneyeah](https://open.spotify.com/album/2P1N9uIF3fGuQM3p2Uuz4E) | 3:14 | 2023-02-16 | 2023-09-30 |
 | [Sorry](https://open.spotify.com/track/1mcABhQTHBUL2TiL8uLLsj) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Harshitha Shetty](https://open.spotify.com/artist/1p3Rdno6pABWuD9F49UqYu) | [Sorry](https://open.spotify.com/album/4FCuyD2KDLFjNJJfrho2Lb) | 2:46 | 2023-09-29 |  |
 | [Stacks](https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Stacks](https://open.spotify.com/album/5x7UNnk2TK0ngePIEkXcE5) | 2:46 | 2023-04-19 | 2023-12-23 |

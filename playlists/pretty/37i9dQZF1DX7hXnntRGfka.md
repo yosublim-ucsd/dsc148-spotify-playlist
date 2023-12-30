@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 
 > Songs from all 12 Albums of the Year shortlisted for the Mercury Prize 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,749 likes - 24 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,800 likes - 24 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 | 23 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 |
 | 24 | [Geronimo](https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:33 |
 
-Snapshot ID: `MCxmNDM1NDYwNjBiNzc1ZDI5YTlhODI4NzkzNGVmOThkYTUyOTY5MTkw`
+Snapshot ID: `MCwwNzI1MmI5NzNjOTRiMTczYzgzMzZjMjdhOTMyNzE5MzYyNDlhY2M3`

@@ -2,9 +2,9 @@
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Yemi Alade
+> Tracks popping off in the Afro scene\. Cover: Nelson Freitas
 
-290 songs - 14 hr 20 min
+292 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-17 | 2023-05-19 |
 | [Make You Say](https://open.spotify.com/track/6RTwIBYKDxNhEG8V2dV5FQ) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Make You Say](https://open.spotify.com/album/3oq0l9uJ2ZZPQnRy367TZM) | 2:46 | 2022-10-27 | 2023-05-27 |
 | [Malika](https://open.spotify.com/track/7cjlYSoUqWIE9GNStrqrNM) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Malika](https://open.spotify.com/album/1WccS7k1oGP1CMt5ULw1fj) | 2:45 | 2022-07-14 | 2023-03-01 |
+| [Mamae](https://open.spotify.com/track/05O5SXB2UNtknsETkzYo5O) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF) | [Mamae](https://open.spotify.com/album/7F8XVMXoqeQ7b1SBLshRHF) | 2:50 | 2023-12-28 |  |
 | [Mami](https://open.spotify.com/track/11RPt1QS4PEK76cgy0s4cl) | [Homa Homa](https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B), [Mike Marino](https://open.spotify.com/artist/4oqS2lS8atL3RlsMe66lol) | [Mami](https://open.spotify.com/album/77f1q1VYpa1L13B2eemN2p) | 2:48 | 2023-07-07 | 2023-07-28 |
 | [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-07-13 | 2023-01-13 |
 | [Maria](https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Maria](https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV) | 2:09 | 2023-07-21 | 2023-10-14 |
@@ -251,6 +252,7 @@
 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2022-12-14 | 2023-04-13 |
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-09-13 | 2022-12-18 |
 | [Spaceman](https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Spaceman](https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1) | 3:23 | 2023-07-13 | 2023-10-20 |
+| [Spiritual Gangsta](https://open.spotify.com/track/17CeZUGav0EA8irJdBHjwB) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Spiritual Gangsta](https://open.spotify.com/album/4FuhmRwDg6qdKuCS1RPPak) | 2:22 | 2023-12-28 |  |
 | [Spéciale](https://open.spotify.com/track/0da0fRqW4yx08ncpL8Gn8B) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Hokage](https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet) | 3:05 | 2023-11-09 |  |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-03-16 | 2023-08-17 |
 | [Strings Attached](https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:13 | 2023-03-09 | 2023-07-28 |
@@ -297,6 +299,6 @@
 | [Zéro Limite](https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Zéro Limite](https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV) | 2:09 | 2023-06-29 | 2023-08-04 |
 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 | 2023-07-21 | 2023-09-22 |
 | [ÇA VA ALLER](https://open.spotify.com/track/5QJGbhcXcWHUOxyNRRMiWi) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [Ti\-Yo](https://open.spotify.com/artist/6NgQwoiNfgR4vxwOF91q0n) | [ÇA VA ALLER](https://open.spotify.com/album/082MdXWk2PpWcbAD3tMj7S) | 3:04 | 2023-09-21 | 2023-10-27 |
-| [η\. LIDJA](https://open.spotify.com/track/4TwXrpZXGgGB4vqzv99tAS) | [DSK On The Beat](https://open.spotify.com/artist/38A7ltaUhw1eX3FTqTNyhE), [Sonik](https://open.spotify.com/artist/42EAELoCK4ZKLHGrLuOiII) | [HUMAN 30](https://open.spotify.com/album/2qxrvbLOUqz1iGXNQyTnOk) | 2:35 | 2023-12-08 |  |
+| [η\. LIDJA](https://open.spotify.com/track/4TwXrpZXGgGB4vqzv99tAS) | [DSK On The Beat](https://open.spotify.com/artist/38A7ltaUhw1eX3FTqTNyhE), [Sonik](https://open.spotify.com/artist/42EAELoCK4ZKLHGrLuOiII) | [HUMAN 30](https://open.spotify.com/album/2qxrvbLOUqz1iGXNQyTnOk) | 2:35 | 2023-12-08 | 2023-12-30 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

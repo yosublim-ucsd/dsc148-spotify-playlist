@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Diferan",
+        "url": "https://open.spotify.com/album/3jVojC2xLgVe5jbWeGQvYK"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298057,
+      "name": "Mwen bouke",
+      "url": "https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF"
+    },
+    {
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 331871,
       "name": "Simplicit\u00e9",
       "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"

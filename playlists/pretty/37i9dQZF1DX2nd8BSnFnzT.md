@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,530 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,550 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Porta\-Malas](https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [Porta\-Malas](https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD) | 4:13 |
 | 75 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 
-Snapshot ID: `MCwyODlkZDZkZDMzNWNlYjkyMWNjMTlkMDVlMjRlOTI3NWI1YTU0NGU0`
+Snapshot ID: `MCw4MjJiZGMyMjkxM2MyZGNjNDU2N2JiN2QyOWFjNDI2YmYxNWM1M2Mz`

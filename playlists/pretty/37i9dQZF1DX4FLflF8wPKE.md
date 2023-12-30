@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,325 likes - 86 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,431 likes - 86 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 12 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 |
 | 13 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 |
 | 14 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
-| 15 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/3JdD9wqvohYMjK6BmEHtTP) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Emotions](https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX) | 2:52 |
+| 15 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/0Seumg0NAq7KS1r0Yso52H) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Satie: Masterpieces](https://open.spotify.com/album/0prSt5SFLlXKakAkGoLTs0) | 2:52 |
 | 16 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 |
 | 17 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Debussy: Suite bergamasque, L\. 75, 3\. Clair de lune](https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C) | 4:54 |
 | 18 | [Élégie](https://open.spotify.com/track/4t9opZlYVkN78Rh29Pf0YQ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Élégie](https://open.spotify.com/album/3xV4YY0DnCwzArKvqI479e) | 4:13 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 85 | [Piano Concerto No\. 21 in C Major, K\. 467: II\. Andante](https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [London Mozart Players](https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Mozart: Piano Concertos, Vol\. 6](https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP) | 7:13 |
 | 86 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 |
 
-Snapshot ID: `MCxiZGRiZWEwMjY2YTdlNmU5YTU4MTViMzcxMzZhN2QzYTU2ZDE0ZDBl`
+Snapshot ID: `MCw5YjY5MGI3NDM1NWU4OTJkNjlkNTFkOGVjMmY5MjQzNGEzMjAxZGI0`

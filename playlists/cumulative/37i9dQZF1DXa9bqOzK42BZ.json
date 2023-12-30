@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "Amefanya",
+        "url": "https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        },
+        {
+          "name": "Anastasia Mukabwa",
+          "url": "https://open.spotify.com/artist/4aGIO4v0X0u7qbycmR5YG9"
+        },
+        {
+          "name": "Solomon Mukubwa",
+          "url": "https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Amefanya",
+      "url": "https://open.spotify.com/track/6uI75Ob2PBGfXLw6NwSAkH"
+    },
+    {
+      "album": {
         "name": "Amen (feat. Kusah)",
         "url": "https://open.spotify.com/album/0jh7fThakW7i8vterefGcx"
       },

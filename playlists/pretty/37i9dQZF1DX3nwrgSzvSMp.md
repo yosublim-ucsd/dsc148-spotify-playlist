@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,914 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 8 | [Suite al Culto Solar \- Xochiyaoyoloh](https://open.spotify.com/track/1Z3pQdIz4n1aqKqWXncPGT) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 5:35 |
 | 9 | [Juego de Pelota](https://open.spotify.com/track/3DJjJNBcBbUjEKwy4HOIIQ) | [Ehecatl](https://open.spotify.com/artist/0U9dywhQ4PRbBn82jXGy15) | [Flauta Indígena de México](https://open.spotify.com/album/4o3JpQsSZ4aIqegl1V2XBH) | 3:45 |
 | 10 | [Birth Song for Quetzalcoatl](https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Mayan Ancestral Music \- Healing Music for Mother Earth](https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq) | 6:52 |
-| 11 | [Josefinita](https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS) | [Rocío Próspero](https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l) | [Antología de la Música P'urhepecha, Vol\. VII](https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc) | 2:33 |
-| 12 | [Male Chabelita](https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 3:37 |
+| 11 | [Male Chabelita](https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 3:37 |
+| 12 | [Josefinita](https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS) | [Rocío Próspero](https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l) | [Antología de la Música P'urhepecha, Vol\. VII](https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc) | 2:33 |
 | 13 | [California Nipaia Nipaia \- Adiós California](https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv) | [Banda Revelación de San Andrés Michoacán](https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk) | [Toro Pinto: Música Purépecha \(Abajeños / Pirékuas / Sones\)](https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs) | 3:34 |
 | 14 | [The New Fire](https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Música Prehispánica](https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z) | 2:45 |
 | 15 | [Nightingale\. Music for the Moon and Stars.](https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Codex \- Music of Ancient Mexico](https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl) | 3:47 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 24 | [Tlazolteotl](https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Rituales Prehispanicos \(Prehispanic Rituals\)\[Mexican Music\]](https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY) | 3:34 |
 | 25 | [Adoración al Sol](https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:17 |
 | 26 | [Festival de Xochipilli](https://open.spotify.com/track/1HVW1yYAqFf1M8C3aUfTpt) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:22 |
-| 27 | [Al Señor Cuauhtemoc](https://open.spotify.com/track/3UYKQp8Ty7HaAxXe8ZDGAc) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 3:01 |
-| 28 | [Danza de los Concheros](https://open.spotify.com/track/6DHxuMSkjuwd8L6cMPVgrQ) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:38 |
+| 27 | [Danza de los Concheros](https://open.spotify.com/track/6DHxuMSkjuwd8L6cMPVgrQ) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:38 |
+| 28 | [Al Señor Cuauhtemoc](https://open.spotify.com/track/3UYKQp8Ty7HaAxXe8ZDGAc) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 3:01 |
 | 29 | [Ofrenda a Huitzilopoxtli](https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:16 |
 | 30 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:33 |
 
-Snapshot ID: `MCxjNDJmNmYwMTQzMjYxNTA5NWRiODc0MzY4NjdiYmRhYTFjMzM3Mjg2`
+Snapshot ID: `MCw2OGNlZDQ5NzQwYWU4NTYyYzVhOTVhMjRiNDYxYWE5MmQwY2EzYjQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,574 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,544 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 80 | [No Body](https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [No Body](https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW) | 2:42 |
 | 81 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 
-Snapshot ID: `MCxlZTg4ZTgyNTRjNjgyNjgyOWQ3OGQ5NjZjOThhZTM1ZGM3ZDA1ZWVk`
+Snapshot ID: `MCxiOTQ5MWEyMTZlMGMzZDIzODQ0MmIwOGI4Mjg4Yjg5M2UwN2EyMDJh`

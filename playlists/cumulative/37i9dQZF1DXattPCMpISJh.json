@@ -1846,7 +1846,7 @@
     {
       "album": {
         "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/5KNa1uT6mqIWsIeEinAySc"
+        "url": "https://open.spotify.com/album/7IjDwMYbG7qWBo2IkAlMgl"
       },
       "artists": [
         {
@@ -1861,6 +1861,28 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197619,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/6QUNymj6kTcUelNwJofuF0"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/5KNa1uT6mqIWsIeEinAySc"
+      },
+      "artists": [
+        {
+          "name": "Luke Delite",
+          "url": "https://open.spotify.com/artist/3cBXq2Zo29hMzveMGVPDzL"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
       "duration_ms": 197619,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
@@ -1886,10 +1908,36 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 220512,
       "name": "Giving Nothing - Art of Tones Remix",
       "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
+    },
+    {
+      "album": {
+        "name": "Giving Nothing",
+        "url": "https://open.spotify.com/album/3Kyg8h1ZprU7IozLK4YwOx"
+      },
+      "artists": [
+        {
+          "name": "Dyanna Fearon",
+          "url": "https://open.spotify.com/artist/6Tj2zk2FBDNAO7k0jXHMSp"
+        },
+        {
+          "name": "Sparkling Attitude",
+          "url": "https://open.spotify.com/artist/3IF1LdxOdz2c329J5KBjjA"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220512,
+      "name": "Giving Nothing - Art of Tones Remix",
+      "url": "https://open.spotify.com/track/32PbGgrt7KVKbnrOnFDjcH"
     },
     {
       "album": {
@@ -3352,6 +3400,28 @@
     {
       "album": {
         "name": "Passion (feat. Nile Rodgers) [Fred Falke Remix]",
+        "url": "https://open.spotify.com/album/0MkaVWp7IcoaA3c7yYl0a5"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233757,
+      "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/766vYpMcjhccL5cd2L46rY"
+    },
+    {
+      "album": {
+        "name": "Passion (feat. Nile Rodgers) [Fred Falke Remix]",
         "url": "https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ"
       },
       "artists": [
@@ -3370,7 +3440,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 233757,
       "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
       "url": "https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ"

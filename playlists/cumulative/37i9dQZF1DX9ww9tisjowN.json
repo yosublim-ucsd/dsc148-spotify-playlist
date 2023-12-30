@@ -1038,10 +1038,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 241986,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj"
+    },
+    {
+      "album": {
+        "name": "The Flower of Love",
+        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU"
     },
     {
       "album": {
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 156937,
       "name": "SNEAKING",
       "url": "https://open.spotify.com/track/4zYlju4viLB237Htiz3zgo"
@@ -3744,6 +3762,24 @@
       "duration_ms": 184024,
       "name": "We The Female!",
       "url": "https://open.spotify.com/track/41n2nfFUIBVjiypYmzPqkp"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
     },
     {
       "album": {
@@ -4623,6 +4659,28 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30e9\u30a4\u30c0\u30eb\u30c9\u30ea\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T"
+      },
+      "artists": [
+        {
+          "name": "\u514e\u7530\u307a\u3053\u3089",
+          "url": "https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt"
+        },
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "\u30d6\u30e9\u30a4\u30c0\u30eb\u30c9\u30ea\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP"
       },
@@ -4976,7 +5034,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 250333,
       "name": "\u5149\u306e\u8de1",
       "url": "https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89"

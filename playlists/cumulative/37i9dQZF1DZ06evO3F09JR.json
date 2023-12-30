@@ -1506,12 +1506,48 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488000,
+      "name": "Spettro II",
+      "url": "https://open.spotify.com/track/4fOacmPnsko7toPFVFHrgF"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 508000,
       "name": "Spettro III",
       "url": "https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Spettro IV",
+      "url": "https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6"
     },
     {
       "album": {

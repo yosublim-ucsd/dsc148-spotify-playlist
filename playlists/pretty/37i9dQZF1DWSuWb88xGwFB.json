@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32058,
+  "num_followers": 32113,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Higher State of Consciousness",
-        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
-      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "King Of My Castle (Mixes)",
         "url": "https://open.spotify.com/album/6ypceV6YBvX5iqzqYH2fow"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 299746,
       "name": "King of My Castle (Roy Malone's King Mix)",
       "url": "https://open.spotify.com/track/4VKoYgw6bQxiz3VuY1Zw8B"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
+      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Blues for You (Vocal Mix #1)",
+      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 519506,
       "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
       "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Blues for You (Vocal Mix #1)",
-      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "You Don't Know (MuthaFunkaz Mixes)",
         "url": "https://open.spotify.com/album/4PqEJS2uVhkonuNw128HWO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 483750,
       "name": "You Don't Know (MuthaFunkaz Tribute Mix)",
       "url": "https://open.spotify.com/track/2jzgWTrE0qUp7Pap6AHBRZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
+      },
+      "artists": [
+        {
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
+        }
+      ],
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -727,6 +727,22 @@
       "duration_ms": 352360,
       "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
       "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -767,38 +783,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
       },
       "artists": [
         {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
         }
       ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -867,6 +851,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        },
+        {
+          "name": "Claude Monnet",
+          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "The Warning (2 Copy Mix)",
+      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
@@ -959,6 +979,22 @@
       "duration_ms": 545040,
       "name": "Justify (Vocal Mix)",
       "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -995,22 +1031,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        },
-        {
-          "name": "Claude Monnet",
-          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "The Warning (2 Copy Mix)",
-      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
+        }
+      ],
+      "duration_ms": 938544,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
-        }
-      ],
-      "duration_ms": 938544,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Let\u2019s Talk About Me (feat. Michael M) [Mixes]",
+        "url": "https://open.spotify.com/album/13w5MNEVPinNtl7jEZZX10"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        },
+        {
+          "name": "Michael M",
+          "url": "https://open.spotify.com/artist/57ZPtrox3KaBOJvm6AHUNU"
+        },
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "duration_ms": 493602,
+      "name": "I Could Be This\u2026 (feat. Michael M) (Morel's That Mix)",
+      "url": "https://open.spotify.com/track/6tGt0ZXAVCSueT4mX4du77"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1279,26 +1303,6 @@
       "duration_ms": 334220,
       "name": "We Can Make It (The \u2018I Believe' Dub)",
       "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/73ReUfZDgkbWOWWzUuqnH7"
-      },
-      "artists": [
-        {
-          "name": "Joey Washington",
-          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
-        },
-        {
-          "name": "The Men's Club",
-          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Just Us (B.O.P. Radio Joint)",
-      "url": "https://open.spotify.com/track/30LrxBxBgJl2x4EQNVAEm2"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

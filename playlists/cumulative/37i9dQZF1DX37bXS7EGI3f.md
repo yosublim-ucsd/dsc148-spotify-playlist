@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-550 songs - 1 day 18 hr 16 min
+551 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-13 | 2022-07-30 |
 | [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 | 2023-07-28 |  |
 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2023-04-16 |
-| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 |  |
+| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 | 2023-12-30 |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
 | [Catalyst 2.0 \- Instrumental](https://open.spotify.com/track/4jXpPRxmokNuSFS5u3GWrM) | [IAMONE](https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx) | [Catalyst 2.0 \(Instrumental\)](https://open.spotify.com/album/2gKCHN1nWT0o6E26bqaZB0) | 5:24 | 2022-07-13 | 2022-07-28 |
 | [Celestial](https://open.spotify.com/track/6JmLarU3CA1ewRprzgqBdT) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Celestial](https://open.spotify.com/album/1pv35RTBxb3cAN3Bs3C6Q0) | 4:17 | 2022-07-13 | 2022-07-30 |
@@ -307,7 +307,7 @@
 | [My Shadow Self](https://open.spotify.com/track/0i5p8lyhwKkqCb08dGJOoe) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/4GZZdYlHV5QtJvjYWv539s) | 3:02 | 2022-11-18 | 2023-01-23 |
 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 | 2023-01-20 |  |
 | [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 | 2022-11-21 |
-| [My Soul's Demise](https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [My Soul's Demise](https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz) | 4:24 | 2023-05-16 |  |
+| [My Soul's Demise](https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [My Soul's Demise](https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz) | 4:24 | 2023-05-16 | 2023-12-30 |
 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 | 2022-06-24 |  |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 | 2021-11-27 | 2022-07-29 |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/6UNSOj1v6OHzRyYfPD1Vbo) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [The Book of Fire \(Platinum Edition\)](https://open.spotify.com/album/0B3E24p9cEOI9ByIFXoAy1) | 3:58 | 2022-07-08 | 2022-09-02 |
@@ -445,7 +445,7 @@
 | [Terial the Hawk](https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Terial the Hawk](https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf) | 4:49 | 2021-10-16 | 2021-11-27 |
 | [Terminal Velocity](https://open.spotify.com/track/2UpxJ9ZFDsWOlwhCH52vkm) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/7iWSG80aISZQFUccpBFoT1) | 6:07 | 2022-07-13 | 2022-07-30 |
 | [The Abyss](https://open.spotify.com/track/5AoWP6n2TXmb1ZpZ5Rvy9K) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [The Abyss](https://open.spotify.com/album/5UP5HLrwS7znF3jvgUzZpq) | 3:40 | 2022-07-13 | 2022-07-30 |
-| [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 | 2022-02-11 | 2023-12-26 |
+| [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 | 2022-02-11 |  |
 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 | 2021-12-11 |  |
 | [The Call of the Mountains](https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT), [Masha Scream](https://open.spotify.com/artist/0rKNwdazSGDxEvTaNNxu6X) | [The Call of the Mountains & Ambiramus in Russian](https://open.spotify.com/album/0ifBPqJ1ol8j1H0G8cjZPa) | 4:14 | 2020-11-29\* | 2021-07-10 |
 | [The Crown and the Ring](https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Crown and the Ring](https://open.spotify.com/album/2QGVSOtuG50JyTMa9EUQss) | 5:17 | 2021-08-14 | 2022-04-09 |
@@ -529,6 +529,7 @@
 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 | 2023-04-14 |  |
 | [We Are the Fire](https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [We Are the Fire](https://open.spotify.com/album/0mtaaHGtukgLeUHa41VDGy) | 3:35 | 2021-08-21 | 2022-04-02 |
 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 | 2023-07-17 |  |
+| [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 | 2023-05-19 |  |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 | 2023-12-18 |
 | [We're Still Here](https://open.spotify.com/track/7CME4cSHQBk0gPFuUjq56D) | [For Giants](https://open.spotify.com/artist/1E9A2LYYOJEIR7cB7nsYg8) | [Big Sky](https://open.spotify.com/album/4vWzF4n5dcYRDWhcvH8iC9) | 4:24 | 2022-07-13 | 2022-07-30 |
 | [Werewolves of Armenia \- Rerecorded Version](https://open.spotify.com/track/7uV7feIzEHk0TS1xWw4zwU) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Werewolves of Armenia \(New Version 2020\)](https://open.spotify.com/album/0pcyE5m2GWpW8CsYv0BiMk) | 4:15 | 2020-11-29\* | 2021-08-21 |

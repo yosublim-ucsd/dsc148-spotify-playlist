@@ -3741,6 +3741,44 @@
     },
     {
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "album": {
         "name": "Love Absurdo",
         "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
       },
@@ -4032,6 +4070,36 @@
       "duration_ms": 127058,
       "name": "Mandona (Se eu te dissesse)",
       "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "album": {
+        "name": "Maria Mariah",
+        "url": "https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1"
+      },
+      "artists": [
+        {
+          "name": "JC NO BEAT",
+          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+        },
+        {
+          "name": "DJ F7",
+          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
+        },
+        {
+          "name": "MC Meno Dani",
+          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Maria Mariah",
+      "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
     },
     {
       "album": {
@@ -4338,7 +4406,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 163636,
       "name": "Mesma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
@@ -4838,7 +4906,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"

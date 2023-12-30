@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-221 songs - 14 hr 46 min
+222 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 | 2021-12-27 |  |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-06-07 |  |
 | [Ea Ea La Cumbia Buena](https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY) | [Mister Cumbia](https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9) | [Ea Ea La Cumbia Buena](https://open.spotify.com/album/3rJDCQyJydiROr7TWP4Qvz) | 3:13 | 2023-11-08 | 2023-12-16 |
+| [Ea Ea La Cumbia Buena](https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33) | [Mister Cumbia](https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9) | [Ea Ea La Cumbia Buena](https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf) | 3:13 | 2023-11-08 |  |
 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 | 2021-12-27 | 2022-07-29 |
 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 | 2022-06-07 |  |
 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 | 2021-12-27 |  |
@@ -190,7 +191,7 @@
 | [Sensacion Latina](https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL) | [Yucateco](https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN) | [Sensacion Latina](https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf) | 2:45 | 2022-12-30 | 2023-03-26 |
 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 | 2021-12-27 |  |
 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 | 2023-01-10 |  |
-| [Sin Ella](https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Toque Tropical del Barrio Vol\. 3](https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1) | 4:04 | 2023-11-08 |  |
+| [Sin Ella](https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Toque Tropical del Barrio Vol\. 3](https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1) | 4:04 | 2023-11-08 | 2023-12-30 |
 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 | 2021-12-27 | 2023-01-11 |
 | [Solo una Noche](https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU) | [El Grupo De Mayor Impacto Apasionadoz](https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8) | [Y De Nuevo Otra Vez !!!](https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A) | 3:47 | 2022-06-07 | 2023-01-11 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-12-27 |  |

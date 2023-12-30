@@ -1,13 +1,345 @@
 {
   "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w w 2023 roku. Cover:  <a href=\"spotify:artist:7ruGjTmqO10lSqHWRIchnU\">Daniel Godson</a> #SpotifyWrapped",
-  "num_followers": 20048,
+  "num_followers": 20084,
   "original_name": "Best of Fresh Finds Polska 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGJlYWMyMTMwNzhjYzEzODE2ZjM0NGRjODU5Y2M2ZDZmOWVjY2Ix",
+  "snapshot_id": "MCxmYzBhZGI3NTc0YjgxOGU2NjBkN2EwNmM0Zjk3MmJlMjMyMTNkZTJm",
   "tracks": [
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Czuj\u0119, wi\u0119c jestem?",
+        "url": "https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 190206,
+      "name": "Czuj\u0119, wi\u0119c jestem?",
+      "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Matki wynalazku",
+        "url": "https://open.spotify.com/album/3hrGHrzUc1wQsmffPcLbqn"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Kropka",
+      "url": "https://open.spotify.com/track/61S8h9jGWGBc7KzKv6Q2Vj"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Dotyk",
+        "url": "https://open.spotify.com/album/20bVQQMw4A63ARfRtJ4lXA"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "duration_ms": 129978,
+      "name": "Dotyk",
+      "url": "https://open.spotify.com/track/3Ihwg2wHoggrPkYjG7y1rW"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Lilie",
+        "url": "https://open.spotify.com/album/0aBHGxWFPGqRTpeMouGexP"
+      },
+      "artists": [
+        {
+          "name": "Nastia",
+          "url": "https://open.spotify.com/artist/6oIfNczfkOoCFHWIdRZO88"
+        }
+      ],
+      "duration_ms": 174736,
+      "name": "Lilie",
+      "url": "https://open.spotify.com/track/7BvEXFMJ8mE1qxKdprStyH"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Dzikie Psy",
+        "url": "https://open.spotify.com/album/3wEIcJCRpf9bZIbellxs7F"
+      },
+      "artists": [
+        {
+          "name": "Aleksander Szalonek",
+          "url": "https://open.spotify.com/artist/19gCXM2P8lJbh4F8hGb110"
+        }
+      ],
+      "duration_ms": 249429,
+      "name": "Dzikie Psy",
+      "url": "https://open.spotify.com/track/6LOcZen30tGX1WZ8amkF4U"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "dziwne dzieciaki z klasy",
+        "url": "https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "dziwne dzieciaki z klasy",
+      "url": "https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Przypomnie\u0107 nas",
+        "url": "https://open.spotify.com/album/3ZjKanSju5nggTLvPZt0G3"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Przypomnie\u0107 nas",
+      "url": "https://open.spotify.com/track/15HIv4muHzTaxd1UrDvU5y"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Wars",
+        "url": "https://open.spotify.com/album/6D8OUq7vQaZtcpIgQ2d17G"
+      },
+      "artists": [
+        {
+          "name": "nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Wars",
+      "url": "https://open.spotify.com/track/4hp8pTno1hSvbWbG9MNFaD"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "TANGLED WIRES",
+        "url": "https://open.spotify.com/album/3KdZrVNkYewE9ZQYN41OgK"
+      },
+      "artists": [
+        {
+          "name": "Gabi",
+          "url": "https://open.spotify.com/artist/23SGQQmG0JCoAJ8tLBN5Po"
+        }
+      ],
+      "duration_ms": 172919,
+      "name": "TANGLED WIRES",
+      "url": "https://open.spotify.com/track/6MMXDOHJdQ0N6FarRDfSIG"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Lato",
+        "url": "https://open.spotify.com/album/7CV5QF5P8XQ2MIUsRhAxXT"
+      },
+      "artists": [
+        {
+          "name": "Sonia pisze piosenki",
+          "url": "https://open.spotify.com/artist/6y1MB6WVNOQWn5WczkpxA6"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Lato",
+      "url": "https://open.spotify.com/track/3TvPYEXqiuhwS69cc9wMuM"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Droga Pani",
+        "url": "https://open.spotify.com/album/69NUIudAjLkIJ6BC670Zui"
+      },
+      "artists": [
+        {
+          "name": "cosmos",
+          "url": "https://open.spotify.com/artist/7q349p87C2eR92EJcRX3P1"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Droga Pani",
+      "url": "https://open.spotify.com/track/17fn8JkutKoWtYuNSmc1Hw"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Sea Currents",
+        "url": "https://open.spotify.com/album/6qVtsPSPqDqqW1mQGCqOgz"
+      },
+      "artists": [
+        {
+          "name": "Afekty",
+          "url": "https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH"
+        },
+        {
+          "name": "Basia Siciarek",
+          "url": "https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh"
+        },
+        {
+          "name": "Helena Py\u0142ka",
+          "url": "https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e"
+        }
+      ],
+      "duration_ms": 126302,
+      "name": "Sea Currents",
+      "url": "https://open.spotify.com/track/4IaEPqjrZfL6WchgtuJRnU"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Honey Dripping",
+        "url": "https://open.spotify.com/album/6i0Tv7ex2ocN7F4SLf7Ype"
+      },
+      "artists": [
+        {
+          "name": "Juno Willo",
+          "url": "https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Honey Dripping",
+      "url": "https://open.spotify.com/track/2jQE58cQPorLUa3OXRXAUi"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Drogowskazy",
+        "url": "https://open.spotify.com/album/5qkxooeuMY3oZWxQGcBekE"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Madajczyk",
+          "url": "https://open.spotify.com/artist/4Spwq9te7qI9GvQhHXWfLX"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Drogowskazy",
+      "url": "https://open.spotify.com/track/7J5PTOZCip4HiWap2LlpiO"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "\u015bwi\u0119ty spok\u00f3j",
+        "url": "https://open.spotify.com/album/7wCOvfXAKaP4OlsYLmKh95"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 295437,
+      "name": "tryb ksi\u0119\u017cyc",
+      "url": "https://open.spotify.com/track/1xMP39aoJEGgPOyPKxjkQr"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "No Sugar",
+        "url": "https://open.spotify.com/album/3hi01OzDxg8yIN23JCeJl8"
+      },
+      "artists": [
+        {
+          "name": "Helaine Vis",
+          "url": "https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "No Sugar",
+      "url": "https://open.spotify.com/track/2wMGvaCq8SpbylXRyhRYrw"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Brak",
+        "url": "https://open.spotify.com/album/2FzwEYBvzFwF8BvNtjqgWg"
+      },
+      "artists": [
+        {
+          "name": "Iga Posta",
+          "url": "https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D"
+        }
+      ],
+      "duration_ms": 237825,
+      "name": "Brak",
+      "url": "https://open.spotify.com/track/6GLCRd41vzfEE4DDqN7s1Y"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Jutro mo\u017ce nie by\u0107 niczego",
+        "url": "https://open.spotify.com/album/3vwONl1MxWhWrFg5Vae9z2"
+      },
+      "artists": [
+        {
+          "name": "Weronika Borowiec",
+          "url": "https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx"
+        },
+        {
+          "name": "AronBeats",
+          "url": "https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ"
+        }
+      ],
+      "duration_ms": 197301,
+      "name": "Jutro mo\u017ce nie by\u0107 niczego",
+      "url": "https://open.spotify.com/track/3IJW89o8NsR7UxWTX2RcBu"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Best I've Never Had",
+        "url": "https://open.spotify.com/album/3abqaFudKx4m7apEOveAtL"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 154624,
+      "name": "Best I've Never Had",
+      "url": "https://open.spotify.com/track/4EM5YsgPykhOMzUX4x9IbW"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "spali\u0142o mi dom",
+        "url": "https://open.spotify.com/album/0S1o6I95uXZlllQqXBsPHi"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "spali\u0142o mi dom",
+      "url": "https://open.spotify.com/track/3pBCG2ShIjS7QPUVKSrXYj"
+    },
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {

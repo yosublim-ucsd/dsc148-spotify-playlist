@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Nuevos hallazgos de m\u00fasica indie latina. Rigoberta Bandini y Julieta Venegas en portada.",
+  "description": "Nuevos hallazgos de m\u00fasica indie latina. Mu\u00f1ecas en portada.",
   "name": "Novedades Indie",
   "tracks": [
     {
@@ -21879,6 +21879,24 @@
     },
     {
       "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+    },
+    {
+      "album": {
         "name": "Entre Tejados",
         "url": "https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA"
       },
@@ -23344,6 +23362,24 @@
       "duration_ms": 151544,
       "name": "Estuve ah\u00ed",
       "url": "https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx"
+    },
+    {
+      "album": {
+        "name": "Etapas",
+        "url": "https://open.spotify.com/album/6GiMal2SGoWuXaSZhUXUns"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223623,
+      "name": "Etapas",
+      "url": "https://open.spotify.com/track/2Eowk86XWapo8jsPKVeDAr"
     },
     {
       "album": {
@@ -29703,6 +29739,24 @@
     },
     {
       "album": {
+        "name": "La Celebraci\u00f3n",
+        "url": "https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224739,
+      "name": "La Celebraci\u00f3n",
+      "url": "https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy"
+    },
+    {
+      "album": {
         "name": "La cena",
         "url": "https://open.spotify.com/album/4cCBznfp9tac7wJ41xn9Fr"
       },
@@ -30150,7 +30204,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 108000,
       "name": "La ermita\u00f1a",
       "url": "https://open.spotify.com/track/5H053TqdDpyGO3NNZ4Y6sL"
@@ -31838,6 +31892,24 @@
       "duration_ms": 193746,
       "name": "La vida moderna",
       "url": "https://open.spotify.com/track/67oh7LlJZOzQiZ7mM2GtRm"
+    },
+    {
+      "album": {
+        "name": "La vida no quiso",
+        "url": "https://open.spotify.com/album/7K9xzNL9smUXSpKAAg7Zzq"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "La vida no quiso",
+      "url": "https://open.spotify.com/track/7iM2xqfmBNUTqdd40jFFYX"
     },
     {
       "album": {
@@ -38386,7 +38458,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 236363,
       "name": "Mi Vista",
       "url": "https://open.spotify.com/track/46lR9DmQRGOhlKewZUpJMu"
@@ -43908,7 +43980,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 251093,
       "name": "No Vale",
       "url": "https://open.spotify.com/track/0djDTuNDZ4W6C621lD1GNu"
@@ -50348,7 +50420,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 159411,
       "name": "Pura qu\u00edmica",
       "url": "https://open.spotify.com/track/4LxnvJCOHmYm3QNnXViQAQ"
@@ -53638,7 +53710,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 156916,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/3wcYlvIQOj5wSwEMuXxiJR"
@@ -65800,6 +65872,24 @@
       "duration_ms": 140600,
       "name": "Walking Dogs",
       "url": "https://open.spotify.com/track/2CWoyl5VCiVwxuUwfFow8R"
+    },
+    {
+      "album": {
+        "name": "Warm My Bones",
+        "url": "https://open.spotify.com/album/3IzNDmKJqFblXw4eHyAftn"
+      },
+      "artists": [
+        {
+          "name": "MAUMAUMAU",
+          "url": "https://open.spotify.com/artist/6F2Pv4rAI2oc42Wsh1U7OL"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226435,
+      "name": "Warm My Bones",
+      "url": "https://open.spotify.com/track/6A3kKKeBzc8pDvPUI5kLjZ"
     },
     {
       "album": {

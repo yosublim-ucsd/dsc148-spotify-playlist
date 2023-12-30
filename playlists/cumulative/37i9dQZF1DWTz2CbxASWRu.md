@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-397 songs - 1 day 5 hr 17 min
+398 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Lambi Judaai \(From "Hero"\)](https://open.spotify.com/track/2r1ILRgmmhrhQqWwU9huUT) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Sheesha Ho Ya Dil Ho \- Dard Bhare Geet](https://open.spotify.com/album/2DzDY8wKuOYnX4q1Wtv4Fr) | 6:28 | 2023-07-10 |  |
 | [Lazalypso](https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 3:33 | 2023-07-10 |  |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2023-07-10 |  |
+| [Lec glosie po Rosie](https://open.spotify.com/track/3UlyD98M25emlnVKfsXCjl) | [WoWaKin](https://open.spotify.com/artist/7B39kZGl0vzzAMBxb7T44k) | [Kraj za Miastem](https://open.spotify.com/album/2trYHD0MWhZgPSMXpkbArn) | 3:34 | 2023-12-15 |  |
 | [Ley de gravedad](https://open.spotify.com/track/0QSiz5hqYFYf0TmCi5ioFJ) | [Ojos de Brujo](https://open.spotify.com/artist/6iKnagOuTEr3kLRAJlXRjq) | [Bari](https://open.spotify.com/album/5WNRhfXJhC8HGquGAFsZrz) | 3:49 | 2023-07-10 |  |
 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 | 2023-07-10 |  |
 | [Lo Mejor Pa Ti \- Talvin Singh Remix](https://open.spotify.com/track/2HUumemZvSEU6oDlnJ4XxY) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 6:17 | 2023-07-10 |  |
@@ -276,7 +277,7 @@
 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2023-07-10 |  |
-| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 | 2023-12-27 |
+| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
 | [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
@@ -336,7 +337,7 @@
 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 | 2023-07-10 |  |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2023-07-10 |  |
 | [Sua Alma](https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [D'Alma](https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us) | [Umoja](https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA) | 4:42 | 2023-07-10 |  |
-| [Sueltan Fuego](https://open.spotify.com/track/6noaalzaBQ3osH8XXAPVja) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Sueltan Fuego](https://open.spotify.com/album/10I0cjYgFTNbplphahYZJh) | 4:32 | 2023-07-10 |  |
+| [Sueltan Fuego](https://open.spotify.com/track/6noaalzaBQ3osH8XXAPVja) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Sueltan Fuego](https://open.spotify.com/album/10I0cjYgFTNbplphahYZJh) | 4:32 | 2023-07-10 | 2023-12-30 |
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 |  |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
@@ -345,7 +346,7 @@
 | [Tahabort](https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:30 | 2023-07-10 |  |
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2023-07-10 |  |
 | [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2023-07-10 |  |
-| [Tehigren \(The Trees \)](https://open.spotify.com/track/1KgYMF5HpRGTD9oDt6h4di) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 4:31 | 2023-11-13 |  |
+| [Tehigren \(The Trees \)](https://open.spotify.com/track/1KgYMF5HpRGTD9oDt6h4di) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 4:31 | 2023-11-13 | 2023-12-30 |
 | [Tek Time](https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:03 | 2023-07-10 | 2023-12-23 |
 | [Tendme](https://open.spotify.com/track/3pIC8loAxKvT9Q3rPPaxVZ) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 4:39 | 2023-07-10 |  |
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/6Fw6Ok3z54zNDNSBPeVyxN) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/24KGXmJsYEnqLghXdUK5Dq) | 4:39 | 2023-07-10 | 2023-10-09 |

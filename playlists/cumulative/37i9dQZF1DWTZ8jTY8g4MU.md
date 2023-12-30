@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: نادر الشراري
 
-208 songs - 13 hr 36 min
+209 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [أقفيت عني](https://open.spotify.com/track/3NqFypg1KvwHt1yh2jjquf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/23sa1SHSAO6y29snCLu9El) | 3:20 | 2022-08-31 | 2023-02-23 |
 | [أقفيت عني](https://open.spotify.com/track/3P8qR9m8eKjCQlGlwXLhpw) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/5YUPTs3mlHy1mFDNqudmex) | 3:20 | 2022-03-30 | 2022-11-02 |
 | [أنت الغالي](https://open.spotify.com/track/69FcfNqBwMxHItFoYBlm9K) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أنت الغالي](https://open.spotify.com/album/3mwXiTSRW8MYjwfHbNcMkK) | 3:10 | 2023-06-28 |  |
+| [أنت وحدك](https://open.spotify.com/track/1lvE0CEkI7ui3gIEbEIzvT) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [أنت وحدك](https://open.spotify.com/album/2aIITWEKMUYVbuy0RmzQWr) | 4:07 | 2023-12-29 |  |
 | [أنتي أكبر](https://open.spotify.com/track/3Ngmwqv8rqOjWR8ktSGM7i) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [أنتي أكبر](https://open.spotify.com/album/22faS5AhJIdNOTwFa7NSID) | 4:21 | 2022-03-30 | 2022-11-02 |
 | [أنتي أكبر](https://open.spotify.com/track/4Dyv4PULciAiylUZDaAZ44) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [أنتي أكبر](https://open.spotify.com/album/7asaCaeTkHpEKP1ALcFace) | 4:21 | 2022-08-31 | 2023-02-23 |
 | [ابغاه الحين](https://open.spotify.com/track/3bSKCiMBqevLYJpL6OqWtk) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ابغاه الحين](https://open.spotify.com/album/2vfrNrMYfCtsB9PtB9UEfQ) | 3:53 | 2022-03-30 | 2022-11-03 |
@@ -62,7 +63,7 @@
 | [العشق الجميل](https://open.spotify.com/track/5QhBa6hHquzB2ZgQeId5N4) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/2UlZgHAN2Jl0F17XFTR4hi) | 2:40 | 2022-03-30 | 2022-11-02 |
 | [العشق يجمعنا](https://open.spotify.com/track/6muHAEoB1eZZeY3KDCbRyW) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العشق يجمعنا](https://open.spotify.com/album/75AS6XMqcgEsqan0pKtZch) | 4:07 | 2023-09-18 | 2023-11-18 |
 | [العود غـنّـى](https://open.spotify.com/track/3wLYZRhJuOZfvMy0TSkE8G) | [قينان العاطفي](https://open.spotify.com/artist/4aTJcsI1jjxZkEPm5VvGIx) | [العود غـنّـى](https://open.spotify.com/album/3BJ5xGyPLhUHNcFubX7850) | 4:28 | 2023-09-22 | 2023-10-25 |
-| [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 | 2023-03-08 |  |
+| [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 | 2023-03-08 | 2023-12-30 |
 | [الغياب المر](https://open.spotify.com/track/6KGZkRIA9deMBQa1ywMShu) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [الغياب المر](https://open.spotify.com/album/6u5cIVtWaay6QsamJuBfYt) | 4:10 | 2023-02-22 | 2023-03-29 |
 | [الله اكبر ياجمالك](https://open.spotify.com/track/16uDrZREXddFhfNoHNqUtZ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الله اكبر ياجمالك](https://open.spotify.com/album/1eseQHFKJcR7q3cYY35XjL) | 3:16 | 2023-07-03 | 2023-10-04 |
 | [المفارق سنه](https://open.spotify.com/track/1w5DRZQNeZb480Hfsf6KJt) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [المفارق سنه](https://open.spotify.com/album/74Oi4I7z3X6v7s3ERZ2AaZ) | 3:28 | 2023-09-01 | 2023-10-04 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Robe.
 
-356 songs - 23 hr 12 min
+357 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 | 2023-06-15 | 2023-07-14 |
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2022-07-21 | 2022-10-25 |
 | [Empezar de Cero](https://open.spotify.com/track/5EBLu2ctAliFuTN7zbtqwK) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Empezar de Cero](https://open.spotify.com/album/68M3gmlUhGXIfavkfvhmDX) | 3:12 | 2023-04-27 | 2023-05-19 |
-| [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO), [Víctor Cabezuelo](https://open.spotify.com/artist/2Ba0v7AY4kqOmlHSCdEm2M) | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY) | 3:58 | 2022-05-26 |  |
+| [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO), [Víctor Cabezuelo](https://open.spotify.com/artist/2Ba0v7AY4kqOmlHSCdEm2M) | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY) | 3:58 | 2022-05-26 | 2023-12-30 |
 | [En Blanco Y Negro](https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Por Instinto](https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9) | 4:05 | 2023-03-16 |  |
 | [En Blanco Y Negro](https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Los Singles](https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG) | 4:05 | 2022-05-19 | 2022-07-29 |
 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 | 2022-07-21 |  |
@@ -301,6 +301,7 @@
 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-06-23 | 2023-09-15 |
 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 | 2022-05-19 |  |
 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 | 2022-06-09 | 2023-11-25 |
+| [Sashimi](https://open.spotify.com/track/4H5G0DJ9cVVupUlAWOfFKP) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sashimi](https://open.spotify.com/album/3aMv764u9avffhqOQucBYR) | 3:50 | 2023-12-28 |  |
 | [Se acaba el baile](https://open.spotify.com/track/2Ne8blsOJHicHczTEAE318) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Los potros del tiempo](https://open.spotify.com/album/2wq6iSLc1qwarbRghaaKJY) | 3:39 | 2022-12-22 | 2023-04-14 |
 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 | 2022-05-19 |  |
 | [Si no es por ti](https://open.spotify.com/track/1oIBBun5CFK7A2QGJcLpQP) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Si no es por ti / Ladridos en el pecho](https://open.spotify.com/album/0vw3x0KARIc9rgGj8u6p1U) | 3:37 | 2023-09-21 | 2023-10-09 |

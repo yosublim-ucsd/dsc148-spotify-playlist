@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22839,
+  "num_followers": 22854,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODA1YTU1NGYxZTVkNjMxMmI1MTIxOWZiMTViODE2ZGU0NDg1NjU2",
+  "snapshot_id": "MCxjYzMwY2ZmNGUzMDNlNDgzY2VkMGIyODQ4MGUwNTYxYmUzMmY4YzVk",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -291,6 +291,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 216226,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 156786,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+        }
+      ],
+      "duration_ms": 398893,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
         "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 294049,
       "name": "Mantra (feat. Emicida)",
       "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
-        }
-      ],
-      "duration_ms": 398893,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Alegria, Alegria!!!",
+        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
         "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
@@ -1211,18 +1243,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "CHERISH",
+        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
         }
       ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+      "duration_ms": 212866,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1243,38 +1275,6 @@
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Alegria, Alegria!!!",
-        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Nem Vem Que N\u00e3o Tem",
-      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "CHERISH",
-        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 259040,
       "name": "Vem Menina",
       "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     }
   ],
   "unique_name": "Musica per Cucinare",

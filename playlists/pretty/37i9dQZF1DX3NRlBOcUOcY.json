@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 453018,
+  "num_followers": 453021,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjA0YzNkNmI5MWZjMjNkZmJjOGIxNjY0N2E1NDY4NmY1YTVkZjk2",
+  "snapshot_id": "MCxkZTAwNzJhYWU1Njk4NzE1Nzk4ZGE5MTVkZjYyNDFmOTUyMGMyMDAw",
   "tracks": [
     {
       "added_at": "2023-12-21 09:30:37",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-12-21 09:30:37",
       "album": {
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
+    },
+    {
+      "added_at": "2023-12-21 09:30:37",
+      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 207387,
       "name": "La Esquina del Mall",
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
-    },
-    {
-      "added_at": "2023-12-21 09:30:37",
-      "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
       "added_at": "2023-12-21 09:30:37",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-12-21 09:30:37",
       "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2023-12-21 09:30:37",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 199357,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
-    },
-    {
-      "added_at": "2023-12-21 09:30:37",
-      "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Plut\u00f3n",
-      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     },
     {
       "added_at": "2023-12-21 09:30:37",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-12-21 09:30:37",
       "album": {
-        "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
-    },
-    {
-      "added_at": "2023-12-21 09:30:37",
-      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
+    },
+    {
+      "added_at": "2023-12-21 09:30:37",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
     },
     {
       "added_at": "2023-12-21 09:30:37",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2023-12-21 09:30:37",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
+        "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 171400,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
+      "duration_ms": 181894,
+      "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
     },
     {
       "added_at": "2023-12-21 09:30:37",

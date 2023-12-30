@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
-185 songs - 8 hr 48 min
+186 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 | 2022-08-12 | 2023-05-20 |
 | [PERIGO NOTURNO \- Ao Vivo](https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY ALAMEDA BRUNA SANTANA \(Ao Vivo\)](https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve) | 3:21 | 2022-07-08 | 2022-08-13 |
 | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP) | 3:05 | 2022-06-03 | 2023-02-11 |
-| [Pirulito Vermelho](https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pirulito Vermelho](https://open.spotify.com/album/6QyoTHLRSr8Z8EkvpQXBQX) | 2:32 | 2023-06-30 |  |
+| [Pirulito Vermelho](https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pirulito Vermelho](https://open.spotify.com/album/6QyoTHLRSr8Z8EkvpQXBQX) | 2:32 | 2023-06-30 | 2023-12-30 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 | 2022-10-28 | 2023-06-03 |
@@ -187,6 +187,7 @@
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 | 2022-07-22 | 2023-03-18 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2021-12-31 | 2022-07-23 |
 | [Vestido Coladinho](https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Vestido Coladinho / Mete o Pé](https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA) | 2:24 | 2021-12-31 | 2022-07-09 |
+| [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 | 2023-12-27 |  |
 | [Você Beberia Ou Não Beberia?](https://open.spotify.com/track/4P7IXYPAkinTdZrBF5bGWp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Você Beberia Ou Não Beberia?](https://open.spotify.com/album/4MnS96VNoS7DYDfaEieteG) | 2:34 | 2021-12-31 | 2022-06-04 |
 | [Você Vai Ser Fiel \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4TVPiACLzxgDjmkwaabMxs) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP3\)](https://open.spotify.com/album/0o2dcSIEUJlFNFjRk4VPwV) | 2:44 | 2023-12-08 |  |
 | [Voltou Com Quem Não Voltava \- Ao Vivo](https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1LIa0K4VQnzCreRogfMP68) | 2:27 | 2023-06-02 |  |

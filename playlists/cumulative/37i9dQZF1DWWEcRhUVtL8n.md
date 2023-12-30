@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,717 songs - 3 day 18 hr 28 min
+1,718 songs - 3 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 |  |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
-| [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 |  |
+| [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2023-12-30 |
 | [202Ø](https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR) | [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [202Ø](https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ) | 3:18 | 2020-11-13 | 2021-03-22 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 | 2023-01-24 |
@@ -925,6 +925,7 @@
 | [littlebitwild](https://open.spotify.com/track/7maYVnkJyhgI3ObNeEyT3C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [littlebitwild](https://open.spotify.com/album/4wkd3dJFopVf2GBPRfMsd4) | 3:05 | 2020-10-13\* | 2021-03-02 |
 | [Living Beings Pt.2 \(Metronomy Remix\)](https://open.spotify.com/track/5dRFeSGxFbTp2KlPp5L01A) | [Lean Logic](https://open.spotify.com/artist/0ZkSai2EyWzhAah82WYp7U) | [Living Beings Pt 2 \(Metronomy Remix\)](https://open.spotify.com/album/1eW1jpwTTQCYxhgKb6LBRA) | 3:21 | 2021-05-16 | 2021-05-28 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-02 |  |
+| [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2023-12-08 |  |
 | [Lizzy](https://open.spotify.com/track/7GWGiYSGyN5CuKN0U2acXD) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Lizzy](https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N) | 3:50 | 2021-02-24 | 2021-10-14 |
 | [Lockeland](https://open.spotify.com/track/61ol3uXlr9VfTCMqy28Cgw) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Lockeland](https://open.spotify.com/album/2T3f5oNMflUc5WVuf9AU6h) | 3:41 | 2021-02-28 | 2021-05-26 |
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-04-08 | 2022-08-06 |

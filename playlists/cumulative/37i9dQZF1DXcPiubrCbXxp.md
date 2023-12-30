@@ -4,7 +4,7 @@
 
 > that 50s kinda feeling, cover: Laufey
 
-63 songs - 3 hr 29 min
+64 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Darling](https://open.spotify.com/track/0d7o5ujbD82u5pczUaE8kn) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/0ttNQ0DvWtMHMKfyQ8HRWs) | 3:01 | 2023-08-04 | 2023-12-09 |
 | [Darling](https://open.spotify.com/track/442CrII1BuI3Q9OmzAAwTq) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/4BvzVMX9CAVDfP12AIXu53) | 3:01 | 2023-12-01 |  |
 | [Daydreamin'](https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:31 | 2023-08-04 |  |
-| [despair](https://open.spotify.com/track/292JruITePIpFvRpPb85GF) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair](https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr) | 2:55 | 2023-09-05 |  |
+| [despair](https://open.spotify.com/track/292JruITePIpFvRpPb85GF) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair](https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr) | 2:55 | 2023-09-05 | 2023-12-30 |
+| [despair \- jazz version](https://open.spotify.com/track/1zgl1RjNM8Vfm1TD3pV25n) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair \(jazz version\)](https://open.spotify.com/album/6G5f13zWPEB082Ixss1iPx) | 3:09 | 2023-12-28 |  |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-04 | 2023-09-09 |
 | [Dreamer](https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:30 | 2023-09-08 |  |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-08-04 | 2023-12-14 |

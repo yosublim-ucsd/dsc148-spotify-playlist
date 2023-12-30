@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,376 songs - 10 day 1 hr 34 min
+6,378 songs - 10 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Be Mine](https://open.spotify.com/track/54KToHgBOMdUeuEJfZebhB) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Be Mine](https://open.spotify.com/album/3CxTLQrA8O2saHNQTAAN4O) | 2:30 | 2022-12-09 | 2023-12-01 |
 | [Be Prepared](https://open.spotify.com/track/0m9uI9t4RRqgUXgqbD4rg4) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Be Prepared](https://open.spotify.com/album/7lskXK2HGFlxyjifEzpVc7) | 2:18 | 2022-08-05 | 2022-11-18 |
 | [be quiet](https://open.spotify.com/track/1lAGsIL7cwJ6qxdpu8Wzgp) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [be quiet](https://open.spotify.com/album/6J93tBx6Vn8m8yhhzF6I1L) | 1:21 | 2022-10-28 | 2023-03-18 |
+| [Bea Wea](https://open.spotify.com/track/1NnCMm77dpjExh4r7FDM3U) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Bea Wea](https://open.spotify.com/album/09ZowZIPFVxEahGtQRqLHL) | 2:17 | 2023-12-22 |  |
 | [Beach Date](https://open.spotify.com/track/28heBSh9X0tpKHcLoSCg5b) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Beach Date](https://open.spotify.com/album/1CnYVaau2HnDSuVoauPFUG) | 2:10 | 2022-09-23 | 2023-01-13 |
 | [Beach Day](https://open.spotify.com/track/3yVe2z0zFHjpwH9kpGnONl) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Beach Day](https://open.spotify.com/album/7b3vm2c0mnBcUFI6vUv9tx) | 2:29 | 2021-10-20 | 2022-04-15 |
 | [beach life](https://open.spotify.com/track/0UyapctM2ILffTPTwJ2lF7) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [beach life](https://open.spotify.com/album/01ycncMbzOIvH9MYf7o2OI) | 1:29 | 2022-07-22 | 2022-10-28 |
@@ -1265,6 +1266,7 @@
 | [Crooks Corner](https://open.spotify.com/track/3hDELhFEBkVDiszDtbQMQ6) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu), [F\. Raheem](https://open.spotify.com/artist/7bUNII7c3b3xI14EQWWP9Q), [Akari Raheem](https://open.spotify.com/artist/5n3BCICNBvPPPIAEYnfHzn) | [Crooks Corner](https://open.spotify.com/album/1hBxzX02oYTeqE8vuEu4xW) | 1:49 | 2023-09-29 | 2023-10-06 |
 | [Cross Eyed](https://open.spotify.com/track/3DFAKid92nSb9wHyjeIlrj) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Awakening](https://open.spotify.com/album/6LijB7iYkzY7aO1qdHRXY8) | 2:20 | 2022-08-19 | 2023-01-07 |
 | [Crossroads](https://open.spotify.com/track/66z8EZXSd2VKGHlHX9DZSx) | [Hanz](https://open.spotify.com/artist/1eL4DVwObeAZjGOVjASAXd) | [Chillhop Essentials Winter 2018](https://open.spotify.com/album/3u1k0CIc2zQdXxlhrBbPCV) | 2:34 | 2019-05-27 | 2020-10-21 |
+| [Crossways](https://open.spotify.com/track/5h1vwhXySKOCK9eiQFg2q7) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Crossways](https://open.spotify.com/album/11G2XQ5DS7fRXDiPSk2HIi) | 2:01 | 2023-12-22 |  |
 | [Crucial Decisions](https://open.spotify.com/track/0iuHGjtQqw95UckeOvF2sW) | [Patiotic](https://open.spotify.com/artist/2OwKsV8fVpoW9f26NJwC9j), [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Crucial Decisions](https://open.spotify.com/album/2EFG24hYRVCSQ71rdS3Cqo) | 2:44 | 2022-05-27 | 2022-09-16 |
 | [Cruise Control](https://open.spotify.com/track/7dhodxQz3rlrheLkNXCyur) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Cruise Control](https://open.spotify.com/album/5jFmRm1ZG5dajVWUuI5WN0) | 2:52 | 2021-08-28 | 2022-04-08 |
 | [Cruiser's Blvd](https://open.spotify.com/track/5junbg4wLB8WKiCpZTRiJU) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [Lushdogg](https://open.spotify.com/artist/5wrLSlpM5JLIb67MAuI4US) | [Cruiser's Blvd](https://open.spotify.com/album/2FM1OgXmKPw3pzSObe9cIg) | 2:23 | 2023-09-22 | 2023-11-11 |
@@ -2566,7 +2568,7 @@
 | [I Won't Follow You \- Instrumental](https://open.spotify.com/track/54pf51QQbaOMp8BtrSg1XD) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Good Vibes \(Instrumental\)](https://open.spotify.com/album/5VeJmGuGKmg1y6TY9jXWKv) | 2:56 | 2022-06-03 | 2022-09-30 |
 | [I WONDER](https://open.spotify.com/track/0GYgKvRrezo7PEhayVauZm) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [And The Rain Stopped](https://open.spotify.com/album/7Ky2COZXmHcVqXFnHQHTBU) | 1:42 | 2021-09-04 | 2022-04-08 |
 | [I Wonder...](https://open.spotify.com/track/3eQGw9m4wxfMchJrWqADuD) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [I Wonder...](https://open.spotify.com/album/3NWoMZcOFu221Rv84JkqAB) | 2:04 | 2022-06-10 | 2022-09-30 |
-| [I'll Be Back by Sundown](https://open.spotify.com/track/127LkeeD52u9zHOc7lJXeW) | [El Jazzy Chavo](https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet) | [I'll Be Back by Sundown](https://open.spotify.com/album/6Fpp6gul8Zm8tVXh9oOt2z) | 2:49 | 2023-12-15 |  |
+| [I'll Be Back by Sundown](https://open.spotify.com/track/127LkeeD52u9zHOc7lJXeW) | [El Jazzy Chavo](https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet) | [I'll Be Back by Sundown](https://open.spotify.com/album/6Fpp6gul8Zm8tVXh9oOt2z) | 2:49 | 2023-12-15 | 2023-12-30 |
 | [I'll Be Home](https://open.spotify.com/track/7IAJ7W8QELJq7SiQHtBqw6) | [Bobby Jerkins](https://open.spotify.com/artist/5uYUaQ0DxE07CPwVourqFG) | [I'll Be Home](https://open.spotify.com/album/2K3Iq8uya8YPKLJ0ADAiil) | 2:03 | 2022-07-22 | 2022-12-03 |
 | [I'm feeling lucky](https://open.spotify.com/track/2S7iG3EoOdkGpwppbBid6j) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [I'm feeling lucky](https://open.spotify.com/album/1QnREOWTBN7LTbaRxWviTk) | 2:20 | 2022-08-19 | 2022-12-24 |
 | [I'm Just A Dreamer](https://open.spotify.com/track/4EtSBl0bIY4IXTY3ipuqTz) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [I'm Just A Dreamer](https://open.spotify.com/album/1SzDE6l3kSaftZB4A1PI8v) | 1:46 | 2021-11-20 | 2022-06-17 |
@@ -3126,7 +3128,7 @@
 | [limelight](https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [limelight](https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX) | 2:24 | 2023-11-24 |  |
 | [Limesoda](https://open.spotify.com/track/40WdB4RLRa1CXY2TbPUVme) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Limesoda](https://open.spotify.com/album/7e8I6tBHuXuGExlgyqeFJ7) | 2:22 | 2022-11-11 | 2023-11-24 |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-27 | 2022-10-21 |
-| [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
+| [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 | 2023-12-30 |
 | [Lincoln Heights](https://open.spotify.com/track/2kyZaqz0Z9GNOgBFX1SJ3t) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Locales](https://open.spotify.com/album/52bdxIEU01DgDltwHP6uJq) | 2:07 | 2019-06-22 | 2020-10-21 |
 | [Line Up](https://open.spotify.com/track/2FlZNgXtSCwLlKFn4oFwpN) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Line Up](https://open.spotify.com/album/4eMLxo5RURtljMVWe83OJV) | 1:48 | 2023-03-24 | 2023-04-13 |
 | [Linger](https://open.spotify.com/track/1HOPPkllDcvWExNFdyH8nC) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Linger](https://open.spotify.com/album/1gMPhyJOTUKT9yiHJkWgzZ) | 2:35 | 2022-11-18 | 2022-12-16 |

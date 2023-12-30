@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Serrat.",
-  "num_followers": 319687,
+  "num_followers": 319944,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzU1ZTk5ZjA1ZWM2ODdiNmFhMmE3OTE2YmY5ZWQ0MzA4ZGY3ZDdm",
+  "snapshot_id": "MCw3MThmMTViZTFhZmRiYmQ0OTVjYmZkYzMyZTJmMmQ0OTQ0YWU1MjVk",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192840,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Cerrando Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
       },
       "artists": [
-        {
-          "name": "Mr. Kilombo",
-          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
-        },
         {
           "name": "Rozal\u00e9n",
           "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Sinmigo",
-      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+      "duration_ms": 179754,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1111,6 +1091,26 @@
       "duration_ms": 317733,
       "name": "El Hombre del Piano",
       "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Cerrando Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kilombo",
+          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Sinmigo",
+      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "El Hilo Rojo",
         "url": "https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 202456,
       "name": "El Hilo Rojo",
       "url": "https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Vestida De Nit",
         "url": "https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu"
       },
@@ -1443,22 +1423,6 @@
       "duration_ms": 158230,
       "name": "Mechita",
       "url": "https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
-        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
-      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1483,18 +1447,38 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
+        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+      "duration_ms": 230136,
+      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
+      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1559,22 +1559,6 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Qui\u00e9reme Bien (feat. Leiva)",
         "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2023-12-14 23:00:00",

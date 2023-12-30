@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-148 songs - 8 hr 18 min
+149 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-22 |  |
 | [Give Me the High \- Moods Remix](https://open.spotify.com/track/6t1bCWuoqHgGiokgOZBd2t) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Give Me the High \(Moods Remix\)](https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt) | 3:48 | 2023-05-25 |  |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-04-04 |  |
+| [Good Company](https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Good Company](https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5) | 3:56 | 2023-12-28 |  |
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-23 | 2023-04-05 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-04-04 |  |
 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 | 2023-02-23 | 2023-10-03 |
@@ -86,7 +87,7 @@
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 |  |
 | [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 | 2023-10-02 |  |
 | [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-21 | 2023-10-13 |
-| [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 |  |
+| [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 | 2023-12-30 |
 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 | 2023-04-14 |
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 | 2023-04-05 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-09 |  |

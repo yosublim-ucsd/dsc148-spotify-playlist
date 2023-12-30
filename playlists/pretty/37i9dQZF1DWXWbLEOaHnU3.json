@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 529671,
+  "num_followers": 530013,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWYwZWMxMmI3NjY0M2VlZTRiM2I5OWIzNDcxNzllOGJhNTM3ZWE3",
+  "snapshot_id": "MCxlMzc4N2NjOTdjYzQ5Y2E3ZWIyZTI1NWUxZTUyN2Q4NWYyYzg3ZDU4",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -447,22 +447,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Formula",
-        "url": "https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ"
+        "name": "Sympathize",
+        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
       },
       "artists": [
         {
-          "name": "Dzp",
-          "url": "https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D"
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
         },
         {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+          "name": "Davee",
+          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
+        },
+        {
+          "name": "Ela",
+          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
         }
       ],
-      "duration_ms": 271448,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW"
+      "duration_ms": 308785,
+      "name": "Sympathize",
+      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -487,26 +491,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Sympathize",
-        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
+        "name": "Formula",
+        "url": "https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ"
       },
       "artists": [
         {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+          "name": "Dzp",
+          "url": "https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D"
         },
         {
-          "name": "Davee",
-          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
-        },
-        {
-          "name": "Ela",
-          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
         }
       ],
-      "duration_ms": 308785,
-      "name": "Sympathize",
-      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
+      "duration_ms": 271448,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
-      },
-      "artists": [
-        {
-          "name": "Sighter",
-          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
-        },
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        }
-      ],
-      "duration_ms": 349014,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "IM25",
         "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 401167,
       "name": "Boss La Rosh",
       "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
+      },
+      "artists": [
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        }
+      ],
+      "duration_ms": 349014,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
-      },
-      "artists": [
-        {
-          "name": "Synthatic",
-          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Shiva Style, Pt. 2",
         "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
+      },
+      "artists": [
+        {
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "The Oasis (Zyrus 7 Remix)",
-        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
-      },
-      "artists": [
-        {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
-        },
-        {
-          "name": "Zyrus 7",
-          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
-        }
-      ],
-      "duration_ms": 209673,
-      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
-      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
       },
@@ -935,22 +915,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
+        "name": "The Oasis (Zyrus 7 Remix)",
+        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
       },
       "artists": [
         {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
         },
         {
-          "name": "Crazy Box",
-          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+          "name": "Zyrus 7",
+          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
         }
       ],
-      "duration_ms": 290704,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
+      "duration_ms": 209673,
+      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
+      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -971,6 +951,26 @@
       "duration_ms": 540000,
       "name": "Mind Is God - Original Mix",
       "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
+      },
+      "artists": [
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        },
+        {
+          "name": "Crazy Box",
+          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+        }
+      ],
+      "duration_ms": 290704,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Psychosis",
-        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
-      },
-      "artists": [
-        {
-          "name": "Kore-G",
-          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Psychosis",
-      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Psychosis",
+        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
+      },
+      "artists": [
+        {
+          "name": "Kore-G",
+          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Psychosis",
+      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1187,46 +1187,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
-        },
-        {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
-        }
-      ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Music Is My Remedy",
-        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
-      },
-      "artists": [
-        {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
-        },
-        {
-          "name": "livicious",
-          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
-        }
-      ],
-      "duration_ms": 306857,
-      "name": "Music Is My Remedy",
-      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI"
       },
@@ -1255,6 +1215,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Music Is My Remedy",
+        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
+      },
+      "artists": [
+        {
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "livicious",
+          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "Music Is My Remedy",
+      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Altaria",
         "url": "https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 167746,
       "name": "Altaria",
       "url": "https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+        }
+      ],
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
-        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
       },
       "artists": [
         {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
         },
         {
-          "name": "P.R.O.G.",
-          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         }
       ],
-      "duration_ms": 320571,
-      "name": "Ecstasy of Gold - P.R.O.G. Remix",
-      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
+        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
       },
       "artists": [
         {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
         },
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "P.R.O.G.",
+          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
         }
       ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+      "duration_ms": 320571,
+      "name": "Ecstasy of Gold - P.R.O.G. Remix",
+      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ"
+      },
+      "artists": [
+        {
+          "name": "Interactive Noise",
+          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
+        },
+        {
+          "name": "Phill Groh",
+          "url": "https://open.spotify.com/artist/3KwlDkTroNYhkEtwBCNigp"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/2peA9evFHZedrys82CcDr4"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "End Of The End (feat. Krigar\u00e8)",
         "url": "https://open.spotify.com/album/6QOPCj17rs5nB1Kc8ayrX2"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 220869,
       "name": "End Of The End (feat. Krigar\u00e8)",
       "url": "https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ"
-      },
-      "artists": [
-        {
-          "name": "Interactive Noise",
-          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
-        },
-        {
-          "name": "Phill Groh",
-          "url": "https://open.spotify.com/artist/3KwlDkTroNYhkEtwBCNigp"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/2peA9evFHZedrys82CcDr4"
     },
     {
       "added_at": "2023-11-25 18:30:00",

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 172605,
+  "num_followers": 172912,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY2ZTQ2Y2IzNWQ2Y2Y1YWJmODUwZTU1ZjJmZjlkYzFhOTA3ZjE1",
+  "snapshot_id": "MCw2MDM0NjU2MGNhNzJlZjgxOWFlNDZhMzRhODg3NjA5OWYxNmYyNTdk",
   "tracks": [
     {
       "added_at": "2023-09-25 03:01:36",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk"
     },
     {
-      "added_at": "2023-09-25 03:39:17",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
-    },
-    {
       "added_at": "2022-08-31 04:34:22",
       "album": {
         "name": "If I Were A Butterfly",
@@ -509,28 +493,20 @@
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
-      "added_at": "2022-09-29 00:57:24",
+      "added_at": "2023-09-25 03:39:17",
       "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
       "artists": [
         {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
     },
     {
       "added_at": "2022-08-02 14:49:54",
@@ -581,6 +557,30 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
+      "added_at": "2022-09-29 00:57:24",
+      "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution of Super Visions",
-      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -643,6 +627,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution of Super Visions",
+      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -815,6 +799,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-10-05 14:12:30",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-08-24 03:26:17",
       "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
       },
       "artists": [
         {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+      "duration_ms": 189960,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
         "name": "Inner Song",
         "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Ookii Gekkou",
@@ -983,6 +967,22 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
+    },
+    {
+      "added_at": "2023-08-08 03:45:10",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
       "added_at": "2023-10-28 00:52:25",
       "album": {
         "name": "Cielo Falso",
@@ -1131,22 +1147,6 @@
       "duration_ms": 456692,
       "name": "Cielo Falso",
       "url": "https://open.spotify.com/track/4zGWX3Jx6vCQ4EHVe6Gnn2"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1181,20 +1181,20 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
       },
       "artists": [
         {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2023-06-02 00:24:20",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-03-31 19:12:14",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1247,26 +1247,6 @@
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2023-06-05 20:56:02",
@@ -1303,6 +1283,26 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Jacqueline",
         "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
       },
@@ -1317,20 +1317,20 @@
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
-      "added_at": "2022-02-09 04:04:07",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
         }
       ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2023-06-02 00:41:12",
@@ -1349,20 +1349,20 @@
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-02-09 04:04:07",
       "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
       "artists": [
         {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1453,20 +1437,20 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
+      "added_at": "2022-08-13 01:40:58",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1557,6 +1541,22 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
       "added_at": "2022-04-20 13:58:09",
       "album": {
         "name": "Las Olas Contra Todos",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
-      "added_at": "2023-10-19 18:49:28",
-      "album": {
-        "name": "r(EMOTE)",
-        "url": "https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 221163,
-      "name": "r(EMOTE)",
-      "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1635,6 +1619,22 @@
       "duration_ms": 172941,
       "name": "THE 55",
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
+    },
+    {
+      "added_at": "2023-10-19 18:49:28",
+      "album": {
+        "name": "r(EMOTE)",
+        "url": "https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 221163,
+      "name": "r(EMOTE)",
+      "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
     },
     {
       "added_at": "2022-08-31 04:56:45",

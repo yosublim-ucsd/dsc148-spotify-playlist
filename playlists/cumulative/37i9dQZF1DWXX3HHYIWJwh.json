@@ -352,10 +352,32 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 202252,
       "name": "dame un beso",
       "url": "https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ"
+    },
+    {
+      "album": {
+        "name": "YELLOW NOTE",
+        "url": "https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ"
+      },
+      "artists": [
+        {
+          "name": "Jin Akanishi",
+          "url": "https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "dame un beso",
+      "url": "https://open.spotify.com/track/6PNS6uP80uCchkfpRL0rbE"
     },
     {
       "album": {

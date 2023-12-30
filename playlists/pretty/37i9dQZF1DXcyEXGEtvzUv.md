@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2023\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,820 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,899 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [ALKiMISTA](https://open.spotify.com/track/4ARK0Ed7CfqpvHEeBUw81F) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv) | 2:45 |
 | 50 | [Coisas no Vento](https://open.spotify.com/track/7Gfg5xHobbq5gV6B46mqSL) | [Riça](https://open.spotify.com/artist/3MJelg6WWGVD9xNL1xFSIE), [Kass](https://open.spotify.com/artist/3petAllfgRP2hyYINfKOag) | [Diabos m' Elevem](https://open.spotify.com/album/4r7flExuW4t3aQEkKL7ikd) | 4:23 |
 
-Snapshot ID: `MCwxOTk2ZTgwODA5Zjc5Y2E5Yzk1MGE5N2FkYTQ5ODE3OGU5MDc2NDkw`
+Snapshot ID: `MCw5YThlYmQ0NDhjMzdhOGNkNDY1ZWExZmViOTk0NWQxNDc3OGNhNjNm`

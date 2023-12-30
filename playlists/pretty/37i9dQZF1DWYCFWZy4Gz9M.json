@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 56394,
+  "num_followers": 56492,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWVjZTUwMDBkYTU0YzE0MTk0N2IxNjU2ODk1ODc4MmEzZDBmNTA4",
+  "snapshot_id": "MCw5YmE4ZDIwNmI0NzJhMzkzY2M0YTc1ZGZjYWNiMTliODg4MDNlNGI4",
   "tracks": [
     {
       "added_at": "2023-08-10 19:42:53",
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 440011,
-      "name": "Bania Bambara",
-      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -475,18 +475,22 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 353811,
-      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -532,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
+      "duration_ms": 440011,
+      "name": "Bania Bambara",
+      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -555,22 +559,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
         }
       ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+      "duration_ms": 353811,
+      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+      },
+      "artists": [
+        {
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+        }
+      ],
+      "duration_ms": 569244,
+      "name": "Lalla Mira",
+      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
         "name": "Oulad Lghaba",
         "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
       },
@@ -715,6 +731,22 @@
       "duration_ms": 337693,
       "name": "Bala Yourki",
       "url": "https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Africa Soyo",
+        "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
+      },
+      "artists": [
+        {
+          "name": "Simo Lagnawi",
+          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "Arabiato",
+      "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -739,38 +771,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Africa Soyo",
-        "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
-      },
-      "artists": [
-        {
-          "name": "Simo Lagnawi",
-          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "Arabiato",
-      "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
-        "name": "The Fire Within: Gnawa Music of Morocco",
-        "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
-      },
-      "artists": [
-        {
-          "name": "Hassan Hakmoun",
-          "url": "https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Sidi Musa",
-      "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Innov Gnawa",
         "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Live in Casablanca",
-        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+        "name": "The Fire Within: Gnawa Music of Morocco",
+        "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
       },
       "artists": [
         {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+          "name": "Hassan Hakmoun",
+          "url": "https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur"
         }
       ],
-      "duration_ms": 569244,
-      "name": "Lalla Mira",
-      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+      "duration_ms": 239693,
+      "name": "Sidi Musa",
+      "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Moroccan Spring (Live)",
-        "url": "https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX"
-      },
-      "artists": [
-        {
-          "name": "Chalaban",
-          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
-        }
-      ],
-      "duration_ms": 343840,
-      "name": "Chalaban - Live",
-      "url": "https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
         "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 569226,
       "name": "Bilaji",
       "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Moroccan Spring (Live)",
+        "url": "https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX"
+      },
+      "artists": [
+        {
+          "name": "Chalaban",
+          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
+        }
+      ],
+      "duration_ms": 343840,
+      "name": "Chalaban - Live",
+      "url": "https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz"
     }
   ],
   "unique_name": "Gnawa Music",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 28372,
+  "num_followers": 28436,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjgyZmM2MDFmN2IxNGRkMGVhNjQ5M2U4ZmY2MzhiZjFkYTQwYTVl",
+  "snapshot_id": "MCwwMmIxMTc0YWEzYWM1YzdlM2M5MDk2ODNmZGQzNDhmYWY4YTdhYWRi",
   "tracks": [
     {
       "added_at": "2023-09-14 19:24:02",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Come Get It! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Silk Degrees (2023 Remaster)",
         "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Come Get It! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Ed Lincoln",
-        "url": "https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon"
-      },
-      "artists": [
-        {
-          "name": "Ed Lincoln",
-          "url": "https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "O Ganso",
-      "url": "https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Cuban Soul: 18 Kilates",
         "url": "https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 221306,
       "name": "Central Do Brasil",
       "url": "https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Ed Lincoln",
+        "url": "https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon"
+      },
+      "artists": [
+        {
+          "name": "Ed Lincoln",
+          "url": "https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "O Ganso",
+      "url": "https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY"
     },
     {
       "added_at": "2023-09-14 19:24:02",

@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Tate McRae
 
-1,826 songs - 3 day 16 hr 47 min
+1,827 songs - 3 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [High 4 U](https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [High 4 U](https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so) | 2:42 | 2021-09-04 | 2021-10-02 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-09 | 2022-10-01 |
 | [Higher \(feat\. iann dior\)](https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Higher \(feat\. iann dior\)](https://open.spotify.com/album/78MU91n8U1OTN0Co9OgQHw) | 3:23 | 2021-02-16\* | 2021-03-14 |
+| [History Of Man](https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:28 | 2023-12-29 |  |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-26 | 2023-10-07 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-05-22 | 2021-06-26 |
 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 | 2021-06-22 | 2021-07-24 |

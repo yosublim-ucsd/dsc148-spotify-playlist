@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,008 songs - 2 day 21 hr 10 min
+1,009 songs - 2 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Incognito](https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Incognito](https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR) | 4:32 | 2023-01-12 |  |
 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 | 2022-04-14 | 2022-07-29 |
 | [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-06-30 | 2023-12-23 |
+| [Infant Eyes](https://open.spotify.com/track/7v6mocwA0qrPLoyLYpxq1G) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:37 | 2023-12-22 |  |
 | [Into The Unknown](https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Into The Unknown](https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM) | 2:37 | 2023-09-22 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-06-15 |  |
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2022-10-08 |
@@ -933,7 +934,7 @@
 | [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 | 2023-11-17 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-12-08 |  |
-| [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 |  |
+| [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 | 2023-12-30 |
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 |  |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-20 |  |
 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |

@@ -1,13 +1,33 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 138278,
+  "num_followers": 138250,
   "original_name": "Gaming Music 2023",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "MjkzNiwxNDJmMTNmYTA1NzIwOTY3MmQ5ZWRmNWZjM2I5ZjJhZjFkODk0Mzdj",
+  "snapshot_id": "MjkzOSw2OGZkNTgyNzE0ZjEwMTgyOGEzMjczNWZmMmI1ZjYzMGRmMTcxZGZj",
   "tracks": [
+    {
+      "added_at": "2023-12-29 13:43:38",
+      "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N"
+      },
+      "artists": [
+        {
+          "name": "James Mercy",
+          "url": "https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2"
+        },
+        {
+          "name": "PhiloSofie",
+          "url": "https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU"
+    },
     {
       "added_at": "2023-12-08 12:07:46",
       "album": {
@@ -27,6 +47,30 @@
       "duration_ms": 120230,
       "name": "Blade Fury",
       "url": "https://open.spotify.com/track/0Ft0JLSiJ8IRPJeE3SHZK8"
+    },
+    {
+      "added_at": "2023-12-29 13:38:11",
+      "album": {
+        "name": "FAVHELLA",
+        "url": "https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        },
+        {
+          "name": "Mc Guidanny",
+          "url": "https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps"
+        },
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        }
+      ],
+      "duration_ms": 116769,
+      "name": "FAVHELLA",
+      "url": "https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG"
     },
     {
       "added_at": "2023-12-08 12:07:46",

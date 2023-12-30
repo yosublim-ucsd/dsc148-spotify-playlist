@@ -4,7 +4,7 @@
 
 > Acá hay letra\. Foto: AK4:20.
 
-192 songs - 10 hr 44 min
+193 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-12-24 |  |
 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 | 2022-07-22 | 2023-12-24 |
 | [Bandolera](https://open.spotify.com/track/5suqjbw9bF0T1X3HU1oG1v) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/1eRtwerdpd1Gp7Rfzkpacn) | 3:21 | 2021-12-24 | 2022-07-29 |
+| [Bandolera](https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7) | 3:21 | 2023-06-09 |  |
 | [BICI](https://open.spotify.com/track/3TBZtPqL5tuOk5QYH9WvvK) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 4:08 | 2021-12-24 | 2023-05-06 |
 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 | 2021-12-24 | 2023-06-09 |
 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 | 2021-12-24 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2021-12-24 |  |
 | [Yo Perreo Sola \- Remix](https://open.spotify.com/track/2cpteAYHcd4cjSxAeCkA52) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Yo Perreo Sola \(Remix\)](https://open.spotify.com/album/5PnvXVpTYKTgaSOGF5DGjL) | 2:54 | 2021-12-24 | 2022-07-29 |
 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 | 2021-12-24 |  |
-| [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 | 2022-04-11 |  |
+| [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 | 2022-04-11 | 2023-12-30 |
 | [Ñeri](https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:14 | 2022-07-22 | 2023-05-06 |
 | [Ñeri](https://open.spotify.com/track/6HVvoYxya254tV9ZeXKyTg) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:14 | 2021-12-24 | 2022-07-29 |
 

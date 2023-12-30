@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafqGLBKMLN6.md) - [plain]
 
 > Alvaro Diaz takes over Fuego! Featuring Don Omar, Kanye West, Trebol Clan & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafqGLBKMLN6.md) - [plain]
 | 24 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 25 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 
-Snapshot ID: `MCwxOWEzODFlZGY1ZDc4MDRjZTgwYjM1NjYxZTM4NzQyM2MzNTFmZTJm`
+Snapshot ID: `MCw5MjE5ODIzZjFhODIwM2JmM2FjY2FlMDZmNWNlNmJjMmY4OTczNDIw`

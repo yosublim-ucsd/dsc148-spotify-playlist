@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41565,
+  "num_followers": 41630,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Me Gustar\u00eda Creerte",
+      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "El Legado del Shaka",
         "url": "https://open.spotify.com/album/4If5KHmcBD4tADphUifMZp"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 207840,
       "name": "Me Ganan las Ganas (feat. Xitali)",
       "url": "https://open.spotify.com/track/4o7bHAzDl8DMq3cE2ke6mA"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Me Gustar\u00eda Creerte",
-      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Cada Vez Que Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/6efn9mwd36AdpXeX7e51o1"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Consigo Olvidarte",
         "url": "https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 229346,
       "name": "No Consigo Olvidarte",
       "url": "https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Cada Vez Que Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/6efn9mwd36AdpXeX7e51o1"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
-      },
-      "artists": [
-        {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Pa' No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Vicio y Mi Adiccion",
         "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 210341,
       "name": "Ya Te Sabes el Camino",
       "url": "https://open.spotify.com/track/3AG4eFRB1GMrsaLkuK7zqk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Pa' No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "No Quieren",
-      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Quedamos",
         "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 173586,
       "name": "Me Toca Llorar",
       "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "No Quieren",
+      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Cabral",
-          "url": "https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Me Est\u00e1 Gustando",
-      "url": "https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Alegre Y Enamorado",
         "url": "https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 209333,
       "name": "No Merec\u00edas Tanto Amor",
       "url": "https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Cabral",
+          "url": "https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Me Est\u00e1 Gustando",
+      "url": "https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Por Qu\u00e9 No Cambiamos",
-        "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
-      },
-      "artists": [
-        {
-          "name": "Banda Impresionante de Monterrey",
-          "url": "https://open.spotify.com/artist/7HpYvz5zIo7WJcIXxDIEtT"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "\u00bfPorqu\u00e9 No Cambiamos?",
-      "url": "https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Ni Mas Ni Menos",
         "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 177141,
       "name": "Disque Amigos",
       "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Por Qu\u00e9 No Cambiamos",
+        "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
+      },
+      "artists": [
+        {
+          "name": "Banda Impresionante de Monterrey",
+          "url": "https://open.spotify.com/artist/7HpYvz5zIo7WJcIXxDIEtT"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "\u00bfPorqu\u00e9 No Cambiamos?",
+      "url": "https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU"
     },
     {
       "added_at": "2022-01-25 18:24:05",

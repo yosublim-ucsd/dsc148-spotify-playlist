@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack.
 
-86 songs - 5 hr 58 min
+87 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [FLOAT](https://open.spotify.com/track/1Rwo1hDhVccHaDfXurutVP) | [ミド](https://open.spotify.com/artist/0DbopeB4HOO7LZ6Yy4iX7Y) | [FLOAT](https://open.spotify.com/album/5BdddlQ5i8s5wxXfmyG72Y) | 3:34 | 2023-05-12 | 2023-10-11 |
 | [FULL MOON…!](https://open.spotify.com/track/7K1tMixfZFxdUh8wjj8aha) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:38 | 2023-07-06 | 2023-09-22 |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2023-01-05 | 2023-01-18 |
-| [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 | 2023-11-16 |  |
+| [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 | 2023-11-16 | 2023-12-30 |
+| [Gaze](https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 4:03 | 2023-11-16 |  |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2023-01-05 |  |
 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-07 | 2023-09-02 |
 | [Hann kemur í kvöld](https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann kemur í kvöld](https://open.spotify.com/album/3bEKyiLUiaG3KUQ4ruMUHz) | 5:44 | 2023-03-07 | 2023-03-09 |

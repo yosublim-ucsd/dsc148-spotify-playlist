@@ -4,7 +4,7 @@
 
 > Funk \- new and old \- to accompany your drive.
 
-108 songs - 7 hr 52 min
+110 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,9 @@
 | [Confident \(feat\. The MB's\)](https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z), [The MB's](https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz) | [Confident \(feat\. The MB's\)](https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn) | 3:19 | 2019-08-22 |  |
 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 | 2019-08-22 |  |
 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2019-08-22 | 2023-12-24 |
+| [Dancin' To The Truth](https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj) | 4:09 | 2019-08-22 |  |
 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 | 2019-08-22 | 2023-12-25 |
+| [Death Or Devotion](https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 4:25 | 2019-08-22 |  |
 | [Devon](https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD) | [Run N' Fly](https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3) | [Run n' Fly](https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw) | 4:41 | 2019-08-22 |  |
 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 | 2019-08-22 |  |
 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 | 2019-08-22 |  |
@@ -33,7 +35,7 @@
 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 | 2019-08-22 |  |
 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 | 2019-08-22 |  |
 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 | 2019-08-22 |  |
-| [Done Me Wrong](https://open.spotify.com/track/3ZpCDr3VQyoBfLtQfau8LX) | [Deep Street Soul](https://open.spotify.com/artist/10DwudBDfdtORdJFC765NO) | [Souls Come Alive](https://open.spotify.com/album/6UkD7EMzEZIJwnrgLNAzR0) | 4:01 | 2019-08-22 |  |
+| [Done Me Wrong](https://open.spotify.com/track/3ZpCDr3VQyoBfLtQfau8LX) | [Deep Street Soul](https://open.spotify.com/artist/10DwudBDfdtORdJFC765NO) | [Souls Come Alive](https://open.spotify.com/album/6UkD7EMzEZIJwnrgLNAzR0) | 4:01 | 2019-08-22 | 2023-12-30 |
 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 | 2019-09-06 |  |
 | [F.y.g](https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Zapp](https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:45 | 2019-08-22 |  |
 | [Ffun](https://open.spotify.com/track/2H0nOH0pgs3DBoPoR852cC) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Secrets](https://open.spotify.com/album/2AI6n3Nzxts19gax5K23bm) | 4:11 | 2019-08-22 |  |
@@ -113,7 +115,7 @@
 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 | 2019-08-22 |  |
 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 | 2019-09-06 |  |
 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 | 2019-08-22 |  |
-| [Work It Out](https://open.spotify.com/track/41o8EY5rMl3WP7ohrQCRD2) | [Ridin' Thumb](https://open.spotify.com/artist/0ktBx9Su8pvpCAPET5ZCMz) | [Work It Out](https://open.spotify.com/album/1HTUMImkHNOTcy2CJwdEm7) | 4:37 | 2019-08-22 |  |
+| [Work It Out](https://open.spotify.com/track/41o8EY5rMl3WP7ohrQCRD2) | [Ridin' Thumb](https://open.spotify.com/artist/0ktBx9Su8pvpCAPET5ZCMz) | [Work It Out](https://open.spotify.com/album/1HTUMImkHNOTcy2CJwdEm7) | 4:37 | 2019-08-22 | 2023-12-30 |
 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 | 2019-08-22 |  |
 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 | 2019-08-22 |  |
 

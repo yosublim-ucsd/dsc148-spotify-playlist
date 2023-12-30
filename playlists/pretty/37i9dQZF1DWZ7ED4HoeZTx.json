@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 114913,
+  "num_followers": 115153,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTYxNWMyNWM3ZDA4NTg2YTFkNTRmYjczMWFkZTMzMzg2ZTVjNGY3",
+  "snapshot_id": "MCw4ODIwZWYxNjNlNDNkMGRiOWQ4ZGY4MGY1OWEyNzRjOGU5NTQyNWU4",
   "tracks": [
     {
       "added_at": "2023-11-16 15:00:00",
@@ -419,8 +419,8 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Gaze",
-        "url": "https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50"
+        "name": "The Flower of Love",
+        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 241986,
+      "duration_ms": 243600,
       "name": "Gaze",
-      "url": "https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj"
+      "url": "https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Eternal Youth",
-      "url": "https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
         "name": "Spirited Away Soundtrack",
         "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Shogeki",
-        "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
       "artists": [
         {
-          "name": "Yuko Ando",
-          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
         }
       ],
-      "duration_ms": 181594,
-      "name": "Shogeki",
-      "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
+      "duration_ms": 205766,
+      "name": "Eternal Youth",
+      "url": "https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -659,6 +643,22 @@
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"
+    },
+    {
+      "added_at": "2023-11-16 15:00:00",
+      "album": {
+        "name": "Shogeki",
+        "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
+      },
+      "artists": [
+        {
+          "name": "Yuko Ando",
+          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+        }
+      ],
+      "duration_ms": 181594,
+      "name": "Shogeki",
+      "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
     },
     {
       "added_at": "2023-11-16 15:00:00",

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-366 songs - 22 hr 9 min
+367 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Poppyseed](https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Poppyseed](https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn) | 4:19 | 2022-04-15 | 2023-07-01 |
 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 | 2022-08-26 | 2023-02-18 |
 | [Prism](https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F) | 3:52 | 2022-08-26 | 2022-10-09 |
+| [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 |  |
 | [Pushin' On](https://open.spotify.com/track/4zDm8fwLbBwt3DX4txjuZA) | [The Copper Children](https://open.spotify.com/artist/3t2iiEpfJCWJsOWzLWaJIL) | [Strange Illusion](https://open.spotify.com/album/3gVDInIYlBrXuhDjiUC7aL) | 4:17 | 2022-05-06 |  |
 | [Questions](https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:59 | 2023-09-29 |  |
 | [Ready](https://open.spotify.com/track/2FMeFICKFtO9j4qLaPKcst) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/3gNnUZO69AyHhi8fYybcyf) | 3:48 | 2022-01-28 | 2023-09-09 |
@@ -311,7 +312,7 @@
 | [Słońce](https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb) | [Udoo](https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Słońce](https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb) | 4:13 | 2022-07-29 | 2023-11-11 |
 | [Take Me to the Good Times](https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Take Me to the Good Times](https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh) | 4:24 | 2021-07-09 | 2022-07-29 |
 | [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 | 2023-10-07 |
-| [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 |  |
+| [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 | 2023-12-30 |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-02-10 | 2023-08-19 |
 | [TELL THE TRUTH](https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 | 2022-07-29 | 2023-02-18 |

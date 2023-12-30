@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 130980,
+  "num_followers": 131195,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDUwYzgxNGU0OTk2M2QzODdkYmE2ZDQyMWNkNWJlYWVkNmIxNDA0",
+  "snapshot_id": "MCwwNTJlZmQ5ZWQ5YmEyYTA1YjRiNzlhYjVhNGQwZTMzOTI3ODgzZWI2",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Who Do You Love - The Anthology",
+        "url": "https://open.spotify.com/album/5cCPWjf3GggkYhAZgibehb"
+      },
+      "artists": [
+        {
+          "name": "Juicy Lucy",
+          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/078TqqyJ2vNKBsgpOm6rZr"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Street Corner Talking",
         "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 323733,
       "name": "Tell Mama",
       "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Who Do You Love - The Anthology",
-        "url": "https://open.spotify.com/album/5cCPWjf3GggkYhAZgibehb"
-      },
-      "artists": [
-        {
-          "name": "Juicy Lucy",
-          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/078TqqyJ2vNKBsgpOm6rZr"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Thunder in the Sky",
-        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Thunder in the Sky",
-      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Blues Helping",
@@ -751,6 +735,22 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Thunder in the Sky",
+        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Thunder in the Sky",
+      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Mk. II (Remastered)",
-        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
-      },
-      "artists": [
-        {
-          "name": "Steamhammer",
-          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Contemporary Chick Con Song - Remastered",
-      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "100 Ton Chicken",
         "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "Mk. II (Remastered)",
+        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Don't Ask Me What I Say",
-      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
+      "duration_ms": 295213,
+      "name": "Contemporary Chick Con Song - Remastered",
+      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The Marquis Sessions",
+        "url": "https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW"
+      },
+      "artists": [
+        {
+          "name": "Duffy Power",
+          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -867,18 +867,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "The Marquis Sessions",
-        "url": "https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW"
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
       "artists": [
         {
-          "name": "Duffy Power",
-          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 162360,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2"
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Stonedhenge (Re-Presents)",
-        "url": "https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "Hear Me Calling - Mono",
-      "url": "https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Them",
         "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 175853,
       "name": "Jo Ann",
       "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     }
   ],
   "unique_name": "Brit-Blues",

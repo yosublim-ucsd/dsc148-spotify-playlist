@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-475 songs - 1 day 15 hr 9 min
+476 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [The Old Rugged Cross](https://open.spotify.com/track/07N7sIm0fVSeyHA4O8Hv9u) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [The Hymns](https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN) | 4:02 | 2021-04-04 | 2022-07-29 |
 | [The Passion \- Live](https://open.spotify.com/track/6aLfDBncW19h8whgETITCe) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 4:32 | 2021-04-04 | 2022-05-05 |
 | [The Passover Song \(feat\. Sean Carter\)](https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [The Blood + the Breath: Songs That Tell the Story of Redemption](https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON) | 4:09 | 2021-04-04 | 2022-07-24 |
-| [The Power Of The Cross](https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 5:29 | 2021-04-04 |  |
+| [The Power Of The Cross](https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 5:29 | 2021-04-04 | 2023-12-30 |
 | [The Reason](https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Reason](https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV) | 4:37 | 2021-04-04 | 2023-01-21 |
 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 | 2022-04-17 | 2022-07-27 |
 | [The Saving One \- Live](https://open.spotify.com/track/2KVStzMIfTaLX08FEosGQc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Even So Come \(Live\)](https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG) | 5:00 | 2022-04-02 | 2022-04-17 |
@@ -432,6 +432,7 @@
 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 | 2021-04-04 | 2022-07-29 |
 | [Victory \(The Blood of Jesus\)](https://open.spotify.com/track/0hwMBj0fBEYqnplw0mdeEu) | [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [Right Here](https://open.spotify.com/album/6ZBUlGss4ajRFeBJWKE4oH) | 4:03 | 2021-04-04 | 2022-07-28 |
 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2023-04-09 | 2023-12-24 |
+| [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2023-04-09 |  |
 | [Wake Up Sleeper](https://open.spotify.com/track/72X6vrEvMcadOLnXCBZnbv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wake Up Sleeper \- EP](https://open.spotify.com/album/0MhvhlFYutt9n9NGAYPzg5) | 2:47 | 2021-04-04 | 2023-04-03 |
 | [Was It A Morning Like This](https://open.spotify.com/track/3jNSVXE4rU1l1N97D8Qcvx) | [Sandi Patty](https://open.spotify.com/artist/6RJYPm4gcrIuOjQiqu9VXu) | [Morning Like This](https://open.spotify.com/album/1do6xpXlWpJT84rMD21rvg) | 3:22 | 2021-04-04 | 2022-07-29 |
 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 | 2021-04-04 | 2022-11-13 |

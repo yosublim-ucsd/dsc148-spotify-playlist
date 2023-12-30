@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 184615,
       "name": "A noite toda",
       "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 127826,
       "name": "De Hist\u00f3ria em Hist\u00f3ria",
       "url": "https://open.spotify.com/track/08Bi0KpTp0sBu0Oj2CQcSW"
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 135813,
       "name": "Fuuga",
       "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 146951,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/25AJGUhaTSaWntIZgbQgxL"
@@ -5152,6 +5152,32 @@
       "duration_ms": 169655,
       "name": "O Mesmo",
       "url": "https://open.spotify.com/track/1ydwrCQoYiEkpgylv4Bfqi"
+    },
+    {
+      "album": {
+        "name": "O Retorno de Jedi",
+        "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170655,
+      "name": "O Retorno de Jedi",
+      "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
     },
     {
       "album": {
@@ -6268,6 +6294,28 @@
       "duration_ms": 353907,
       "name": "Que Dia \u00c9 Hoje?",
       "url": "https://open.spotify.com/track/1W3BzBN07UCkwzQ1QIgC8p"
+    },
+    {
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "album": {

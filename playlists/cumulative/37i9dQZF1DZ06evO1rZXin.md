@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 19 min
+69 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hueso No Ma](https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:24 | 2022-06-01 | 2023-03-03 |
 | [Insensible](https://open.spotify.com/track/4obs3aaHJMnCR71GqKmTIO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:24 | 2022-06-01 | 2023-06-09 |
 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 | 2022-06-01 |  |
+| [La Fiesta](https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:01 | 2023-12-29 |  |
 | [La Guacamaya](https://open.spotify.com/track/3Wc1lnA2yNYEGaQoNRzoyl) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:09 | 2023-06-04 | 2023-06-09 |
 | [La Negra Colora](https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 2:39 | 2023-03-20 |  |
 | [La Negra Colora](https://open.spotify.com/track/723g6T7oEsGQiDQ5AQZ5Vq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:39 | 2022-06-01 | 2023-03-21 |
@@ -64,7 +65,7 @@
 | [Provócame](https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:03 | 2022-06-01 | 2023-03-06 |
 | [Puño De Tierra](https://open.spotify.com/track/7BXuEt4g7zQyRQ4d48gVN2) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:37 | 2022-06-01 |  |
 | [Recuerdos](https://open.spotify.com/track/6IqFKEgroCXz9dBWXz3qUe) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [De Tuba Y Acordeon](https://open.spotify.com/album/2L5CrSYs1TPtMi6SebSk0P) | 2:53 | 2022-06-01 | 2023-06-09 |
-| [Regalo Equivocado](https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Regalo Equivocado](https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca) | 3:38 | 2023-12-24 |  |
+| [Regalo Equivocado](https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Regalo Equivocado](https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca) | 3:38 | 2023-12-24 | 2023-12-30 |
 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 |  |
 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 | 2022-06-01 | 2023-06-09 |
 | [Siempre En Mi Mente](https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:17 | 2022-06-01 | 2023-03-03 |

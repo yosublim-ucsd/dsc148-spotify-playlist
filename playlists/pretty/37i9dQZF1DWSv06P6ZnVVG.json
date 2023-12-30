@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 29040,
+  "num_followers": 29238,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
+  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Puras Pa'levantar la Polvadera",
+        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "El Son de la Tambora",
+      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 164466,
       "name": "Oye Traicionera",
       "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Puras Pa'levantar la Polvadera",
-        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "El Son de la Tambora",
-      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Te Advierto",
-        "url": "https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc"
-      },
-      "artists": [
-        {
-          "name": "Banda RG. Rancho Grande",
-          "url": "https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Mujer Interesada",
         "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Te Advierto",
+        "url": "https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc"
+      },
+      "artists": [
+        {
+          "name": "Banda RG. Rancho Grande",
+          "url": "https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Contra Viento y Marea",
-        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Chineleando",
-      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Mujer Alegre",
         "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Chineleando",
+      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 260666,
       "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
       "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 145103,
-      "name": "Arriba Pichataro (En Vivo)",
-      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -527,6 +511,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 145103,
+      "name": "Arriba Pichataro (En Vivo)",
+      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Pelea De Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Pelea De Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -607,22 +607,6 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Me Hac\u00edan Falta Huevos",
-        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Qu\u00edtate El Zapato",
-      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Me Hac\u00edan Falta Huevos",
+        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Qu\u00edtate El Zapato",
+      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "La Fiera 2018",
         "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 218893,
       "name": "El Pistolero - Son, Huapangobanda",
       "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 175934,
-      "name": "La Conga Roja (En Vivo)",
-      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
+      "duration_ms": 461333,
+      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -767,6 +751,22 @@
       "duration_ms": 153066,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Toro Meko (Serie Titanium)",
+        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Toro Meko (Serie Titanium)",
-        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 187680,
-      "name": "El Huitzuque\u00f1o",
-      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+      "duration_ms": 175934,
+      "name": "La Conga Roja (En Vivo)",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -831,6 +831,26 @@
       "duration_ms": 211426,
       "name": "El Toro Requeson",
       "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "La Trayectoria! (De Arturo Camarillo)",
+        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
+      "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -863,26 +883,6 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "La Trayectoria! (De Arturo Camarillo)",
-        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
-      "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mas Zacatecano Que Nunca",
-        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 154266,
-      "name": "Zapateando Con La Banda",
-      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Las m\u00e1s muerteras",
         "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 214674,
       "name": "Carnavalezco",
       "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Mas Zacatecano Que Nunca",
+        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 154266,
+      "name": "Zapateando Con La Banda",
+      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Vamos Pa' Los Toros",
-        "url": "https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F"
-      },
-      "artists": [
-        {
-          "name": "La Super Banda De Chilacachapa",
-          "url": "https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Son de la Cotorra",
-      "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156373,
       "name": "Pica Perica - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/3rRsyxWKh1znG601xHefUN"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Vamos Pa' Los Toros",
+        "url": "https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda De Chilacachapa",
+          "url": "https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Son de la Cotorra",
+      "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
     },
     {
       "added_at": "2022-08-02 22:31:47",

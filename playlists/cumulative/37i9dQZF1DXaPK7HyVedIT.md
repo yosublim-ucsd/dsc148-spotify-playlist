@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar, Alok
 
-202 songs - 10 hr 56 min
+204 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,11 @@
 | [Esta Vida \- VINNE Remix](https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [Esta Vida \(VINNE Remix\)](https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8) | 2:53 | 2023-07-28 | 2023-08-19 |
 | [Everybody](https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Everybody](https://open.spotify.com/album/2AvSRmLXT7fw20Egn9DiSr) | 2:30 | 2023-11-10 |  |
 | [Everything I Got](https://open.spotify.com/track/4eCRXUDUw9LDzH7v32kKjT) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Everything I Got](https://open.spotify.com/album/6XGsbOf23jgqWqyFxSvV8C) | 5:11 | 2023-10-27 |  |
+| [Faded](https://open.spotify.com/track/5cOSrZbXBlAARg81bp8bk9) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h) | [Faded](https://open.spotify.com/album/2vVkHhEsdBVdz9Plsouag7) | 1:43 | 2023-12-29 |  |
 | [Faded](https://open.spotify.com/track/7bmYGYcvuedoIzwX75BcUm) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Daft Hill](https://open.spotify.com/artist/2FLikYDFIrdVwOVDdWg8Mx), [Kieran Fowkes](https://open.spotify.com/artist/2V01K4FD01MOv7eLqQMitQ) | [Faded](https://open.spotify.com/album/0wadAXXTAsJKtbFcBZjI5Y) | 2:30 | 2023-08-04 | 2023-11-11 |
 | [Fallen Leaf](https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Fallen Leaf](https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd) | 3:33 | 2023-07-21 | 2023-10-21 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-21 | 2023-08-05 |
+| [Fluttering](https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Fluttering](https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU) | 4:35 | 2023-12-29 |  |
 | [Fly Away](https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK) | [Fly Away](https://open.spotify.com/album/3kn9zwMVOE1Ighr5ZvN5mo) | 5:40 | 2023-10-13 |  |
 | [Flying With Gods](https://open.spotify.com/track/4c6MFuZAHvnCKA7kXAt0B3) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Flying With Gods](https://open.spotify.com/album/0n9wUeRkXRBAyqZAezmXSH) | 6:34 | 2023-12-01 |  |
 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-07-21 | 2023-09-16 |

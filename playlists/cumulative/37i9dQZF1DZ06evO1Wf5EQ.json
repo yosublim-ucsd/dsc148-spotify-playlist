@@ -432,6 +432,24 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111270,
+      "name": "Primera Despedida",
+      "url": "https://open.spotify.com/track/5DtZrQUfxyRCNtis9Q4w87"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,

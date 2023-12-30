@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 179612,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7pq0Ysbjxmp1dMqLEiNIHz"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172597,
       "name": "Beatbox Rocker",
       "url": "https://open.spotify.com/track/65QR5zWJ17jqNafWA4fuip"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 99003,
       "name": "BEYOND THE BEYOND",
       "url": "https://open.spotify.com/track/0QRjqc4ADNiKhf0p5CkD4T"
@@ -1806,6 +1806,36 @@
       "duration_ms": 171870,
       "name": "Can You Dance",
       "url": "https://open.spotify.com/track/3UbPdT2EALHMwrHdqixJto"
+    },
+    {
+      "album": {
+        "name": "Cannonball (Lost Identity & Teknoclash Remix)",
+        "url": "https://open.spotify.com/album/59wcWtwt3fDL6MAHcYKLYP"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Cannonball - Lost Identity & Teknoclash Remix",
+      "url": "https://open.spotify.com/track/5mwH0lODAP3cx4F311xVzo"
     },
     {
       "album": {
@@ -7646,7 +7676,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 218576,
       "name": "Lovely Day To Die",
       "url": "https://open.spotify.com/track/0iRFMIitMOJSTMSBCZVRLJ"
@@ -9810,7 +9840,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 208935,
       "name": "Portals & Potatoes - Chapter V Remix",
       "url": "https://open.spotify.com/track/25AvyFeHCerOz83mk46hG4"
@@ -11642,7 +11672,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 246209,
       "name": "Source Of Fire (Hardshift Anthem 2023)",
       "url": "https://open.spotify.com/track/4Hhcvgt2tJy4QAFZRaSYO3"
@@ -12584,6 +12614,24 @@
       "duration_ms": 176440,
       "name": "Techno Is Back",
       "url": "https://open.spotify.com/track/5VCi0XuLd9ejKOZEaV4Tvq"
+    },
+    {
+      "album": {
+        "name": "15 Years Da Tweekaz EP",
+        "url": "https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249664,
+      "name": "Tequila - 15 Years Mix",
+      "url": "https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE"
     },
     {
       "album": {
@@ -13990,7 +14038,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185531,
       "name": "Turn The Beat Around",
       "url": "https://open.spotify.com/track/6jJzMWgpDtDDW2X11fxbav"

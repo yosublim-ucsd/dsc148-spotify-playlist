@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQwYWQzY2M1MGE5NDY3ZGZhZmYxNDJjZTcxYTZlMDUxMjc5MGNm",
+  "snapshot_id": "MCwwYWQ0M2IxODQ2MDk5YTRiYzlmNzMzYjg5MTZjYzRkNGMyZjhjYWFj",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
-        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Spring Is Gone by chance (2021)",
+        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Spring Is Gone by chance (2021)",
+      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Is you",
         "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Spring Is Gone by chance (2021)",
-        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0tDeLi5d4txzT6vjTiaFU5"
       },
       "artists": [
         {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Spring Is Gone by chance (2021)",
-      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+      "duration_ms": 153506,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/40TJl2hLf6Sr7K1a2SkkVA"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -855,22 +871,6 @@
       "duration_ms": 185760,
       "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
       "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0tDeLi5d4txzT6vjTiaFU5"
-      },
-      "artists": [
-        {
-          "name": "hyejin",
-          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/40TJl2hLf6Sr7K1a2SkkVA"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Mini Stewardess",
-        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "Mini Stewardess",
-      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "talks about blossoms",
         "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 218666,
       "name": "Flower",
       "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Mini Stewardess",
+        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "Mini Stewardess",
+      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
-      },
-      "artists": [
-        {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

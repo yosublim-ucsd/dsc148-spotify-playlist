@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 820887,
+  "num_followers": 821148,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWQ1N2ViZGQ5ZDQ5ZDk1MTdhNGQ1Nzc2YTliNGY0NzNiZWEyYzZm",
+  "snapshot_id": "MCw2NGI1OTNmMDQzNWQ1MGJkMjdlNzIyZDI0ODdkNjBhOTk1MDIzMGMy",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Prada (feat. D-Block Europe & Valexus) [Valexus Remix]",
         "url": "https://open.spotify.com/album/1kmVDYAYMwrVavfO1PYC6q"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 135125,
       "name": "Prada (feat. D-Block Europe & Valexus) - Valexus Remix",
       "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175856,
-      "name": "More Baby",
-      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "My Addiction",
-        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
       },
       "artists": [
         {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
         }
       ],
-      "duration_ms": 157680,
-      "name": "My Addiction",
-      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
+      "duration_ms": 179033,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1011,6 +1015,22 @@
       "duration_ms": 195121,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "My Addiction",
+        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
+      },
+      "artists": [
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 157680,
+      "name": "My Addiction",
+      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 170880,
       "name": "Lost In The Rhythm",
       "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
       },
       "artists": [
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 187607,
       "name": "Hear Me Now (Alok Remix)",
       "url": "https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Day 'N' Night",
+        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Day 'N' Night",
+      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Day 'N' Night",
-        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Day 'N' Night",
-      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "One Pill",
         "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 217946,
       "name": "One Pill",
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1471,18 +1471,26 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+        "name": "Blue Monday (feat. JD Davis)",
+        "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "JD Davis",
+          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+      "duration_ms": 196939,
+      "name": "Blue Monday (feat. JD Davis)",
+      "url": "https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt"
     }
   ],
   "unique_name": "Club Beats",

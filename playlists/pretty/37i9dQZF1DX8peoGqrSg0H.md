@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,404 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,710 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 |
-| 2 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 |
-| 3 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
+| 1 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
+| 2 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 |
+| 3 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 |
 | 4 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 |
-| 5 | [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 |
-| 6 | [เอ๊ะ!](https://open.spotify.com/track/4UHFKRE4TLfipAnFRxLjY9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Tan Lipta](https://open.spotify.com/artist/4Hb2TKXvG0B9sKgomYYhTx) | [เอ๊ะ!](https://open.spotify.com/album/57oLOPphGmhnPsA37gNPap) | 3:20 |
-| 7 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 8 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 |
+| 5 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 |
+| 6 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 |
+| 7 | [เอ๊ะ!](https://open.spotify.com/track/4UHFKRE4TLfipAnFRxLjY9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Tan Lipta](https://open.spotify.com/artist/4Hb2TKXvG0B9sKgomYYhTx) | [เอ๊ะ!](https://open.spotify.com/album/57oLOPphGmhnPsA37gNPap) | 3:20 |
+| 8 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 9 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
 | 10 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
-| 11 | [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 |
+| 11 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
 | 12 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
-| 13 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
-| 14 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
-| 15 | [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 |
+| 13 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
+| 14 | [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 |
+| 15 | [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 |
 | 16 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
 | 17 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\) \- Single](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
 | 18 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
 | 65 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 
-Snapshot ID: `MCxkZjcwNWU4NjhmYzFhMjM3ZDhlMWU5YTY3ZDdhOTI3NDBjNmFhNzZm`
+Snapshot ID: `MCwwMzZlNDU0OWQ1ZTY2ZWZmZDk3ODk1YmM4NzQ2MTVhOTVmZWM5YmQ2`

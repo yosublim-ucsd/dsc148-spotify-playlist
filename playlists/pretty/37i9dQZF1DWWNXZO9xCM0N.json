@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 73488,
+  "num_followers": 73741,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM2ZDc3NTYxZTA2NjhjMWRmYmRiMDc2ODUyMzU2OTcxNzQ1MzYy",
+  "snapshot_id": "MCxiMTc1NDI1ZTdiMmY0ZTEyZTJiMzU2ZDhjYzlhYjg5MjE2MTE5NTE3",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 2",
-        "url": "https://open.spotify.com/album/3B80qK2sAflFNhNgoXIk9D"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 351805,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/4HD9PodcnOBUm5eGr3iHCI"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "V\u00e1monos Pa'l Monte",
         "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/3B80qK2sAflFNhNgoXIk9D"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 351805,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/4HD9PodcnOBUm5eGr3iHCI"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Baile Con Cortijo",
-        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
-      },
-      "artists": [
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 364160,
       "name": "Ligia Elena",
       "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Baile Con Cortijo",
+        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+      },
+      "artists": [
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
     },
     {
       "added_at": "2022-01-11 21:31:49",

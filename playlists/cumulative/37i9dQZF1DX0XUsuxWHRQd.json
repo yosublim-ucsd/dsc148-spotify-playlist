@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from Juice WRLD, Central Cee and JID.",
+  "description": "Music from Drake, Jack Harlow and Juice WRLD.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -22545,6 +22545,24 @@
     },
     {
       "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "album": {
         "name": "Never Lose Me (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
       },
@@ -22560,7 +22578,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 165245,
       "name": "Never Lose Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"

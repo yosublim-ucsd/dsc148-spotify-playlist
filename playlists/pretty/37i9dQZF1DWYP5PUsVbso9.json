@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 290402,
+  "num_followers": 290561,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZmNTIzMjE1YzBkMThkMjEyOWE2ZWI1MDY2Y2VhMmNmMGM5MWZm",
+  "snapshot_id": "MCw0YzQ3MjU4NGI1YTVmYThiN2U5OGVhZjNjZGY2MzE5ZGI5ZTQ4ZTYz",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 188386,
       "name": "Whiskey Bent And Hell Bound",
       "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Summertime Dream",
+        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 389280,
+      "name": "The Wreck of the Edmund Fitzgerald",
+      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Hello, I'm Johnny Cash",
-        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 180573,
-      "name": "If I Were a Carpenter",
-      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 162866,
       "name": "The Most Beautiful Girl",
       "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "The Essential Ray Price",
-        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Love In The Hot Afternoon",
-        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Love In The Hot Afternoon",
-      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     }
   ],
   "unique_name": "70s Country",

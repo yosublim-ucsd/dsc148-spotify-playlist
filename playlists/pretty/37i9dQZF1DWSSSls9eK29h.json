@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 128960,
+  "num_followers": 129210,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
+  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -139,18 +139,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+      "duration_ms": 351400,
+      "name": "After Hours (The Antidote)",
+      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -171,18 +171,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 351400,
-      "name": "After Hours (The Antidote)",
-      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Fourplay",
-        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 356040,
-      "name": "101 Eastbound",
-      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "A Gift For Tomorrow",
         "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 307360,
       "name": "Walking In Rhythm",
       "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Fourplay",
+        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 356040,
+      "name": "101 Eastbound",
+      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,6 +731,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -763,38 +779,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "107 In The Shade",
-        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "107 In the Shade",
-      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Playing It Cool",
         "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 265253,
       "name": "South Of Market",
       "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "107 In The Shade",
+        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "107 In the Shade",
+      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 329826,
-      "name": "I Want You For Myself",
-      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 302306,
       "name": "Castine",
       "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 329826,
+      "name": "I Want You For Myself",
+      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
     },
     {
       "added_at": "2020-08-19 00:00:21",

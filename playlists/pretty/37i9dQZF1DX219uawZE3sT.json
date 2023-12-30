@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 138233,
+  "num_followers": 138447,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmVhM2JkYmNkNTlmNTUwNWNiNWMwZjQ4ZWMzM2FmODg2OWY2YzMz",
+  "snapshot_id": "MCw5MDRkYTA0NmVjMzAzZDdjZjM3YjAyY2FkMzY3ZThiZDZhOTE4NGI2",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Esa Hembra Es Mala",
-      "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 165680,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Esa Hembra Es Mala",
+      "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9... De Noche",
-        "url": "https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "El Amor Manda",
-      "url": "https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Ni\u00f1a Amada Mia",
         "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 192026,
       "name": "Ni\u00f1a Amada M\u00eda",
       "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9... De Noche",
+        "url": "https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "El Amor Manda",
+      "url": "https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -763,6 +763,38 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Dos Mujeres un Camino",
+      "url": "https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Ma\u00f1ana Es Para Siempre",
+      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se"
       },
@@ -783,22 +815,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Dos Mujeres un Camino",
-      "url": "https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Ma\u00f1ana Es Para Siempre",
-      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 229194,
+      "name": "Por Amarte (Destilando Amor)",
+      "url": "https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Super #1's",
-        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Contra Viento Y Marea",
-      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Huevos Rancheros",
         "url": "https://open.spotify.com/album/0zN4M7NeFS0jwlfDYLPZux"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv"
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 229194,
-      "name": "Por Amarte (Destilando Amor)",
-      "url": "https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa"
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     },
     {
       "added_at": "2022-05-06 18:32:26",

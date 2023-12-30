@@ -1,12 +1,12 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 440399,
+  "num_followers": 440703,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjA5MWQwYzA0NDQwZGNiMWFmMDUxZmMxYTk2NzU5ZjE1YmE4NzU0",
+  "snapshot_id": "MCxmZWQ3YjMwOTA2MDgzNzA5MmQ1YjU0YzBkOGZiNDQwNDM5MGUzZTU0",
   "tracks": [
     {
       "added_at": "2022-02-10 18:18:16",
@@ -311,6 +311,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Ela \u00c9 do Tipo",
         "url": "https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 178066,
       "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
       "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -435,18 +435,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Piseiro Sofr\u00eancia",
-        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 173037,
-      "name": "N\u00e3o, N\u00e3o Vou",
-      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
+      "duration_ms": 170506,
+      "name": "Coladinha Em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -471,6 +475,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Piseiro Sofr\u00eancia",
+        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "N\u00e3o, N\u00e3o Vou",
+      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Gaiola \u00c9 o Troco",
         "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
       },
@@ -491,26 +511,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Coladinha Em Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 232485,
       "name": "Regime Fechado - Ao Vivo",
       "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -551,22 +567,6 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Evoluiu",
         "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 179644,
       "name": "Evoluiu",
       "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK"
+      },
+      "artists": [
+        {
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Me Apaixonei Pela Pessoa Errada",
+      "url": "https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -891,38 +891,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "\u00c9 S\u00f3 Dizer Que Sim",
-        "url": "https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei"
-      },
-      "artists": [
-        {
-          "name": "Pablo",
-          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Por Que Homem N\u00e3o Chora",
-      "url": "https://open.spotify.com/track/3JxOfiRJD9HqE38jODmAuW"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -947,18 +915,34 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
       },
       "artists": [
         {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "\u00c9 S\u00f3 Dizer Que Sim",
+        "url": "https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Por Que Homem N\u00e3o Chora",
+      "url": "https://open.spotify.com/track/3JxOfiRJD9HqE38jODmAuW"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -979,6 +963,42 @@
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1011,42 +1031,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Malandramente",
+        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Nandinho",
+          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
+        },
+        {
+          "name": "Nego Bam",
+          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Malandramente",
+      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Os Morenos",
         "url": "https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0"
       },
@@ -1147,26 +1171,6 @@
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Te Prometo",
-        "url": "https://open.spotify.com/album/6RFjj3hS8njl016RDGHREc"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 161652,
-      "name": "Te Prometo",
-      "url": "https://open.spotify.com/track/7Ac3BmqTQoLdAt7HtZyfgN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1311,8 +1315,8 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Malandramente",
-        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
+        "name": "Te Prometo",
+        "url": "https://open.spotify.com/album/6RFjj3hS8njl016RDGHREc"
       },
       "artists": [
         {
@@ -1320,17 +1324,13 @@
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "MC Nandinho",
-          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
-        },
-        {
-          "name": "Nego Bam",
-          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Malandramente",
-      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+      "duration_ms": 161652,
+      "name": "Te Prometo",
+      "url": "https://open.spotify.com/track/7Ac3BmqTQoLdAt7HtZyfgN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Toda Toda",
-        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
       },
       "artists": [
         {
-          "name": "Pikeno & Menor",
-          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Toda Toda",
-      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
+      "duration_ms": 177733,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
+        "name": "Toda Toda",
+        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Pikeno & Menor",
+          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
+      "duration_ms": 180266,
+      "name": "Toda Toda",
+      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Envolvimento",
-        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
-      },
-      "artists": [
-        {
-          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
-        }
-      ],
-      "duration_ms": 146602,
-      "name": "Envolvimento",
-      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Verdinha",
         "url": "https://open.spotify.com/album/5LTk5zESurK61KmqqF7NsO"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 160395,
       "name": "Verdinha",
       "url": "https://open.spotify.com/track/2RMOwSvOGQyy985Vx4VSGQ"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Envolvimento",
+        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
+      },
+      "artists": [
+        {
+          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
+        }
+      ],
+      "duration_ms": 146602,
+      "name": "Envolvimento",
+      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
     },
     {
       "added_at": "2022-02-10 18:18:16",

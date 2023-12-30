@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 237115,
+  "num_followers": 237357,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY1NzQ3ZTBiY2ZiNGQ1NGViYjk3ZTU1MmNkYzk4ZWY1YjY5ZTZi",
+  "snapshot_id": "MCw5NjViZWNiYjhiMmY4YjkyMDhhODIxMzY5MmIzMGJmNTQ0MTc5MGJk",
   "tracks": [
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+        "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
+        "url": "https://open.spotify.com/album/6sR5oeKyogQ6L7wOzO5U3t"
       },
       "artists": [
         {
           "name": "Vinod Rathod",
           "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 453653,
-      "name": "Ae Mere Humsafar",
-      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
+      "duration_ms": 383375,
+      "name": "Koi Na Koi Chahiye - From \"Deewana\"",
+      "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
-        "url": "https://open.spotify.com/album/6sR5oeKyogQ6L7wOzO5U3t"
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
       "artists": [
         {
           "name": "Vinod Rathod",
           "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 383375,
-      "name": "Koi Na Koi Chahiye - From \"Deewana\"",
-      "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
+      "duration_ms": 453653,
+      "name": "Ae Mere Humsafar",
+      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

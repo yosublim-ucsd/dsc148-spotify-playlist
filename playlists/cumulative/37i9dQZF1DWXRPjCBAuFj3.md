@@ -4,7 +4,7 @@
 
 > Il rap più forte del mondo in una sola playlist\. Cover: Central Cee
 
-511 songs - 1 day 2 hr 50 min
+512 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Calling For You \(feat\. 21 Savage\)](https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:45 | 2023-10-06 | 2023-11-07 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2022-07-28 | 2023-09-29 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2022-05-10 | 2022-07-29 |
-| [CARACAS](https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [CARACAS](https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe) | 2:27 | 2023-11-06 |  |
+| [CARACAS](https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [CARACAS](https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe) | 2:27 | 2023-11-06 | 2023-12-30 |
 | [Cars Bring Me Out \(feat\. Future\)](https://open.spotify.com/track/2Okh2n1EHlGhviAYv75MOB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:22 | 2023-07-04 | 2023-07-27 |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-08-25 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-22 | 2022-07-26 |
@@ -238,6 +238,7 @@
 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Keep It Low \(feat\. Future\)](https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu) | 2:22 | 2023-06-05 | 2023-06-18 |
 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 | 2022-05-10 | 2022-07-27 |
 | [Konstnärer](https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Konstnärer](https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4) | 2:30 | 2023-09-29 | 2023-11-16 |
+| [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 | 2023-12-21 |  |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2022-09-20 |  |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-22 | 2023-11-22 |
 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 | 2022-10-01 | 2023-08-10 |

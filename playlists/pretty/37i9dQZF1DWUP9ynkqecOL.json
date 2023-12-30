@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21058,
+  "num_followers": 21081,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGQxMjRkZDU1OWI5MDFjZTQ4NDZmN2EwZGQ1NDY2YzVmNmMzZjk1",
+  "snapshot_id": "MCwwM2JlNTQ5YTk5NmY5YjgxNDcwNTQxMDUzYTc1MzQ3ZjllZWM3MTRm",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Asimetrico",
         "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 314009,
       "name": "Que Bailen",
       "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -835,22 +835,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Wal\u00fcng II",
-        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
+        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
+        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
       },
       "artists": [
         {
-          "name": "El Extravagante",
-          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         },
         {
-          "name": "Camilo Zanetti",
-          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Baile De M\u00e1scaras",
-      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
+      "duration_ms": 245000,
+      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
+      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -887,22 +887,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
-        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
+        "name": "Wal\u00fcng II",
+        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "El Extravagante",
+          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
-      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
+      "duration_ms": 244000,
+      "name": "Baile De M\u00e1scaras",
+      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Albura Remixed",
+        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 314854,
+      "name": "Belleza en el Aire - Remix",
+      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Albura Remixed",
-        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
+        "name": "New Latam Beats From Argentina (Disco A)",
+        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
       },
       "artists": [
         {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         }
       ],
-      "duration_ms": 314854,
-      "name": "Belleza en el Aire - Remix",
-      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
+      "duration_ms": 325025,
+      "name": "Serenata Plateada",
+      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -991,22 +1007,6 @@
       "duration_ms": 295073,
       "name": "Rio Contento",
       "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "New Latam Beats From Argentina (Disco A)",
-        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 325025,
-      "name": "Serenata Plateada",
-      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1167,46 +1167,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
-        "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Kaleema",
-          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "Peoncito de Estancia - Kaleema Remix",
-      "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -1235,6 +1195,46 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Kaleema",
+          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "La L\u00ednea Del Rio (Remix)",
         "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 546568,
       "name": "La L\u00ednea Del Rio - Remix",
       "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Templo Andino",
         "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 358666,
       "name": "Templo Andino",
       "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Camino a la Templanza",
-        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
-      },
-      "artists": [
-        {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 263424,
-      "name": "Uni\u00f3n de los Amantes",
-      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1347,6 +1327,26 @@
       "duration_ms": 271000,
       "name": "Muchas Estrellas",
       "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Camino a la Templanza",
+        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
+      },
+      "artists": [
+        {
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 263424,
+      "name": "Uni\u00f3n de los Amantes",
+      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Do\u00f1a Ubenza (Remix)",
-        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
-      },
-      "artists": [
-        {
-          "name": "Veronika Silva",
-          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
-        },
-        {
-          "name": "Philippe Cohen Solal",
-          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Do\u00f1a Ubenza - Remix",
-      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "El Camino de Leda (Un Tributo a Leda Valladares)",
         "url": "https://open.spotify.com/album/1Ny7gup5mfKNb0fqwLMZat"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 356983,
       "name": "Baguala de Tucuman",
       "url": "https://open.spotify.com/track/2lRIror5fKrJDFm17gSsMC"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Do\u00f1a Ubenza (Remix)",
+        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
+      },
+      "artists": [
+        {
+          "name": "Veronika Silva",
+          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
+        },
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Do\u00f1a Ubenza - Remix",
+      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1487,22 +1487,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+        "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
+        "url": "https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ"
       },
       "artists": [
         {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
         },
         {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Ruido Selecto",
+          "url": "https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu"
         }
       ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
+      "duration_ms": 200000,
+      "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
+      "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
     }
   ],
   "unique_name": "Electro Folklore",

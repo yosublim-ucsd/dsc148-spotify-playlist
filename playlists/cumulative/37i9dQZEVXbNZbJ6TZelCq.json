@@ -281,6 +281,32 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Lil Alex",
+          "url": "https://open.spotify.com/artist/3jB2xQjLOFkVegZlN5bxYl"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154137,
+      "name": "22GOTGUAP",
+      "url": "https://open.spotify.com/track/4aDUpvmF1s7jiVaDpR1ykr"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -706,7 +732,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
@@ -1176,7 +1202,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2285,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "FLAWLE$$ - EP",
+        "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102580,
+      "name": "BALENCI",
+      "url": "https://open.spotify.com/track/0ohMA6mLmyRCmjAf3ZwNAL"
+    },
+    {
+      "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
       },
@@ -2619,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "BEASTMODE",
+      "url": "https://open.spotify.com/track/4k4rTklw6RkvZuRPKdGYWE"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -2794,6 +2860,24 @@
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "album": {
+        "name": "FLAWLE$$ - EP",
+        "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103384,
+      "name": "BELLY DANCE",
+      "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
     },
     {
       "album": {
@@ -3480,7 +3564,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 193392,
       "name": "Bottom of the Sea",
       "url": "https://open.spotify.com/track/3xeE7mzyAl9ymAupBdG8wk"
@@ -5444,7 +5528,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 145846,
       "name": "CONTACT FATAL 2",
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
@@ -7394,7 +7478,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -8556,7 +8640,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -8618,7 +8702,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -9256,6 +9340,32 @@
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178607,
+      "name": "FREEZING COLD",
+      "url": "https://open.spotify.com/track/1IGbqCODgKsJfz6K3DlGeP"
     },
     {
       "album": {
@@ -10226,7 +10336,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10528,7 +10638,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -10970,7 +11080,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -11825,6 +11935,24 @@
     },
     {
       "album": {
+        "name": "FLAWLE$$ - EP",
+        "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "IKEBANA",
+      "url": "https://open.spotify.com/track/0ptGJLVTNJ2PclW8uzpi4K"
+    },
+    {
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
       },
@@ -12180,7 +12308,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 152142,
       "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
@@ -12434,7 +12562,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -12460,7 +12588,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -12478,7 +12606,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -12682,7 +12810,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -12700,7 +12828,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -13556,7 +13684,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -13876,7 +14004,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -13898,7 +14026,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -14901,6 +15029,32 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "NMW Yanni",
+          "url": "https://open.spotify.com/artist/72Xogl9AkYHurmrMyW5NZe"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/2qXATVuCrdtjDproyhKGH4"
+    },
+    {
+      "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
       },
@@ -15116,7 +15270,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -15196,7 +15350,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 194918,
       "name": "Marut, Margaritar",
       "url": "https://open.spotify.com/track/4NsHMmSMkNo01lOcttVTxZ"
@@ -15406,6 +15560,32 @@
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "MERG PE STRADA",
+      "url": "https://open.spotify.com/track/3aDRNafCEhl9VhbPp1qlbg"
     },
     {
       "album": {
@@ -15798,7 +15978,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -17918,7 +18098,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -18335,6 +18515,32 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "PACATE",
+      "url": "https://open.spotify.com/track/1OAx9CsbpzE9sEfZGPS7LP"
+    },
+    {
+      "album": {
         "name": "PACHETE",
         "url": "https://open.spotify.com/album/7vXKminYzk3G1NhyKJ3lQs"
       },
@@ -18386,6 +18592,32 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198646,
+      "name": "PANICA",
+      "url": "https://open.spotify.com/track/0CUM6mR5o2PEwaz86sQRpd"
     },
     {
       "album": {
@@ -18584,6 +18816,24 @@
       "duration_ms": 192119,
       "name": "Parte Din Tine",
       "url": "https://open.spotify.com/track/2Nd0rVXqoIGUFPXnzNdwBM"
+    },
+    {
+      "album": {
+        "name": "FLAWLE$$ - EP",
+        "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "PAT MATRIMONIAL",
+      "url": "https://open.spotify.com/track/2uqiuAuQbT8SwEAGfMiZ2a"
     },
     {
       "album": {
@@ -19150,7 +19400,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -19407,6 +19657,44 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "FLORIS",
+          "url": "https://open.spotify.com/artist/6oCCIhNLreyOTp3krqOfeM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "PRAFU",
+      "url": "https://open.spotify.com/track/5bxQVFwF7Ix1q9WEPu5JEj"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -19494,7 +19782,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 168500,
       "name": "Prietena ta",
       "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
@@ -20356,7 +20644,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 193588,
       "name": "Regina Nop\u021bii",
       "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
@@ -20551,6 +20839,32 @@
     },
     {
       "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173940,
+      "name": "RISIPA",
+      "url": "https://open.spotify.com/track/0HC4MTl9NPGv6EKJWsfUzD"
+    },
+    {
+      "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
       },
@@ -20632,7 +20946,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -21256,7 +21570,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -21922,6 +22236,32 @@
       "duration_ms": 200727,
       "name": "Sensibil La Lumina",
       "url": "https://open.spotify.com/track/0HQrHYghOsf7UVcBdSFRa2"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Dani",
+          "url": "https://open.spotify.com/artist/6affLrJD63hgIygqRjyQOW"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "SENZATIE",
+      "url": "https://open.spotify.com/track/63XwUeinHcUoRsotop5C1A"
     },
     {
       "album": {
@@ -22608,7 +22948,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -22834,7 +23174,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -23188,7 +23528,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 163516,
       "name": "Stai nu fugi",
       "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"
@@ -23780,10 +24120,40 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "FLORIS",
+          "url": "https://open.spotify.com/artist/6oCCIhNLreyOTp3krqOfeM"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "SUPER FRIG",
+      "url": "https://open.spotify.com/track/0sL8eEh4iLXpFTts09OQzS"
     },
     {
       "album": {
@@ -23894,6 +24264,32 @@
       "duration_ms": 208111,
       "name": "Supiraw",
       "url": "https://open.spotify.com/track/4H0EJ3Uwo10eLcErtWggIe"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Sapte",
+          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244788,
+      "name": "SUS",
+      "url": "https://open.spotify.com/track/4pD3eZfPUukgVqeAeUzuF0"
     },
     {
       "album": {
@@ -24808,7 +25204,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 150957,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
@@ -24974,7 +25370,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -26378,7 +26774,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -26864,6 +27260,32 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165944,
+      "name": "VIBE CIUDAT",
+      "url": "https://open.spotify.com/track/70CIQOodwbeVyZRjGv3QBd"
     },
     {
       "album": {

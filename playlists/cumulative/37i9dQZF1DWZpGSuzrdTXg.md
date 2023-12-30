@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-142 songs - 8 hr 11 min
+143 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 | 2023-07-13 |  |
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-13 | 2023-10-02 |
 | [Always Waiting](https://open.spotify.com/track/4cLQpjdFdKjCuPf4crxuh1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 4:31 | 2022-12-22 | 2023-01-17 |
+| [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 |  |
 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2022-12-22 | 2023-11-10 |
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-12-15 |  |
 | [Autumn Love](https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl) | 3:18 | 2023-12-14 |  |
@@ -96,7 +97,7 @@
 | [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 |  |
 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 | 2022-12-22 |  |
 | [Out of the Blue](https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wrote](https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0) | 3:36 | 2023-12-24 |  |
-| [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 |  |
+| [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 | 2023-12-30 |
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-12-22 | 2023-11-10 |
 | [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 | 2023-05-30 |

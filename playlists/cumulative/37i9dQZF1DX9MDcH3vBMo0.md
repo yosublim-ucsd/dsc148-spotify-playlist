@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-688 songs - 1 day 5 hr 51 min
+692 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-21 |  |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-04-21 | 2023-12-17 |
 | [Breakfast With Chopin](https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Breakfast with Chopin](https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm) | 2:06 | 2023-02-20 |  |
+| [Breathable](https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Breathable](https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk) | 2:41 | 2023-12-18 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2022-04-21 | 2022-08-10 |
 | [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-04-21 | 2022-10-23 |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2022-04-21 | 2022-09-24 |
@@ -204,7 +205,7 @@
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-21 | 2022-12-16 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-04-21 | 2023-01-21 |
 | [Fylke](https://open.spotify.com/track/22iDJJFS3fHcp2VehXymVL) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:58 | 2022-04-21 | 2022-09-24 |
-| [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-04-21 |  |
+| [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-04-21 | 2023-12-30 |
 | [Gekka](https://open.spotify.com/track/0NwYxDg2hNISVbpaum1Q6U) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Gekka](https://open.spotify.com/album/7zT0noPRDVhMt9fbsvy3xK) | 3:12 | 2022-04-21 | 2022-07-21 |
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-21 | 2023-01-21 |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-04-21 |  |
@@ -280,6 +281,7 @@
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2022-04-21 | 2023-09-05 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-04-21 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-04-21 |  |
+| [Je vous en prie](https://open.spotify.com/track/4RyaKjR8XWve8p4ZJ16xss) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Je vous en prie](https://open.spotify.com/album/29pQv0Mg95Ru8WBuizctt9) | 2:43 | 2023-12-18 |  |
 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-04-21 | 2022-10-21 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-21 | 2023-01-21 |
@@ -337,6 +339,7 @@
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-20 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-21 |  |
 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-13 |  |
+| [Luce Stellare](https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Luce Stellare](https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0) | 2:36 | 2023-12-18 |  |
 | [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-03 |  |
 | [Lullaby](https://open.spotify.com/track/1qfyGqDF1vypYOvglIkIM4) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Lullaby](https://open.spotify.com/album/5eMa53RcT7kpDo5T9LYD1d) | 2:33 | 2022-04-21 | 2022-09-24 |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-21 |  |
@@ -356,7 +359,7 @@
 | [Melody For Myself](https://open.spotify.com/track/5AbjZjJ68pkpAhRqO0u7fG) | [Leo Melod](https://open.spotify.com/artist/5L8E1ju2ZexEVDNzRENsLf) | [Melody For Myself](https://open.spotify.com/album/57UJoke1p1S026JCo6eOPx) | 2:46 | 2022-04-21 | 2022-09-24 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2022-04-21 |  |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2022-04-21 | 2022-09-24 |
-| [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-04-21 |  |
+| [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-04-21 | 2023-12-30 |
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2022-04-21 | 2023-01-21 |
 | [Memory of Home](https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF) | [Meghan Koenig](https://open.spotify.com/artist/45otUyl0ZstiBv2Me81kb1) | [Thoughtful Breeze](https://open.spotify.com/album/4tXtJ6Gvs7xSdt9bvFik5k) | 2:40 | 2022-04-21 | 2022-08-10 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-04-21 | 2023-08-26 |
@@ -419,7 +422,7 @@
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-04-21 | 2022-07-21 |
 | [Opus 9](https://open.spotify.com/track/4OVIVWM4GB2OwmlEsZ4D3U) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 9](https://open.spotify.com/album/4AqJ6Q47iOfOLyHRyQvTQq) | 2:37 | 2023-09-25 |  |
 | [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-04-21 |  |
-| [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-21 |  |
+| [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-21 | 2023-12-30 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-21 |  |
 | [Outside Lit Windows With You](https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Outside Lit Windows With You](https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L) | 3:00 | 2023-02-20 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2022-04-21 | 2023-09-26 |
@@ -474,6 +477,7 @@
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2022-04-21 |  |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2022-04-21 | 2022-07-21 |
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-02-20 |  |
+| [Relief](https://open.spotify.com/track/2Iek9V6Gs6uJ1IMWIoqqu5) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Relief](https://open.spotify.com/album/5kUjtWoxB9rBFHc6Kwk4FE) | 2:16 | 2023-12-18 |  |
 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 | 2022-04-21 |  |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2022-04-21 | 2023-08-15 |
 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 | 2022-04-21 | 2022-09-24 |
@@ -514,7 +518,7 @@
 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 | 2022-04-21 | 2022-09-24 |
 | [Serene](https://open.spotify.com/track/3dwdsOZ2lvnEfsIwK9hyBX) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Serene](https://open.spotify.com/album/2RPnCQxP5HRG8u0Avw9b6S) | 2:59 | 2022-04-21 | 2022-09-24 |
 | [Serenity](https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Retrospection](https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa) | 2:55 | 2022-04-21 |  |
-| [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-21 |  |
+| [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-21 | 2023-12-30 |
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-04-21 | 2023-10-03 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-21 | 2023-07-04 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-18 |  |

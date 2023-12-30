@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 152085,
       "name": "Pirulito Vermelho",
       "url": "https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ"
@@ -3544,6 +3544,28 @@
       "duration_ms": 144516,
       "name": "Vestido Coladinho",
       "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
+    },
+    {
+      "album": {
+        "name": "Vestido Curto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151976,
+      "name": "Vestido Curto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
     },
     {
       "album": {

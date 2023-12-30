@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "En Las Buenas y En Las Malas",
+        "url": "https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "En Las Buenas y En Las Malas",
+      "url": "https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N"
+    },
+    {
+      "album": {
         "name": "El Principe 2",
         "url": "https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO"
       },
@@ -122,7 +140,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 164789,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
@@ -308,7 +326,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 171612,
       "name": "Playita",
       "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
@@ -356,6 +374,28 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "album": {
+        "name": "Salitre",
+        "url": "https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Salitre",
+      "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
     },
     {
       "album": {

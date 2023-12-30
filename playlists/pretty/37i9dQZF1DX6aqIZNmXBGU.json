@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17463,
+  "num_followers": 17459,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y1YWFiMmM3YjU4YjMyNjUyOTVkZWQ1ZTU2ZGYwOTMwYmMwNmEz",
+  "snapshot_id": "MCxhMWZiYjdhZjBhZGMzMThlYWJhZTY2YTE2MmM3MzQ4Y2NlZWIwYjJh",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "L.S.D",
-        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "L.S.D",
-      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "King of the Beach",
-        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
-      },
-      "artists": [
-        {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "King of the Beach",
-      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Onion",
         "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 182786,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Melted",
-        "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Boisad",
         "url": "https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 209248,
       "name": "Reservoir Dawgs",
       "url": "https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Melted",
+        "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Oddments",
-        "url": "https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z"
+        "name": "Manipulator",
+        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 209011,
-      "name": "Hot Wax",
-      "url": "https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL"
+      "duration_ms": 242013,
+      "name": "Tall Man Skinny Lady",
+      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
     }
   ],
   "unique_name": "Sun & Surf",

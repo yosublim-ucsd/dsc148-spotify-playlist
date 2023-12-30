@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Kali Uchis en portada.",
-  "num_followers": 536100,
+  "num_followers": 536315,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDljODlkYzJmMjRiMTM0ZmFlNTUwNTVmZmM2NmNkMzlhMjdmNDg4",
+  "snapshot_id": "MCxhOTMzMDkwNWQ4ZmJmMDQ0YzdhNmYwYWMxODE2NGM2MmM3MjNkYzI4",
   "tracks": [
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 208733,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
+        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
-        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Armando Manzanero Duetos 2",
-        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Duetos 2",
-          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Nada personal (A dueto con Ana Torroja)",
-      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "El palacio de las flores",
         "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 259146,
       "name": "Contigo aprend\u00ed",
       "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Armando Manzanero Duetos 2",
+        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Duetos 2",
+          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Nada personal (A dueto con Ana Torroja)",
+      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Keep\u00b4n Love",
         "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 197965,
       "name": "La Mentira (Se Te Olvida)",
       "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1691,38 +1691,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -1735,6 +1703,22 @@
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1755,6 +1739,38 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     }
   ],
   "unique_name": "Boleros Pop",

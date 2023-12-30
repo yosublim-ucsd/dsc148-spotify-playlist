@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 141106,
       "name": "airbag",
       "url": "https://open.spotify.com/track/12DjZ06QeaiKJ0s9NP0QBi"
@@ -20488,7 +20488,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
@@ -24722,6 +24722,24 @@
       "duration_ms": 167728,
       "name": "Pretty Little Addict",
       "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Addict",
+        "url": "https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS"
+      },
+      "artists": [
+        {
+          "name": "Haiden",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167728,
+      "name": "Pretty Little Addict",
+      "url": "https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP"
     },
     {
       "album": {
@@ -31218,7 +31236,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 167533,
       "name": "the girl (that you can't get over)",
       "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"

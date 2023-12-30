@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 171243,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
@@ -4604,6 +4604,28 @@
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
+    },
+    {
+      "album": {
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/4omeVZmvBUPPlK10CSnmFZ"
     },
     {
       "album": {

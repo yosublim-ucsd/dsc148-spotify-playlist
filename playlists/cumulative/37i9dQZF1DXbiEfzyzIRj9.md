@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Barry Can't Swim & Surya Sen
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-542 songs - 1 day 16 hr 18 min
+543 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/track/6x3NbTvf7CFhLfpHkcSK6G) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/album/3rUdaOm0d7NOvKsqn2Cy5H) | 5:13 | 2023-07-13 | 2023-07-15 |
 | [Lazy Days \- Wallace Remix](https://open.spotify.com/track/35WdWgyZaE5vjnafQfcgAs) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/00Z0S72Fd8PwVcbXW6ZpKY) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 5:13 | 2023-08-12 | 2023-09-08 |
 | [Lazy Days \- Wallace Remix](https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lazy Days \(Wallace Remix\)](https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy) | 5:13 | 2023-07-13 | 2023-08-14 |
+| [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2023-12-28 |  |
 | [Leeds 2 Kyoto](https://open.spotify.com/track/3PbFK50fWPTbUegu7yANpX) | [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [PBR008](https://open.spotify.com/album/1oq4yoljnzJhMZLshUEOMI) | 5:22 | 2023-11-17 | 2023-12-16 |
 | [Let Me Go](https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Let Me Go](https://open.spotify.com/album/4Y4Y3cyycPTRDawz6U8irG) | 6:55 | 2023-10-05 | 2023-10-23 |
 | [Let Yourself Go!](https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Dreams Of A Dancefloor EP](https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4) | 4:43 | 2023-09-21 |  |
@@ -424,7 +425,7 @@
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-16 | 2023-05-12 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-07 |  |
 | [Shella Verse](https://open.spotify.com/track/2aoWvGMW6W40WelevwsOUx) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Shella Verse](https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3) | 2:43 | 2023-06-29 | 2023-08-25 |
-| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 |  |
+| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 | 2023-12-30 |
 | [Shiver](https://open.spotify.com/track/0lbLhmnhpIEV6iHvAn6D9P) | [Breakbeat Populer](https://open.spotify.com/artist/5VSDC7WY0kSmmYBQn7qvvk), [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [Shiver](https://open.spotify.com/album/3IfPsh1m38fHyCsB6uMYF1) | 5:57 | 2023-12-15 |  |
 | [Shot Sonic](https://open.spotify.com/track/5VaJ35OY2rV9VqLXQpKcuv) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Shot Sonic](https://open.spotify.com/album/58hHxZF25yakiuz93mjZsP) | 5:03 | 2023-04-27 | 2023-07-28 |
 | [Shut Down](https://open.spotify.com/track/5kGx9JFcF3kmJpPPOe8sQV) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 3:39 | 2023-08-12 | 2023-10-23 |

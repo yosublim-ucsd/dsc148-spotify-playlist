@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 465400,
       "name": "Red Carpet",
       "url": "https://open.spotify.com/track/1Zs6UFk1chm2BQl6AQcxgb"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 220586,
       "name": "Red Garter",
       "url": "https://open.spotify.com/track/0xtAlxuvoyMXQDgN3eeNKx"
@@ -3044,6 +3044,42 @@
       "duration_ms": 191346,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL DUKE ELLINGTON 1958 - 1959",
+        "url": "https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462053,
+      "name": "Toot Suite : Red Carpet - From The Album Duke Ellington Jazz Party",
+      "url": "https://open.spotify.com/track/1Y4d6mRYwvFixw0nZy5VuW"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL DUKE ELLINGTON 1958 - 1959",
+        "url": "https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Toot Suite : Red Garter - From The Album Duke Ellington Jazz Party",
+      "url": "https://open.spotify.com/track/6vOrhq9FHTEea7jXLttoTA"
     },
     {
       "album": {

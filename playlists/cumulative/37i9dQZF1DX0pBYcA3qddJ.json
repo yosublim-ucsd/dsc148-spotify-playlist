@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
@@ -6001,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/41q9qpBZckfeDMtMAMpzUT"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164886,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1RpDvXdCChjwRFF7hXINcQ"
+    },
+    {
+      "album": {
         "name": "Resonance",
         "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
       },
@@ -6928,6 +6946,24 @@
       "duration_ms": 264906,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: I. Adagio",
       "url": "https://open.spotify.com/track/7D3sh1V2RA5fviB1PccfgR"
+    },
+    {
+      "album": {
+        "name": "pink cloud",
+        "url": "https://open.spotify.com/album/6JQIULtyJOjYL3zZMxwGgJ"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "pink cloud",
+      "url": "https://open.spotify.com/track/0wz4zB7ngsuHPZpyTGvlKi"
     },
     {
       "album": {
@@ -8000,7 +8036,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 218021,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
@@ -11054,7 +11090,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 201306,
       "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
       "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
@@ -11522,7 +11558,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 124533,
       "name": "\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c1 68\u7b2c1\u90e8 \u5e7c\u3044\u5b50\u4f9b\u305f\u3061\u306e\u305f\u3081\u306b 14 \u5c0f\u3055\u306a\u7df4\u7fd2\u66f2",
       "url": "https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9"

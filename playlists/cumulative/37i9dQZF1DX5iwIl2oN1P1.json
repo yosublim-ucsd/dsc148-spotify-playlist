@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj"
+    },
+    {
+      "album": {
         "name": "Zacardi Cortez",
         "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 199254,
       "name": "See the Light (feat. Jekalyn Carr)",
       "url": "https://open.spotify.com/track/3hBX1H7oOtqEQxXQrZlwlC"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 324573,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC"
@@ -1656,6 +1674,24 @@
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/2xqV3tpyqZykQEHahqky6C"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434546,
+      "name": "You Are God Alone",
+      "url": "https://open.spotify.com/track/0Uuao6IKpjHildJW1ozIcE"
     },
     {
       "album": {

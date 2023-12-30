@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 49 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 28 | [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 |
 | 29 | [Sonhos de José](https://open.spotify.com/track/0WStd5zTa892KcxoMAiwMx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 30 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 |
-| 31 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
-| 32 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
+| 31 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
+| 32 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
 | 33 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 34 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
 | 35 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 48 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 49 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 
-Snapshot ID: `MjgzOTQwNTAsMDAwMDAwMDA1YTM3YTU4NjE4MjY2ODZkMzIzZjQ5MjkxN2YyYTBiZg==`
+Snapshot ID: `MjgzOTgzNzAsMDAwMDAwMDAwZWE4NTgzNDk4MzdmMWI1YTk2YTdiNTk4ZDAxMGEwYQ==`

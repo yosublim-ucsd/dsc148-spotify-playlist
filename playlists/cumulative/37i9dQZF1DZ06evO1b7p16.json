@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 188653,
       "name": "I Am The Only One Who Knows You",
       "url": "https://open.spotify.com/track/2mHQcAgn3gcg5UxDidJd1X"
@@ -510,6 +510,24 @@
       "duration_ms": 322906,
       "name": "I Felt It Too",
       "url": "https://open.spotify.com/track/4gQGrIw38yZITh4JQNEVOO"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Juice 2 Me",
+      "url": "https://open.spotify.com/track/0CyVjQtb75XP8yH0MDQZKb"
     },
     {
       "album": {

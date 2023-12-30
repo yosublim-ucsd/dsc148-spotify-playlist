@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-300 songs - 12 hr 42 min
+301 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Sorcery Fight!](https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt) | [Breeton Boi](https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA), [Diggz Da Prophecy](https://open.spotify.com/artist/1HYQNCFOvaVxl9Zr5HvPrH), [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [FrivolousShara](https://open.spotify.com/artist/4BZbaSD54IoBseVr142kiH), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [WYT](https://open.spotify.com/artist/0zex3dTN4Mk9oTujAJnIHW) | [Sorcery Fight!](https://open.spotify.com/album/5Xoj8mbqvPBrC382GxHvf3) | 5:27 | 2022-05-25 | 2022-07-28 |
 | [Spark \(Rengoku\)](https://open.spotify.com/track/4zpFlIpvNbbNx5BbKsMsRO) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Spark \(Rengoku\)](https://open.spotify.com/album/2ypWjv7cvswBIJ4crjuHJq) | 3:01 | 2022-06-21 | 2022-06-24 |
 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-12-14 | 2023-09-30 |
-| [Speak Up](https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ) | 1:44 | 2023-09-26 |  |
+| [Speak Up](https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ) | 1:44 | 2023-09-26 | 2023-12-30 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-11-21 | 2023-07-14 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-21 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-21 | 2022-12-25 |
@@ -263,6 +263,7 @@
 | [timing](https://open.spotify.com/track/5Gir5PXcry16bOpnLxnsPE) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 1:55 | 2023-09-15 | 2023-09-27 |
 | [TITAN TALK!](https://open.spotify.com/track/7sSdcK2yahRPVsIn2oUoLs) | [PE$O PETE](https://open.spotify.com/artist/5B6civtd7qkaJGy3W5Q4M9), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [TITAN TALK!](https://open.spotify.com/album/53pU9XbUFPlcMp10DSgk50) | 2:18 | 2022-07-08 | 2022-07-25 |
 | [Trap Anthem](https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe) | 2:12 | 2023-03-22 | 2023-12-09 |
+| [Trap Anthem](https://open.spotify.com/track/5Bj8OQClC6mEkSiQ8LgGi2) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RO9UmZ98gMjiqKL69Afca) | 2:12 | 2023-09-26 |  |
 | [Troops](https://open.spotify.com/track/5ZOdgNcUja1P0wJHwIUafW) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:19 | 2023-09-15 | 2023-09-27 |
 | [TURN IT UP](https://open.spotify.com/track/7hrN9HumCLEY1SwqWxrRfg) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 3:22 | 2023-09-15 | 2023-09-27 |
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-09-15 | 2023-09-27 |

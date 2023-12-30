@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 384066,
       "name": "Call of the North",
       "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
@@ -5642,7 +5642,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 264981,
       "name": "My Soul's Demise",
       "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
@@ -8182,7 +8182,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
@@ -9760,6 +9760,24 @@
       "duration_ms": 260573,
       "name": "We Shall Remain",
       "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
+    },
+    {
+      "album": {
+        "name": "Animus",
+        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242320,
+      "name": "We'll Be Free",
+      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
     },
     {
       "album": {

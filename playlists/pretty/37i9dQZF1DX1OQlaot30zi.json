@@ -1,15 +1,31 @@
 {
-  "description": "Sempre aggiornata. Con nuovi brani di Nabi, Tony Boy, Gemitaiz, Medy e tanti altri.",
-  "num_followers": 39120,
+  "description": "Sempre aggiornata. Con nuovi brani di Salmo, Nabi, Tony Boy, Gemitaiz e tanti altri.",
+  "num_followers": 39149,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDI4MTk5ZDA2ZTMyNDI1YzhkMDdjYmM0MTgxYThhOTZhYzA1MGE5",
+  "snapshot_id": "MCwxNWE3NWYwODAxOTljMzZjOWIyMWRmNjIyM2Q2OGExYWRlY2RlMmU3",
   "tracks": [
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
+      "album": {
+        "name": "A TE E FAMIGLIA",
+        "url": "https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 171461,
+      "name": "A TE E FAMIGLIA",
+      "url": "https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS"
+    },
+    {
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Nati Per Fare La Guerra",
         "url": "https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "EXPORT",
         "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
@@ -61,7 +77,27 @@
       "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
+      "album": {
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Restiamo Soli (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV"
+    },
+    {
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Ultimo piano",
         "url": "https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr"
@@ -85,7 +121,7 @@
       "url": "https://open.spotify.com/track/5MM97FmbSq9I2azOWBvXAY"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "ZIG ZAG",
         "url": "https://open.spotify.com/album/1jokKdI2v5ZLwXdDYLjyIU"
@@ -101,27 +137,7 @@
       "url": "https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
-        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Restiamo Soli (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "URAGANO DAMN",
         "url": "https://open.spotify.com/album/6oOFkn3ItIWb1LPSZZbEEL"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/39bXW89KZH4V1T3zlstiap"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "BALLAS 2",
         "url": "https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "FERRO (feat. Rasty Kilo)",
         "url": "https://open.spotify.com/album/5GqANzKvHEhOzby11m8iUe"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Un\u2019Altra Volta",
         "url": "https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/0LibhadIbaCxWStsermQhg"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Roule un autre (feat. VillaBanks) [Remix]",
         "url": "https://open.spotify.com/album/4FmwarMg6V42DS0GDPPDvI"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/6JZjjaAzDOBQgVsMT1KvS5"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "UN'ALTRA NOTTE",
         "url": "https://open.spotify.com/album/2KZJ34oRNoCEYAyDCqOjmf"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2VSKm8Uz0Y57LMB8AOHqOm"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Testa & Cuore (feat. Voga)",
         "url": "https://open.spotify.com/album/6c7FT008gx84NtRi4EtxZN"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/2DXZU7zF7cOfnT787atybz"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Letterina A Babbo Natale Freestyle",
         "url": "https://open.spotify.com/album/2Fc2Zv14enObx6FGd2e2Ir"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0cq9CkLebSMWQJTs8XuQps"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "BAGAGES",
         "url": "https://open.spotify.com/album/4ubYJPqQLgN9Zz4r6kz9CI"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/3T4HLpBoKsjcwYjYQR0q39"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "MOTIVATION 4 THE STREETZ",
         "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "LAMBORGHINI (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "MALOCCHIO #2",
         "url": "https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Mille lavori",
         "url": "https://open.spotify.com/album/4JDR3hI9Jue6Q2dJ66QKoM"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/6FIAh9cosxFM9mlyIPncUM"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Flauti (feat. Radical)",
         "url": "https://open.spotify.com/album/1tMZ0h4YpWaS0x6qtCzQvb"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/06YiBeeij6uo7YlOipgMgo"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Sipario",
         "url": "https://open.spotify.com/album/4FtMQQQPlsmDsXHbJMbBpD"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/2TN5owJ3vR80Erm7KfgGmO"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "BORDERLINE",
         "url": "https://open.spotify.com/album/0YzswSZIwGpiqHfrmcZYzs"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/7uFTLhCiyb1M8PkOedxyaA"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "MEZZA PAROLA",
         "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3ir3hut1UUri2IaTLVr63g"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Ultimo piano",
         "url": "https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/0oPDnBxRoOrjlrgYZ354vX"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "MOTIVATION 4 THE STREETZ",
         "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/5hupUValNs86n6lzCJkSVQ"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "FEDE II",
         "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/5QwgVFAmGzj1jmPhwSJZoI"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "DIAMANTI",
         "url": "https://open.spotify.com/album/4ETdbswtoY3nom0u4yEQHR"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/4eb46pfJjZcah2RNlNdaYo"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Oue La 6T",
         "url": "https://open.spotify.com/album/4SrAWAklbPj8KZGjthCWrC"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/5H3zvEIPBrZcnQg7pfEQjm"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "GUANCIA GUANCIA",
         "url": "https://open.spotify.com/album/0PgHnYsUZicjMuLwZ0pFqR"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/7c4kiyYWkSgZK9U1YVFoID"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/2suziCSZLvSFv3d3cpdU2J"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/4GVno2kh1ZnUtp8OGvL2PO"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Lane Switch",
         "url": "https://open.spotify.com/album/3ddRYrsIGMwbffdKoULrKZ"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/6y1ahNBYdtDoKFUCHrKfdK"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Dead Poets 4 - Ad Honorem",
         "url": "https://open.spotify.com/album/4diOqdpo2ZU7UJ8pUzaP7I"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/2nMwMcPElGtkDN9u0GOrIl"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/7dc3fTj1hxmNE0khOU8BPA"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/0VqlmujDRPJU4QNzzr6v5I"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Time to fall in Love",
         "url": "https://open.spotify.com/album/7saByqDun88APntTj3Kz6r"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/3FQwPXmUtFjhEoKxCsEC3z"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "FEDE II",
         "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Porta Una Rosa (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4ZQN1l3WwrgReFmVXpeNrl"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/0DEonV559DYbtSPEvw7VtD"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Prova del 9",
         "url": "https://open.spotify.com/album/1nVIAc5hUUWuNJ9DPt7WEK"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/5bGCx4HbNEC8KKiVifYX1s"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Leggenda da Bar",
         "url": "https://open.spotify.com/album/00hG2B91nQ2723PPkdNYCI"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/7b7jcHHVSpzrT38C2rm2PL"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Oh oh amore mio",
         "url": "https://open.spotify.com/album/0PfLXViGwL2aTHm26QC9PA"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/68eG42iQ1TfhSirdTJBGiz"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "SENZA UNA SCELTA",
         "url": "https://open.spotify.com/album/5npWWIlFElb0NW8NiY6iOB"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/3H6vtgzpa2fNdDZgyK7RQI"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "DESERTO",
         "url": "https://open.spotify.com/album/5vEjUnO3JMvgTQTkg0lEfN"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/4ZpJRmQigJLXfWlFSsx8Ci"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Arsenico",
         "url": "https://open.spotify.com/album/7BB1yprLdholYEZZFAwbRy"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/6BP7Jy3fsalu684WwfauU4"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "L'ORA PER TE",
         "url": "https://open.spotify.com/album/79CNXebOqnb4RWdC9A9JDJ"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/1NGhf9Rd61PLw5KFcKXtxh"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "A45S",
         "url": "https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "EP 5/3 (feat. Kid Yugi)",
         "url": "https://open.spotify.com/album/0ehvmKwfQpweBfpBA6dESZ"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/4qtf8Gha9N7Om8oYCJUE0v"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Artista Di Strada",
         "url": "https://open.spotify.com/album/6RP5ca2jk3w2Nt5YDV2IvP"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/4zxjREbcWw6I58QLwHrbAb"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Domenica (feat. Samurai Jay)",
         "url": "https://open.spotify.com/album/6qFF5CKviaapW3KVKTh04D"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/67zFpTz1dVhD6BV4NiyZ3x"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2GYnr5RUWwCWMQuyY6xUNO"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "UN PASSO INDIETRO",
         "url": "https://open.spotify.com/album/4LhTNGPuJhWuND0Pytk1uj"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3QK8rTOjamjQCrMdNTSUZL"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Real Talk Cypher - Liguria",
         "url": "https://open.spotify.com/album/2iCUZwHm2F98Zo7688gZ51"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5WTOboLMIbK0nGYD8a9IIp"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Note Blues",
         "url": "https://open.spotify.com/album/3YTNwsF8JhYkxyMyeX9HPt"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2UV8nrdwtPPW9QHJ2sVcKN"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Christmas Carol 2",
         "url": "https://open.spotify.com/album/7JLAnoRG331a3cc6UbWE9J"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/6W8D182SLIjb2uIbdOpqoU"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Caramella",
         "url": "https://open.spotify.com/album/6DEYDwiUQuhaySNtBcAEsG"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3xsHQAueBhbwgoVaK3Hf1y"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "FACE ID",
         "url": "https://open.spotify.com/album/1GgiWqTF0F7tWO0ZWCPfH4"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6fGoyDw3Wq5zRPr4KJVvrU"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "AMM\u00d2",
         "url": "https://open.spotify.com/album/6X5CMh0Bs3EJRTfvDqkvFI"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/00GgIQHKgPpplvmVKGQtpN"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Poto",
         "url": "https://open.spotify.com/album/05YvdzQimCEuruP7PkMyOt"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/55wSyoqffHuph5oqDYsZPR"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "OUTFIT",
         "url": "https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "GURU DEL BUSINESS",
         "url": "https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Ma Vie",
         "url": "https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/186EYWbfybEq88239LuEUp"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Figli del deserto",
         "url": "https://open.spotify.com/album/56JPIb7GyWkjLqjkTbe2tG"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7KD2GB046PewY5Nvqsbaq0"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "SCUSAMI",
         "url": "https://open.spotify.com/album/2ZlHgGqQRef018SqvzKGiq"
@@ -1245,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5A67l2REi7nTtv3qWTI2dK"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Dirty Child",
         "url": "https://open.spotify.com/album/3MaMLdcHxdxgYihEEQqbbI"
@@ -1261,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4aZ640mINc1Ld8Kbnc6ufa"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Ritorno",
         "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
@@ -1281,7 +1297,7 @@
       "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Cane",
         "url": "https://open.spotify.com/album/49kIN7QzVpkKwPNzZkKr5i"
@@ -1297,7 +1313,7 @@
       "url": "https://open.spotify.com/track/6QXssJ6vteCJP07hBAZsBX"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Klan Life #1",
         "url": "https://open.spotify.com/album/1BVRyghSNYUg34PnxS5tsK"
@@ -1317,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6n5KIIAE6ndsL8JnOTLrth"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "WESH",
         "url": "https://open.spotify.com/album/2vat0ElvB4uq99PIHo1eVk"
@@ -1333,7 +1349,7 @@
       "url": "https://open.spotify.com/track/6XukXUXRfSh6RB1y6p2PcU"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "TEMPOS",
         "url": "https://open.spotify.com/album/3qhyDWOVpwRE1jgDJBJLsP"
@@ -1357,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3dlQLRb8iCUmO6flLKFUqr"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Rosalyn",
         "url": "https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5"
@@ -1377,7 +1393,7 @@
       "url": "https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Ritorno",
         "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
@@ -1393,7 +1409,7 @@
       "url": "https://open.spotify.com/track/23iLUiTlR1T5peBzvxPrcL"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Come a Dakar",
         "url": "https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW"
@@ -1413,23 +1429,7 @@
       "url": "https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Morire",
-        "url": "https://open.spotify.com/album/4dSRjaXGU5uh7E2i8rppWI"
-      },
-      "artists": [
-        {
-          "name": "Blocage",
-          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "Morire",
-      "url": "https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "TACHANKA",
         "url": "https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY"
@@ -1453,7 +1453,7 @@
       "url": "https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Louvre",
         "url": "https://open.spotify.com/album/5imk2wsUgGe1erNn7H3osc"
@@ -1469,7 +1469,7 @@
       "url": "https://open.spotify.com/track/5h7M8JWFpujb265bQFan9K"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Vogl Sta Cu Te",
         "url": "https://open.spotify.com/album/1ooyDwxoJwxfNOVNKLVs8r"
@@ -1485,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4XVlSTl4DvgPRK6pgK76Yy"
     },
     {
-      "added_at": "2023-12-21 23:01:00",
+      "added_at": "2023-12-28 23:01:00",
       "album": {
         "name": "Banditi",
         "url": "https://open.spotify.com/album/2KjaQLOdBe4Tg0iOwuQXW7"

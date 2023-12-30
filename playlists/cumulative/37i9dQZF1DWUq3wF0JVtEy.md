@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-415 songs - 20 hr 22 min
+416 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-24 | 2023-12-05 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA) | 3:22 | 2023-10-27 | 2023-12-13 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2023-12-08 |  |
+| [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2023-12-29 |  |
 | [Dancin'](https://open.spotify.com/track/33ZmeSclK7iCu8HtHChTQw) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi) | [Dancin'](https://open.spotify.com/album/6XI0fO1BWw9u0cD2wMRg2c) | 3:25 | 2023-11-24 | 2023-12-09 |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2022-07-22 |  |
 | [Daybreak](https://open.spotify.com/track/4VgZlIY58oEZPLKahmLbeP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Daybreak](https://open.spotify.com/album/2J8jC1c6qGfQEf8X7NlGy3) | 3:22 | 2021-10-29 | 2022-03-13 |
@@ -333,7 +334,7 @@
 | [Red Handed](https://open.spotify.com/track/3L5vu7DBK62Nr3UIREIEJE) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Red Handed](https://open.spotify.com/album/6wbcvjFi81H1FRQXUZDygg) | 2:51 | 2021-10-29 | 2022-08-06 |
 | [Release Me \(feat\. Kalhaader\)](https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb), [Kalhaader](https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek) | [Release Me \(feat\. Kalhaader\)](https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE) | 2:26 | 2022-04-01 | 2022-08-06 |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-26 |  |
-| [Rooftopin Again](https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Rooftopin Again](https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV) | 3:33 | 2023-12-15 |  |
+| [Rooftopin Again](https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Rooftopin Again](https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV) | 3:33 | 2023-12-15 | 2023-12-30 |
 | [Rudeboy](https://open.spotify.com/track/3XYpW3OPMaVphrAST5DaL2) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Rudeboy](https://open.spotify.com/album/6PkXAktqlbM5S7d3oLhpGx) | 2:56 | 2022-05-27 | 2022-07-16 |
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\) \- Cat Dealers Remix](https://open.spotify.com/track/7KewOaneu1MC9RRrky8Oxc) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\) \[Cat Dealers Remix\]](https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl) | 2:15 | 2021-10-29 | 2023-07-16 |
 | [Safe & Sound \- Radio Edit](https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Safe & Sound](https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX) | 3:20 | 2021-10-29 | 2023-09-23 |

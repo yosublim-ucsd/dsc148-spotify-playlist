@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
 
-323 songs - 16 hr 4 min
+324 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 | 2022-09-09 |
 | [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 | 2022-11-18 |
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
-| [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 | 2023-11-30 |  |
+| [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 | 2023-11-30 | 2023-12-30 |
 | [Drapeau Blanc](https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC) | [Kahra](https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi) | [Drapeau Blanc](https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X) | 2:58 | 2023-11-09 | 2023-12-15 |
 | [EAU DE ROSE](https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [EAU DE ROSE](https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY) | 2:22 | 2023-01-19 | 2023-04-07 |
 | [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 | 2023-04-27 | 2023-06-02 |
@@ -330,6 +330,7 @@
 | [Âmes perdues](https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [Transparent](https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm) | 3:12 | 2022-10-20 | 2023-03-03 |
 | [Ça fait longtemps](https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH), [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE) | [Ça fait longtemps](https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp) | 3:12 | 2022-12-01 | 2023-01-06 |
 | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH) | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/album/3mIen5WzBCIijfMqMgoxnX) | 2:08 | 2023-01-26 | 2023-03-18 |
+| [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 | 2023-12-28 |  |
 | [ÉTÉ HIVER](https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [VAGALAME](https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P) | 2:39 | 2023-03-23 | 2023-11-17 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641 :\u064a\u0627\u0633\u0631 \u0639\u0628\u062f\u0627\u0644\u0648\u0647\u0627\u0628\t",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u0631\u0628\u064a\u0639\u064a\t",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 221701,
       "name": "Asheq Majnoon",
       "url": "https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV"
@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "EL Sadma",
+        "url": "https://open.spotify.com/album/0q6xXgSgbfgL0CgcTZzU93"
+      },
+      "artists": [
+        {
+          "name": "Humam Ibrahim",
+          "url": "https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192679,
+      "name": "EL Sadma",
+      "url": "https://open.spotify.com/track/2XsoShrfdgAbytTboETWIY"
+    },
+    {
+      "album": {
         "name": "EL Thoq AL Helw",
         "url": "https://open.spotify.com/album/2lxYEVZGgHRxIdc4hMWDid"
       },
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Enti Eshqi",
+        "url": "https://open.spotify.com/album/5XrMTzrtRPsZuf7qxJftam"
+      },
+      "artists": [
+        {
+          "name": "Ali Deyaa",
+          "url": "https://open.spotify.com/artist/3WiY9YaIqpl9Xzc39LoZGS"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228433,
+      "name": "Enti Eshqi",
+      "url": "https://open.spotify.com/track/2gwo58ZwBLQPtovCvjbpT6"
+    },
+    {
+      "album": {
         "name": "Er7am 7ali",
         "url": "https://open.spotify.com/album/7bzq1yir1DHiQSS8E2B5hX"
       },
@@ -1842,6 +1878,24 @@
       "duration_ms": 205894,
       "name": "Eshagtak",
       "url": "https://open.spotify.com/track/2PaI1Yc8Tt0cGI8NG1wcQe"
+    },
+    {
+      "album": {
+        "name": "Eshthakarak Biya",
+        "url": "https://open.spotify.com/album/0h3ANZyC0oafJwO3rOfb1N"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208981,
+      "name": "Eshthakarak Biya",
+      "url": "https://open.spotify.com/track/5R9ugpDgxc6KKDmDbrl61V"
     },
     {
       "album": {
@@ -1910,7 +1964,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 281237,
       "name": "Eza Endak Waqt",
       "url": "https://open.spotify.com/track/3HTxsFcxKgH0mENxyBezBN"
@@ -2166,7 +2220,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 136515,
       "name": "Halak Wain",
       "url": "https://open.spotify.com/track/2m4A4sEjBLpo4CFx8MisWJ"
@@ -2188,6 +2242,24 @@
       "duration_ms": 226153,
       "name": "Halfatra",
       "url": "https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH"
+    },
+    {
+      "album": {
+        "name": "Haseb Ghyabak",
+        "url": "https://open.spotify.com/album/0UqAdB36886xiT0bWxLsOF"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181599,
+      "name": "Haseb Ghyabak",
+      "url": "https://open.spotify.com/track/1eZImGhD4sHApPSRgJNiWV"
     },
     {
       "album": {
@@ -4000,7 +4072,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 235990,
       "name": "Tejbrni",
       "url": "https://open.spotify.com/track/6GtORpXVbiyLiUBFkRkH4P"

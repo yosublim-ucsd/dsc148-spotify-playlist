@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172311,
       "name": "3D PICTURES",
       "url": "https://open.spotify.com/track/6pDMpZkD5slXJgJAWfiSqv"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 240013,
       "name": "Chamallow",
       "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
@@ -6005,6 +6005,28 @@
     },
     {
       "album": {
+        "name": "Feel No Pain",
+        "url": "https://open.spotify.com/album/03LjuNpUOqZvse2xQevGyd"
+      },
+      "artists": [
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        },
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238727,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/1WKqaB0S6VUsRuZah3Exk5"
+    },
+    {
+      "album": {
         "name": "FEEL SOMETHING DIFFERENT",
         "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
       },
@@ -7669,6 +7691,28 @@
     },
     {
       "album": {
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
+      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
@@ -7906,7 +7950,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
@@ -10970,6 +11014,28 @@
       "duration_ms": 283469,
       "name": "Licence to Dream",
       "url": "https://open.spotify.com/track/3zjAlrb0f1zHibNueUU0Vr"
+    },
+    {
+      "album": {
+        "name": "License To Vibe",
+        "url": "https://open.spotify.com/album/2Cex1GrBGPH0FYIVq42Hlb"
+      },
+      "artists": [
+        {
+          "name": "Tiger & Woods",
+          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
+        },
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/4ZVw63ejqta34L7Q3bRrpa"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196523,
+      "name": "License To Vibe",
+      "url": "https://open.spotify.com/track/2WUMcdNtVMYtyCnBcQps3t"
     },
     {
       "album": {

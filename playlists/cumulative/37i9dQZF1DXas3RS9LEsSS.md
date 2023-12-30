@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-81 songs - 5 hr 31 min
+82 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Extremaunción](https://open.spotify.com/track/7EWW29t25A6NNi8B09LLVJ) | [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn) | [Valdivia](https://open.spotify.com/album/7E0sSG0gYazht7RyTR7x49) | 3:03 | 2020-12-01 | 2022-07-29 |
 | [Foxtrot](https://open.spotify.com/track/0mUm43Yjv9vPqR8YycWyJs) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I), [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Juanito y el Carposaurio](https://open.spotify.com/album/63AaZ5VTi5wATmRN3nifP7) | 3:22 | 2021-04-30 |  |
 | [Framed](https://open.spotify.com/track/7eZ4Mq4WArkSeZ9y1uSZCS) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba](https://open.spotify.com/album/4yruAhkPML9KnFteGkdaOV) | 2:34 | 2020-12-01 |  |
-| [Gris](https://open.spotify.com/track/2ipUiBU7acIwFmNXRFDclR) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/62rTbLNfcEIArsBBX8zCVt) | 3:05 | 2020-12-01 |  |
+| [Gris](https://open.spotify.com/track/04NXyJNpHfcNNSt6dFcuJa) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/0OakarP6DcA6GIsIQmySKs) | 3:05 | 2020-12-01 |  |
+| [Gris](https://open.spotify.com/track/2ipUiBU7acIwFmNXRFDclR) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/62rTbLNfcEIArsBBX8zCVt) | 3:05 | 2020-12-01 | 2023-12-30 |
 | [La Balada del Diablo y la Muerte](https://open.spotify.com/track/46hGh2ZdORn4We1nsbkPK8) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [La Balada del Diablo y la Muerte](https://open.spotify.com/album/1MMzu2HjRm27tsrBKFMvOx) | 5:33 | 2021-05-28 |  |
 | [La Bifurcada](https://open.spotify.com/track/7qx8iUyfejy6CFhSUKKZWD) | [Memphis La Blusera](https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp) | [Medias Negras](https://open.spotify.com/album/0qavQwpueEL42TeJQgcnFV) | 4:36 | 2020-12-01 |  |
 | [La Cuerera](https://open.spotify.com/track/05rGtV13uXIFxTU4gM1imR) | [La Banda del Capitan Corneta](https://open.spotify.com/artist/77AlmICl9sl7wXBJmC4V08) | [Historias de un Hijo del Blues](https://open.spotify.com/album/4TfcvHpBXCh6jZJsq0SuTO) | 3:48 | 2020-12-01 |  |

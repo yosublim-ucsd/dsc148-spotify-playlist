@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-421 songs - 1 day 12 hr 25 min
+422 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Hair On Fire](https://open.spotify.com/track/3NcBjzRtcqrg8toGbfBJD5) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 2:41 | 2023-04-28 | 2023-05-26 |
 | [Heartbeat](https://open.spotify.com/track/3UtV7WLZvRZCH0oypoI402) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heartbeat](https://open.spotify.com/album/5e9ByDXq4Q6XaPSbmyq2c0) | 3:27 | 2023-11-30 |  |
 | [HELP ME.](https://open.spotify.com/track/49ldCfBJURR6G5y99lolWZ) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [123.](https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB) | 4:54 | 2023-06-16 | 2023-08-05 |
-| [Hey Hey It's Okay](https://open.spotify.com/track/6rnx0Ogtcn1eAIqYSzbb0W) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [BANG BANG BANG!](https://open.spotify.com/album/7uhTbI5g27wvaWnh9IBrXe) | 2:40 | 2023-11-30 |  |
+| [Hey Hey It's Okay](https://open.spotify.com/track/0haHnaATQgAq1UnnIecIOK) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [BANG BANG BANG!](https://open.spotify.com/album/3YNKQmgzWfwUDCB5nOwMbC) | 2:40 | 2023-12-22 |  |
+| [Hey Hey It's Okay](https://open.spotify.com/track/6rnx0Ogtcn1eAIqYSzbb0W) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [BANG BANG BANG!](https://open.spotify.com/album/7uhTbI5g27wvaWnh9IBrXe) | 2:40 | 2023-11-30 | 2023-12-30 |
 | [Hinterland](https://open.spotify.com/track/186c7hXD8KO3dukhTkUnha) | [Linea Aspera](https://open.spotify.com/artist/7ovuEJn78rNJmBBnLqc1NU) | [Linea Aspera](https://open.spotify.com/album/6YbyDgrqvbMeNRRhyismmZ) | 3:48 | 2023-06-30 | 2023-08-05 |
 | [Hit By The Star](https://open.spotify.com/track/0ZRb5YBqrSWoCWDmjCg0Uk) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Hit By The Star](https://open.spotify.com/album/3IVW48t9hynhutSqMXtMNA) | 5:46 | 2023-08-18 | 2023-09-02 |
 | [Hit By The Star](https://open.spotify.com/track/4H55L1zQFy5NJLlz9n4pFm) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Gigantia EP](https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2) | 5:46 | 2023-11-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 603945,
+  "num_followers": 604258,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjJiNTA2NzI1NmJkODUwNTNkMTdmYTc1MzdkMDI5ODQ3MmEzNThh",
+  "snapshot_id": "MCw2N2I4ZDIxMDUyYzYxYTkwOWRlMmU3YWUyNzU2ZTNkMzEyOGFjM2Vh",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "The Story's Not Over",
+        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "The Story's Not Over",
-        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Death Was Arrested (feat. Seth Condrey)",
         "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 256133,
       "name": "House Of The Lord",
       "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -819,6 +819,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Rivers in the Wasteland",
+        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Rivers in the Wasteland",
-        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 275560,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
+      "duration_ms": 245740,
+      "name": "The Father\u2019s House",
+      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -899,22 +915,6 @@
       "duration_ms": 245424,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 245740,
-      "name": "The Father\u2019s House",
-      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Hymn Of Heaven",
-      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "I Am Loved",
         "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199531,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "You've Always Been",
-      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 393360,
       "name": "Another In The Fire - Live",
       "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "You've Always Been",
+      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1275,6 +1275,30 @@
       "duration_ms": 194800,
       "name": "For My Good",
       "url": "https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1343,30 +1367,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "The Beginning & Everything After",
         "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
@@ -1431,18 +1431,42 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1463,26 +1487,6 @@
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1511,26 +1515,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 204800,
       "name": "I Have This Hope",
       "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
       },
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 265080,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Your Love Defends Me",
-      "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+      "duration_ms": 205386,
+      "name": "O God Forgive Us",
+      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
     }
   ],
   "unique_name": "Christian Mix",

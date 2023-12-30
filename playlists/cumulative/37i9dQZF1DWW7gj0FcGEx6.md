@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-320 songs - 16 hr 2 min
+321 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [The Pool](https://open.spotify.com/track/1VpnWzCSImeP7cU1p9prFs) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Introducing, Selma Blair \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0RjlzqoO4f1Z2VDmwa7JuC) | 3:18 | 2021-12-20 | 2023-05-06 |
 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 | 2022-10-07 |  |
 | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/album/43fIo5bKCsGrhWkSaTAPCj) | 4:34 | 2022-09-23 | 2022-10-28 |
+| [The Racing Line](https://open.spotify.com/track/2pCBDZZHxmjmFGlfxxPEkd) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Ferrari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5waFiv4n2SNfxk4vIJJE0k) | 1:56 | 2023-12-29 |  |
 | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \- from The Witcher: Season 3](https://open.spotify.com/track/5F4hjWU7HVUK8i0pNlDRhM) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \[from The Witcher: Season 3\]](https://open.spotify.com/album/4CuY2DkWhEAdOoD6VO7xR6) | 3:23 | 2023-06-23 |  |
 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 | 2021-12-20 | 2022-08-20 |
 | [The Sound](https://open.spotify.com/track/4m6bEYRJBo9GCcOCkBKnAU) | [Aska Matsumiya](https://open.spotify.com/artist/4Xe7FFX2aXXi3Q5lnfzhUU) | [Betty \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/3EyUG8yv7LIKyHIr1yQ7yT) | 3:15 | 2021-12-20 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-184 songs - 18 hr 34 min
+186 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Interlude \- Zulu Worship Medley \- Live](https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:22 | 2023-04-06 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2018-11-12 | 2023-04-10 |
 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 |  |
+| [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 |  |
 | [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 | 2023-09-22 |  |
 | [Jehova](https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5) | [Sawubona](https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh) | 3:39 | 2023-09-01 | 2023-09-15 |
 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 | 2019-12-09 |  |
@@ -116,6 +117,7 @@
 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 | 2023-10-20 |  |
 | [Prelude / The King on the Cross \- Live](https://open.spotify.com/track/1GefA6yajI6Wr26r6D4VUj) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 3:55 | 2023-06-23 |  |
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-08-02 |
+| [Re Bone Ka Naledi \(feat\. Kago, Given, Paul\) \- \(Live At The State Theatre\)](https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW) | [Wacha Mkhukhu Wachumlilo](https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163), [Given](https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo), [Kago](https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Re Bone Ka Naledi \(Live At The State Theatre\)](https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA) | 10:16 | 2023-12-29 |  |
 | [See The Light](https://open.spotify.com/track/45F36WJSZtqmlT0hq1ym4Q) | [Redemption Worship](https://open.spotify.com/artist/1dPyo6jMnXHXIWyuUKduJ7) | [See The Light](https://open.spotify.com/album/6lHszryJqJHLDyxXbTkqHo) | 6:18 | 2022-09-15 | 2023-03-18 |
 | [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-03-06 |  |
 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 | 2018-09-24 |  |

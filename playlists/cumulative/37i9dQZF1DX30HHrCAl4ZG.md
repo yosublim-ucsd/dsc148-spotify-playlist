@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from boygenius
 
-1,290 songs - 2 day 22 hr 35 min
+1,291 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 | 2023-03-10 | 2023-05-27 |
 | [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 | 2022-06-11 |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-10-02 | 2022-02-09 |
+| [Portrait](https://open.spotify.com/track/0jN6VtQl7aeukpU3pcPuYH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Portrait](https://open.spotify.com/album/3gXFRkeKBkmuwMqUerFdyy) | 3:02 | 2023-12-29 |  |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-12 | 2023-08-12 |
 | [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-14 | 2023-05-06 |
 | [POSSUM](https://open.spotify.com/track/2tQM7YboaoWtuQNAFYSQ2h) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [POSSUM](https://open.spotify.com/album/0Z60druEH9YVEYZsdG4XaS) | 3:22 | 2023-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 260245,
+  "num_followers": 260279,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA1NDE3NzNjNGUxMTQ0MzFlMWU5YWJlZDc2NzU5Yjc3YTYxM2Zm",
+  "snapshot_id": "MCw3ODdhOTM2NWRhZTExYTlkZDNhMzFlZjc3ZDYyZTNkNTdiMTEwYmEy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -255,22 +255,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Where Will We Go, Pt. 2",
         "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -435,22 +435,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/1I1hFpUraLXdCtDnMXSh6N"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -615,6 +615,26 @@
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        }
+      ],
+      "duration_ms": 130271,
+      "name": "(Interlude)",
+      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -679,26 +699,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        }
-      ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
       },
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Island -EP",
@@ -759,6 +743,22 @@
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
       "added_at": "2019-03-18 20:29:35",
       "album": {
         "name": "Never Meant to Call",
@@ -931,6 +915,22 @@
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

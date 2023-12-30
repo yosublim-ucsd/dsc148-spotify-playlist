@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-1,127 songs - 2 day 22 hr 47 min
+1,129 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [69 Party](https://open.spotify.com/track/1Rd1IWQNTjlep5kcsyZsiq) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [DANCEHALL MAGIC](https://open.spotify.com/album/1FPcu8UL0LfZYnzV0diafu) | 3:23 | 2023-05-02 | 2023-05-31 |
 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 | 2023-07-25 | 2023-09-27 |
 | [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 | 2023-07-25 | 2023-07-27 |
+| [A box of Stockholm](https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [A box of Stockholm](https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q) | 2:40 | 2023-12-28 |  |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 | 2023-03-22 |
 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 | 2023-07-25 | 2023-08-09 |
 | [ABCD Girl](https://open.spotify.com/track/6vFiifSiUN69wjdXi9KQtm) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [ABCD Girl](https://open.spotify.com/album/1JaETgTmW0daTqaS5HLZSa) | 2:21 | 2023-08-22 | 2023-09-06 |
@@ -503,7 +504,7 @@
 | [Soft](https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [DOG](https://open.spotify.com/album/64DCWgSH8r5a4l2Irav3fh) | 3:51 | 2023-05-23 | 2023-07-05 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-05-10 |
 | [SONiC](https://open.spotify.com/track/4f5YVTA1gjpVUQ8nW56qlJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:09 | 2023-01-13 | 2023-02-15 |
-| [Sono Keshiki o](https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 2:08 | 2023-11-14 |  |
+| [Sono Keshiki o](https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 2:08 | 2023-11-14 | 2023-12-30 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 | 2023-01-20 |
 | [SPACE OUT !](https://open.spotify.com/track/6SpxOKDdbkMVKJvAwfMhv2) | [I was born](https://open.spotify.com/artist/06mhRcKAyG22X6wKdMhUhv) | [SPACE OUT !](https://open.spotify.com/album/1wRgukIX4WZOhNb8CS8nh6) | 3:21 | 2023-01-13 | 2023-01-18 |
@@ -557,6 +558,7 @@
 | [Time Travel Girl](https://open.spotify.com/track/7Gyut69T9psJY0WvK8pgDM) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Time Travel Girl](https://open.spotify.com/album/3RvM5QWyMn7lkkcev0cmbz) | 3:42 | 2023-04-06 | 2023-04-26 |
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-02-15 |
 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 | 2023-10-24 | 2023-12-20 |
+| [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 | 2023-12-28 |  |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-10 | 2023-11-18 |
 | [Tokai no Yurei](https://open.spotify.com/track/5N1vMQL4L3jpgMUniAZrJs) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Tokai no Yurei](https://open.spotify.com/album/5VVeNDmWcIYvYxwTTH1wWv) | 4:17 | 2023-01-13 | 2023-01-25 |
 | [Tokyo](https://open.spotify.com/track/42oS8MbMLfYeqEIoAM7MIC) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [From](https://open.spotify.com/album/2a7Tzc0CAQZ7qlu1tckSgV) | 5:48 | 2023-09-12 | 2023-10-11 |
@@ -761,7 +763,7 @@
 | [スクールボーイ](https://open.spotify.com/track/1Eb9z5jcDZnRfNiMraPHfk) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 4:00 | 2023-02-14 | 2023-03-08 |
 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 | 2023-07-11 | 2023-09-06 |
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2023-01-13 | 2023-01-25 |
-| [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 |  |
+| [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [スパークルダンサー](https://open.spotify.com/track/4fMj0cYyIkt4y1rkFYAvdg) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [スパークルダンサー](https://open.spotify.com/album/2nGj6Z51dHHa63WwF6BKdy) | 3:28 | 2023-01-24 | 2023-01-26 |
 | [スワイプ](https://open.spotify.com/track/5XSthsJw3wv8mddwrIeUPP) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [スワイプ](https://open.spotify.com/album/7yYagnUne0gmaJT4nM0BmR) | 5:46 | 2023-04-25 | 2023-06-09 |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-07-11 | 2023-09-20 |

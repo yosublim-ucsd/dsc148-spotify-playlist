@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: YOASOBI
 
-132 songs - 8 hr 2 min
+133 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 | 2023-11-23 | 2023-12-13 |
 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 | 2023-11-23 |  |
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-23 | 2023-12-13 |
+| [Let's get together again](https://open.spotify.com/track/6DuRuKn6d9CdilYu5KY9E2) | [Hentai Gentlemans Club](https://open.spotify.com/artist/1Oajja5o0hfVmFlE7lT4sV) | [Let's get together again](https://open.spotify.com/album/6tsTtLyYVLkG2zJd2gtuvM) | 3:24 | 2023-12-28 |  |
 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2023-11-23 |  |
 | [Lonely X’mas Eve](https://open.spotify.com/track/2BTzGjfXoYIKagPQZ6WwFO) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [Lonely X’mas Eve](https://open.spotify.com/album/0WmgXQ32XvS3XdXaQH70BX) | 3:34 | 2023-12-12 | 2023-12-20 |
 | [Love Song](https://open.spotify.com/track/2UAhsIn5noHvg4FhQqjrlI) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Love Song](https://open.spotify.com/album/2UFucyHOdFOrdGMlm5cB20) | 4:16 | 2023-11-23 | 2023-12-13 |
@@ -67,7 +68,7 @@
 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 | 2023-12-12 | 2023-12-20 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 |  |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-29 | 2023-12-16 |
-| [Still Hungry](https://open.spotify.com/track/4YdKGv1k8xR3s6eCV9rRss) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz), [Jaggla](https://open.spotify.com/artist/5vQxfZgZ4AAEDZOMnfMa8N), [SNEEEZE](https://open.spotify.com/artist/6SHhi6OhmJ0bkFNMz5Fwqr), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Still Hungry](https://open.spotify.com/album/3xyRbNoT20DEvxSKA5Y3Fj) | 3:19 | 2023-12-19 |  |
+| [Still Hungry](https://open.spotify.com/track/4YdKGv1k8xR3s6eCV9rRss) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz), [Jaggla](https://open.spotify.com/artist/5vQxfZgZ4AAEDZOMnfMa8N), [SNEEEZE](https://open.spotify.com/artist/6SHhi6OhmJ0bkFNMz5Fwqr), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Still Hungry](https://open.spotify.com/album/3xyRbNoT20DEvxSKA5Y3Fj) | 3:19 | 2023-12-19 | 2023-12-30 |
 | [Still Hungry](https://open.spotify.com/track/6CdAYeir9xbWDPOCLIhKc9) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz), [Jaggla](https://open.spotify.com/artist/5vQxfZgZ4AAEDZOMnfMa8N), [SNEEEZE](https://open.spotify.com/artist/6SHhi6OhmJ0bkFNMz5Fwqr), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Still Hungry](https://open.spotify.com/album/3BcAVCLT5qcurl8F2FYzEW) | 3:19 | 2023-12-19 | 2023-12-21 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-11-23 |  |
 | [The Nails](https://open.spotify.com/track/2etvnOCgpIt7Zz0d44h5oM) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [The Nails](https://open.spotify.com/album/67QCIL6ILTQRP9e7MRMkgl) | 4:19 | 2023-12-12 | 2023-12-27 |

@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Category 5: The Biggest Hurricane",
+        "url": "https://open.spotify.com/album/5DjtMejXZGFkAYJpmrU8Gt"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "AI (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/54Wvdr3WOo9QYmVExtUs2i"
+    },
+    {
+      "album": {
         "name": "Ain't Enough",
         "url": "https://open.spotify.com/album/33qWJTGg1vAjKLRucqtoxl"
       },
@@ -8966,7 +8988,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 223120,
       "name": "Jealous Ass Bitch",
       "url": "https://open.spotify.com/track/6k9g8At55mymrYreujzg7E"
@@ -9794,7 +9816,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 191958,
       "name": "Lady",
       "url": "https://open.spotify.com/track/25fFWud9ZPEOkKwh7gKkoj"
@@ -15350,7 +15372,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 155844,
       "name": "Said It Freestyle",
       "url": "https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3"

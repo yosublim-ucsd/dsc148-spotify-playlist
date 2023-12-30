@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Sleep Token on top of the biggest Metal playlist.
+> Architects on top of the biggest Metal playlist.
 
 575 songs - 1 day 14 hr 34 min
 

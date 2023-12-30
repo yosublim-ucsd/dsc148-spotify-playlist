@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 272333,
       "name": "Fantasista",
       "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
@@ -8218,6 +8218,24 @@
       "duration_ms": 222147,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV"
+    },
+    {
+      "album": {
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 111042,
+  "num_followers": 111435,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjc3MzQ5OTM4ODE4YmVhN2Q1YzZiNTQzMTQzZmFiYTFhN2YzNWYx",
+  "snapshot_id": "MCxmOWU4NzBmNjcxY2VlZjExY2RkOTZlNDExOWViMjIyMjNkNWExN2Q3",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O M\u00ednimo de Mim",
-        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
       },
       "artists": [
         {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
         }
       ],
-      "duration_ms": 248571,
-      "name": "O M\u00ednimo de Mim",
-      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
+      "duration_ms": 298143,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
+        "name": "O M\u00ednimo de Mim",
+        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
       "artists": [
         {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
         }
       ],
-      "duration_ms": 298143,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
+      "duration_ms": 248571,
+      "name": "O M\u00ednimo de Mim",
+      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Despreocupa",
-        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 310635,
-      "name": "Despreocupa",
-      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Planos",
         "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 313674,
       "name": "Planos",
       "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Despreocupa",
+        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 310635,
+      "name": "Despreocupa",
+      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Vendavais (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Santidade",
         "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "A Vit\u00f3ria Chegou",
         "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 238167,
       "name": "A Vit\u00f3ria Chegou",
       "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
         "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
       },
@@ -1015,34 +1031,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1103,18 +1103,34 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "N\u00e3o Vai Se Repetir",
+        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 275132,
+      "name": "N\u00e3o Vai Se Repetir",
+      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 263040,
       "name": "Tempo de Espera",
       "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "N\u00e3o Vai Se Repetir",
-        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 275132,
-      "name": "N\u00e3o Vai Se Repetir",
-      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1183,22 +1183,6 @@
       "duration_ms": 219000,
       "name": "Foi Livramento",
       "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Vai Passar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gerando Intimidade",
-        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
-      },
-      "artists": [
-        {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
-        }
-      ],
-      "duration_ms": 254754,
-      "name": "Gerando Intimidade",
-      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Tranquiliza (Ao Vivo)",
         "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
       },
@@ -1307,6 +1307,26 @@
       "duration_ms": 429352,
       "name": "Tranquiliza - Ao Vivo",
       "url": "https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1347,22 +1367,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sou Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl"
       },
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        },
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Quando Eu Chorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        }
+      ],
+      "duration_ms": 267305,
+      "name": "Quando Eu Chorar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Por\u00e7\u00e3o Dobrada (Ao Vivo)",
         "url": "https://open.spotify.com/album/42hmHRaR9hJMqU1Jdl7NzK"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 323028,
       "name": "Por\u00e7\u00e3o Dobrada - Ao Vivo",
       "url": "https://open.spotify.com/track/2BXZdode9c7dhmULER8eeH"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Quando Eu Chorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ"
-      },
-      "artists": [
-        {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        }
-      ],
-      "duration_ms": 267305,
-      "name": "Quando Eu Chorar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF"
     },
     {
       "added_at": "2023-12-22 03:00:00",

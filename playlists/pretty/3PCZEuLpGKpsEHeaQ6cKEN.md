@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Matt Guy
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 282,827 likes - 155 songs - 8 hr 16 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 282,810 likes - 155 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 154 | [Rhythm Of The Night](https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Rhythm Of The Night](https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU) | 3:33 |
 | 155 | [Fourth Dimension](https://open.spotify.com/track/2ojoNqheLtUVW8yTIaxND0) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Luca Garaboni](https://open.spotify.com/artist/2mZLEUUx4c0PYB9XuBHFYT) | [Fourth Dimension](https://open.spotify.com/album/3l8KWigij6SMqnylzQqxP9) | 2:52 |
 
-Snapshot ID: `NTMyNjYsYWM0NWRjNTM2NThmNWY5OWZkNzM0MzgzNDY2NGQ3ZmVkYTJmMDVkNg==`
+Snapshot ID: `NTMyNzEsYjJiZTcyOGFhMzIwOTliZjQ4MWFiNTIxMDc5NmM3YjNjMzRhYTE1ZA==`

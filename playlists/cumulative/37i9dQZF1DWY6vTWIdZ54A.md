@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-298 songs - 17 hr 29 min
+299 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Man Of The Moment](https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Man Of The Moment](https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay) | 3:12 | 2022-06-17 |  |
 | [Mercy](https://open.spotify.com/track/1QmhRaPMEMuYKRutxt9ond) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Mercy](https://open.spotify.com/album/1pw5musYA2A2FWpswW9rzK) | 3:25 | 2021-03-10 | 2022-07-29 |
 | [Mercy](https://open.spotify.com/track/4OSWIup9gKCkIdVvdkLEOE) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:25 | 2022-06-17 | 2022-09-24 |
-| [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 |  |
+| [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 | 2023-12-30 |
 | [Money Comes, Money Goes](https://open.spotify.com/track/2GJTLNHdLTkzPmAmbEAIZQ) | [Oddnote](https://open.spotify.com/artist/4hta9ZhozvyoMvISi2b5gS) | [Oddnote](https://open.spotify.com/album/4tNekkQlNnl1w35ZjPF2TZ) | 2:33 | 2020-12-11 | 2022-06-14 |
 | [Mother \- Single Version](https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Mother](https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2) | 5:05 | 2020-12-11 | 2023-06-10 |
 | [Mountain](https://open.spotify.com/track/696wtDyZUK2UJgu0fsVGIT) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise Over Run](https://open.spotify.com/album/3MZLNriYh8pH7kMYkbUxhk) | 3:11 | 2022-06-17 | 2023-06-10 |
@@ -228,6 +228,7 @@
 | [Shadow of Your Love](https://open.spotify.com/track/1YCxiooVRFlMwIhbAhapkE) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/1fbixj23On0ICt9AdM0zsN) | 2:36 | 2020-12-11 | 2022-07-29 |
 | [Shadow of Your Love](https://open.spotify.com/track/1noSh84nZafwMYvM49ffVd) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/3dAIbF5s2SBg6Bahdm9ceb) | 2:36 | 2022-10-07 | 2022-11-13 |
 | [Shakin' Off The Rust](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Shakin' Off The Rust](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 3:42 | 2020-12-11 | 2023-12-24 |
+| [Shakin' Off The Rust](https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:42 | 2023-09-22 |  |
 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 | 2023-09-22 |  |
 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 | 2020-12-11 |  |
 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 | 2020-12-11 |  |

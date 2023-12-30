@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123745,
+  "num_followers": 123756,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh",
+  "snapshot_id": "MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 226058,
-      "name": "Sin control",
-      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
-    },
-    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -203,6 +187,22 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Twin Color Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mas Amable",
+        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+      },
+      "artists": [
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Descanse",
+      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mexican Superstar",
         "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mirla",
-        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
-      },
-      "artists": [
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Jungla",
-      "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Night in Tijuana",
         "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 170909,
       "name": "Dancehall, Audubon Ballroom",
       "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Jungla",
+      "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -435,22 +451,6 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mas Amable",
-        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
-      },
-      "artists": [
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Descanse",
-      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
+      },
+      "artists": [
+        {
+          "name": "Rodion",
+          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 311693,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Give It To The Music",
         "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 415000,
       "name": "Mexico Trance",
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
-      },
-      "artists": [
-        {
-          "name": "Rodion",
-          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
-        }
-      ],
-      "duration_ms": 311693,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
     },
     {
       "added_at": "2023-02-28 03:45:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
-      },
-      "artists": [
-        {
-          "name": "Dietscha Jung",
-          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "K Royal Con Las de Harina",
-      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Qu\u00e9 Onda",
         "url": "https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220169,
       "name": "Qu\u00e9 Onda",
       "url": "https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Alarma",
-        "url": "https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E"
-      },
-      "artists": [
-        {
-          "name": "Mijo",
-          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
-        },
-        {
-          "name": "Eddie Mercury",
-          "url": "https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8"
-        }
-      ],
-      "duration_ms": 391750,
-      "name": "La Alarma - Radio Club Edit",
-      "url": "https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Love is Dancing",
         "url": "https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 252936,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "La Alarma",
+        "url": "https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E"
+      },
+      "artists": [
+        {
+          "name": "Mijo",
+          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
+        },
+        {
+          "name": "Eddie Mercury",
+          "url": "https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8"
+        }
+      ],
+      "duration_ms": 391750,
+      "name": "La Alarma - Radio Club Edit",
+      "url": "https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

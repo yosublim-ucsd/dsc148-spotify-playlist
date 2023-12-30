@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 68782,
+  "num_followers": 68889,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmYzMTc5NWNkMzc5NmNmMTUxZWYxMDIwM2M4MTM3NTJkYTc3MzZm",
+  "snapshot_id": "MCxhMDg1MmU2NjQyMGMzMzQ5ODExNzlhOTE1YzNkMDBmODY4MjI5YjM3",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Raver",
-        "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
-      },
-      "artists": [
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        }
-      ],
-      "duration_ms": 132846,
-      "name": "Raver",
-      "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Raver",
+        "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
+      },
+      "artists": [
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        }
+      ],
+      "duration_ms": 132846,
+      "name": "Raver",
+      "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
       "artists": [
         {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         }
       ],
-      "duration_ms": 202575,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
+      "duration_ms": 195000,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -863,26 +867,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 202575,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Slaves To The Darkness",
         "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 198315,
       "name": "Slaves To The Darkness",
       "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
-      },
-      "artists": [
-        {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "LOSE IT",
-        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
-      },
-      "artists": [
-        {
-          "name": "Crypton",
-          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
-        }
-      ],
-      "duration_ms": 163597,
-      "name": "LOSE IT",
-      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy"
+        "name": "LOSE IT",
+        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
       },
       "artists": [
         {
-          "name": "Elite Enemy",
-          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+          "name": "Crypton",
+          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
         }
       ],
-      "duration_ms": 181200,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
+      "duration_ms": 163597,
+      "name": "LOSE IT",
+      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy"
       },
       "artists": [
         {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
         }
       ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+      "duration_ms": 181200,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 217652,
       "name": "Woo",
       "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1331,6 +1315,42 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+      },
+      "artists": [
+        {
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1367,26 +1387,6 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
-      },
-      "artists": [
-        {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Hide Me",
-        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
+        "name": "Made it to Thunderdome",
+        "url": "https://open.spotify.com/album/51RFeHthhnta86KQO92uyY"
       },
       "artists": [
         {
-          "name": "Aftermath",
-          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
+          "name": "Nightshift",
+          "url": "https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 183891,
-      "name": "Hide Me",
-      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
+      "duration_ms": 227294,
+      "name": "Made it to Thunderdome",
+      "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1707,6 +1711,22 @@
       "duration_ms": 154272,
       "name": "TH3 FL0W",
       "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Hide Me",
+        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
+      },
+      "artists": [
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Hide Me",
+      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1731,6 +1751,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
@@ -1747,22 +1783,6 @@
       "duration_ms": 240300,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1799,26 +1819,6 @@
       "duration_ms": 168600,
       "name": "Ruthless For Life",
       "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Made it to Thunderdome",
-        "url": "https://open.spotify.com/album/51RFeHthhnta86KQO92uyY"
-      },
-      "artists": [
-        {
-          "name": "Nightshift",
-          "url": "https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 227294,
-      "name": "Made it to Thunderdome",
-      "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
     },
     {
       "added_at": "2023-12-21 23:00:00",

@@ -1,83 +1,15 @@
 {
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
-  "num_followers": 90211,
+  "num_followers": 90613,
   "original_name": "Electro Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjAwM2ZiODdiOGY5MWJiMTdjYjJmZDI5ZWFjY2FmZWY3OTM1MDcx",
+  "snapshot_id": "MCw2YzE0NjJmZjZkOGI4ZThlZTNhZGJiNGI3ZjZmYWIxNzU4NDE1ZTE2",
   "tracks": [
     {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 143327,
-      "name": "HARLEY QUINN",
-      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "ALVRGZO",
-        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "ALVRGZO",
-      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "ELOVRGA",
-        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "ELOVRGA",
-      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
@@ -101,51 +33,103 @@
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
+          "name": "Manuelvezz",
+          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "ALVRGZO",
+        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
+      },
+      "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+      "duration_ms": 162187,
+      "name": "ALVRGZO",
+      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
-        "name": "GOZANDO",
-        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 171692,
-      "name": "GOZANDO",
-      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+      "duration_ms": 143327,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Puro 3 Letras",
+        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Puro 3 Letras",
+      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "3 Colores",
+        "url": "https://open.spotify.com/album/6tRNMsAFAUFe1GJSmwmb42"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        },
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        }
+      ],
+      "duration_ms": 156125,
+      "name": "3 Colores",
+      "url": "https://open.spotify.com/track/0oTLMGtgRu4YD1Z2Herhmh"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
@@ -169,31 +153,31 @@
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
-        "name": "Humo Trankilizante",
-        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
+        "name": "ELOVRGA",
+        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
       "artists": [
         {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Hijos De Leyva",
-          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Humo Trankilizante",
-      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+      "duration_ms": 194769,
+      "name": "ELOVRGA",
+      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
@@ -217,7 +201,23 @@
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "TENGO A LAS BARBIES",
+        "url": "https://open.spotify.com/album/2dhztpdGQWjqaK9Wyw396V"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "TENGO A LAS BARBIES",
+      "url": "https://open.spotify.com/track/1KbBjQNxVz5cNc7mgstbDR"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "C ARMO",
         "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
@@ -241,163 +241,31 @@
       "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
-        "name": "Lavadita de Fresa",
-        "url": "https://open.spotify.com/album/7nRSYjA1igpQ7KoHyfpmy4"
+        "name": "Yo Las Pongo",
+        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
       "artists": [
         {
-          "name": "Gerry Garcia",
-          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
-        }
-      ],
-      "duration_ms": 202505,
-      "name": "Lavadita de Fresa",
-      "url": "https://open.spotify.com/track/1jdPJagF2WvDuzjYWSp79D"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "TENGO A LAS BARBIES",
-        "url": "https://open.spotify.com/album/2dhztpdGQWjqaK9Wyw396V"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Silva",
-          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "TENGO A LAS BARBIES",
-      "url": "https://open.spotify.com/track/1KbBjQNxVz5cNc7mgstbDR"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "3 Colores",
-        "url": "https://open.spotify.com/album/6tRNMsAFAUFe1GJSmwmb42"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
-        }
-      ],
-      "duration_ms": 156125,
-      "name": "3 Colores",
-      "url": "https://open.spotify.com/track/0oTLMGtgRu4YD1Z2Herhmh"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Aluc\u00edn",
-        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Aluc\u00edn",
-      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Disfrutando El Proceso",
-        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         },
         {
-          "name": "Tony Trampa",
-          "url": "https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 145210,
-      "name": "Los Favoritos De Los Capos",
-      "url": "https://open.spotify.com/track/5TbmLpzZkiAvmR3BprcSnz"
+      "duration_ms": 191353,
+      "name": "Yo Las Pongo",
+      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "PLEBADA",
-        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "PLEBADA",
-      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "DEMBOW B\u00c9LICO",
-        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 126522,
-      "name": "DEMBOW B\u00c9LICO",
-      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Hong Kong",
-        "url": "https://open.spotify.com/album/6ceziFcjWhnHtwCoVEzp2Q"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 222850,
-      "name": "Hong Kong",
-      "url": "https://open.spotify.com/track/4jJY4P5bdA3da1iRnwIMok"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
@@ -421,7 +289,207 @@
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Dembow Zumba La Srt",
+        "url": "https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz"
+      },
+      "artists": [
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        },
+        {
+          "name": "Daniell Garcia",
+          "url": "https://open.spotify.com/artist/3fvumtKq3FVLeZghusG1R1"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Dembow Zumba La Srt",
+      "url": "https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Hong Kong",
+        "url": "https://open.spotify.com/album/6ceziFcjWhnHtwCoVEzp2Q"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 222850,
+      "name": "Hong Kong",
+      "url": "https://open.spotify.com/track/4jJY4P5bdA3da1iRnwIMok"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Sin Dormir (Ya Se Arm\u00f3)",
+        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Humo Trankilizante",
+        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        },
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Humo Trankilizante",
+      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Lavadita de Fresa",
+        "url": "https://open.spotify.com/album/7nRSYjA1igpQ7KoHyfpmy4"
+      },
+      "artists": [
+        {
+          "name": "Gerry Garcia",
+          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
+        }
+      ],
+      "duration_ms": 202505,
+      "name": "Lavadita de Fresa",
+      "url": "https://open.spotify.com/track/1jdPJagF2WvDuzjYWSp79D"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
@@ -449,7 +517,7 @@
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "El Fieston",
         "url": "https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd"
@@ -473,7 +541,63 @@
       "url": "https://open.spotify.com/track/3dieJ76FVSIvpVssUlME5w"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Aluc\u00edn",
+        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Aluc\u00edn",
+      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tony Trampa",
+          "url": "https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "Los Favoritos De Los Capos",
+      "url": "https://open.spotify.com/track/5TbmLpzZkiAvmR3BprcSnz"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
+      "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
+    },
+    {
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Andamos Francos",
         "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
@@ -493,83 +617,7 @@
       "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Puro 3 Letras",
-        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Silva",
-          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Puro 3 Letras",
-      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM"
-      },
-      "artists": [
-        {
-          "name": "Manuelvezz",
-          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Sin Dormir (Ya Se Arm\u00f3)",
-        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 160150,
-      "name": "Sin Dormir (Ya Se Arm\u00f3)",
-      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Dembow Zumba La Srt",
-        "url": "https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz"
-      },
-      "artists": [
-        {
-          "name": "Skrapy",
-          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        },
-        {
-          "name": "Daniell Garcia",
-          "url": "https://open.spotify.com/artist/3fvumtKq3FVLeZghusG1R1"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "Dembow Zumba La Srt",
-      "url": "https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
@@ -593,31 +641,7 @@
       "url": "https://open.spotify.com/track/4VpTPw4gPDdhSITd3okIaZ"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Rockport Espacial 2",
         "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
@@ -641,31 +665,7 @@
       "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
     },
     {
-      "added_at": "2023-12-19 09:28:12",
-      "album": {
-        "name": "Yo Las Pongo",
-        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 191353,
-      "name": "Yo Las Pongo",
-      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2023-12-19 09:28:12",
+      "added_at": "2023-12-27 16:33:17",
       "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"

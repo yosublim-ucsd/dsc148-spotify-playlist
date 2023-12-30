@@ -1,47 +1,15 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: iilliaa",
-  "num_followers": 450976,
+  "num_followers": 451256,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGUyYmI4MzhlMGJmZWVhNTYyNWRjYjQ2Njk5MGYyZTI0YmVmNWRl",
+  "snapshot_id": "MCwyMWJkODEzYzBjZTljMGMyNjI2NzMyOGVhM2I3OTUzYjQ5YWYwZjMx",
   "tracks": [
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
-      },
-      "artists": [
-        {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
-        }
-      ],
-      "duration_ms": 125994,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
-      },
-      "artists": [
-        {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
@@ -61,7 +29,39 @@
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125994,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "ECHT (Techno Mix)",
         "url": "https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/113xf7t4qNM7038YJvauik"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "winterlove2.0",
         "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Liebe ist sowas wie ein Schwert",
         "url": "https://open.spotify.com/album/3h0jolofuDo4TCa2OIyzPM"
@@ -185,39 +185,27 @@
       "url": "https://open.spotify.com/track/5B0gC3MVu8i4Dc4MSsGAbj"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Tage vor 2000",
-        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
+        "name": "pasta & mehr",
+        "url": "https://open.spotify.com/album/2ZTXiIBLARpoY1t5V9dO53"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "drau\u00dfen essen sp\u00e4t schlafen \ud83d\udca4",
-      "url": "https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
+          "name": "dobel",
+          "url": "https://open.spotify.com/artist/2k56DBnh92ucRbT7lonjkS"
+        },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+      "duration_ms": 167509,
+      "name": "pasta",
+      "url": "https://open.spotify.com/track/78oxQhzMZVkfBQbzVwMQhI"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Hotbox",
         "url": "https://open.spotify.com/album/25ySdvbDJi00CicDFOumF7"
@@ -237,7 +225,59 @@
       "url": "https://open.spotify.com/track/32Z0VTh6WdfNODptGc9OC0"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Tage vor 2000",
+        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "drau\u00dfen essen sp\u00e4t schlafen \ud83d\udca4",
+      "url": "https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Mandarine",
+        "url": "https://open.spotify.com/album/69aOKTs7lgnDQDpUsrqynQ"
+      },
+      "artists": [
+        {
+          "name": "bucci",
+          "url": "https://open.spotify.com/artist/1f8lvHw5C5ZNd9ACUi7TNh"
+        },
+        {
+          "name": "HELENA",
+          "url": "https://open.spotify.com/artist/4iOAX6CVaI8eD3oKyu913B"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Mandarine",
+      "url": "https://open.spotify.com/track/6XBFl5efs5q4csF6ZHa1wb"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Winterherz",
         "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
@@ -253,7 +293,23 @@
       "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "vermiss nicht mehr",
+        "url": "https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ"
+      },
+      "artists": [
+        {
+          "name": "Mika",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 173321,
+      "name": "vermiss nicht mehr",
+      "url": "https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Alles ist relativ",
         "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
@@ -269,7 +325,27 @@
       "url": "https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Status",
+        "url": "https://open.spotify.com/album/5PzWrg3h59uwLyErCVG7QT"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "\u0117mma",
+          "url": "https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx"
+        }
+      ],
+      "duration_ms": 156862,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/4h8WLOqMjjGEw3wSjGOsHc"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf"
@@ -285,7 +361,27 @@
       "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Girl You Know It's True (Remix)",
         "url": "https://open.spotify.com/album/7JnXqGSQeMlboWuJpNGJAS"
@@ -309,55 +405,27 @@
       "url": "https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Weihnachtslied 2023",
-        "url": "https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT"
+        "name": "sandmann",
+        "url": "https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11"
       },
       "artists": [
         {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6"
         },
         {
-          "name": "Dani",
-          "url": "https://open.spotify.com/artist/49WxFZy9aXHc45IMLc2xyj"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
         }
       ],
-      "duration_ms": 152475,
-      "name": "Weihnachtslied 2023",
-      "url": "https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k"
+      "duration_ms": 154286,
+      "name": "sandmann",
+      "url": "https://open.spotify.com/track/0VjaALHWHv43TFwqwf2tKB"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
@@ -381,7 +449,7 @@
       "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Komm in meine Arme (Remix)",
         "url": "https://open.spotify.com/album/7ETtvcUamU4NqCe6Rw6nxY"
@@ -409,7 +477,23 @@
       "url": "https://open.spotify.com/track/23SubncezpLXwkL22Kf3Nb"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "3 Haseln\u00fcsse",
         "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
@@ -429,7 +513,7 @@
       "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
@@ -449,7 +533,23 @@
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Cover Up My Face",
         "url": "https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2"
@@ -465,7 +565,7 @@
       "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Block In Der Brust",
         "url": "https://open.spotify.com/album/1xCqi0g3kNJFW3y6pyBzgs"
@@ -485,23 +585,7 @@
       "url": "https://open.spotify.com/track/4kdCsDQpeoUh12tY5xwZvD"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "B\u00e9cane - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "B\u00e9cane - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Denkmal 2.0 (Replay Okay Edit)",
         "url": "https://open.spotify.com/album/2wMqZxrWMXG1QLwWnUrOFa"
@@ -521,7 +605,7 @@
       "url": "https://open.spotify.com/track/7h02U5HuG4u2AdAvCuKHEn"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "cross my heart",
         "url": "https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9"
@@ -537,7 +621,7 @@
       "url": "https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Nicht allein",
         "url": "https://open.spotify.com/album/70GyiV8LToJYGYE6pxh8IL"
@@ -553,7 +637,23 @@
       "url": "https://open.spotify.com/track/24ejkPQlpnaOtRGnA8w2bF"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Tauchen",
+        "url": "https://open.spotify.com/album/7ch3M4qcbnjN4v19mZHz7U"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "duration_ms": 173376,
+      "name": "Tauchen",
+      "url": "https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Slowdown (girl what's up)",
         "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
@@ -569,27 +669,7 @@
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Beats by Luca",
-          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s"
@@ -605,7 +685,7 @@
       "url": "https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Drachenfrucht",
         "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
@@ -625,7 +705,23 @@
       "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
@@ -645,7 +741,7 @@
       "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
@@ -665,7 +761,7 @@
       "url": "https://open.spotify.com/track/7cyBdix7HId2onf99SrJBV"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Vielleicht Vielleicht",
         "url": "https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX"
@@ -685,7 +781,7 @@
       "url": "https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Sobredosis",
         "url": "https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd"
@@ -701,27 +797,7 @@
       "url": "https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Herzen in mein Eyes",
-        "url": "https://open.spotify.com/album/27wxOEIJG1PwOUJIJJ7F4H"
-      },
-      "artists": [
-        {
-          "name": "UHD",
-          "url": "https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x"
-        },
-        {
-          "name": "Europlus",
-          "url": "https://open.spotify.com/artist/4BdjzegmdH1AbDgrQ1CT6S"
-        }
-      ],
-      "duration_ms": 204921,
-      "name": "Herzen in mein Eyes",
-      "url": "https://open.spotify.com/track/4jv2lbbhHwizNJ5mpYcwPY"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "SO WIE DU BIST",
         "url": "https://open.spotify.com/album/2je3atRPdpL3JRrAu3W672"
@@ -737,7 +813,7 @@
       "url": "https://open.spotify.com/track/44R36gWtM2XB5Lm9lxuTNp"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Peoplepleasing",
         "url": "https://open.spotify.com/album/5r3kZxq31teN5pKFeWaVe2"
@@ -753,7 +829,7 @@
       "url": "https://open.spotify.com/track/0nTjRvSZ2WvvfvppEQMfNb"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Scary (feat. Aitch)",
         "url": "https://open.spotify.com/album/35Fe3Uvw64VWPPYLdf9Ts9"
@@ -773,31 +849,7 @@
       "url": "https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "SKEU SKEU (feat. wilsko & 7ia)",
-        "url": "https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww"
-      },
-      "artists": [
-        {
-          "name": "Jogga",
-          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
-        },
-        {
-          "name": "wilsko",
-          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
-        },
-        {
-          "name": "7ia",
-          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "SKEU SKEU (feat. wilsko & 7ia)",
-      "url": "https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
@@ -813,7 +865,7 @@
       "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY"
@@ -829,7 +881,7 @@
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Wenn du weinst / Einmal verliebt (Outro)",
         "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
@@ -845,7 +897,7 @@
       "url": "https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Past Lives",
         "url": "https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI"
@@ -865,7 +917,7 @@
       "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "W\u00fcnsch dir was",
         "url": "https://open.spotify.com/album/6CLYKj7zD3Y9l4bq8NviBM"
@@ -885,7 +937,7 @@
       "url": "https://open.spotify.com/track/6Quqy3JY071g2d56w5VZEL"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/62DdNibFffaelV25WBUjtT"
@@ -905,7 +957,7 @@
       "url": "https://open.spotify.com/track/4yNWhBYneGn8Gvr7Y3ciqf"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Sektor C",
         "url": "https://open.spotify.com/album/1YwWzAT4nZ3KuH0orm8em7"
@@ -925,27 +977,7 @@
       "url": "https://open.spotify.com/track/0bEYiDNNRdoSszfeH4OmTz"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Before I Self-Destruct",
-        "url": "https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Baby By Me",
-      "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Star Shopping",
         "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "K\u00fcss mich",
         "url": "https://open.spotify.com/album/0nDMvmUFg8KMRn1EYXH2eR"
@@ -977,23 +1009,7 @@
       "url": "https://open.spotify.com/track/5cKOROElbZXQHLdKKlJ7eJ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Side B*tch",
-        "url": "https://open.spotify.com/album/3QMYF0hJcF8BpaneUQHapH"
-      },
-      "artists": [
-        {
-          "name": "Lara Hulo",
-          "url": "https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0"
-        }
-      ],
-      "duration_ms": 168633,
-      "name": "Side B*tch",
-      "url": "https://open.spotify.com/track/5uuXzZZdqZjFjwUZY2cPld"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Crash Dummy",
         "url": "https://open.spotify.com/album/1ob5JbhZ4KhzKdq0HZZwDG"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "immatrikuliert",
         "url": "https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW"
@@ -1037,7 +1053,23 @@
       "url": "https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 120732,
+      "name": "Hallo",
+      "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Ich wollte nie dass wir uns lieben",
         "url": "https://open.spotify.com/album/0eMANyhPipWYEE1hhYnt9B"
@@ -1057,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7dJ8ZklVUvGHEGeEAPFDUG"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "WEINST DU",
         "url": "https://open.spotify.com/album/6MkhESb5H3hlm9zNzaVJLr"
@@ -1077,23 +1109,7 @@
       "url": "https://open.spotify.com/track/1zNsXrIjWAp8xFMUjLvO9d"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Cacio e Pepe",
-        "url": "https://open.spotify.com/album/5yq8GrZewZYAFC4wjapojN"
-      },
-      "artists": [
-        {
-          "name": "Emilio",
-          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Cacio e Pepe",
-      "url": "https://open.spotify.com/track/5mvKB3FSjIVWv8gkI1zK8x"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
@@ -1117,23 +1133,7 @@
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Schweinegeld",
-        "url": "https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby"
-      },
-      "artists": [
-        {
-          "name": "SHOKI",
-          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
-        }
-      ],
-      "duration_ms": 128514,
-      "name": "Schweinegeld",
-      "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "SHOOT (DJ JEEZY REMIX)",
         "url": "https://open.spotify.com/album/3gCZs2xQkWSTnNfWCdydgR"
@@ -1153,23 +1153,27 @@
       "url": "https://open.spotify.com/track/44zP9jNhUg3KlKhjlGUQV8"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Tage vor 2000",
-        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
+        "name": "Before I Self-Destruct",
+        "url": "https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 165493,
-      "name": "Airberlin",
-      "url": "https://open.spotify.com/track/5422qkk67RSNZizub4XkDX"
+      "duration_ms": 213360,
+      "name": "Baby By Me",
+      "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "prayer1",
         "url": "https://open.spotify.com/album/0fODpsuQX4BZSnYoEnRHCf"
@@ -1185,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4GCI038c3eATmIc1NwNIzs"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "ROTE FLAGGEN",
         "url": "https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa"
@@ -1201,23 +1205,7 @@
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Molto Allegro",
-        "url": "https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g"
-      },
-      "artists": [
-        {
-          "name": "G&J",
-          "url": "https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Molto Allegro",
-      "url": "https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Broken Trust",
         "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
@@ -1237,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -1257,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Mo-Fr",
         "url": "https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt"
@@ -1273,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "2MS",
         "url": "https://open.spotify.com/album/2MsdWh9Jmo4SXXgVqqO5qG"
@@ -1289,7 +1277,7 @@
       "url": "https://open.spotify.com/track/0rwOtnvfoBHa443aTwjSlu"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Nur 3 Sekunden",
         "url": "https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP"
@@ -1305,23 +1293,23 @@
       "url": "https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u"
+        "name": "Tage vor 2000",
+        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
       },
       "artists": [
         {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 120732,
-      "name": "Hallo",
-      "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
+      "duration_ms": 165493,
+      "name": "Airberlin",
+      "url": "https://open.spotify.com/track/5422qkk67RSNZizub4XkDX"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
@@ -1337,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "2013 Deluxe",
         "url": "https://open.spotify.com/album/0TX7pAeHJlRk4dSaphESmp"
@@ -1369,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6DyPJmoMz557oYZklLz7GI"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Zwei Eins Zwei",
         "url": "https://open.spotify.com/album/5L13fCsGIYyVOB1A01Au2t"
@@ -1389,7 +1377,7 @@
       "url": "https://open.spotify.com/track/1X40NpgM6xdSy4oW0iOBIi"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
@@ -1409,7 +1397,7 @@
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Psycho Dreams (Sped Up)",
         "url": "https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO"
@@ -1429,7 +1417,23 @@
       "url": "https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Molto Allegro",
+        "url": "https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g"
+      },
+      "artists": [
+        {
+          "name": "G&J",
+          "url": "https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Molto Allegro",
+      "url": "https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "HUSO",
         "url": "https://open.spotify.com/album/6uh1MujKNxhqhPdkb3rQUI"
@@ -1449,7 +1453,7 @@
       "url": "https://open.spotify.com/track/37h4oEmchSH4UXFXq5NQbT"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Why Do You Hate Me",
         "url": "https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx"
@@ -1465,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "fault in the stars",
         "url": "https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt"
@@ -1485,7 +1489,7 @@
       "url": "https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Story f\u00fcr dich",
         "url": "https://open.spotify.com/album/4kkWnU5gf9mIKX9Kae33Mu"
@@ -1501,7 +1505,7 @@
       "url": "https://open.spotify.com/track/7F2RuqJDm1YqQsW7s9atsi"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Blonde Chaya (Sped Up)",
         "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
@@ -1521,7 +1525,7 @@
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "kontrollverlust",
         "url": "https://open.spotify.com/album/1XyT1LjPfmbbi6GGM9feNM"
@@ -1537,7 +1541,7 @@
       "url": "https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
@@ -1557,7 +1561,7 @@
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Wings (Techno)",
         "url": "https://open.spotify.com/album/68uw91RNTCVXWFTU3lOa9G"
@@ -1573,7 +1577,7 @@
       "url": "https://open.spotify.com/track/0ZCFBp0el7wDgzvCLqaAWe"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Zwei Uhr Nachts",
         "url": "https://open.spotify.com/album/6xdf3oKtUk5zNyckzm2u8r"
@@ -1593,7 +1597,7 @@
       "url": "https://open.spotify.com/track/4FTHsubclCdTx7sZXssAnj"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Sandstorm exuleD",
         "url": "https://open.spotify.com/album/1T5Io9YOcBoLJQIBJ7WsOa"
@@ -1609,7 +1613,7 @@
       "url": "https://open.spotify.com/track/0OSCmuYDodQwAgsY0pD7yS"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Designerst\u00fcck",
         "url": "https://open.spotify.com/album/0FYJDvMhJyq5cWOk0TVlqR"
@@ -1629,7 +1633,7 @@
       "url": "https://open.spotify.com/track/15cKjwoEYqsBvqcN1jYsyM"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "The Lost Soul Down",
         "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
@@ -1645,7 +1649,7 @@
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Zu Viel Dopamin",
         "url": "https://open.spotify.com/album/5VN59Ikgv2tiHJ8T9XipIk"
@@ -1665,7 +1669,7 @@
       "url": "https://open.spotify.com/track/44KEKRyMQIC4YBupZG2Li3"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Amala (Deluxe Version)",
         "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
@@ -1681,7 +1685,7 @@
       "url": "https://open.spotify.com/track/4de1X6v99U7tfOXrNUCTbi"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Meine 1",
         "url": "https://open.spotify.com/album/0ERJNB85OpTaQO9S5Tu1tJ"
@@ -1697,7 +1701,7 @@
       "url": "https://open.spotify.com/track/6QZ7IptsMdWodN4uFuXNkv"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Love Game",
         "url": "https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO"
@@ -1713,7 +1717,7 @@
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Blaue Stunden",
         "url": "https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3"
@@ -1741,7 +1745,7 @@
       "url": "https://open.spotify.com/track/04g4813XfiSFRpfD1eo67d"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "SCHOCKVERLIEBT",
         "url": "https://open.spotify.com/album/3AjZkTeoqEwIApTi2KKnNN"
@@ -1761,7 +1765,7 @@
       "url": "https://open.spotify.com/track/2qHTMMgDpHTUMOQmMkRFvP"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Ein letztes Mal",
         "url": "https://open.spotify.com/album/2J31N4Aq0EAa3L0YcTOSo0"
@@ -1777,23 +1781,7 @@
       "url": "https://open.spotify.com/track/1MklCHMZxSoV3FwoEidOlQ"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Party mit mir selbst",
         "url": "https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW"
@@ -1813,7 +1801,7 @@
       "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
@@ -1829,7 +1817,7 @@
       "url": "https://open.spotify.com/track/2Xam1sL5Mkib0UPCHX75KM"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "NUR WENN ICH ATME",
         "url": "https://open.spotify.com/album/6wQvJD5jxhQZrrDklqb3xR"
@@ -1845,7 +1833,7 @@
       "url": "https://open.spotify.com/track/342bMFnG4rNv82Cumcj8vt"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "No Summer Hit 2024",
         "url": "https://open.spotify.com/album/68nfzGY6zUGOeRtdcTq1eU"
@@ -1865,7 +1853,7 @@
       "url": "https://open.spotify.com/track/3v27Jcdn1D3FqGyprnSVg7"
     },
     {
-      "added_at": "2023-12-21 23:00:00",
+      "added_at": "2023-12-28 23:00:00",
       "album": {
         "name": "Sterne Sehen",
         "url": "https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx"

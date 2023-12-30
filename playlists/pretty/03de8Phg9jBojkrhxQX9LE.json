@@ -1,13 +1,297 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 20026,
+  "num_followers": 20044,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "MjE3NCxhY2IyMjdkYWYwYmNlM2ZjNzcwMTg1OTAzZGYwMjEwYjQyOWRkZDU4",
+  "snapshot_id": "MjE3NSxjMjg2NmVmYzRiNTljYTQxOGE4NDlmNWVhZDM2MWQ5ODA4YzQ5MDY0",
   "tracks": [
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "leavemealone (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 179441,
+      "name": "leavemealone - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/5tJGW8Wbfyb1TrRjMc8mCc"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "High Voltage (with JT Foley)",
+        "url": "https://open.spotify.com/album/0aT4H2HaQ1r6rNaDh1wR1o"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "JT FOLEY",
+          "url": "https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q"
+        }
+      ],
+      "duration_ms": 238795,
+      "name": "High Voltage (with JT Foley)",
+      "url": "https://open.spotify.com/track/6b7noKS8HNmHhphZN643dD"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Better Of Alone",
+        "url": "https://open.spotify.com/album/3r9lgSdZ0IJWk9kKm96tNr"
+      },
+      "artists": [
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Better Of Alone",
+      "url": "https://open.spotify.com/track/14Z0etlRKJo79xmzmv6BW1"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Barbarian",
+        "url": "https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "MONTA [COMP1]",
+        "url": "https://open.spotify.com/album/7lY4qqMJuEjJPttNXCVP6z"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Vega [VIP]",
+      "url": "https://open.spotify.com/track/60jAVrWMyZXSFxMctACCNM"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "BXU 2",
+        "url": "https://open.spotify.com/album/5Rfzj9zzMKVQNagVW4r78M"
+      },
+      "artists": [
+        {
+          "name": "welcome2bishu",
+          "url": "https://open.spotify.com/artist/6uR4FhNuKSzvsYAy2LKMrP"
+        },
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "Vexx",
+          "url": "https://open.spotify.com/artist/6Czf0wpOuZOvhnYbkMi2Ni"
+        }
+      ],
+      "duration_ms": 128683,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/4ryhwZcsCAbvP0R1Ku8SwX"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "LIFT OFF",
+        "url": "https://open.spotify.com/album/7ey50e1s482RfGNXqldS4W"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "LIFT OFF",
+      "url": "https://open.spotify.com/track/2T8Yxn4uXQoeBivDQNYCel"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "see u",
+        "url": "https://open.spotify.com/album/50ClhmdBMGR4kX6JfmXopf"
+      },
+      "artists": [
+        {
+          "name": "pale fortress",
+          "url": "https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS"
+        },
+        {
+          "name": "Mannequin",
+          "url": "https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj"
+        },
+        {
+          "name": "Kareful",
+          "url": "https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/05ucW9pkbVwHLUX1UprevL"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "BXG STEPPA [VIP]",
+        "url": "https://open.spotify.com/album/0Lole64pMwTaqeXibtSZuI"
+      },
+      "artists": [
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 119092,
+      "name": "BXG STEPPA [VIP]",
+      "url": "https://open.spotify.com/track/3B0x50YE3hv4opeTfp10Xq"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Dancefloor",
+        "url": "https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Long Distance Soulmate",
+        "url": "https://open.spotify.com/album/06TX0XI8CzGfsMHgAyjOSm"
+      },
+      "artists": [
+        {
+          "name": "NVRLUV",
+          "url": "https://open.spotify.com/artist/6O8B8YvVVfCAehzlfCVRuc"
+        },
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "duration_ms": 194108,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/1HacAKpcFDcfRWzUmrkLlp"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "1000dB Stare",
+        "url": "https://open.spotify.com/album/155WXA6CZCCYaGWQenZKil"
+      },
+      "artists": [
+        {
+          "name": "HomeSick",
+          "url": "https://open.spotify.com/artist/3trICw5vZHfTbcSOjikzq8"
+        }
+      ],
+      "duration_ms": 236430,
+      "name": "Rune Faucet",
+      "url": "https://open.spotify.com/track/3xIrKIbM0CoLKSAG0mYQUA"
+    },
+    {
+      "added_at": "2023-12-29 22:00:30",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/31hzzUuQmhy3nvHRu9TtKz"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 267088,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/6gWgTP5H7v5I9p9LRBATac"
+    },
     {
       "added_at": "2023-12-22 20:19:11",
       "album": {

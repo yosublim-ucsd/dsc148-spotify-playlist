@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145037,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/5xnWaCA2uZkwxApShLNMs2"
@@ -674,6 +674,36 @@
       "duration_ms": 145136,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM CORAL (feat. Mc Cyclope)",
+        "url": "https://open.spotify.com/album/6okX6RHMDNrISnibgpclju"
+      },
+      "artists": [
+        {
+          "name": "DJ Holanda",
+          "url": "https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC TH",
+          "url": "https://open.spotify.com/artist/3F1443WJZgYSDywzIDYSBr"
+        },
+        {
+          "name": "Mc Cyclope",
+          "url": "https://open.spotify.com/artist/3xIDIb8awFTVp48OtoKEAW"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145037,
+      "name": "MONTAGEM CORAL (feat. Mc Cyclope)",
+      "url": "https://open.spotify.com/track/1Zhzqwu4w6h9OrFJDK9AUQ"
     },
     {
       "album": {

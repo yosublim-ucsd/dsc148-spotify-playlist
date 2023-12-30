@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 152488,
+  "num_followers": 152649,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll",
+  "snapshot_id": "MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Endorphine",
         "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 172596,
       "name": "Endorphine",
       "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Grande",
-        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
-      },
-      "artists": [
-        {
-          "name": "Von Wegen Lisbeth",
-          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
-        }
-      ],
-      "duration_ms": 230413,
-      "name": "Wenn du tanzt",
-      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 222613,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "duration_ms": 230413,
+      "name": "Wenn du tanzt",
+      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nur wegen dir",
-        "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
-      },
-      "artists": [
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Nur wegen dir",
-      "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "\u00dcbermorgen",
         "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 163275,
       "name": "\u00dcbermorgen",
       "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Nur wegen dir",
+        "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Nur wegen dir",
+      "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Vom selben Stern (Exklusive Version)",
         "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -691,6 +675,22 @@
       "duration_ms": 284546,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -759,6 +759,38 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 207501,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Von Wind und Anonymit\u00e4t",
-        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+        "name": "Schwei\u00dfperlen",
+        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Klaus Lage",
+          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
         }
       ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
+      "duration_ms": 200946,
+      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
+      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -851,22 +867,6 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Schwei\u00dfperlen",
-        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
-      },
-      "artists": [
-        {
-          "name": "Klaus Lage",
-          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
-      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
     }
   ],
   "unique_name": "Liebeslieder",

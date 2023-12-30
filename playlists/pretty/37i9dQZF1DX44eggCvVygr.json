@@ -1,15 +1,295 @@
 {
-  "description": "All the music from Netflix's La Casa de Papel/Money Heist.",
-  "num_followers": 399059,
-  "original_name": "La Casa de Papel Official Playlist",
+  "description": "Some heists, like some love stories, are irresistible. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix. ",
+  "num_followers": 399696,
+  "original_name": "La Casa de Papel and Berlin Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTU1ZWRhYWUyYjg5OTQ3OGFlNjdlODk4ZmRiNzRiOTRkNGE3ZWFj",
+  "snapshot_id": "MCw2YzAxNTQxMTQ1MGE5MDY4ZjNlY2JlODlkMWJlNTkxYjgxZjY4MDM0",
   "tracks": [
     {
-      "added_at": "2021-12-03 20:01:02",
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Alma Mater",
+        "url": "https://open.spotify.com/album/28yaRHUvkkvZ4tftpyAeYf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Le\u00e3o",
+          "url": "https://open.spotify.com/artist/1HY3qhAqbGC5jM7lfbSqft"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/3Xaq7pzNUWfo4JVMfdKEh4"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r"
+      },
+      "artists": [
+        {
+          "name": "Emily Watts",
+          "url": "https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp"
+        }
+      ],
+      "duration_ms": 157683,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Mon Man\u00e8ge \u00c0 Moi",
+        "url": "https://open.spotify.com/album/3s4C2XtDUPH0doInmJvIML"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Mon man\u00e8ge \u00e0 moi",
+      "url": "https://open.spotify.com/track/2uwtqiD3LzqpU5g2nnQPUA"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Gilbert Becaud (1963-1964) [2011 Remastered] [Deluxe version]",
+        "url": "https://open.spotify.com/album/5kbcDrXNUaToRlppfyjdUe"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Et maintenant",
+      "url": "https://open.spotify.com/track/7ljux6L94K33WbEM8mKGrf"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "IRM (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3yskvqosKohzIMFeEAHAFt"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 160442,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/5FrbEiNS4IT5AAlU60XoVn"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Que c'est triste Venise",
+      "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Fire Fleet And Candlelight",
+        "url": "https://open.spotify.com/album/00BbQk8JTzSQBEuZAQz5oV"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "The Circle Game",
+      "url": "https://open.spotify.com/track/4iTSDr8jIXEfJcyl9qymmC"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Lost Angeles",
+        "url": "https://open.spotify.com/album/7urtHe1NCIWrYAXeZ0mm0q"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "All of the Love in the World",
+      "url": "https://open.spotify.com/track/45Ut1HUeW4ctP2nWXkxRE7"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "We'll All Be Alright",
+        "url": "https://open.spotify.com/album/1aqMkpIK0UcThBLWV1KMZr"
+      },
+      "artists": [
+        {
+          "name": "Amy Stroup",
+          "url": "https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "We'll All Be Alright",
+      "url": "https://open.spotify.com/track/70cFd2R8RaD0nc2bYPeNqS"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/4FqUtvO3kF5FKTWHTqoluu"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Electronic Pleasure",
+        "url": "https://open.spotify.com/album/2C5oKE03phy4w8yHTkWTNW"
+      },
+      "artists": [
+        {
+          "name": "N-Trance",
+          "url": "https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt"
+        },
+        {
+          "name": "Ricardo Da Force",
+          "url": "https://open.spotify.com/artist/7oofaqs3ZPfzIuamtI4cSw"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3k3QGyFyA5qrT5BLqeU1Ss"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "Since Frank",
+        "url": "https://open.spotify.com/album/6peFdqDYJrZTrXoViRwBVx"
+      },
+      "artists": [
+        {
+          "name": "Amy Stroup",
+          "url": "https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "As Long As You're With Me",
+      "url": "https://open.spotify.com/track/6eAuIwnjzvUFxtNVTPlKA3"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
+      "album": {
+        "name": "La Inimitable",
+        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Que Me Coma el Tigre",
+      "url": "https://open.spotify.com/track/7kHhEXPEIRgkZHvE0RLOqa"
+    },
+    {
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
@@ -25,7 +305,7 @@
       "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
     },
     {
-      "added_at": "2021-12-09 18:18:20",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Misma Sangre",
         "url": "https://open.spotify.com/album/4bVW8SE7FKXoEktQlLF35Z"
@@ -41,7 +321,7 @@
       "url": "https://open.spotify.com/track/3jmUXb0VFgo4LvmjFADvMp"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/4JNN9xvSq7Y98h1qzyF8IS"
@@ -57,7 +337,7 @@
       "url": "https://open.spotify.com/track/10wLjSlbUFQP9FxK9gP8uu"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/1xHNOh9MpgRgdc3hjRM5JF"
@@ -73,7 +353,7 @@
       "url": "https://open.spotify.com/track/4EmkhxXEKkThUUzvtcFYrO"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "High Violet (Expanded Edition)",
         "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
@@ -89,7 +369,7 @@
       "url": "https://open.spotify.com/track/1cpraaZvYqYIJMY9BbqRnc"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
@@ -105,7 +385,7 @@
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
@@ -121,7 +401,7 @@
       "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Dusty In London",
         "url": "https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3"
@@ -137,7 +417,7 @@
       "url": "https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Plastic Bertrand",
         "url": "https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq"
@@ -153,7 +433,7 @@
       "url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Mint",
         "url": "https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp"
@@ -169,7 +449,7 @@
       "url": "https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/1daoIj3pRxt6n5g9T4kCUU"
@@ -185,7 +465,7 @@
       "url": "https://open.spotify.com/track/5tL00ynK5ogVNz66Np8yal"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "70's Funk Classics",
         "url": "https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc"
@@ -205,7 +485,7 @@
       "url": "https://open.spotify.com/track/6hpmTwgNCz81H2bFEREx29"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
@@ -221,7 +501,7 @@
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Love Is Here",
         "url": "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw"
@@ -237,7 +517,7 @@
       "url": "https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Secret Weapons (Part 8)",
         "url": "https://open.spotify.com/album/3GwGewo2ZAnV9Jw9LwpyAd"
@@ -253,7 +533,7 @@
       "url": "https://open.spotify.com/track/2SmDsqV1mfn1dQ658EHpa3"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
@@ -269,7 +549,7 @@
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "My Life Is Going On (M\u00fasica Original De La Serie De TV La Casa De Papel / Money Heist)",
         "url": "https://open.spotify.com/album/3Q4MvKGORSPdwa0OWLWXOA"
@@ -285,7 +565,7 @@
       "url": "https://open.spotify.com/track/5ZEQjTroORCu6uWvZrdeNc"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Bella Ciao (M\u00fasica Original de la Serie la Casa de Papel/ Money Heist)",
         "url": "https://open.spotify.com/album/05Ng00IfiS6xeyQX8WtjHU"
@@ -301,7 +581,7 @@
       "url": "https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Tokyo Nights",
         "url": "https://open.spotify.com/album/2vPThJkZW1E75mLySTAwA0"
@@ -321,7 +601,7 @@
       "url": "https://open.spotify.com/track/1Yr7ew77WJ6fCOHP34g6h9"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "The Royal Wedding - The Official Album",
         "url": "https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA"
@@ -357,7 +637,7 @@
       "url": "https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Alto Mar",
         "url": "https://open.spotify.com/album/7x4Bs1HonnKWQHyF0Ermcn"
@@ -373,7 +653,7 @@
       "url": "https://open.spotify.com/track/39hfLClNLWUDEUakfYZtly"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Bella Ciao (Versi\u00f3n Lenta de la M\u00fasica Original de la Serie la Casa de Papel / Money Heist)",
         "url": "https://open.spotify.com/album/55owwkfWzhEIEVocYhqD0c"
@@ -389,7 +669,7 @@
       "url": "https://open.spotify.com/track/3BsUcp4CFmJh39OKP4qbLx"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Blue Eyed Soul",
         "url": "https://open.spotify.com/album/5UqRCqJ3DJU8V6qv3azt0I"
@@ -409,7 +689,7 @@
       "url": "https://open.spotify.com/track/5WA6A2PO5OjSrGtFXOs9rU"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Universal Trailer Series - Psychological Thriller",
         "url": "https://open.spotify.com/album/2rhxu5UWEdP1jxL2i5c2Hx"
@@ -433,7 +713,7 @@
       "url": "https://open.spotify.com/track/71gmGaGQgbLetxEkfR5CLa"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Golden Age Radio: Vintage",
         "url": "https://open.spotify.com/album/54ZWQvMUlb9w2EyaBBtMxJ"
@@ -449,7 +729,7 @@
       "url": "https://open.spotify.com/track/0Ej4QsLqA04ox2SdrConlZ"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Universal Trailer Series - Spy-Crime Thriller",
         "url": "https://open.spotify.com/album/7w8Iutd4Cq6CUTYYA39mg0"
@@ -473,7 +753,7 @@
       "url": "https://open.spotify.com/track/228nvElbY7zWEJoyYii9hg"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Electronic Blockbusters",
         "url": "https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo"
@@ -493,7 +773,7 @@
       "url": "https://open.spotify.com/track/7AmR7EPk7PtCl0RIMkfYfD"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Electronic Blockbusters",
         "url": "https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo"
@@ -517,7 +797,7 @@
       "url": "https://open.spotify.com/track/2H1VKoFzet2cWylWNvrJaw"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "The Lie Detective (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4Mk6Uiamchf9TeCIfjVrfe"
@@ -541,7 +821,7 @@
       "url": "https://open.spotify.com/track/3f3q3ywCx7cU0W9FaxIsgY"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3"
@@ -557,7 +837,7 @@
       "url": "https://open.spotify.com/track/06iBEeAvZXnByI9GWMb823"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Essential Beethoven",
         "url": "https://open.spotify.com/album/3mfKaQqoDzM2LhQ7Df6uYh"
@@ -585,7 +865,7 @@
       "url": "https://open.spotify.com/track/5G2RyS5wHOHh8JjLg13AnJ"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "50 Ragtime Piano Classics (Best Of Scott Joplin, Joseph Lamb & James Scott)",
         "url": "https://open.spotify.com/album/0h4EqyysSt7O1YgXMH7a3P"
@@ -601,7 +881,7 @@
       "url": "https://open.spotify.com/track/7scONDwVvlfi9mvbz6FDS5"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "The Madcaps",
         "url": "https://open.spotify.com/album/3SGYGOrFSMfZIoOraBufwg"
@@ -617,7 +897,7 @@
       "url": "https://open.spotify.com/track/53atpU3OjniShIbBgDJ84m"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "La Flor y el Libro (Banda Sonora Original de la Serie de Tv la Casa de Papel / Money Heist)",
         "url": "https://open.spotify.com/album/3PKg0T7Fwtkwp8JyJqLlNp"
@@ -633,7 +913,7 @@
       "url": "https://open.spotify.com/track/0olAGEFIyKHBbBGFgY1JMC"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "No Tourists",
         "url": "https://open.spotify.com/album/53McTme1ugOjYfqMMmyZre"
@@ -649,7 +929,7 @@
       "url": "https://open.spotify.com/track/3Bh7XsEU3ITiT5t1tefc04"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
@@ -665,7 +945,7 @@
       "url": "https://open.spotify.com/track/6kDtGFy10W0ydXtCJPrths"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
@@ -681,7 +961,7 @@
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "You'll Never Walk Alone (The EMI Years 1963-1966)",
         "url": "https://open.spotify.com/album/2xjQOixp5YLkhVDcAh8MY0"
@@ -697,7 +977,7 @@
       "url": "https://open.spotify.com/track/6catF1lDhNTjjGa2GxRQNN"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "The Life Pursuit",
         "url": "https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU"
@@ -713,7 +993,7 @@
       "url": "https://open.spotify.com/track/07ZSQZzH92n1uwEG0m8M4f"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Guantanamera - The Essential Album",
         "url": "https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU"
@@ -729,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5shBL8dU0l3bfZvHrx1rQu"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
@@ -745,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
@@ -761,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
@@ -777,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Broken Coastline",
         "url": "https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn"
@@ -801,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Mes Images Priv\u00e9es De Serge",
         "url": "https://open.spotify.com/album/1m6bdcoDLu1OELQuPOkoRf"
@@ -817,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0RnE0UwG2gZqyr7crZjkpq"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Pizza Pop",
         "url": "https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df"
@@ -833,7 +1113,7 @@
       "url": "https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Doux-amer",
         "url": "https://open.spotify.com/album/6rieFXTklVah8JAwKS2BRl"
@@ -849,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1glzpd9mGcAtbaRdQQCwgc"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "La Deriva",
         "url": "https://open.spotify.com/album/4xqm8AbqzESFwCZlEPdYjr"
@@ -865,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3yAVc9zsc742nCxO8mDB8T"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Ti amo",
         "url": "https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29"
@@ -881,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Te Estoy Amando Locamente",
         "url": "https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH"
@@ -897,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Render Me Numb, Trivial Violence",
         "url": "https://open.spotify.com/album/26MeZzexBTmsfmge60gYe3"
@@ -913,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0U6DDIna03AaXc35Djhjgi"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL"
@@ -929,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "La Voce Del Padrone (Remastered 2021)",
         "url": "https://open.spotify.com/album/3vHxkAyC36Bi581ZUysCtZ"
@@ -945,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6OzeWNA1SQgZBw5caqAIKN"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Further Standards",
         "url": "https://open.spotify.com/album/0kYvtUDxRxcZe7JehdMiV8"
@@ -965,7 +1245,7 @@
       "url": "https://open.spotify.com/track/6a8AIQEeuWKRoQakg3Aujf"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Sympathique",
         "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
@@ -981,7 +1261,7 @@
       "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Suspiros de Espa\u00f1a (Pasodobles)",
         "url": "https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0"
@@ -997,7 +1277,7 @@
       "url": "https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Blow Up",
         "url": "https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798"
@@ -1013,7 +1293,7 @@
       "url": "https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "La Giravida",
         "url": "https://open.spotify.com/album/2k55copetYbBobaDbKTlNz"
@@ -1029,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0yUoTyOsLsMdkPejOoIIr5"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Pescador De Hombres",
         "url": "https://open.spotify.com/album/6Tx5TBvbXUC3AsWr3buaGK"
@@ -1045,7 +1325,7 @@
       "url": "https://open.spotify.com/track/7od71ucLRijC3mHYPXej7q"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
@@ -1061,7 +1341,7 @@
       "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Hacia Lo Salvaje",
         "url": "https://open.spotify.com/album/30EpnkJuxCNI7AsAFmbMuQ"
@@ -1077,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1YSPIHUt1JiN9H1GcgH8Ce"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
@@ -1093,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
     },
     {
-      "added_at": "2021-08-26 21:03:21",
+      "added_at": "2023-12-29 08:00:00",
       "album": {
         "name": "Bella ciao",
         "url": "https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p"
@@ -1109,6 +1389,6 @@
       "url": "https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR"
     }
   ],
-  "unique_name": "La Casa de Papel Official Playlist",
+  "unique_name": "La Casa de Papel and Berlin Official Playlist",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX44eggCvVygr"
 }

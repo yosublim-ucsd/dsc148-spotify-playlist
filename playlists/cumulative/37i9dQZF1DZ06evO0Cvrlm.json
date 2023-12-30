@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+    },
+    {
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -840,7 +858,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 280980,
       "name": "Praying for Time - Remastered",
       "url": "https://open.spotify.com/track/7CgRXXie9XIxVSkpKi40ID"

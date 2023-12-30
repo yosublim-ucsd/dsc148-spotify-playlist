@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-344 songs - 18 hr 12 min
+346 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 | 2023-08-11 |
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 |  |
 | [Fata Morgana](https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG) | [Lennart Schroot](https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4) | [Fata Morgana](https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5) | 2:14 | 2022-12-20 | 2023-08-11 |
+| [FAVHELLA](https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Mc Guidanny](https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [FAVHELLA](https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI) | 1:56 | 2023-12-29 |  |
 | [Fearless Pt\. II](https://open.spotify.com/track/4VZH6OfxPy1nNE7KbtVKyK) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D) | 3:14 | 2022-02-03 | 2022-09-15 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-08-11 |
 | [Feel Alive](https://open.spotify.com/track/2ny7EDengavertveA3WeVT) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Feel Alive](https://open.spotify.com/album/5zKvA3heSNYN4A1EfcyakR) | 3:02 | 2022-02-03 | 2022-09-15 |
@@ -325,6 +326,7 @@
 | [Undone](https://open.spotify.com/track/3Xc1M0iSb1JnsQrth0LZCP) | [Desmeon](https://open.spotify.com/artist/58yUFNnwk1DyoBvKNPmYdH) | [NCS is Love, NCS is Life, Vol\. 1](https://open.spotify.com/album/0R6JKXqMghl97Sx7ngToTm) | 4:04 | 2023-08-10 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-08-11 |
 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 | 2023-08-10 |  |
+| [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 |  |
 | [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 |  |
 | [Voyage](https://open.spotify.com/track/0saZwRp7tEo7AiqmBhrnn4) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Voyage](https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd) | 4:22 | 2022-02-03 | 2022-09-15 |
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 200151,
       "name": "Again",
       "url": "https://open.spotify.com/track/2avDRKPOym2nXz7UUeKJxR"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 200144,
       "name": "Again",
       "url": "https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ"
@@ -247,8 +247,8 @@
     },
     {
       "album": {
-        "name": "Ms. Ma, Nemesis Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5XmTqXUCFzb9ttkHvg2lrC"
+        "name": "Ms. Ma, Nemesis (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN"
       },
       "artists": [
         {
@@ -260,6 +260,24 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193164,
+      "name": "My memory",
+      "url": "https://open.spotify.com/track/1N5d2ytjQK25flrdxfCAQt"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5XmTqXUCFzb9ttkHvg2lrC"
+      },
+      "artists": [
+        {
+          "name": "leeSA",
+          "url": "https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 193164,
       "name": "My Memory",
       "url": "https://open.spotify.com/track/1ScvO2wzYVWFU5JcK6KRIQ"
     },
@@ -270,13 +288,13 @@
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "CAR, THE GARDEN",
+          "url": "https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3"
         }
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 264568,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 264568,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/70l6ayPCoOKfICNM2F3HJz"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 145290,
       "name": "Perfect Love",
       "url": "https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs"
@@ -463,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Ms. Ma, Nemesis (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN"
+      },
+      "artists": [
+        {
+          "name": "SALTNPAPER",
+          "url": "https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228078,
+      "name": "\uadf8\ub304 \uc544\ub098\uc694",
+      "url": "https://open.spotify.com/track/0L0RQOToaWhfj5GY1amVBd"
+    },
+    {
+      "album": {
         "name": "Ms. Ma, Nemesis Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1bjgccK0s4WG87cE2Juk7W"
       },
@@ -474,7 +510,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 228078,
       "name": "\uadf8\ub304 \uc544\ub098\uc694",
       "url": "https://open.spotify.com/track/2IL86nMsQywLzPt4RIiETy"
@@ -528,7 +564,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145008,
       "name": "\uc644\ubcbd\ud55c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/2WOoi1u2uCwKbnI8mEC7MR"

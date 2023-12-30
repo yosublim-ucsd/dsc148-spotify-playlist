@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-311 songs - 1 day 5 hr 54 min
+312 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Big Sky Theory](https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp) | 8:28 | 2021-11-30 | 2022-07-29 |
 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 | 2022-04-28 | 2023-03-23 |
 | [Black](https://open.spotify.com/track/5iaVpwfa6T8ygaZXNhva8P) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/10aQPFy03P8QGK2oRQaC2g) | 6:47 | 2021-11-30 | 2022-07-29 |
-| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 |  |
+| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 | 2023-12-30 |
 | [Black Smoke](https://open.spotify.com/track/0vZrU143kLdTS0wmOpif5u) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Black Smoke](https://open.spotify.com/album/7Ml0kvmqPLNyoKVPRH00pr) | 4:38 | 2021-11-30 | 2022-07-19 |
 | [Blood Leaves a Trail](https://open.spotify.com/track/6u6cQr5HcIrU00h4xlrmCb) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sea](https://open.spotify.com/album/5ZO5pXlgYkn7U5z403VSg1) | 6:19 | 2021-11-30 | 2022-07-07 |
 | [Blue Snow](https://open.spotify.com/track/4L6txSW8V2KqNVY1LZHMes) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Time Travelling Blues](https://open.spotify.com/album/4EflZcGXhZGptft8fzxwI3) | 4:25 | 2021-11-30 | 2022-02-13 |
@@ -256,6 +256,7 @@
 | [Stigma](https://open.spotify.com/track/1pd9ahIz23fDLzgcAE9Kb8) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Idolum \(Standard Edition\)](https://open.spotify.com/album/03nNWMkQjRkPMisaGgGwM4) | 7:12 | 2021-11-30 | 2022-02-01 |
 | [Strange Gods, Strange Altars](https://open.spotify.com/track/3MH8EVD8DLAo93PlNN5TXi) | [Sheavy](https://open.spotify.com/artist/2VFx18gs5RCvXZPHJpYjcR) | [Celestial Hi\-Fi](https://open.spotify.com/album/5bAYdLWZ9P7oHQaPFzAcwp) | 6:38 | 2021-11-30 | 2022-08-04 |
 | [Strange Plan](https://open.spotify.com/track/1rbeJWLIn7yfo7bupq36RN) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt\. 2](https://open.spotify.com/album/6Vnaiw0ZDBo8ZkFLEwV81R) | 3:52 | 2022-07-22 | 2023-01-13 |
+| [Stray Bullit Woman](https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw) | 3:05 | 2023-10-06 |  |
 | [Stray Bullit Woman](https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z) | 3:05 | 2022-04-28 | 2023-12-24 |
 | [Stray Bullit Woman](https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe) | 3:05 | 2021-11-30 | 2022-07-28 |
 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 | 2021-11-30 |  |

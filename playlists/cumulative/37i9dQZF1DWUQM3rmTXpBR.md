@@ -2,9 +2,9 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: A5rass
+> Alternative Arabic songs\. Cover: Mohammed Saeed
 
-178 songs - 10 hr 53 min
+179 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 | 2021-12-23 | 2023-04-24 |
 | [Lessa Bahinlha](https://open.spotify.com/track/5Hto3NaFsv1or3zn3GdfY3) | [Ramy Essam](https://open.spotify.com/artist/7axpCYU6YisPgZQXYzNzis) | [Lessa Bahinlha](https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO) | 3:27 | 2022-04-15 |  |
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-23 |  |
+| [Lw Bs](https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lw Bs](https://open.spotify.com/album/7nxUA2AWsiBIIP8dnvKn4i) | 3:24 | 2023-12-28 |  |
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 | 2023-04-24 |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 | 2023-04-24 |
 | [Madinet El Malahi](https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw) | 4:41 | 2023-04-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 306009,
+  "num_followers": 306363,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTU2MjY3NjcyMjgyMTg2MzVlZGQwMDg3MzVmY2MwZWQxZjA3NzU0",
+  "snapshot_id": "MCw1YWIwOGNhYTA0ZGUxODhiODk0MmEyMjA1ZGM1Y2M3OWJkNGU2NTRi",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Flavored",
         "url": "https://open.spotify.com/album/5jni2TbWknd8TBL6Nt4dyh"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 128399,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+      },
+      "artists": [
+        {
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Pink Dance EP",
         "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -911,22 +927,6 @@
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Kanji Title",
-        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
       },
       "artists": [
         {
-          "name": "TANUKI",
-          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Ganbare",
-      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+        "name": "Kanji Title",
+        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+          "name": "TANUKI",
+          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
         }
       ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
+      "duration_ms": 183536,
+      "name": "Ganbare",
+      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Summer 99",
         "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
       "artists": [
         {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
         }
       ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1447,6 +1431,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Dance Cochayuyo!",
+        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Dance Dance Cochayuyo!",
+      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Hooked On Aesthetics",
-        "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 163405,
-      "name": "Exacta",
-      "url": "https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv"
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Dance Cochayuyo!",
-        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+        "name": "Hooked On Aesthetics",
+        "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
       },
       "artists": [
         {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Dance Dance Cochayuyo!",
-      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+      "duration_ms": 163405,
+      "name": "Exacta",
+      "url": "https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
         }
       ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1623,18 +1639,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+        "name": "So Shine",
+        "url": "https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s"
       },
       "artists": [
         {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+        },
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
         }
       ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+      "duration_ms": 285721,
+      "name": "So Shine",
+      "url": "https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1671,22 +1691,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "So Shine",
-        "url": "https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s"
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
       },
       "artists": [
         {
-          "name": "yuugen",
-          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
-        },
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
         }
       ],
-      "duration_ms": 285721,
-      "name": "So Shine",
-      "url": "https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx"
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1703,22 +1719,6 @@
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     }
   ],
   "unique_name": "Future Funk",

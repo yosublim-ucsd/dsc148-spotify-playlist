@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,152 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,478 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 58 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 59 | [\~](https://open.spotify.com/track/0QWf3gtoyp5FwaKh43nMBf) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/2FyZYXJoYsdHy6AN9iqfGs) | 2:06 |
 | 60 | [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 |
-| 61 | [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 |
+| 61 | [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 |
 | 62 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 |
 | 63 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 |
 | 64 | [Sony](https://open.spotify.com/track/2L4moFBQmCePOpPGQMMFWf) | [VHS LOGOS](https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ) | [Street Smarts](https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp) | 2:17 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 81 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 82 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCwwYjFkMjI4OWI0YTM1NTFhZTg4NTE0ZTIzYjUwMTgyZmJhYzIzZjYw`
+Snapshot ID: `MCw2ODNlY2VhMjdkNGJiN2U5NDhhNTlhNDkxNDdmOTlkYmMyYzA4ZWEy`

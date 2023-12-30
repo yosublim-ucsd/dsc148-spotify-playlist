@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Shygirl
 
-1,835 songs - 4 day 6 hr 3 min
+1,836 songs - 4 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 | 2023-12-19 |  |
 | [Firebreak](https://open.spotify.com/track/2hz7oMnWFY30Rtt4vh706I) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv) | 4:26 | 2023-11-23 | 2023-12-09 |
 | [Firebreak \- 1991 Remix](https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Firebreak \(1991 Remix\)](https://open.spotify.com/album/6hjfikVWj1TJ3gFl3gOrNK) | 1:57 | 2023-12-19 |  |
+| [Firebreak \- Chloé Caillet Remix](https://open.spotify.com/track/1UAqZooxuvHhomGrk3JOGb) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Firebreak \(Chloé Caillet Remix\)](https://open.spotify.com/album/3DWMNJQOd1OOWmoInaoLoN) | 6:17 | 2023-12-29 |  |
 | [Firebreak \- Edit](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak \(Edit\)](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 | 2023-11-09 | 2023-11-30 |
 | [Firebreak \- Edit](https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv) | 2:27 | 2023-11-23 | 2023-12-02 |
 | [Firestarter](https://open.spotify.com/track/3QloQEPfsOlyrt22NqmpHk) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [Firestarter](https://open.spotify.com/album/4zkiqijVncMHoPiFwQEyfQ) | 3:22 | 2023-04-20 | 2023-05-12 |

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Yemen.",
-  "num_followers": 19429,
+  "num_followers": 19500,
   "original_name": "Yemen Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmQwM2E3MDMwMDkyMWFiMGI5ZDlhNWNhYjI3Mzg2YzAwZWZjNTNi",
+  "snapshot_id": "MCxiMmJjMTdiYjNlODc5M2FlY2Y3ZWM4ZGU3ZGY1NzFjYmZkODVlY2I0",
   "tracks": [
     {
       "added_at": "2022-07-27 09:18:36",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-07-27 09:18:36",
       "album": {
-        "name": "\u0628\u0644\u0648\u0647 \u063a\u064a\u0627\u0628\u0643",
-        "url": "https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ"
-      },
-      "artists": [
-        {
-          "name": "Assala Al Magdi",
-          "url": "https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf"
-        }
-      ],
-      "duration_ms": 166922,
-      "name": "\u0628\u0644\u0648\u0647 \u063a\u064a\u0627\u0628\u0643",
-      "url": "https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz"
-    },
-    {
-      "added_at": "2022-07-27 09:18:36",
-      "album": {
         "name": "Allah Jabak",
         "url": "https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 248235,
       "name": "Allah Jabak",
       "url": "https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi"
+    },
+    {
+      "added_at": "2022-07-27 09:18:36",
+      "album": {
+        "name": "\u0628\u0644\u0648\u0647 \u063a\u064a\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ"
+      },
+      "artists": [
+        {
+          "name": "Assala Al Magdi",
+          "url": "https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf"
+        }
+      ],
+      "duration_ms": 166922,
+      "name": "\u0628\u0644\u0648\u0647 \u063a\u064a\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz"
     },
     {
       "added_at": "2022-07-27 09:18:36",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-07-27 09:18:36",
       "album": {
-        "name": "\u0644\u064a\u0627\u0644\u064a \u0627\u0644\u0627\u0646\u0633, Vol. 2",
-        "url": "https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq"
+        "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY"
       },
       "artists": [
         {
-          "name": "Sharaf Al Qaady",
-          "url": "https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx"
+          "name": "Ahmed Alwi",
+          "url": "https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0"
         }
       ],
-      "duration_ms": 340375,
-      "name": "\u064a\u0627\u0637\u064a\u0631 \u0641\u064a \u0639\u0627\u0644\u064a \u0627\u0644\u063a\u0635\u0648\u0646",
-      "url": "https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C"
+      "duration_ms": 273998,
+      "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3"
     }
   ],
   "unique_name": "Yemen Sounds",

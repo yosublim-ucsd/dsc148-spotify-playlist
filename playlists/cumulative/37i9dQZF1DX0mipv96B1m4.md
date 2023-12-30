@@ -4,7 +4,7 @@
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-87 songs - 4 hr 37 min
+88 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Boy Fire](https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Boy Fire](https://open.spotify.com/album/3kWRIFkHfECb8Cs9rWvoTK) | 2:53 | 2022-03-31 |  |
 | [Bubble Up](https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:56 | 2022-10-06 | 2023-03-21 |
 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 | 2022-03-31 |  |
-| [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 | 2022-04-07 |  |
+| [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 | 2022-04-07 | 2023-12-30 |
 | [Camera \- Extended Version](https://open.spotify.com/track/0YrviJ3tE9cwlsiFsO8KNd) | [Killa Weedz](https://open.spotify.com/artist/6SzcOIg2G7QXUFouXQogTN) | [Camera \(Extended Version\)](https://open.spotify.com/album/7jT7agWLlk3tnMGaGCPBzm) | 2:49 | 2022-05-19 | 2022-11-18 |
 | [Cyaa Sidung](https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Cyaa Sidung](https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa) | 2:47 | 2022-03-31 | 2023-05-07 |
 | [Dancehall](https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Semyekozo](https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs) | 4:40 | 2022-03-31 | 2023-06-17 |
@@ -56,6 +56,7 @@
 | [Kiziniro](https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Topic Kasente](https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4), [Lil Pazzo](https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY), [Tip Swizzy](https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv) | [Kiziniro](https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc) | 3:42 | 2022-08-05 | 2023-01-10 |
 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 | 2023-11-24 |  |
 | [Kyabazinga](https://open.spotify.com/track/1dXe4sn2nqtlf5N85sGfp5) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU) | [Kyabazinga](https://open.spotify.com/album/0coxBoWWL8gc7luOPj2nKY) | 3:12 | 2023-11-24 | 2023-12-22 |
+| [Kyabazinga \- PALLASO Remix](https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw) | [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU), [PALLASO](https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz) | [Kyabazinga](https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK) | 3:12 | 2023-11-24 |  |
 | [Kyekyo](https://open.spotify.com/track/6GRgSWl7y19yQHyUXjoYG7) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Zex Bilangilangi](https://open.spotify.com/artist/19k30kNL4RyLA6A182zubI) | [Kyekyo](https://open.spotify.com/album/2UtGfOn0PJSuRVVrren0bO) | 3:06 | 2023-08-18 |  |
 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 | 2022-03-31 |  |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-28 |  |

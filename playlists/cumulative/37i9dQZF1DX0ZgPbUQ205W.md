@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-329 songs - 23 hr 44 min
+330 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Ghost Song \#6](https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av) | [Paul Jarret](https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa), [Jim Black](https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4) | [Ghost Song \#6](https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2) | 2:25 | 2021-12-17 | 2023-11-21 |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
 | [Glimmer Of Hope](https://open.spotify.com/track/5CLc13Ktc8gDsDihuAqFzM) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Arctic Riff](https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr) | 8:33 | 2022-05-25 |  |
-| [Good Morning Heartache](https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Morning Heartache](https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M) | 5:25 | 2021-12-17 |  |
+| [Good Morning Heartache](https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Morning Heartache](https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M) | 5:25 | 2021-12-17 | 2023-12-30 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-11-11 |  |
 | [Goodbye](https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 3:24 | 2022-06-29 |  |
 | [Goodbye](https://open.spotify.com/track/3bIW46Go72C43usLCm2ADr) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -208,6 +208,7 @@
 | [Peace Piece](https://open.spotify.com/track/3gi5sApfm4Wt6kVp7IWwsy) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Lost & Found](https://open.spotify.com/album/2IwRPoM4pqAfv10x8YDiSt) | 6:42 | 2022-08-25 | 2022-11-10 |
 | [Peace Piece](https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos) | 4:13 | 2021-12-17 | 2022-06-01 |
 | [Petrus](https://open.spotify.com/track/56muRlT0rsMD0Mx18LFELG) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Out of the Loop](https://open.spotify.com/album/0pR6sQfNeIgdyP7dnV34HD) | 7:59 | 2022-05-25 | 2023-08-11 |
+| [Places To Write](https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Places To Write](https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC) | 4:02 | 2023-12-20 |  |
 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs) | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu) | 3:49 | 2021-12-17 | 2022-05-04 |
 | [Poetry](https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd) | 3:52 | 2022-06-29 | 2022-11-11 |

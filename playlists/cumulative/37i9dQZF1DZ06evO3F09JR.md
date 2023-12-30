@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-88 songs - 7 hr 44 min
+90 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,9 @@
 | [Sentinels on Patrol](https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:05 | 2023-04-03 | 2023-09-16 |
 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 | 2022-05-29 |  |
 | [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 | 2023-12-26 |  |
+| [Spettro II](https://open.spotify.com/track/4fOacmPnsko7toPFVFHrgF) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:08 | 2023-12-29 |  |
 | [Spettro III](https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:28 | 2023-12-26 |  |
+| [Spettro IV](https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 7:28 | 2023-12-29 |  |
 | [Splinter Hell](https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 4:06 | 2022-09-06 | 2023-08-04 |
 | [Standing Vigilant](https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:58 | 2022-12-03 | 2023-08-14 |
 | [Sun](https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:13 | 2022-05-29 | 2023-07-17 |

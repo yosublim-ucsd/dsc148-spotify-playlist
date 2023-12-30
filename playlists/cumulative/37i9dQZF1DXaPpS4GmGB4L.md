@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-186 songs - 10 hr 46 min
+187 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 | 2022-07-08 |  |
 | [Rocket 88 \- Remastered](https://open.spotify.com/track/4DNlJnFb2AFE0GiZPW5t5O) | [Jackie Brenston](https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj) | [Rocket 88](https://open.spotify.com/album/3dnk3vbMIm4QBrAebCIn9l) | 2:46 | 2021-12-20 | 2022-07-29 |
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-23 |  |
-| [Safety First](https://open.spotify.com/track/1qpVyqeKgqLf6uaGSxnw5y) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 4:50 | 2023-11-24 |  |
+| [Safety First](https://open.spotify.com/track/1qpVyqeKgqLf6uaGSxnw5y) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 4:50 | 2023-11-24 | 2023-12-30 |
 | [Shake It Baby](https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Volume 2](https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9) | 4:55 | 2022-11-17 |  |
 | [Shake Your Hips](https://open.spotify.com/track/2vb1sXfQJ3WsmevEvfnKeo) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:53 | 2022-11-17 |  |
 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 | 2021-12-20 |  |
@@ -176,6 +176,7 @@
 | [They Call Me Mud](https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [They Call Me Mud](https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP) | 4:00 | 2023-08-18 |  |
 | [Time to Get Movin'](https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2) | 3:37 | 2022-11-17 |  |
 | [Time to Get Movin'](https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY) | 3:37 | 2022-05-27 | 2022-07-28 |
+| [Too Old To Grow Up](https://open.spotify.com/track/2V3azyKH2p0Y95rhTO78U8) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 3:21 | 2023-11-24 |  |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2023-12-24 |
 | [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 | 2023-08-18 |  |
 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 | 2022-08-18 |  |

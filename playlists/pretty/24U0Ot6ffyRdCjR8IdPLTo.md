@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 11,177 likes - 100 songs - 5 hr 38 min
+[Topsify](https://open.spotify.com/user/topsify) - 11,180 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 99 | [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 |
 | 100 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 |
 
-Snapshot ID: `MTI5OSxmN2EwNTMxYzZhNzA3MWQ4ODUzYzE0NTkyMzVjODdjNWI5MzM3Mjhh`
+Snapshot ID: `MTMwMSw4NTI4ODYxM2M0ODQ5OWUzZTA2NDJkOTMzMzk2MmUzMmNhMDYxNjdi`

@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Only Built 4 Human Links",
+        "url": "https://open.spotify.com/album/2bj1CgbnCLkwS6PuLNpOCA"
+      },
+      "artists": [
+        {
+          "name": "Moment Joon",
+          "url": "https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll"
+        },
+        {
+          "name": "Fisong",
+          "url": "https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192225,
+      "name": "Enough/Hun",
+      "url": "https://open.spotify.com/track/1ZsDKol51tsXYXxuJ3FxTk"
+    },
+    {
+      "album": {
         "name": "Existe feat. Daichi Yamamoto (Blended by tofubeats)",
         "url": "https://open.spotify.com/album/5OO4rVydstHpmDrDepnkmB"
       },
@@ -2508,10 +2530,32 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 143430,
       "name": "Focus",
       "url": "https://open.spotify.com/track/3Isd3NqkaQQ9UCiwmNWLmR"
+    },
+    {
+      "album": {
+        "name": "As Usual",
+        "url": "https://open.spotify.com/album/1QE6N5297Mp5hywrz0exhy"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        },
+        {
+          "name": "ineedmorebux",
+          "url": "https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143430,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/7obYc4xBA9qHuOOckPHKHH"
     },
     {
       "album": {
@@ -6216,10 +6260,32 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 182144,
       "name": "Run From My Pain",
       "url": "https://open.spotify.com/track/5rHG1sGaBJoewM5DqRQvKT"
+    },
+    {
+      "album": {
+        "name": "Run From My Pain",
+        "url": "https://open.spotify.com/album/6yP4FqzPk8cnLzToGv8Kza"
+      },
+      "artists": [
+        {
+          "name": "who28",
+          "url": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+        },
+        {
+          "name": "vividboooy",
+          "url": "https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182144,
+      "name": "Run From My Pain",
+      "url": "https://open.spotify.com/track/6Jj0C8PFJoTzcfIo4GW4my"
     },
     {
       "album": {

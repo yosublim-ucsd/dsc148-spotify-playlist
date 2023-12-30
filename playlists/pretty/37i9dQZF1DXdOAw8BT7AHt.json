@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Problem Patterns",
-  "num_followers": 53025,
+  "num_followers": 53033,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FjMjdjOTc3MGFkMDM4OTY5OTY3NDgwNDcxMGRmMzYyNjg4M2Uy",
+  "snapshot_id": "MCxjNmZkZDFjMmU5N2FiMGM4Njc1OTEyZjRiNzMwOGNiMDUwNjgyODRk",
   "tracks": [
     {
       "added_at": "2023-11-13 20:01:49",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Resolution/Revolution",
-        "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "Resolution/Revolution",
-      "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 139000,
       "name": "FTS (KYS)",
       "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Resolution/Revolution",
+        "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "Resolution/Revolution",
+      "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "How To Live With Yourself / Smoke Screen",
         "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
       },
       "artists": [
         {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
         }
       ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -495,66 +479,18 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "MORE UK GRIM",
-        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
       },
       "artists": [
         {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
         }
       ],
-      "duration_ms": 213402,
-      "name": "Under The Rules",
-      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 155788,
-      "name": "Boys in the Band",
-      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -575,6 +511,70 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Invite me, kindly",
         "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 176933,
       "name": "High Tea",
       "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "Big Pharma",
-        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 166314,
-      "name": "Big Pharma",
-      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -687,22 +671,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Nah, That Ain't It / Phone Lines Down",
-        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 123205,
-      "name": "Phone Lines Down",
-      "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "DBSAC",
         "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
       },
@@ -719,6 +687,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "Nah, That Ain't It / Phone Lines Down",
+        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 123205,
+      "name": "Phone Lines Down",
+      "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Big Pharma",
+        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 166314,
+      "name": "Big Pharma",
+      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+        "name": "Gonna Get Better",
+        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
       "artists": [
         {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+      "duration_ms": 195694,
+      "name": "Gonna Get Better",
+      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -823,18 +823,34 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Gonna Get Better",
-        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
       "artists": [
         {
-          "name": "Uninvited",
-          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
         }
       ],
-      "duration_ms": 195694,
-      "name": "Gonna Get Better",
-      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Cry Your Eyes Out",
+        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 147475,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -855,18 +871,34 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Cry Your Eyes Out",
-        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+        "name": "Shadow of a Doubt",
+        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
       },
       "artists": [
         {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 147475,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "MK Nothing",
+        "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 204143,
+      "name": "MK Nothing",
+      "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -903,38 +935,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "MK Nothing",
-        "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 204143,
-      "name": "MK Nothing",
-      "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "Shadow of a Doubt",
-        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Adore Adore Adore",
-      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Daydrinker",
         "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
       },
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Tom in 03",
-        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
       },
       "artists": [
         {
-          "name": "Misplaced",
-          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
-        },
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 141671,
-      "name": "Tom in 03",
-      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+        "name": "Tom in 03",
+        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
         }
       ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+      "duration_ms": 141671,
+      "name": "Tom in 03",
+      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
     },
     {
       "added_at": "2023-11-13 20:01:49",

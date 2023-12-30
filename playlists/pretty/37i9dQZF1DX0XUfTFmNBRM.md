@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,945 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,744 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 13 | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Choir](https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ) | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m) | 2:14 |
 | 14 | [Leke Prabhu Ka Naam \(From "Tiger 3"\)](https://open.spotify.com/track/66v97IvccVkHt40FIOq1LH) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Leke Prabhu Ka Naam \(From "Tiger 3"\)](https://open.spotify.com/album/2IP7pUCOazIHCAbK9eJNcu) | 3:35 |
 | 15 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
-| 16 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 |
+| 16 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 |
 | 17 | [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/album/1Vkdf3mTQV4RakJBz0HbgT) | 4:37 |
 | 18 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 |
 | 19 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 |
 | 50 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
 
-Snapshot ID: `MCw2NDViMjhkYzM2Njc5YjhhODFlNDM4MjA0YjI3ZmI0NWUxYjcwMDk0`
+Snapshot ID: `MCw2MjQyNGFhM2E0NDBhNGNjZjA5ODc1Mzg3OGRiMjBkMDc4MGNlMTEz`

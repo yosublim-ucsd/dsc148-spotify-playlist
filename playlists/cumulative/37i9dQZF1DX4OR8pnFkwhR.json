@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "A box of Stockholm",
+        "url": "https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160122,
+      "name": "A box of Stockholm",
+      "url": "https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl"
+    },
+    {
+      "album": {
         "name": "a little question (Sh\u014dtaro Aoyama Remix)",
         "url": "https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq"
       },
@@ -2948,6 +2966,24 @@
       "duration_ms": 151751,
       "name": "Dancing When You're Dead",
       "url": "https://open.spotify.com/track/6DFbeSxrQ0e2PsUCCCiH4i"
+    },
+    {
+      "album": {
+        "name": "Brand New Days",
+        "url": "https://open.spotify.com/album/26gknD81VVN543W1OJBuDn"
+      },
+      "artists": [
+        {
+          "name": "CHUCK TAYLORS",
+          "url": "https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Dasee Dasei",
+      "url": "https://open.spotify.com/track/51HAbKZ8gYPICA3RPXUgpQ"
     },
     {
       "album": {
@@ -14350,6 +14386,24 @@
     {
       "album": {
         "name": "mono",
+        "url": "https://open.spotify.com/album/4FrNwkNGFo7f3TSxvu9qfh"
+      },
+      "artists": [
+        {
+          "name": "bane",
+          "url": "https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208732,
+      "name": "YEY!",
+      "url": "https://open.spotify.com/track/3Hn8MwLoiiczn0gqsbm4aK"
+    },
+    {
+      "album": {
+        "name": "mono",
         "url": "https://open.spotify.com/album/6R75V4gwRTLMZ68TObqJhs"
       },
       "artists": [
@@ -14360,7 +14414,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 208732,
       "name": "YEY\uff01",
       "url": "https://open.spotify.com/track/1XvprZ9Q61nlDbzBao5IIa"
@@ -15818,7 +15872,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 145333,
       "name": "\u3060\u305b\u3048\u60f0\u6027",
       "url": "https://open.spotify.com/track/3CRFLHw5Dt2PScSjM9ikbc"
@@ -17486,7 +17540,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 160122,
       "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
       "url": "https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo"
@@ -22244,7 +22298,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 207097,
       "name": "\u68ee",
       "url": "https://open.spotify.com/track/0h8XHGuOZOQSPoKJpWWmNf"
@@ -24036,6 +24090,24 @@
       "duration_ms": 216993,
       "name": "\u8d85\u65b0\u661f",
       "url": "https://open.spotify.com/track/1LMBCAzPddcDx3rwb3LaSp"
+    },
+    {
+      "album": {
+        "name": "\u8e0a\u308a\u5834\u306e\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/0KyhovBbuSDaZckWIuJwEP"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209082,
+      "name": "\u8e0a\u308a\u5834\u306e\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2moXvLn60P2tXJ0iKK6Lia"
     },
     {
       "album": {

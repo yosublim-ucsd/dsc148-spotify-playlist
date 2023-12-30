@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 8147,
+  "num_followers": 8236,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdiNWMxN2FmOGZlOTgxZjljYjk5NDlmMjFkN2M1NWRkZWZiZjFm",
+  "snapshot_id": "MCwyNmJmOTllZmIzZjIzZDc2ZDFmN2FlNzFjNWU5MWM5ZGY1NjU1MTcz",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "Christmastime",
+      "url": "https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "A Very Special Christmas 2",
         "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 272226,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
-        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Christmastime",
-      "url": "https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Love Has Come",
-      "url": "https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 142946,
       "name": "Winterlude",
       "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Love Has Come",
+      "url": "https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Feels Like Christmas",
-        "url": "https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Caroling at Christmas",
         "url": "https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Feels Like Christmas",
+        "url": "https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
-        "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Christmas Cafe",
         "url": "https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 123240,
       "name": "Go Tell It On the Mountain",
       "url": "https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
+        "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK"
     },
     {
       "added_at": "2022-11-28 18:17:33",

@@ -4,7 +4,7 @@
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Peso Pluma, Anitta en portada.
 
-378 songs - 20 hr 13 min
+379 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 | 2023-06-09 | 2023-11-09 |
 | [3 TROKAS](https://open.spotify.com/track/3WDC9FGrNT9TbFJp9gBIbm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:16 | 2023-10-27 |  |
 | [A Dónde Te Me Fuiste \- Versión Banda](https://open.spotify.com/track/0A5CIkxEi0hkLc1tmGRBOX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [A Dónde Te Me Fuiste \(Versión Banda\)](https://open.spotify.com/album/0FjQ9Ope8S4Au9n1zCgZUe) | 3:00 | 2022-03-18 | 2022-08-19 |
-| [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 | 2023-12-01 |  |
+| [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 | 2023-12-01 | 2023-12-30 |
 | [A Tu Nombre](https://open.spotify.com/track/6yoyuFWA5jbxYvLHznscb7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Sólo Muere Si Se Olvida \(Deluxe\)](https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH) | 2:26 | 2023-08-25 | 2023-11-09 |
 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 | 2023-05-19 |  |
 | [Acelerado](https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Acelerado](https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y) | 3:01 | 2023-06-02 | 2023-06-24 |
@@ -307,6 +307,7 @@
 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 | 2022-09-02 |  |
 | [Retroenculado](https://open.spotify.com/track/45szcsK29AbGa8mNeH7PNr) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Retroenculado](https://open.spotify.com/album/4qXwFnWD3wT60dqx32ttpF) | 3:13 | 2023-08-11 | 2023-10-07 |
 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 | 2023-10-06 |  |
+| [Rompe La Dompe](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Rompe La Dompe](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 | 2023-12-29 |  |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-06-23 | 2023-12-16 |
 | [Saco La Paca](https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 2:27 | 2021-12-08 | 2022-06-04 |
 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 | 2023-02-15 | 2023-03-04 |

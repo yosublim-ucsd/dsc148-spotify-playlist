@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15098,
+  "num_followers": 15100,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGI3OGFjMjM5MTM5ODUxZTViMTEwNTJlMDg2YTlmZTk2OTJiYzdh",
+  "snapshot_id": "MCwwOGQ0ZjE1NmMxMTIxOWRjYTg3ZWZjNzYwMjBiMDIyMmMwZDU4ZGUy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "how i remember",
         "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 176626,
       "name": "goodnight",
       "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
+        "name": "\uc785\ucd98 Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
       },
       "artists": [
         {
-          "name": "YERI",
-          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 218523,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
+      "duration_ms": 248407,
+      "name": "\uc785\ucd98 Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "\uc785\ucd98 Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "YERI",
+          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
         }
       ],
-      "duration_ms": 248407,
-      "name": "\uc785\ucd98 Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+      "duration_ms": 218523,
+      "name": "Dear Diary",
+      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Girls Planet 999 - Completion Mission",
-        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
       "artists": [
         {
-          "name": "Girls Planet 999",
-          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
+          "name": "DALDAM",
+          "url": "https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
+      "duration_ms": 223693,
+      "name": "Graduation",
+      "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
-        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+        "name": "Girls Planet 999 - Completion Mission",
+        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
       },
       "artists": [
         {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+          "name": "Girls Planet 999",
+          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
         }
       ],
-      "duration_ms": 262143,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+      "duration_ms": 202866,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

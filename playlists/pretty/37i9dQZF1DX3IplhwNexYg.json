@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Etta Marcus",
-  "num_followers": 114383,
+  "num_followers": 114379,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQwM2EzMDEyYmViNTU0ZGVkY2I3ZjUwMzE2YzU2M2Y0NDkyZjY1",
+  "snapshot_id": "MCw1MGM0NTA0NGVjMDgzM2NmNzFhN2E4YjVmZjE3ZTE5ZTkzOWU1MzQ1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Cuts & Bruises",
+        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Just To Keep You Satisfied",
+      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 322453,
       "name": "Heaven - feat. Damon Albarn",
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Cuts & Bruises",
-        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Just To Keep You Satisfied",
-      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
       },
@@ -615,38 +631,6 @@
       "duration_ms": 191102,
       "name": "Shower Beer",
       "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -683,6 +667,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "I Am The Dog",
+        "url": "https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 148301,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -795,34 +795,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "I Am The Dog",
-        "url": "https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 148301,
-      "name": "Should I",
-      "url": "https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "The Hills",
-        "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 211152,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "The Hills",
+        "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+      "duration_ms": 211152,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -891,22 +875,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Market Street",
-        "url": "https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "Market Street",
-      "url": "https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -923,6 +891,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Follow You Down",
         "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Market Street",
+        "url": "https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "Market Street",
+      "url": "https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Big Red",
-        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "September",
-      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -1079,6 +1047,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Big Red",
+        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Slime",
-        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Lifetime of Wanting",
-        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 184881,
-      "name": "Car Park",
-      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
+        "name": "Lifetime of Wanting",
+        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
         }
       ],
-      "duration_ms": 206667,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
+      "duration_ms": 184881,
+      "name": "Car Park",
+      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 172921,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     }
   ],
   "unique_name": "pulp",

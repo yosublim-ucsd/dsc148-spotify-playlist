@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Karol Conka, Tasha & Tracie
 
-205 songs - 9 hr 43 min
+206 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 | 2022-04-15 | 2023-07-29 |
 | [Carne Preta](https://open.spotify.com/track/3kfsx9AdfRxcAlQJijGCoU) | [Uni\-Ka](https://open.spotify.com/artist/05xZZ8fnfUsUFBod0qYurw), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Carne Preta](https://open.spotify.com/album/0dsLTQo9sGk6pxwCDS0w0b) | 3:54 | 2022-11-18 | 2022-12-13 |
 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 | 2023-04-21 | 2023-04-29 |
-| [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 | 2023-10-13 |  |
+| [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 | 2023-10-13 | 2023-12-30 |
 | [Clichê](https://open.spotify.com/track/2P6d6hmkuYHnwGr9VX4XPH) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Kinn no Beat](https://open.spotify.com/artist/5VIm0axHffBeCmjS1ng14B) | [Clichê](https://open.spotify.com/album/21EDTsmTC6wD7BKbOwE2bP) | 2:29 | 2023-11-03 | 2023-11-18 |
 | [Codinome](https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Codinome](https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM) | 3:29 | 2022-03-11 | 2022-07-05 |
 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 | 2023-04-14 |  |
@@ -186,6 +186,7 @@
 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 | 2023-09-15 | 2023-10-28 |
 | [Sofa, Breja e Netflix](https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:04 | 2022-03-11 | 2023-09-02 |
 | [Sou + As Negras](https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Sou + As Negras](https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg) | 2:41 | 2023-07-28 |  |
+| [Splash](https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Splash](https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM) | 2:48 | 2023-12-29 |  |
 | [Start](https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Cravo & Rosa](https://open.spotify.com/artist/7CZY4fkg3glgemUoc8fOcJ) | [Quartzo](https://open.spotify.com/album/3go0N6khdsiwn2msqeBno6) | 3:16 | 2022-03-11 | 2022-04-16 |
 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 | 2023-07-28 | 2023-08-19 |
 | [Susuave](https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:38 | 2022-03-11 | 2022-08-13 |

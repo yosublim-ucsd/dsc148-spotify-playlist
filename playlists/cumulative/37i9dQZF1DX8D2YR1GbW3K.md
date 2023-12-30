@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-221 songs - 14 hr 56 min
+222 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 | 2021-04-16 | 2022-07-29 |
 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 | 2022-06-09 |  |
 | [No Beef](https://open.spotify.com/track/52Y9VvRfnKjdM0MvAM21cR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/7oQGR9TBbk3m9Nuc2CPR08) | 6:01 | 2022-06-09 | 2023-12-13 |
+| [No Beef](https://open.spotify.com/track/6bmhcZmUgrEBqHg2UIQkcN) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/5aoQ8XJlo0dxVXcRa8XBdw) | 6:01 | 2022-06-09 |  |
 | [No Beef \(feat\. Miss Palmer\) \- Vocal Mix](https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/5YON5Ykgl5BEZBdWsIJeOJ) | 6:01 | 2021-04-16 | 2022-07-29 |
 | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/album/7KJTuTXYSnBGNgAxte3CSg) | 3:27 | 2021-04-16 |  |
 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 | 2022-06-09 |  |
@@ -212,7 +213,7 @@
 | [Unicorn Zombie Apocalypse](https://open.spotify.com/track/4OpPtBlAU2ayk7rS0SyxlM) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Unicorn Zombie Apocalypse](https://open.spotify.com/album/3LiqvEGAApFWzK3wr0jjQ3) | 4:37 | 2022-06-09 | 2023-12-06 |
 | [Virus \(How About Now\)](https://open.spotify.com/track/0W6yJKJW8I04iDT6BsINaL) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/6cMs1rlzNK7VhFI5zXNXID) | 3:18 | 2021-04-16 | 2022-07-29 |
 | [Virus \(How About Now\) \- Radio Edit](https://open.spotify.com/track/6GLzN6o2fkOupy8e1vGzwp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\) \[Radio Edit\]](https://open.spotify.com/album/22GK1YrW3XnIFnhifmv5nZ) | 3:19 | 2022-06-09 |  |
-| [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 | 2022-06-09 |  |
+| [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 | 2022-06-09 | 2023-12-30 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2022-06-09 |  |
 | [Wake Me Up](https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:07 | 2021-04-16 | 2022-06-21 |
 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/7ohELklQUOzAGL7oLqllGL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Happy Spring Tunes](https://open.spotify.com/album/3BzODEQtbSQ8JVQ3HlgFnd) | 4:06 | 2022-06-09 | 2022-11-13 |

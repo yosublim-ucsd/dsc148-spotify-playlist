@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,169 likes - 214 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,218 likes - 214 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 25 | [Chipko Chipko](https://open.spotify.com/track/5gb8dgCs51czhdLZoW4f3z) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf) | [Hari Om](https://open.spotify.com/album/1xOaTdQxCFrdMBRbOPBSlf) | 6:17 |
 | 26 | [Baile Muerto](https://open.spotify.com/track/0IeewVx7uIroZcDnMfcnia) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ) | [Baile Muerto](https://open.spotify.com/album/7eRHITh0WIDlTqOyo04avl) | 6:07 |
 | 27 | [Brasil](https://open.spotify.com/track/5XMAHXFGaUmvvuYOuQ3BbU) | [Local Product](https://open.spotify.com/artist/6n9hv2JATztw9GPdH69Nf3) | [Dolores del Río Remixes](https://open.spotify.com/album/6oSGusl0T786HFhbh9XNVs) | 6:54 |
-| 28 | [Right On \- Art of Tones Remix](https://open.spotify.com/track/1FD5ZYHOIkSg2ssMr5f7eK) | [Pete Maxey](https://open.spotify.com/artist/32OiiJCPHcKkXZnwJNHCFq), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [XPRESS Remixes, Vol\. 1](https://open.spotify.com/album/5e88pYlZnBq40mnhaCXAdW) | 5:05 |
+| 28 | [Right On \- Art of Tones Remix](https://open.spotify.com/track/52WX6k2ycQOfGHNq7wFXE0) | [Pete Maxey](https://open.spotify.com/artist/32OiiJCPHcKkXZnwJNHCFq), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [XPRESS Remixes, Vol\. 1](https://open.spotify.com/album/4y06UGWAynTGD8DGLaLKt0) | 5:05 |
 | 29 | [Judge Not \- Ray Mang Special Mix](https://open.spotify.com/track/2YHJzj4F8WR7mJRum9ufvz) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 7:57 |
 | 30 | [Primavera \- Myd Remix](https://open.spotify.com/track/2yeNdErWn3QjCJqm9t517e) | [Paula](https://open.spotify.com/artist/7dObeNbliahZIYMYDZj8Dt), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Primavera \(Myd Remix\)](https://open.spotify.com/album/5QRZJDMvNgvWfr36laiUUH) | 5:18 |
 | 31 | [Bulbocavernosa](https://open.spotify.com/track/2lHc3P6k5rRFIOmR1zewPt) | [Malin Genie](https://open.spotify.com/artist/2JOHMPfKqG3Z1C9PVc6pte) | [Mer Neith It Es](https://open.spotify.com/album/2P0UGUf8S5Ltn48jZ477dC) | 5:44 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 213 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 |
 | 214 | [Attempt \(Lonely Heart Dub\)](https://open.spotify.com/track/4xJqdf9Rw8qY1arT8TgRSH) | [DJ Sprinkles](https://open.spotify.com/artist/6gIziDS7BnUum54F30BcHN), [Hardrock Striker](https://open.spotify.com/artist/078bFs8No6twUaZs5a3aiv), [Signal St](https://open.spotify.com/artist/7taRwtyxVeU61CRvEuMrNZ) | [Skylax House Explosion](https://open.spotify.com/album/1Xquo86HvysJ2DdIxQnRUB) | 6:54 |
 
-Snapshot ID: `MCxkNjNkMjkwY2JmYTA1OWJhOTY5M2QxYjk4Y2E5Mzg3ZmQxNTEwZGFj`
+Snapshot ID: `MCxjY2M4MGQyYmM3YjdlNWRmNTkyYzIyMmNjZDg5OWUzNDUyNTAyZTVi`

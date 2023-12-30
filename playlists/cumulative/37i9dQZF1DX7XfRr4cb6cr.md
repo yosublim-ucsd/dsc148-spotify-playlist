@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-258 songs - 21 hr 26 min
+259 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Greener](https://open.spotify.com/track/603qsBFMCGXburZt057Wv3) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 1:43 | 2022-01-21 | 2023-09-24 |
 | [Guide](https://open.spotify.com/track/2CTG1DKBy6RkWtgW0uPzBt) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Guide](https://open.spotify.com/album/0zcGMU5feKA3euuyHVoBwH) | 5:14 | 2022-03-25 | 2022-07-27 |
 | [Headflush](https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 4:51 | 2022-01-21 | 2022-07-29 |
+| [Himmelskib](https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Himmelskib](https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG) | 3:55 | 2023-12-01 |  |
 | [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 | 2022-07-29 |
 | [hoffnungslos](https://open.spotify.com/track/5MhMBqo6XXhgEqPaj4lg7G) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [hoffnungslos](https://open.spotify.com/album/4VXvX0ustBlGvyZ9wpp1Jj) | 2:56 | 2023-08-25 |  |
 | [Homa](https://open.spotify.com/track/1hCyLVZYTG3GjBTXEFdawT) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja) | [Homa](https://open.spotify.com/album/6u9jVwEsvyq612WbntzIwV) | 3:16 | 2023-03-10 |  |
@@ -148,7 +149,7 @@
 | [nibiru](https://open.spotify.com/track/4xnrbHfN3vwRhLBuLqO1OK) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [nibiru](https://open.spotify.com/album/1aZruFKCFVcIFqmqqdQbvc) | 3:39 | 2022-07-22 |  |
 | [Night Walk](https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 4:43 | 2022-07-22 |  |
 | [Nighthawks \[Mixed\] \- Early Demo](https://open.spotify.com/track/4BdAYw8Hzi8qXjOBcxlgEn) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Brutal Five To One Mix V2](https://open.spotify.com/album/37S47FbvkHq8CyzuYo4SlZ) | 3:36 | 2022-08-05 | 2023-04-25 |
-| [Nimmermeer](https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 4:03 | 2023-10-06 |  |
+| [Nimmermeer](https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 4:03 | 2023-10-06 | 2023-12-30 |
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |

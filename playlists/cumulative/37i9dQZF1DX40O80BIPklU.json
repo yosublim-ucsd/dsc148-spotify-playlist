@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 181395,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7JDIPgGybOZ8gPS81i0Ho6"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 206602,
       "name": "Mi Fucking Vida Loca",
       "url": "https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185624,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/5BKObDBIwXjmdMZY4HFmsa"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140523,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/4dovzpehTgRhQjLfmOTGKE"
+    },
+    {
+      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/09T8DBQY3aDVDLgWckmNxb"
       },
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 185684,
       "name": "PASAR EL ROLO",
       "url": "https://open.spotify.com/track/0TFQ7UThwlokHls2vxTxb2"
@@ -4407,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/1keKJGvVPCviy8Qnew6E9L"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "AEME",
+          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175545,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/2VmB41K7wLAqzUoE5tXTX0"
+    },
+    {
+      "album": {
         "name": "Problem\u00e1tico",
         "url": "https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc"
       },
@@ -4598,6 +4638,44 @@
       "duration_ms": 105093,
       "name": "Real (Freestyle)",
       "url": "https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG"
+    },
+    {
+      "album": {
+        "name": "Trascendencia (Lado A)",
+        "url": "https://open.spotify.com/album/4HD3UJ6N9kq66xuttqrW4e"
+      },
+      "artists": [
+        {
+          "name": "Hip Hop Venezolano",
+          "url": "https://open.spotify.com/artist/2pT1e0myb5i98HTpnLXX6A"
+        },
+        {
+          "name": "Radio Maco\u00f1a",
+          "url": "https://open.spotify.com/artist/6CCH23nnQAl2HgJQpsvJ3e"
+        },
+        {
+          "name": "Jointer",
+          "url": "https://open.spotify.com/artist/52A5MGEDcaaGX8sryGloEc"
+        },
+        {
+          "name": "IceOD",
+          "url": "https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B"
+        },
+        {
+          "name": "GATO GARC\u00cdA",
+          "url": "https://open.spotify.com/artist/4bnvbwGLz789ZjXnzKiJ5Y"
+        },
+        {
+          "name": "Zerouno csz",
+          "url": "https://open.spotify.com/artist/1YOkmVxPJd5xM24YdRa3DU"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216008,
+      "name": "Recuerden",
+      "url": "https://open.spotify.com/track/4bnUnhYQNux2wg8sULSBWZ"
     },
     {
       "album": {
@@ -5470,6 +5548,24 @@
       "duration_ms": 108266,
       "name": "Tocando Tierra",
       "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "album": {
+        "name": "Todo Melo?",
+        "url": "https://open.spotify.com/album/0quzGXK6lB9QoYdppi19Hm"
+      },
+      "artists": [
+        {
+          "name": "ZetaZeta",
+          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176582,
+      "name": "Todo Melo?",
+      "url": "https://open.spotify.com/track/4iFX0rlWQstVyQW3aqfG5e"
     },
     {
       "album": {

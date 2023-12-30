@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
-83 songs - 4 hr 10 min
+84 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bijoux](https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Bijoux](https://open.spotify.com/album/5u6lSDCLRY04TFacwR6fkI) | 3:05 | 2023-11-09 |  |
 | [Boyfriend \- Acoustic](https://open.spotify.com/track/2ENr7qlJCeQee8S37EXAyQ) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Boyfriend \- Acoustic](https://open.spotify.com/album/4AJzUPRChFSksbTbzYND1x) | 2:16 | 2023-11-09 |  |
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-09-28 |  |
+| [C'est Quoi L'Amour \(Bonus Track\)](https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh) | [PabloSantana](https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth) | [C'est Quoi L'Amour](https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj) | 1:05 | 2023-12-28 |  |
 | [Ce que tu m'as fait](https://open.spotify.com/track/6Sc1mL3Bie74NTiu6JTyb3) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Ce que tu m'as fait](https://open.spotify.com/album/5V8dJ9scc4SX0nJ9o32kBW) | 3:03 | 2023-09-28 |  |
 | [Chéri](https://open.spotify.com/track/22f7A8gSa2P5TK8lWlNU0Q) | [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w), [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh), [La Place](https://open.spotify.com/artist/74FkYQfvkB8WQ3yPnLThJj) | [Des perles et des cendres](https://open.spotify.com/album/43qUSB8OWn8A3R9IbCYSyb) | 2:51 | 2023-09-28 |  |
 | [Cigarette après l'amour](https://open.spotify.com/track/43G27zY6jl4NF0Kv5AyvAq) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y) | [RIDEORDIE](https://open.spotify.com/album/10ZhJjjrztWurXHcWVTZj1) | 3:03 | 2023-09-28 | 2023-12-15 |
@@ -73,7 +74,7 @@
 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 | 2023-12-08 |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 | 2023-11-17 |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 | 2023-11-10 |
-| [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 |  |
+| [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 | 2023-12-30 |
 | [Say my name](https://open.spotify.com/track/13IWwumPWR4yxibM1ILGen) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:51 | 2023-09-28 | 2023-12-15 |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 |  |
 | [Sois Pas Pressé](https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 2:45 | 2023-11-16 |  |

@@ -1,18 +1,18 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 98690,
+  "num_followers": 98775,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTJiMjkxN2IwZDZiZjQwNTI1Y2EzMTM4ODE0NDNiZmEzMDU2MGVm",
+  "snapshot_id": "MCw4ODlhODFhZmNiZjY2ZWI1OTNiY2Q3ZDdlMmY3NmNhNDUwN2FhNDFh",
   "tracks": [
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2023-12-28 20:01:04",
       "album": {
-        "name": "Oao",
-        "url": "https://open.spotify.com/album/6MDmalA7IwQunst4DzzvKn"
+        "name": "Tuwi Tuwi",
+        "url": "https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         },
         {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
         }
       ],
-      "duration_ms": 150991,
-      "name": "Oao",
-      "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
+      "duration_ms": 135230,
+      "name": "Tuwi Tuwi",
+      "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -47,8 +47,8 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "50%",
-        "url": "https://open.spotify.com/album/1wc4u6hV4HFt54v4O3RN3i"
+        "name": "GLOCK CREMA",
+        "url": "https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8"
       },
       "artists": [
         {
@@ -56,9 +56,89 @@
           "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
         }
       ],
-      "duration_ms": 131447,
-      "name": "50%",
-      "url": "https://open.spotify.com/track/7CAEnfe0GMPaNRcEYuS6ql"
+      "duration_ms": 177015,
+      "name": "GLOCK CREMA",
+      "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "No Hay Recreo",
+        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 118168,
+      "name": "No Hay Recreo",
+      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "No Somo Hermano",
+        "url": "https://open.spotify.com/album/3G2TWdoZqeCdfFvpiIsow5"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "duration_ms": 131875,
+      "name": "No Somo Hermano",
+      "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "TATARA (Doble Tono)",
+        "url": "https://open.spotify.com/album/4ANbbh2p06CrVXJ4aOAeYk"
+      },
+      "artists": [
+        {
+          "name": "Tauro.9",
+          "url": "https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl"
+        },
+        {
+          "name": "PAPERA",
+          "url": "https://open.spotify.com/artist/7FsGgNxFo8Jgzq1yd8PdCu"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/4KD723RoA4fqV5unhggGcm"
+        },
+        {
+          "name": "Alex Rosario",
+          "url": "https://open.spotify.com/artist/7i6e0PqugANugfNzT1oco8"
+        }
+      ],
+      "duration_ms": 153580,
+      "name": "TATARA (Doble Tono)",
+      "url": "https://open.spotify.com/track/18KxZxrU3LbCz3Yo9mmlA8"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "Flow Sexy",
+        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Flow Sexy",
+      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -83,26 +163,22 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "To To To",
-        "url": "https://open.spotify.com/album/37uTGkLPHDKE03FS4UVy9k"
+        "name": "Oao",
+        "url": "https://open.spotify.com/album/6MDmalA7IwQunst4DzzvKn"
       },
       "artists": [
         {
-          "name": "Wander Love",
-          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         },
         {
-          "name": "Carter Films",
-          "url": "https://open.spotify.com/artist/6ujE5g0KECUVJ8g4pJZ3aG"
-        },
-        {
-          "name": "Viticrow Scharboy",
-          "url": "https://open.spotify.com/artist/4nykco97GwhTDvY5ddqFVA"
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
         }
       ],
-      "duration_ms": 103680,
-      "name": "To To To",
-      "url": "https://open.spotify.com/track/54GrAIs0EfS94KsyjPkvsM"
+      "duration_ms": 150991,
+      "name": "Oao",
+      "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -119,22 +195,6 @@
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "No Hay Recreo",
-        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 118168,
-      "name": "No Hay Recreo",
-      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -207,18 +267,42 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "No Somo Hermano",
-        "url": "https://open.spotify.com/album/3G2TWdoZqeCdfFvpiIsow5"
+        "name": "Los Codigo",
+        "url": "https://open.spotify.com/album/6MsB5OYY0h1Rk3e8uoKnEm"
       },
       "artists": [
         {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+          "name": "Tauro.9",
+          "url": "https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl"
+        },
+        {
+          "name": "el r artista",
+          "url": "https://open.spotify.com/artist/6TQTc6qxOm727MMI2r77RL"
+        },
+        {
+          "name": "Pablo Piddy",
+          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
         }
       ],
-      "duration_ms": 131875,
-      "name": "No Somo Hermano",
-      "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
+      "duration_ms": 128636,
+      "name": "Los Codigo",
+      "url": "https://open.spotify.com/track/3r9WUiFHPznpzDlKybAtWP"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "50%",
+        "url": "https://open.spotify.com/album/1wc4u6hV4HFt54v4O3RN3i"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 131447,
+      "name": "50%",
+      "url": "https://open.spotify.com/track/7CAEnfe0GMPaNRcEYuS6ql"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -299,6 +383,30 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
+        "name": "To To To",
+        "url": "https://open.spotify.com/album/37uTGkLPHDKE03FS4UVy9k"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Carter Films",
+          "url": "https://open.spotify.com/artist/6ujE5g0KECUVJ8g4pJZ3aG"
+        },
+        {
+          "name": "Viticrow Scharboy",
+          "url": "https://open.spotify.com/artist/4nykco97GwhTDvY5ddqFVA"
+        }
+      ],
+      "duration_ms": 103680,
+      "name": "To To To",
+      "url": "https://open.spotify.com/track/54GrAIs0EfS94KsyjPkvsM"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
         "name": "Frename",
         "url": "https://open.spotify.com/album/5Qhkf8ehbg6osJ9SLFu4lQ"
       },
@@ -331,26 +439,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Flow Sexy",
-        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Flow Sexy",
-      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Ay Ombe (Remix)",
         "url": "https://open.spotify.com/album/2uhQuEnZPm9Sai5yyOPZQs"
       },
@@ -375,30 +463,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Los Codigo",
-        "url": "https://open.spotify.com/album/6MsB5OYY0h1Rk3e8uoKnEm"
-      },
-      "artists": [
-        {
-          "name": "Tauro.9",
-          "url": "https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl"
-        },
-        {
-          "name": "el r artista",
-          "url": "https://open.spotify.com/artist/6TQTc6qxOm727MMI2r77RL"
-        },
-        {
-          "name": "Pablo Piddy",
-          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
-        }
-      ],
-      "duration_ms": 128636,
-      "name": "Los Codigo",
-      "url": "https://open.spotify.com/track/3r9WUiFHPznpzDlKybAtWP"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "No Te Pue Quilla",
         "url": "https://open.spotify.com/album/1YbcGiEBO3Vs316kabTG0A"
       },
@@ -415,22 +479,6 @@
       "duration_ms": 143622,
       "name": "No Te Pue Quilla",
       "url": "https://open.spotify.com/track/7z7UiZNczRd5UHGXoSSbXC"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "GLOCK CREMA",
-        "url": "https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "GLOCK CREMA",
-      "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -891,34 +939,6 @@
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "TATARA (Doble Tono)",
-        "url": "https://open.spotify.com/album/4ANbbh2p06CrVXJ4aOAeYk"
-      },
-      "artists": [
-        {
-          "name": "Tauro.9",
-          "url": "https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl"
-        },
-        {
-          "name": "PAPERA",
-          "url": "https://open.spotify.com/artist/7FsGgNxFo8Jgzq1yd8PdCu"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/4KD723RoA4fqV5unhggGcm"
-        },
-        {
-          "name": "Alex Rosario",
-          "url": "https://open.spotify.com/artist/7i6e0PqugANugfNzT1oco8"
-        }
-      ],
-      "duration_ms": 153580,
-      "name": "TATARA (Doble Tono)",
-      "url": "https://open.spotify.com/track/18KxZxrU3LbCz3Yo9mmlA8"
     },
     {
       "added_at": "2023-12-22 05:09:41",

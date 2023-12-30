@@ -4,7 +4,7 @@
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-71 songs - 7 hr 12 min
+72 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Already Won \- Live](https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Already Won \(Live\)](https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB) | 3:31 | 2021-06-12 | 2022-09-06 |
 | [As We Worship](https://open.spotify.com/track/3H2hXLAKhnlxzXNniGj32Y) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx) | 4:52 | 2021-06-12 | 2022-07-24 |
 | [As We Worship](https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 4:52 | 2021-06-12 | 2023-12-24 |
+| [As We Worship](https://open.spotify.com/track/6yORqP4FcmePh187fTnLsz) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8) | 4:52 | 2023-02-18 |  |
 | [Because Of Who You Are](https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb) | [Vicki Yohe](https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7) | [I Just Want You](https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf) | 5:18 | 2021-06-12 |  |
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2021-06-12 |  |
 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 | 2021-06-12 |  |
@@ -45,7 +46,7 @@
 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 | 2021-06-12 |  |
 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 | 2021-06-12 |  |
 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 | 2021-06-12 | 2023-12-23 |
-| [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl) | 4:09 | 2023-02-18 |  |
+| [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl) | 4:09 | 2023-02-18 | 2023-12-30 |
 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi) | 4:09 | 2021-06-12 | 2022-07-29 |
 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 6:42 | 2023-02-18 |  |
 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 6:42 | 2021-06-12 | 2023-12-24 |

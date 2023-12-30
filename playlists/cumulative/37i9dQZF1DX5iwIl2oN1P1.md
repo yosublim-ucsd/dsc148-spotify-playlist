@@ -4,7 +4,7 @@
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-100 songs - 9 hr 2 min
+102 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,14 +72,15 @@
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F) | 4:33 | 2020-06-03 | 2022-11-13 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2020-06-03 | 2022-07-29 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 | 2020-06-03 | 2023-12-24 |
+| [Not Lucky, I'm Loved](https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 6:48 | 2020-06-03 |  |
 | [One More Time](https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Zacardi Cortez](https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo) | 4:19 | 2020-06-03 |  |
 | [Open Door \(See You Later\)](https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Open Door \(See You Later\)](https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M) | 4:15 | 2020-06-03 |  |
 | [Praise on the Inside](https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 3:43 | 2020-06-03 |  |
 | [Put It On The Altar](https://open.spotify.com/track/1no67NVun0BIparrhLtPM6) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq) | 4:06 | 2020-06-03 | 2023-12-23 |
 | [Put It On The Altar](https://open.spotify.com/track/2QVjnEpvbSeVhs1QZfwDOf) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/4XITBa16CcVUe8klCUpjNV) | 4:06 | 2020-06-03 |  |
 | [Put It On The Altar](https://open.spotify.com/track/5id5AfCgYwoDU31iI1DhnY) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/1ZeukTlWIMTrFqENesOwP6) | 4:06 | 2020-06-03 | 2022-07-29 |
-| [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/3hBX1H7oOtqEQxXQrZlwlC) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/album/4B56i2uwAyplbzR4UBi4gA) | 3:19 | 2020-06-03 |  |
-| [See You Again](https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Back to Life](https://open.spotify.com/album/5EdIm9Nll2F2GIvv9pojFV) | 5:24 | 2020-06-03 |  |
+| [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/3hBX1H7oOtqEQxXQrZlwlC) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/album/4B56i2uwAyplbzR4UBi4gA) | 3:19 | 2020-06-03 | 2023-12-30 |
+| [See You Again](https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Back to Life](https://open.spotify.com/album/5EdIm9Nll2F2GIvv9pojFV) | 5:24 | 2020-06-03 | 2023-12-30 |
 | [Speechless](https://open.spotify.com/track/50CnlEH8KWLVNPxi29dnwb) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/7czy5VoDEF3LejpGK8Ia0o) | 6:16 | 2020-06-03 | 2022-07-29 |
 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 | 2020-06-03 |  |
 | [Step in the Name \(Radio Edit\)](https://open.spotify.com/track/3XmMK2QKPLxsbS5PuPa956) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [Step in the Name \(Radio Edit\)](https://open.spotify.com/album/4CZWedw98rtQPonHp3LnjU) | 4:33 | 2020-06-03 | 2023-12-25 |
@@ -97,6 +98,7 @@
 | [You](https://open.spotify.com/track/07l6dBNEcArYKT1huIzCmV) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/3W32276wtqwXOjcWYVfNr1) | 5:45 | 2020-06-03 | 2022-07-29 |
 | [You](https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF) | 5:45 | 2020-06-03 |  |
 | [You](https://open.spotify.com/track/2xqV3tpyqZykQEHahqky6C) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/5Lr0d19Xug6mIxaUCB7cG1) | 5:45 | 2020-06-03 | 2022-08-05 |
+| [You Are God Alone](https://open.spotify.com/track/0Uuao6IKpjHildJW1ozIcE) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf) | 7:14 | 2020-06-03 |  |
 | [You Are God Alone](https://open.spotify.com/track/1f0ULNih5OLKZk6wcLnoVx) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/6m9aq6tIHDiyYwSeYWHfbr) | 7:14 | 2020-06-03 | 2022-07-28 |
 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 | 2020-06-03 | 2023-12-24 |
 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 | 2020-06-03 |  |

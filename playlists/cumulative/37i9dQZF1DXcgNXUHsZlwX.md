@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-441 songs - 1 day 2 hr 20 min
+442 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [L'Amérique pleure](https://open.spotify.com/track/3WogGiNpaOmYcPwqslBgZG) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les antipodes](https://open.spotify.com/album/4qgXTXuXo5GUbh1YbEF0eS) | 4:43 | 2021-01-03\* | 2021-05-28 |
 | [L'astronaute](https://open.spotify.com/track/1Tb15nJ6x06nh6S2p6n1k1) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/3yLlXDAx1AuwUjL9GnL1ad) | 5:06 | 2021-01-03\* | 2022-01-29 |
 | [L'eau vive](https://open.spotify.com/track/5LIEYSV0w4kg0VYQFJCuCf) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/4lhSuncMrM8ojDRyvrITsL) | 4:01 | 2021-01-03\* | 2022-07-29 |
+| [L'eau vive](https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0) | 4:01 | 2023-12-15 |  |
 | [L'hiver en espoir](https://open.spotify.com/track/5QTWxF0vCzFuggJACa0TzH) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP1](https://open.spotify.com/album/5yJDbcgy6p2sBqhTAsVpGK) | 2:49 | 2021-01-03\* | 2021-01-23 |
 | [L'impasse](https://open.spotify.com/track/1zXz9HAxMVvqnVRED2PQXy) | [Moran](https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm) | [L'impasse](https://open.spotify.com/album/2pQ4KWozkrWLmCXFeJJWJf) | 4:02 | 2022-04-15 | 2023-10-06 |
 | [L'oeil de la tempête](https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [L'oeil de la tempête](https://open.spotify.com/album/1G3KTeszRhkqwK5oK4QVZ8) | 3:34 | 2022-05-20 | 2022-07-19 |
@@ -412,7 +413,7 @@
 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 | 2022-04-15 |  |
 | [Tu danses, condessa](https://open.spotify.com/track/7KlRs6CShYQHqtejWyHYmZ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Tu danses, condessa](https://open.spotify.com/album/1YTdXEYY0Hrx4v4OBY92cj) | 3:17 | 2022-02-11 | 2022-04-13 |
 | [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 4:13 | 2021-01-15 | 2021-11-13 |
-| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 |  |
+| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 | 2023-12-30 |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-10-11 |

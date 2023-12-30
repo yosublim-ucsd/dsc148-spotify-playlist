@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "All of the newest country music releases in one playlist! Featuring Midland, Waylon Wyatt, Taylor Edwards and more.",
+  "description": "All of the newest country music releases in one playlist! Featuring Corey Kent, Wyatt Flores, Midland and more.",
   "name": "New Music Friday Country",
   "tracks": [
     {
@@ -12487,6 +12487,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof (Acoustic)",
+        "url": "https://open.spotify.com/album/0f5yzVuRv2aRpPL6BgRHo0"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Bulletproof - Acoustic",
+      "url": "https://open.spotify.com/track/46utfSwxVe9EJOKpBuwqgR"
+    },
+    {
+      "album": {
         "name": "Burden in My Hand",
         "url": "https://open.spotify.com/album/5KihUktwC1S20TDmU9Dems"
       },
@@ -23252,6 +23270,24 @@
       "duration_ms": 205034,
       "name": "Don't Talk to Me Like That",
       "url": "https://open.spotify.com/track/2XxQPNteONGedd1EVhoVxB"
+    },
+    {
+      "album": {
+        "name": "'23",
+        "url": "https://open.spotify.com/album/7xlgfA4BqOu3SDWqaJF6i6"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Don't Tell Her I Told You",
+      "url": "https://open.spotify.com/track/6w7SfFq7SIwI3vCD0dY2VF"
     },
     {
       "album": {
@@ -40341,6 +40377,24 @@
     },
     {
       "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re"
+    },
+    {
+      "album": {
         "name": "How We Say Goodbye",
         "url": "https://open.spotify.com/album/3jIvBZ5AIhu9ySSqNAfmBm"
       },
@@ -41164,6 +41218,28 @@
       "duration_ms": 163600,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
+        "name": "I Can Feel It (VAVO Remix)",
+        "url": "https://open.spotify.com/album/1Wm3T2shJsILJjd5S3G6nN"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "I Can Feel It - VAVO Remix",
+      "url": "https://open.spotify.com/track/1lvILjcPM1uxURvBLZzucr"
     },
     {
       "album": {
@@ -43734,6 +43810,24 @@
       "duration_ms": 189678,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/1gy2MIhGkg1uDeNOM0gQqY"
+    },
+    {
+      "album": {
+        "name": "I'll Go First",
+        "url": "https://open.spotify.com/album/0cXaIcB3EwqXM88ECWceuq"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown",
+          "url": "https://open.spotify.com/artist/6cpT40sKg2vCnQsHDLxrxk"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209417,
+      "name": "I'll Go First",
+      "url": "https://open.spotify.com/track/2GLX1JYypSG2Ty05rlbR2l"
     },
     {
       "album": {
@@ -65847,6 +65941,24 @@
     },
     {
       "album": {
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/7k8LFyftTrnv5iPS8TIp4x"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228810,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/0ukC077AgiXOp7Q7BwV8s7"
+    },
+    {
+      "album": {
         "name": "Pank Drank",
         "url": "https://open.spotify.com/album/1lOFGH7IXqUDRgfLmZvXbU"
       },
@@ -77070,6 +77182,24 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "album": {
+        "name": "One Take Jake: Acoustic Sessions",
+        "url": "https://open.spotify.com/album/0ITCVwzV51Tb7e2mtb2Qp1"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262916,
+      "name": "Something In The Orange - Acoustic",
+      "url": "https://open.spotify.com/track/1kuEJlN2SWZwsO0Cuoe7LI"
     },
     {
       "album": {
@@ -88801,6 +88931,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow Will Be Kinder",
+        "url": "https://open.spotify.com/album/432lnMWJDcXx6WrJkRSyLW"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233008,
+      "name": "Tomorrow Will Be Kinder",
+      "url": "https://open.spotify.com/track/0GxfnOWRl03D81qpnflR8g"
+    },
+    {
+      "album": {
         "name": "Tonight I Need You",
         "url": "https://open.spotify.com/album/2SMMppv2SGJ3CrieT2N0oz"
       },
@@ -95368,6 +95516,24 @@
       "duration_ms": 176818,
       "name": "Whiskey On It - Acoustic",
       "url": "https://open.spotify.com/track/5hoVIypV0eCZolk6AyOhS8"
+    },
+    {
+      "album": {
+        "name": "WHISKEY ON THE CEILING",
+        "url": "https://open.spotify.com/album/3Gt6MsMwNYP9BnLFVHzIEr"
+      },
+      "artists": [
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "WHISKEY ON THE CEILING",
+      "url": "https://open.spotify.com/track/7mmjkHC0r8cmdH3k5qOLy2"
     },
     {
       "album": {

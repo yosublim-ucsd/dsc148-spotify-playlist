@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-143 songs - 8 hr 13 min
+144 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Magero](https://open.spotify.com/track/5rNTxEppHhdE3eW2FiUZxc) | [Wake](https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn), [Pyrate](https://open.spotify.com/artist/2EMTvvbgzYWEN6NIihMnr4) | [Mwana Weika on the Track, Yo! \(MWOTTY\)](https://open.spotify.com/album/3JzYMICgm13vm77SPGTKzt) | 3:05 | 2023-01-20 |  |
 | [Make a milly/COI \(Freestyle\)](https://open.spotify.com/track/5Jh2CPPvoubRAvQ1aOi4Tx) | [Kingstarr](https://open.spotify.com/artist/1KV42JP9uZIRbBoGkkito5), [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa), [LegacyMusic](https://open.spotify.com/artist/4DkQkCnFYQRmTX7Iw1pyIe) | [Make a milly/COI \(Freestyle\)](https://open.spotify.com/album/6lN3iO1A2qVtafPVNjJVB4) | 5:04 | 2023-07-13 |  |
 | [Make Dat Money](https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/7u7QCwz0TXUGafOMWB8OGe) | 3:42 | 2022-09-08 |  |
-| [Mandela Effect](https://open.spotify.com/track/5n8KYQfXbZI28b1dZEv3y1) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [Mandela Effect](https://open.spotify.com/album/5zmclbxfppW8ztaPHcXDak) | 2:50 | 2022-09-08 |  |
+| [Mandela Effect](https://open.spotify.com/track/47CEewp6ispwIepDYM2p7R) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [High Thoughts Chapter II \(Chronicles Of The Problematic Child\)](https://open.spotify.com/album/0oWJjUQdCenIybR48NSesC) | 2:50 | 2023-09-11 |  |
+| [Mandela Effect](https://open.spotify.com/track/5n8KYQfXbZI28b1dZEv3y1) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [TimTonne](https://open.spotify.com/artist/5AnewAHWpqtev6lg7MGOPA) | [Mandela Effect](https://open.spotify.com/album/5zmclbxfppW8ztaPHcXDak) | 2:50 | 2022-09-08 | 2023-12-30 |
 | [MBALE CITY](https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH) | [MBALE CITY](https://open.spotify.com/album/1EH3Wi6xkujGtZus3VEcHq) | 4:39 | 2022-09-08 | 2022-10-15 |
 | [Mbikwasagwe](https://open.spotify.com/track/5IsmeQCW1TTQe8y59prt7R) | [Flex D'paper](https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek) | [KAMPALA BOY](https://open.spotify.com/album/4RnSrtRunydg3GgFg4Xpvm) | 2:41 | 2023-09-01 | 2023-09-12 |
 | [Miniboss](https://open.spotify.com/track/65oBaIpOVZXMeeLAH1MZtU) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Miniboss](https://open.spotify.com/album/4MTYeWaHWKvawDznM65IyG) | 2:58 | 2023-03-31 |  |

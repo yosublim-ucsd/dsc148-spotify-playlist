@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion, fissa & good vibes! Cover: Wizkid",
+  "description": "Motion & good vibes! Cover: Alessio",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -4880,7 +4880,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 162818,
       "name": "Down",
       "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 142800,
       "name": "El 7ob Sa3b",
       "url": "https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 129600,
       "name": "Free",
       "url": "https://open.spotify.com/track/5oxqtbOcGrtngCmVBKO50i"
@@ -9151,6 +9151,24 @@
     },
     {
       "album": {
+        "name": "Link Up",
+        "url": "https://open.spotify.com/album/3qztsceuv5m8axYSHZVspa"
+      },
+      "artists": [
+        {
+          "name": "JR Kenna",
+          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Link Up",
+      "url": "https://open.spotify.com/track/6877NVcYPCU8sPwbcnqNWJ"
+    },
+    {
+      "album": {
         "name": "Links, Rechts",
         "url": "https://open.spotify.com/album/6RZ7PRYKm3OLWhX1rRc8Jp"
       },
@@ -9272,6 +9290,24 @@
       "duration_ms": 140606,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/4CqK0YoxK7GZRRoQZ6w8oD"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2siYbvyK2oQlwF3doNBmts"
+      },
+      "artists": [
+        {
+          "name": "Tur-G",
+          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82064,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/27GLozlAgrobCCEYSl8pqh"
     },
     {
       "album": {
@@ -13443,6 +13479,24 @@
     },
     {
       "album": {
+        "name": "Rare flex",
+        "url": "https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj"
+      },
+      "artists": [
+        {
+          "name": "Cherr",
+          "url": "https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108342,
+      "name": "Rare flex",
+      "url": "https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ"
+    },
+    {
+      "album": {
         "name": "RARRii",
         "url": "https://open.spotify.com/album/280clOshxkGrR1Litdyu7u"
       },
@@ -15729,6 +15783,40 @@
     },
     {
       "album": {
+        "name": "That's A Lie",
+        "url": "https://open.spotify.com/album/7n8ZIjeMZitonEa1skRmjC"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165696,
+      "name": "That's A Lie",
+      "url": "https://open.spotify.com/track/47YMU7asK6HPPTLB8ctVbZ"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2rGjEQT6cFiefWaz6690Sd"
       },
@@ -16579,6 +16667,24 @@
     },
     {
       "album": {
+        "name": "UNANIPA NAKUPA",
+        "url": "https://open.spotify.com/album/6FyTIRkj3C3jJWoB5e7H7n"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174947,
+      "name": "UNANIPA NAKUPA",
+      "url": "https://open.spotify.com/track/14q2peNbniJinuimWvnsZ0"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -16624,7 +16730,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 172035,
       "name": "UNAVAILABLE (feat. Musa Keys) - Sean Paul & DING DONG Remix",
       "url": "https://open.spotify.com/track/5GnJOehiE3mjrEBK1rNXqo"
@@ -17238,7 +17344,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-30",
       "duration_ms": 137277,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"

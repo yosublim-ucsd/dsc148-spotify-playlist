@@ -1,15 +1,15 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 191432,
+  "num_followers": 191683,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzOTMxNTcsMDAwMDAwMDAwMmZiZjVkN2U3OGFjYzZkNzk1YzcxMWMwM2IwNWViYw==",
+  "snapshot_id": "MjgzOTc1MTAsMDAwMDAwMDA1MmQzMTQ1NTFkMGIwYWU0YmIxNzBhZWI4NGJjMjRhMw==",
   "tracks": [
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
@@ -77,10 +77,10 @@
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
       "artists": [
         {
@@ -88,12 +88,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+      "duration_ms": 169373,
+      "name": "El Asesino",
+      "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -129,10 +129,10 @@
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
       "artists": [
         {
@@ -140,12 +140,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 169373,
-      "name": "El Asesino",
-      "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1OtStUZIjQB3K14DbQKwcl"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
@@ -209,55 +209,7 @@
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
-      "album": {
-        "name": "4 Decadas 20 Corridos",
-        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 164520,
-      "name": "Polvo Maldito",
-      "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
-    },
-    {
-      "added_at": "2023-12-26 11:17:58",
-      "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Dos Coronas a Mi Madre",
-      "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
-    },
-    {
-      "added_at": "2023-12-26 11:17:58",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
-    },
-    {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -277,10 +229,10 @@
       "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
       },
       "artists": [
         {
@@ -288,15 +240,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+      "duration_ms": 146853,
+      "name": "Dos Coronas a Mi Madre",
+      "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
@@ -304,15 +256,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 201880,
-      "name": "El Regio Traficante",
-      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
+      "duration_ms": 160200,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Las Tres Tumbas",
-        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
       "artists": [
         {
@@ -320,12 +272,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 185306,
-      "name": "Eran Cuatro de a Caballo",
-      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
+      "duration_ms": 164520,
+      "name": "Polvo Maldito",
+      "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -345,10 +297,10 @@
       "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Dos Vicios",
-        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
       "artists": [
         {
@@ -356,15 +308,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Dos Vicios",
-      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
       },
       "artists": [
         {
@@ -372,15 +324,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 189053,
-      "name": "El Hijo del Palenque",
-      "url": "https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU"
+      "duration_ms": 201880,
+      "name": "El Regio Traficante",
+      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
       },
       "artists": [
         {
@@ -388,12 +340,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Dimas de Leon",
-      "url": "https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i"
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -413,7 +365,55 @@
       "url": "https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "El Hijo del Palenque",
+      "url": "https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU"
+    },
+    {
+      "added_at": "2023-12-29 11:50:56",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dimas de Leon",
+      "url": "https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i"
+    },
+    {
+      "added_at": "2023-12-29 11:50:56",
+      "album": {
+        "name": "Dos Vicios",
+        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Dos Vicios",
+      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+    },
+    {
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/2K21TBW2dUeSW570gthDla"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -509,23 +509,7 @@
       "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
-      "album": {
-        "name": "Inspiracion Nortena",
-        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Donde Estara Mi Caballo",
-      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
-    },
-    {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -545,7 +529,7 @@
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
@@ -561,7 +545,23 @@
       "url": "https://open.spotify.com/track/1na1Q8kP0MAC4K3CzFIQzF"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
+      "album": {
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Donde Estara Mi Caballo",
+      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
+    },
+    {
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Una Lagrima y un Recuerdo",
         "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Despedida con Mariachi",
         "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Mis Recuerdos Adios Amigo Del Alma",
         "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "30 Cadetazos",
         "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "30 Cadetazos",
         "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/1b9pojRX4HOsrthAGDZghA"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -769,23 +769,7 @@
       "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
-      "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "Ven a Buscarme",
-      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
-    },
-    {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
@@ -801,7 +785,23 @@
       "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+    },
+    {
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
     },
     {
-      "added_at": "2023-12-26 11:17:58",
+      "added_at": "2023-12-29 11:50:56",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
