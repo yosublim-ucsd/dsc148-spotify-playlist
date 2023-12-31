@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 905002,
+  "num_followers": 905085,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2NkNjYxOTU3Y2YzMjQ0NmUzZTc0MTJkNGVjY2Q3N2EzYTk4YWY0",
+  "snapshot_id": "MCwzYTA1MTZjMWVjODNmMmJkNmU0NWM5MmNjYzVjMmYxNzBhYWQwM2Vh",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Dif\u00edcil Tu Caso",
-        "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
+        "name": "No Es Que Me Quiera Ir",
+        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 160386,
-      "name": "Dif\u00edcil Tu Caso",
-      "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
+      "duration_ms": 244720,
+      "name": "No Es Que Me Quiera Ir",
+      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -967,8 +967,8 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Es Que Me Quiera Ir",
-        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
+        "name": "Dif\u00edcil Tu Caso",
+        "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 244720,
-      "name": "No Es Que Me Quiera Ir",
-      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
+      "duration_ms": 160386,
+      "name": "Dif\u00edcil Tu Caso",
+      "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Ganas De Verte",
-        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Qu\u00e9 Ganas De Verte",
-      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
+      "duration_ms": 205236,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/1gm88KVoDOV0tsSBnB0hri"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "Qu\u00e9 Ganas De Verte",
+        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 205236,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/1gm88KVoDOV0tsSBnB0hri"
+      "duration_ms": 198960,
+      "name": "Qu\u00e9 Ganas De Verte",
+      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
       "artists": [
         {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1395,34 +1395,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Las de Mi Apa",
-        "url": "https://open.spotify.com/album/2mNt20FWQIZMbmOO39TgG7"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 146672,
-      "name": "Todo Cuanto Tuve",
-      "url": "https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy"
+      "duration_ms": 186626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Las de Mi Apa",
+        "url": "https://open.spotify.com/album/2mNt20FWQIZMbmOO39TgG7"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 146672,
+      "name": "Todo Cuanto Tuve",
+      "url": "https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy"
     },
     {
       "added_at": "2023-09-01 06:00:00",

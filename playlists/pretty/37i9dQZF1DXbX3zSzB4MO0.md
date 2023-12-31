@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,148 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,573 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 46 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 | 47 | [Hesitate](https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC) | [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Hesitate](https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8) | 2:50 |
 | 48 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
-| 49 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 |
-| 50 | [Chill Like That](https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY) | 2:59 |
+| 49 | [Chill Like That](https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY) | 2:59 |
+| 50 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 |
 | 51 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
 | 52 | [My Addiction](https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL) | [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [My Addiction](https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l) | 2:37 |
-| 53 | [You & I](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [You & I](https://open.spotify.com/album/1tiC5qMa7iI5dES19tVAYH) | 2:55 |
-| 54 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 |
+| 53 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 |
+| 54 | [You & I](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [You & I](https://open.spotify.com/album/1tiC5qMa7iI5dES19tVAYH) | 2:55 |
 | 55 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
-| 56 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
-| 57 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 |
+| 56 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 |
+| 57 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
 | 58 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 59 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 |
 | 60 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 74 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 |
 | 75 | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj) | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t) | 3:16 |
 
-Snapshot ID: `MCw2NGI1OTNmMDQzNWQ1MGJkMjdlNzIyZDI0ODdkNjBhOTk1MDIzMGMy`
+Snapshot ID: `MCw5NWQ1N2ViZGQ5ZDQ5ZDk1MTdhNGQ1Nzc2YTliNGY0NzNiZWEyYzZm`

@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 125518,
+  "num_followers": 125786,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk3YzRmOWI0ZjlkODI1ZDBmNTgwZDA5ZGViNWRlNTJiYjE4YWIy",
+  "snapshot_id": "MCw0OTlkYzE2YmViMTJlNjIwYWEyZmZjMjEzMWFiODY3Y2U1NjNlNmJj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "All Sons & Daughters",
-        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
+        "name": "inhale (exhale)",
+        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 296343,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
+      "duration_ms": 245424,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "inhale (exhale)",
-        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
+        "name": "All Sons & Daughters",
+        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 245424,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
+      "duration_ms": 296343,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Live Like That",
+        "url": "https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 237198,
+      "name": "Live Like That",
+      "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Live Like That",
-        "url": "https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 237198,
-      "name": "Live Like That",
-      "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Even Louder",
-        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Even Louder",
-      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Even Louder",
+        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Even Louder",
+      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+      "duration_ms": 234666,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
     }
   ],
   "unique_name": "Christian Road Trip",

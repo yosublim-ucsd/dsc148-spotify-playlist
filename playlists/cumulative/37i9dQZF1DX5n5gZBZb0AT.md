@@ -4,7 +4,7 @@
 
 > all gains
 
-96 songs - 3 hr 55 min
+97 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 | 2023-03-09 | 2023-06-11 |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2023-03-01 | 2023-07-12 |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2023-03-01 | 2023-07-12 |
-| [Ele Te Bota Soca Soca](https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P) | [Ele Te Bota Soca Soca](https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5) | 3:00 | 2023-12-27 |  |
+| [Ele Te Bota Soca Soca](https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P) | [Ele Te Bota Soca Soca](https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5) | 3:00 | 2023-12-27 | 2023-12-31 |
 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 | 2023-12-27 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 | 2023-03-01 | 2023-12-30 |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-09-08 |  |
@@ -70,6 +70,7 @@
 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 | 2023-05-19 | 2023-12-30 |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2023-05-23 | 2023-07-12 |
 | [Orquestra Maldita](https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E) | 1:59 | 2023-09-08 | 2023-12-20 |
+| [Orquestra Maldita](https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6) | 1:59 | 2023-12-27 |  |
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2023-03-01 | 2023-03-26 |
 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 | 2023-07-12 |  |
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2023-03-01 | 2023-12-30 |

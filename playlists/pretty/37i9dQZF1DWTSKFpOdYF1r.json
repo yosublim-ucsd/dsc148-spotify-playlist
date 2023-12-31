@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 946382,
+  "num_followers": 946477,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2M2ZWY1NjViOTU3MmNjMDNlYzkyODFiNmFkNGFkYTU2MjA3ZDFi",
+  "snapshot_id": "MCxhNDNjODM4NmZjYTljMTU2MTc5MjEzNTljNWVhZWE2MTk2NWI2OWUz",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Monkey Gone to Heaven",
-      "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Monkey Gone to Heaven",
+      "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "The Head on the Door",
         "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 302520,
-      "name": "Take Me to the River - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 334360,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 302520,
+      "name": "Take Me to the River - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+        "name": "The Golden Age of Wireless",
+        "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
       },
       "artists": [
         {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
         }
       ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
     }
   ],
   "unique_name": "Alternative 80s",

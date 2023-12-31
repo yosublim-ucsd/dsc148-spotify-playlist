@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from independent, developing artists around the world this year. Cover: Searows",
-  "num_followers": 1177538,
+  "num_followers": 1177846,
   "original_name": "Fresh Finds Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E4ZjgyZDY4YmZmMDFkY2VlNGI3YTFiNWU4NmY3YWFlN2M2ZjZi",
+  "snapshot_id": "MCxmYmI3OTg2ODY5ZGZjYWY5YmVjMjZjOGE2YTA2MWQwNzA1OWQ5NzAx",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "half of my heart",
-        "url": "https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t"
-      },
-      "artists": [
-        {
-          "name": "Josh Makazo",
-          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
-        }
-      ],
-      "duration_ms": 218260,
-      "name": "half of my heart",
-      "url": "https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+        "name": "half of my heart",
+        "url": "https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t"
       },
       "artists": [
         {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
         }
       ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+      "duration_ms": 218260,
+      "name": "half of my heart",
+      "url": "https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Dream Song",
-        "url": "https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb"
-      },
-      "artists": [
-        {
-          "name": "Shallow Alcove",
-          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Dream Song",
-      "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Springtime Red Tulips",
         "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 274976,
       "name": "Springtime Red Tulips",
       "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Same Streets But I Don't See You Around",
-        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Jethwa",
-          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
-        }
-      ],
-      "duration_ms": 173196,
-      "name": "Have I Ever Been",
-      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Same Streets But I Don't See You Around",
+        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "duration_ms": 173196,
+      "name": "Have I Ever Been",
+      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 100593,
       "name": "Cheapshot",
       "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Talk of the Town (acoustic)",
-        "url": "https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 210877,
-      "name": "Talk of the Town - acoustic",
-      "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Blue Voyage",
-        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
+        "name": "Talk of the Town (acoustic)",
+        "url": "https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG"
       },
       "artists": [
         {
-          "name": "SERAPHINE NOIR",
-          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
-        },
-        {
-          "name": "REIA",
-          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Blue Voyage",
-      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
+      "duration_ms": 210877,
+      "name": "Talk of the Town - acoustic",
+      "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1231,18 +1211,38 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Crashland",
-        "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
+        "name": "Blue Voyage",
+        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
       "artists": [
         {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "REIA",
+          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
         }
       ],
-      "duration_ms": 162066,
-      "name": "Crashland",
-      "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
+      "duration_ms": 254080,
+      "name": "Blue Voyage",
+      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Looking At Me",
+        "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Looking At Me",
+      "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Looking At Me",
-        "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
+        "name": "Crashland",
+        "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
       },
       "artists": [
         {
-          "name": "Willa Owen",
-          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Looking At Me",
-      "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
+      "duration_ms": 162066,
+      "name": "Crashland",
+      "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
-        "url": "https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML"
-      },
-      "artists": [
-        {
-          "name": "Southalid",
-          "url": "https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6"
-        }
-      ],
-      "duration_ms": 285955,
-      "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
-      "url": "https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
       },
@@ -1391,18 +1375,34 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "When i'm blue",
-        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
+        "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML"
       },
       "artists": [
         {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+          "name": "Southalid",
+          "url": "https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6"
         }
       ],
-      "duration_ms": 281500,
-      "name": "When i'm blue",
-      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
+      "duration_ms": 285955,
+      "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Raining Tomorrow",
-        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+        "name": "When i'm blue",
+        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
       },
       "artists": [
         {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
         }
       ],
-      "duration_ms": 228484,
-      "name": "Raining Tomorrow",
-      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+      "duration_ms": 281500,
+      "name": "When i'm blue",
+      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "BLOOD",
         "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Falling Behind",
-        "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Lemon Water",
         "url": "https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
       },
       "artists": [
         {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+      "duration_ms": 228600,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Lose You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
-      },
-      "artists": [
-        {
-          "name": "UNA MIA",
-          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
-        }
-      ],
-      "duration_ms": 199454,
-      "name": "Lose You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Lose You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        }
+      ],
+      "duration_ms": 199454,
+      "name": "Lose You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
     },
     {
       "added_at": "2023-11-29 12:16:00",

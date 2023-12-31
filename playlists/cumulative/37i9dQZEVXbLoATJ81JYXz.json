@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Gore-Tex, Vol. 1 (Freestyle)",
+        "url": "https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124077,
+      "name": "51 - Freestyle",
+      "url": "https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC"
+    },
+    {
+      "album": {
         "name": "Wow 2",
         "url": "https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW"
       },
@@ -3756,7 +3774,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
       "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
@@ -12990,7 +13008,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 148799,
       "name": "H\u00e4lsa Gud",
       "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
@@ -15500,7 +15518,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 134769,
       "name": "Kod R\u00f6d",
       "url": "https://open.spotify.com/track/1OybzYUfQ4Kv3WbWp3Gby2"
@@ -15638,7 +15656,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "KOMMER DU IH\u00c5G?",
       "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
@@ -16126,7 +16144,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -17810,7 +17828,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 189183,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/6IgMLWNcxP1vONuQSIDEpk"
@@ -20158,7 +20176,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -28090,7 +28108,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

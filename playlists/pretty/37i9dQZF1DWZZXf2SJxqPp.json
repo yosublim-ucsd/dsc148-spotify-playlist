@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 131087,
+  "num_followers": 131109,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzUzMjIzNWQ4NWE0ZmVkMWM1NWUxOGNjZTYyMDQyM2U2ZWQ3Yjdl",
+  "snapshot_id": "MCxjODZlNmIwZjI2OTNlODMyYTVhNGQzZGMwYjlhNjNiMjYwMmNhY2Vk",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -503,18 +503,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+        "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
+        "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
         }
       ],
-      "duration_ms": 252360,
-      "name": "MOVEMENTS",
-      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
+      "duration_ms": 195840,
+      "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
     },
     {
       "added_at": "2023-12-12 19:01:54",
@@ -579,26 +587,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
-        "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
+      "duration_ms": 252360,
+      "name": "MOVEMENTS",
+      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Akousmatikous",
-        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Discoman",
-        "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 220420,
-      "name": "Discoman",
-      "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1555,18 +1547,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+        "name": "Discoman",
+        "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+      "duration_ms": 220420,
+      "name": "Discoman",
+      "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -1771,26 +1787,6 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
-        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 350851,
-      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
-      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
     },
     {
       "added_at": "2023-08-14 14:58:41",

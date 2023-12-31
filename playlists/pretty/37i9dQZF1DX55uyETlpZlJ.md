@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,172 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,171 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 |
 | 100 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 |
 
-Snapshot ID: `MCw4YWQ2MGNkNWI0YTQwNjFiNTNlZjA0ZDAxOGQ2N2VjMzM5NDQ4MTRl`
+Snapshot ID: `MCwzNTUyNTNkZmRlODJkYmViMWM1ZjlmZDY3ZGYzZjE0NDhjMDVkNThh`

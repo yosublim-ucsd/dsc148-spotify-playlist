@@ -151,6 +151,44 @@
     },
     {
       "album": {
+        "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+      },
+      "artists": [
+        {
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153015,
+      "name": "A Distant Land to Roam",
+      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+    },
+    {
+      "album": {
         "name": "A Mighty Thing",
         "url": "https://open.spotify.com/album/5TYR4PnMSNwdrDtGXECUCF"
       },
@@ -1000,7 +1038,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
@@ -3086,6 +3124,24 @@
     {
       "album": {
         "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
+    },
+    {
+      "album": {
+        "name": "Mount Royal",
         "url": "https://open.spotify.com/album/6FouHmrNdwxJOiSafngC3Y"
       },
       "artists": [
@@ -4592,7 +4648,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 231269,
       "name": "Kentucky Morning",
       "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"

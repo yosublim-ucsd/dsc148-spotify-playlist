@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,922 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,950 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 6 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 |
 | 7 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 8 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
-| 9 | [Hoe Down](https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 4:41 |
-| 10 | [Hipsippy Blues](https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 6:40 |
+| 9 | [Hipsippy Blues](https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 6:40 |
+| 10 | [Hoe Down](https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 4:41 |
 | 11 | [My Groove Your Move \- Rudy Van Gelder Edition](https://open.spotify.com/track/5wcAcShxT5qvLJvuM6jkZt) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:07 |
 | 12 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
 | 13 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `MCwxMzRiZWRhMWJmN2QwMTQ5MmYzMTM2NTFhZWRhNmIyZTg5N2MyOTE3`
+Snapshot ID: `MCxlOGY2YWUwYjJjZGY3N2FkMmYxZjJiMWI3OTViMjRiYTFhNmRmMzQ1`

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 346152,
+  "num_followers": 346293,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTIzNjQwMjYxMzBlZjUyZjUyMjFiMmJlNjZmNThhOGIzYjA2ODI1",
+  "snapshot_id": "MCxiMjMzYmJlZjg0NGJjODZmMmMwYjE0MWE4NjE4M2UwY2EzMDMzZDBl",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Dance Devil Dance",
         "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 244597,
       "name": "The Dirt I'm Buried In",
       "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Dead Don\u2019t Die",
-      "url": "https://open.spotify.com/track/5fcfRUBheqJ4l8JwzP15gP"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219043,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Dead Don\u2019t Die",
+      "url": "https://open.spotify.com/track/5fcfRUBheqJ4l8JwzP15gP"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "GODMODE",
+        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 208979,
       "name": "Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "GODMODE",
-        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 239147,
-      "name": "THE PURGE",
-      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Fallin' With Me",
-        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 161791,
-      "name": "Fallin' With Me",
-      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 197995,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
         "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
     },
     {
       "added_at": "2023-12-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 38903,
+  "num_followers": 38950,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTcxNzJiMzNjNWQwMTY0YWJiNTE4OGRmODZmMjg1ZTNjYTNhMzQ4",
+  "snapshot_id": "MCxmZWNlYWUwYmJmYWZkZDg2ZjIxNDNjMWMzMTA2YmY3ZWUwY2NhNmIw",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Galerie",
-        "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 114162,
-      "name": "Mollo",
-      "url": "https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Urban Oasis",
         "url": "https://open.spotify.com/album/3q6FnpTsnNq0J1JYFh83fa"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Watercolors",
-        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
+        "name": "Galerie",
+        "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
       },
       "artists": [
         {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
         }
       ],
-      "duration_ms": 136946,
-      "name": "While She Waits",
-      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
+      "duration_ms": 114162,
+      "name": "Mollo",
+      "url": "https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -319,6 +303,22 @@
       "duration_ms": 272045,
       "name": "Jour Soleil",
       "url": "https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "While She Waits",
+      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Speaker",
+        "url": "https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        }
+      ],
+      "duration_ms": 123529,
+      "name": "Speaker",
+      "url": "https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Comedown",
         "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Speaker",
-        "url": "https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn"
+        "name": "Midnight Tokyo",
+        "url": "https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0"
       },
       "artists": [
         {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+          "name": "Dreamlike Studio",
+          "url": "https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF"
         }
       ],
-      "duration_ms": 123529,
-      "name": "Speaker",
-      "url": "https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip"
+      "duration_ms": 129373,
+      "name": "Midnight Tokyo",
+      "url": "https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -407,18 +423,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Midnight Tokyo",
-        "url": "https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0"
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
       "artists": [
         {
-          "name": "Dreamlike Studio",
-          "url": "https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF"
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
         }
       ],
-      "duration_ms": 129373,
-      "name": "Midnight Tokyo",
-      "url": "https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ"
+      "duration_ms": 238706,
+      "name": "Fork In The Rhodes",
+      "url": "https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -443,26 +463,6 @@
       "duration_ms": 176546,
       "name": "No Chaser",
       "url": "https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "SGJAZZ, Vol. 2",
-        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
-      },
-      "artists": [
-        {
-          "name": "SGJAZZ",
-          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
-        },
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "Fork In The Rhodes",
-      "url": "https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Digilog I",
+        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
+      },
+      "artists": [
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "no, regrets",
+      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Cruize",
         "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
       },
@@ -523,6 +539,22 @@
       "duration_ms": 160200,
       "name": "Cruize",
       "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Best Time",
+        "url": "https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -559,38 +591,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Best Time",
-        "url": "https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc"
-      },
-      "artists": [
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Digilog I",
-        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
-      },
-      "artists": [
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "no, regrets",
-      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "folding edges",
         "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 141020,
       "name": "OLDRICH",
       "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Hypnagogia Wakefull Dreams",
-        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
-      },
-      "artists": [
-        {
-          "name": "HawkOne",
-          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
-        },
-        {
-          "name": "Raz-One",
-          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
-        }
-      ],
-      "duration_ms": 138795,
-      "name": "Hypnagogia Wakefull Dreams",
-      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -679,18 +659,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Routes To Knowledge",
-        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+        "name": "Hypnagogia Wakefull Dreams",
+        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
       },
       "artists": [
         {
-          "name": "The Golden Eternity",
-          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+          "name": "HawkOne",
+          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
+        },
+        {
+          "name": "Raz-One",
+          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
         }
       ],
-      "duration_ms": 177201,
-      "name": "Routes To Knowledge",
-      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+      "duration_ms": 138795,
+      "name": "Hypnagogia Wakefull Dreams",
+      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -715,6 +699,22 @@
       "duration_ms": 129529,
       "name": "Springtime Secret",
       "url": "https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Routes To Knowledge",
+        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+      },
+      "artists": [
+        {
+          "name": "The Golden Eternity",
+          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Routes To Knowledge",
+      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Windjammer",
+        "url": "https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Windjammer",
+      "url": "https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 125714,
       "name": "Nature & Me",
       "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Windjammer",
-        "url": "https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV"
-      },
-      "artists": [
-        {
-          "name": "The BREED",
-          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Windjammer",
-      "url": "https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Digilog I",
-        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
+        "name": "At Home (An NPR Tiny Desk Concert)",
+        "url": "https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77"
       },
       "artists": [
         {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        },
-        {
-          "name": "Tamuz",
-          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Moonrock",
-      "url": "https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq"
+      "duration_ms": 320472,
+      "name": "Et Lite \u00d8yeblikk Bare - An NPR Tiny Desk Concert",
+      "url": "https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1511,34 +1507,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "At Home (An NPR Tiny Desk Concert)",
-        "url": "https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77"
+        "name": "Digilog I",
+        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
       },
       "artists": [
         {
-          "name": "Svaneborg Kardyb",
-          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
-        }
-      ],
-      "duration_ms": 320472,
-      "name": "Et Lite \u00d8yeblikk Bare - An NPR Tiny Desk Concert",
-      "url": "https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        },
         {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+          "name": "Tamuz",
+          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
         }
       ],
-      "duration_ms": 197373,
-      "name": "C.F.D.",
-      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
+      "duration_ms": 214000,
+      "name": "Moonrock",
+      "url": "https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 165606,
       "name": "Machete",
       "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "C.F.D.",
+      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "duration_ms": 287675,
+      "name": "FRAGILE",
+      "url": "https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "synco",
         "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 260366,
       "name": "synco",
       "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        }
-      ],
-      "duration_ms": 287675,
-      "name": "FRAGILE",
-      "url": "https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1931,6 +1931,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "The Betrayal",
+        "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
+      },
+      "artists": [
+        {
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "James Maddren",
+          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
+        },
+        {
+          "name": "ENEMY",
+          "url": "https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC"
+        }
+      ],
+      "duration_ms": 117746,
+      "name": "Croydon Smash",
+      "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -1963,34 +1991,6 @@
       "duration_ms": 140838,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "The Betrayal",
-        "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
-      },
-      "artists": [
-        {
-          "name": "Kit Downes",
-          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        },
-        {
-          "name": "James Maddren",
-          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
-        },
-        {
-          "name": "ENEMY",
-          "url": "https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC"
-        }
-      ],
-      "duration_ms": 117746,
-      "name": "Croydon Smash",
-      "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bror",
-        "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blomqvist",
-          "url": "https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm"
-        }
-      ],
-      "duration_ms": 419133,
-      "name": "Hejd\u00e5 Kalvsn\u00e4s",
-      "url": "https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Blue Heart",
         "url": "https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 148736,
       "name": "Blue Heart",
       "url": "https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Bror",
+        "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blomqvist",
+          "url": "https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm"
+        }
+      ],
+      "duration_ms": 419133,
+      "name": "Hejd\u00e5 Kalvsn\u00e4s",
+      "url": "https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp"
     },
     {
       "added_at": "2023-12-22 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,526 likes - 40 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,571 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 6 | [Wala Wahed](https://open.spotify.com/track/46lLvTPvCHDHKmxb33cSta) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 4:13 |
 | 7 | [Albi Eshi’ha](https://open.spotify.com/track/4xSukcHWU8LrtWSTjOInpM) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Alby Eshekha](https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90) | 5:44 |
 | 8 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
-| 9 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
-| 10 | [Lail Wa Raed Wa Reeh](https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Shafouha Wsaroo Yegolou](https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu) | 5:15 |
+| 9 | [Lail Wa Raed Wa Reeh](https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Shafouha Wsaroo Yegolou](https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu) | 5:15 |
+| 10 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
 | 11 | [Sallimleh Alayh](https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mish Kayan Hayek T'Koun](https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI) | 5:50 |
 | 12 | [شيلوها شيلة](https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE) | [Miami Band](https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0) | [فرقة ميامي 97](https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ) | 5:00 |
 | 13 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Sahrany](https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 4:19 |
 | 40 | [Lola El Saher](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
 
-Snapshot ID: `MCxlZDE0ZWFlNzZjNzU4YjcyZjI5YWIyNjI4ZTg3ZTQxZWIzYTllNWFh`
+Snapshot ID: `MCxjMzI5MWFmMDk3ZDYwMWUzNWYxMmFiNjMzNjQ5NWVmNTJjODY5Mzgy`

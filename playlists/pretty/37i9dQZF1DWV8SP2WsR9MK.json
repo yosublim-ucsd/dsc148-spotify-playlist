@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 81098,
+  "num_followers": 81172,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWZjZmRiNWE3OTk3NTEwODA2NzBjNGFkODk0ZGI4ZGYxNjc0YzRm",
+  "snapshot_id": "MCwwMDZiZmYwNTNmYTg3NTM2ZTUwNDRmNzhiODQyZTZhYTdjNjM2YmZi",
   "tracks": [
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
-      },
-      "artists": [
-        {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
         "name": "Standard Brands",
         "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 348066,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
         "name": "Rambler",
         "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 492266,
       "name": "Rambler",
       "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1403,6 +1403,38 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1423,30 +1455,6 @@
       "duration_ms": 388546,
       "name": "Dexterity",
       "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
-        "name": "I Have The Room Above Her",
-        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Odd Man Out",
-      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1475,6 +1483,30 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
+        "name": "I Have The Room Above Her",
+        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Odd Man Out",
+      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
         "name": "Three for Three",
         "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
       },
@@ -1495,22 +1527,6 @@
       "duration_ms": 414466,
       "name": "The Big Push",
       "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1547,22 +1563,6 @@
       "duration_ms": 371200,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1619,22 +1619,6 @@
       "duration_ms": 447026,
       "name": "You'd Be So Nice To Come Home To - alt. take",
       "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2023-12-20 11:07:17",
@@ -1707,22 +1691,6 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
-    },
-    {
-      "added_at": "2023-12-20 11:07:17",
-      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1747,6 +1715,22 @@
     {
       "added_at": "2023-12-20 11:07:17",
       "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
         "name": "Trio",
         "url": "https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 354373,
       "name": "Never Will I Marry",
       "url": "https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548"
+    },
+    {
+      "added_at": "2023-12-20 11:07:17",
+      "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2023-12-20 11:07:17",

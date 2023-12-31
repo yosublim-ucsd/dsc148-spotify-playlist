@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "A La Carte",
+        "url": "https://open.spotify.com/album/4ZFkNL5UbIpQhyGSCrfUeW"
+      },
+      "artists": [
+        {
+          "name": "Frostt 7k",
+          "url": "https://open.spotify.com/artist/7yXOjQ9jwqFeQIaKz8xzWh"
+        },
+        {
+          "name": "Canguru",
+          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234801,
+      "name": "A La Carte",
+      "url": "https://open.spotify.com/track/0lMHRyr7e9SfR12HwPnbAl"
+    },
+    {
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -2441,6 +2463,32 @@
     },
     {
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/0sK7IUb8wCygqAXdtt0vyf"
+      },
+      "artists": [
+        {
+          "name": "Lenco",
+          "url": "https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197475,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3nADjwQ7p8IvbtwLnvR2Ji"
+    },
+    {
+      "album": {
         "name": "Ballin",
         "url": "https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu"
       },
@@ -2722,7 +2770,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 141463,
       "name": "BAPE",
       "url": "https://open.spotify.com/track/2V3o1tzjy3I8HrpLeMLwFM"
@@ -4558,7 +4606,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 341664,
       "name": "CENTOPEIA HUMANA",
       "url": "https://open.spotify.com/track/4KnHVjKZ94OFdL6IHt8m0K"
@@ -4706,6 +4754,36 @@
       "duration_ms": 158117,
       "name": "Cheia de Marra",
       "url": "https://open.spotify.com/track/5X4hH95ldp2660RESHzIao"
+    },
+    {
+      "album": {
+        "name": "Cheia De Sede",
+        "url": "https://open.spotify.com/album/5mINNJH4IUMJLr7az7uaQB"
+      },
+      "artists": [
+        {
+          "name": "Urbanamente",
+          "url": "https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Them Con",
+          "url": "https://open.spotify.com/artist/7rBSwSc6iKDV4slZRul3Sr"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Cheia De Sede",
+      "url": "https://open.spotify.com/track/0AeKsIhtc21HRe4d94qs2N"
     },
     {
       "album": {
@@ -8402,7 +8480,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 180000,
       "name": "Eu S\u00f3 Penso em N\u00f3s",
       "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
@@ -9710,7 +9788,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 186324,
       "name": "Frio",
       "url": "https://open.spotify.com/track/6gBmPxBSFquyNDJI5Px8bh"
@@ -11122,6 +11200,24 @@
       "duration_ms": 135111,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/3qYIsToGXDuBiYDKVFrx42"
+    },
+    {
+      "album": {
+        "name": "Um Pequeno \u00c1lbum de Natal",
+        "url": "https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201807,
+      "name": "Jingle Bell Hype",
+      "url": "https://open.spotify.com/track/2liHTN02pSJPhSOViN3T5v"
     },
     {
       "album": {
@@ -13075,6 +13171,28 @@
     },
     {
       "album": {
+        "name": "MEDICINA",
+        "url": "https://open.spotify.com/album/1qM2umbc8KSjHvkaTO2VGv"
+      },
+      "artists": [
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "Ckzin",
+          "url": "https://open.spotify.com/artist/1SHMA4jxjtF97jFERazZ7A"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131495,
+      "name": "MEDICINA",
+      "url": "https://open.spotify.com/track/7heJfU2Lk9rGJB9EQdMFPa"
+    },
+    {
+      "album": {
         "name": "Meia Noite",
         "url": "https://open.spotify.com/album/3hAzPC7hru33puyZSBeQ2W"
       },
@@ -14956,7 +15074,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 167675,
       "name": "O Meu Brilho",
       "url": "https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy"
@@ -16454,7 +16572,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 172307,
       "name": "Pior Vers\u00e3o",
       "url": "https://open.spotify.com/track/5rcppSnTGjm0H8rORK2QwX"
@@ -19010,7 +19128,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 174545,
       "name": "Saindo da Lama",
       "url": "https://open.spotify.com/track/3Ua3bFWvOk1iharZipH4NM"
@@ -20106,6 +20224,28 @@
       "duration_ms": 258665,
       "name": "SP NIGHTS",
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
+    },
+    {
+      "album": {
+        "name": "Space Ship",
+        "url": "https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv"
+      },
+      "artists": [
+        {
+          "name": "Yunk Kng",
+          "url": "https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Space Ship",
+      "url": "https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3"
     },
     {
       "album": {
@@ -21972,7 +22112,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 152335,
       "name": "Vai Al\u00e9m",
       "url": "https://open.spotify.com/track/6Qjx3rnwP0RZprv4DN659I"

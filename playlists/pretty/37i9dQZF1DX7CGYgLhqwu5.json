@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375080,
+  "num_followers": 375098,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4",
+  "snapshot_id": "MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Big Iron",
-      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 160784,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
-      },
-      "artists": [
-        {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181800,
       "name": "Ballad Of Forty Dollars",
       "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+      },
+      "artists": [
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Okie From Muskogee",
         "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 168821,
       "name": "Swinging Doors - Re-Recorded",
       "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "A Tender Look At Love",
-        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Little Green Apples - Single Version",
-      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Folk-Country",
         "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 122480,
       "name": "Stop the World (And Let Me Off)",
       "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "A Tender Look At Love",
+        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Little Green Apples - Single Version",
+      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
     },
     {
       "added_at": "2023-11-21 21:06:39",

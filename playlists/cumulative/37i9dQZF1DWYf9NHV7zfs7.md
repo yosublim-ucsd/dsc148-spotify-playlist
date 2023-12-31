@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-176 songs - 9 hr 41 min
+177 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 | 2023-10-23 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-10-23 |  |
 | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX) | [Amigos Raros](https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t) | 3:22 | 2023-10-23 | 2023-12-08 |
-| [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 | 2023-10-23 |  |
+| [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 | 2023-10-23 | 2023-12-31 |
 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 | 2023-10-23 |  |
 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 | 2023-10-23 |  |
 | [Altar](https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Altar](https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF) | 3:13 | 2023-12-15 |  |
@@ -59,6 +59,7 @@
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 |  |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2023-07-14 | 2023-10-24 |
 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2023-10-23 |  |
+| [Fanático](https://open.spotify.com/track/2f2CU0j1OrjoP8otmx8eoM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:21 | 2023-12-22 |  |
 | [Figurita](https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Popular](https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r) | 3:01 | 2023-10-23 | 2023-12-07 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-07-14 | 2023-10-24 |
 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 | 2023-10-23 |  |

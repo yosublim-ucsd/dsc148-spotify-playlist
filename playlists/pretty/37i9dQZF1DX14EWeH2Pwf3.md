@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Medy\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,028 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,219 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb) | 2:46 |
 | 50 | [CASABLANCA](https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE II](https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO) | 2:37 |
 
-Snapshot ID: `MCxlNjc4NGFhZDUwMzA5MzFhMDcxYzZmNDNhYzJlOGU5NDY4NWE0YTBl`
+Snapshot ID: `MCxjMzQyZDJlZTI2Zjk0MjJjNjE0YzA2YTUwYWUxYjVmN2IxNzA4YmFj`

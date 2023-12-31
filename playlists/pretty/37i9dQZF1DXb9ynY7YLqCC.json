@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 159417,
+  "num_followers": 159529,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWU2YmYyNTBmYTNiODU0YmM4Yzc4NGU5YjVhOTYyYTMzMTU2YWNi",
+  "snapshot_id": "MCw4ZGQ4MjJjZTZjM2UzNzI0NmRhMzk2ODcxNmExYjhlODJhNjI0MzI0",
   "tracks": [
     {
       "added_at": "2023-12-07 21:23:56",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
+      "duration_ms": 253933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "3er Arco",
-        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 253933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sr. Cobranza",
-      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
-    },
-    {
-      "added_at": "2023-12-07 21:23:56",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2023-12-07 21:23:56",
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
-    },
-    {
-      "added_at": "2023-12-07 21:23:56",
-      "album": {
         "name": "Casi Justicia Social I",
         "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 161880,
       "name": "Misterios",
       "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
+    },
+    {
+      "added_at": "2023-12-07 21:23:56",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Gardeliando",
-        "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
       },
       "artists": [
         {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 357586,
-      "name": "Amor de Contramano",
-      "url": "https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ"
+      "duration_ms": 244066,
+      "name": "El Balneario de los Doctores Crotos",
+      "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "El Balneario de los Doctores Crotos",
-      "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
-    },
-    {
-      "added_at": "2023-12-07 21:23:56",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1063,22 +1047,6 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
-    },
-    {
-      "added_at": "2023-12-07 21:23:56",
-      "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1099,18 +1067,18 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 241946,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1127,6 +1095,22 @@
       "duration_ms": 255315,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
+    },
+    {
+      "added_at": "2023-12-07 21:23:56",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2023-12-07 21:23:56",
       "album": {
-        "name": "Tipitorex",
-        "url": "https://open.spotify.com/album/64A2yWDQnsti67uCO44olg"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Silencio - En Vivo",
-      "url": "https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f"
-    },
-    {
-      "added_at": "2023-12-07 21:23:56",
-      "album": {
         "name": "Incompleto - 20 Rocanroles 20",
         "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
       },
@@ -1255,6 +1223,22 @@
       "duration_ms": 247973,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
+    },
+    {
+      "added_at": "2023-12-07 21:23:56",
+      "album": {
+        "name": "Tipitorex",
+        "url": "https://open.spotify.com/album/64A2yWDQnsti67uCO44olg"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Silencio - En Vivo",
+      "url": "https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f"
     },
     {
       "added_at": "2023-12-07 21:23:56",
@@ -1287,6 +1271,22 @@
       "duration_ms": 128597,
       "name": "Caer",
       "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
+    },
+    {
+      "added_at": "2023-12-07 21:23:56",
+      "album": {
+        "name": "P\u00e1nico",
+        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
     }
   ],
   "unique_name": "Rock Barrial",

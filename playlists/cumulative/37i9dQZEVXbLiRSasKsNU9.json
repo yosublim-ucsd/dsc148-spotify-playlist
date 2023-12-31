@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
         "name": "Adiye (From \"Bachelor\")",
         "url": "https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8"
       },
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 173720,
       "name": "Bunga Hati",
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
@@ -12434,6 +12452,28 @@
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
+    },
+    {
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
     },
     {
       "album": {
@@ -25933,6 +25973,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
         "name": "Kind Reminder",
         "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
       },
@@ -29832,6 +29890,28 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
     {
       "album": {
@@ -34600,7 +34680,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 172427,
       "name": "SIMARIK",
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
@@ -37552,7 +37632,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
@@ -43332,7 +43412,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 188625,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (Speed Up)",
       "url": "https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD"

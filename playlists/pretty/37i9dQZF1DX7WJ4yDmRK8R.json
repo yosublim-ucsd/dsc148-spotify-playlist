@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 366781,
+  "num_followers": 366877,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IxNDE2MDcxMzkyMWE4MDE0ZGQxZmYzYWIxZjcxMGMzYzY0Y2Zh",
+  "snapshot_id": "MCw3ZGJmN2MwY2VhYjA2MzYxZTA1NTkwMDg4NDFlMGQ3Y2NkMTNkMzU5",
   "tracks": [
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Honey I'm Homely",
-        "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
-      },
-      "artists": [
-        {
-          "name": "Dance Hall Crashers",
-          "url": "https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lost Again",
-      "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Message to the World",
         "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 183506,
       "name": "Social Drinker",
       "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Honey I'm Homely",
+        "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
+      },
+      "artists": [
+        {
+          "name": "Dance Hall Crashers",
+          "url": "https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lost Again",
+      "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "\u2026And The Battle Begun",
         "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 219133,
       "name": "Apparition",
       "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Civil Disobedients",
-        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
-      },
-      "artists": [
-        {
-          "name": "Capdown",
-          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Ska Wars",
-      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Battle Hymns",
         "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Civil Disobedients",
+        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
+      },
+      "artists": [
+        {
+          "name": "Capdown",
+          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "Ska Wars",
+      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
     }
   ],
   "unique_name": "The Essential Ska",

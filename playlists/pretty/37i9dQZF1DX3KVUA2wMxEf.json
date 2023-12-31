@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 89007,
+  "num_followers": 89072,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTJjNjI5ZDBmZDY3MmIyOTZkMTZjNTk2ZDA5YTZhMjg1OGY0NjMw",
+  "snapshot_id": "MCw5NTJjNmQwZjQwNDhiYTBmODM4YjZkYzU0MjdkOWZlYTEwOWNjZDY1",
   "tracks": [
     {
       "added_at": "2023-04-28 00:04:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Bff <3",
+        "url": "https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Bff <3",
+      "url": "https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 183253,
       "name": "Binikini",
       "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Bff <3",
-        "url": "https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Bff <3",
-      "url": "https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 262771,
-      "name": "V\u00e9ngase I",
-      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+      "duration_ms": 304973,
+      "name": "De Antes",
+      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 304973,
-      "name": "De Antes",
-      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+      "duration_ms": 262771,
+      "name": "V\u00e9ngase I",
+      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
     },
     {
       "added_at": "2023-04-28 00:04:00",

@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 891963,
+  "num_followers": 892106,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZiOTJhZWJlY2MyZDdjZTdhYjBjOWE1YTI1NDU2NDcwMjZiNDMx",
+  "snapshot_id": "MCxjYmYzYzZmMDY2M2IwZThkZWE2NzFhM2MxMTI4YmZhODM3OGExYjk5",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "LOCO X PERREARTE",
-        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 212024,
-      "name": "LOCO X PERREARTE",
-      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Frikitona - Single",
+        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "ASQUEROSO",
         "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Frikitona - Single",
-        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 144261,
-      "name": "Brabus",
-      "url": "https://open.spotify.com/track/6vkmfvsAI702EEgTElodBc"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 144261,
+      "name": "Brabus",
+      "url": "https://open.spotify.com/track/6vkmfvsAI702EEgTElodBc"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1971,26 +1971,6 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -2091,6 +2071,26 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-12-22 06:00:00",

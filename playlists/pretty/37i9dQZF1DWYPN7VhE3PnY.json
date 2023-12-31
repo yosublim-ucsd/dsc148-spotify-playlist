@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 27392,
+  "num_followers": 27417,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzBmNGJhOTg2ZDBlNGE0YWY2ODgwNmNmNjhmMDE3ZWY2ZjZhNmIz",
+  "snapshot_id": "MCw3NzI1YzgzNmM2Y2M1NTUxZjYyOGYyYTM3Y2JmMmUwZGZlZjA3ZjNi",
   "tracks": [
     {
       "added_at": "2023-11-15 01:22:48",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-15 01:22:48",
       "album": {
+        "name": "The Altar",
+        "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Gemini Feed",
+      "url": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
+    },
+    {
+      "added_at": "2023-11-15 01:22:48",
+      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
-    },
-    {
-      "added_at": "2023-11-15 01:22:48",
-      "album": {
-        "name": "The Altar",
-        "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Gemini Feed",
-      "url": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
     },
     {
       "added_at": "2023-11-15 01:22:48",

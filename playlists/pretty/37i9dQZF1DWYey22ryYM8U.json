@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Juan Luis Guerra",
-  "num_followers": 605023,
+  "num_followers": 605024,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTlhMDAxMzlmMTMwZjViZjk3MzBkZGY4YmM3NjQ5NzVlOTllMTUz",
+  "snapshot_id": "MCxjNmExMTZmZDA2M2FkNWY3MjMwZWQxZTM0ZDM4NTM4Y2NiNGRlZWZk",
   "tracks": [
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
       },
       "artists": [
         {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1791,18 +1787,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "De Trulla Con el Combo",
-        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
+        "name": "Los Recuerdos",
+        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
         }
       ],
-      "duration_ms": 259433,
-      "name": "No Hay",
-      "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
+      "duration_ms": 161906,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
     }
   ],
   "unique_name": "Tropical Hits",

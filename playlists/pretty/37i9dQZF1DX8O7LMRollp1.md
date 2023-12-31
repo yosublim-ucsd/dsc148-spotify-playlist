@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,166 likes - 21 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,181 likes - 21 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 | 3 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
 | 4 | [악귀](https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Revenant \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR) | 3:06 |
 | 5 | [Again](https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [리턴, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7pgky5mMJtFvOmZdXVevCf) | 3:20 |
-| 6 | [검은 해](https://open.spotify.com/track/2UXTVLs3cv6F6ML0BoeSMS) | [Saesonyeon](https://open.spotify.com/artist/0MfzRpYSXwj4UNH013Ahef) | [Return, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5OEzHcShsWtyzCzDFKxjkH) | 3:27 |
+| 6 | [검은 해](https://open.spotify.com/track/6BiPVxqLLFuN09oHs6q9Gi) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [리턴 \(Original Television Soundtrack\)](https://open.spotify.com/album/4hPxrrZwxYPAyUJb4rEq0N) | 3:27 |
 | 7 | [The morass](https://open.spotify.com/track/0ufmJfKZnd8agzcIi0Wrs3) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Penthouse2 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1zWN2Vz1TcgEBRRJzZD5Uw) | 3:16 |
 | 8 | [Let me be](https://open.spotify.com/track/5HMicsistMNaVU269x6ZzY) | [Baek Z Young](https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5j9ToR3tEoiBKBhqHSPTp0) | 4:27 |
 | 9 | [Falling Down](https://open.spotify.com/track/4sZh7yPeOBNlfEI4qlfJe6) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Trolley \(Original Soundtrack Part.1\)](https://open.spotify.com/album/7xcKq4QOt8Nf0WlPK1BSMa) | 3:39 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 | 20 | [trolley](https://open.spotify.com/track/1Dg4uXR9ZzV0Z12kUFC13j) | [Jun Seok Kim](https://open.spotify.com/artist/3NNk3sbGKHqIhfs6Sm5dsB) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 3:09 |
 | 21 | [Masquerade](https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES) | 3:59 |
 
-Snapshot ID: `MCw1OTMzMGIwNzBkMGIzM2YzZGE4ZDUyYTdlYjNmYzhkYjY0YWM3ZDg1`
+Snapshot ID: `MCw4MWNlNGI2MzM0NWYwOTNiMmM2ZjFiOTY0YzFlZjlhYWZhZTY5NDQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,748 likes - 43 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,755 likes - 43 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 24 | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx) | 5:27 |
 | 25 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 26 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
-| 27 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
-| 28 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
+| 27 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
+| 28 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
 | 29 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 |
 | 30 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
 | 31 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 42 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
 | 43 | [Lindo Jesus](https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Testemunho](https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz) | 4:41 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDBlMzhmNzc2NWNkY2MzZTU2MGE4OTI3ZWVhMzIzZmIyYg==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA1NWRmMDcyNzAzYWNlY2UxYzJiMmU0ZjVlNjUxOGU5Yg==`

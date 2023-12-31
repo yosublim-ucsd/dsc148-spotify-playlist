@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,696 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,469 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 78 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 79 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MCw2YzAxNTQxMTQ1MGE5MDY4ZjNlY2JlODlkMWJlNTkxYjgxZjY4MDM0`
+Snapshot ID: `MCwyY2EwMTc4ZGU0MjdmMzFlYTAwYWE4MGExZWM2MjRkZTg1YTI5Yjhm`

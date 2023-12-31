@@ -834,7 +834,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -8630,7 +8630,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -13735,6 +13735,24 @@
     },
     {
       "album": {
+        "name": "Kobra Rap",
+        "url": "https://open.spotify.com/album/4Z9QcT5SG14sqqjp0zcQkq"
+      },
+      "artists": [
+        {
+          "name": "Peter Kutka",
+          "url": "https://open.spotify.com/artist/3K5JZWFqGc2LoFjh5E3Uo1"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224835,
+      "name": "Kobra Rap",
+      "url": "https://open.spotify.com/track/1j626DYy4L0wH5RzpgdIwp"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -15410,7 +15428,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -16818,7 +16836,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"

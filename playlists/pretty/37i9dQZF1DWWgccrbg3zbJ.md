@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,835 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,357 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 14 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 |
 | 15 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 |
 | 16 | [O Barquinho](https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Obras\-Primas](https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP) | 3:07 |
-| 17 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 |
+| 17 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 |
 | 18 | [Tarde em itapuã](https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Romain Lécuyer](https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ) | [Alvorada](https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho) | 2:59 |
-| 19 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 |
+| 19 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 |
 | 20 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 |
 | 21 | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:49 |
 | 22 | [Gente Humilde](https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 2:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
 | 65 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 |
 
-Snapshot ID: `MCxkNjNjODAwNzA4YmY2YmZkMDU5ZDVjOWE0MjYzMTZhYWJhMjkzMmNh`
+Snapshot ID: `MCwzYmFkZDUxMGU0N2UwZWFiOGE0OGQyYjc1YmYwZTEyNjQwNGRjNzlh`

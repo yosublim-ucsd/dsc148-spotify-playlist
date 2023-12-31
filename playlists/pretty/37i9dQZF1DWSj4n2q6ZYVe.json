@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 437299,
+  "num_followers": 437765,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQ1MDk1N2Q1ZjVhMTQ5ODFkZjZmYzBhYzliNjgzM2Q4ZTg2NTdj",
+  "snapshot_id": "MCwzZGMzYWRkYTVmNTNiNmIyNTllNzRlODgxZGI4ZjFjZWI2MWRhNzgy",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
-        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Adagio For Strings - Radio Edit",
-      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224493,
       "name": "Love Foolosophy - Radio Edit",
       "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -903,26 +903,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "End Credits",
-      "url": "https://open.spotify.com/track/64I0O6ZipYryKte1cHA2EY"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/64I0O6ZipYryKte1cHA2EY"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 231093,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "In Silico",
-        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 313346,
-      "name": "Propane Nightmares",
-      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "The Stadium Techno Experience",
         "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 212466,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "In Silico",
+        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 313346,
+      "name": "Propane Nightmares",
+      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-10-06 04:50:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "God Is a Girl",
-        "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
-      },
-      "artists": [
-        {
-          "name": "Groove Coverage",
-          "url": "https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "God Is a Girl",
-      "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 241466,
       "name": "Around the World - Radio Edit [Radio Edit]",
       "url": "https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "God Is a Girl",
+        "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
+      },
+      "artists": [
+        {
+          "name": "Groove Coverage",
+          "url": "https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "God Is a Girl",
+      "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
     },
     {
       "added_at": "2021-04-29 18:40:15",

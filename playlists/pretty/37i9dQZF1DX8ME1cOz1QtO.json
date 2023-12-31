@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 82574,
+  "num_followers": 82642,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDY5MzdlYWYyNjQ4ZjlhZjc3NGEyYzM3ZDBkNmU5ZjU2Yzk1YmM3",
+  "snapshot_id": "MCw5NDM4NDExNjFlYjExNzNmMjJiOTMzNGY0OGQ2MzI1MjY3MmM0YWVh",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oasis [Remastered]",
-        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Music For Zen Meditation And Other Joys",
         "url": "https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 96760,
       "name": "To Drift Like Clouds",
       "url": "https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oasis [Remastered]",
+        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
         "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 455333,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Schoener, Eberhard: Meditation",
-        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
-      },
-      "artists": [
-        {
-          "name": "Eberhard Schoener",
-          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
-        }
-      ],
-      "duration_ms": 1049000,
-      "name": "Meditation: I. Part I",
-      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+        "name": "Schoener, Eberhard: Meditation",
+        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
       "artists": [
         {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+          "name": "Eberhard Schoener",
+          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
         }
       ],
-      "duration_ms": 553800,
-      "name": "Elysian E",
-      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
+      "duration_ms": 1049000,
+      "name": "Meditation: I. Part I",
+      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1735,6 +1719,22 @@
       "duration_ms": 936000,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
     }
   ],
   "unique_name": "Early New Age",

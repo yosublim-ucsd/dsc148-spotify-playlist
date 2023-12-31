@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,935 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,938 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 20 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
 | 21 | [The Great Adventure](https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [Sherri Shepherd](https://open.spotify.com/artist/006eSnqZrWRa4Z7jhlCt4J), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 3:42 |
 | 22 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
-| 23 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
-| 24 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
+| 23 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
+| 24 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 25 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
 | 26 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
 | 27 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm`
+Snapshot ID: `MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk`

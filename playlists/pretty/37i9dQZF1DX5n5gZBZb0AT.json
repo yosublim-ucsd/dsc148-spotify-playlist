@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 314517,
+  "num_followers": 315069,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDdkMmE2ZGFhNGE1N2QxOTM3YzYzMTJlM2MzMTdmZTliYzExMjU0",
+  "snapshot_id": "MCxlZDZiOTMxYTc1Y2Y0YWJjODczMjllM2QxNDNmMzBjMTkxNjEzOTk3",
   "tracks": [
     {
       "added_at": "2023-12-27 17:20:38",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-12-27 17:20:38",
       "album": {
+        "name": "Orquestra Maldita",
+        "url": "https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "duration_ms": 119777,
+      "name": "Orquestra Maldita",
+      "url": "https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr"
+    },
+    {
+      "added_at": "2023-12-27 17:20:38",
+      "album": {
         "name": "EMPTY DREAMS",
         "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
       },
@@ -719,34 +739,6 @@
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
-    },
-    {
-      "added_at": "2023-12-27 17:20:38",
-      "album": {
-        "name": "Ele Te Bota Soca Soca",
-        "url": "https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5"
-      },
-      "artists": [
-        {
-          "name": "MC Mazzie",
-          "url": "https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        },
-        {
-          "name": "DJ NpcSize",
-          "url": "https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b"
-        },
-        {
-          "name": "DJ Wizard",
-          "url": "https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P"
-        }
-      ],
-      "duration_ms": 180927,
-      "name": "Ele Te Bota Soca Soca",
-      "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
     }
   ],
   "unique_name": "gymcore",

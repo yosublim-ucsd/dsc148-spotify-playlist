@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 488718,
+  "num_followers": 489799,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmY1MGMzZmJkN2Q4N2VlZDZmMzFlMTg4ZGQ5MThjMDI0YjRlMzQw",
+  "snapshot_id": "MCxmNTM3MmIxNTA3NzZlYmI4ZGVlMTBjZGYzMjM0YWJhNDI2YTc0ZTAw",
   "tracks": [
     {
       "added_at": "2023-12-29 01:51:53",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
+        "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "Los M\u00e1s Grandes Exitos",
-        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Se Me Ha Perdido un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
         "name": "Se Fue Viral",
         "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -999,6 +999,58 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1035,54 +1087,18 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1103,22 +1119,6 @@
       "duration_ms": 211213,
       "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
       "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
         "name": "Me Muero de Amor (En Vivo)",
         "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
-        "name": "Tiempo De Bailar",
-        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 169250,
-      "name": "La Cola",
-      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1331,18 +1315,34 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
         }
       ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
+        "name": "Tiempo De Bailar",
+        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "La Cola",
+      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
     },
     {
       "added_at": "2023-12-29 01:51:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-12-29 01:51:53",
       "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2023-12-29 01:51:53",
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 186990,
       "name": "Te Pido Perdon",
       "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
+    },
+    {
+      "added_at": "2023-12-29 01:51:53",
+      "album": {
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2023-12-29 01:51:53",

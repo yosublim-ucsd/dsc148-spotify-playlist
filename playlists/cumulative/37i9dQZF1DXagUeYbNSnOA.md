@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds Latin tracks this year\. Cover: Junior Zamora
 
-1,637 songs - 3 day 17 hr 27 min
+1,638 songs - 3 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Besos Azules](https://open.spotify.com/track/7vCxPdlT8ypcsUb8E72t4l) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/5a9BBFMkO3QBaTzmSsC0Il) | 3:55 | 2023-09-06 |  |
 | [Besos Salvajes](https://open.spotify.com/track/6uxaBXvIVOOLhJXaVFU8tl) | [Stephyloren](https://open.spotify.com/artist/2696BpCe9RRd0dg6YOvtje) | [Besos Salvajes](https://open.spotify.com/album/73rToLKPfdQ8BGR0seXXIq) | 3:33 | 2022-03-02 | 2022-03-24 |
 | [Bicicleta, Por Siempre](https://open.spotify.com/track/7sRwR8BBj4ejm1ArMNBXTM) | [Cementerio De Elefantes](https://open.spotify.com/artist/10OYRF7ERuocazzldugdFT) | [1ESB](https://open.spotify.com/album/5TGu6OXGffHtHGz9ayqPG6) | 4:22 | 2022-06-15 | 2022-07-14 |
-| [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 | 2023-06-28 |  |
+| [bien](https://open.spotify.com/track/2ZafAJuC7oYKtPOnO0uTnW) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1tfZOsRed1FZUuPDuSDSZC) | 3:00 | 2023-11-29 |  |
+| [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 | 2023-06-28 | 2023-12-31 |
 | [Bien Pegao](https://open.spotify.com/track/1TSkSNmCN6r207Y3vOpETB) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Bien Pegao](https://open.spotify.com/album/5Z05D3PGbbNxbPFwX9QWep) | 3:03 | 2023-06-07 | 2023-06-29 |
 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 | 2023-05-03 | 2023-05-24 |
 | [Bien?](https://open.spotify.com/track/52m258iE1bAIHZVwIpNGqN) | [Oliivr](https://open.spotify.com/artist/0iTUsca1axJEI2gTD3CSa1) | [Bien?](https://open.spotify.com/album/5xfyJpUUVOl9b5IscR73QE) | 2:15 | 2023-07-19 | 2023-08-03 |

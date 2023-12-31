@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,638 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,698 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 56 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 |
 | 57 | [Good Over Evil](https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:24 |
 | 58 | [Stay](https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Stay](https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e) | 4:07 |
-| 59 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
-| 60 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
+| 59 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
+| 60 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
 | 61 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 |
 | 62 | [GOODLOVE](https://open.spotify.com/track/1qA672RAmDGPSuCiwxwOm4) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [GOODLOVE](https://open.spotify.com/album/56GCZRwzq8fAHUpdeebIuv) | 4:07 |
 | 63 | [Let's Make Up](https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Forward](https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F) | 4:51 |
 | 64 | [Jah Live](https://open.spotify.com/track/2z5cwp5bP6Ee0OkqZIMhUO) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa), [Rad Dixon](https://open.spotify.com/artist/7JXELSd1fmoC42P8KNuVIO) | [Jah Live](https://open.spotify.com/album/4FADiCLdgHpzGoAUWzNTy8) | 3:51 |
-| 65 | [Zulu Gang](https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 2:46 |
-| 66 | [Allow Me to Live](https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib) | 3:03 |
+| 65 | [Allow Me to Live](https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib) | 3:03 |
+| 66 | [Zulu Gang](https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 2:46 |
 | 67 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 | 68 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 69 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
 | 70 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 
-Snapshot ID: `MCwzMTAyNjZmOTYwNzYzMWE2NjIzMWJlOWU5YzZiZjZmZWE0ZmU1YmM4`
+Snapshot ID: `MCw0ZGYwZWRhY2E2ODdmMjc5MzZjYTkyYjkzODFjZjVhZmQwMzUwOWFm`

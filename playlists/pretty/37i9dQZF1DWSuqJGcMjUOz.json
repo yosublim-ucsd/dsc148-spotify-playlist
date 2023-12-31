@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3876,
+  "num_followers": 3875,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzgwMmQwMTNhYjQxMmQ2NTM2MmQwOGQzNjYwNGQ1YWNlZjY3NWFl",
+  "snapshot_id": "MCxlZWNhYjc4ZWJlYmY2MDEwMTM3MTIyNWZlMjk3MGIyZjJlMjkzODdm",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "COOLEUR",
-        "url": "https://open.spotify.com/album/4ssdeY6r0pe2Wd2RHWbED8"
-      },
-      "artists": [
-        {
-          "name": "Julien Granel",
-          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "PLUS FORT",
-      "url": "https://open.spotify.com/track/3rBnK1aNhpg4j3HKkVrcbq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Eh Yo!",
         "url": "https://open.spotify.com/album/0zYw19TVITYM3d6FC5ZrZM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 143320,
       "name": "Montagne",
       "url": "https://open.spotify.com/track/08BYSPtCPlCxvx4jJaDqPF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "COOLEUR",
+        "url": "https://open.spotify.com/album/4ssdeY6r0pe2Wd2RHWbED8"
+      },
+      "artists": [
+        {
+          "name": "Julien Granel",
+          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "PLUS FORT",
+      "url": "https://open.spotify.com/track/3rBnK1aNhpg4j3HKkVrcbq"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le blanc des yeux",
-        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 177282,
-      "name": "Le blanc des yeux",
-      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Ce soir l'amour est dans tes yeux",
         "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 393013,
       "name": "L'amour est dans tes yeux",
       "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Le blanc des yeux",
+        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        }
+      ],
+      "duration_ms": 177282,
+      "name": "Le blanc des yeux",
+      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "L'\u00e9norme chien tr\u00e8s gentil",
+        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "L'\u00e9norme chien tr\u00e8s gentil",
+      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Un jour de plus au paradis",
         "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9norme chien tr\u00e8s gentil",
-        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
       "artists": [
         {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 179384,
-      "name": "L'\u00e9norme chien tr\u00e8s gentil",
-      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
+      "duration_ms": 173843,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -931,22 +947,6 @@
       "duration_ms": 144720,
       "name": "Si j'\u00e9tais toi",
       "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 173843,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Les avions de Mirabel",
+        "url": "https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        }
+      ],
+      "duration_ms": 220822,
+      "name": "Les avions de Mirabel",
+      "url": "https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 138855,
       "name": "+1 (feat. Meggie Lennon & Virginie B)",
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Les avions de Mirabel",
-        "url": "https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ"
-      },
-      "artists": [
-        {
-          "name": "Claude B\u00e9gin",
-          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
-        }
-      ],
-      "duration_ms": 220822,
-      "name": "Les avions de Mirabel",
-      "url": "https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Waska Matisiwin",
-        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
-      },
-      "artists": [
-        {
-          "name": "Laura Niquay",
-          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
-        }
-      ],
-      "duration_ms": 118609,
-      "name": "Wactenamaci - Illumine-moi",
-      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nouvelle administration",
         "url": "https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 198145,
       "name": "Nouvelle administration",
       "url": "https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 118609,
+      "name": "Wactenamaci - Illumine-moi",
+      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 240010,
+      "name": "Nimueshtaten nete",
+      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Soap Box",
         "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 192653,
       "name": "Quoi-ce tu fais \u00e7a pour?",
       "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 240010,
-      "name": "Nimueshtaten nete",
-      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "C'est un bum",
-      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Am\u00e9rica",
         "url": "https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 208320,
       "name": "Deux pieds dans la tombe",
       "url": "https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "C'est un bum",
+      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
       },
       "artists": [
         {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+      "duration_ms": 190500,
+      "name": "Mon petit chemin",
+      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1695,22 +1695,6 @@
       "duration_ms": 206306,
       "name": "Le temps des morts",
       "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Mon petit chemin",
-      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "L'\u00e9chec h\u00e9ro\u00efque",
         "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
       },
@@ -1775,26 +1775,6 @@
       "duration_ms": 204461,
       "name": "Mydriase",
       "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Le pouvoir de l'esprit est infini",
-        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
-      },
-      "artists": [
-        {
-          "name": "Eman",
-          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
-        },
-        {
-          "name": "ISMA",
-          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
-        }
-      ],
-      "duration_ms": 277195,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1815,6 +1795,26 @@
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Le pouvoir de l'esprit est infini",
+        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
+      },
+      "artists": [
+        {
+          "name": "Eman",
+          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+        },
+        {
+          "name": "ISMA",
+          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
+        }
+      ],
+      "duration_ms": 277195,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Anh\u00e9donie",
-        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
-      },
-      "artists": [
-        {
-          "name": "Pierre Guitard",
-          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
-        }
-      ],
-      "duration_ms": 342280,
-      "name": "Pourtant",
-      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "duration_ms": 342280,
+      "name": "Pourtant",
+      "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "OneNessa",
-          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Or",
-      "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Petite fille devient grande",
         "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 152126,
       "name": "T'es la reine",
       "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "OneNessa",
+          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "Or",
+      "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
     },
     {
       "added_at": "2023-05-25 23:46:15",

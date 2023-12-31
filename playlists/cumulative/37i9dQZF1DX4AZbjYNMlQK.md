@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-174 songs - 9 hr 23 min
+175 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Campana Sobre Campana](https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 2:38 | 2021-12-15 | 2022-12-20 |
 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 | 2021-12-15 | 2022-12-20 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:32 | 2022-12-19 | 2023-11-18 |
-| [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-19 |  |
+| [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-19 | 2023-12-31 |
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-25 |  |
 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 | 2023-12-01 | 2023-12-27 |
 | [Diciembre](https://open.spotify.com/track/4uXPGx3gKGFYPx6kkQfUm5) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:08 | 2021-12-15 | 2022-12-19 |
@@ -108,6 +108,7 @@
 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-19 | 2023-10-25 |
 | [Mi Regalito Eres Tu](https://open.spotify.com/track/2EgcqhH32EIu8qlcuAnToy) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 3:01 | 2022-12-18 | 2023-11-18 |
 | [Mi Regalito Eres Tú](https://open.spotify.com/track/2Oej5AvQmrjaReH7zQq7MQ) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/0LXg2Cuuc3p2txsIh8BlCI) | 3:01 | 2021-12-15 | 2022-11-14 |
+| [mi único deseo](https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [mi único deseo](https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92) | 3:06 | 2023-12-20 |  |
 | [Mis Deseos](https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:35 | 2021-12-15 | 2022-12-20 |
 | [Mix Navideño](https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL) | [Maxi Brito](https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk), [E Negrito](https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Mix Navideño](https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV) | 3:19 | 2022-12-19 | 2023-09-03 |
 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 | 2021-12-15 | 2022-12-20 |

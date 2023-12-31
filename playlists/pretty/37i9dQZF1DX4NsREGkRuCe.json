@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 59270,
+  "num_followers": 59338,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzk5NTI1ODVlZTdhNWU0Njc4M2U2ODY0ZDRlZWVjMDJjNmE2NGQ0",
+  "snapshot_id": "MCxkYjEyNDIyNjdkNDg2ZjMzMjVlMWIwYzJjYjZlYWQ3ODQ4NGU2MDlh",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Asiwaju",
-        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+      "duration_ms": 145031,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 145031,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -887,18 +903,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -919,26 +939,6 @@
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "LIKE THAT (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -1055,18 +1035,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Elon musk",
-        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 195761,
-      "name": "Elon musk",
-      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
+      "duration_ms": 192826,
+      "name": "LIKE THAT (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+        "name": "Elon musk",
+        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 203889,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
+      "duration_ms": 195761,
+      "name": "Elon musk",
+      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 172631,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2met1gGQGPLB6BlD6vRreN"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
         }
       ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+      "duration_ms": 173583,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3gVJPWiCXebHMrpCMWyXZN"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2met1gGQGPLB6BlD6vRreN"
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
       "artists": [
         {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 173583,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3gVJPWiCXebHMrpCMWyXZN"
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1395,26 +1395,6 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Ashewo Boy",
-      "url": "https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1467,6 +1447,26 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Ashewo Boy",
+      "url": "https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S"
     },
     {
       "added_at": "2023-12-22 00:01:00",

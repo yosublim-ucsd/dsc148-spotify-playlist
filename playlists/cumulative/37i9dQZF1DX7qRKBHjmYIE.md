@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Jesse Baez.
 
-620 songs - 1 day 9 hr 42 min
+621 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 | 2022-01-24 | 2022-04-09 |
 | [Loose](https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:05 | 2023-01-10 | 2023-02-03 |
 | [Los Gatos](https://open.spotify.com/track/4S7W08Iiv31ukWIwkXH1NS) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:16 | 2023-01-10 | 2023-02-03 |
-| [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 | 2023-12-08 |  |
+| [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 | 2023-12-08 | 2023-12-31 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-21 | 2023-02-03 |
 | [Lost](https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0) | [T\-Dre](https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD), [Delux](https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f), [Cali Life Style](https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu) | [Mexican Invasion](https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX) | 4:48 | 2022-01-24 | 2022-03-17 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-03-18 | 2023-02-17 |
@@ -457,6 +457,7 @@
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-25 | 2022-09-07 |
 | [Provide](https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Provide](https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa) | 4:00 | 2021-12-02 | 2022-01-25 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2021-12-02 | 2022-01-29 |
+| [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-01-24 | 2022-10-28 |
 | [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 | 2023-10-13 | 2023-12-30 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2023-08-11 | 2023-08-26 |

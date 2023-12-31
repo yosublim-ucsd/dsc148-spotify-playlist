@@ -1,15 +1,15 @@
 {
   "description": "This is Zudizilla. The essential tracks, all in one playlist.",
-  "num_followers": 712,
+  "num_followers": 713,
   "original_name": "This Is Zudizilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzOTc1MTEsMDAwMDAwMDBjYWU0YTg1MGI2NzU2MGNjY2ExMzJjODkwOGMzMjk3Yg==",
+  "snapshot_id": "MjgzOTg5MzMsMDAwMDAwMDAwN2VlNDMzNmYzNDU0YzhiYjkxMmM3OWVhNjc1M2IzMg==",
   "tracks": [
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Ameixa",
         "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "I Can See the Sun",
         "url": "https://open.spotify.com/album/1Zl4jJDpUsQ8s7fMsJSF77"
@@ -105,43 +105,7 @@
       "url": "https://open.spotify.com/track/5vZnKY2jpbBAYU8sXURY5z"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "EGOT",
-        "url": "https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "EGOT",
-      "url": "https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "O Pre\u00e7o da Guerra",
-      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
@@ -161,7 +125,27 @@
       "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "O Pre\u00e7o da Guerra",
+      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Banho de Folhas (Nyack Remix)",
         "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
@@ -185,7 +169,7 @@
       "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Otra Fita",
         "url": "https://open.spotify.com/album/1n5u2u4AjMFS06YyZIBNSs"
@@ -205,7 +189,23 @@
       "url": "https://open.spotify.com/track/5BOMNZGF1d9KPpxt3jUaCE"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Sintonize",
+      "url": "https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Sintonize",
-      "url": "https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -257,7 +241,7 @@
       "url": "https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
@@ -268,12 +252,32 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Steez",
+        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Steez",
+      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
@@ -293,27 +297,7 @@
       "url": "https://open.spotify.com/track/64LdVIQcUpXjCxgjUKlCBX"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Luzes",
-        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
-      },
-      "artists": [
-        {
-          "name": "RND",
-          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 191492,
-      "name": "Luzes",
-      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -337,7 +321,7 @@
       "url": "https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
@@ -348,12 +332,32 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Luzes",
+        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
+      },
+      "artists": [
+        {
+          "name": "RND",
+          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 191492,
+      "name": "Luzes",
+      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
@@ -369,27 +373,7 @@
       "url": "https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Steez",
-        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Steez",
-      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -409,7 +393,7 @@
       "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
@@ -425,23 +409,7 @@
       "url": "https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "JazzKilla",
         "url": "https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S"
@@ -461,7 +429,23 @@
       "url": "https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -481,7 +465,7 @@
       "url": "https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
@@ -497,75 +481,7 @@
       "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 194833,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Psicodelic",
-        "url": "https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 250918,
-      "name": "Um Acorde",
-      "url": "https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348097,
-      "name": "HORA DOURADA",
-      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Uhuru",
-      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
@@ -585,7 +501,75 @@
       "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Psicodelic",
+        "url": "https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Um Acorde",
+      "url": "https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348097,
+      "name": "HORA DOURADA",
+      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Uhuru",
+      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 194833,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Hip Hop Machine #21",
         "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -625,7 +609,7 @@
       "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
@@ -641,7 +625,7 @@
       "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
@@ -657,7 +641,7 @@
       "url": "https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "L\u00e1 Fora",
         "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
@@ -685,7 +669,7 @@
       "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "N\u00e3o",
         "url": "https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4"
@@ -701,7 +685,7 @@
       "url": "https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "JazzKilla",
         "url": "https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S"
@@ -721,7 +705,7 @@
       "url": "https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
@@ -737,7 +721,7 @@
       "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "POPART",
         "url": "https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG"
@@ -761,23 +745,7 @@
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "T\u00edpico",
-        "url": "https://open.spotify.com/album/2p6rscCysT7F72XxDZ4xks"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "T\u00edpico",
-      "url": "https://open.spotify.com/track/2eGpy8NN1bc2UQbKGOtuX5"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Hip Hop Machine #21",
         "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
@@ -801,23 +769,7 @@
       "url": "https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Benedito",
-      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
-    },
-    {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Pref\u00e1cio",
         "url": "https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz"
@@ -833,7 +785,23 @@
       "url": "https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Benedito",
+      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
+    },
+    {
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "DCAC - de C\u00e9sar a Cristo",
         "url": "https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl"
@@ -853,7 +821,7 @@
       "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Sob Controle",
         "url": "https://open.spotify.com/album/2AA45ILcKOlyYpnI9Q0fig"
@@ -869,7 +837,7 @@
       "url": "https://open.spotify.com/track/5tKwo5oKZXU8VdhUWNybJL"
     },
     {
-      "added_at": "2023-12-29 11:51:05",
+      "added_at": "2023-12-30 11:33:54",
       "album": {
         "name": "Vibranium",
         "url": "https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,862 likes - 115 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,051 likes - 115 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 72 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
 | 73 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 74 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
-| 75 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
-| 76 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
-| 77 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
+| 75 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
+| 76 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
+| 77 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
 | 78 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
 | 79 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
 | 80 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 86 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
 | 87 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
 | 88 | [Something for Sellers \- From the Mirisch\-G & E Production "The Pink Panther"](https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:49 |
-| 89 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
+| 89 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
 | 90 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 |
-| 91 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
-| 92 | [Ebb Tide](https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:15 |
-| 93 | [Memories of Summer](https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M) | 3:10 |
+| 91 | [Ebb Tide](https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:15 |
+| 92 | [Memories of Summer](https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M) | 3:10 |
+| 93 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
 | 94 | [Over the Rainbow](https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL) | [Caravelli](https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav) | [Caravelli & His Orchestra](https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ) | 3:28 |
 | 95 | [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 |
 | 96 | [Frenesi](https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T) | 3:20 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
 | 115 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
 
-Snapshot ID: `MCw3Y2YxYjQyZjE2YzQxYmJmZjJjODgzN2M2ODcyMzk1MmM4YzgwMjBm`
+Snapshot ID: `MCw3MTMzMTliNTRmYTQzMTIwMTJkMTM1ZWFkODg0YzE3MGZlNTlkN2Fm`

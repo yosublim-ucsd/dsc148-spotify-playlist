@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-115 songs - 4 hr 35 min
+116 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2O2](https://open.spotify.com/track/2sYMOSctTL2Jxp8scdcwE1) | [ICQ BABY](https://open.spotify.com/artist/5YQnfA7pMHo9MriIb2l0kO) | [essentials v1](https://open.spotify.com/album/2CsZISRhwzhuNtaTya7mhe) | 2:05 | 2023-09-15 | 2023-11-18 |
 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 | 2023-10-13 |  |
 | [8 OU 80](https://open.spotify.com/track/1YMS2vs2B53ChxozGONyXR) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [8 OU 80](https://open.spotify.com/album/6boxvFrgUTBru5olZLmOPB) | 1:53 | 2023-12-01 |  |
+| [A La Carte](https://open.spotify.com/track/0lMHRyr7e9SfR12HwPnbAl) | [Frostt 7k](https://open.spotify.com/artist/7yXOjQ9jwqFeQIaKz8xzWh), [Canguru](https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG) | [A La Carte](https://open.spotify.com/album/4ZFkNL5UbIpQhyGSCrfUeW) | 3:54 | 2023-12-30 |  |
 | [Abençoado](https://open.spotify.com/track/1QUOw9BKGEWSlo5XLt5vey) | [Vineee](https://open.spotify.com/artist/46BTmgvrCz09lWP0KxSRES) | [Vitória](https://open.spotify.com/album/7JfBKyoDTo9347LleQlGbG) | 2:59 | 2023-09-15 | 2023-09-23 |
 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 | 2023-12-22 |  |
 | [Adrenalina](https://open.spotify.com/track/2VBrC9cGZpIbyjR004EzrR) | [AKillis](https://open.spotify.com/artist/3qLr4YyEGECjotv6W91hnn) | [Adrenalina](https://open.spotify.com/album/22l3iTYWW38NCab6dVYhcl) | 1:10 | 2023-09-22 | 2023-10-14 |

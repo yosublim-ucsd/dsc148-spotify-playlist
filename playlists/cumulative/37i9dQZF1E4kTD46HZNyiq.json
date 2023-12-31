@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 250537,
       "name": "1984",
       "url": "https://open.spotify.com/track/67sJp0ChEsa4mKXUFae0qq"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "Alibi - Alternate Version",
       "url": "https://open.spotify.com/track/1Xr0Ro5mB0Gmp6Psn6ELK4"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 189440,
       "name": "Bad Happens",
       "url": "https://open.spotify.com/track/2ucwNixGWXhuzxVT2sW6BM"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 191576,
       "name": "Beggars",
       "url": "https://open.spotify.com/track/5INKVy5tC1hqEW3f3zfVWC"
@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 201000,
       "name": "Bolder Feelings",
       "url": "https://open.spotify.com/track/4YnaKEsp4d3Gk842p43KGq"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18"
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -4784,7 +4784,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 290000,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 312832,
       "name": "Don't Say It's Over",
       "url": "https://open.spotify.com/track/6ASR8vFwFJn9jsUZXHkWRw"
@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 179880,
       "name": "Driving in the Rain",
       "url": "https://open.spotify.com/track/4JBh6tSLuJuzI0wzeKeKuq"
@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 177042,
       "name": "Easy Now Tiger",
       "url": "https://open.spotify.com/track/4EKCeld6evHtbXiNlJw3Ux"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 251000,
       "name": "Escape",
       "url": "https://open.spotify.com/track/5vcXZBMm0gbMMLPnzfQA4A"
@@ -6310,7 +6310,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 169293,
       "name": "Feel Every Bit",
       "url": "https://open.spotify.com/track/41P0qqBtGdJUeGr85AnHot"
@@ -6346,7 +6346,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 194785,
       "name": "feel it all",
       "url": "https://open.spotify.com/track/4QVjQ9TwcZlTZuE2DrKfGA"
@@ -7190,7 +7190,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -7666,6 +7666,24 @@
       "duration_ms": 332467,
       "name": "goodbyes",
       "url": "https://open.spotify.com/track/5eKFmFs8T4dUUJJsvXaFD7"
+    },
+    {
+      "album": {
+        "name": "Bowery Beach Road",
+        "url": "https://open.spotify.com/album/2THkBasAbVsDjwA8YVt7Cl"
+      },
+      "artists": [
+        {
+          "name": "Eighty Ninety",
+          "url": "https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Got Your Message",
+      "url": "https://open.spotify.com/track/50G137H68zUcSRZynYIelO"
     },
     {
       "album": {
@@ -9554,7 +9572,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "I'm In Love With Everybody",
       "url": "https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy"
@@ -10320,7 +10338,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 174864,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/5zVHwBeY73uCLcHVmgeQt8"
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 200000,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs"
@@ -11308,7 +11326,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -12238,7 +12256,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 187200,
       "name": "Marigolds",
       "url": "https://open.spotify.com/track/2x8yPQN2sJwEYzyNmKYmeB"
@@ -13478,7 +13496,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 196480,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/4GU3pzVQTLyR3n1VEAneMn"
@@ -14222,7 +14240,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 187428,
       "name": "Okay With That",
       "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
@@ -14258,7 +14276,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Olympia",
       "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
@@ -14732,7 +14750,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Outta This Town",
       "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
@@ -14862,7 +14880,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -15326,7 +15344,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 302266,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4"
@@ -15798,7 +15816,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 262266,
       "name": "Revelator Eyes",
       "url": "https://open.spotify.com/track/4RE5Ob7hHtHqVKfgtNsVyW"
@@ -16614,7 +16632,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 165906,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/6vU3I1iWAhwd8m9iNHINoS"
@@ -17230,7 +17248,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 200111,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/0X48tmPQTHN2vtoyAnJK8M"
@@ -17652,7 +17670,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 220588,
       "name": "Still",
       "url": "https://open.spotify.com/track/01BMWle7IqP76blxyehuvl"
@@ -17706,7 +17724,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -18110,6 +18128,24 @@
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3yTPovBS6q8zcevTR3UowE"
+    },
+    {
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "Surprise Surprise",
+      "url": "https://open.spotify.com/track/0G562V1KEkO7fvzmDElpuV"
     },
     {
       "album": {
@@ -18532,7 +18568,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 176557,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6v6cUseBFbR5J7UNl6VVHP"
@@ -18652,7 +18688,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 191469,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6S6IOTQj9qHqz2y6aFh8pH"
@@ -18760,7 +18796,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 178208,
       "name": "The Ad Above Your Head",
       "url": "https://open.spotify.com/track/20hfy1spAEJDcQlS7uxhyI"
@@ -19334,7 +19370,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 236330,
       "name": "Thoughts in Progress",
       "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"
@@ -20448,7 +20484,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 267440,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/2eqmaS8xZHhXKntSa3b6YT"
@@ -20762,7 +20798,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 205493,
       "name": "What You See",
       "url": "https://open.spotify.com/track/1PsD3r2skTi9J6LlZrOau5"
@@ -20838,6 +20874,24 @@
       "duration_ms": 293360,
       "name": "When It Hurts You",
       "url": "https://open.spotify.com/track/7jHbB8591haXGDkocA9lDD"
+    },
+    {
+      "album": {
+        "name": "Silver Crane",
+        "url": "https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "When She's Dancing",
+      "url": "https://open.spotify.com/track/6Av9UKlQ1mVjWduza4gGHJ"
     },
     {
       "album": {
@@ -21632,7 +21686,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 176653,
       "name": "You Don\u2019t Look at Me the Same",
       "url": "https://open.spotify.com/track/2rggoRqUqZcsznpwSRYSqx"
@@ -22112,7 +22166,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 177413,
       "name": "Yours to Take",
       "url": "https://open.spotify.com/track/5SClmMOVTucqXrDNgp0prH"

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1541576,
+  "num_followers": 1541830,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM5NGFhMmY0N2I3NWUxMWFjNjQzYjA4Nzc5OGY1YTIyNTQ1MjBh",
+  "snapshot_id": "MCwwMDY1YmJjNTljYTY0NmY2YjUzNzg0ZjQwY2EyYmFkN2NlNTY2OTUx",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -631,22 +631,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 159458,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -671,22 +671,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Coming Home (feat. John Martin)",
-        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Coming Home (feat. John Martin)",
-      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 207360,
       "name": "I Want You - Edit",
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Coming Home (feat. John Martin)",
+        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Coming Home (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Nightvision EP",
-        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Skin On Skin",
-      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "Just The Kinda Feeling",
-      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I Need You (Adriatique Remix)",
         "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "Just The Kinda Feeling",
+      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
       },
@@ -1843,18 +1859,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 191341,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1879,18 +1895,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sweet Surrender",
-        "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
       "artists": [
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         }
       ],
-      "duration_ms": 191341,
-      "name": "Sweet Surrender",
-      "url": "https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K"
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1911,22 +1947,6 @@
       "duration_ms": 213870,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1963,46 +1983,6 @@
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
-      },
-      "artists": [
-        {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2047,6 +2027,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     }
   ],
   "unique_name": "Night Rider",

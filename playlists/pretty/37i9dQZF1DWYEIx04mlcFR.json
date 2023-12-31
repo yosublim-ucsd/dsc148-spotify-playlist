@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67092,
+  "num_followers": 67104,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzU5ZDI5MmM1MDI4Yjc0Yjk0YWFiYzhlNzQxNzYzNTk4ZmE3MDZj",
+  "snapshot_id": "MCw0ODgyMDIxZWU3NzU1NmVmM2IzYzNjOTA0MGRmY2FiMmYxNmQ4MmNk",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Sat\u00e9lites",
+        "url": "https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Sat\u00e9lites",
+      "url": "https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Sat\u00e9lites",
-        "url": "https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r"
-      },
-      "artists": [
-        {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Sat\u00e9lites",
-      "url": "https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 149657,
-      "name": "Debut",
-      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "M\u00fasica Para Adultos",
         "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166246,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 149657,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "El Principal",
+        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "duration_ms": 210187,
+      "name": "El Principal",
+      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 166813,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "El Principal",
-        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "ni-hao!!!!",
-          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
-        }
-      ],
-      "duration_ms": 210187,
-      "name": "El Principal",
-      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "cansada de verte en todas partes",
-      "url": "https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "no soy yo",
         "url": "https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 153639,
       "name": "no soy yo",
       "url": "https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-267 songs - 19 hr 31 min
+268 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [6000 Ft.](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak / 6000 Ft.](https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt) | 5:36 | 2021-12-03 | 2023-06-02 |
 | [A Call For All Demons](https://open.spotify.com/track/75ShahS35yl5k6qGckNVay) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 5:36 | 2021-12-03 | 2022-04-25 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 | 2022-05-20 | 2022-07-29 |
-| [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-24 |  |
+| [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-24 | 2023-12-31 |
 | [A Rã](https://open.spotify.com/track/7wpy0PpiuOgscZTF1cMTUB) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The Bossa Nova Wave \- Digital](https://open.spotify.com/album/77kDc58h08n9qKEy6OxlLW) | 2:32 | 2021-12-03 | 2022-06-24 |
 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 | 2022-09-15 | 2023-06-02 |
 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 | 2022-02-25 |  |
@@ -58,6 +58,7 @@
 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 | 2021-12-03 | 2022-07-27 |
 | [Cosmosis](https://open.spotify.com/track/4q2Jdr5xFZPcNVMtsxjW6v) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Ben Okri](https://open.spotify.com/artist/2bQy02W5bp0k6rzHUbH6Xi), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [There Is No End](https://open.spotify.com/album/4BK64Duprygx9JNpXv9dmH) | 4:44 | 2021-12-03 | 2022-07-25 |
 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 | 2021-12-03 |  |
+| [Crawshay](https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3OE1HvJztiyEn6p3dTmStC) | 4:20 | 2023-11-24 |  |
 | [Crawshay](https://open.spotify.com/track/2bQFQyJpoTweZZwAviCymH) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3fsbz1ZhCSVKyEPHot6gKb) | 4:20 | 2022-06-24 | 2022-07-22 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 |  |
 | [Deaf in Three Corners](https://open.spotify.com/track/4gWnXX7FXIHrXnE7vvLpRr) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Modern Antics in a Deserted Place](https://open.spotify.com/album/2yAbgYcYrEKDDVedvlH7nb) | 3:21 | 2021-12-03 | 2022-03-18 |

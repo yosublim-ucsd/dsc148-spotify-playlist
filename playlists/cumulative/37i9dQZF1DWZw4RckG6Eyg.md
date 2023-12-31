@@ -4,13 +4,13 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-197 songs - 11 hr 0 min
+198 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-11-29 |  |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-11-29 |  |
-| [a stranger with my face](https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [a stranger with my face](https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP) | 3:51 | 2023-11-29 |  |
+| [a stranger with my face](https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [a stranger with my face](https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP) | 3:51 | 2023-11-29 | 2023-12-31 |
 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 | 2022-11-30 | 2023-11-30 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-30 | 2023-04-30 |
 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 | 2022-11-30 | 2023-11-30 |
@@ -113,6 +113,7 @@
 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 | 2023-11-29 |  |
 | [Like You](https://open.spotify.com/track/19UqVT2WgSz39uvT28mCHg) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 3:50 | 2022-11-30 | 2023-11-30 |
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-11-30 | 2023-02-28 |
+| [LLTB](https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [LLTB](https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs) | 3:40 | 2023-11-29 |  |
 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-11-29 |  |
 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 | 2023-11-29 |  |
 | [Love You By Myself](https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Love You By Myself](https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj) | 3:01 | 2022-11-30 | 2023-11-30 |

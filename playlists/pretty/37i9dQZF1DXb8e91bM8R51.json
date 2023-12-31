@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 49360,
+  "num_followers": 49378,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODNhMzJiZDdhNzkyMzE0YTMyN2Q4NjRlNTFmNDg3ZTRiYzFkN2Y1",
+  "snapshot_id": "MCwzNmVjZDFjYWJkMDU3MGI3MDM4YmQ1NmY5MzQ5OGMzZDJmNDk1NTMx",
   "tracks": [
     {
       "added_at": "2023-11-24 17:03:40",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Curtain Call 2",
-        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Is This Love ('09) (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "College Park",
         "url": "https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5tIUJI1rofqeaaZ5x43tp4"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "King Zoo",
-        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 118615,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "Ain't Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3yj2uESNcngIeP0BdISs58"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "King Zoo",
+        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 118615,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 108387,
-      "name": "In my lifetime (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1615,6 +1611,26 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "In my lifetime (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
         "name": "I Won [From F9 The Fast Saga Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/01RtA0qCjfGy0FY4ON23nD"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1811,6 +1811,38 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
+        "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+        "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+      "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -1843,38 +1875,6 @@
       "duration_ms": 172105,
       "name": "Shoot My Shot",
       "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
-        "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
-      "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Show & Tell (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
         "name": "SOUTHEND LEGEND",
         "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
       },
@@ -2031,22 +2051,18 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Show & Tell (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2067,22 +2083,6 @@
       "duration_ms": 179377,
       "name": "No Distractions",
       "url": "https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2159,46 +2159,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -2219,6 +2179,46 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
         "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
       },
@@ -2347,26 +2327,38 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "De La Soul is Dead",
-        "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         },
         {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
-      "duration_ms": 242006,
-      "name": "A Roller Skating Jam Named \"Saturdays\"",
-      "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     }
   ],
   "unique_name": "No corre",

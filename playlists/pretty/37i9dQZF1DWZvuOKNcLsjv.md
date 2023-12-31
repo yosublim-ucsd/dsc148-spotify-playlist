@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,499 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,537 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 98 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 |
 | 99 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 |
 
-Snapshot ID: `MCxlOTgzNzIwMjYxYzE1Nzg4MDQ0MDQ0ZjUxYWFkMzE0YzlhZGVhNzk0`
+Snapshot ID: `MCwwZWU1MjYyNmIyNGFiOWNhMWVmMjk4ZGRlZTI5YmQwMTU2MjYzMDg5`

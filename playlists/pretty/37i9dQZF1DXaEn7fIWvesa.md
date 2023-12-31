@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,498 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,520 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 31 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
 | 32 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 |
 | 33 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
-| 34 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
-| 35 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
+| 34 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
+| 35 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
 | 36 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 |
 | 37 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 38 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 50 | [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 |
 
-Snapshot ID: `MCxkZDQyYWUyNTYzMTI1ZmJlMjFiNWM4ZTA4ZjczODRmNDQ5MTA5ZjY2`
+Snapshot ID: `MCwzZmZiNjYxMGRiNWE1MDZkMDczZTM2NjNhMzk2M2Y5NGRjNTU5NDJj`

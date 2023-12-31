@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,365 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,381 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 75 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
 | 76 | [Un Meneito Na' Ma'](https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O) | [Arturo Nuñez Y Su Orquesta](https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl) | [El Caballero del Ritmo](https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d) | 3:13 |
 | 77 | [Que Bueno Baila Usted](https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 3:12 |
-| 78 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
-| 79 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
+| 78 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
+| 79 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 80 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 81 | [Tema De Lara](https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Éxitos](https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa) | 2:10 |
 | 82 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCxiY2RjNjdkNjJmMWE0MTE2YzM5YjFlZDM3OWI3MjBmYzg3NDRhMzlj`
+Snapshot ID: `MCw1NzQ4YzQwMzk0ZDIyNDhkY2JkMzRlOTUzOTFlMTE4ODc2NDYxYTJh`

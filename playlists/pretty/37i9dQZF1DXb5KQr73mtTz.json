@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2I5MDcxMDZlOGY4YTAyZTdiOGVkMjg4ZWIxNDQ4NzFlZjIxMjM3",
+  "snapshot_id": "MCw1NDBlYTQ5OTY4NmY4OTBhZGNlYmI4N2Q2M2U1MmI2NDU1ZWZjMTFj",
   "tracks": [
     {
       "added_at": "2023-11-03 06:22:09",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+      "duration_ms": 240532,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
     },
     {
       "added_at": "2023-11-03 06:22:09",

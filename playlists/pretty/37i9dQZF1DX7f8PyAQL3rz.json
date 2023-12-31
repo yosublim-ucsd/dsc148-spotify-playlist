@@ -1,12 +1,12 @@
 {
   "description": "dinheiro \u00e9 bom quero sim se essa \u00e9 a pergunta falai ph",
-  "num_followers": 1315762,
+  "num_followers": 1316960,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWJiMTdmNzgwNzg0MTM4ZTM5NWU1OWY2N2RhMTMxMzMyMDc4MDZl",
+  "snapshot_id": "MCw5NWM5MmNmNDk0NTgwZTdiNTYzNDBlMzJlZDFkOTQ5ZmFmMmUwY2Y0",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1195,62 +1195,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 177877,
-      "name": "Dose de Gin",
-      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Hino dos Mlks",
-        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Hino dos Mlks",
-      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -1303,6 +1247,62 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 177877,
+      "name": "Dose de Gin",
+      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Hino dos Mlks",
+        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Hino dos Mlks",
+      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
     },
     {
       "added_at": "2023-12-29 03:00:00",

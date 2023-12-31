@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28898,
+  "num_followers": 28896,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWE3ZjlmZTA5ZGU0YmYyZjM4OTljNGY2ODNlNWZmYjM4NmE4MTdh",
+  "snapshot_id": "MCwwYTdkNDEzYTJmYTU0OWJiZmE3ZDM4YzM2ZjFlZGJhZmU1MTlkYzZj",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
         }
       ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Love Gun",
-      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 267000,
       "name": "Bang a Gong (Get It On) - 2003 Remaster",
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
     },
     {
       "added_at": "2022-11-17 16:14:04",

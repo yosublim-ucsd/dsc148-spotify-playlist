@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 195474,
       "name": "Los Perros Van Al Cielo",
       "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
@@ -8764,6 +8764,28 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
+    },
+    {
+      "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,193 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,318 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 66 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
 | 67 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 68 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 |
-| 69 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
-| 70 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 |
+| 69 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 |
+| 70 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 71 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
 | 72 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
 | 73 | [Noso](https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Nico Casal](https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Noso](https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz) | 7:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
 | 80 | [Whiter Shade of Pale](https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Whiter Shade of Pale](https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O) | 2:43 |
 
-Snapshot ID: `MCw4Mjc4NWQxMmJkMzIyMTY3NWU2YjRjZTgxNmVmMWQ1ZDk2YWZjMTUy`
+Snapshot ID: `MCw0MWIxOGQyMjY1MWJjMDVhYmYyN2YyOTE1MWZhZjMyZDY3YWI0Nzli`

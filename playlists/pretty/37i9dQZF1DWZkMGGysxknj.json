@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813390,
+  "num_followers": 813397,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDAzMTdiODAwNzgxNTA2NGRkYWRjOGQ0MjIxYmFkOTZjZDc0ZTk3",
+  "snapshot_id": "MCw0MmZjMjg5ODBlYTkzYTZmMTE3YTA0MjZjYmQ2MjNkZDRmNWVhMjQw",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "2U (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "2U - Acoustic Version",
-      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "We Found Love",
         "url": "https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 173065,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "2U (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "2U - Acoustic Version",
+      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Pumped Up Kicks (Acoustic Version)",
         "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 174793,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lullabies for Adults & Children",
         "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 156214,
       "name": "Wake Up With the Sun",
       "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
-      },
-      "artists": [
-        {
-          "name": "The Mistrals",
-          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
-        }
-      ],
-      "duration_ms": 214143,
-      "name": "Feels - Acoustic",
-      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Los Feliz",
         "url": "https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 170370,
       "name": "Los Feliz",
       "url": "https://open.spotify.com/track/6qY9VrqsfBeT8Nrc1Yg8jI"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
+      },
+      "artists": [
+        {
+          "name": "The Mistrals",
+          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
+        }
+      ],
+      "duration_ms": 214143,
+      "name": "Feels - Acoustic",
+      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Physical (Acoustic)",
-        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
-      },
-      "artists": [
-        {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
-        }
-      ],
-      "duration_ms": 198608,
-      "name": "Physical - Acoustic",
-      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Physical (Acoustic)",
+        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+      },
+      "artists": [
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "duration_ms": 198608,
+      "name": "Physical - Acoustic",
+      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs"
       },
@@ -1787,26 +1803,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Softly / Please (Mahogany Sessions)",
-        "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Softly - Mahogany Sessions",
-      "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Emily Alone",
         "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
       },
@@ -1819,22 +1815,6 @@
       "duration_ms": 220189,
       "name": "Shadow Bloom",
       "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1859,34 +1839,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+        "name": "Softly / Please (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
       },
       "artists": [
         {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Warping Youth",
-        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
-      },
-      "artists": [
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
         {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
         }
       ],
-      "duration_ms": 311680,
-      "name": "People Wither",
-      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
+      "duration_ms": 304893,
+      "name": "Softly - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1923,6 +1891,38 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Warping Youth",
+        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 311680,
+      "name": "People Wither",
+      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+      },
+      "artists": [
+        {
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -1995,18 +2011,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+        "name": "Cabeza de le\u00f3n",
+        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Jero Romero",
+          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+      "duration_ms": 154628,
+      "name": "Correcto",
+      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2071,22 +2087,6 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Cabeza de le\u00f3n",
-        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
-      },
-      "artists": [
-        {
-          "name": "Jero Romero",
-          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "Correcto",
-      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+      },
+      "artists": [
+        {
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Runaway (Deluxe)",
         "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 277674,
       "name": "Ganas - Spotify Singles",
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
-      },
-      "artists": [
-        {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

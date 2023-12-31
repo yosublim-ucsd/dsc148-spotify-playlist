@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 167512,
+  "num_followers": 167606,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODMzMzc1YmQyMGRhZDk4NmRiMGZkOTJkNjY2NTcwZDkyOGZjNmIy",
+  "snapshot_id": "MCw2ZmIwMmM0ZmFkZjEzNzc4NjgwZjk5ZDM0MjNjZjg0NDU0YWMwOGY0",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 172512,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+        "name": "Pr\u00e9stame a Mi Padre",
+        "url": "https://open.spotify.com/album/3LwYm1P9DxmwAVYCDFWoyr"
       },
       "artists": [
         {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+      "duration_ms": 177000,
+      "name": "Pr\u00e9stame a Mi Padre",
+      "url": "https://open.spotify.com/track/5lBhchKKuN3F7Fu0QSZ7CV"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Pr\u00e9stame a Mi Padre",
-        "url": "https://open.spotify.com/album/3LwYm1P9DxmwAVYCDFWoyr"
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Pr\u00e9stame a Mi Padre",
-      "url": "https://open.spotify.com/track/5lBhchKKuN3F7Fu0QSZ7CV"
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -999,8 +999,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+        "name": "Rancheras",
+        "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
+      "duration_ms": 177466,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Rancheras",
-        "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
-        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Pena Tras Pena",
-      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 172466,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
+        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Pena Tras Pena",
+      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+      "duration_ms": 132160,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+        "name": "De Parranda Con La Banda",
+        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
+      "duration_ms": 219080,
+      "name": "Que Solo Estoy Sin Ti",
+      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Rey Del Jaripeo",
-        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 194362,
-      "name": "Como Perro Con Rabia",
-      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "El Rey Del Jaripeo",
+        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 194362,
+      "name": "Como Perro Con Rabia",
+      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Besos Y Caricias",
-        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Que Me Lleve El Diablo",
-      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Alborada Ranchera",
         "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 202160,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 143010,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Presenting Los Panchos",
-        "url": "https://open.spotify.com/album/5z5Ak2HJTugn1QCPgTkAxp"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/2Opi06HxyP4GNjMVn0yRP3"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 145426,
       "name": "La L\u00e1mpara",
       "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Presenting Los Panchos",
+        "url": "https://open.spotify.com/album/5z5Ak2HJTugn1QCPgTkAxp"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/2Opi06HxyP4GNjMVn0yRP3"
     },
     {
       "added_at": "2023-06-16 16:57:29",

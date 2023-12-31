@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 267386,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/0dqREqnSQyV4mBwfPdFbLk"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 244720,
       "name": "Just One Yesterday",
       "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/4pXqUELqAFyjlU2vx3BHRR"
@@ -814,6 +814,24 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Tell That Mick He Just Made My List of Things to Do Today",
+      "url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy"
     },
     {
       "album": {

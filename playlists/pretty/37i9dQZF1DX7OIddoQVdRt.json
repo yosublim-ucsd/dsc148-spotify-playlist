@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Guest curated by: <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
-  "num_followers": 632092,
+  "num_followers": 632133,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Y1ZDNlOTc0MDMyNjUwY2ZmMTkwMzEyODBiMjQyMTBjNDY2YTJh",
+  "snapshot_id": "MCw1OGEzYTJlNGY0NmNkN2U2M2ExODg0YTQ3MDk2NGY0ZGNhMTJiMmIz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
         }
       ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -871,6 +875,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Truth (Standard)",
         "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 469631,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
-        }
-      ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Dolly Express",
         "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -991,6 +991,26 @@
       "duration_ms": 211203,
       "name": "Positive",
       "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 302102,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1047,38 +1067,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "My Truth",
-        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 302102,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
-      },
-      "artists": [
-        {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
-        }
-      ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+      "duration_ms": 384466,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "I Am (Radio Edit)",
         "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
       },
@@ -1115,18 +1131,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
+        "name": "People",
+        "url": "https://open.spotify.com/album/4ESJayIfEXNnZnQlZcFQxn"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 384466,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
+      "duration_ms": 228340,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/4y3uiX2OyNPaLYGkB1XFhH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1211,22 +1231,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Moment (Live)",
         "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/4ESJayIfEXNnZnQlZcFQxn"
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
         }
       ],
-      "duration_ms": 228340,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/4y3uiX2OyNPaLYGkB1XFhH"
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 185382,
       "name": "Blak Sheep Freestyle",
       "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 408814,
-      "name": "Not Lucky, I'm Loved",
-      "url": "https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Touch From You",
         "url": "https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 250107,
       "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
       "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "You Don't Know - Bonus Track",
-      "url": "https://open.spotify.com/track/2QbsFNMMOb4cGvxXQ7rqTM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 347752,
       "name": "Something Has To Break (feat. Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "You Don't Know - Bonus Track",
+      "url": "https://open.spotify.com/track/2QbsFNMMOb4cGvxXQ7rqTM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1623,18 +1639,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Still Have You",
-        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/72WtW1NPV6LYFP5SIYsWEx"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "Deborah Carolina",
+          "url": "https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m"
         }
       ],
-      "duration_ms": 254208,
-      "name": "I Still Have You",
-      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
+      "duration_ms": 282816,
+      "name": "I Am (Radio Edit)",
+      "url": "https://open.spotify.com/track/4kHeq8xopjOKgOpR5WMysx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1663,18 +1683,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv"
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6"
       },
       "artists": [
         {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m"
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1715,22 +1735,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Deitrick Haddon & Hill City Worship Camp",
-        "url": "https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 458498,
-      "name": "A Billion People",
-      "url": "https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "No Reason To Fear - Single",
         "url": "https://open.spotify.com/album/07FpmHl5aNml4JFRDGIDZ8"
       },
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/72WtW1NPV6LYFP5SIYsWEx"
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv"
       },
       "artists": [
         {
           "name": "James Fortune",
           "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        },
-        {
-          "name": "Deborah Carolina",
-          "url": "https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m"
         }
       ],
-      "duration_ms": 282816,
-      "name": "I Am (Radio Edit)",
-      "url": "https://open.spotify.com/track/4kHeq8xopjOKgOpR5WMysx"
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,15 +1,43 @@
 {
   "description": "Your daily update of the most played tracks right now - Austria.",
-  "num_followers": 119723,
+  "num_followers": 119727,
   "original_name": "Top 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU3MjE0NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU3MzAxNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "WONDERFUL LIFE",
+        "url": "https://open.spotify.com/album/3dAGTCVoLXIZrBvgY2tsEB"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        },
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "duration_ms": 170550,
+      "name": "WONDERFUL LIFE",
+      "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -25,7 +53,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -41,7 +69,7 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -57,7 +85,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -73,7 +101,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -97,7 +125,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
@@ -129,7 +157,7 @@
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "XV RR Edition",
         "url": "https://open.spotify.com/album/0Nopg4zcWmvHXHLHMosDSp"
@@ -149,7 +177,63 @@
       "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/29MAZSbreZZ18sYo6obqHx"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "BAR\u00c9",
+          "url": "https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        },
+        {
+          "name": "Bayor",
+          "url": "https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne"
+        },
+        {
+          "name": "Biggie68",
+          "url": "https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1"
+        },
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV"
+        }
+      ],
+      "duration_ms": 169510,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Ms. Jackson",
+        "url": "https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Komet",
         "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
@@ -169,23 +253,43 @@
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Ms. Jackson",
-        "url": "https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln"
+        "name": "sonnenbank.mp3",
+        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
         }
       ],
-      "duration_ms": 147586,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
+      "duration_ms": 121649,
+      "name": "sonnenbank.mp3",
+      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Blonde Chaya (Sped Up)",
+        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
+      },
+      "artists": [
+        {
+          "name": "Amaru",
+          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
+        },
+        {
+          "name": "Gringo Bamba",
+          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Blonde Chaya - Sped Up",
+      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "\u00c0 la Carte",
         "url": "https://open.spotify.com/album/3YMJFnqN6SU0F6fWNPhFvY"
@@ -209,27 +313,7 @@
       "url": "https://open.spotify.com/track/4RzIPi5kcw5gYAd07I8NDz"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Blonde Chaya (Sped Up)",
-        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
-      },
-      "artists": [
-        {
-          "name": "Amaru",
-          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
-        },
-        {
-          "name": "Gringo Bamba",
-          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Blonde Chaya - Sped Up",
-      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -245,23 +329,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "sonnenbank.mp3",
-        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
-      },
-      "artists": [
-        {
-          "name": "YAKARY",
-          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
-        }
-      ],
-      "duration_ms": 121649,
-      "name": "sonnenbank.mp3",
-      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Anderer Mann",
         "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Koka Shem",
         "url": "https://open.spotify.com/album/5yD7vbluNE2kizY0gU8hS3"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/2sj5vf9ss7eUxSIVUp50EW"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "9 bis 9",
         "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
@@ -337,23 +405,7 @@
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
@@ -377,39 +429,75 @@
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4xBzPrvputH9hXsklKV2eZ"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+      "duration_ms": 139636,
+      "name": "Niagara",
+      "url": "https://open.spotify.com/track/3jsgs0wmCwbxYBfyzJr2Nn"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "Tage vor 2000",
+        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+      "duration_ms": 155573,
+      "name": "drau\u00dfen essen sp\u00e4t schlafen \ud83d\udca4",
+      "url": "https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "3 Haseln\u00fcsse",
         "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
@@ -429,87 +517,23 @@
       "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Tage vor 2000",
-        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "drau\u00dfen essen sp\u00e4t schlafen \ud83d\udca4",
-      "url": "https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Kein M\u00e4rchen",
-        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 173526,
-      "name": "Ona Nije Ja :)",
-      "url": "https://open.spotify.com/track/31amrn8pcJgRbe357Z3LiC"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -525,7 +549,23 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -545,23 +585,47 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Tage vor 2000",
-        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 165493,
-      "name": "Airberlin",
-      "url": "https://open.spotify.com/track/5422qkk67RSNZizub4XkDX"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "LiEBE AUF DER R\u00dcCKBANK",
+      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Schwarzes Herz",
         "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
@@ -577,7 +641,7 @@
       "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
@@ -605,7 +669,23 @@
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Tage vor 2000",
+        "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Airberlin",
+      "url": "https://open.spotify.com/track/5422qkk67RSNZizub4XkDX"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
@@ -621,27 +701,39 @@
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "Kein M\u00e4rchen",
+        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 173526,
+      "name": "Ona Nije Ja :)",
+      "url": "https://open.spotify.com/track/31amrn8pcJgRbe357Z3LiC"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Fussballer \u26bd\ufe0f",
+        "url": "https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "duration_ms": 83672,
+      "name": "Fussballer \u26bd\ufe0f",
+      "url": "https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -669,59 +761,7 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "LiEBE AUF DER R\u00dcCKBANK",
-      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Fussballer \u26bd\ufe0f",
-        "url": "https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        }
-      ],
-      "duration_ms": 83672,
-      "name": "Fussballer \u26bd\ufe0f",
-      "url": "https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
@@ -737,39 +777,23 @@
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+        "name": "112",
+        "url": "https://open.spotify.com/album/07DqsuLpvxNqGuhBKR6vRE"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 306847,
-      "name": "Angel Numbers / Ten Toes",
-      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+      "duration_ms": 146808,
+      "name": "112",
+      "url": "https://open.spotify.com/track/3MjHpVULKNjQFrkOlgoXwW"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Kein M\u00e4rchen",
-        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -785,7 +809,75 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 306847,
+      "name": "Angel Numbers / Ten Toes",
+      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 251249,
+      "name": "MY EYES",
+      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -809,59 +901,39 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+        "name": "Kein M\u00e4rchen",
+        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
       },
       "artists": [
         {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
         }
       ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+      "duration_ms": 163880,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 251249,
-      "name": "MY EYES",
-      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -885,67 +957,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "Icon 5 - Finale - Tag 2",
-        "url": "https://open.spotify.com/album/4lbmL8UjwZJusU1uoipSZa"
-      },
-      "artists": [
-        {
-          "name": "MADE",
-          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
-        },
-        {
-          "name": "CALI",
-          "url": "https://open.spotify.com/artist/4UXV9jTkL3Iqg1n5kJf4p3"
-        },
-        {
-          "name": "Kenan",
-          "url": "https://open.spotify.com/artist/3iNULJ7Pzkesh8xo72Xy9e"
-        },
-        {
-          "name": "Infinit",
-          "url": "https://open.spotify.com/artist/3VDh3hIeQKMHrBKDG9oCwj"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Ma Jolie",
-      "url": "https://open.spotify.com/track/0Ydt7UQxxHmFdZGOROCcza"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-12-29 09:09:05",
+      "added_at": "2023-12-30 08:48:58",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -967,6 +979,26 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-12-30 08:48:58",
+      "album": {
+        "name": "MONEY & FAME",
+        "url": "https://open.spotify.com/album/3YIhJut5tiUbvtuBU7FmgS"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "duration_ms": 148984,
+      "name": "MONEY & FAME",
+      "url": "https://open.spotify.com/track/5ReQQXU6JXKWOi0O9GwI9x"
     }
   ],
   "unique_name": "Top 50 - Austria",

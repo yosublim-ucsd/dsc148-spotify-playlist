@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 264440,
+  "num_followers": 264505,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjU1Njc5NmIxYzg1NjBjYmM3ZjYxOTc4NmI5ODUwODMzNzgwN2Vh",
+  "snapshot_id": "MCw3YjI2MWQ4YWU5OTA0YTBlYjE0OTQyZGJjM2RhMGEwZDBlZTY2YTQ0",
   "tracks": [
     {
       "added_at": "2023-11-21 05:15:50",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "added_at": "2023-11-21 05:15:50",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "added_at": "2023-11-21 05:15:50",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2023-11-21 05:15:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
-    },
-    {
-      "added_at": "2023-11-21 05:15:50",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+    },
+    {
+      "added_at": "2023-11-21 05:15:50",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
     },
     {
       "added_at": "2023-11-21 05:15:50",

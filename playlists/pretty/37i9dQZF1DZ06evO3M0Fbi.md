@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,469 likes - 38 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,694 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 37 | [Been A Son \- BBC Mark Goodier Session](https://open.spotify.com/track/4dXBG3zz9SzaPBtm4Fv91x) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:55 |
 | 38 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDA3OGIwNjNkYTgyMGUyN2IzMzllOWMzYWY4NDA1MmRmOQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDAwY2ZmNzdmODRlYzE4ZWRkM2Y4NGJjZWY0MTliOGIzNA==`

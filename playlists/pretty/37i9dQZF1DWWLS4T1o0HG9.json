@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 245306,
+  "num_followers": 245701,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjc4ZDI5MmM5OGFkNTExNzA5OTUwNzBlNWQzZjQ0NDFjYzIxYTVk",
+  "snapshot_id": "MCwyNGRlNjk2ZDkzOWNmZjhjZjRkOGJjMzMxY2JiMmI4MDI2NzhiNTRj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:24:22",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Play Deep",
-        "url": "https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "In Heat (2023 Remaster)",
-        "url": "https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg"
+        "name": "Play Deep",
+        "url": "https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW"
       },
       "artists": [
         {
-          "name": "The Romantics",
-          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
         }
       ],
-      "duration_ms": 236625,
-      "name": "Talking In Your Sleep (2023 Remaster)",
-      "url": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1"
+      "duration_ms": 216466,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -359,6 +343,22 @@
       "duration_ms": 260573,
       "name": "Every Little Thing She Does Is Magic",
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "In Heat (2023 Remaster)",
+        "url": "https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "duration_ms": 236625,
+      "name": "Talking In Your Sleep (2023 Remaster)",
+      "url": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Asia",
         "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 227893,
       "name": "Heat Of The Moment",
       "url": "https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Around The World In A Day",
         "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2023-01-18 21:24:22",

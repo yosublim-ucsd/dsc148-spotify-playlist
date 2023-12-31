@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 238253,
       "name": "I Did Something Bad",
       "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
@@ -13758,6 +13758,24 @@
       "duration_ms": 230466,
       "name": "New Romantics",
       "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
     },
     {
       "album": {

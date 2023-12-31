@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 201020,
       "name": "God Gave Me A Girl - Acoustic",
       "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
@@ -3628,6 +3628,24 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux"
     },
     {
       "album": {

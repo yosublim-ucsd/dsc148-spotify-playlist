@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 468873,
+  "num_followers": 469031,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTg1YWY2ZjVhM2JlOTkxMThiZjM2MDM3MTQ4NjQ0ZGU1MmZjZTg4",
+  "snapshot_id": "MCw2YmE5MzM5OGJiMzlmMWNlMmIxMjI3ODU4ZjQwZDRlZTQzNzI0ODZj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:40:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Remaja",
-      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220000,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -699,18 +699,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+        "name": "Aku Yang Salah",
+        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+      "duration_ms": 251553,
+      "name": "Aku Yang Salah",
+      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -731,22 +735,18 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Aku Yang Salah",
-        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 251553,
-      "name": "Aku Yang Salah",
-      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216019,
       "name": "Kesempurnaan Cinta",
       "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Seperti Kisah",
+        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 279031,
+      "name": "Seperti Kisah",
+      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Taman Langit",
         "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 186933,
       "name": "Jikalau",
       "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Seperti Kisah",
-        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 279031,
-      "name": "Seperti Kisah",
-      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
     },
     {
       "added_at": "2023-12-06 09:40:22",

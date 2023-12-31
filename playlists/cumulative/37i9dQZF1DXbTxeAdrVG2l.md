@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: Sheryl Crow.
 
-712 songs - 2 day 2 hr 30 min
+713 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2021-12-21 |  |
 | [It's Gonna Be Me](https://open.spotify.com/track/35zGjsxI020C2NPKp2fzS7) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:11 | 2019-05-26\* | 2020-06-12 |
 | [It's My Life](https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 3:59 | 2022-12-22 | 2023-11-03 |
+| [It's My Life](https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 3:59 | 2022-12-22 |  |
 | [It's My Life](https://open.spotify.com/track/6HdM7gzXVgcpepv276raog) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love \(2nd Edition\)](https://open.spotify.com/album/5YPI9qfm2uuMxlq4CEUOFu) | 3:59 | 2019-07-18 | 2022-04-16 |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/3M5CUQzQ59GdpADOQiVW99) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw) | 4:52 | 2020-04-06 | 2022-05-15 |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 | 2019-06-21 | 2019-08-27 |
@@ -385,7 +386,7 @@
 | [Lightning Crashes](https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 5:25 | 2019-06-24 | 2022-04-10 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2019-05-26\* |  |
 | [Lithium](https://open.spotify.com/track/26D1PRJjD9Jj1JGRk88KVc) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 4:17 | 2021-05-03 | 2022-04-20 |
-| [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2022-06-02 |  |
+| [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2022-06-02 | 2023-12-31 |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2019-07-22 |  |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2019-06-21 |  |
 | [Living On My Own \- No More Brothers Radio Mix](https://open.spotify.com/track/06yKyyDsxcGICRoLyafHtW) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH), [Serge Ramaekers](https://open.spotify.com/artist/7aIIdJYBBYHUWotpZSggUk), [Carl Ward](https://open.spotify.com/artist/4y5wqoJUmlvr9xV6l5lO4b), [Colin Peter](https://open.spotify.com/artist/2Zq5OUwXVGPIPw6aBrVIFq) | [Messenger Of The Gods: The Singles Collection](https://open.spotify.com/album/2LCNkugsIYizh1dBYkN143) | 3:41 | 2019-07-31 | 2019-08-27 |

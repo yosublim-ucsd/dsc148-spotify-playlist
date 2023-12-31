@@ -1,18 +1,18 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 56808,
+  "num_followers": 56990,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzMzYzNlMDNkYjJlYTI2MTlmOGI5NTBkYzQ1MGVlYmNkZjhmM2Jj",
+  "snapshot_id": "MCwwYmVlZDgzNGM4NGEzZDk2YTk5YjA0MWM4NDVkMTViYTI0ZmE4YmIx",
   "tracks": [
     {
-      "added_at": "2023-12-13 13:09:36",
+      "added_at": "2023-12-30 10:49:01",
       "album": {
         "name": "Guntur Kaaram",
-        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
+        "url": "https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn"
       },
       "artists": [
         {
@@ -20,17 +20,25 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Mahesh Babu",
+          "url": "https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK"
         },
         {
           "name": "Saraswati Putra Ramajogayya Sastry",
           "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
         }
       ],
-      "duration_ms": 156497,
-      "name": "Oh My Baby",
-      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
+      "duration_ms": 216558,
+      "name": "Kurchi Madathapetti",
+      "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
     },
     {
       "added_at": "2023-12-19 06:50:31",

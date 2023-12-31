@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 324186,
+  "num_followers": 324240,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM5MGNkZjczOWRhNGNlNjM3Njk3YjYwY2Q3ZDM5MDI4ZGRkYjg0",
+  "snapshot_id": "MCxhODIxOWI0ZWZjMGYwNzQ0OGNhMDZkMGZkMTZiN2U4NDg0OGUxNGYz",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 303170,
+      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
@@ -511,22 +531,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
         },
         {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 303170,
-      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -547,26 +567,6 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -603,26 +603,6 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
-        }
-      ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -671,6 +651,26 @@
       "duration_ms": 308875,
       "name": "Louvor dos Pequenos",
       "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+        }
+      ],
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "A Tua Ternura",
         "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
       },
@@ -751,22 +771,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Maria Porta do C\u00e9u",
         "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
       },
@@ -779,6 +783,22 @@
       "duration_ms": 281739,
       "name": "Maria Porta do C\u00e9u",
       "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -799,26 +819,6 @@
       "duration_ms": 225152,
       "name": "Maria, M\u00e3e e Rainha",
       "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Esposa das Esposas",
-        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
-      },
-      "artists": [
-        {
-          "name": "Bruna Marques",
-          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
-        },
-        {
-          "name": "Gabriel Kzam",
-          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Esposa das Esposas",
-      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Divino Esposo",
         "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Esposa das Esposas",
+        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
+      },
+      "artists": [
+        {
+          "name": "Bruna Marques",
+          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
+        },
+        {
+          "name": "Gabriel Kzam",
+          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
+        }
+      ],
+      "duration_ms": 239597,
+      "name": "Esposa das Esposas",
+      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Quero Ouvir Tua Voz",
         "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 264891,
       "name": "Quero Ouvir Tua Voz",
       "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Deus Maior",
-        "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 341818,
-      "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
-      "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1051,6 +1035,46 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Deus Maior",
+        "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 341818,
+      "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
+      "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pequeno Rei",
+        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 293210,
+      "name": "Emanuel, Eu Te Adoro",
+      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1103,30 +1127,6 @@
       "duration_ms": 384059,
       "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Pequeno Rei",
-        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 293210,
-      "name": "Emanuel, Eu Te Adoro",
-      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
     },
     {
       "added_at": "2023-12-22 03:00:00",

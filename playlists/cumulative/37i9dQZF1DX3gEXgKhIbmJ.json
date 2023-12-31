@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "A La Carte",
+        "url": "https://open.spotify.com/album/4ZFkNL5UbIpQhyGSCrfUeW"
+      },
+      "artists": [
+        {
+          "name": "Frostt 7k",
+          "url": "https://open.spotify.com/artist/7yXOjQ9jwqFeQIaKz8xzWh"
+        },
+        {
+          "name": "Canguru",
+          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234801,
+      "name": "A La Carte",
+      "url": "https://open.spotify.com/track/0lMHRyr7e9SfR12HwPnbAl"
+    },
+    {
+      "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/7JfBKyoDTo9347LleQlGbG"
       },

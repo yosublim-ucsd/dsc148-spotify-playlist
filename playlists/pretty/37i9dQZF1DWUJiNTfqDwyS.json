@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 357753,
+  "num_followers": 357844,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDY2MDRlNTkwZWYyMGU0YjA4MTQyN2EyOTE3YjczNmUzMGQ5MmU3",
+  "snapshot_id": "MCxhZDQ4OTNjZDYyMjMzMWJhYWYyYmNmMjk3M2QyZjRlM2U3Mzg5MTE4",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Shape of You",
-        "url": "https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Skeletons in the Closet (Japan Edition)",
         "url": "https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 200173,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Shape of You",
+        "url": "https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "Greatest Lovesongs Vol. 666 (Deluxe Versions; Remastered)",
+        "url": "https://open.spotify.com/album/0bopJOCBWUlA23xwJDwrkw"
+      },
+      "artists": [
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/3JBz53sjIaCRRcHY7OI82G"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Rattlesnake!",
         "url": "https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 246857,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "Greatest Lovesongs Vol. 666 (Deluxe Versions; Remastered)",
-        "url": "https://open.spotify.com/album/0bopJOCBWUlA23xwJDwrkw"
-      },
-      "artists": [
-        {
-          "name": "HIM",
-          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/3JBz53sjIaCRRcHY7OI82G"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2023-08-23 14:56:37",

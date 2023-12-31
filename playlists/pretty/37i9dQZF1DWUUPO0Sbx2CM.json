@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 186585,
+  "num_followers": 186692,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzJmYjhhYTMxZGYzMzFjYzk3YTA0YWM0ZTViOWJiOTQ0Y2Y1ZGIx",
+  "snapshot_id": "MCxhMzk5YmJlMGViM2YwMDI3YzRkOTYwZDZlZWI1MmYyNDU1ZmFiODA3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "I Met Jesus In Miami",
         "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 186000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Don't Ever Let Me Go",
+        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Don't Ever Let Me Go",
+      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -695,38 +711,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Don't Ever Let Me Go",
-        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Don't Ever Let Me Go",
-      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Only You Can Do It",
         "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140347,
       "name": "Only You Can Do It",
       "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Come Home (Warehouse Mix)",
-        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 158096,
-      "name": "Come Home - Warehouse Mix",
-      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -883,18 +879,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+        "name": "Come Home (Warehouse Mix)",
+        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         }
       ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
+      "duration_ms": 158096,
+      "name": "Come Home - Warehouse Mix",
+      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 253877,
-      "name": "Prodigals - Live",
-      "url": "https://open.spotify.com/track/1LnKCGvs4DMTvZSH1mjyrR"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         }
       ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+      "duration_ms": 253877,
+      "name": "Prodigals - Live",
+      "url": "https://open.spotify.com/track/1LnKCGvs4DMTvZSH1mjyrR"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
-      },
-      "artists": [
-        {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
-        }
-      ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+      },
+      "artists": [
+        {
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+        }
+      ],
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Tell All My Friends",
-      "url": "https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Tell All My Friends",
+      "url": "https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Best Thing - Summer 2022",
         "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 182593,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "High Low (Remix)",
-        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Tryhard Society",
-          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
-        }
-      ],
-      "duration_ms": 164383,
-      "name": "High Low - Remix",
-      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Overcomer: The Remixes",
         "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
       },
@@ -1671,42 +1651,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "No Borders",
-        "url": "https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat"
-      },
-      "artists": [
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 152520,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Glory Fills This Room",
         "url": "https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW"
       },
@@ -1723,6 +1667,26 @@
       "duration_ms": 228559,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "High Low (Remix)",
+        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+        }
+      ],
+      "duration_ms": 164383,
+      "name": "High Low - Remix",
+      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1759,6 +1723,42 @@
       "duration_ms": 154305,
       "name": "It's Coming",
       "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "No Borders",
+        "url": "https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat"
+      },
+      "artists": [
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
     }
   ],
   "unique_name": "Christian Dance Party",

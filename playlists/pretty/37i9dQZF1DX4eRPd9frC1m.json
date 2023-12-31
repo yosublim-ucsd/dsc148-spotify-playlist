@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2594896,
+  "num_followers": 2595026,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRjY2I5MDgxYjE2NDRjZDgxZDVmNGFlODI4ZGVkN2Y3MTVjNDc2",
+  "snapshot_id": "MCw2NjQzMGNiMTU0NGQ2NDc5ODI5YzdkMGUyZjEyYTU2ZTExMzRhMzE2",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 133274,
-      "name": "Trials",
-      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 316420,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 133274,
+      "name": "Trials",
+      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Silo (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "GORILLA WARFARE",
         "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
@@ -1535,38 +1559,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
+        "name": "AD INFINITUM",
+        "url": "https://open.spotify.com/album/1LC4nzKSrMlbsHUOY93lyS"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
         },
         {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
         }
       ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
+      "duration_ms": 178285,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+      "url": "https://open.spotify.com/track/3SXOSV2Me0P88axBxnVMsK"
     }
   ],
   "unique_name": "Hype",

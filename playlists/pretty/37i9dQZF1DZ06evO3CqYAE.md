@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,171 likes - 45 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,190 likes - 45 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 44 | [Yahweh](https://open.spotify.com/track/4MPfkCbLCfVYoCGvt9hkZJ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yahweh](https://open.spotify.com/album/4RjUVXlEwzzVPvCbkT5aiA) | 7:04 |
 | 45 | [NaNa Owei \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/1st08MRE0BCD7CwwlEL8oi) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 4:08 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA2NWFhMWU3YWQ0MTA3ZDUyNWYyZGUzZmM5NzJjNzdmYg==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDBlNDczZjYzNDJhMjc2ZDE0MzYwMWFjMDVhZGMzODkyOA==`

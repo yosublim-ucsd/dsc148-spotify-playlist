@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 81502,
+  "num_followers": 81571,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjMyNDEyMTg5OTY4ZjRlMzMyNGZhYWY1MDMyOTVkMWZiMWE5NGIx",
+  "snapshot_id": "MCxlY2IwYmU0NzM1YTRjOGZiM2UyNWJiZjFmZDIxNzcyZTg5NzZmMTgx",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/1PkTGKasoP8iuXad5LfQqz"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Luna Nueva",
-        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
-    },
-    {
       "added_at": "2023-12-12 20:14:21",
       "album": {
         "name": "Their Satanic Majesties' Second Request",
@@ -637,20 +621,20 @@
       "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
     },
     {
-      "added_at": "2023-12-12 20:14:21",
+      "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
-        "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 233194,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90"
+      "duration_ms": 319066,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -667,6 +651,22 @@
       "duration_ms": 336400,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
+      "added_at": "2023-12-12 20:14:21",
+      "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
+        "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 233194,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90"
     },
     {
       "added_at": "2021-12-25 17:56:56",

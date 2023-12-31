@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w\"> Phyno </a> and <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse-kNLysa6h1Q\"> Burna Boy</a>",
-  "num_followers": 39377,
+  "num_followers": 39519,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2MyZTExOWNlZTdmMGRlNDk0ZDI5MTNlM2ZhOGFjYzE5MmVjNGFh",
+  "snapshot_id": "MCw4ZWVlZjJkZWU0NjBjMmFkMWExODBkZGQxZTg1ODA0MTJmODU2MmM2",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -719,18 +719,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 162474,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
       },
       "artists": [
         {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "added_at": "2023-12-22 00:01:00",

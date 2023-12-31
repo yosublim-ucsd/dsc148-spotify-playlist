@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,729 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,786 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 72 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 |
 | 73 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
 | 74 | [Cancion Pacifico\-Violenta](https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr) | [Sexual Democracia](https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7) | [Buscando Chilenos Vol\. 1](https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax) | 4:44 |
-| 75 | [Cumbia Valiente](https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:01 |
-| 76 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
+| 75 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
+| 76 | [Cumbia Valiente](https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:01 |
 | 77 | [Rompan Todo](https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:57 |
 | 78 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 |
 | 79 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 100 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
 
-Snapshot ID: `MCw1MGFlYzY0MDhmNjBlOWJkZjcyNmE5YjA5MGVlZWVhMjdlZjA3OWIz`
+Snapshot ID: `MCxjOWI1MTM4NWQyYTQ2YmY3MjgxMTYxM2I3YTMwYzRlNzQ3ODE4NDA5`

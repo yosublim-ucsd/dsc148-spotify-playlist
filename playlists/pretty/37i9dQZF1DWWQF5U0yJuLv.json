@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 11455,
+  "num_followers": 11465,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzIyYzc3NDBhMDU2MDVmOGI4YTUzOGY3OGExZGYyODI1OGUyYmU5",
+  "snapshot_id": "MCxhNjZhZjI5OGY5OGY4ODg0YThiYTRmY2JkZjU1Yjg0OTZmMzI0M2Ix",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 383693,
-      "name": "Kid For Today",
-      "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Lost Horizons",
@@ -575,6 +559,22 @@
       "duration_ms": 422826,
       "name": "Space Walk",
       "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 383693,
+      "name": "Kid For Today",
+      "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -725,42 +725,6 @@
       "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "21 Again Collaborations, Pt. 1",
-        "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        },
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Fertilized",
-      "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Hasty Boom Alert",
-      "url": "https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Moog Indigo",
@@ -779,6 +743,42 @@
       "duration_ms": 191000,
       "name": "E.V.A.",
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Hasty Boom Alert",
+      "url": "https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "21 Again Collaborations, Pt. 1",
+        "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        },
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Fertilized",
+      "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "The Elephant Never Forgets",
+      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Oasis Sky",
@@ -907,22 +923,6 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "The Elephant Never Forgets",
-      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
       "added_at": "2023-03-03 04:01:23",
       "album": {
         "name": "Dragonfly",
@@ -1049,20 +1065,20 @@
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "Thirsts",
+        "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 375929,
+      "name": "Morning Tremor",
+      "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1083,22 +1099,6 @@
       "duration_ms": 119649,
       "name": "sol",
       "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Thirsts",
-        "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 375929,
-      "name": "Morning Tremor",
-      "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Iaora Tahiti",
@@ -1373,20 +1389,20 @@
       "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
       },
       "artists": [
         {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1403,22 +1419,6 @@
       "duration_ms": 237133,
       "name": "Plock",
       "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1657,22 +1657,6 @@
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "The Red Line",
-        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
-      },
-      "artists": [
-        {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "The Red Line",
-      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Expert Knob Twiddlers",
@@ -1687,6 +1671,22 @@
       "duration_ms": 413384,
       "name": "Mr. Frosty",
       "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "The Red Line",
+        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "The Red Line",
+      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1977,20 +1977,20 @@
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Rounds (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 281933,
-      "name": "She Moves She",
-      "url": "https://open.spotify.com/track/5nHG7C56sxZIlply71VbcO"
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2009,20 +2009,36 @@
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+        "name": "Rounds (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
       },
       "artists": [
         {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+      "duration_ms": 281933,
+      "name": "She Moves She",
+      "url": "https://open.spotify.com/track/5nHG7C56sxZIlply71VbcO"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2207,26 +2223,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "lux_",
-        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        },
-        {
-          "name": "The Surrealist",
-          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "lux_",
-      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Rest Proof Clockwork",
         "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
       },
@@ -2243,18 +2239,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+        "name": "lux_",
+        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
       "artists": [
         {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        },
+        {
+          "name": "The Surrealist",
+          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
         }
       ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
+      "duration_ms": 195960,
+      "name": "lux_",
+      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
       "added_at": "2023-02-17 01:10:22",

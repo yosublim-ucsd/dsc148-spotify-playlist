@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 103079,
+  "num_followers": 103083,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYThhNzFiOTU3NTRmOGZjMjlkNmIyNTI3MTIyNTZlOGQxOGNkYzM1",
+  "snapshot_id": "MCwzOGM0NTkyYTM4NzAwMGJlMjVjMjE3OTQ3MDlkZDEwMzg0Yjk4Y2Ux",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
       },
       "artists": [
         {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 119084,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
         }
       ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
+      "duration_ms": 119084,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1583,46 +1583,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -1647,6 +1607,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 166153,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Pretty People (feat. INJI)",
-        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 149771,
-      "name": "Pretty People (feat. INJI)",
-      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -2015,18 +1995,42 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg"
+        "name": "Pretty People (feat. INJI)",
+        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda"
+      "duration_ms": 149771,
+      "name": "Pretty People (feat. INJI)",
+      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Behind the Moon",
+        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
+      },
+      "artists": [
+        {
+          "name": "K!llx",
+          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
+        },
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "Behind the Moon",
+      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
     }
   ],
   "unique_name": "Estate Dance",

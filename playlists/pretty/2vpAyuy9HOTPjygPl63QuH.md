@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,203 likes - 58 songs - 3 hr 10 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,216 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 56 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
 | 57 | [Get Ya](https://open.spotify.com/track/0FbgqLyPjvXOKC3xgPLnfl) | [Paccu](https://open.spotify.com/artist/2QZVFemr8vSLsSYPVYJSp3) | [Get Ya](https://open.spotify.com/album/6923eOyKdPkuAoMrTZXAgk) | 2:02 |
 | 58 | [Coqueteah \- Streaming Edit](https://open.spotify.com/track/25fL5edDFXGKqIOloY6ZQj) | [Tony Metric](https://open.spotify.com/artist/3jNo8kSqxXoHTiMUuLWG8O) | [Embobaa](https://open.spotify.com/album/3LYVfPRW585YUPHkV6CNib) | 3:26 |
+| 59 | [Uno Dos TAKI](https://open.spotify.com/track/5d40Mp0PeDbuov1sQt8SP2) | [Brvss](https://open.spotify.com/artist/4hmP471gpVFaOAbmb5o8xb) | [Uno Dos TAKI](https://open.spotify.com/album/3YJERqyznORpKgNhz5vCw5) | 2:21 |
+| 60 | [Firestarter \- Streaming Edit](https://open.spotify.com/track/5o9nxhf1ZRbT2uAP2y85fA) | [Manuel De La Mare](https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk), [Luigi Rocca](https://open.spotify.com/artist/23ZwHWwSoeP2gx6HXQYpN6) | [Firestarter](https://open.spotify.com/album/0AAADEvUYkNfRLjPEYaGvO) | 3:06 |
+| 61 | [Dusty](https://open.spotify.com/track/2amS1VfaBMgsah1q0MgDs7) | [Nino \(BG\)](https://open.spotify.com/artist/65dpTPm4xpJRTtBorMz1lA) | [Dusty](https://open.spotify.com/album/58ewjmJW7OBCDAKwvpakJX) | 2:40 |
+| 62 | [Bass Drum](https://open.spotify.com/track/76znpt4e8MSTLfO80GBZGp) | [Errio Indra](https://open.spotify.com/artist/0bXqfO3O0OxPqMAvPmStAJ) | [Bass Drum](https://open.spotify.com/album/6rPOOzAErak4il0pRtviQO) | 5:12 |
 
-Snapshot ID: `ODE3Nyw4MjJiNjliOGQ1ZWE1ZWFhZTY0ZTg2NGFjZTJkNjJlYjQxMmVhM2Nh`
+Snapshot ID: `ODE4MSw4M2Y2ODc1OGUxNTQ3ZjIyOWVjMDVkZjlkYWJiMDdmMzJhMWU5NTFl`

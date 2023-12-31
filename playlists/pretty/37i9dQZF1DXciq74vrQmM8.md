@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,685 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,728 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 80 | [Puppet](https://open.spotify.com/track/4SDiJRZhvqYTrCQq9Xf1CH) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Puppet](https://open.spotify.com/album/6tmMEsLjo4lCoB4PUGf1rl) | 2:24 |
 
-Snapshot ID: `MCw4YmZiMzI3NzVjY2YzYzQzMTQzNmE5N2QyOGMxYTUzYjEwNWUxYzQ3`
+Snapshot ID: `MCxmODM5YWYzZTE3YTVhZjcxZGRkYTkzODM0MWE4N2I5NzAwMGM4Y2U0`

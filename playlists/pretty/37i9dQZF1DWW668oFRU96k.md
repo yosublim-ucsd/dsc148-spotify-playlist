@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x YUQI x JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,220 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,282 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 69 | [One More Sunrise](https://open.spotify.com/track/1SrLw86QlXWvUoRwMvw5gO) | [Two&One](https://open.spotify.com/artist/4ZZBppCkI16tgkTdbcpN5J), [Sarah Russell](https://open.spotify.com/artist/130O0cb6ht7pUyIJmpbQuP) | [One More Sunrise](https://open.spotify.com/album/7vaxzJR5N56TZLbKm4S7eW) | 3:29 |
 | 70 | [Release Me](https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Release Me](https://open.spotify.com/album/0tJ2xpt6XRAjBeARDB9JKk) | 2:48 |
 
-Snapshot ID: `MCxlOTI1M2NmNjA0MGVhOTMxOWJiMzdlZDRkODcyNWI5YzgyNWJjNzk0`
+Snapshot ID: `MCxiYjY5ZjYxNTYzYWI0ZTI5YzYxNGNkMmRmMDZmOGVhYWMxYmFiZWNk`

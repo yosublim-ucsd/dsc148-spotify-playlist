@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2018-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 199915,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
@@ -1126,6 +1126,44 @@
       "duration_ms": 281266,
       "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
+    },
+    {
+      "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "date_added": "2018-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204654,
+      "name": "Particula",
+      "url": "https://open.spotify.com/track/0YNt1BzzwTwkeIMDciq7u0"
     },
     {
       "album": {

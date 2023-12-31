@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41630,
+  "num_followers": 41650,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
+  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Percepc\u00edon",
-        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "No Van A Entender",
-      "url": "https://open.spotify.com/track/0gJVA1DxsZFummj9DmmNWY"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "El Que a Ti Te Gusta",
         "url": "https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187092,
       "name": "Mientes Muy Bonito",
       "url": "https://open.spotify.com/track/1QTWom4Tzef5oY0cPwABPs"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "No Van A Entender",
+      "url": "https://open.spotify.com/track/0gJVA1DxsZFummj9DmmNWY"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "F\u00edsica y Qu\u00edmica",
-      "url": "https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "Qu\u00e8 Voy Hacer",
+      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Me Dejaste Acostumbrado",
         "url": "https://open.spotify.com/album/3gQYIcZc3ubq5C1g2KTksR"
       },
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Percepc\u00edon",
-        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 260812,
-      "name": "Qu\u00e8 Voy Hacer",
-      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
+      "duration_ms": 176843,
+      "name": "F\u00edsica y Qu\u00edmica",
+      "url": "https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+      },
+      "artists": [
+        {
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 183026,
       "name": "El Shake (feat. Las Cumbia Girls)",
       "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
-      },
-      "artists": [
-        {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Por Qu\u00e9 No Cambiamos",
-        "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
-      },
-      "artists": [
-        {
-          "name": "Banda Impresionante de Monterrey",
-          "url": "https://open.spotify.com/artist/7HpYvz5zIo7WJcIXxDIEtT"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "\u00bfPorqu\u00e9 No Cambiamos?",
-      "url": "https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "A Lo Que Vengo, Vengo",
         "url": "https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd"
       },
@@ -2215,18 +2199,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Me Mires As\u00ed",
-        "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
+        "name": "Por Qu\u00e9 No Cambiamos",
+        "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Banda Impresionante de Monterrey",
+          "url": "https://open.spotify.com/artist/7HpYvz5zIo7WJcIXxDIEtT"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Arrod\u00edllate",
-      "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
+      "duration_ms": 181800,
+      "name": "\u00bfPorqu\u00e9 No Cambiamos?",
+      "url": "https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2243,6 +2227,22 @@
       "duration_ms": 207313,
       "name": "La Mejor Version de Mi (Banda)",
       "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Arrod\u00edllate",
+      "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Tienes Remedio",
-        "url": "https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M"
-      },
-      "artists": [
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "C\u00f3mo Que No Te Conozco",
-      "url": "https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Con Todo Y Tus Ma\u00f1as",
         "url": "https://open.spotify.com/album/6jAd2KoInbzlQkxxEmXypB"
       },
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Y Lo Que Le Sigue",
-        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
+        "name": "No Tienes Remedio",
+        "url": "https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M"
       },
       "artists": [
         {
-          "name": "Norte\u00f1o 4.5",
-          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 186213,
-      "name": "Si T\u00fa Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
+      "duration_ms": 193560,
+      "name": "C\u00f3mo Que No Te Conozco",
+      "url": "https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2371,6 +2355,22 @@
       "duration_ms": 159626,
       "name": "Ya Dime Que Si",
       "url": "https://open.spotify.com/track/5gzB3sL0O440Bo9D9KVLhf"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Y Lo Que Le Sigue",
+        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
+      },
+      "artists": [
+        {
+          "name": "Norte\u00f1o 4.5",
+          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Si T\u00fa Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Salud Por Nuestro 25 Aniversario",
+        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 159413,
+      "name": "M\u00e1s Loca Que Yo",
+      "url": "https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Vete Acostumbrando (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 200983,
       "name": "Pude",
       "url": "https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Salud Por Nuestro 25 Aniversario",
-        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 159413,
-      "name": "M\u00e1s Loca Que Yo",
-      "url": "https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk"
     },
     {
       "added_at": "2022-01-25 18:24:05",

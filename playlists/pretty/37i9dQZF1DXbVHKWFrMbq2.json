@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14715,
+  "num_followers": 14730,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2YwODJhODY3NTkxNGJjYTU0ODg3MmIwZjc4ZWZkYzBmOWViN2Rk",
+  "snapshot_id": "MCxjM2E0ZWM2NDIzNzRhMGE5MWMxMmJiYjgwOTQ4NTBmOWZhZjM5Zjc3",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:51",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Puntos Equidistantes",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Ser\u00e1 Mi Culpa? (Remix)",
         "url": "https://open.spotify.com/album/11vGF7By6oRKcFvfYikj1N"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 197837,
       "name": "Ser\u00e1 Mi Culpa? - Remix",
       "url": "https://open.spotify.com/track/1T3viKR66WWgdexUxBhN45"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Ser\u00e1 Mi Culpa?",
-        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Ser\u00e1 Mi Culpa?",
-      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Uno M\u00e1s Uno",
         "url": "https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "Ser\u00e1 Mi Culpa?",
+        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Ser\u00e1 Mi Culpa?",
+      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Nocturna",
         "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Falsas Esperanzas",
-        "url": "https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 180256,
-      "name": "Falsas Esperanzas",
-      "url": "https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Una L\u00e1grima y Un Beso",
         "url": "https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 200560,
       "name": "Una L\u00e1grima y Un Beso",
       "url": "https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Falsas Esperanzas",
+        "url": "https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 180256,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u"
     },
     {
       "added_at": "2023-12-22 23:50:51",

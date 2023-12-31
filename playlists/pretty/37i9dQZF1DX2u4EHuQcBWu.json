@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 185729,
+  "num_followers": 185786,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGFlYzY0MDhmNjBlOWJkZjcyNmE5YjA5MGVlZWVhMjdlZjA3OWIz",
+  "snapshot_id": "MCxjOWI1MTM4NWQyYTQ2YmY3MjgxMTYxM2I3YTMwYzRlNzQ3ODE4NDA5",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+    },
+    {
       "added_at": "2023-10-13 15:22:13",
       "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
@@ -1423,22 +1439,6 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
     },
     {
       "added_at": "2023-10-13 03:00:00",

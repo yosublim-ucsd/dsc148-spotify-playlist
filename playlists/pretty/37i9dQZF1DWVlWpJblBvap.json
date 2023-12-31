@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 547930,
+  "num_followers": 548058,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njg3OTJiYjg2YzhmNjlkMzZiMWM3NDFkYTAzNjNjNGNiNDNlZjFj",
+  "snapshot_id": "MCw4Y2JjM2E5ZWI2NjdjMTMzMmVjMzgxNDhmYTNiYTUyN2RhZDYzMDA3",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237338,
       "name": "Rescue Story",
       "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2023-02-18 03:38:32",

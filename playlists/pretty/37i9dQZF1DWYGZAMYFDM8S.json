@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 302398,
+  "num_followers": 302451,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTAwOTc4MThiZjM5MjNjY2Q1ZTRlN2VlNzc4YmRjOTFjZWM2ZTY1",
+  "snapshot_id": "MCxmODAzZjdhYTc3ZDliZTZiOGE5MjI4ZjNkODQyNTg5MjI3MDViYzcx",
   "tracks": [
     {
       "added_at": "2023-12-01 17:07:08",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Long Blue Light",
         "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 194160,
       "name": "Alps",
       "url": "https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 235586,
       "name": "The Trouble with Wanting",
       "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Now & Then",
         "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 197526,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Extralife",
         "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Jenny Jenkins (Acoustic)",
         "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Miles and Miles",
-        "url": "https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT"
+        "name": "Not Even Happiness",
+        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
       "artists": [
         {
-          "name": "Handsome and Gretyl",
-          "url": "https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3"
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
         }
       ],
-      "duration_ms": 265280,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu"
+      "duration_ms": 242387,
+      "name": "Follow My Voice",
+      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Not Even Happiness",
-        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
+        "name": "Miles and Miles",
+        "url": "https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT"
       },
       "artists": [
         {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+          "name": "Handsome and Gretyl",
+          "url": "https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3"
         }
       ],
-      "duration_ms": 242387,
-      "name": "Follow My Voice",
-      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
+      "duration_ms": 265280,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "New Order T-Shirt",
         "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-12-01 17:07:08",

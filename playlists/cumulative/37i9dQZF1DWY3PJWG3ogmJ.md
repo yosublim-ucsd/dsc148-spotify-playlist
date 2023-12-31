@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-255 songs - 15 hr 22 min
+256 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 | 2022-01-14 |  |
 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 | 2022-01-14 |  |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-04-22 | 2023-12-24 |
+| [Behind the Crowd](https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Bleed\-Abide](https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4) | 3:14 | 2023-01-18 |  |
 | [Beyond the Tomb](https://open.spotify.com/track/0c2MVfLpCAQOts74o45rOb) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Beyond the Tomb](https://open.spotify.com/album/5RdSBcj60rNvo4SUdlUMqu) | 4:49 | 2022-01-14 | 2022-09-03 |
 | [Black Hoodie](https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:29 | 2022-01-14 |  |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2022-01-14 | 2022-07-29 |
@@ -253,7 +254,7 @@
 | [Vendetta](https://open.spotify.com/track/3T3HQbUNL5abOheRDENfOV) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q) | 3:07 | 2023-01-18 |  |
 | [Vendetta](https://open.spotify.com/track/5umc4FlbF2BbXmmKZ1n8an) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 3:07 | 2022-01-14 | 2023-05-24 |
 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 | 2022-01-14 |  |
-| [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 | 2022-01-14 |  |
+| [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 | 2022-01-14 | 2023-12-31 |
 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 | 2022-01-14 |  |
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 | 2022-04-22 |  |

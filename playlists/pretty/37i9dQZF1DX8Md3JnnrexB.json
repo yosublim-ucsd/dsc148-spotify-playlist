@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 208953,
+  "num_followers": 208972,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDYzZDcxYTVkYWU2YzM3YTQxMzg0M2Q3ODQ4YWI2NWM4YzQzMzcy",
+  "snapshot_id": "MCw1ZjA0MjdhOTI0ODAxNzk5NTA4MGQ2YmQ0YmU3MjcxNmM5ZGRmZjhi",
   "tracks": [
     {
       "added_at": "2023-12-11 13:59:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 264266,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "After Midnight (Expanded Version)",
-        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "After Midnight (Expanded Version)",
+        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Blue Magic",
-        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
-      },
-      "artists": [
-        {
-          "name": "Blue Magic",
-          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Sideshow",
-      "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Blue Magic",
+        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
+      },
+      "artists": [
+        {
+          "name": "Blue Magic",
+          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Sideshow",
+      "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 310480,
       "name": "Ever Changing Times (feat. Michael McDonald)",
       "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR"
       },
@@ -1659,26 +1675,6 @@
       "duration_ms": 201993,
       "name": "This Time",
       "url": "https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Take Me To The Alley",
-        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 254893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     }
   ],
   "unique_name": "Soulful Blend",

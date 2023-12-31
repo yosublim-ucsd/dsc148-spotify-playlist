@@ -2677,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Una canastita",
+        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "Una canastita",
+      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
+    },
+    {
+      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 259573,
       "name": "Zamba de Carnaval",
       "url": "https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP"

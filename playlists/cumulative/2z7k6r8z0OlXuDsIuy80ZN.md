@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-208 songs - 10 hr 55 min
+209 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [El bueno acaba mal](https://open.spotify.com/track/3LavHlfBvpNMUiIAFhrT8G) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [El bueno acaba mal](https://open.spotify.com/album/7eDey8fhEV7HD0o3P7Or3y) | 2:22 | 2022-07-09 | 2022-11-13 |
 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 | 2022-06-18 | 2022-12-04 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-04-22 |  |
-| [EL TONTO](https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL TONTO](https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s) | 3:08 | 2023-04-29 |  |
+| [EL TONTO](https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL TONTO](https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s) | 3:08 | 2023-04-29 | 2023-12-31 |
 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 | 2023-07-22 | 2023-11-05 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-29 | 2022-08-28 |
 | [Entre Un Millón](https://open.spotify.com/track/2FtObgxe46yRTU44PopBAc) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Entre Un Millón](https://open.spotify.com/album/1XcZTqDAGNwle5lfpIaiqg) | 3:19 | 2023-06-17 | 2023-11-05 |
@@ -101,6 +101,7 @@
 | [Histéricos](https://open.spotify.com/track/60hDNXs2CwQywAzy3LWami) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Histéricos](https://open.spotify.com/album/5G8wMHPdXsVfd25THze79N) | 3:33 | 2022-01-15 | 2022-03-13 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-10 | 2023-02-12 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-18 |  |
+| [Hoy Festejo](https://open.spotify.com/track/6eFhwyGfa7zUjaid9DavzR) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [UNO](https://open.spotify.com/album/1KgKemleH5GeTmcUA7U9ka) | 2:44 | 2023-12-30 |  |
 | [Huesos](https://open.spotify.com/track/2gMY3JeGmCD87dKT4TQ5uK) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Diversión](https://open.spotify.com/album/0PDWvltz5GHh6f6owOtr0H) | 3:06 | 2022-07-23 | 2022-09-04 |
 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2022-09-03 | 2023-04-09 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-24 | 2023-05-28 |

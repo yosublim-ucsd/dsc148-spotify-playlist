@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,416 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,543 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
 | 50 | [Rodolfo Campa Roldan](https://open.spotify.com/track/1zjAw8ZDES8FdCriHShU6s) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Entre Amigos](https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo) | 2:33 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA1OWI0MDU5MTI0ZmQwMDZhMmRjZmQ5OTA5YWE3YzAzNg==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA3MWUyYzA3YjQ5ZTkyMzIzZDk0N2M4NGU5OTRhYTlhNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,661 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,830 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [Estela](https://open.spotify.com/track/2YEMCLdnrRr8TZ9NpkAofQ) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Estela](https://open.spotify.com/album/7nqYhB0shE4P8tM8g8c3dW) | 2:12 |
 | 24 | [Un Año Más](https://open.spotify.com/track/7xwjCxOjUmGQy9bAI3V6Tv) | [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Un Año Más](https://open.spotify.com/album/3QfTkZRd9pwHuN42G9QcBb) | 3:10 |
 | 25 | [Sin Ti Soy un Loco](https://open.spotify.com/track/2jCdt1glRWLwvYIRSqw9cI) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Sin Ti Soy un Loco](https://open.spotify.com/album/1CmDyIB4hazD3mX7i4VQJC) | 2:49 |
-| 26 | [Simple Ando Pilas](https://open.spotify.com/track/6ixICQZGFhNz0jSqV7BPjf) | [Gael gallegos](https://open.spotify.com/artist/2qn3o7fteszcZ86aCoJhOa), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Simple Ando Pilas](https://open.spotify.com/album/4Dij3NcvqJDf9vlh3sY9iI) | 2:59 |
+| 26 | [Siempre Ando Pilas](https://open.spotify.com/track/6ixICQZGFhNz0jSqV7BPjf) | [Gael gallegos](https://open.spotify.com/artist/2qn3o7fteszcZ86aCoJhOa), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Siempre Ando Pilas](https://open.spotify.com/album/4Dij3NcvqJDf9vlh3sY9iI) | 2:59 |
 | 27 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
 | 28 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
 | 29 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 |
 | 50 | [Escolta Personal \- En Vivo](https://open.spotify.com/track/5fVoYliFnvTx9KsB9oYOeP) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [ConBebio Culto \(En Vivo\)](https://open.spotify.com/album/674TPmkSQt1a1ZfbsmJv8d) | 3:07 |
 
-Snapshot ID: `MCwwMWZiODk3NzljMzM4MGViNTEwNjEwZDg2YzMyMDFmMGU0MTdmZmQx`
+Snapshot ID: `MCwwNDM0YmZkY2U3OGRmNDRkNmZiMzM0ZGU2NDZkYjY3MThhNTA4NDQ2`

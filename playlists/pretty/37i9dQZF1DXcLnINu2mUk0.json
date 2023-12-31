@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42245,
+  "num_followers": 42251,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5",
+  "snapshot_id": "MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "PESO DA COROA",
+        "url": "https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7"
+      },
+      "artists": [
+        {
+          "name": "Don Kapa",
+          "url": "https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR"
+        },
+        {
+          "name": "Dui MC",
+          "url": "https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "PESO DA COROA",
+      "url": "https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Heartbreak Canvas (Acoustic Version)",
         "url": "https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 191250,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "PESO DA COROA",
-        "url": "https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7"
-      },
-      "artists": [
-        {
-          "name": "Don Kapa",
-          "url": "https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR"
-        },
-        {
-          "name": "Dui MC",
-          "url": "https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "PESO DA COROA",
-      "url": "https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi"
     },
     {
       "added_at": "2023-12-22 00:00:01",

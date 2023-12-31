@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 8858,
+  "num_followers": 8873,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmI4ODU1OWZjMGE4Y2Q4NzM0ZmNlOThjMWRlN2ViMmRmNjQyYTNj",
+  "snapshot_id": "MCxhMTJlNTI5MDQ5MGI3NzAwYjkzYWE1MjE4NmYxNjE4ZjgwMDE3MWEw",
   "tracks": [
     {
       "added_at": "2023-12-27 17:43:52",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "Si nos vamos",
-        "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 166750,
-      "name": "Si Nos Vamos",
-      "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "Si nos vamos",
+        "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "Si Nos Vamos",
+      "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
     },
     {
       "added_at": "2023-12-27 17:43:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Mayo",
-      "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "Ni\u00f1a de Mis Ojos",
         "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
       },
@@ -1091,18 +1075,38 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "Dame Guerra",
-        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Dame Guerra",
-      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
+      "duration_ms": 215800,
+      "name": "Mayo",
+      "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "duration_ms": 243245,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
     }
   ],
   "unique_name": "mi vida es una peli",

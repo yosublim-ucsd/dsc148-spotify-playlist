@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ2YzEzMGZmZmU0MmRhN2Q0ZjllNjBlNWFhOWNkNGQwOTQ1N2U1",
+  "snapshot_id": "MCw3YmE2ODkwY2RmZjNmYWU4YWFkZjk4OGViM2IyNDM2MTY4YjI1MTky",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 213842,
+      "name": "Wave of You",
+      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 213842,
-      "name": "Wave of You",
-      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1047,26 +1047,6 @@
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Love Me Less (feat. Quinn XCII)",
         "url": "https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg"
       },
@@ -1251,26 +1227,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 139809,
-      "name": "Lonely (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
@@ -1287,6 +1243,26 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 139809,
+      "name": "Lonely (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1343,22 +1319,26 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
       "artists": [
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1387,26 +1367,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+      "duration_ms": 211040,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1519,6 +1495,30 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Free Woman",
+      "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "R.I.P. (feat. Rita Ora & Anitta)",
         "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 187200,
       "name": "R.I.P. (feat. Rita Ora & Anitta)",
       "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Free Woman",
-      "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "FRIENDS KEEP SECRETS 2",
         "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 169094,
       "name": "You (with Marshmello & Vance Joy)",
       "url": "https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2023-03-10 17:59:10",

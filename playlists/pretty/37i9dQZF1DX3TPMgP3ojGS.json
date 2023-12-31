@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 396222,
+  "num_followers": 396435,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTY1ZjZiNWNjMTBkNGU1NTkxYjE3NmQyMmUyN2I5OTU2ZDU4ZDhh",
+  "snapshot_id": "MCxhYmQ2YjE1MzRkYjY5NzY0YjgyOWNkZDQ0NzM2MmRjZWIwZjAzZWFh",
   "tracks": [
     {
       "added_at": "2023-12-26 15:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Afterlight",
-        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
-      },
-      "artists": [
-        {
-          "name": "Arlo Thiem",
-          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Afterlight",
-      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 125308,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Dreamt, far hope...",
-        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 139515,
-      "name": "Dreamt, far hope...",
-      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 172500,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Dreamt, far hope...",
+        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 139515,
+      "name": "Dreamt, far hope...",
+      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Diaphanous",
         "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 173520,
       "name": "Diaphanous",
       "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Window Seat",
-        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
       "artists": [
         {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
-      "duration_ms": 145120,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Ode to Vivian (Rework)",
         "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 96624,
       "name": "Ode to Vivian - Rework",
       "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Just Stay",
-        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
-      },
-      "artists": [
-        {
-          "name": "Tristaan Wilkes",
-          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
-        }
-      ],
-      "duration_ms": 123216,
-      "name": "Just Stay",
-      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Valse Naturelle",
         "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
+      },
+      "artists": [
+        {
+          "name": "Tristaan Wilkes",
+          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
+        }
+      ],
+      "duration_ms": 123216,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
       },
@@ -1095,6 +1095,38 @@
       "duration_ms": 145529,
       "name": "Deja",
       "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Come close",
+        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Come close",
+      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "The Old Garden",
+        "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "duration_ms": 174781,
+      "name": "The Old Garden",
+      "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Come close",
-        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
-      },
-      "artists": [
-        {
-          "name": "Korey Banks",
-          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Come close",
-      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Full Bloom",
         "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 142763,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
-        "name": "The Old Garden",
-        "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
-      },
-      "artists": [
-        {
-          "name": "Sanna Aalto",
-          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
-        }
-      ],
-      "duration_ms": 174781,
-      "name": "The Old Garden",
-      "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "Moment of Solace",
+        "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Moment of Solace",
+      "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Poesia",
-        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
-      },
-      "artists": [
-        {
-          "name": "Fernando Alegre",
-          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
-        }
-      ],
-      "duration_ms": 125248,
-      "name": "Poesia",
-      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1383,6 +1383,38 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
-      },
-      "artists": [
-        {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
-        }
-      ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
-        "name": "Moment of Solace",
-        "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
-      },
-      "artists": [
-        {
-          "name": "Eva Starr",
-          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Moment of Solace",
-      "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Lofoten",
-        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 161913,
-      "name": "Lofoten",
-      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -1511,22 +1495,6 @@
       "duration_ms": 133375,
       "name": "Muse",
       "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
-        "name": "Liminal ride",
-        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
-      },
-      "artists": [
-        {
-          "name": "Luna Bauer",
-          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
-        }
-      ],
-      "duration_ms": 156705,
-      "name": "Liminal ride",
-      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1547,18 +1515,34 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "Wreszcie",
-        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
       "artists": [
         {
-          "name": "Zuzana Kudov\u00e1",
-          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
         }
       ],
-      "duration_ms": 175825,
-      "name": "Wreszcie",
-      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
+        "name": "Liminal ride",
+        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Liminal ride",
+      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+      },
+      "artists": [
+        {
+          "name": "Portia Price",
+          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+        }
+      ],
+      "duration_ms": 138301,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "Nouvelles Tentatives",
         "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
       },
       "artists": [
         {
-          "name": "Portia Price",
-          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
         }
       ],
-      "duration_ms": 138301,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 85374,
+  "num_followers": 85455,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2ZmM2RkM2YyNjhkNTM3YzBkNzlkNmI0YTRlMTBkYWI3YTc5OGYw",
+  "snapshot_id": "MCwwODhlYmFmZDY0YzM2OTNjY2Q0NWQ5ODRkZDg0ODUyNjM5MWZhN2Zm",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Me Ensina a Viver",
-        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 310312,
-      "name": "Me Ensina a Viver",
-      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Me Ensina a Viver",
+        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 310312,
+      "name": "Me Ensina a Viver",
+      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 138517,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "S\u00f3 o Come\u00e7o",
         "url": "https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO"
       },
@@ -651,6 +667,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Leif Bessa - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 280235,
+      "name": "Caminhada",
+      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Nasce o Sol (Remix)",
         "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
@@ -667,22 +699,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Dia de Festa",
         "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 298213,
       "name": "Dia de Festa",
       "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Leif Bessa - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 280235,
-      "name": "Caminhada",
-      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 213000,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2023-12-22 03:00:00",

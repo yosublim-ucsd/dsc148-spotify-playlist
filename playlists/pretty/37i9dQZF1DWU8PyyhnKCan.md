@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,198 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,267 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCwwYjFlYTUxZmE3NjM1ZjMyZDYyNzk4NTE2Yjk5YjhiOTZlYzFmM2Y4`
+Snapshot ID: `MCw1ODcyYjQwMzYzMTQ0NjgxNmQ5MjRmMzdiM2M1NzViYmJhZTc1NmJl`

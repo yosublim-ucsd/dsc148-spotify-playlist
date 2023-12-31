@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3705214,
+  "num_followers": 3705655,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmE1MzVkMGRhN2I1NzllNzYyMjM1NDJkN2Y2M2I0YThjNDk2MDA1",
+  "snapshot_id": "MCxhNzY0YTZiNjVjN2JiOTYyNGViYTVhMzE2MzFlZDBkYzk5NmQ2NDY2",
   "tracks": [
     {
       "added_at": "2023-12-26 18:51:37",
@@ -591,42 +591,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Perfect Mistakes",
-        "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 233804,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
       },
@@ -651,6 +615,26 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Perfect Mistakes",
+        "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 233804,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Spring Embers",
         "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 212459,
       "name": "Spring Embers",
       "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 313586,
       "name": "Beyond Beliefs",
       "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 228094,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 228094,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
       },
@@ -1107,6 +1107,26 @@
       "duration_ms": 250920,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Do You Feel The Same? (OCULA Remix)",
+        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Do You Feel The Same? - OCULA Remix",
+      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Do You Feel The Same? (OCULA Remix)",
-        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Do You Feel The Same? - OCULA Remix",
-      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+      },
+      "artists": [
+        {
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
-      },
-      "artists": [
-        {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 191557,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1315,22 +1331,6 @@
       "duration_ms": 153532,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1383,22 +1383,26 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
       "artists": [
         {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+      "duration_ms": 198574,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1423,26 +1427,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Before Dawn",
-        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 198574,
-      "name": "Before Dawn",
-      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Something Was Real",
+        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Something Was Real",
+      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Into The Sun (Chill Mix)",
         "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 299512,
       "name": "I Will Leave a Light On - Sultan + Shepard Remix",
       "url": "https://open.spotify.com/track/6wZ8MVg77od27vH3444rW6"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1915,18 +1915,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt"
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
       "artists": [
         {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 136271,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O"
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     }
   ],
   "unique_name": "Chill Tracks",

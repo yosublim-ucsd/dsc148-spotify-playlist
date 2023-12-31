@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 182411,
+  "num_followers": 182436,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjQ1YWYxZGQwMGRhZTU3NjliZTdlN2I3ZDU0NzBiZTc5NzdjYTli",
+  "snapshot_id": "MCw1ZDhiMzYxZjc4YTRmZTA5OGUyMzNmZmM2MjVlMTkzMzRmOTZiMTQ0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Perfect Plan",
-        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        }
-      ],
-      "duration_ms": 289161,
-      "name": "Too Late Babe",
-      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Perfect Plan",
+        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "duration_ms": 289161,
+      "name": "Too Late Babe",
+      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Vivian Leva & Riley Calcagno",
+        "url": "https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Love and Chains",
+      "url": "https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Amythyst Kiah and Her Chest of Glass",
         "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
       },
@@ -1527,38 +1543,6 @@
       "duration_ms": 362527,
       "name": "Trouble so Hard",
       "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "More From the Levee",
-        "url": "https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv"
-      },
-      "artists": [
-        {
-          "name": "Chris Smither",
-          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
-        }
-      ],
-      "duration_ms": 202676,
-      "name": "Lonely Time",
-      "url": "https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "WHITE NOISE",
-        "url": "https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 253821,
-      "name": "BAD DESIRE",
-      "url": "https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "WHITE NOISE",
+        "url": "https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 253821,
+      "name": "BAD DESIRE",
+      "url": "https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1639,6 +1639,38 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "More From the Levee",
+        "url": "https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv"
+      },
+      "artists": [
+        {
+          "name": "Chris Smither",
+          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
+        }
+      ],
+      "duration_ms": 202676,
+      "name": "Lonely Time",
+      "url": "https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Breakin' Ground",
+        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breakin' Ground",
+      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "American Flowers",
         "url": "https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg"
       },
@@ -1663,38 +1695,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Breakin' Ground",
-        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breakin' Ground",
-      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75448,
+  "num_followers": 75498,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTYxMGNlMDk5ZjFkYjJhYjg4M2QyZDhlNzcxMzk3OTg5YTk5OTk0",
+  "snapshot_id": "MCxlN2JjYTIxYjJjNjU2MGRlMmFkN2RhMjZjN2M0ODI4NzkzMDUyYzc2",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "At\u00e9 o Amanhecer (Speed)",
-        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        }
-      ],
-      "duration_ms": 170202,
-      "name": "At\u00e9 o Amanhecer - Speed",
-      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Imprevisto \u2013 Speed",
         "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 118666,
       "name": "Imprevisto \u2013 Speed",
       "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "At\u00e9 o Amanhecer (Speed)",
+        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        }
+      ],
+      "duration_ms": 170202,
+      "name": "At\u00e9 o Amanhecer - Speed",
+      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "HOJE ELA PEDE PANDORA (Speed UP)",
-        "url": "https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF"
-      },
-      "artists": [
-        {
-          "name": "Sujiro Kimimami",
-          "url": "https://open.spotify.com/artist/2nqx2yufaBmTkQyQJtNBrR"
-        },
-        {
-          "name": "SUPER XAND\u00c3O",
-          "url": "https://open.spotify.com/artist/3uhZu06g8d2N7gMIHDGgSP"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "HOJE ELA PEDE PANDORA - Speed UP",
-      "url": "https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Brotei No Baile Da Matinha (Tiktok)",
         "url": "https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 106595,
       "name": "Brotei No Baile Da Matinha - Tiktok",
       "url": "https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "HOJE ELA PEDE PANDORA (Speed UP)",
+        "url": "https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF"
+      },
+      "artists": [
+        {
+          "name": "Sujiro Kimimami",
+          "url": "https://open.spotify.com/artist/2nqx2yufaBmTkQyQJtNBrR"
+        },
+        {
+          "name": "SUPER XAND\u00c3O",
+          "url": "https://open.spotify.com/artist/3uhZu06g8d2N7gMIHDGgSP"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "HOJE ELA PEDE PANDORA - Speed UP",
+      "url": "https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -647,6 +647,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Semblante de Criminoso Speed",
-        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
-      },
-      "artists": [
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        }
-      ],
-      "duration_ms": 98475,
-      "name": "Semblante de Criminoso Speed",
-      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Semblante de Criminoso Speed",
+        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        }
+      ],
+      "duration_ms": 98475,
+      "name": "Semblante de Criminoso Speed",
+      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -963,26 +943,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Ametista (Speed Up)",
-        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
-      },
-      "artists": [
-        {
-          "name": "WZ MC",
-          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
-        },
-        {
-          "name": "AyDucz",
-          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
-        }
-      ],
-      "duration_ms": 107095,
-      "name": "Ametista - Speed Up",
-      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
       },
@@ -999,6 +959,46 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
+      },
+      "artists": [
+        {
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
+        },
+        {
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Ametista (Speed Up)",
+        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
+      },
+      "artists": [
+        {
+          "name": "WZ MC",
+          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
+        },
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+        }
+      ],
+      "duration_ms": 107095,
+      "name": "Ametista - Speed Up",
+      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,243 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,245 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 34 | [Brown Skin Woman](https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:47 |
 | 35 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 | 36 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
-| 37 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
-| 38 | [Walking On A Tightrope](https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Walking On A Tightrope \- The Songs Of Percy Mayfield](https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2) | 5:46 |
-| 39 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
+| 37 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
+| 38 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
+| 39 | [Walking On A Tightrope](https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Walking On A Tightrope \- The Songs Of Percy Mayfield](https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2) | 5:46 |
 | 40 | [Dark Clouds Rollin'](https://open.spotify.com/track/4VU7zTodGQKwJh5295pflB) | [Silas Hogan](https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d) | [Louisiana Swamp Blues Vol\. 6](https://open.spotify.com/album/14nEVobg09hiQy9tY1cFFa) | 2:55 |
 
-Snapshot ID: `MCw5OTI1ODFiODViNjFiYzE3YWVmNDJkNWEzNDIyYTIyMDE0ZTY3OGZi`
+Snapshot ID: `MCwxNWE2Zjc2NTUwNmExMTRiNWI0ZDM2ZDg5ZGI5YTU1MTgyNzBhYzI3`

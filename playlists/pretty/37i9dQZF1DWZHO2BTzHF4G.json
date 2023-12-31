@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34350,
+  "num_followers": 34352,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhlOTE5MDE3ODc3YWJhNTkzNGIzZjkwZjg0NGJlY2U3Yzc2MTQ2",
+  "snapshot_id": "MCxmZDdiMTY0MzFjZjdjNDQ4ODY0NDk0YTMyYWFiMGJiMjZmYzg5ZTk5",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "More Than You Think You Are",
         "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 228706,
       "name": "Unwell",
       "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2021-04-09 06:36:41",

@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 144381,
+  "num_followers": 144438,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTA3MGE5ZTYyZjI2NDZkMzg1ZDBhMDNjZWMyMDlhMzBiMTM5NTg5",
+  "snapshot_id": "MCw3Y2UwZTc3Njk5NjBiZjY0ODU5N2Q3MjEwMmFkNjQxZmRlNGJiNzMz",
   "tracks": [
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Querido Pablo",
         "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 242960,
       "name": "El Breve Espacio en Que No Estas",
       "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2023-06-23 17:27:36",

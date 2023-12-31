@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 722926,
+  "num_followers": 723231,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTllODJhMjU1YjY4ODYxZGZmMzAzNzBmODE2MDA3YjI5YWE4ZGEy",
+  "snapshot_id": "MCxhY2M2YmNhMDk3ODA2OWUyMzU1NjQzMWFlNWUxN2UzODUyMDE0MjA0",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
     },
     {
       "added_at": "2023-09-24 19:18:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,550 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,683 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [100+ \(feat\. Lil Baby\)](https://open.spotify.com/track/6NJYGSDR7I0Bz7NlUhmlxE) | [Young Shiners](https://open.spotify.com/artist/3j8KnvnrydBHrj5y4BblMp), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST Marti](https://open.spotify.com/artist/5DZRcxS14ntEBa4mAJkikV), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Shiners Are Forever](https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX) | 2:59 |
 | 100 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 
-Snapshot ID: `MCwwZjQ1NzYzOGZkMzE3NTc2NzA3M2UzMDE2YzU3NTBmYmZlNjBiNWZh`
+Snapshot ID: `MCwxYWRiMDgyY2NiODZjMDI5YmUzOTE2YmZiOWIxNjhiMDgyZTNjMGQ1`

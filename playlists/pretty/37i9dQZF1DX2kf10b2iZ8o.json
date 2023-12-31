@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22198,
+  "num_followers": 22207,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTNlY2Q3OTBhMWY0MTU1NWQ0NjI3MjNkMzIyYWI3NzFjYzg3OTk5",
+  "snapshot_id": "MCxhZDA3Zjc3YWYwYjY2NWJiNzcwZTEyN2VhZjgxMGFlMzkxOWMzYWFm",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
-        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
-      },
-      "artists": [
-        {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Growing Smiles\uff01",
-      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -08 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
+        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
+      },
+      "artists": [
+        {
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Growing Smiles\uff01",
+      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -927,38 +927,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
-        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
-      },
-      "artists": [
-        {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
-        }
-      ],
-      "duration_ms": 305400,
-      "name": "Reason!!",
-      "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Reversed Masquerade",
-      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -983,18 +951,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a10 Legenders",
-        "url": "https://open.spotify.com/album/6toX8zfhUlEu86UnctM9RM"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
       "artists": [
         {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
         }
       ],
-      "duration_ms": 279786,
-      "name": "FOCUS ON YOUR LIFE",
-      "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
+      "duration_ms": 320733,
+      "name": "Reversed Masquerade",
+      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1015,6 +983,38 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a10 Legenders",
+        "url": "https://open.spotify.com/album/6toX8zfhUlEu86UnctM9RM"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "FOCUS ON YOUR LIFE",
+      "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
+        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
+      },
+      "artists": [
+        {
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Reason!!",
+      "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
         "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 286266,
       "name": "mermaid fermata",
       "url": "https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a12 DRAMATIC STARS",
-        "url": "https://open.spotify.com/album/41egSGWcWXwiIUP3LLpyiN"
-      },
-      "artists": [
-        {
-          "name": "DRAMATIC STARS",
-          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "GOOD NEW MORNING",
-      "url": "https://open.spotify.com/track/3iuy5pmjX5igfneqNeE305"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1067,6 +1051,22 @@
       "duration_ms": 349000,
       "name": "\u3044\u3064\u304b\u306e\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a12 DRAMATIC STARS",
+        "url": "https://open.spotify.com/album/41egSGWcWXwiIUP3LLpyiN"
+      },
+      "artists": [
+        {
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "GOOD NEW MORNING",
+      "url": "https://open.spotify.com/track/3iuy5pmjX5igfneqNeE305"
     },
     {
       "added_at": "2023-05-09 15:56:06",

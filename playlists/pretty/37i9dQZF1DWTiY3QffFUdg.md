@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,543 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,790 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 41 | [Let It Happen \(Techno\)](https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Let It Happen \(Techno\)](https://open.spotify.com/album/0Ux1YVKtFJb3QfC0RLV1mt) | 2:02 |
 | 42 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 |
 | 43 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 |
-| 44 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 |
+| 44 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
 | 45 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 |
-| 46 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
+| 46 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 |
 | 47 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 |
 | 48 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 |
 | 49 | [Gam Gam \- 2023](https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Mauro Pilato](https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP), [Max Monti](https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr) | [Gam Gam \(2023\)](https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r) | 4:08 |
 | 50 | [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 |
 
-Snapshot ID: `MCxhODgwNGExOGFlOWE2NzI4MTZkNzQ4MDcwYTZmYWIxMjM4YjJiOWJl`
+Snapshot ID: `MCxhNzgxYmU1NTk4ZTVhYjg3NTBiZmMyNmFjZDUxZDYwYjY4N2VkMDBm`

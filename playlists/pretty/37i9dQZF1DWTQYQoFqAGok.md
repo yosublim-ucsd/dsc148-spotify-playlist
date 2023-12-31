@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,836 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,841 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 38 | [Aquel Incendio](https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Jonathan Maron](https://open.spotify.com/artist/3c1abg4EpGemD4WexcVj6B), [Bill Campbell](https://open.spotify.com/artist/5LPzwY21u7i62eGAb7LcuK) | [Fulgor](https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS) | 4:06 |
 | 39 | [Trato De Asimilar](https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [¡Oh! Mi Amor](https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u) | 5:18 |
 | 40 | [La Marcha De Sansón](https://open.spotify.com/track/5FUStaUjkr3KnEuMe5ISoR) | [Chilo Moran](https://open.spotify.com/artist/2hJUxhxA0lT9kBVHUjARsK) | [Días De Vino Y Rosas](https://open.spotify.com/album/7M5Z3QiHlZx5EVaklRqUi0) | 4:36 |
-| 41 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
-| 42 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
+| 41 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
+| 42 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
 | 43 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 |
 | 44 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
 | 45 | [Paq\-Man](https://open.spotify.com/track/3cRDVtteYW537cdLCxkoMF) | [Abraham Barrera](https://open.spotify.com/artist/2G6Dj9QYAC86ZLOBVbf4Uh), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [Ocaso](https://open.spotify.com/album/3Uh18mM8A9l4KbeuYHKh47) | 5:36 |
 | 46 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 47 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 48 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
-| 49 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
-| 50 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 |
+| 49 | [Momentos](https://open.spotify.com/track/1IUjtAcCFIo05a9JaGplyG) | [Paulina Fuentes](https://open.spotify.com/artist/5n692lJsTkWqbYvFkSQTeN) | [Invierno](https://open.spotify.com/album/6n5ikOqqyYiJnAmiexXbmx) | 4:56 |
+| 50 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
 
-Snapshot ID: `MCwxMTlmODNiOTg0MGE4YzRmYTEwN2Y0MjU2ZDA3NjBlODEyODJjZDA0`
+Snapshot ID: `MCwxNTVkZjZmMGM1ZjkxOTNiZjVhZTJkNTMyZmE2MDkwNTZkZmYwZDM4`

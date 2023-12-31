@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-726 songs - 1 day 17 hr 8 min
+728 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-01-25 | 2023-03-08 |
 | [Betaa Zaman](https://open.spotify.com/track/3tRFSAqNZRSi3tW09dVGNW) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Betaa Zaman](https://open.spotify.com/album/7pyyEiSY1qrUO6JXOrcPpK) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 | 2023-03-11 |
-| [Bkam](https://open.spotify.com/track/00UnHWPTVmkhRj6rW1ZlFH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 1:53 | 2023-12-21 |  |
+| [Bkam](https://open.spotify.com/track/00UnHWPTVmkhRj6rW1ZlFH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 1:53 | 2023-12-21 | 2023-12-31 |
+| [Bkam](https://open.spotify.com/track/4OgtLrSm7HbhwH9EVGCz4O) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 1:53 | 2023-12-29 |  |
 | [Bomba](https://open.spotify.com/track/1mslncEUjBYoS5NbEUJiJh) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Bomba](https://open.spotify.com/album/71TukCJEhT0j8RKweeZpPD) | 3:10 | 2023-07-12 | 2023-08-09 |
 | [Bumble](https://open.spotify.com/track/6SY8dp9yl9YWdh8rErTsEW) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O) | [Bumble](https://open.spotify.com/album/0TW5DtLhLZXYyngRsSqSRW) | 3:10 | 2023-05-04 | 2023-06-15 |
 | [Byehzi](https://open.spotify.com/track/0TvCDE5xR4HVv7rcEiLU8R) | [Mohamed Rashad](https://open.spotify.com/artist/0D3GrTX8gewB7hlKDPCInu) | [Byehzi](https://open.spotify.com/album/3RxHFLVbHLJNuMN53fjRzp) | 2:54 | 2023-06-22 | 2023-07-28 |
@@ -395,7 +396,7 @@
 | [Nekhaby Leh](https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nekhaby Leh](https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30) | 1:46 | 2023-05-11 | 2023-06-07 |
 | [Nekhaby Leh](https://open.spotify.com/track/5N5O32XdV1FdkWXp2T9zA8) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 1:46 | 2023-06-06 | 2023-06-16 |
 | [Nensa El Leil](https://open.spotify.com/track/5gVGlQ42sx0lfZena81pMp) | [Mohamed Samy](https://open.spotify.com/artist/5fFrme3y5uOMz38dF8TTR2) | [Nensa El Leil](https://open.spotify.com/album/4r6TzKnO0SNpD8qjgTlKmf) | 3:32 | 2023-11-16 |  |
-| [Nos Banat Baldak](https://open.spotify.com/track/20DeZwWJThCpSa4EQiTSYU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Nos Banat Baldak](https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ) | 2:08 | 2023-12-29 |  |
+| [Nos Banat Baldak](https://open.spotify.com/track/20DeZwWJThCpSa4EQiTSYU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Nos Banat Baldak](https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ) | 2:08 | 2023-12-29 | 2023-12-31 |
 | [Nécessaire](https://open.spotify.com/track/24BRftQd04lh9O0J5R4jst) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Nécessaire](https://open.spotify.com/album/3OgMI7hy4jxaRcGQwabiO1) | 3:46 | 2023-06-29 | 2023-08-03 |
 | [Ohdoneny](https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ohdoneny](https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi) | 3:21 | 2022-02-17 | 2022-06-03 |
 | [Or2os](https://open.spotify.com/track/0K0LnwN0W3jKgBSOfdS9O7) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [Or2os](https://open.spotify.com/album/6e134cNPBba31udAGXUTzr) | 2:40 | 2023-02-16 | 2023-04-06 |
@@ -701,6 +702,7 @@
 | [مهيبرين](https://open.spotify.com/track/1QHglFYlFySKRrR04B9IJM) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [أولاد حريم كريم \(أغاني الفيلم\)](https://open.spotify.com/album/6Lnc9Yc3dWv0BKhCsb1xRN) | 2:45 | 2023-09-01 | 2023-12-22 |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |
 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 | 2023-05-05 |
+| [نص بنات بلدك](https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [نص بنات بلدك](https://open.spotify.com/album/0IG0hyjIdkYn10GVmmcfIi) | 2:08 | 2023-12-29 |  |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 | 2023-03-10 |
 | [هارلي \- أغنية الفيلم](https://open.spotify.com/track/1xONu0es8q0Mw68bxMLxkY) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [هارلي \(أغنية الفيلم\)](https://open.spotify.com/album/3hMbBbUijCEaOmKhcBsi9b) | 1:54 | 2023-05-12 | 2023-06-30 |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |

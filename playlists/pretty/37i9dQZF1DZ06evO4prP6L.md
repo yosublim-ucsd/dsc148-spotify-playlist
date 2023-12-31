@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,300 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,309 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 32 | [Cowgirls Do \- Remastered 2017](https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:08 |
 | 33 | [Drive On](https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:51 |
 | 34 | [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 |
-| 35 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
-| 36 | [This Cowboy's Hat \- Remastered 2017](https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 4:04 |
+| 35 | [Skinny Dippin' \- Remastered 2017](https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:06 |
+| 36 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
 | 37 | ['Cause I'm Country \- Remastered 2017](https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:14 |
 | 38 | [Planet Country \- Remastered 2017](https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:38 |
-| 39 | [Come Together](https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Mitch Tambo](https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W), [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Come Together](https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz) | 4:11 |
-| 40 | [Skinny Dippin' \- Remastered 2017](https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:06 |
+| 39 | [This Cowboy's Hat \- Remastered 2017](https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 4:04 |
+| 40 | [Come Together](https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Mitch Tambo](https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W), [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Come Together](https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz) | 4:11 |
 | 41 | [Goondiwindi Moon \- Remastered 2017](https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:55 |
 | 42 | [Electric Rodeo \- Remastered 2017](https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:20 |
-| 43 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
-| 44 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
+| 43 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
+| 44 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
 | 45 | [When the First Bombs Fell](https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:32 |
 | 46 | [Baptise the Ute \- Remastered 2017](https://open.spotify.com/track/5X39AOvrxpRVwZNrBacYOo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 3:35 |
-| 47 | [Mate \- Remastered 2017](https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Bush](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:40 |
-| 48 | [Country Crowd \- Remastered 2017](https://open.spotify.com/track/11zQvjFccpnImml13XWNdS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:54 |
+| 47 | [Country Crowd \- Remastered 2017](https://open.spotify.com/track/11zQvjFccpnImml13XWNdS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:54 |
+| 48 | [Mate \- Remastered 2017](https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Bush](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:40 |
 | 49 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
-| 50 | [Country Fan](https://open.spotify.com/track/6fnli47Ghohf4zCgqKrLDN) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Home Truths](https://open.spotify.com/album/1pOL91067XJL27UpqiBPZ3) | 3:11 |
+| 50 | [Country Girls \- Remastered 2017](https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The Outback Club](https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr) | 3:14 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDA5NTNlODc2YzYyNmFkOTc1NGZkZTUzNjYxNTRlNjExYQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDAyZGU3OTA0ZTZhMWFiY2FiNzMzODMzZTRmMzEwNGFkNg==`

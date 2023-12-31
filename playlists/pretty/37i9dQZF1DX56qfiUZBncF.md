@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,907 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,929 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 17 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 18 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 3:19 |
 | 19 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 |
-| 20 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
-| 21 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 |
+| 20 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 |
+| 21 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
 | 22 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 23 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 |
-| 24 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
-| 25 | [Purple Sand \(My Home\)](https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:38 |
+| 24 | [Purple Sand \(My Home\)](https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:38 |
+| 25 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
 | 26 | [In Cold Blood](https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:26 |
 | 27 | [Caffeine](https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ) | 3:05 |
 | 28 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 83 | [Fading](https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:22 |
 | 84 | [Wishful Thinking](https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Wishful Thinking](https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO) | 3:20 |
 | 85 | [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 |
-| 86 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
-| 87 | [Trouble to Share](https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [That Was Now](https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D) | 4:00 |
+| 86 | [Trouble to Share](https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [That Was Now](https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D) | 4:00 |
+| 87 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
 | 88 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
 | 89 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
 | 90 | [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 97 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 98 | [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 |
 | 99 | [Youth](https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU) | [Ben Khan](https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K) | [1992 EP](https://open.spotify.com/album/6NebCuedf30wTZqRTGprn2) | 3:17 |
-| 100 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
+| 100 | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS) | 3:38 |
 
-Snapshot ID: `MCw1N2Q2MDBjYTY4YjQ5ZTczZTllMTgwYmY4YjcxZDFlMWRjMTAzYmRj`
+Snapshot ID: `MCw0MDhmYmU1N2U0MWU4Y2IzZGJiNjM1ODkwODJjZjEwMGYxZTIxYzRm`

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 230376,
+  "num_followers": 230440,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDNiYWE0MjNhMTNmNmYyNWFmNmRhMjA3MzMwYThlOGU5Y2MxZGRl",
+  "snapshot_id": "MCw2ZWFiZmFhNDM4MzA3MDI5YzY3YzNlMmY4NDIxMmU1MzA3OTU3ZTRm",
   "tracks": [
     {
       "added_at": "2023-12-26 19:49:57",
@@ -523,30 +523,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Pepper",
-        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
-      },
-      "artists": [
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Flip It",
-        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Dem Jointz",
-          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Flip It",
-      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -847,6 +847,26 @@
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 179033,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -895,26 +915,6 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Overdrive EP",
         "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 152015,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Shut Shit Down",
         "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Counting",
-        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 232468,
-      "name": "Counting",
-      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -2183,26 +2203,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "DUST",
-        "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "DUST",
-      "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Raven Gray",
-          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
-        }
-      ],
-      "duration_ms": 189721,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "All The Girls",
         "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 197254,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2331,6 +2331,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Jumpstarter",
+        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 173592,
+      "name": "Jumpstarter",
+      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Feel It 2",
         "url": "https://open.spotify.com/album/2LKfw7bBcVhlLuFZrjyuah"
       },
@@ -2355,26 +2375,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Jumpstarter",
-        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 173592,
-      "name": "Jumpstarter",
-      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -2391,50 +2391,6 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Last Words",
-        "url": "https://open.spotify.com/album/7KosWcByYbJiHXhZBy2Q2I"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Sophon",
-          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
-        },
-        {
-          "name": "RUSUR",
-          "url": "https://open.spotify.com/artist/4gTKDU9Pj2UNRnpheTNpdh"
-        }
-      ],
-      "duration_ms": 179988,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/3YtI2ueiyc0amSuuLsiQgQ"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        },
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2459,6 +2415,50 @@
       "duration_ms": 137142,
       "name": "Thinkin of You",
       "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/7KosWcByYbJiHXhZBy2Q2I"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Sophon",
+          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+        },
+        {
+          "name": "RUSUR",
+          "url": "https://open.spotify.com/artist/4gTKDU9Pj2UNRnpheTNpdh"
+        }
+      ],
+      "duration_ms": 179988,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/3YtI2ueiyc0amSuuLsiQgQ"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2511,6 +2511,30 @@
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "L8NCY",
+          "url": "https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2571,30 +2595,6 @@
       "duration_ms": 163636,
       "name": "Dark & Danger",
       "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "L8NCY",
-          "url": "https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
     }
   ],
   "unique_name": "Bangers",

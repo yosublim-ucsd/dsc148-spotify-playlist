@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-284 songs - 1 day 6 hr 32 min
+285 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 | 2022-06-09 | 2023-04-06 |
 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 | 2022-06-09 | 2023-08-04 |
 | [O De \(He's Here\)](https://open.spotify.com/track/6rkjS1nefV5SMIZOLD9I5D) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [BUKOLA BEKES](https://open.spotify.com/artist/2dNXRI4NkBERMYl4x5dcxR), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [O De \(He's Here\)](https://open.spotify.com/album/102OKbemB8VGg6OGjBRAba) | 4:21 | 2022-10-14 | 2022-11-05 |
+| [Oba Ni \- Live](https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Oba Ni \(Live\)](https://open.spotify.com/album/3lJbEjJlrPGj2fMHGRCoPn) | 14:12 | 2023-12-22 |  |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2022-06-09 |  |
 | [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 | 2022-06-09 | 2022-11-13 |
 | [Oghene Doh](https://open.spotify.com/track/5ShqFhdzGbOUX9wQir73l8) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [A Collection of Singles](https://open.spotify.com/album/4znHaZ87wk9G5AMTsi0MnK) | 3:17 | 2023-12-05 | 2023-12-11 |
@@ -250,7 +251,7 @@
 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 | 2023-06-16 | 2023-07-13 |
 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 | 2022-06-09 | 2023-06-16 |
 | [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 | 2023-10-23 |
-| [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 |  |
+| [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 | 2023-12-31 |
 | [Water Run Away My Eyes](https://open.spotify.com/track/6L1aJvQ16EN7KxKSe6iEwW) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 4:16 | 2023-12-05 | 2023-12-11 |
 | [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 | 2023-12-05 | 2023-12-11 |
 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 | 2022-06-16 |  |

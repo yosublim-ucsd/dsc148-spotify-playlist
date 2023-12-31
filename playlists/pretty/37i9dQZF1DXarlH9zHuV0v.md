@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,500 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,472 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 15 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 16 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 17 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 |
-| 18 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 |
-| 19 | [Tribute](https://open.spotify.com/track/6crBy2sODw2HS53xquM6us) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS) | 4:08 |
+| 18 | [Tribute](https://open.spotify.com/track/6crBy2sODw2HS53xquM6us) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS) | 4:08 |
+| 19 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 |
 | 20 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
 | 21 | [Ghostbusters](https://open.spotify.com/track/569uHYIB0X324FZOBEhvit) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Greatest Hits](https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6) | 3:59 |
 | 22 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 50 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
 | 51 | [Ghosts \- Single Edit](https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Ghosts \(Remixes\)](https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk) | 4:31 |
 | 52 | [Sorry Sack Of Bones](https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:48 |
-| 53 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
-| 54 | [Main Theme: The Addams Family \- Instrumental Version](https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7) | [Vic Mizzy and His Orchestra and Chorus](https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv) | [The Addams Family \(Original Music From The T.V\. Show\)](https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53) | 2:00 |
-| 55 | [Deal with the Devil](https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 3:21 |
+| 53 | [Deal with the Devil](https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 3:21 |
+| 54 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
+| 55 | [Main Theme: The Addams Family \- Instrumental Version](https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7) | [Vic Mizzy and His Orchestra and Chorus](https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv) | [The Addams Family \(Original Music From The T.V\. Show\)](https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53) | 2:00 |
 | 56 | [Rampage](https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh) | 2:55 |
 | 57 | [Frankenstein](https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [The Best Of Edgar Winter](https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY) | 4:45 |
 | 58 | [Halloween](https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Greatest Hits \(Speciel Edition\)](https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO) | 3:49 |
 | 59 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 60 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 |
 
-Snapshot ID: `MCwxOTM0ZThhOWI1OWQ0ZjgwNjg5Y2ZhMmY5OGIzM2Y3NDc0NThhYmYx`
+Snapshot ID: `MCwxOTY4OTI1NjM0ZGMwYjBlYTlhYzRmNmE2MmI2NWE5MzQyNTIwMjAy`

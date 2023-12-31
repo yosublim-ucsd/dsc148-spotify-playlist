@@ -4,7 +4,7 @@
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-84 songs - 5 hr 29 min
+85 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 | 2020-03-16 |  |
 | [Himno De Mi Corazón](https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 5:04 | 2020-03-16 | 2022-07-29 |
 | [Himno De Mi Corazón](https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 5:05 | 2020-03-16 | 2023-12-05 |
+| [Himno De Mi Corazón](https://open.spotify.com/track/4JnVmNIlaPerQD5NI0f0ej) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 5:07 | 2020-03-16 |  |
 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 | 2020-03-16 |  |
 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 | 2020-03-16 |  |
 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 | 2020-03-16 |  |
@@ -86,7 +87,7 @@
 | [Sin Gamulán](https://open.spotify.com/track/3D1WftyPtOFSjbxYyLeo0t) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Sintonía Argentina](https://open.spotify.com/album/0YylvrQxywPLVrSkwHXtw5) | 3:15 | 2020-03-16 | 2022-11-13 |
 | [Solo En Una Noche De Jazz](https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 3:16 | 2020-03-16 | 2022-11-12 |
 | [Sólo Dame Un Poco](https://open.spotify.com/track/1Xfftlvik7GpI2mg9yn2jN) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Fabiana Cantilo y Los Perros Calientes \(Remastered\)](https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt) | 3:24 | 2020-03-16 | 2022-11-12 |
-| [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 | 2020-03-16 |  |
+| [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 | 2020-03-16 | 2023-12-31 |
 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 | 2020-03-16 |  |
 | [Viajando Hacia el Este](https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 4:41 | 2020-03-16 | 2023-04-29 |
 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 | 2020-03-16 |  |

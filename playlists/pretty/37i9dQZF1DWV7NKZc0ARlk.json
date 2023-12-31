@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 143774,
+  "num_followers": 144107,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1",
+  "snapshot_id": "MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -155,22 +155,30 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged. El Libro De Las Mutaciones",
-        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 291117,
-      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -207,30 +215,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+        "name": "MTV Unplugged. El Libro De Las Mutaciones",
+        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         },
         {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 305120,
-      "name": "Prometiste (En Vivo)",
-      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+      "duration_ms": 291117,
+      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
     },
     {
       "added_at": "2023-08-11 13:33:49",

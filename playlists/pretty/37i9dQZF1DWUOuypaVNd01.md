@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Grone, Orochi, SD9, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,359 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,366 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 38 | [Passa Nada](https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [JEFFRO](https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi) | [Passa Nada](https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT) | 3:44 |
 | 39 | [Fura Bilionários](https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ghetto ZN](https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Fura Bilionários](https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w) | 5:00 |
 | 40 | [SOBE O MORRO](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [SOBE O MORRO](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
-| 41 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
+| 41 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
 | 42 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
 | 43 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 44 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 47 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 48 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 | 49 | [rua escura](https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [Ôbigo](https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:00 |
-| 50 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
+| 50 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 
-Snapshot ID: `MCxhMzJkODRiMGUyNDVhYWNhNzU5NjExYjUxYWRiZTZiNDFiMTdhZTA0`
+Snapshot ID: `MCxmNDE0Y2RhMmY4NDdkMTkxOTdlOTNlZWE3ZmU1YTFjOTIyMzJmOWI2`

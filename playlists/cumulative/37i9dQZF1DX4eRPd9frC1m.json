@@ -3479,6 +3479,32 @@
     },
     {
       "album": {
+        "name": "AD INFINITUM",
+        "url": "https://open.spotify.com/album/1LC4nzKSrMlbsHUOY93lyS"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+      "url": "https://open.spotify.com/track/3SXOSV2Me0P88axBxnVMsK"
+    },
+    {
+      "album": {
         "name": "Bangers[7].Zip",
         "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
       },
@@ -3876,7 +3902,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
@@ -5731,6 +5757,32 @@
     },
     {
       "album": {
+        "name": "Silo (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd"
+    },
+    {
+      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
       },
@@ -6716,7 +6768,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 238443,
       "name": "Valley Of Violence",
       "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"

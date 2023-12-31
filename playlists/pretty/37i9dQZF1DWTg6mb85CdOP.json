@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href=\"https://bahidora.com//\"> aqu\u00ed</a>. ",
-  "num_followers": 12440,
+  "num_followers": 12438,
   "original_name": "Bahidor\u00e1 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI1YzU0NDQ3MGM1Zjc4OTRjOTk3N2VkNzg1OWYzMDU1Y2NiNzQ1",
+  "snapshot_id": "MCxjZWUzMDYwN2U3MWM0ZTExYjdmODI5ZGIwOGRhYjZjOTAxNTVlMWU3",
   "tracks": [
     {
       "added_at": "2023-11-01 04:13:15",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/0ZckZeKrt0rkwxxSPk4zW6"
+      },
+      "artists": [
+        {
+          "name": "Danny Daze",
+          "url": "https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB"
+        }
+      ],
+      "duration_ms": 381963,
+      "name": "Ready2Go",
+      "url": "https://open.spotify.com/track/0zEwxVFkNTToRuG3X6xcnu"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
         "name": "The Best!",
         "url": "https://open.spotify.com/album/1wDqXn3xaevYmKx4ER5P4H"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 477737,
       "name": "On Your Way",
       "url": "https://open.spotify.com/track/1Txy239Azz9buzEQ9034kF"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/0ZckZeKrt0rkwxxSPk4zW6"
-      },
-      "artists": [
-        {
-          "name": "Danny Daze",
-          "url": "https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB"
-        }
-      ],
-      "duration_ms": 381963,
-      "name": "Ready2Go",
-      "url": "https://open.spotify.com/track/0zEwxVFkNTToRuG3X6xcnu"
     },
     {
       "added_at": "2023-11-01 04:13:15",

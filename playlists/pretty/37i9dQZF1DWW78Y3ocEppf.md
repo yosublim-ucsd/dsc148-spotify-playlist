@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,231 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,226 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 67 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 |
 | 68 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 |
 | 69 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
-| 70 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
+| 70 | [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 |
 | 71 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 |
-| 72 | [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 |
+| 72 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 73 | [Man on Fire](https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:24 |
 | 74 | [Presence](https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Presence](https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs) | 3:04 |
 | 75 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 78 | [PT\. II \(DRAKE & DRIVE\)](https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:39 |
 | 79 | [Somebody](https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Somebody](https://open.spotify.com/album/0cqTDTmlTuapHUJZHBknfw) | 3:38 |
 | 80 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 |
-| 81 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
-| 82 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
+| 81 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
+| 82 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
 | 83 | [New Nigga](https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:29 |
 | 84 | [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 |
 | 85 | [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 |
 | 100 | [Care](https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [LOVERS WAVE VOL\. 1](https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B) | 1:48 |
 
-Snapshot ID: `MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2`
+Snapshot ID: `MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0`

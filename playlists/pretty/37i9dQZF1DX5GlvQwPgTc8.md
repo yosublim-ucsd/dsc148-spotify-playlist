@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,748 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,747 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 47 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 |
 | 48 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
 | 49 | [J'adore](https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx) | [Four7](https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT), [Tiffany](https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F) | [J'adore](https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw) | 5:08 |
-| 50 | [Old Friend](https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:19 |
+| 50 | [Particula](https://open.spotify.com/track/0YNt1BzzwTwkeIMDciq7u0) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 3:24 |
 
-Snapshot ID: `MCwwMmMwMjZkZDU3YTM3ODg2ZjYxMjU4MDM1OTdhYTFjYzE3YzA5MWY2`
+Snapshot ID: `MCw5ZjdhYmFiMDM5YjNkOTA5ZTQ2Y2RmYzM4ZjFkMDA1MDcwNGI5NmVk`

@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 86107,
+  "num_followers": 86227,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGU5ODQzNTI3ZjZiYTgzODg2ZTcwYmVhYzQwZWE5Y2JjOTA4ZDZk",
+  "snapshot_id": "MCwzYTA3NDE4NzJlMzhjOTc0MjBjOTEzNGJlOWI1YmUyNmUwMjQ4YmQ4",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Good and Green Again",
         "url": "https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 238461,
       "name": "Love Farewell",
       "url": "https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "my house is warm",
+        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "my house is warm",
+      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "glacier meadow",
         "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 166340,
       "name": "glacier meadow",
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "my house is warm",
-        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "my house is warm",
-      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Planet Song",
-        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
-      },
-      "artists": [
-        {
-          "name": "Margot Liotta",
-          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
-        }
-      ],
-      "duration_ms": 210281,
-      "name": "Planet Song",
-      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 202204,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Planet Song",
+        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 210281,
+      "name": "Planet Song",
+      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "A Little Older",
-        "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 182452,
-      "name": "A Little Older",
-      "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Rat Saw God",
         "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 152013,
       "name": "What\u2019s So Funny",
       "url": "https://open.spotify.com/track/01tAXoPSn8QK4O4CaJzdtb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "A Little Older",
+        "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 182452,
+      "name": "A Little Older",
+      "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "I've Got Me",
         "url": "https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 163546,
       "name": "People Are Toys to You",
       "url": "https://open.spotify.com/track/7zqVo3K1HdI3bDEK1FJRDA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "Basil Noodles",
+      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Blue Moon (with paris jackson)",
         "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 149680,
       "name": "Blue Moon (with paris jackson)",
       "url": "https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Humor",
-        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "Basil Noodles",
-      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Bad Taste",
-        "url": "https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 211067,
-      "name": "Bad Taste",
-      "url": "https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Time Ain't Accidental",
         "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 207468,
       "name": "Time Ain't Accidental",
       "url": "https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Bad Taste",
+        "url": "https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 211067,
+      "name": "Bad Taste",
+      "url": "https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4"
     },
     {
       "added_at": "2023-12-08 05:00:00",

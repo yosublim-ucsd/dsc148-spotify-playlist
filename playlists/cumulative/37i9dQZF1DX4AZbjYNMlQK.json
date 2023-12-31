@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 216000,
       "name": "Con Mi Coqueta",
       "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
@@ -1986,6 +1986,28 @@
       "duration_ms": 181574,
       "name": "Mi Regalito Eres T\u00fa",
       "url": "https://open.spotify.com/track/2Oej5AvQmrjaReH7zQq7MQ"
+    },
+    {
+      "album": {
+        "name": "mi \u00fanico deseo",
+        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "mi \u00fanico deseo",
+      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,376 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,467 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 63 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
 | 64 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 65 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
-| 66 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
-| 67 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 66 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 67 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
 | 68 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 69 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
 | 70 | [Rudi Not Dead](https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 4:26 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 74 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 | 75 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
 | 76 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
-| 77 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 |
-| 78 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
+| 77 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
+| 78 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 |
 | 79 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
 | 80 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |
 | 81 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 88 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 |
 | 89 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 90 | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 |
-| 91 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 92 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
+| 91 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
+| 92 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
 | 93 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 94 | [Mezcal](https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Mezcal](https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL) | 3:15 |
 | 95 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
 | 96 | [Crimen en el Paraíso](https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Crimen en el Paraíso](https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3) | 3:32 |
 | 97 | [Escápate conmigo](https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [El ataque de la nueva ola](https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy) | 3:40 |
 | 98 | [Quinta Série](https://open.spotify.com/track/0pv84csez62xBpafUTjJLx) | [Banana Kush](https://open.spotify.com/artist/0AKrnOIY3Ws6R4heYoLBx0) | [Quinta Série](https://open.spotify.com/album/4ODOV14kHREVR543A7NhpF) | 2:10 |
-| 99 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
-| 100 | [30 Años](https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [30 años](https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV) | 3:34 |
+| 99 | [30 Años](https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [30 años](https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV) | 3:34 |
+| 100 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 
-Snapshot ID: `MCwwNGE4NzIxODI2NzM2YTI1M2I1YzYxMDFmNDA4Y2QzMzFlMDI4Y2Zk`
+Snapshot ID: `MCw5OGI0OTFiYzQyNDE4ZTE0MTg5ZjZmNDRhZTQ2ODcwYjI1ZTNiZWZh`

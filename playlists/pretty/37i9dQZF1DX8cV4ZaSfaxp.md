@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: KWON EUNBI\(권은비\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,473 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,482 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 50 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 |
 | 51 | [Thanks to](https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
 | 52 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 |
-| 53 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
-| 54 | [Sweet Girl](https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Sweet Girl](https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx) | 4:08 |
+| 53 | [Sweet Girl](https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Sweet Girl](https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx) | 4:08 |
+| 54 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
 | 55 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 |
 | 56 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 |
 | 57 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 87 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
 | 88 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 89 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
-| 90 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
-| 91 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
+| 90 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
+| 91 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
 | 92 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/7hCtts26L8jf4KxxiNAX4P) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7) | [New Wave City](https://open.spotify.com/album/2ySXEK0kErErlRV7G469GR) | 3:27 |
 | 93 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 | 94 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
 | 95 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
 | 96 | [Wonder Woman](https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [RE\_vive](https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h) | 3:52 |
-| 97 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
+| 97 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
 | 98 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
-| 99 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
+| 99 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
 | 100 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 
-Snapshot ID: `MCxlMDZkNDE0ZDI0OWUzY2RmZmViMDNhZjYxNzQ2MGIwZjczNjBjYTNj`
+Snapshot ID: `MCw3ZDU2OWVkYTQ0YmExNzg0ODczMGVkNTE0NmU2ZTkyMmJiNTUxNzkw`

@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 26683,
+  "num_followers": 26709,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTM2OGM1YjBjN2JjODAyZGI0Y2Q0MWQ3ZmQwM2FkMjg5NTc3NDI4",
+  "snapshot_id": "MCw2ZjVjYmNjMzQ3MWY4NTFkODU2YjVlNTIwNGFmN2QyOGE5ODdjOGU3",
   "tracks": [
     {
       "added_at": "2023-12-22 00:30:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-22 00:30:00",
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 138034,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "added_at": "2023-12-22 00:30:00",
+      "album": {
         "name": "THENIGHTISYOUNG.",
         "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 254315,
       "name": "Wait For You (feat. Oxlade)",
       "url": "https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui"
-    },
-    {
-      "added_at": "2023-12-22 00:30:00",
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 138034,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     },
     {
       "added_at": "2023-12-22 00:30:00",

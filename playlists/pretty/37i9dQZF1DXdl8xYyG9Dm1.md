@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w"> Phyno </a> and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse\-kNLysa6h1Q"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,128 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,253 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 65 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
 | 66 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
-| 67 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 |
-| 68 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
-| 69 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 |
+| 67 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
+| 68 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 |
+| 69 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 |
 | 70 | [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 |
 
-Snapshot ID: `MCwwMDEwMjAzOTc2OGM4YmNmNzlhMGI1ZDAxZjRiYTgyOTQ5NDU1ZjZi`
+Snapshot ID: `MCxiNmVmODE1ZWNkNWIzZDNmZTdmOWY1NTVmY2JjNmRlZjI4YzMzNTBk`

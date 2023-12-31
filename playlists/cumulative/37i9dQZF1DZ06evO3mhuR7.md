@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-142 songs - 16 hr 36 min
+143 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Perpetual Dawn](https://open.spotify.com/track/34Oyuo4A14MRdn8auc0cix) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:32 | 2022-05-29 |  |
 | [Pervitin \- Empire Culling & The Hemlock Stone Version](https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 4:10 | 2022-06-16 | 2023-06-28 |
 | [Pi \- \(Part 1\) / LP Version](https://open.spotify.com/track/1hr9JC0qtmMwrYpN5oyZge) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 1:05 | 2022-05-29 |  |
-| [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 |  |
+| [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 | 2023-12-31 |
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/2rm1cOR9ahlk0710wwuCAD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:13 | 2023-04-30 | 2023-11-11 |
 | [Pillow Fight @ Shag Mountain](https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 7:31 | 2022-05-29 | 2022-10-08 |
 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 |  |
@@ -105,6 +105,7 @@
 | [prism](https://open.spotify.com/track/02muX0Vgv0DvAapP1k5vtw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [H.O.M.E\. \(high orbs mini earths\)](https://open.spotify.com/album/5evNpD3p6s9dqWEsdLPrfT) | 9:43 | 2023-05-04 | 2023-05-10 |
 | [prism](https://open.spotify.com/track/4hLvu9C8Dgilg8ROt2j80D) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [prism](https://open.spotify.com/album/3paJmYEdE6EDpMBdv8rTTw) | 9:43 | 2023-02-25 | 2023-05-05 |
 | [Promis](https://open.spotify.com/track/43V7oxArZZrZZWDABM3FpX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cydonia](https://open.spotify.com/album/104kapJ0A7RBMaNKzL4oD6) | 5:27 | 2022-07-28 | 2022-10-06 |
+| [Red Summer \(The Coup Is Over\) \- The Orb Koskiewicz Mix](https://open.spotify.com/track/3GLWWz08XIjJy2YKL0UqsX) | [sun electric](https://open.spotify.com/artist/0aJ1FZmpkkzD6RiZe33EFR), [Inga Humpe](https://open.spotify.com/artist/1LKxP07lONAgr8Yvr5YXSa), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Will The World Remember? — Sun Electric On Zang Tuum Tumb](https://open.spotify.com/album/5pMhTBRzs8Trk1wNIwiSWD) | 7:24 | 2023-12-30 |  |
 | [Ripples](https://open.spotify.com/track/65lvKJ480u9XNFACkKsPII) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Okie Dokie It´s The Orb On Kompakt](https://open.spotify.com/album/3m3V6T3l7IczkqgMKy5QVI) | 5:51 | 2022-06-12 |  |
 | [Round Side: Seamless Solar Spheres of Affection Mix: Movement 1](https://open.spotify.com/track/40lcneo9XjaVEzGIIqgZ4z) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 11:27 | 2023-11-10 |  |
 | [Round Side: Seamless Solar Spheres of Affection Mix: Movement 2](https://open.spotify.com/track/2ixBRPz2a9DEZl3YrKW9cG) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 8:40 | 2023-11-10 |  |

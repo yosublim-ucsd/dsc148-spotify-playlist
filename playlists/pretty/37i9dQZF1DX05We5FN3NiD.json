@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 41651,
+  "num_followers": 41665,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGNmMThkMDZlOWQxNmY1ZTVmN2I2NzE1MmExZWM0ZDNhNTE1OWU5",
+  "snapshot_id": "MCw2ZDc4MDM1YTk2Y2EzZGQ4YTM2MGM5ZjE0OGNkOWUwZTUwYmM2NWE1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 197933,
       "name": "prom dress",
       "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 183861,
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 196776,
       "name": "Shine A Little Light",
       "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Rushing Back",
+        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 231663,
+      "name": "Rushing Back",
+      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 222400,
       "name": "I'll Come Too",
       "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Rushing Back",
-        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 231663,
-      "name": "Rushing Back",
-      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/40yQBo7kz4bnTGx6hJQUgI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199579,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/6Gtx8pQMkGukhm6x2G4J5l"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 210293,
       "name": "Salted Caramel Ice Cream",
       "url": "https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/40yQBo7kz4bnTGx6hJQUgI"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199579,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/6Gtx8pQMkGukhm6x2G4J5l"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3Vg27cGU0jO1w4UHeFpk4u"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
+      "duration_ms": 223909,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0uUfOwWEypLVKUbNIlnVG8"
     }
   ],
   "unique_name": "Best of Indie 2019",

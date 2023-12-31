@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzOTcxMDAsMDAwMDAwMDA1YzZiZjc2ODUzYWI1N2Y0N2JiMzJkNWNmM2Y4ZGRmOA==",
+  "snapshot_id": "MjgzOTcxMDAsMDAwMDAwMDBhNGU2NmJlZDAzYWIzODljN2M3NGYxMjI1YmRkZTBkMA==",
   "tracks": [
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
+    },
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
@@ -75,22 +91,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Mwaki (Ti\u00ebsto's VIP Mix)",
         "url": "https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe"
       },
@@ -145,7 +145,7 @@
       "artists": [
         {
           "name": "Dirty Pop",
-          "url": "https://open.spotify.com/artist/1P9qwyWSWUTlfirGYw3epr"
+          "url": "https://open.spotify.com/artist/6WkvgrxL7dywOASeG4s3WZ"
         },
         {
           "name": "Ed Sheeran",
@@ -159,6 +159,42 @@
       "duration_ms": 184058,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/3w9WnM30pp0TEby6LupUX8"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "what they gonna do (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/47z9yMMrT6n2QgQTjaFaRA"
+      },
+      "artists": [
+        {
+          "name": "CPRCRN",
+          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 81697,
+      "name": "what they gonna do (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1o44CcQelJxVTYEfxQwZMW"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
+        "url": "https://open.spotify.com/album/7GoQ0cdEPdmMn2tmizf2EK"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        }
+      ],
+      "duration_ms": 191789,
+      "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
+      "url": "https://open.spotify.com/track/6j7AWOj8StXqLedARcmoBG"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -479,8 +515,8 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+        "name": "My Soft Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
       },
       "artists": [
         {
@@ -494,7 +530,7 @@
       ],
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+      "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -515,22 +551,6 @@
       "duration_ms": 210857,
       "name": "Madness",
       "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "CHRYSALIS",
-        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "COMPANY",
-      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -567,6 +587,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "CHRYSALIS",
+        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "COMPANY",
+      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Life's a Sugar Pill",
         "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
       },
@@ -599,62 +635,6 @@
       "duration_ms": 138171,
       "name": "Suite for Piano, Op. 25: VI. Gigue - Musical Moments",
       "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Out The Door",
-        "url": "https://open.spotify.com/album/3QECMke3JUHn8JKuWTWVeV"
-      },
-      "artists": [
-        {
-          "name": "'Nuff Said Live",
-          "url": "https://open.spotify.com/artist/2ceu3LVPlkNoKs5Gow3f5O"
-        },
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        },
-        {
-          "name": "Meryem Saci",
-          "url": "https://open.spotify.com/artist/5B3Wm59hYt0VbwypxsVkQE"
-        },
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Out The Door",
-      "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Facing The Sideways Rain",
-        "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
-      },
-      "artists": [
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Carlos Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
-        }
-      ],
-      "duration_ms": 342597,
-      "name": "Facing The Sideways Rain",
-      "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

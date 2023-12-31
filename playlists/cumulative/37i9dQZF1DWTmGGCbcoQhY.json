@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Ea Ea La Cumbia Buena",
+        "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
+      },
+      "artists": [
+        {
+          "name": "Mister Cumbia",
+          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193366,
+      "name": "Ea Ea La Cumbia Buena",
+      "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
+    },
+    {
+      "album": {
         "name": "Ca\u00f1averal Yaguaru",
         "url": "https://open.spotify.com/album/3GuDD6bEuWviQOZDSO7BL5"
       },
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 234605,
       "name": "No Mientas Mas",
       "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"

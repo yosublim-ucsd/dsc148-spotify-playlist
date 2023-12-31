@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,942 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,972 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 71 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 72 | [41](https://open.spotify.com/track/1kg0eQ4RkEzdQTICEDthS0) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [41](https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X) | 3:23 |
 | 73 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
-| 74 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
+| 74 | [ES7ÁDIO](https://open.spotify.com/track/3tDch5qsTummG1elCD2hjn) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv) | 3:37 |
 | 75 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 76 | [Clima](https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Clima](https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH) | 2:51 |
 | 77 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 78 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 | 79 | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/track/6y7gYOHjUbj0HdTx5iGDuI) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/album/7kyvtUprGFS8S2poWsYtEt) | 3:15 |
-| 80 | [ES7ÁDIO](https://open.spotify.com/track/3tDch5qsTummG1elCD2hjn) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv) | 3:37 |
+| 80 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MCxiN2Y2ZTQyYzQxYjJiZTM2NWJkMmY2OTZlNWU1MTdiNmJjMzAxODRj`
+Snapshot ID: `MCw3YTc5OGQ0ZDY0NzRmOTI3ZjBkZWUwMzcyY2Q1OTZlMmZmMTM3OWMy`

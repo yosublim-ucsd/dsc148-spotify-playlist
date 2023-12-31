@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 761177,
+  "num_followers": 761167,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjFhYjE1ZTI2ZGEyMjA4ZmUxMGM0ZmYzNjljM2U4M2UzOTJkMmI1",
+  "snapshot_id": "MCw3NTgxNmIwMzllNmIyMDRjZmNiNWNlOTYwNDI4ZTE3YTZlYzBhOWYz",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "seu carinho",
+        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "seu carinho",
+      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Tu Camisa",
         "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "seu carinho",
-        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "seu carinho",
-      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1171,6 +1191,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "estrella / nadie",
+        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "estrella",
+      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "road 2 neverland",
         "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
@@ -1199,22 +1235,6 @@
       "duration_ms": 143474,
       "name": "Llamadas Vac\u00edas",
       "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "estrella / nadie",
-        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "estrella",
-      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1311,22 +1331,6 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Los Perros Van Al Cielo",
-        "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 195474,
-      "name": "Los Perros Van Al Cielo",
-      "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
     }
   ],
   "unique_name": "Mixto",

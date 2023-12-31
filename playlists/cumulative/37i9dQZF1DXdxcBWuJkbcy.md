@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-708 songs - 1 day 11 hr 17 min
+709 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Epic \- Garmiani Remix](https://open.spotify.com/track/6yeI0vpccn4jvXobaEXIqu) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Garmiani](https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R) | [Epic \(Garmiani Remix\)](https://open.spotify.com/album/7qRPS3MQtS7E2aMK3mbuWu) | 2:35 | 2021-03-06 | 2022-04-14 |
 | [Erase You](https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MILLENNIAL](https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp) | [Erase You](https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA) | 3:29 | 2020-08-14\* | 2022-05-27 |
 | [Erase You](https://open.spotify.com/track/6js5FBs8LuYvcoPvqhf0fz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MILLENNIAL](https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp) | [Erase You](https://open.spotify.com/album/7isSUrAlXbx0VQANPi37oQ) | 3:29 | 2022-12-01 | 2022-12-20 |
+| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-21 |  |
 | [Every Battle](https://open.spotify.com/track/1LzCBjvOTj1vKFo8GduP3h) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Every Battle](https://open.spotify.com/album/2FYVe0lquh5aLgbT9aB6uz) | 3:32 | 2020-08-14\* | 2021-10-24 |
 | [Every Way](https://open.spotify.com/track/4xxyCh7xkK30LVBO81poif) | [Antonio Giacca](https://open.spotify.com/artist/0Nv2nsd3JNOZMWJoxIRWnO) | [Every Way](https://open.spotify.com/album/28kXv0cJnTbHJGCJYnugnq) | 2:46 | 2021-03-08 | 2021-03-23 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-09 |  |
@@ -489,7 +490,7 @@
 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 | 2023-08-03 |  |
 | [Ray Of Solar \- Alex Wann & Sasson Remix](https://open.spotify.com/track/7kPUvwFtA9e1COxyyNrvpR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa) | [Ray Of Solar \(Alex Wann & Sasson Remix\)](https://open.spotify.com/album/4LCdaNUBthKh1YeP7ouz7k) | 7:00 | 2023-09-01 | 2023-09-22 |
 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 | 2023-09-14 | 2023-09-22 |
-| [Ray Of Solar \- Tiësto Remix](https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Ray Of Solar \(Tiësto Remix\)](https://open.spotify.com/album/2wu3YZ0c80fgq9IcKhyDHH) | 3:35 | 2023-10-05 |  |
+| [Ray Of Solar \- Tiësto Remix](https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Ray Of Solar \(Tiësto Remix\)](https://open.spotify.com/album/2wu3YZ0c80fgq9IcKhyDHH) | 3:35 | 2023-10-05 | 2023-12-31 |
 | [Rays Of Gold](https://open.spotify.com/track/6R3kqqmChYxTIRsF0BXNKN) | [Camuz](https://open.spotify.com/artist/01jYg8xF2224o7v9xeFX0M), [Jamwich](https://open.spotify.com/artist/4sPa0eTySePrYtH7NMp4Vy) | [Rays Of Gold](https://open.spotify.com/album/62pmsFfhlK0ebn9AKZuDZn) | 3:01 | 2021-10-10 | 2021-12-21 |
 | [Reaction](https://open.spotify.com/track/63KCjeOeBni0Waop6xfqpf) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Jewelz & Sparks](https://open.spotify.com/artist/50kceDjknh0CjwOko7kx7V) | [Reaction](https://open.spotify.com/album/2oqispxUfl4EfLS0vsFkSs) | 2:52 | 2021-03-07 | 2021-03-23 |
 | [Reality](https://open.spotify.com/track/3sqyZAk7dUY3U4ApoJcRzJ) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Reality EP](https://open.spotify.com/album/6LauUth65vvd54GCWvZ1u6) | 3:33 | 2021-03-10 | 2021-03-23 |

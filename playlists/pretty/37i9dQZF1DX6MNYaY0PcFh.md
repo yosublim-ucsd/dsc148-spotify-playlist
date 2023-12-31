@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,949 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,978 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 33 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
 | 34 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 35 | [Spend The Night](https://open.spotify.com/track/47S3zvHZpNTj0tgUNYjVOO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/3OZZyvrtjaYP3rsliOZhrs) | 3:30 |
-| 36 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
-| 37 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
-| 38 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
-| 39 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
+| 36 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
+| 37 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
+| 38 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
+| 39 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 40 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 |
 | 41 | [Don't Ya Want It](https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Garage Queen EP](https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig) | 3:03 |
 | 42 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 51 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
 | 52 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
 | 53 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
-| 54 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
-| 55 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
-| 56 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 54 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 55 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
+| 56 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 | 57 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 58 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 59 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
 | 60 | [Tenner](https://open.spotify.com/track/2RFtiHW05Wfq3N4Pvp2w4Y) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/1GHh2bQGnhmFxFVSnFPhk9) | 2:26 |
 
-Snapshot ID: `MCxhNDVkN2QyMjZkMGVlNWFmNWMyZTliMzNiMTc1NjNjOWYwMzg0Yjdk`
+Snapshot ID: `MCw1NDg4MDZlNTE1M2U0ZmYwMzM1ZjYwODNkMzZmMTVkNjZjMjBmOTg3`

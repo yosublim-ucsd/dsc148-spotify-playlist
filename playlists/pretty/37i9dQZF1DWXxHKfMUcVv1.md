@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,305 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,381 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 27 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 28 | [Cada Día](https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Sr\. Pombero](https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D) | 3:34 |
 | 29 | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/track/39gWip1Y0ihun0akUpA270) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3), [8 Corazones](https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma) | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp) | 3:02 |
-| 30 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
-| 31 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 |
+| 30 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 |
+| 31 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
 | 32 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
 | 33 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
 | 34 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 44 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 |
 | 45 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
 | 46 | [Mi Dulce Niña \- Remasterizado 2017](https://open.spotify.com/track/5zxQLnG4DhQT1lUPQJSCC4) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:17 |
-| 47 | [Tú y yo](https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [Qmbia Base](https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY) | 3:37 |
-| 48 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
+| 47 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
+| 48 | [Tú y yo](https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [Qmbia Base](https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY) | 3:37 |
 | 49 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 | 50 | [Hemisferios](https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U) | [Hemisferios](https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh) | 3:29 |
 
-Snapshot ID: `MCw2MmUyZDc1ZmE0NjIyODAzZjRkMzliN2I0MjliZmViZjlhYTFhNTU0`
+Snapshot ID: `MCw5Y2I4MzQzZDg2MTc2MmZhM2ExNjQzMGYyMTJlNTA4YWRlNTM2MmI3`

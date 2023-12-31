@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,590 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,707 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 45 | [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 |
 | 46 | [No Puedo Mas](https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Muchas Ganas](https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V) | 3:00 |
 | 47 | [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 |
-| 48 | [Misa De Cuerpo Presente](https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con La Fuerza Del Corrido](https://open.spotify.com/album/37bhDovE8wMyJvO79rkUoX) | 3:13 |
-| 49 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 |
-| 50 | [El Señor De Las Canas](https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [A Mis Viejos](https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz) | 2:47 |
+| 48 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 |
+| 49 | [El Señor De Las Canas](https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [A Mis Viejos](https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz) | 2:47 |
+| 50 | [Ya Viene Nochebuena](https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ya Viene Nochebuena](https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3) | 3:16 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDA4Zjk1ZGQ5MjkxYWRjZjUzNTczOTkwYWI5NjAxOGViZA==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA3MzhlODIwYzcyZTljNzQwYTM1OTgxYzVkOWEzN2JmNg==`

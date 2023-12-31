@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 71153,
+  "num_followers": 71218,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy",
+  "snapshot_id": "MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -423,26 +423,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
       "artists": [
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 121681,
-      "name": "stupid horse",
-      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
+      "duration_ms": 196893,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -508,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -611,18 +603,26 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
+      "duration_ms": 121681,
+      "name": "stupid horse",
+      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "I <3 Harajuku",
         "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 146938,
       "name": "I <3 Harajuku",
       "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 127634,
       "name": "clueless",
       "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",

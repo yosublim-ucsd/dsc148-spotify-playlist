@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
-  "num_followers": 39484,
+  "num_followers": 39492,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTVkZjc5YzkwMDhkODVjOGM5Njg4NjhiYWNhNGZkMTE3MDdhNjYz",
+  "snapshot_id": "MCwzOWE2ZWQzNjc0NmU3ZjBiNWIyYjJkNDU1MDE0NGQwYmJlNGU0ZWMx",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Akrapo 7",
-        "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
+        "name": "P\u00e9riph",
+        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 189618,
-      "name": "Akrapo 7",
-      "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
+      "duration_ms": 168849,
+      "name": "P\u00e9riph",
+      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -187,22 +187,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Aller sans retour",
-        "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
+        "name": "Akrapo 7",
+        "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Aller sans retour",
-      "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
+      "duration_ms": 189618,
+      "name": "Akrapo 7",
+      "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "P\u00e9riph",
-        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
+        "name": "Aller sans retour",
+        "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 168849,
-      "name": "P\u00e9riph",
-      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
+      "duration_ms": 176146,
+      "name": "Aller sans retour",
+      "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Cesium",
+        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "\u00c0 La Faveur De L'automne",
+      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 189588,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Cesium",
-        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "\u00c0 La Faveur De L'automne",
-      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "MONEY MAKER",
-      "url": "https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Life Is Life (C'est la vie)",
         "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Maman savait",
-        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE"
       },
       "artists": [
         {
-          "name": "Benab",
-          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 178519,
-      "name": "Maman savait",
-      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
+      "duration_ms": 152200,
+      "name": "MONEY MAKER",
+      "url": "https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Maman savait",
+        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        }
+      ],
+      "duration_ms": 178519,
+      "name": "Maman savait",
+      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Encore plus",
-        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Encore plus",
-      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Traficante",
         "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -879,6 +863,42 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Ma Vie",
+        "url": "https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E"
+      },
+      "artists": [
+        {
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 174101,
+      "name": "KB9",
+      "url": "https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Comme \u00e7a",
         "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 151346,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "LUEUR & ESPOIR",
-        "url": "https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi"
-      },
-      "artists": [
-        {
-          "name": "H\u00f6s Copperfield",
-          "url": "https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "ON EN REPARLERA",
-      "url": "https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 300 songs - 19 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 304 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 298 | [Baby Teeth](https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Call Of The Wild](https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj) | 8:02 |
 | 299 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 |
 | 300 | [Twin Plagues](https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 4:08 |
+| 301 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 |
+| 302 | [Stereo Colour Cloud \(Shaman's Dream\)](https://open.spotify.com/track/2VQspDUq9kCe8L9aorXuH4) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 2:57 |
+| 303 | [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 |
+| 304 | [Tim's Intro](https://open.spotify.com/track/7qzQfE2se3Ai5reZcxs920) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:04 |
 
-Snapshot ID: `MTEzOSxmZjZlZjIzYTdjZGQ4MGMyMDY2YTE2MWI0M2EyMDFmMTM4OWUxYWY3`
+Snapshot ID: `MTE0MywzZWM1MTZlMWE3NjM5OTkyMmEwYWVmNmI5ZmFiN2E5YzJmOGYxMWU0`

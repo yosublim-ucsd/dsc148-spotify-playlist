@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 104021,
+  "num_followers": 104155,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjQ0ZTcxMzVjNWYzM2Y5MjIxN2Y0MmJjMjI0NjFhYWNjMzhlNDcx",
+  "snapshot_id": "MCw1ZmI4YjcwY2EzNWZiNGM5NDMzMzM1OWU5ODU5Nzg3ZGM0ZDVhMjRl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -123,18 +123,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        },
+        {
+          "name": "Thomas Darelid",
+          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
+        },
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        },
+        {
+          "name": "Jenny Kristoffersson",
+          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
+        },
+        {
+          "name": "Per Lindvall",
+          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -171,34 +187,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Le Tour d'Amour",
-        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        },
-        {
-          "name": "Thomas Darelid",
-          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
-        },
-        {
-          "name": "Henrik Janson",
-          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
-        },
-        {
-          "name": "Jenny Kristoffersson",
-          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
-        },
-        {
-          "name": "Per Lindvall",
-          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 200640,
-      "name": "Le Tour d'Amour",
-      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 284773,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "A Summer Night's Dream",
-      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 304000,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "A Summer Night's Dream",
+      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Hardcastle 2",
-        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Bird Island",
-      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 408893,
       "name": "After 8",
       "url": "https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The Jazzmasters 4",
-        "url": "https://open.spotify.com/album/2rQtSRZcfqYN8UzvXo9tBW"
+        "name": "The Magic of Moonlight",
+        "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
       },
       "artists": [
         {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        },
-        {
-          "name": "The Jazzmasters",
-          "url": "https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB"
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Puerto Banus",
-      "url": "https://open.spotify.com/track/4pFIja5qZFrSt2H38xitfu"
+      "duration_ms": 320275,
+      "name": "Bedtime Story",
+      "url": "https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

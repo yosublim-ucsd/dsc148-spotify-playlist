@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 74587,
+  "num_followers": 74718,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM5M2VmMzMzYjVjYjFiM2Y5NGQzM2JkMmUxMTQyYjU5ZjI5NjM5",
+  "snapshot_id": "MCwxMmZkZDgxOTJkNTIwODU3NWUyZGU5NTI4MjgyYTAwMjEyNzZhOGQ5",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 171826,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 330893,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Got My Mojo Workin'",
-        "url": "https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 482626,
-      "name": "Got My Mojo Workin'",
-      "url": "https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 177306,
       "name": "Farther Up The Road",
       "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Got My Mojo Workin'",
+        "url": "https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 482626,
+      "name": "Got My Mojo Workin'",
+      "url": "https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 144400,
       "name": "Mystery Train - Remastered 2022",
       "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -687,18 +671,34 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 159866,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Messing With The Blues",
+        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Messing With The Blues",
-        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
+      "duration_ms": 159866,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 236360,
       "name": "Stack-O-Lee",
       "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
     },
     {
       "added_at": "2023-08-23 10:30:13",

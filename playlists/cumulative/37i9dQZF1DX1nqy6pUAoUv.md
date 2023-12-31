@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-244 songs - 15 hr 54 min
+245 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-10-13 | 2023-10-08 |
 | [Los Lunas](https://open.spotify.com/track/4a3qPo0Jl2ws3tpHlz8SlS) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Love & Revelation](https://open.spotify.com/album/5QT49UMm1gBAUszWaxmpaL) | 4:12 | 2021-10-13 | 2022-06-27 |
 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-10-13 | 2023-12-24 |
+| [Love and Chains](https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN) | 3:37 | 2023-06-23 |  |
 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 | 2022-02-25 |  |
 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 | 2021-10-13 | 2022-06-27 |
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2021-10-13 |  |
@@ -191,7 +192,7 @@
 | [Seven Words](https://open.spotify.com/track/500G3gVwV5vrP2DWhOF7Tw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/2jBj6Qyedfd0XwbvJFuzTh) | 4:37 | 2022-02-25 |  |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-02-25 |  |
 | [Stonehurst Cowboy](https://open.spotify.com/track/0qZnGz4WmVFNUjnGdfe7SC) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Stonehurst Cowboy](https://open.spotify.com/album/1vvbi0xZ2EWcc7oRibhMqF) | 3:41 | 2022-01-12 | 2022-06-30 |
-| [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2022-02-25 |  |
+| [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2022-02-25 | 2023-12-31 |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-02-25 |  |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/3u0YCKg5DNalvfOnSrivFQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sunsets For Somebody Else](https://open.spotify.com/album/6jWU4Fkp5GZL0TJi56UnzZ) | 3:30 | 2021-10-13 | 2022-07-24 |
 | [Sweet Misery](https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:09 | 2021-10-13 |  |

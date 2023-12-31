@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 127760,
+  "num_followers": 127818,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQ4MjA2OTlmMTZhZjk3NTE5ZDA2ZGU3ZTExZWU4YTY3ZTcyMjU3",
+  "snapshot_id": "MCw1ZmRhZDc2MmZiMDVmYzZhY2M2NjUwMzNhNTQ1Yjk1YjJiN2ExYTVm",
   "tracks": [
     {
       "added_at": "2023-12-29 03:01:00",
@@ -271,22 +271,30 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "60K",
-        "url": "https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 158797,
-      "name": "60K",
-      "url": "https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -343,30 +351,22 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "60K",
+        "url": "https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 158797,
+      "name": "60K",
+      "url": "https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
         "name": "PERSONNALITE",
         "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 208910,
       "name": "PERSONNALITE",
       "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
-        "name": "Lista De Contato",
-        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Lista De Contato",
-      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 119053,
+      "name": "7 Meiota - Ao Vivo",
+      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 147130,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 119053,
-      "name": "7 Meiota - Ao Vivo",
-      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 184922,
-      "name": "Tudo Nosso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4oQ7VwIG2UTLXuLYVqW30x"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
         "name": "Maleta",
         "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 184922,
+      "name": "Tudo Nosso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oQ7VwIG2UTLXuLYVqW30x"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2023-12-29 03:01:00",

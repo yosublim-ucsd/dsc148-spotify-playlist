@@ -4,7 +4,7 @@
 
 > Great songs by indisputable music legends\. Cover: Queen
 
-231 songs - 16 hr 2 min
+232 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Free Fallin'](https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 4:16 | 2021-10-14 | 2022-07-29 |
 | [Get It On](https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \(Deluxe Edition\)](https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox) | 4:22 | 2021-10-14 | 2022-07-29 |
 | [Gimme Shelter](https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/0c78nsgqX6VfniSNWIxwoD) | 4:30 | 2021-10-14 | 2022-07-24 |
-| [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-21 |  |
+| [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-21 | 2023-12-31 |
 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Lovin' / Blues In F](https://open.spotify.com/album/1QIHvq5BFwNaWgamY5bNUs) | 2:58 | 2021-10-14 | 2022-07-29 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-01-21 |  |
 | [Gloria \- Stereo Version](https://open.spotify.com/track/6aMg17mRAbKDayw8pRRADw) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RTU4KkKPJ5n8KnV18OaJs) | 2:36 | 2021-10-14 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-01-21 | 2023-11-19 |
 | [Layla \- 40th Anniversary Version / 2010 Remastered](https://open.spotify.com/track/3k9i7UzeSUYWIfUZFeFDUd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(40th Anniversary / 2010 Remastered\)](https://open.spotify.com/album/5IJXJ6OL7wtN8nc3EyQj4N) | 7:03 | 2021-10-14 | 2022-07-29 |
 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 | 2022-01-21 |  |
+| [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-01-21 |  |
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2021-10-14 | 2022-11-27 |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2021-10-14 | 2022-07-29 |
 | [Live And Let Die](https://open.spotify.com/track/1q4XkQXsmgDgK2S1Umqf7D) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World](https://open.spotify.com/album/2rrxATdBTvNt2i9lJo68qU) | 3:04 | 2021-10-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 360943,
+  "num_followers": 361566,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDI1YzcyYzEwOGUyYTcwZjJmMzFjZTYwODliYTVmOTkwMTYzYmRi",
+  "snapshot_id": "MCw4YjkwNmEyYzQzOTU0MGUyMmQ0YTlkYWEzY2U1YWM5YzZmNDVhNDg1",
   "tracks": [
     {
       "added_at": "2023-12-15 10:07:36",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -827,42 +827,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -883,6 +847,42 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "We Could Be Together (feat. Daddy DJ)",
-        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Daddy DJ",
-          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
-        }
-      ],
-      "duration_ms": 149642,
-      "name": "We Could Be Together",
-      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -1691,6 +1667,30 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "We Could Be Together (feat. Daddy DJ)",
+        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
+        }
+      ],
+      "duration_ms": 149642,
+      "name": "We Could Be Together",
+      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
       },
@@ -2195,26 +2215,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Better Times",
         "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
@@ -2231,22 +2231,6 @@
       "duration_ms": 199015,
       "name": "Better Times",
       "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
-        "name": "Behind These Hazel Eyes",
-        "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
-      },
-      "artists": [
-        {
-          "name": "Bounce Projectz",
-          "url": "https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ"
-        }
-      ],
-      "duration_ms": 197147,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -2275,6 +2259,22 @@
       "duration_ms": 153222,
       "name": "Hurricane (feat. SHIBUI)",
       "url": "https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Behind These Hazel Eyes",
+        "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
+      },
+      "artists": [
+        {
+          "name": "Bounce Projectz",
+          "url": "https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ"
+        }
+      ],
+      "duration_ms": 197147,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi"
     },
     {
       "added_at": "2023-12-15 10:07:36",

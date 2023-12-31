@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,929 songs - 6 day 6 hr 18 min
+3,930 songs - 6 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [Coconut](https://open.spotify.com/track/0SxxCDt3F3U6AFANdXXeMv) | [Hulk Hodn](https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Coconut](https://open.spotify.com/album/5KFaITYsDQ1GpUxQ5kWYTJ) | 2:22 | 2022-06-09 | 2022-07-02 |
 | [Coconut Bank](https://open.spotify.com/track/2bAI6Y0MYeHHcCW0gTHG7t) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Coconut Bank](https://open.spotify.com/album/61vOjg4sc53rRA3AzZj3Yl) | 2:25 | 2021-07-31 | 2022-02-18 |
 | [Coconut Slushie](https://open.spotify.com/track/2Sl8aY6dDm8nmqUvgcWtDg) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Coconut Slushie](https://open.spotify.com/album/1IRGHHYKxID6deYdK8L4Pz) | 2:16 | 2021-06-19 | 2022-01-21 |
+| [Coda](https://open.spotify.com/track/5vK6Cf6KFr7wMrSpWTtXXP) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Coda](https://open.spotify.com/album/0NPHL0pwHMpkshRS8Nrlyv) | 2:28 | 2023-12-21 |  |
 | [Coda](https://open.spotify.com/track/12JdWwiV78PX7kk4szt9Kw) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Coda](https://open.spotify.com/album/5zfhrLtyrhVrQ3eE2E9gTF) | 2:30 | 2021-05-29 | 2021-11-19 |
 | [Codes In The Clouds](https://open.spotify.com/track/32MJvuJdVdfRItTDljrP9X) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Am épos am érgon](https://open.spotify.com/album/6IWazlFeA8ukoGAZwVrqxw) | 2:26 | 2021-03-06 | 2021-06-25 |
 | [Coffee & Cookies](https://open.spotify.com/track/1orWiILuQrdFz9ibD6AWyd) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Coffee & Cookies](https://open.spotify.com/album/2hF1u0t8oFi6TtnqAUFyC4) | 2:17 | 2021-05-29 | 2021-06-25 |
@@ -3023,7 +3024,7 @@
 | [Smile Again](https://open.spotify.com/track/2VZ2N0hfF1XQIPEhot4BXq) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Smile Again](https://open.spotify.com/album/3swcHpJ2eJSAkljZDVnEh7) | 0:57 | 2019-11-29 | 2020-03-20 |
 | [Smoke One](https://open.spotify.com/track/2lR4W7VFKuLeeFwhIqzDk7) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Smoke One](https://open.spotify.com/album/3r9WbGKS1hwq1mhIvryv1M) | 2:19 | 2019-12-13 | 2020-04-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2020-06-12 |
-| [Smokery](https://open.spotify.com/track/2ZDcKJ9JK41xP1vZJA5uAz) | [Tipati](https://open.spotify.com/artist/6Y9bWYYnauLBdMITz0ZL3L) | [Smokery](https://open.spotify.com/album/4MSJ6UjbU4LpSP5slgFrLZ) | 2:33 | 2023-12-14 |  |
+| [Smokery](https://open.spotify.com/track/2ZDcKJ9JK41xP1vZJA5uAz) | [Tipati](https://open.spotify.com/artist/6Y9bWYYnauLBdMITz0ZL3L) | [Smokery](https://open.spotify.com/album/4MSJ6UjbU4LpSP5slgFrLZ) | 2:33 | 2023-12-14 | 2023-12-31 |
 | [Smooth Operation](https://open.spotify.com/track/36lI2yTDwtlzgMq42zbbM0) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Smooth Operation](https://open.spotify.com/album/2BfOz9Hus0lwU6Pb5KjT9e) | 2:30 | 2023-12-01 | 2023-12-22 |
 | [Smooth Summer Cruise](https://open.spotify.com/track/44PIYaLC457K04fOytQn6T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Smooth Summer Cruise](https://open.spotify.com/album/4lowLW0qFaoC12Nat7qOs2) | 2:24 | 2023-09-21 | 2023-10-20 |
 | [Smooth With Us \- Beat Edit](https://open.spotify.com/track/6o0m8KbaxsaxBIZR2y0x7Y) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Smooth With Us \(Beat Edit\)](https://open.spotify.com/album/10yy1djszAJYpFG7g3jg5U) | 1:43 | 2020-03-13 | 2020-05-01 |

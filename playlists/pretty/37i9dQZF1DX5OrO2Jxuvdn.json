@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
-  "num_followers": 96803,
+  "num_followers": 96792,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTEzNjg1YzVjMjc3NWMyYmNhZmZhYTU0NGJiNTdlMzUyMTY0YmQ1",
+  "snapshot_id": "MCxjNzhlNTBmNGVmZDUxNWFhZTQxMzM1YjUzMmMyYTE3NWNlYzYwYWQ4",
   "tracks": [
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "Everything She Ain\u2019t",
         "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 188706,
       "name": "Aw Naw",
       "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Redneck Yacht Club",
-      "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2023-10-05 18:42:19",

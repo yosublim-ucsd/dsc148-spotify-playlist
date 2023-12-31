@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,327 songs - 2 day 21 hr 20 min
+1,328 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1245,9 +1245,10 @@
 | [Ups N Downs](https://open.spotify.com/track/40aJycGoNUQO8sD8iHsIEb) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Ups N Downs](https://open.spotify.com/album/4y0VgN6ptUlRDm187hdLks) | 2:47 | 2021-05-14 | 2021-05-23 |
 | [Urørlig](https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:59 | 2022-01-15 | 2022-02-13 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-26 | 2023-09-03 |
-| [Valdes Jul](https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [New Christmas Songs 2023](https://open.spotify.com/album/7ApSNJfYDPwZ5ZVng3nLEK) | 3:01 | 2023-11-26 |  |
+| [Valdes Jul](https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [New Christmas Songs 2023](https://open.spotify.com/album/7ApSNJfYDPwZ5ZVng3nLEK) | 3:01 | 2023-11-26 | 2023-12-31 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2023-10-08 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-03 |
+| [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2023-12-30 |  |
 | [Varmeste Herinde](https://open.spotify.com/track/7a6n5faijC27CAPbh4H7So) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 3:08 | 2022-10-15 | 2022-10-19 |
 | [Varmeste Herinde](https://open.spotify.com/track/7reYvNCilCtNLPQoT6aASR) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 3:08 | 2022-10-18 | 2022-10-23 |
 | [Vendetta](https://open.spotify.com/track/1yD45ue5YXqkWIv4YI0B7e) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Vendetta](https://open.spotify.com/album/1s7bRiwQ9gs8U9sOGgnnzk) | 3:28 | 2021-10-31 | 2021-11-14 |

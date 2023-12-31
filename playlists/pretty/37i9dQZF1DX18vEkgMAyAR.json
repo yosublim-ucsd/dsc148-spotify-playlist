@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 65789,
+  "num_followers": 65807,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQxNjA2MWNiYTZhOTg2OTkzYThhMjM5ZjgwMDYzN2ZhMDAzMjc5",
+  "snapshot_id": "MCxhM2U1ODFmNDVkNTdjNWJjN2U0NjFkMTY4MjRkMmMwOWQ5YmMyYzM0",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "The Lady Killer",
-        "url": "https://open.spotify.com/album/0kA2VAfzhFIIv0jEHdFKEN"
-      },
-      "artists": [
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "The Lady Killer",
+        "url": "https://open.spotify.com/album/0kA2VAfzhFIIv0jEHdFKEN"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "OMOGE WA JO",
-        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+        "name": "Oh My Soul (Bloukaas Remix)",
+        "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO",
-      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
+      "duration_ms": 260125,
+      "name": "Oh My Soul (Bloukaas Remix)",
+      "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1123,18 +1119,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Oh My Soul (Bloukaas Remix)",
-        "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
+        "name": "Two High (Acoustic)",
+        "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
         }
       ],
-      "duration_ms": 260125,
-      "name": "Oh My Soul (Bloukaas Remix)",
-      "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
+      "duration_ms": 212172,
+      "name": "Two High - Acoustic",
+      "url": "https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8"
     }
   ],
   "unique_name": "Feel Good Look Good",

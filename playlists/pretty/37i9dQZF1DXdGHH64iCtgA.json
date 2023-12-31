@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 72958,
+  "num_followers": 72991,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQyNzhlZjQ1Zjc2ZTMyY2RjMTZmMmNkY2I2MDc0OTM4MWM2ZTcw",
+  "snapshot_id": "MCw1MGM0ODAwZTJlYjk1Y2ZiYjMzMzY4MjBiNDRmMjQwYTFiZjMyOTQ4",
   "tracks": [
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "No Hay Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
-      },
-      "artists": [
-        {
-          "name": "COCO-PALOMA",
-          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
-        },
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        }
-      ],
-      "duration_ms": 423601,
-      "name": "No Hay Ma\u00f1ana - Club Mix",
-      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "TASTY",
         "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 230780,
       "name": "TASTY - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
+      },
+      "artists": [
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        },
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        }
+      ],
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
-        "name": "REBELS NEVER DIE",
-        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "BLACK MAGIC",
-      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
         "name": "Polymer",
         "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 300000,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
+        "name": "REBELS NEVER DIE",
+        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "BLACK MAGIC",
+      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-10-27 13:51:08",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-10-27 13:51:08",
       "album": {
+        "name": "Animosity (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
+      },
+      "artists": [
+        {
+          "name": "Abyss X",
+          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 486760,
+      "name": "Animosity - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
+    },
+    {
+      "added_at": "2023-10-27 13:51:08",
+      "album": {
         "name": "Working Class Woman",
         "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
       },
@@ -1763,34 +1783,6 @@
       "duration_ms": 405768,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
-    },
-    {
-      "added_at": "2023-10-27 13:51:08",
-      "album": {
-        "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
-        "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
-      "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
     }
   ],
   "unique_name": "Runway",

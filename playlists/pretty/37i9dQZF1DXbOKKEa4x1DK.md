@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,213 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,268 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 41 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 42 | [Me Arrepiento](https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:46 |
 | 43 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
-| 44 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
-| 45 | [Me Vas a Extrañar](https://open.spotify.com/track/4wI6MMQxzCGit5qlBw6m7M) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me Vas a Extrañar](https://open.spotify.com/album/55ycbarVA1LauuGe8KJDCY) | 5:00 |
+| 44 | [Me Vas a Extrañar](https://open.spotify.com/track/4wI6MMQxzCGit5qlBw6m7M) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me Vas a Extrañar](https://open.spotify.com/album/55ycbarVA1LauuGe8KJDCY) | 5:00 |
+| 45 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
 | 46 | [Corazón en Soledad](https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L) | [Ala Jaza](https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW) | [Mamwali, Vol\. 2](https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e) | 3:31 |
 | 47 | [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 |
 | 48 | [Con Los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 | 60 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 
-Snapshot ID: `MCw5Y2VlM2I4ZGVmN2Q1MzU3N2NiNGJkOWZhMmZlYmQ0ZDBlYjI5ZjI4`
+Snapshot ID: `MCxjOGM4Y2QwN2E3YjMyNmYwYmExNmE2NWEyOTRhZGUzODI3YWIxNjZk`

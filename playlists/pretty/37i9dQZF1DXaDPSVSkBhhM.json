@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66511,
+  "num_followers": 66539,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGNiY2U5NmMzNTQ4NmM5ZDQwNzViMmQwZmM4ZThhNjI5YjM5M2Vk",
+  "snapshot_id": "MCw5ZmY3M2JhYzhkMDQ4MGIyMjc1NzhjYzE3ZDM0NzkyYjUxOWU1NzQ5",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Volver a Empezar",
-        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Ll\u00e9vate Todo",
-      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Mejores Tiempos",
         "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 252782,
       "name": "Tennessecito",
       "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "UNODOCE",
-        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 73533,
-      "name": "UNODOCE",
-      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "UNODOCE",
+        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 73533,
+      "name": "UNODOCE",
+      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 171821,
       "name": "No Digas Lo Siento",
       "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-10-27 21:57:42",

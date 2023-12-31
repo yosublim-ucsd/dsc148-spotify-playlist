@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,556 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,552 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 48 | [BGM](https://open.spotify.com/track/6sGx2nUtdDfQcUJBHc53x5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 5:02 |
 | 49 | [胸キュンライト](https://open.spotify.com/track/3GFlv5161WZ6F2h8yf9tNU) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:55 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA3ZjdmODA5MDRmOTI2NjZmY2NiOTRjYjIyZWM5MWQ2MA==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA1NTgxOGMzNWI1NjA0MmEzNTUzNzk0ZDRmMDI5OTFjMA==`

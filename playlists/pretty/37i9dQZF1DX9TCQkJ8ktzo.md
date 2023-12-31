@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,491 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,515 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Agujetas de Color de Rosa](https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:48 |
 | 50 | [Tengo Diecisiete Años \- Remastered](https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 3:01 |
 
-Snapshot ID: `MCxjNTY2MmY1MDBiZDYyM2Q3YzYxNWFmOTczMjQwMTYwZTIzYzNjMWNh`
+Snapshot ID: `MCxhM2VlMmM4ZDk0ZjQ4NTE3Yzg4OWZjYWZhYzgwNTUzYmI4NWU0OTdm`

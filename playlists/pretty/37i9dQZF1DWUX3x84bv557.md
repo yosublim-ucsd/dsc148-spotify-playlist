@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Isabèl Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,857 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,853 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Verlaten](https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Verlaten](https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam) | 2:25 |
 | 80 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 
-Snapshot ID: `MCwzZDBlNDM0ZjYyMTgwOTE5NGQ2ZjMwZDA5NDU1MzFlMDA2NDNlZmE4`
+Snapshot ID: `MCxmMzQ1YjllNGYzODQ4OGY1YjE4ZWJmOTNjMzRjYTMwMTBkN2QwYzU4`

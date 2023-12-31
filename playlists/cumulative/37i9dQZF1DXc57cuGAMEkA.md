@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。\[Alexandros\], Lost Frequencies & Bastille, Fred again.\. & Baby Keem and more! Cover: \[Alexandros\]
 
-3,615 songs - 8 day 13 hr 12 min
+3,616 songs - 8 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3223,6 +3223,7 @@
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-18 | 2023-05-26 |
 | [Where we go](https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [milestone](https://open.spotify.com/album/7LxGqDucgi7agMmb3r4ZbF) | 4:17 | 2023-06-22 | 2023-06-30 |
 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 | 2023-06-08 | 2023-06-16 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-28 |  |
 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-11-16 | 2023-12-09 |
 | [WHIP! \- Spotify Singles](https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex) | 2:32 | 2023-03-09 | 2023-03-18 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-02-09 | 2023-02-17 |

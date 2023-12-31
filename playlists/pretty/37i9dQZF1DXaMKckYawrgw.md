@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,642 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,644 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 79 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
 | 80 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 |
 | 81 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
-| 82 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
-| 83 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
+| 82 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
+| 83 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
 | 84 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 |
 | 85 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
 | 86 | [Almas](https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Almas](https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39) | 3:29 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 90 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
 | 91 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
 | 92 | [Estambul Ska](https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Ska, Vol\. 2](https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ) | 2:37 |
-| 93 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
+| 93 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
 | 94 | [Perdedor](https://open.spotify.com/track/1cESlqirsaIX9hn6gQINFN) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL) | [Perdedor](https://open.spotify.com/album/1g7JMXCHye91zIUlYtKOxC) | 3:05 |
-| 95 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
+| 95 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
 | 96 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
 | 97 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
 | 98 | [Criminal](https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Criminal](https://open.spotify.com/album/7iYLo31mBnrsdVf9iPMUm6) | 3:11 |
 | 99 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 |
 | 100 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 
-Snapshot ID: `MCwzNTFhN2Y5NDBlNTYyNzEwYmViN2VlYzUzNjgyZDQzYWY0YjRiZmE3`
+Snapshot ID: `MCw2NjVhYWI3OTY5ZjJhMzUyMzBkNDYzMzIwZGIxMDdkYzljZTZiMzAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,250 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,266 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 8 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 |
 | 9 | [Bloodline](https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Steppin' Out](https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM) | 3:15 |
 | 10 | [My Name Is Jesus](https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Still Need Him](https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu) | 5:11 |
-| 11 | [Battle Stand](https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:13 |
-| 12 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 |
+| 11 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 |
+| 12 | [Battle Stand](https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:13 |
 | 13 | [Revelation Song](https://open.spotify.com/track/509nwQdYfumwpK4OMCz9ZM) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let's Just Praise The Lord](https://open.spotify.com/album/4JKJQyS9iv3qVBeUsY8BIi) | 5:12 |
 | 14 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
 | 15 | [The Beauty of the Blood](https://open.spotify.com/track/7ELkReejYTA1hjQGOD5bqN) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Welcome Home](https://open.spotify.com/album/2LjXeIcEyGlhab8TIGTizP) | 3:57 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 27 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
 | 28 | [Scars In Heaven](https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Scars In Heaven](https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg) | 4:29 |
 | 29 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
-| 30 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
-| 31 | [Brighten The Corner Where You Are \- Radio Edit](https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brighten The Corner Where You Are \(Radio Edit\)](https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y) | 2:29 |
+| 30 | [Brighten The Corner Where You Are \- Radio Edit](https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brighten The Corner Where You Are \(Radio Edit\)](https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y) | 2:29 |
+| 31 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 32 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 |
 | 33 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
 | 34 | [Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need](https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Kim Collingsworth](https://open.spotify.com/artist/5Pyrtb7bDbSxoaB5ajdqts), [Phil Collingsworth, Jr.](https://open.spotify.com/artist/7hG3nweoWdpxkntjJSQwEN) | [Just Sing!](https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz) | 7:37 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 73 | [Not For Long](https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Not For Long](https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62) | 3:50 |
 | 74 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 |
 | 75 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 |
-| 76 | [I Bring You Jesus](https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb) | 3:42 |
-| 77 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
+| 76 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
+| 77 | [I Bring You Jesus](https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb) | 3:42 |
 | 78 | [In Your Hands](https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [In Your Hands](https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d) | 3:19 |
 | 79 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
 | 80 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 
-Snapshot ID: `MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx`
+Snapshot ID: `MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0`

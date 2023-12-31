@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,208 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,229 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 12 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
 | 13 | [One & Only](https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:17 |
 | 14 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
-| 15 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
-| 16 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
+| 15 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
+| 16 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
 | 17 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 18 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
 | 19 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 57 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 58 | [CINZEIRO](https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [CINZEIRO](https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ) | 2:26 |
 | 59 | [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 |
-| 60 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
-| 61 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 |
+| 60 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 |
+| 61 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
 | 62 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
-| 63 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
+| 63 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 | 64 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 |
-| 65 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
+| 65 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
 | 66 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
-| 67 | [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 |
-| 68 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 |
+| 67 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 |
+| 68 | [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 |
 | 69 | [Andar 14](https://open.spotify.com/track/4mric8489EFF7DxpQfonKw) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Andar 14](https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK) | 2:53 |
 | 70 | [sen\(ti\)r perdeu a graça](https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [sen\(ti\)r perdeu a graça](https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA) | 2:45 |
 | 71 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 
-Snapshot ID: `MCxkY2JlNTBjNWQ4YTk4NWQwN2M1NmMyZmU1ZDZlM2ViZmM3M2U2Njk5`
+Snapshot ID: `MCw5M2Q4MGEyYzJjMTRiNzRmOWIwOGJiY2E5MzZlYTFjNzk1ZTYxODcw`

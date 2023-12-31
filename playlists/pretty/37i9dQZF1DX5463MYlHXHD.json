@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 569234,
+  "num_followers": 569471,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZjM2MyYzZlZDgxYzAwMDc4MDU2ZjY4NjllNmZjNTRhZGQ0MTRk",
+  "snapshot_id": "MCwxNjUwNzU5ODgxZmJiYzYxYzNjZmUyNzJkOTgwNTM3NmRlOTdkNDMx",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -195,26 +195,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Butakera",
-        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 143402,
-      "name": "Butakera",
-      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -239,18 +231,26 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "Butakera",
+        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 143402,
+      "name": "Butakera",
+      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -991,42 +991,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Es Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Soltero Hasta la Tumba",
-      "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Fua Mi Amor",
-        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "Fua Mi Amor",
-      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1051,6 +1015,42 @@
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Fua Mi Amor",
+        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Fua Mi Amor",
+      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "No Es Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Soltero Hasta la Tumba",
+      "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Tranka",
         "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 164323,
       "name": "Tranka",
       "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 158145,
+      "name": "No Te Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Corte Caco",
         "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 158145,
-      "name": "No Te Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "25 Horas de Gira",
+        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
+      },
+      "artists": [
+        {
+          "name": "El Guachoon",
+          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Gobernada",
+      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "ROCAMORA",
         "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 158181,
       "name": "ROCAMORA",
       "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "25 Horas de Gira",
-        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
-      },
-      "artists": [
-        {
-          "name": "El Guachoon",
-          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Gobernada",
-      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
     },
     {
       "added_at": "2023-12-22 12:02:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,562 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,723 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 59 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
 | 60 | [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 |
 | 61 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
-| 62 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
-| 63 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
-| 64 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
+| 62 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
+| 63 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
+| 64 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 65 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
-| 66 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
+| 66 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
 | 67 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
 | 68 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 69 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 70 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
 
-Snapshot ID: `MCxmZjM4ZTRiZmJiOTE1ODRlNjUxN2YzYzM5NmE4NGE2NDA2ODI4OGY5`
+Snapshot ID: `MCxlMGY1ZGVjYjA0Y2ZjYTY1MDk4NGJlMmE2Y2RjZDkxOTRjNzQ2ZGYy`

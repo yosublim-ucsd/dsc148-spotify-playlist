@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 53708,
+  "num_followers": 53722,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUwZjYwOGI4MDJkYzhmMjk5ZWM3NjU0MWM3ODczYmVkNzY5YjMx",
+  "snapshot_id": "MCw3ODRkNjgzMTgzZWNjNzIxMDZiMWQ1ZDQ1ZGJlODYzM2YyMDhmNWRk",
   "tracks": [
     {
       "added_at": "2023-12-22 11:58:21",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h"
-      },
-      "artists": [
-        {
-          "name": "Wesley Camilo",
-          "url": "https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        }
-      ],
-      "duration_ms": 173677,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "Vai dar Bom",
         "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 204500,
       "name": "VAI DAR BOM",
       "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h"
+      },
+      "artists": [
+        {
+          "name": "Wesley Camilo",
+          "url": "https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "duration_ms": 173677,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
     },
     {
       "added_at": "2023-12-22 11:58:21",

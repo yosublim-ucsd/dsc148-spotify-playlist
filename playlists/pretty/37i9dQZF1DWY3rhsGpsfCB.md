@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,974 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,985 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 45 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 |
 | 46 | [HIGH](https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 3:12 |
 | 47 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
-| 48 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
-| 49 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 |
+| 48 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 |
+| 49 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
 | 50 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 51 | [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 |
 | 52 | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF) | 2:45 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 71 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 |
 | 72 | [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 |
 | 73 | [Henny Talk](https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Henny Talk](https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT) | 2:56 |
-| 74 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 |
-| 75 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 |
+| 74 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 |
+| 75 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 |
 | 76 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 |
-| 77 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
-| 78 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
+| 77 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
+| 78 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
 | 79 | [Why Evils](https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Why Evils](https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV) | 4:00 |
 | 80 | [Moonlight](https://open.spotify.com/track/4O4jWAcIvbEDF6lOoW1LT5) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Moonlight](https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25) | 2:10 |
 
-Snapshot ID: `MCwzYjFkZGQ3ZGI2OWU0ZjQ0NzVhZDAyMjQ4MGNlM2JkOTQzYjNiYTE2`
+Snapshot ID: `MCw1MzVkNDNmNDRmMTM2NGVkZDk5N2MwYjY4NDJmYWEyNjdjZmQ2Njhm`

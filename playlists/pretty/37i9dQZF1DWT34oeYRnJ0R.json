@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 690426,
+  "num_followers": 690445,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjcxMWRiNTIyNDlmNGY3NDkzYWQ1N2Q1ZTQyMzQ1YmVjODg3MDhl",
+  "snapshot_id": "MCw2NGEwNzg3MDg2YmVjYzlkZjFmZTVmZTBkZmMzMjczMzEzZmMzY2My",
   "tracks": [
     {
       "added_at": "2023-12-21 09:21:24",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-21 09:21:24",
       "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Solita y SueltAAA",
-      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
-    },
-    {
-      "added_at": "2023-12-21 09:21:24",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-12-21 09:21:24",
+      "album": {
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Solita y SueltAAA",
+      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
     },
     {
       "added_at": "2023-12-21 09:21:24",

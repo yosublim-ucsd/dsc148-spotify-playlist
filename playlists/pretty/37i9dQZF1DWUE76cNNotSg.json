@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 497208,
+  "num_followers": 497342,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2UzZjM0MWMzYzNiMjllM2E0YTFhYmFiOWNlNjM5YzNmYjEwNzc2",
+  "snapshot_id": "MCw1NjJkYjM3ZDE1ZDNjZDRmMDEyNjNiNGUyMGMyOGY4N2YzZDQwZjEx",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Chika (scared)",
         "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Someone\u2019s EP II X",
         "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/387xCAELz6eeONugqwsY3x"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "GRAACE",
+          "url": "https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV"
+        }
+      ],
+      "duration_ms": 217296,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/0LOuhyBqfn1diyqKIsCbOJ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Fabrique Club",
         "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
@@ -1431,22 +1451,6 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Should be Fine",
-      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/387xCAELz6eeONugqwsY3x"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "GRAACE",
-          "url": "https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV"
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
         }
       ],
-      "duration_ms": 217296,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/0LOuhyBqfn1diyqKIsCbOJ"
+      "duration_ms": 175720,
+      "name": "Should be Fine",
+      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1539,26 +1539,6 @@
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "It's All a Bit Fuzzy",
-        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1711,6 +1711,30 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
     },
     {
       "added_at": "2023-12-29 05:00:00",

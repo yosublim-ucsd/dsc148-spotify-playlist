@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-376 songs - 21 hr 0 min
+377 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2022-03-25 | 2022-04-20 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 3:13 | 2022-07-13 | 2022-12-14 |
 | [What's On Ur Mind](https://open.spotify.com/track/1tCMbFn0uTiIqBqIdZ0cES) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [What's On Ur Mind](https://open.spotify.com/album/7Hk38z2ouRgFRwIuo5FfJ9) | 3:24 | 2021-12-10 | 2022-07-29 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-29 |  |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-28 |  |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-03-11 | 2022-05-22 |
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-05-20 | 2022-07-11 |

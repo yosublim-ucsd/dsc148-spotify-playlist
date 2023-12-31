@@ -4,7 +4,7 @@
 
 > Songs, die von innen wärmen.
 
-122 songs - 6 hr 49 min
+123 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2023-07-26 |  |
 | [Lost](https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Ava June](https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV) | [Lost](https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ) | 4:00 | 2023-09-26 | 2023-09-30 |
 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 | 2023-07-26 |  |
-| [luft \(feat\. Friedberg\)](https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 2:58 | 2023-08-18 |  |
+| [luft \(feat\. Friedberg\)](https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 2:58 | 2023-08-18 | 2023-12-31 |
 | [Man Man](https://open.spotify.com/track/1Ibiuakl4eDRoOpA7jYyRM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Man Man](https://open.spotify.com/album/3N4rKiNU9T3WAuv6Xg9TIR) | 2:52 | 2023-09-08 | 2023-10-21 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2023-07-26 |  |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2023-07-26 |  |
@@ -110,6 +110,7 @@
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-07-26 |  |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2023-07-26 |  |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-07-26 |  |
+| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2023-12-21 |  |
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-26 | 2023-08-15 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-07-26 | 2023-09-27 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-10-27 |  |

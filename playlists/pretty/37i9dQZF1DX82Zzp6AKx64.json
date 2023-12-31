@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1160275,
+  "num_followers": 1160454,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjg4ZjA5OWE3OTVkMjMwZTBjMmYwYzE0M2E5ODkwZDVhNmM5MmUw",
+  "snapshot_id": "MCwxMWY5N2MxZWM5NGZiZTRiZGE3MzNmZGRmN2UyNjIwNTJkYzZmMjQ2",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Brigade",
         "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 310893,
       "name": "All I Wanna Do Is Make Love To You",
       "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 199320,
       "name": "Open Arms (2022 Remaster)",
       "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 299653,
       "name": "Who's Crying Now (2022 Remaster)",
       "url": "https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Faster Pussycat",
+          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
         }
       ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
+      "duration_ms": 344613,
+      "name": "House of Pain",
+      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Wake Me When It's Over",
-        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
       "artists": [
         {
-          "name": "Faster Pussycat",
-          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 344613,
-      "name": "House of Pain",
-      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
     },
     {
       "added_at": "2023-05-24 19:29:38",

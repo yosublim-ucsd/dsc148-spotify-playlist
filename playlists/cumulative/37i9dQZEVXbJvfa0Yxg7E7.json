@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 129130,
       "name": "Blendende Lys (Sprut)",
       "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 143520,
       "name": "Dans P\u00e5 Bordet",
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
@@ -5452,7 +5452,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 158101,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/4DXxwYUmOfpVk0RU8oZw1M"
@@ -6278,7 +6278,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 172008,
       "name": "Du er ikke alene",
       "url": "https://open.spotify.com/track/6dq2NEtJvTIAIU515Pn3LM"
@@ -7706,7 +7706,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -11004,7 +11004,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 142403,
       "name": "Hjemme for meg",
       "url": "https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF"
@@ -11330,7 +11330,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -12038,7 +12038,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 116197,
       "name": "H\u00e6ljetur (feat. Hagle)",
       "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
@@ -14694,7 +14694,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 154762,
       "name": "Klikk",
       "url": "https://open.spotify.com/track/5OGnojWHysrkcgLzBAj2SA"
@@ -17232,7 +17232,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -18888,7 +18888,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
@@ -19920,6 +19920,28 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/0qrZHXZIexinbbHFXUFuyu"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160046,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/3DlxdVsJHBCvUk3zVMGJeF"
     },
     {
       "album": {
@@ -21410,7 +21432,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -21940,7 +21962,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -24074,7 +24096,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 319813,
       "name": "Stjernesludd",
       "url": "https://open.spotify.com/track/0zCU35nRISaqZqlUXNEL5Z"
@@ -26546,7 +26568,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -27712,6 +27734,28 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
+    },
+    {
+      "album": {
+        "name": "wow",
+        "url": "https://open.spotify.com/album/122hSj4d319T3iNJ9YrBqf"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "wow",
+      "url": "https://open.spotify.com/track/1DyvQsMh6ZMWTuH0PGmpOD"
     },
     {
       "album": {

@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 193433,
       "name": "Elaan",
       "url": "https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j"
@@ -2790,6 +2790,24 @@
       "duration_ms": 170736,
       "name": "Ruffian",
       "url": "https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX"
+    },
+    {
+      "album": {
+        "name": "Ruthless Jaat",
+        "url": "https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ruthless Jaat",
+      "url": "https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq"
     },
     {
       "album": {

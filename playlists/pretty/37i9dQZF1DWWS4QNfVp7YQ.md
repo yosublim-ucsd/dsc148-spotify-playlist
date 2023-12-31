@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,804 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,844 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 26 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 |
 | 27 | [Zumba Tribal](https://open.spotify.com/track/1tO56JLSWKeg2ZSXoa4Out) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [El After Party Ya Llego](https://open.spotify.com/album/1LhDt05IVDdQrwybh3Xsyj) | 2:57 |
 | 28 | [Si Quema Cuh](https://open.spotify.com/track/3hLc8XjpvAX7i4HXl9f6SG) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Si Quema Cuh](https://open.spotify.com/album/09G5l8kon7sPnJkWhKgK7x) | 2:44 |
-| 29 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 |
-| 30 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 |
+| 29 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 |
+| 30 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 |
 | 31 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
 | 32 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 33 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 44 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 45 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
 | 46 | [Vibora](https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:25 |
-| 47 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
-| 48 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
+| 47 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
+| 48 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 | 49 | [Mueve Tu Caderita](https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Las Más Picudas del Tribal](https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA) | 3:12 |
 | 50 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 
-Snapshot ID: `MCw5NmZiNjM0YTVmZGVkZDVmMTNhZWY5ODM1MDk5NzkxOTk2ODI2N2Jh`
+Snapshot ID: `MCw2OTU1N2M0NDNmYTljM2YzM2FjYTg4NGE1Yzc3ZDY2ODYzN2Y5NzI5`

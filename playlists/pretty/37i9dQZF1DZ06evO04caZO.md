@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,263 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,373 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 41 | [Hawaii \- Juicebox B\-Side](https://open.spotify.com/track/6s9oj6aPupVSA1CSaaVZZL) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:52 |
 | 42 | [When It Started \(Last Nite B\-Side\)](https://open.spotify.com/track/3mU9Pjls8PszKKmrwhTG78) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 2:55 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDAxMTJjMDI5MTMwZDU1ODdiOGJjODM3ZWE5N2ViYjdmMA==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA2MTBkZjZhMWNiMDI3MGEzNTllNjllYTM1NmI3OWE1ZQ==`

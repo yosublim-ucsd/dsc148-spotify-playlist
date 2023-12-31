@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 109660,
+  "num_followers": 109736,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODU4MjgwMTVhZjY2ZDcyMjExOTIyYjk0ZmU0YjRkN2U2ZjMyOGNh",
+  "snapshot_id": "MCw5NWE5ZjM5MjRmMjY2MDAzZjIzZTY5N2Y3NTVlZmZmY2QxMzlmNDk0",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Electronic Body Music",
-        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
-      },
-      "artists": [
-        {
-          "name": "Thomas P. Heckmann",
-          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
-        }
-      ],
-      "duration_ms": 444631,
-      "name": "Himmel & Hoelle",
-      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 345520,
       "name": "Warsaw (White Light Version)",
       "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Electronic Body Music",
+        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
+      },
+      "artists": [
+        {
+          "name": "Thomas P. Heckmann",
+          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
+        }
+      ],
+      "duration_ms": 444631,
+      "name": "Himmel & Hoelle",
+      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
     },
     {
       "added_at": "2021-10-22 11:07:27",

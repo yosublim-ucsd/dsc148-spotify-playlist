@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1078254,
+  "num_followers": 1078299,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGY2ODhiNGQzZmQ5Yzk0ZTBmYWY0OTRkZjg2MjNiZmY3ZWU5YjYx",
+  "snapshot_id": "MCw5MzI3YjQ2Y2ViODEyMzUxYTc2OWM0MGExNzkxZDUwNDcyMjc2OTZl",
   "tracks": [
     {
       "added_at": "2023-10-17 16:06:15",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/3mz9p3cA0Cl5oDUlpTxB0c"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/3ZdJffjzJWFimSQyxgGIxN"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
-        "name": "5.0",
-        "url": "https://open.spotify.com/album/3mz9p3cA0Cl5oDUlpTxB0c"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/3ZdJffjzJWFimSQyxgGIxN"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "Fearless (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 232120,
-      "name": "You Belong With Me",
-      "url": "https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX"
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
+        "name": "Fearless (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "You Belong With Me",
+      "url": "https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
         "name": "No One (Remixes)",
         "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "Whoa, Nelly! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
     },
     {
       "added_at": "2023-10-17 16:06:15",

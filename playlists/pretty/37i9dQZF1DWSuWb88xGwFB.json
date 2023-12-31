@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32113,
+  "num_followers": 32148,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
+  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You (Hard Dub)",
+      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Luv Dancin'",
         "url": "https://open.spotify.com/album/0ovIONj4SSFNw6L0NNz5Dp"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 501526,
       "name": "Luv Dancin' (In Deep Mix)",
       "url": "https://open.spotify.com/track/43CxehImZTDLTClNOZajCY"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You (Hard Dub)",
-      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/0RuTllZKmylqbK2VUarJ9q"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362659,
-      "name": "Indonesia (Sambal Badjak Mix)",
-      "url": "https://open.spotify.com/track/2xrKKLrq9bwJRpgS9Wwhpq"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 781853,
       "name": "Break Night (The Mardi Gras Mix)",
       "url": "https://open.spotify.com/track/5wjkcqSBnatDQjoggovBrO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/0RuTllZKmylqbK2VUarJ9q"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362659,
+      "name": "Indonesia (Sambal Badjak Mix)",
+      "url": "https://open.spotify.com/track/2xrKKLrq9bwJRpgS9Wwhpq"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "DJ Sneak EP-Dancin'",
-        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731735,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "DJ Sneak EP-Dancin'",
+        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731735,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1215,6 +1215,30 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Let\u2019s Talk About Me (feat. Michael M) [Mixes]",
+        "url": "https://open.spotify.com/album/13w5MNEVPinNtl7jEZZX10"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        },
+        {
+          "name": "Michael M",
+          "url": "https://open.spotify.com/artist/57ZPtrox3KaBOJvm6AHUNU"
+        },
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "duration_ms": 493602,
+      "name": "I Could Be This\u2026 (feat. Michael M) (Morel's That Mix)",
+      "url": "https://open.spotify.com/track/6tGt0ZXAVCSueT4mX4du77"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1263,30 +1287,6 @@
       "duration_ms": 554971,
       "name": "The Sound (The Studio 54 Mix)",
       "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Let\u2019s Talk About Me (feat. Michael M) [Mixes]",
-        "url": "https://open.spotify.com/album/13w5MNEVPinNtl7jEZZX10"
-      },
-      "artists": [
-        {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
-        },
-        {
-          "name": "Michael M",
-          "url": "https://open.spotify.com/artist/57ZPtrox3KaBOJvm6AHUNU"
-        },
-        {
-          "name": "George Morel",
-          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
-        }
-      ],
-      "duration_ms": 493602,
-      "name": "I Could Be This\u2026 (feat. Michael M) (Morel's That Mix)",
-      "url": "https://open.spotify.com/track/6tGt0ZXAVCSueT4mX4du77"
     },
     {
       "added_at": "2022-03-03 13:59:16",

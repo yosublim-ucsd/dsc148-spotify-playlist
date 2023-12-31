@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15100,
+  "num_followers": 15098,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQ0ZjE1NmMxMTIxOWRjYTg3ZWZjNzYwMjBiMDIyMmMwZDU4ZGUy",
+  "snapshot_id": "MCw0MGI3OGFjMjM5MTM5ODUxZTViMTEwNTJlMDg2YTlmZTk2OTJiYzdh",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Maum, Part. 1",
-        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 223693,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
     },
     {
       "added_at": "2023-11-03 06:18:18",

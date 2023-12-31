@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-272 songs - 14 hr 47 min
+273 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Girlfriend \- Acoustic](https://open.spotify.com/track/50ZUmhK9HlAcErRiStCLqw) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Girls Like You \- Stripped](https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Girls Like You \- Stripped](https://open.spotify.com/album/0iNFmOXHsrjgNL5NmSVvQu) | 2:59 | 2023-04-07 |  |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2021-12-17 |  |
-| [God Gave Me A Girl \- Acoustic](https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [God Gave Me A Girl \(Acoustic\)](https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI) | 3:21 | 2023-09-08 |  |
+| [God Gave Me A Girl \- Acoustic](https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [God Gave Me A Girl \(Acoustic\)](https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI) | 3:21 | 2023-09-08 | 2023-12-31 |
 | [Going, Going, Gone \- Acoustic](https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Going, Going, Gone \(Acoustic\)](https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8) | 2:46 | 2022-12-16 |  |
 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 | 2021-12-17 |  |
 | [Good Day \- Acoustic](https://open.spotify.com/track/5vlkwSSNljB7vmnBFwYWrw) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Acoustic\)](https://open.spotify.com/album/4dmJkz3SB0W6hnWWBbi7tR) | 3:01 | 2021-12-17 | 2022-08-02 |
@@ -205,6 +205,7 @@
 | [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 |  |
 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 | 2022-08-12 |
 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 | 2023-11-23 |
+| [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 | 2023-12-01 |  |
 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 | 2023-07-14 | 2023-12-08 |
 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 | 2022-02-04 |  |
 | [Still Got It \- Acoustic](https://open.spotify.com/track/6EfDVHrPMkd7QvxgxZBag1) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Still Got It \(Acoustic\)](https://open.spotify.com/album/3joSZ5iwWIS6VucduIrwkl) | 3:03 | 2022-04-08 | 2022-07-11 |

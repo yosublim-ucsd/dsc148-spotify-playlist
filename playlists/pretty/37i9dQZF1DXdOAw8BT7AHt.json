@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Problem Patterns",
-  "num_followers": 53033,
+  "num_followers": 53032,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmZkZDFjMmU5N2FiMGM4Njc1OTEyZjRiNzMwOGNiMDUwNjgyODRk",
+  "snapshot_id": "MCw5Y2FjMjdjOTc3MGFkMDM4OTY5OTY3NDgwNDcxMGRmMzYyNjg4M2Uy",
   "tracks": [
     {
       "added_at": "2023-11-13 20:01:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "DBSAC",
         "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 147764,
       "name": "DBSAC",
       "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "Shadow of a Doubt",
+        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Cry Your Eyes Out",
         "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "Shadow of a Doubt",
-        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Adore Adore Adore",
-      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
     },
     {
       "added_at": "2023-11-13 20:01:49",

@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 88076,
+  "num_followers": 88128,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDMzZjI2YzhiNWY3MTZjNzI4NzI0OWYzODc2YTlkOTMwZDdiNGRi",
+  "snapshot_id": "MCxlMjFiNDllMWE4Nzk5NGFlYWM3NGZlZjYzNThiNWU4YTJkZmY3YjVl",
   "tracks": [
     {
       "added_at": "2023-12-01 18:01:27",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Cr\u00e9puscule I & II",
         "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
@@ -711,22 +695,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Reimagined by Civilistj\u00e4vel!",
-        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
       },
       "artists": [
         {
-          "name": "Death and Vanilla",
-          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
-        },
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
         }
       ],
-      "duration_ms": 495507,
-      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
-      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -751,6 +731,26 @@
       "duration_ms": 517000,
       "name": "Locomotion (In Key)",
       "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Reimagined by Civilistj\u00e4vel!",
+        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+      },
+      "artists": [
+        {
+          "name": "Death and Vanilla",
+          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
+        },
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 495507,
+      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
+      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Fate (B-Sides)",
         "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185546,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Shizumu - Ambient Mix",
+      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Eyeline",
         "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
       "artists": [
         {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
         }
       ],
-      "duration_ms": 204955,
-      "name": "Shizumu - Ambient Mix",
-      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
-      },
-      "artists": [
-        {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Past and Future Tense",
         "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Lovotic",
-        "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
-      },
-      "artists": [
-        {
-          "name": "Soundwalk Collective",
-          "url": "https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC"
-        },
-        {
-          "name": "Charlotte Gainsbourg",
-          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
-        }
-      ],
-      "duration_ms": 347784,
-      "name": "Blessed Are The Lovers",
-      "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1343,22 +1323,6 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 238029,
-      "name": "Belt & Carpet",
-      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1383,6 +1347,42 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 238029,
+      "name": "Belt & Carpet",
+      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Lovotic",
+        "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
+      },
+      "artists": [
+        {
+          "name": "Soundwalk Collective",
+          "url": "https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC"
+        },
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        }
+      ],
+      "duration_ms": 347784,
+      "name": "Blessed Are The Lovers",
+      "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "M\u00f6bius (Aerial Ballet Created by Cie Xy)",
         "url": "https://open.spotify.com/album/3JltziBX9Nyfj86n7BWyz0"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 296626,
       "name": "Poissons volants",
       "url": "https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
-      },
-      "artists": [
-        {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
-        }
-      ],
-      "duration_ms": 330673,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1603,34 +1603,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
       },
       "artists": [
         {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
         }
       ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1647,6 +1631,22 @@
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Made In Silence",
-        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
-      },
-      "artists": [
-        {
-          "name": "dBridge",
-          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
-        },
-        {
-          "name": "Madison Willing",
-          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
-        }
-      ],
-      "duration_ms": 154740,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 425000,
       "name": "A Model Of Reality - Firephly Remix",
       "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Made In Silence",
+        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
+      },
+      "artists": [
+        {
+          "name": "dBridge",
+          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
+        },
+        {
+          "name": "Madison Willing",
+          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
+        }
+      ],
+      "duration_ms": 154740,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
     },
     {
       "added_at": "2023-12-01 18:01:27",

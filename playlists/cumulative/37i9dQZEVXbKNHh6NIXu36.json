@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/07DqsuLpvxNqGuhBKR6vRE"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "112",
+      "url": "https://open.spotify.com/track/3MjHpVULKNjQFrkOlgoXwW"
+    },
+    {
+      "album": {
         "name": "NUR DAMIT DU WEISST",
         "url": "https://open.spotify.com/album/6gdbVpfbiKncFzJY6M6EqV"
       },
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -12480,7 +12498,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -12878,6 +12896,48 @@
       "duration_ms": 134001,
       "name": "Genau so Eine",
       "url": "https://open.spotify.com/track/46OCZYetGZYSxpKRJ8epzp"
+    },
+    {
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/29MAZSbreZZ18sYo6obqHx"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "BAR\u00c9",
+          "url": "https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        },
+        {
+          "name": "Bayor",
+          "url": "https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne"
+        },
+        {
+          "name": "Biggie68",
+          "url": "https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1"
+        },
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169510,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy"
     },
     {
       "album": {
@@ -18374,7 +18434,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -20068,7 +20128,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 152500,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/0Ydt7UQxxHmFdZGOROCcza"
@@ -22086,7 +22146,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 148984,
       "name": "MONEY & FAME",
       "url": "https://open.spotify.com/track/5ReQQXU6JXKWOi0O9GwI9x"
@@ -23382,6 +23442,28 @@
       "duration_ms": 230177,
       "name": "New Romantics (Taylor's Version)",
       "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
+    },
+    {
+      "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4xBzPrvputH9hXsklKV2eZ"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Niagara",
+      "url": "https://open.spotify.com/track/3jsgs0wmCwbxYBfyzJr2Nn"
     },
     {
       "album": {
@@ -30140,7 +30222,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -36664,6 +36746,36 @@
       "duration_ms": 231933,
       "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
       "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
+    },
+    {
+      "album": {
+        "name": "WONDERFUL LIFE",
+        "url": "https://open.spotify.com/album/3dAGTCVoLXIZrBvgY2tsEB"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        },
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170550,
+      "name": "WONDERFUL LIFE",
+      "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
     },
     {
       "album": {

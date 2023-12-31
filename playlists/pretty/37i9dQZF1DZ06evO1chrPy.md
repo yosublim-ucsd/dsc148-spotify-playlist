@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,771 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,806 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 33 | [James Brown](https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:20 |
 | 34 | [Rubber Ball \- Unpeeled](https://open.spotify.com/track/65Fz2cM2BiIlBBlNbw5RtZ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:04 |
 | 35 | [Always Something](https://open.spotify.com/track/3bpV86Ui1ND9aRU5uhQRRX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:41 |
-| 36 | [Sell Yourself](https://open.spotify.com/track/14fZy2hdtvFvG3DN4cokUb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:11 |
+| 36 | [Doctor Doctor Doctor Help Me Help Me Help Me](https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:14 |
 | 37 | [Back Stabbin' Betty](https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:39 |
 | 38 | [2024](https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:10 |
-| 39 | [Doctor Doctor Doctor Help Me Help Me Help Me](https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:14 |
+| 39 | [Sell Yourself](https://open.spotify.com/track/14fZy2hdtvFvG3DN4cokUb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:11 |
 | 40 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDBjYWRjOWYzYWJkODRlYjMyYTEzYjFhNDNjNDViYzc2ZQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA1YWZlMjQxZDc5OTQzNTc4MGUxMTg0MzQ0ZGRkYWU3Nw==`

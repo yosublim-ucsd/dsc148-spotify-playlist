@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 184493,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj"
@@ -290,6 +290,24 @@
       "duration_ms": 195306,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "El Precio De Mis Errores",
+      "url": "https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf"
     },
     {
       "album": {
@@ -322,7 +340,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 189386,
       "name": "El Tarasco",
       "url": "https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj"

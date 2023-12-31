@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,401 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,481 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [No Es Casualidad \- En Vivo](https://open.spotify.com/track/0enkJVDmJcro5LDyC82p5X) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:54 |
 | 50 | [Decisiones \- Live](https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 6:00 |
 
-Snapshot ID: `MCxlNGZmNzc0Njk4NzE0Mjg0NTIzOWRmOTExY2YwNWEyNDg3MzhiNmJk`
+Snapshot ID: `MCw0Y2Q3OWE5ZjlhZGY0ZDQyMTJlYjY1NmY4NTFjYmU4NDM0M2JjYTA3`

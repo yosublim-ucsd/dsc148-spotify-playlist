@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-385 songs - 1 day 1 hr 7 min
+389 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,9 +312,11 @@
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 | 2023-07-02 |
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
+| [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 | 2023-12-31 |  |
 | [star\-crossed](https://open.spotify.com/track/0EYDsKvLtGMdvsA7PaUvJO) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:19 | 2022-07-24 |  |
 | [Start Together](https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 2:38 | 2023-07-31 | 2023-08-20 |
 | [State of the Nation](https://open.spotify.com/track/4FQVCrUvtl4yRJd5bWpupn) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 0:25 | 2023-03-24 | 2023-05-09 |
+| [Stereo Colour Cloud \(Shaman's Dream\)](https://open.spotify.com/track/2VQspDUq9kCe8L9aorXuH4) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 2:57 | 2023-12-31 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:26 | 2023-05-21 |  |
 | [Strash](https://open.spotify.com/track/3uBMB4pWWkOPM3XLxoG7E4) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Kleinmeister](https://open.spotify.com/album/7iLU32VjgscMWebg2Jtq5Q) | 4:56 | 2023-10-30 |  |
 | [Streaker \(feat\. Notrabel\)](https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Notrabel](https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw) | [Ultima II Massage](https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW) | 2:52 | 2023-04-26 |  |
@@ -351,6 +353,7 @@
 | [The Nights of Wine and Roses](https://open.spotify.com/track/3uS4xj4hCZfEKYJxZyw0r7) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:02 | 2023-11-04 |  |
 | [The Overwhelming Event](https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:17 | 2022-01-22 | 2023-08-20 |
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
+| [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |
 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 | 2023-02-11 |  |
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 3:42 | 2023-05-19 |  |
@@ -358,6 +361,7 @@
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 |  |
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |
 | [thousand eyes](https://open.spotify.com/track/1xsb4ZIwzSi5dacBz9oMdA) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:00 | 2022-01-19 |  |
+| [Tim's Intro](https://open.spotify.com/track/7qzQfE2se3Ai5reZcxs920) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:04 | 2023-12-31 |  |
 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 | 2023-05-03 |
 | [Time Travelin' \(A Tribute To Fela\)](https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:37 | 2022-01-06 |  |
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |

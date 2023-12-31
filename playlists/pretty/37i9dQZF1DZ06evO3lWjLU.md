@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,302 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,394 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 40 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 |
 | 41 | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/track/5qaDbDqAwvJZgn1I15Wk3L) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/album/5PFBEyRt03MFH3u0BtdHuF) | 4:06 |
 | 42 | [Picó](https://open.spotify.com/track/3o51j5414efaBNRoqzu60B) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Picó](https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL) | 2:45 |
-| 43 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
-| 44 | [No te enamores de él \- Sped Up](https://open.spotify.com/track/7bcrsv0kTYmoROhuwrJRv5) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él \(Sped Up\)](https://open.spotify.com/album/4HPsDxtV204dA9An3pQ7HN) | 2:40 |
+| 43 | [No te enamores de él \- Sped Up](https://open.spotify.com/track/7bcrsv0kTYmoROhuwrJRv5) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él \(Sped Up\)](https://open.spotify.com/album/4HPsDxtV204dA9An3pQ7HN) | 2:40 |
+| 44 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA4OWY5MTlkZjM2OTY1ZTI0NjZiN2MxOGM4Nzc0ZTc3Ng==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDBkZTZiNmFkMjZkOTZmM2QxYmFkMmM3YTUzZDNmOGM1MQ==`

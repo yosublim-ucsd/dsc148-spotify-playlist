@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,379 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,404 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 |
 | 50 | [Tak Bisa Bilang](https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tak Bisa Bilang](https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH) | 4:09 |
 
-Snapshot ID: `MCwyNTcyY2ViNWYwNTBkZGI1ZjQwNjEzOTJhYzVkYjEzZmVmMjdiYzdh`
+Snapshot ID: `MCxhMzAzYjc5Mjc4ZTkyNjgxYzIzNWM1NjhjNjJkOGU2YTBiNmRiMDQ1`

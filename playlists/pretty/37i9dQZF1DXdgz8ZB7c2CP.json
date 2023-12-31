@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 766158,
+  "num_followers": 766234,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDAyZWNjNDU1NjA2ZmM5Njg3M2M2OWMzMjA1ZTU4MjhmMWRlMjE2",
+  "snapshot_id": "MCxkMTczNWIwMWExMmU2ZTNjZWI0MzAyMzdiMTU1ZmM5MGUwM2E2NWNi",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
+        "name": "Rushing Back",
+        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
       },
       "artists": [
         {
@@ -668,17 +668,13 @@
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
         }
       ],
-      "duration_ms": 214539,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
+      "duration_ms": 231663,
+      "name": "Rushing Back",
+      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -699,26 +695,6 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "BRING BACK THE COLOR (feat. AURORA)",
-        "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 168545,
-      "name": "BRING BACK THE COLOR (feat. AURORA)",
-      "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -747,6 +723,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "BRING BACK THE COLOR (feat. AURORA)",
+        "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 168545,
+      "name": "BRING BACK THE COLOR (feat. AURORA)",
+      "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -771,8 +767,8 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Rushing Back",
-        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
       },
       "artists": [
         {
@@ -780,13 +776,17 @@
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
         }
       ],
-      "duration_ms": 231663,
-      "name": "Rushing Back",
-      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
+      "duration_ms": 214539,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "feelthisway / 3000 miles",
         "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
       },
@@ -1167,30 +1191,6 @@
       "duration_ms": 113860,
       "name": "Dream You Better",
       "url": "https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 202394,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 221772,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 202394,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 189517,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
         "url": "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
       },
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "BLEACH [Hi-Fi]",
         "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "see u",
+        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1479,6 +1495,26 @@
       "duration_ms": 247500,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1519,22 +1555,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "see u",
-        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "see u",
-      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 132134,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "PUSHER",
+        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "ORANGES",
         "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
       },
@@ -1767,38 +1783,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "PUSHER",
-        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "BLINDED",
-      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "UNDER THE ILLUSION",
-        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 214745,
-      "name": "ALONE",
-      "url": "https://open.spotify.com/track/48WQwHpOBN2718VEfvvKBC"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "UNDER THE ILLUSION",
+        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 214745,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/48WQwHpOBN2718VEfvvKBC"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "CIRCUIT DREAMS",
-        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "SO HIGH",
-      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
@@ -1887,22 +1871,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "EXISTENTIAL DANCE MUSIC",
-        "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         }
       ],
-      "duration_ms": 232250,
-      "name": "ENERGY (feat. What So Not)",
-      "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
+      "duration_ms": 204137,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1927,18 +1907,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "UNDER THE ILLUSION",
-        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
+        "name": "EXISTENTIAL DANCE MUSIC",
+        "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         }
       ],
-      "duration_ms": 222374,
-      "name": "THINK I KNOW",
-      "url": "https://open.spotify.com/track/6ZAYeaNzg6y3lGzYlodev8"
+      "duration_ms": 232250,
+      "name": "ENERGY (feat. What So Not)",
+      "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1975,6 +1959,22 @@
       "duration_ms": 226950,
       "name": "2hard2letgo",
       "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "UNDER THE ILLUSION",
+        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 222374,
+      "name": "THINK I KNOW",
+      "url": "https://open.spotify.com/track/6ZAYeaNzg6y3lGzYlodev8"
     }
   ],
   "unique_name": "creamy",

@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11615,
+  "num_followers": 11624,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWYxMjhmNTIxOTU4YTI4MmU3OTE4ODU3YmUwMzI3YmFhZDA4YmM5",
+  "snapshot_id": "MCwxMWIxOWEyNGEyNjYyYTYxNzVlNjc4OThiMWZjODI5NGM3MDVlMTYw",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Peaches & Eggplants (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Peaches & Eggplants (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+        "name": "Hot N*gga",
+        "url": "https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
         }
       ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+      "duration_ms": 194561,
+      "name": "Hot N*gga",
+      "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1367,38 +1367,34 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Hot N*gga",
-        "url": "https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV"
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
       },
       "artists": [
         {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 194561,
-      "name": "Hot N*gga",
-      "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
+        "name": "My Moment",
+        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
       },
       "artists": [
         {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         }
       ],
-      "duration_ms": 157619,
-      "name": "Weight On Me",
-      "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
+      "duration_ms": 254693,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "My Moment",
-        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         }
       ],
-      "duration_ms": 254693,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
+      "duration_ms": 157619,
+      "name": "Weight On Me",
+      "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
     },
     {
       "added_at": "2023-06-27 06:48:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Jazz in 2023\. Cover: Cisco Swank\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,597 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,643 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [HYPNOSIS](https://open.spotify.com/track/1BN4yBmqYDOAWRPtEfNjax) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 6:10 |
 | 50 | [disconnected](https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Disconnected](https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz) | 2:02 |
 
-Snapshot ID: `MCwyMDc2YzU3ZmZiZmNkMWFlZGZmZDg0ZDRiNzFlYzk1NjBhZTZjMjBh`
+Snapshot ID: `MCw3YjI4YzI5YmE4ZTYwNzQ5MTYyNDYxMTY0OGFkZTY3ODQwMzU0NmU2`

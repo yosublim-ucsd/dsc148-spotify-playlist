@@ -3413,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "CBW",
+          "url": "https://open.spotify.com/artist/04diW1Jyt2jXdG6ZmSgJyu"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105756,
+      "name": "beze mnie luv x sosa type beat (pilot - 29.12.2038)",
+      "url": "https://open.spotify.com/track/0Lfo7TE7iwae7nAPpoBEvR"
+    },
+    {
+      "album": {
         "name": "Paranoja",
         "url": "https://open.spotify.com/album/4tCXIn2l7q23xNcsy1i933"
       },
@@ -4644,7 +4666,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 196106,
       "name": "By\u0142em cz\u0142owiekiem",
       "url": "https://open.spotify.com/track/0nQljvBR8fuT0nmLKZ6hqi"
@@ -8693,6 +8715,24 @@
     },
     {
       "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "DZIE\u0143 \u015aWIRA (outro)",
+      "url": "https://open.spotify.com/track/5AOZE46rlyDT1M5zxQj24b"
+    },
+    {
+      "album": {
         "name": "TERMINAL",
         "url": "https://open.spotify.com/album/3oABI3kcwvR9x1A0m6Na2u"
       },
@@ -9626,7 +9666,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -13922,6 +13962,24 @@
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+    },
+    {
+      "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208188,
+      "name": "JOEY TRIBBIANI",
+      "url": "https://open.spotify.com/track/5fLvitH2z3igxp5haldJhc"
     },
     {
       "album": {
@@ -27042,7 +27100,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 150943,
       "name": "Skippers",
       "url": "https://open.spotify.com/track/4uayCD0blZhblTiQqKLYiC"
@@ -30917,6 +30975,24 @@
     },
     {
       "album": {
+        "name": "2038: WARSZAWA",
+        "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "W KRAJU SCHABOWYCH KOTLET\u00d3W",
+      "url": "https://open.spotify.com/track/2r0tCQsTvEwkKEcZ9pYwZt"
+    },
+    {
+      "album": {
         "name": "Etiuda Zimowa",
         "url": "https://open.spotify.com/album/1AkKpI5xBnlR7XpZnz3Zqh"
       },
@@ -33100,7 +33176,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 184982,
       "name": "Zawsze chcia\u0142em",
       "url": "https://open.spotify.com/track/3SOOMT2jytm1J93CTX3Lnb"

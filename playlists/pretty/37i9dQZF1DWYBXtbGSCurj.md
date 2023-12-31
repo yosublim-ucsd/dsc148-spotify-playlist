@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tasha & Tracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,649 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,674 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Chocolate](https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Chocolate](https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy) | 2:52 |
 | 75 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 
-Snapshot ID: `MCwxZWZmYzU3YTU4MjM4OWM4MzJhZGNhYTkwYzAyMzkwZTg4NzgzZGE5`
+Snapshot ID: `MCxkNWJiNDM0MzkyYjUzNGJjMGI2Njc4ZTZlNzBjNTM4MThhOGFiYjdh`

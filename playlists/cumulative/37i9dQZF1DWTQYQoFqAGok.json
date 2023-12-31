@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/6n5ikOqqyYiJnAmiexXbmx"
+      },
+      "artists": [
+        {
+          "name": "Paulina Fuentes",
+          "url": "https://open.spotify.com/artist/5n692lJsTkWqbYvFkSQTeN"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296960,
+      "name": "Momentos",
+      "url": "https://open.spotify.com/track/1IUjtAcCFIo05a9JaGplyG"
+    },
+    {
+      "album": {
         "name": "Daniel Wong Trio",
         "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"

@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 62324,
+  "num_followers": 62327,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjFiZGIwNjc0MmFjZjJkN2E3YzkzMmVmODQ1ZTE2ZDVkNmI4MjBk",
+  "snapshot_id": "MCwwMzk3ZTgxZTk4ODIwMjc1NDE4YTllNWFmZDEzMGQ0NzJjMTRhYjRk",
   "tracks": [
     {
       "added_at": "2023-12-25 04:12:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-25 04:12:54",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
-    },
-    {
-      "added_at": "2023-12-25 04:12:54",
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 477760,
       "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
+    },
+    {
+      "added_at": "2023-12-25 04:12:54",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
     },
     {
       "added_at": "2023-12-25 04:12:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-25 04:12:54",
       "album": {
-        "name": "Speak No Evil",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 414240,
-      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
-    },
-    {
-      "added_at": "2023-12-25 04:12:54",
-      "album": {
         "name": "Everything I Play Is Funky",
         "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-12-25 04:12:54",
       "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414240,
+      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
+    },
+    {
+      "added_at": "2023-12-25 04:12:54",
+      "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-25 04:12:54",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2023-12-25 04:12:54",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 194000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
+    },
+    {
+      "added_at": "2023-12-25 04:12:54",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
     },
     {
       "added_at": "2023-12-25 04:12:54",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-12-25 04:12:54",
       "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
+    },
+    {
+      "added_at": "2023-12-25 04:12:54",
+      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 389773,
       "name": "Alone And I - Remastered 2007",
       "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
-    },
-    {
-      "added_at": "2023-12-25 04:12:54",
-      "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-12-25 04:12:54",

@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-155 songs - 9 hr 10 min
+156 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Trinchera](https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Trinchera, Vol\. 1](https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G) | 3:18 | 2022-09-06 |  |
 | [Tristeza Litoraleña](https://open.spotify.com/track/43dkp25S0X7YECB74V6LX7) | [María Cuevas](https://open.spotify.com/artist/5s1trlApuOH8ugiUCxWPXX) | [Aguas Nuevas](https://open.spotify.com/album/5ijvaVKCO6Fq6AVkKm65JU) | 3:18 | 2022-01-14 | 2022-08-19 |
 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 | 2022-01-14 |  |
+| [Una canastita](https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Una canastita](https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB) | 2:16 | 2023-12-22 |  |
 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 | 2022-01-14 |  |
 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 | 2022-01-14 |  |
 | [Vuela una lagrima](https://open.spotify.com/track/37dJCBj04mNiUPDRAsDCLg) | [Marina González](https://open.spotify.com/artist/7egtvubyoo0WK5QsIWCfvU) | [Vuela una lagrima](https://open.spotify.com/album/4RVnFfyDV9ZoFvSo8jzNID) | 5:02 | 2023-07-07 | 2023-09-18 |
@@ -158,7 +159,7 @@
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 | 2022-01-14 | 2022-07-29 |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn) | 3:30 | 2022-07-08 |  |
 | [Zamba de Anta](https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc) | [Marián Farias Gómez](https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure) | [Para ir a buscarte](https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9) | 4:34 | 2022-01-14 |  |
-| [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 | 2023-11-10 |  |
+| [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 | 2023-11-10 | 2023-12-31 |
 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 | 2022-01-14 |  |
 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 | 2022-01-14 |  |
 | [Zamba del Viento Libre](https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg) | [Felicitas Argüello](https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw), [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Zamba del Viento Libre](https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K) | 3:43 | 2022-09-23 | 2022-11-07 |

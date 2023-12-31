@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,745 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,706 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 59 | [Hopeless Heart](https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Hopeless Heart](https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc) | 2:31 |
 | 60 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
 | 61 | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo) | 2:16 |
-| 62 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
-| 63 | [Dirty Dancing](https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Dirty Dancing](https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo) | 2:40 |
+| 62 | [Dirty Dancing](https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Dirty Dancing](https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo) | 2:40 |
+| 63 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 64 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 |
 | 65 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 | 66 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
 | 67 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 |
-| 68 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
+| 68 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 |
 | 69 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
-| 70 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 |
+| 70 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
 
-Snapshot ID: `MCwzNTY1Y2VmODA0NDk5NDMxNmM5ODcxYzU2Y2JiNDBmODA5ODNhNGM1`
+Snapshot ID: `MCw5Yzc1NTU1NTQ5YTYzNjQ5NTJiZTVmNWQyZGY0MjdhOTJhNzcwMTA4`

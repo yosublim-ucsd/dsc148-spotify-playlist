@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,774 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,990 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 68 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
 | 69 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
 | 70 | [No Voy A Llorar](https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Folklore Tropical](https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq) | 4:43 |
-| 71 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
-| 72 | [La Colegiada \(Live\)](https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:39 |
+| 71 | [La Colegiada \(Live\)](https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:39 |
+| 72 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
 | 73 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 74 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
 | 75 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 88 | [Carola \(Live\)](https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 2:53 |
 | 89 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 90 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
-| 91 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
-| 92 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
-| 93 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
-| 94 | [Las Amo a las Dos](https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t) | [Cumbias Poblanas](https://open.spotify.com/artist/3SSGvoGR7r1IzKEfe81zyu) | [Cumbias Pa' Seguir Bailando \- Cumbias Poblanas](https://open.spotify.com/album/0tPUMu4zHrmKpwM4a4EjTQ) | 4:49 |
+| 91 | [Las Amo a las Dos](https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t) | [Cumbias Poblanas](https://open.spotify.com/artist/3SSGvoGR7r1IzKEfe81zyu) | [Cumbias Pa' Seguir Bailando \- Cumbias Poblanas](https://open.spotify.com/album/0tPUMu4zHrmKpwM4a4EjTQ) | 4:49 |
+| 92 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
+| 93 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
+| 94 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 | 95 | [Pedir Permiso](https://open.spotify.com/track/1pUD2zi5taWDeHbYsw2wLv) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Pedir Permiso](https://open.spotify.com/album/6EzfwzcnHgoCQNDrYYwDKe) | 3:06 |
 | 96 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
 | 97 | [Corazon Enamorado](https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Antologia](https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 |
 | 100 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
 
-Snapshot ID: `MCw2MTZmNjliYTY0ZmUxYmNmYmYyMDc3ZTgwYjIwZWVhOWQxYmRhYjkx`
+Snapshot ID: `MCwyZTg1MTcyOTkxMWM3OWNhYmQ3MGYwOTE1NmM0NzAyYzYwOTVkN2Nk`

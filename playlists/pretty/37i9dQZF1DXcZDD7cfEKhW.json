@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Tate McRae",
-  "num_followers": 3437500,
+  "num_followers": 3437677,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQyZmQ2ZWJjZjE5MDYxZDBmOWE3NmI5NTM2OGQwZGJlZmFlMTQ0",
+  "snapshot_id": "MCxjZTBmM2NiMDEwZTAzOTNkMzA1NTVlNGNjYjUzZGZiOWFhZDFiZWJm",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1049,26 +1049,6 @@
       "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "One Of Your Girls (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 183818,
-      "name": "One Of Your Girls - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Shivers (Dillon Francis Remix)",
@@ -1087,6 +1067,26 @@
       "duration_ms": 127766,
       "name": "Shivers (Dillon Francis Remix) [Main Mix]",
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "One Of Your Girls (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 183818,
+      "name": "One Of Your Girls - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Eyes Closed (Lost Frequencies Remix)",
-        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 179529,
-      "name": "Eyes Closed - Lost Frequencies Remix",
-      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
@@ -1259,26 +1239,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "By The End Of The Night (southstar Remix)",
-        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "By The End Of The Night - southstar Remix",
-      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/00iyGsi6DHzNKEgko6SeJA"
       },
@@ -1299,22 +1259,42 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+        "name": "Eyes Closed (Lost Frequencies Remix)",
+        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+      "duration_ms": 179529,
+      "name": "Eyes Closed - Lost Frequencies Remix",
+      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1339,22 +1319,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "I'm Not a Girl, Not Yet a Woman (Snakehips Remix)",
-        "url": "https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh"
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 167533,
-      "name": "I'm Not a Girl, Not Yet a Woman - Snakehips Remix",
-      "url": "https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5"
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "I'm Not a Girl, Not Yet a Woman (Snakehips Remix)",
+        "url": "https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "I'm Not a Girl, Not Yet a Woman - Snakehips Remix",
+      "url": "https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Seven (feat. Latto) (Alesso Remix)",
         "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 162480,
       "name": "Seven (feat. Latto) (Alesso Remix)",
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2023-11-24 05:00:00",

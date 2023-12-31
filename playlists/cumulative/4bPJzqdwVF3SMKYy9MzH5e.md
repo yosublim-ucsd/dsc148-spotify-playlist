@@ -4,7 +4,7 @@
 
 > 
 
-1,842 songs - 4 day 3 hr 36 min
+1,844 songs - 4 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Apple Cider](https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 2:58 | 2022-12-07 |  |
 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 | 2022-02-04 |  |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-08-05 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 | 2023-12-30 |  |
 | [Arms Tonite](https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:36 | 2022-04-03 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2021-08-05 |  |
 | [Around the Fur](https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:31 | 2022-02-18 |  |
@@ -874,6 +875,7 @@
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2022-04-03 |  |
 | [Italy](https://open.spotify.com/track/032FKmPm1J1xXFoCqHl8cS) | [Reyn Hartley](https://open.spotify.com/artist/4v1IssGK0vWAyG0eK1aY21) | [Italy](https://open.spotify.com/album/0lfiz8whX8XquqSB2lJaa1) | 2:52 | 2021-08-05 |  |
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2023-04-18 |  |
+| [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2023-12-30 |  |
 | [IZ\-US](https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-02-18 |  |
 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 | 2022-06-13 |  |
 | [Japan](https://open.spotify.com/track/6LwYUSaVJLdTwrziHEUSxM) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Japan](https://open.spotify.com/album/3UFmxeMjw1aX5kby38JvsY) | 2:54 | 2022-06-27 |  |

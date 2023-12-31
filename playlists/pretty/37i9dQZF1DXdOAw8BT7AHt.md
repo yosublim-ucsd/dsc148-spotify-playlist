@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Problem Patterns
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,033 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,032 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 38 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
 | 39 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
 | 40 | [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 |
-| 41 | [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 |
-| 42 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
+| 41 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
+| 42 | [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 |
 | 43 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
 | 44 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 |
 | 45 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 49 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 |
 | 50 | [Drop](https://open.spotify.com/track/2OxH7BbCRiY9fldXLX4VhI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Drop](https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl) | 2:15 |
 | 51 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 |
-| 52 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
-| 53 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
-| 54 | [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 |
+| 52 | [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 |
+| 53 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
+| 54 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 55 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 |
 | 56 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 |
 | 57 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
 | 80 | [Piece of Me](https://open.spotify.com/track/4WlZkSjQ0ZJlZfhwVcQmXB) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Piece of Me](https://open.spotify.com/album/06LTuc8p6IdzP0lGil2aCZ) | 3:06 |
 
-Snapshot ID: `MCxjNmZkZDFjMmU5N2FiMGM4Njc1OTEyZjRiNzMwOGNiMDUwNjgyODRk`
+Snapshot ID: `MCw5Y2FjMjdjOTc3MGFkMDM4OTY5OTY3NDgwNDcxMGRmMzYyNjg4M2Uy`

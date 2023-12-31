@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 173775,
+  "num_followers": 173800,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWYyMzUzNWM1MTA5YzQ5MTA3NWUzYzcyOTFlYjJkNjJkZjVjN2E5",
+  "snapshot_id": "MCwxODdmZTk5NmM2MTEzZmM4MGFiYzM1Mjg5YmJiYTc5ZWVlZTQ0MTc4",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+      "duration_ms": 211200,
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Cursis Melod\u00edas",
-      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Bah\u00eda Margarita",
         "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 237652,
       "name": "Daikiri",
       "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Cursis Melod\u00edas",
+      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4gULoExlmk3JJFZgijqHNk"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0ykuiiJRJD5OasJuMH0DTV"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2023-10-12 20:02:07",

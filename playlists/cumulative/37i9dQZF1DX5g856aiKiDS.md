@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-293 songs - 16 hr 30 min
+294 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [DAYDREAM](https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 3:43 | 2022-04-21 | 2022-07-25 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-22 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-21 | 2022-07-27 |
-| [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 |  |
+| [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 | 2023-12-31 |
 | [Dear\. My Side](https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH) | [Park Do Ha](https://open.spotify.com/artist/6Mv1YjL5xpxbMLTgIqdgul) | [Dear\. My Side](https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4AV0ut96Eb4YKLapf73pIA) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/2V1ioOPgIrbSdeykkaKKIB) | 2:47 | 2022-05-11 | 2022-05-15 |
 | [Dingo X george \- camping everywhere](https://open.spotify.com/track/5W4NBJlxKhQx5DOVrA40FO) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Dingo X george \- camping everywhere](https://open.spotify.com/album/4Kd2sem3h2odSptpwtcaKr) | 2:57 | 2022-04-12 | 2022-07-25 |
@@ -107,6 +107,7 @@
 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-08 | 2022-10-14 |
 | [How much more \(Feat\. Chan\)](https://open.spotify.com/track/0n7dhbhACD43sGsvGwJ1St) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Love & Groove](https://open.spotify.com/album/11tgnCPolVS02npePYySB0) | 3:21 | 2023-10-29 | 2023-11-05 |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-07-23 |
+| [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-12-06 |  |
 | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/track/78kl659eYAIUCkt6LZ4fGE) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/album/65341el3J8XVp20K1glcRU) | 4:09 | 2022-04-12 | 2022-04-21 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-12 |  |
 | [I](https://open.spotify.com/track/0IH4sgZpBfmu8HIP0t0uFA) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [I](https://open.spotify.com/album/36ZdMvrdImhGvUXE3qF1Wj) | 3:35 | 2022-04-21 | 2022-07-29 |

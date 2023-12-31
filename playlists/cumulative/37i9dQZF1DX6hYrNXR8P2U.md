@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas.
 
-138 songs - 7 hr 23 min
+139 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-11-24 |  |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-10-13 |  |
 | [Beso a Beso](https://open.spotify.com/track/70l4rAWoSEdtir2jTs88Cd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Es infinito](https://open.spotify.com/artist/6mjMtFxKociqdKI14Ug3ec) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:33 | 2023-12-15 |  |
-| [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 | 2023-10-13 |  |
+| [bien](https://open.spotify.com/track/2ZafAJuC7oYKtPOnO0uTnW) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1tfZOsRed1FZUuPDuSDSZC) | 3:00 | 2023-12-21 |  |
+| [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 | 2023-10-13 | 2023-12-31 |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-08 |  |
 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 | 2023-10-13 |  |
 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 | 2023-11-10 |  |

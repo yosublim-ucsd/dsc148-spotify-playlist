@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102043,
+  "num_followers": 102084,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
+  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+      "duration_ms": 197946,
+      "name": "Tu Historia Fue Conmigo",
+      "url": "https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 197946,
-      "name": "Tu Historia Fue Conmigo",
-      "url": "https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg"
+      "duration_ms": 188413,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Borr\u00f3n y Cuenta Nueva",
-        "url": "https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 200611,
-      "name": "Me Gustas Para Mi",
-      "url": "https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "M\u00e1s Enamorada Con Banda",
         "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 194520,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/1IJ3AiMHt24pgPxFg8HDMI"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 200611,
+      "name": "Me Gustas Para Mi",
+      "url": "https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Acusticos",
-        "url": "https://open.spotify.com/album/3z60Miy63g9fODH4UPwuhK"
-      },
-      "artists": [
-        {
-          "name": "Octubre Doce",
-          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Volver da Flojera",
-      "url": "https://open.spotify.com/track/5ZeGUTktmQ7SB7I1IuppG3"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Mi Premio O Mi Castigo",
         "url": "https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 147378,
       "name": "Mi Premio O Mi Castigo",
       "url": "https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Acusticos",
+        "url": "https://open.spotify.com/album/3z60Miy63g9fODH4UPwuhK"
+      },
+      "artists": [
+        {
+          "name": "Octubre Doce",
+          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Volver da Flojera",
+      "url": "https://open.spotify.com/track/5ZeGUTktmQ7SB7I1IuppG3"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Irreversible... 2012",
-        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
+        "name": "Libre Otra Vez",
+        "url": "https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Te Prometo",
-      "url": "https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41"
+      "duration_ms": 223493,
+      "name": "Miento",
+      "url": "https://open.spotify.com/track/28cMigsVvHrG7Udcmf3QFF"
     }
   ],
   "unique_name": "Cancionero Horacio Palencia",

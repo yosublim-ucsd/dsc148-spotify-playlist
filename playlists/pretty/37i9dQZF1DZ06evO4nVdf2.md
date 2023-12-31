@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,237 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,246 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 44 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 45 | [Agua Salada](https://open.spotify.com/track/4zZU1HHT7TcfluhNFfIyLN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuba Pintada](https://open.spotify.com/album/4aq6JOU5CaorKccaLlzxAi) | 3:30 |
 | 46 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
-| 47 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 |
-| 48 | [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 |
+| 47 | [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 |
+| 48 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 |
 | 49 | [El Amor Más Grande](https://open.spotify.com/track/62K8tEf4hr6MpP31v2wWdf) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:26 |
-| 50 | [Different](https://open.spotify.com/track/2jQ83plqEYklrHY4gaH8a6) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ximena Sariñana](https://open.spotify.com/album/02fElefA2BuDDn5MWsqyfc) | 3:37 |
-| 51 | [Explosion](https://open.spotify.com/track/4eBlUQDIOPxkvkQpFJURY0) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 2:54 |
+| 50 | [Explosion](https://open.spotify.com/track/4eBlUQDIOPxkvkQpFJURY0) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 2:54 |
+| 51 | [Different](https://open.spotify.com/track/2jQ83plqEYklrHY4gaH8a6) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ximena Sariñana](https://open.spotify.com/album/02fElefA2BuDDn5MWsqyfc) | 3:37 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDBmOWFiNzk5YWFmMjUxYWY5N2E0Yzk0YjAwZmU3NDk2YQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA0NThjNDIwODM2YTFlMTI4ZmYyZTVjNWVlNTViZDY3MQ==`

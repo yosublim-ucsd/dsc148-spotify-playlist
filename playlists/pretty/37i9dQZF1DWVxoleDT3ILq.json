@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Yorka",
-  "num_followers": 127677,
+  "num_followers": 127673,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTU5YTZjNDUzOTRjYjc4ZGM0YTc0ODJhYzlmNjczNzU1Mzg3ODhl",
+  "snapshot_id": "MCxjNWJmNjk4MGNmZWRlZThmODE0OTk0YzhkMjMyMTJlNjVkMGFiNTgx",
   "tracks": [
     {
       "added_at": "2023-12-22 23:48:44",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Palabritas y Palabrotas",
-        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Para la Patada y el Combo",
-      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "tu voz en mis aud\u00edfonos",
         "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 193786,
       "name": "tu voz en mis aud\u00edfonos",
       "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Palabritas y Palabrotas",
+        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Para la Patada y el Combo",
+      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
+        "name": "DULCE BESO",
+        "url": "https://open.spotify.com/album/5YLKO3Krg4pK7zZUKqpnXC"
+      },
+      "artists": [
+        {
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+        }
+      ],
+      "duration_ms": 125651,
+      "name": "DULCE BESO",
+      "url": "https://open.spotify.com/track/7mH047VdrRvKcHkyUiAeYH"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
         "name": "Apoyo Emocional",
         "url": "https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 221826,
       "name": "El Sonido De Las Campanas",
       "url": "https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
-        "name": "DULCE BESO",
-        "url": "https://open.spotify.com/album/5YLKO3Krg4pK7zZUKqpnXC"
-      },
-      "artists": [
-        {
-          "name": "White MJ",
-          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
-        }
-      ],
-      "duration_ms": 125651,
-      "name": "DULCE BESO",
-      "url": "https://open.spotify.com/track/7mH047VdrRvKcHkyUiAeYH"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Retazos de Diciembre",
-        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Retazos de Diciembre",
-      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "Bien Mal",
         "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 180554,
       "name": "Bien Mal",
       "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Retazos de Diciembre",
+        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Retazos de Diciembre",
+      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Nochecita en B.A",
-        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nochecita en B.A",
-      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -911,42 +895,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
-        "name": "Verte",
-        "url": "https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        },
-        {
-          "name": "Mu\u00f1ecas",
-          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
-        }
-      ],
-      "duration_ms": 225641,
-      "name": "Verte",
-      "url": "https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -963,6 +911,38 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Nochecita en B.A",
+        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Nochecita en B.A",
+      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -987,22 +967,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Te puedes ir, amor",
-        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm"
       },
       "artists": [
         {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
         },
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
         }
       ],
-      "duration_ms": 189625,
-      "name": "Te puedes ir, amor",
-      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
+      "duration_ms": 225641,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1019,6 +999,26 @@
       "duration_ms": 187504,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Te puedes ir, amor",
+        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Te puedes ir, amor",
+      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Debe Ser Mi Culpa",
-        "url": "https://open.spotify.com/album/3lwcj0FwuE4Oz7jB2GSDAz"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 269047,
-      "name": "Debe Ser Mi Culpa",
-      "url": "https://open.spotify.com/track/3htUaYb6Tl4EbE3Gyz6rbn"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
+        "name": "Debe Ser Mi Culpa",
+        "url": "https://open.spotify.com/album/3lwcj0FwuE4Oz7jB2GSDAz"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 269047,
+      "name": "Debe Ser Mi Culpa",
+      "url": "https://open.spotify.com/track/3htUaYb6Tl4EbE3Gyz6rbn"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
         "name": "AMOR MINIMAL",
         "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 206750,
       "name": "Decid\u00ed",
       "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1171,22 +1187,6 @@
       "duration_ms": 187554,
       "name": "Herida",
       "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Lo Que No Hablas",
-        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208441,
-      "name": "Lo Que No Hablas",
-      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "Al calor de un sol que acaba de morir",
         "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
+        "name": "Lo Que No Hablas",
+        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 208441,
+      "name": "Lo Que No Hablas",
+      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
         "name": "\u00c9pica",
         "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 194756,
       "name": "Sin Fama ni Fortuna",
       "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
+        "name": "Desolaci\u00f3n",
+        "url": "https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 271656,
+      "name": "Desolaci\u00f3n",
+      "url": "https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Desolaci\u00f3n",
-        "url": "https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 271656,
-      "name": "Desolaci\u00f3n",
-      "url": "https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "\u00daltimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
       },
@@ -1515,22 +1499,18 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "abracadabra",
-        "url": "https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo"
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        },
-        {
-          "name": "xsickboi",
-          "url": "https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 194357,
-      "name": "abracadabra",
-      "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1547,6 +1527,26 @@
       "duration_ms": 300272,
       "name": "La Casa Gana",
       "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "abracadabra",
+        "url": "https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "xsickboi",
+          "url": "https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC"
+        }
+      ],
+      "duration_ms": 194357,
+      "name": "abracadabra",
+      "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
-        "name": "Amarte as\u00ed",
-        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
+        "name": "Amarte as\u00ed",
+        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
     },
     {
       "added_at": "2023-12-22 23:48:44",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-12-22 23:48:44",
       "album": {
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+      },
+      "artists": [
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+    },
+    {
+      "added_at": "2023-12-22 23:48:44",
+      "album": {
         "name": "Tu Demente",
         "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 238000,
       "name": "PISCINA OL\u00cdMPICA",
       "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2023-12-22 23:48:44",
-      "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
-      },
-      "artists": [
-        {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
-        }
-      ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
     }
   ],
   "unique_name": "Indie Chile",

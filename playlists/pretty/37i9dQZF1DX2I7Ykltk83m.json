@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 354524,
+  "num_followers": 354610,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY4OTdjYjYwNzAwNjI1NzRjZmQzMTNiZDlhM2MxYTlmMDMzYjEz",
+  "snapshot_id": "MCwxYTgzYmFlZTlkZjFmZmM0MDNiMWJkNTNmODdmZjVjMzNiMjY4MDJi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Waltzing Back",
         "url": "https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "I Don't Recognise You",
-      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Bunny Is A Rider",
         "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193957,
       "name": "Bunny Is A Rider",
       "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 275013,
+      "name": "I Don't Recognise You",
+      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "All of This Will End",
+        "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 203116,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "All of This Will End",
-        "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 203116,
-      "name": "The Water",
-      "url": "https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Subtitles",
         "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 245172,
       "name": "Subtitles",
       "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Come Apart",
-      "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hospital (One Man Down)",
         "url": "https://open.spotify.com/album/25iq2f67q6Je815D44cXPu"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 207016,
       "name": "Hospital (One Man Down) (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "When You Walk A Long Distance You Are Tired",
-        "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
-      },
-      "artists": [
-        {
-          "name": "Mothers",
-          "url": "https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv"
-        }
-      ],
-      "duration_ms": 333514,
-      "name": "It Hurts Until It Doesn't",
-      "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 179146,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "When You Walk A Long Distance You Are Tired",
+        "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
+      },
+      "artists": [
+        {
+          "name": "Mothers",
+          "url": "https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv"
+        }
+      ],
+      "duration_ms": 333514,
+      "name": "It Hurts Until It Doesn't",
+      "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
     },
     {
       "added_at": "2023-10-27 04:00:00",

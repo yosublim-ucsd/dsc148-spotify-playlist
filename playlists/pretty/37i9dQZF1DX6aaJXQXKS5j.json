@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 28816,
+  "num_followers": 28833,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjdkYmEwOTYyNWMxYzk5OTFiYWE5ZTU3ZjhjMjFiNzY5NWNkMTM0",
+  "snapshot_id": "MCxhZTc4YTEzZWI5ODc2MGJmNDM4M2I2OWZkMzYyZjdhNGVhMmUxMjgx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -871,18 +871,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "De Museo",
-        "url": "https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 209770,
-      "name": "De Museo",
-      "url": "https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm"
+      "duration_ms": 258280,
+      "name": "P FKN R",
+      "url": "https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi"
     }
   ],
   "unique_name": "Trap Bunny",

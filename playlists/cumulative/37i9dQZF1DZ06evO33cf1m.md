@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 30 min
+63 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [De Memoria Me Las Sé](https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Memoria Me Las Sé](https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl) | 2:43 | 2023-08-08 | 2023-11-11 |
 | [De Ti Exclusivo](https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:14 | 2023-08-08 |  |
 | [Disponible Para Mi](https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:26 | 2023-08-08 |  |
-| [El Amor De Tu Vida](https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Amor De Tu Vida](https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF) | 3:04 | 2023-12-13 |  |
+| [El Amor De Tu Vida](https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Amor De Tu Vida](https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF) | 3:04 | 2023-12-13 | 2023-12-31 |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2023-08-08 |  |
+| [El Precio De Mis Errores](https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:47 | 2023-12-30 |  |
 | [El Ruido De Tus Zapatos](https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 4:25 | 2023-08-08 |  |
-| [El Tarasco](https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores](https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM) | 3:09 | 2023-09-15 |  |
+| [El Tarasco](https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores](https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM) | 3:09 | 2023-09-15 | 2023-12-31 |
 | [El Vaso Derrama](https://open.spotify.com/track/1Y9ngFP6W8X5sCswNZVRVH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:23 | 2023-08-08 | 2023-12-14 |
 | [En Los Puritos Huesos](https://open.spotify.com/track/3EbJCtH2eZ3XdtEgW5OjYf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 2:53 | 2023-08-08 |  |
 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 | 2023-08-08 |  |

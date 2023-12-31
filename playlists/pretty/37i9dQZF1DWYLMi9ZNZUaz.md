@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,848 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,952 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
 | 50 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 |
 
-Snapshot ID: `MCw2ZTUyODExMjAzNjcxOTA4MmM1ODgwMmQ5N2I1YTJmYjM2YTkxYWZl`
+Snapshot ID: `MCwzNDI4MDg2YTlmNjBkYzdkZjE1OWFiNjliNjkyNTEzM2VhMTgzYTMy`

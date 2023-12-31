@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277366,
+  "num_followers": 277378,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj",
+  "snapshot_id": "MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 293946,
-      "name": "Looking For Your Name",
-      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK) [Acoustic]",
         "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 218526,
       "name": "Head & Heart (feat. MNEK) - Acoustic",
       "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 293946,
+      "name": "Looking For Your Name",
+      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1083,30 +1083,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 188527,
-      "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1135,22 +1127,30 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
+        "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
+      "duration_ms": 188527,
+      "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Shed a Light (The Remixes Part 2)",
         "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1515,6 +1515,30 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Real Life (Acoustic)",
+        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NAATIONS",
+          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Real Life - Acoustic",
+      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Grabbitz - Friends EP",
         "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
@@ -1527,26 +1551,6 @@
       "duration_ms": 61711,
       "name": "7.6.14 (Intro)",
       "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1575,26 +1579,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Real Life (Acoustic)",
-        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NAATIONS",
-          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Real Life - Acoustic",
-      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-10-06 04:01:00",

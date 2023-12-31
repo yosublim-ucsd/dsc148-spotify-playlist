@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-90 songs - 5 hr 27 min
+91 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Miracle](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Miracle \- SM STATION](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) | 4:12 | 2023-12-06 |  |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2023-11-03 |  |
 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 | 2023-11-03 |  |
-| [My Star](https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Dearest \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu) | 3:55 | 2023-11-03 |  |
+| [My Star](https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Dearest \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu) | 3:55 | 2023-11-03 | 2023-12-31 |
 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 | 2023-11-03 |  |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-11-03 |  |
 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 | 2023-11-03 |  |
@@ -94,6 +94,7 @@
 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2023-11-03 |  |
 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 | 2023-11-03 |  |
 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-11-03 |  |
+| [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 | 2023-12-06 |  |
 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-11-03 | 2023-12-14 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-11-03 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2023-11-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 14676,
+  "num_followers": 14690,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTFjNzA4ZmUwOTFjMzRiZmM2NTI5ODA2N2RkOGFhZjBlNTg2YjZl",
+  "snapshot_id": "MCxjMDhiODRjNzE3M2U1MzY3MGFmNzk5NGVhZDBiNjk1OTBiMDI0MWVj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:10:45",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-12-06 09:10:45",
       "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2023-12-06 09:10:45",
+      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
-    },
-    {
-      "added_at": "2023-12-06 09:10:45",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2023-12-06 09:10:45",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-06 09:10:45",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2023-12-06 09:10:45",
-      "album": {
         "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 190520,
       "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
       "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+    },
+    {
+      "added_at": "2023-12-06 09:10:45",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2023-12-06 09:10:45",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-12-06 09:10:45",
       "album": {
-        "name": "Some Day in the 21century",
-        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 235320,
-      "name": "Some Day in the 21century",
-      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",

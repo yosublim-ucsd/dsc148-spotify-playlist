@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 167583,
+  "num_followers": 167565,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTkzZTZkMjI4YWM2YWFiNTc0ZjI3MWU0ODhlZDQzYWJiNjUxYzg4",
+  "snapshot_id": "MCw3MGE4ZTFkZTI0ZTIzMDc4ODRhMjE1ZjQ5MWM2NGM1NWM4Njg5ZGQz",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "Gold Rush Kid (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "Gold Rush Kid (Christmas Edition)",
-        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "added_at": "2023-08-15 20:30:18",

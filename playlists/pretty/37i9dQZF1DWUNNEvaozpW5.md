@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,631 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,740 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [100.000 bolas de cristal](https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Acantilados](https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A) | 4:37 |
 | 100 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 |
 
-Snapshot ID: `MCw2ZmU0ZWY4NjJkOGUzNzc0MDZjM2U1N2FiMDJjZjFlYmRjODY5MmJk`
+Snapshot ID: `MCw3NzhmOTliMzRjYjdlOWUyNzI5MzM1NDYyZjc1YzMxZGFiMTRiYWY1`

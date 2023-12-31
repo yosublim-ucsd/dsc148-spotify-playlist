@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,411 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,452 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Ni Por Mil Punados De Oro](https://open.spotify.com/track/55tDGwgbcDOaMzCaHaBjk1) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ni Por Mil Punados De Oro](https://open.spotify.com/album/6EznMOZQJh3StfuuffDbzX) | 2:32 |
 | 50 | [Señor Dios](https://open.spotify.com/track/76pn7rTenurEuF5ZPTfIG3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:21 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDA2ZTY1NjkwYjVhYzA1NzllMmY4YTY1YmI0MWZlNzY1ZQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDBjMWM0YzA4ZGFkOGYzNGI2OGM2MDFjOWRlNTlkMDJjYg==`

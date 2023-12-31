@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: \u00c9l\u00e9gie",
-  "num_followers": 3707,
+  "num_followers": 3713,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzYzOWM2NjBhYjMxMmRlZDY5YWNlNTU3MjMwNTU2Nzc1Y2ZlMmFl",
+  "snapshot_id": "MCwzZDJlNDc3MzA4ZmZlZTU4Y2Q1ZWI5NzIxMTc1YWY0NWI4MWFiMTVi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Une autre vie",
-        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "Une autre vie",
-      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 202996,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Une autre vie",
+        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Une autre vie",
+      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 253546,
-      "name": "La vie attend pas",
-      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "We Are Sunshine",
         "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "La vie attend pas",
+      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "M\u00e9lamine",
-      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "mile \u200eend (kiss ur friends)",
         "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192000,
       "name": "\u200emile \u200eend",
       "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "M\u00e9lamine",
+      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DVTR",
-        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
-      },
-      "artists": [
-        {
-          "name": "DVTR",
-          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "DVTR",
-      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Viendras-tu pleurer?",
         "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DVTR",
+        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "DVTR",
+      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Parfaite \u00e0 l'\u00e9cran",
-        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
+        "name": "L'heure id\u00e9ale",
+        "url": "https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "Jesuslesfilles",
+          "url": "https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
+      "duration_ms": 204413,
+      "name": "Doux doux",
+      "url": "https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D"
     }
   ],
   "unique_name": "ALT_QC",

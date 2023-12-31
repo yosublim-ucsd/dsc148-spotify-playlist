@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-514 songs - 1 day 9 hr 22 min
+515 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Battles Are Won Within](https://open.spotify.com/track/1x3h4Gt8q5lr3lCr9DwW40) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Battles Are Won Within](https://open.spotify.com/album/2SxBnU5KV2nnjndfDlQgqZ) | 3:56 | 2021-12-17 | 2022-07-23 |
 | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD) | 3:43 | 2023-03-24 |  |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-04-15 | 2023-12-24 |
+| [Behind the Crowd](https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Bleed\-Abide](https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4) | 3:14 | 2023-12-13 |  |
 | [Behind the Hand of God](https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Behind the Hand of God](https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp) | 3:20 | 2021-12-17 |  |
 | [Behold The Crown](https://open.spotify.com/track/4sIPJ0x9xEabKrsGxDP2kb) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 4:34 | 2022-07-08 | 2022-11-06 |
 | [Behold The Crown](https://open.spotify.com/track/5PFkELKIBBztVIZYh9eBYT) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/1UTq74jYfOIWst1gXyE05p) | 4:34 | 2022-10-27 |  |
@@ -107,7 +108,7 @@
 | [Creators Conscience](https://open.spotify.com/track/1abb8ARLTeyvmFOTisjUbY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dawn](https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw) | 3:29 | 2021-12-17 | 2022-03-12 |
 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 |  |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2021-12-17 | 2022-07-29 |
-| [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 |  |
+| [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 | 2023-12-31 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-07-27 |
 | [Cursed \- Isolation Mix](https://open.spotify.com/track/2H6ipymZ6rpUQs5GiEQi5p) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Cursed \(Isolation Mix\)](https://open.spotify.com/album/39FiwWensu2cYSQFQUO8t5) | 5:24 | 2021-12-17 | 2022-07-25 |
 | [Cut off the Head](https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Cut Off The Head](https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv) | 3:30 | 2023-01-20 |  |

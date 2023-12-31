@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,193 likes - 99 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,297 likes - 99 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 98 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 |
 | 99 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 |
 
-Snapshot ID: `MCxiODNiYWQxMjM3YWIwOTkxNTgxM2U5OWFhNDcyOGNkMzA0ZDk5NzYz`
+Snapshot ID: `MCwwYWZiYTZmNjQzM2Q2ODczMGZhZTI0OTRmZDhkYjk5MGM2YzJmMzA4`

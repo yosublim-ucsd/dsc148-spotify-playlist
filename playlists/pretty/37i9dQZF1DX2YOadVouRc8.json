@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 20454,
+  "num_followers": 20469,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDEwNTE3ZWFkNmFmMzNiMmRiNTZmNTEzYWZmMWExNWQ1OTQ4ZDdm",
+  "snapshot_id": "MCw4Nzc3MjAxMDk4OTAwMDkzZDBlNzAwNGE0NmVmZWQzZWIxMzJjYzYy",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 250920,
       "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Push (feat. Omah Lay)",
         "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2023-12-22 00:01:00",

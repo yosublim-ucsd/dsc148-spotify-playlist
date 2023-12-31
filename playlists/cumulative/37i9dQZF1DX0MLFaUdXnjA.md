@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Nessa Barrett
 
-1,525 songs - 3 day 9 hr 56 min
+1,526 songs - 3 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,6 +1479,7 @@
 | [Where Am I At](https://open.spotify.com/track/6QMgSasUZYyVzaAvc7BYLZ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Where Am I At](https://open.spotify.com/album/0oiUtTyxDcpLzvLqBykjY8) | 3:28 | 2020-04-26\* | 2020-05-16 |
 | [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 | 2023-07-14 | 2023-07-29 |
 | [Where You Are](https://open.spotify.com/track/6GJoFuKS9JRNmNgGJzCDmW) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP) | 3:31 | 2020-10-09 | 2021-01-15 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-29 |  |
 | [While I'm Alive](https://open.spotify.com/track/0ajbF8tQsSRxswoY9ZFtOg) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 3:30 | 2021-07-28 | 2021-08-14 |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 |  |
 | [Who I Am](https://open.spotify.com/track/5VAjXfxwzSHM2FRLajSGqE) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Who I Am](https://open.spotify.com/album/4CaswCXDKBPH64WcMIUNGs) | 3:23 | 2020-10-16 | 2020-10-23 |

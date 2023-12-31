@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 789605,
+  "num_followers": 789672,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjU4NTc3OTgxNzk2MWIzZjRmMGFhODhiZWMxZGVmZDdhOWIzNWE2",
+  "snapshot_id": "MCwwMWJhMGE4YzA3YmY5OTIzYzc3Y2U2YjJjNGM1NDUxOGQyM2ZmZjY5",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Musica para Churrasco, Vol. 2",
         "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267413,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Essa Boneca Tem Manual (Com Faixa B\u00f4nus)",
-        "url": "https://open.spotify.com/album/6MuP4aOswy9Vc6NuIHtmY6"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Ainda Bem",
-      "url": "https://open.spotify.com/track/5wG7UpUik9lpxUWjQFadPo"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Verdade (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 191254,
       "name": "Potinho - Ao Vivo",
       "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Essa Boneca Tem Manual (Com Faixa B\u00f4nus)",
+        "url": "https://open.spotify.com/album/6MuP4aOswy9Vc6NuIHtmY6"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "Ainda Bem",
+      "url": "https://open.spotify.com/track/5wG7UpUik9lpxUWjQFadPo"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2023-12-11 13:23:48",

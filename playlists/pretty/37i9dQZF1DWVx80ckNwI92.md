@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,021 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,022 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 50 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
 
-Snapshot ID: `MCwzNWU0MWM0YmYyMWI5NGI0NmI1ZDM4ODRmNDViYzIzNzg2NjE2MmM4`
+Snapshot ID: `MCwyMmYyYjFhZmU0MTlmYWY3ODVmNGU4ZWVhMmVkMWZmMDU3ZTNhYTY4`

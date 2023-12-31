@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 76787,
+  "num_followers": 76777,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGJlYzc3YTRiY2Q4NDA4NTI2ZTZiNGE0NTUyMzc1MDA1YWNhYWU4",
+  "snapshot_id": "MCwyMjIwNTFkOWEyOWM4OTQ2MTg1MWUwNTk0NmVmMDEwMjMwNTcwNzhk",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Inheritance",
         "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
       },
@@ -1439,6 +1419,26 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 186026,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "For God Is With Us",
+        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1471,22 +1487,6 @@
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "For God Is With Us",
-        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "You Will Be Saved",
         "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Decades of Worship",
-        "url": "https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 417840,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Call on Your Name",
         "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Decades of Worship",
+        "url": "https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 417840,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "No One Like Our God",
-        "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
+        "name": "A Worshipper's Heart (Live)",
+        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 249080,
-      "name": "No One Like Our God",
-      "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
+      "duration_ms": 344733,
+      "name": "Victory Belongs To Jesus (Live)",
+      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2603,6 +2603,22 @@
       "duration_ms": 338466,
       "name": "Risen",
       "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "No One Like Our God",
+        "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "No One Like Our God",
+      "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2627,34 +2643,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "A Worshipper's Heart (Live)",
-        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
+        "name": "Worthy One",
+        "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344733,
-      "name": "Victory Belongs To Jesus (Live)",
-      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
-      },
-      "artists": [
+          "name": "CLINE",
+          "url": "https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj"
+        },
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Mo Pitney",
+          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
         }
       ],
-      "duration_ms": 500453,
-      "name": "Waymaker - Bonus Track, Live",
-      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
+      "duration_ms": 236806,
+      "name": "Worthy One",
+      "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
     }
   ],
   "unique_name": "Easter",

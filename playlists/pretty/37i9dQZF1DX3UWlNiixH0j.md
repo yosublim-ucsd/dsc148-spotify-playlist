@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: CAR10
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,411 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,429 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 69 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 |
 | 70 | [今日はひとりでいようね](https://open.spotify.com/track/5Ouw9H4ioGNTdANf6qYOWi) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 5:21 |
 | 71 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 |
-| 72 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 |
-| 73 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
+| 72 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
+| 73 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 |
 | 74 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 |
 | 75 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
 | 76 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 78 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 |
 | 79 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
 | 80 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
-| 81 | [遠い街](https://open.spotify.com/track/1D2Bn2AInJvhZnkdZhPBW6) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [DISTANCES](https://open.spotify.com/album/6oqE4ErJa0PD0I1xajeA8e) | 3:56 |
-| 82 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
+| 81 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
+| 82 | [遠い街](https://open.spotify.com/track/1D2Bn2AInJvhZnkdZhPBW6) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [DISTANCES](https://open.spotify.com/album/6oqE4ErJa0PD0I1xajeA8e) | 3:56 |
 | 83 | [APART](https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [APART](https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC) | 3:16 |
-| 84 | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 |
-| 85 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 |
+| 84 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 |
+| 85 | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 |
 | 86 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 |
 | 87 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 |
 | 88 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 91 | [在夜市再見](https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [在夜市再見](https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5) | 4:42 |
 | 92 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 |
 | 93 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
-| 94 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 |
+| 94 | [Nanairo Colorful](https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Nanairo Colorful](https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq) | 2:42 |
 | 95 | [遠い朝](https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [遠い朝](https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs) | 3:03 |
-| 96 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
-| 97 | [Nanairo Colorful](https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Nanairo Colorful](https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq) | 2:42 |
+| 96 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 |
+| 97 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
 | 98 | [あなたの走馬灯に出れたら](https://open.spotify.com/track/2eJNSD8yq12EtrbJjQIjYD) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [あなたの走馬灯に出れたら](https://open.spotify.com/album/10uoBh2SE89VMu6MHvvBCA) | 3:10 |
 | 99 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 |
 | 100 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 
-Snapshot ID: `MCw4NjI4NjFmNDU4NjA0NTVhYzZiMTllZjYwYjc5MmVkZTBlMzBhOWU0`
+Snapshot ID: `MCw0OTQ4NGRkNTcwODNiMDhjMjU5ODQ2OGRiZjljNDY4NjI2ZTM3ZGQ0`

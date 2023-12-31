@@ -1523,6 +1523,40 @@
     },
     {
       "album": {
+        "name": "Guntur Kaaram",
+        "url": "https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Mahesh Babu",
+          "url": "https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216558,
+      "name": "Kurchi Madathapetti",
+      "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
+    },
+    {
+      "album": {
         "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
         "url": "https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ"
       },
@@ -2288,7 +2322,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 156497,
       "name": "Oh My Baby",
       "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"

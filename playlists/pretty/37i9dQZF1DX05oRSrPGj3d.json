@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Cody Johnson is taking over to celebrate the release of his new album \"Leather\"!",
-  "num_followers": 249099,
+  "num_followers": 249190,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTk4YmNiNGRjYjc5ZTYwN2E2MjZhYjY3Y2JjY2E4ODBjMDcxYThi",
+  "snapshot_id": "MCxlNDQzNGVhYzIwMDlkOTg5ZjRhMmZkMWNmYTllMThmNjE2MTc3N2Iz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "And You Are Me",
+        "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Keep The Wolves Away",
+      "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Dear Rodeo",
-      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "And You Are Me",
-        "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Keep The Wolves Away",
-      "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
+      "duration_ms": 254653,
+      "name": "Dear Rodeo",
+      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
     },
     {
       "added_at": "2023-11-03 04:00:00",

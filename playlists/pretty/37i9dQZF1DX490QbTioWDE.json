@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 669289,
+  "num_followers": 669797,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE1N2Q0OTYyNzQwMWQ4YmUwOWRhMzc5NDU1NWM2ZGUwZDdmODI5",
+  "snapshot_id": "MCw2ZDEyZDRhZWRlNDA1ZDg0OGVmYzc2ZmY0MGUzOWI2ZGZlM2MxNmM1",
   "tracks": [
     {
       "added_at": "2023-12-29 16:49:31",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-12-29 16:49:31",
       "album": {
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+    },
+    {
+      "added_at": "2023-12-29 16:49:31",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2023-12-29 16:49:31",
-      "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2023-12-29 16:49:31",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2023-12-29 16:49:31",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
     },
     {
       "added_at": "2023-12-29 16:49:31",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2023-12-29 16:49:31",
       "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
       "artists": [
         {
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2023-12-29 16:49:31",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2023-12-29 16:49:31",
       "album": {
-        "name": "Escondidos",
-        "url": "https://open.spotify.com/album/6OidQw7FBKbvZtjNTK8sZr"
+        "name": "Me Duele Tu Nombre",
+        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 148481,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/4QvuV3TTM3HZwkrXuLdqd0"
+      "duration_ms": 296515,
+      "name": "Me Duele Tu Nombre",
+      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
     }
   ],
   "unique_name": "100% Cuarteto",

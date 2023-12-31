@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,462 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,483 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 91 | [El carrettero](https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:48 |
 | 92 | [El mariachi loco](https://open.spotify.com/track/0oug0C436nzlg2g6IbLXXP) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:56 |
 | 93 | [Rancho grande](https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:36 |
-| 94 | [El Toro Serrano](https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:42 |
-| 95 | [Popurri de Sones Jarochos](https://open.spotify.com/track/76sWuWJENvW4HvUA5Co3RN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/7oDrCscEv8o5hgQsyIGjQ5) | 3:35 |
-| 96 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
-| 97 | [El Tapatio](https://open.spotify.com/track/4XdzNBac9xSMsTG9DVvSi2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/5Xh5EE85S4vVzw8AU4oqgc) | 3:08 |
-| 98 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
-| 99 | [Mi Zacatecas Querido](https://open.spotify.com/track/4kuSnkeLOUo6qOZS0Kl9IU) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:21 |
+| 94 | [Popurri de Sones Jarochos](https://open.spotify.com/track/76sWuWJENvW4HvUA5Co3RN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/7oDrCscEv8o5hgQsyIGjQ5) | 3:35 |
+| 95 | [El Toro Serrano](https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:42 |
+| 96 | [El Tapatio](https://open.spotify.com/track/4XdzNBac9xSMsTG9DVvSi2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/5Xh5EE85S4vVzw8AU4oqgc) | 3:08 |
+| 97 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
+| 98 | [Mi Zacatecas Querido](https://open.spotify.com/track/4kuSnkeLOUo6qOZS0Kl9IU) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:21 |
+| 99 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MCw2ODhhNGRkM2Q5ZjdiNjBlMjQ4YWNlMGY1ZTUyNzBhOGZiZGVmZjdh`
+Snapshot ID: `MCxhODc4NmM0Y2QwZTk1ZmFlYjU5NWYzNDU3ZjMxMmM3ZTY1Yzg2OGM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,180 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,201 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 60 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 |
 | 61 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 
-Snapshot ID: `MCxhZjIzMWMzNWUyZTgxYWNmNzJhZWU5Y2Q3MTZmMjFlZGI4ZjZmNjZj`
+Snapshot ID: `MCxkMzQwMTI5NDcwYTZiY2NiMzU1ODdkYzI5NDc2MDkzY2RhY2FiNjdk`

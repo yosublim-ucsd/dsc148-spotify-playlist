@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Ensi e Nerone in cover.",
-  "num_followers": 38176,
+  "num_followers": 38196,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM2MjNjYjRmMGI2NzI5MTQxNTYzMDY1NTQ2NGY0MzQ3YjIzYWIz",
+  "snapshot_id": "MCwyYmFhM2U3M2U5YTc4MmVlNzNmZWU3NGQ2ZmYxNzkxNDkyMzVlOWM3",
   "tracks": [
     {
       "added_at": "2023-12-21 23:01:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Ritorno",
-        "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
-      },
-      "artists": [
-        {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 155641,
-      "name": "Te Famo Scuola (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Ritorno",
+        "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
+      },
+      "artists": [
+        {
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 155641,
+      "name": "Te Famo Scuola (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -775,8 +775,8 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Non Dormire",
-        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
       },
       "artists": [
         {
@@ -784,13 +784,13 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -903,8 +903,8 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+        "name": "Non Dormire",
+        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+      "duration_ms": 242906,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 158943,
       "name": "Sembrava Impossibile",
       "url": "https://open.spotify.com/track/4wg7YaPFve0vjqiF0xEbRh"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "L'avventura di due sposi",
         "url": "https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 233760,
       "name": "L'avventura di due sposi",
       "url": "https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "OVERT",
+        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "DON DADAIST (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "OVERT",
-        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "DON DADAIST (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1835,6 +1835,66 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Michele Venanzoni",
+          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
+        }
+      ],
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "BASTA SESSION N\u00b01",
         "url": "https://open.spotify.com/album/3OmHIlmFZS8ntlMN3uUunp"
       },
@@ -1867,66 +1927,6 @@
       "duration_ms": 158394,
       "name": "BASTA SESSION N\u00b01",
       "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Infernum",
-        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Michele Venanzoni",
-          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
-        }
-      ],
-      "duration_ms": 180776,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Magic boulevard",
         "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 230375,
       "name": "Pioggia infinita",
       "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -2203,30 +2203,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Perle Ai Porci",
-        "url": "https://open.spotify.com/album/2dJ0tz9SsoQmh4eackjGn9"
-      },
-      "artists": [
-        {
-          "name": "Pufuleti",
-          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        },
-        {
-          "name": "Zutera",
-          "url": "https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tupperware 2000",
-      "url": "https://open.spotify.com/track/2QiLOpmWMbcck3yMlbxWyP"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -2251,6 +2227,30 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Perle Ai Porci",
+        "url": "https://open.spotify.com/album/2dJ0tz9SsoQmh4eackjGn9"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Zutera",
+          "url": "https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tupperware 2000",
+      "url": "https://open.spotify.com/track/2QiLOpmWMbcck3yMlbxWyP"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Chi more pe' mme",
         "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
       },
@@ -2267,18 +2267,30 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
       "artists": [
         {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
+      "duration_ms": 261810,
+      "name": "Black Rain, pt. 2",
+      "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -2307,18 +2319,18 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
-        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+        "name": "Dio lodato",
+        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
         }
       ],
-      "duration_ms": 225755,
-      "name": "L'attimo esatto",
-      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
+      "duration_ms": 260183,
+      "name": "Dio lodato per sta chanche",
+      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -2427,30 +2439,18 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "FEGATO",
-        "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
       },
       "artists": [
         {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Detersivo",
-      "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -2479,6 +2479,34 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "FEGATO",
+        "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Detersivo",
+      "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "CHIODI",
         "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
@@ -2495,34 +2523,6 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
-        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        }
-      ],
-      "duration_ms": 261810,
-      "name": "Black Rain, pt. 2",
-      "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
     },
     {
       "added_at": "2023-12-21 23:01:00",

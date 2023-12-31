@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 56 min
+84 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-10-28 | 2023-06-24 |
 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 | 2023-06-23 |  |
 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 | 2023-10-10 |  |
-| [CHICKY TA](https://open.spotify.com/track/3EELEIkaOtCQZ84LwU8dWK) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:44 | 2023-10-10 |  |
+| [CHICKY TA](https://open.spotify.com/track/3EELEIkaOtCQZ84LwU8dWK) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:44 | 2023-10-10 | 2023-12-31 |
 | [CLASSY \(feat\. Swizz Beatz\)](https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:54 | 2023-07-29 |  |
 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 | 2022-10-28 |  |
 | [DON'T TELL \(feat\. Juicy J\)](https://open.spotify.com/track/7ANhqhDBoEZ3nLDqMNtmTG) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:22 | 2023-07-30 |  |
@@ -35,6 +35,7 @@
 | [DUBAI](https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:15 | 2023-10-10 |  |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2022-10-28 |  |
 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 | 2023-07-29 |  |
+| [FOUR SEASONS](https://open.spotify.com/track/0YXBtZvPdUW55yxlvGkaCY) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 1:37 | 2023-12-30 |  |
 | [FOUR SEASONS](https://open.spotify.com/track/6GUr8jAn1xA9MUD6zfmEU6) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:37 | 2023-07-30 | 2023-09-16 |
 | [Freak \(Remix\)](https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Freak Remix](https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p) | 3:04 | 2022-10-28 |  |
 | [FREAK IN THE NIGHT](https://open.spotify.com/track/3gf0CqnyjYb2IoyZSaDa9h) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:40 | 2022-10-28 | 2023-10-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds Latin tracks this year\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,161 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,176 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [Party de Gangster](https://open.spotify.com/track/0SOjZjZjIwkvjrzxnwmViN) | [Kian Kova](https://open.spotify.com/artist/0rPOS6d2cE6DBwE9eJZ2iG) | [Party De Gangster](https://open.spotify.com/album/3sIMt8whx5P2bs0s0NVlQ2) | 2:54 |
 | 26 | [me encontré](https://open.spotify.com/track/2MnNO6OX0AZxByx2WXo2AU) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [me encontré](https://open.spotify.com/album/4Sdxwp2KJdBwLIyBiBIWiv) | 2:46 |
 | 27 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
-| 28 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 |
+| 28 | [bien](https://open.spotify.com/track/2ZafAJuC7oYKtPOnO0uTnW) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1tfZOsRed1FZUuPDuSDSZC) | 3:00 |
 | 29 | [soñando despierta](https://open.spotify.com/track/0aNc5zg0qiuZaJAl5xdehz) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [soñando despierta](https://open.spotify.com/album/2tomkSqgucy3kM041mFCuc) | 2:36 |
 | 30 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 31 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 74 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
 | 75 | [Verano Rosé](https://open.spotify.com/track/1TBV0PsJHHORzbn0AluTKj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Verano Rosé](https://open.spotify.com/album/07Ase5Emf9f6k8VfpRSSHZ) | 2:45 |
 
-Snapshot ID: `MCw3NzRjYjkxYzdmZGRiY2RlYTc1NjhmYzY2MTkwNDY2OWE5NTc3NThj`
+Snapshot ID: `MCxkNmVmMzQ3ZGZkODg0YjAyODVmYjAxMTBiMWY3YzcwYzBkMWRjYjRl`

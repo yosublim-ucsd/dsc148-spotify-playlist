@@ -669,7 +669,7 @@
       "artists": [
         {
           "name": "Dirty Pop",
-          "url": "https://open.spotify.com/artist/1P9qwyWSWUTlfirGYw3epr"
+          "url": "https://open.spotify.com/artist/6WkvgrxL7dywOASeG4s3WZ"
         },
         {
           "name": "Ed Sheeran",
@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 342597,
       "name": "Facing The Sideways Rain",
       "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
@@ -7983,6 +7983,24 @@
     },
     {
       "album": {
+        "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
+        "url": "https://open.spotify.com/album/7GoQ0cdEPdmMn2tmizf2EK"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191789,
+      "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
+      "url": "https://open.spotify.com/track/6j7AWOj8StXqLedARcmoBG"
+    },
+    {
+      "album": {
         "name": "Carthage",
         "url": "https://open.spotify.com/album/5HVWGN85bLF31yI7YWe4xq"
       },
@@ -8678,10 +8696,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "album": {
+        "name": "My Soft Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
     },
     {
       "album": {
@@ -13512,7 +13552,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 224693,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
@@ -20048,6 +20088,28 @@
       "duration_ms": 139142,
       "name": "What Is Consciousness?",
       "url": "https://open.spotify.com/track/3QxRWTE24zEgFAqDCmtEDA"
+    },
+    {
+      "album": {
+        "name": "what they gonna do (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/47z9yMMrT6n2QgQTjaFaRA"
+      },
+      "artists": [
+        {
+          "name": "CPRCRN",
+          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81697,
+      "name": "what they gonna do (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1o44CcQelJxVTYEfxQwZMW"
     },
     {
       "album": {

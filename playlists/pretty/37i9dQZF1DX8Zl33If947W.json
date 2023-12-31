@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 152649,
+  "num_followers": 152742,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy",
+  "snapshot_id": "MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
         }
       ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -755,6 +739,22 @@
       "duration_ms": 193200,
       "name": "Kaum Erwarten",
       "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -787,26 +787,6 @@
       "duration_ms": 162380,
       "name": "Unique",
       "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        },
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 207501,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -847,6 +827,26 @@
       "duration_ms": 200946,
       "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
       "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
     },
     {
       "added_at": "2023-03-06 08:21:00",

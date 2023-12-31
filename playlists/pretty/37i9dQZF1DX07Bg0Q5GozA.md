@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > Parcels are taking over the playlist with a New Year's Eve party set!
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,728 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,868 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 49 | [The Magic Eye](https://open.spotify.com/track/12DMquIrVvMCIi1CIdG77x) | [The Zenmenn](https://open.spotify.com/artist/07wydlLRa4ovoB9JT1fmSh) | [Enter The Zenmenn](https://open.spotify.com/album/2jrva1iF8iLb0Ws3Ik9dz5) | 6:29 |
 | 50 | [Todo Homem \- Ao Vivo](https://open.spotify.com/track/3YhZmqOIDldFyMDsHGUkbG) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Todo Homem \(Ao Vivo\)](https://open.spotify.com/album/0mRzDiuNG27w17jXvO2Udw) | 3:36 |
 
-Snapshot ID: `MCwyZDM2N2I5MzMzYzJjMTdjYmM3NTg5ZTA5MzdlNjkyZmM1MDA1ODNm`
+Snapshot ID: `MCwzZWNkNDMzMzg2NjQyN2UyYmM2M2EzMGRkYmU5OWE2OWY1OTRmMzVm`

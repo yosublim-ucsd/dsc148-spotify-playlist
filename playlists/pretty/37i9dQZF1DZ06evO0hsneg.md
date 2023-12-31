@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 23 | [JUICY \- From "Joy Ride" Official Motion Picture Soundtrack](https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [JUICY \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6) | 2:30 |
 | 24 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 |
 | 25 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 |
-| 26 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
-| 27 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 |
-| 28 | [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 |
-| 29 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
+| 26 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 |
+| 27 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
+| 28 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
+| 29 | [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 |
 | 30 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 |
 | 31 | [i make time \(feat\. Matter Mos\)](https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:54 |
 | 32 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 40 | [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 |
 | 41 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDBmOGU0NDllYWUzMzYzMmY2N2VhYWM5ODZlNjhhMDdhYg==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDAxZmIwOTdlNjkwMDExMzMzYjQ0N2Q4MzRlYmMyNzRjMg==`

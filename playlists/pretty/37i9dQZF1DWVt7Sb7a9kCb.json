@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 170370,
+  "num_followers": 170379,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjI0NzU3NzUxMzM5MTAwNDY2YTIwYmY5Nzk3OTBjZWVmYjI0YTIz",
+  "snapshot_id": "MCxlMjhlNzA1YjM4NWE2NmRjN2Y0YmFlMjZlODQ4MDc4MzA0YTZlOWEy",
   "tracks": [
     {
       "added_at": "2023-12-15 19:23:32",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Como Estrellas",
-        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
-      },
-      "artists": [
-        {
-          "name": "LA YOUNG",
-          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Como Estrellas",
-      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Dem Time Deh",
         "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 167191,
       "name": "Dem Time Deh",
       "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1119,6 +1119,22 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Solita y SueltAAA",
+      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1215,22 +1231,6 @@
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Solita y SueltAAA",
-      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "#7DJ (7 D\u00edas En Jamaica)",
+        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 176970,
+      "name": "Agua de Jamaica",
+      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
       },
@@ -1567,18 +1583,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "#7DJ (7 D\u00edas En Jamaica)",
-        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 176970,
-      "name": "Agua de Jamaica",
-      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1603,26 +1623,6 @@
       "duration_ms": 208941,
       "name": "Pa Casa",
       "url": "https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "Canciones Pa Mi Ex Vol.1",
         "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 193112,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2023-12-15 19:23:32",

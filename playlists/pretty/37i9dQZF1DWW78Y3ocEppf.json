@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43231,
+  "num_followers": 43226,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2",
+  "snapshot_id": "MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2022-11-04 06:34:53",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
       },
       "artists": [
         {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
+      "duration_ms": 154473,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1269,20 +1269,20 @@
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2022-11-04 06:34:53",
       "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
       },
       "artists": [
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
         }
       ],
-      "duration_ms": 154473,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "On Mine",
@@ -1447,22 +1463,6 @@
       "duration_ms": 143986,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
       "added_at": "2023-02-24 05:00:00",

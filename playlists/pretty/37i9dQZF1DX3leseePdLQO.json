@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Morat.",
-  "num_followers": 9678,
+  "num_followers": 9690,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTY5YWY1YTQxYTM1YzU3NTI3MTYzOTUwMjgwYTBhODA2Njg5Nzhj",
+  "snapshot_id": "MCwyYzdiZjQyYTUyMWRhNDQ0ZThlZTgwMGM0NGY2MzcwMWI5OGNiODFk",
   "tracks": [
     {
       "added_at": "2023-12-15 19:59:39",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Te Cambie Por El",
-        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170695,
-      "name": "Te Cambie Por El",
-      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "plan",
         "url": "https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 219672,
       "name": "Sincer\u00e1ndome",
       "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "Te Cambie Por El",
+        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170695,
+      "name": "Te Cambie Por El",
+      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "Todo Regresa",
         "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Dharma +",
-        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "Dharma +",
+        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "5 estrellas",
-        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "5 estrellas",
-      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "Como T\u00fa y Yo",
         "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 192757,
       "name": "Como T\u00fa y Yo",
       "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "5 estrellas",
+        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "5 estrellas",
+      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
         "name": "Me Da Bastante Miedo",
         "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
       },
@@ -1267,22 +1283,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP"
+        "name": "dejarse querer",
+        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         },
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 175411,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X"
+      "duration_ms": 182546,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1307,38 +1323,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
-        "name": "dejarse querer",
-        "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 182546,
-      "name": "dejarse querer",
-      "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+      "duration_ms": 175411,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
+        "name": "Est\u00e1 Cabron",
+        "url": "https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 144047,
+      "name": "Est\u00e1 Cabron",
+      "url": "https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Est\u00e1 Cabron",
-        "url": "https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        }
-      ],
-      "duration_ms": 144047,
-      "name": "Est\u00e1 Cabron",
-      "url": "https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "Desde Hola",
         "url": "https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 191862,
       "name": "Desde Hola",
       "url": "https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
-        "name": "Bendita",
-        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Bendita",
-      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1719,6 +1699,26 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "Bendita",
+        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
     },
     {
       "added_at": "2023-12-15 19:59:39",

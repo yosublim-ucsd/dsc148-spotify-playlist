@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,199 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,201 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 43 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 |
 | 44 | [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 |
 | 45 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
-| 46 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 |
+| 46 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 47 | [Morgue](https://open.spotify.com/track/2tsDvDQaTkQAYsCHo4SGT9) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/3QzIwDA0KnU6o8QKdeJnyt) | 2:33 |
 | 48 | [LIGHTS](https://open.spotify.com/track/0V0Dd9h94tRw37B8BdhZ4y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/6AmYx6hJ0hNrCcg8u25FXk) | 4:44 |
-| 49 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
+| 49 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCxiMzVkMDI1OWU4OTUwODliNzM2YjhlNjk5ZDAxY2Y4ODZhNWQ5Nzg0`
+Snapshot ID: `MCw2Y2EyZTI1MTg1Y2I1YzViYzVhZTQ1NWQzNjQ0MDM0YjZkM2E0ODUy`

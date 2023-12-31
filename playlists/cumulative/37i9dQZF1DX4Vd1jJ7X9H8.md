@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-466 songs - 1 day 3 hr 40 min
+467 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Montreal](https://open.spotify.com/track/5maosvba9QkQP14u6vtxog) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Elliot \- EP](https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp) | 3:56 | 2023-06-29 | 2023-10-29 |
 | [Monument \- The Inevitable End Version](https://open.spotify.com/track/616ddBwW0LpyhCpLE5BpIP) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [The Inevitable End](https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N) | 4:46 | 2020-12-31 | 2022-04-21 |
 | [Moonlight](https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Moonlight](https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk) | 3:25 | 2023-10-13 | 2023-11-18 |
-| [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2023-01-15 |  |
+| [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2023-01-15 | 2023-12-31 |
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-05-04 | 2023-08-13 |
 | [Movies](https://open.spotify.com/track/7l5PV5CLNe9eCIcz8C5bLW) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Don't Go Wasting Time](https://open.spotify.com/album/6q3CZqvnqUH3OhZMDF6fGr) | 3:17 | 2022-05-31 | 2022-07-29 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2023-11-29 |  |
@@ -452,6 +452,7 @@
 | [Welcome to LA](https://open.spotify.com/track/62BKMNUacuQ6X67ID4Qcef) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alien Boy EP](https://open.spotify.com/album/5AelTZUdahNA7besdaECfD) | 2:31 | 2021-10-19 | 2022-04-19 |
 | [What Ever Happened](https://open.spotify.com/track/2lHqf8dE3hf9RIqF6jGO6D) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Marie Antoinette \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4) | 2:48 | 2021-10-20 | 2022-04-20 |
 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 | 2022-08-11 | 2022-08-17 |
+| [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2023-12-27 |  |
 | [What You Got To Do](https://open.spotify.com/track/1hzrme3eRaGGOLfrcfxZpv) | [American Dance Ghosts](https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT) | [What You Got To Do](https://open.spotify.com/album/517FRnU6gKU3cSlIWbHrUO) | 3:36 | 2021-12-10 | 2022-07-19 |
 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 | 2022-01-20 | 2022-08-12 |
 | [When A Fire Starts To Burn](https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:43 | 2020-12-31 | 2022-04-21 |

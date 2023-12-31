@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,500 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,564 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 24 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 25 | [Inquietum](https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Sigillata Luce](https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva) | 5:09 |
 | 26 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
-| 27 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
-| 28 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 27 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 28 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 29 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
 | 30 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
-| 31 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
-| 32 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
+| 31 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
+| 32 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 33 | [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 |
 | 34 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 35 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
@@ -60,18 +60,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 50 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
 | 51 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
 | 52 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 |
-| 53 | [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 |
-| 54 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
+| 53 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
+| 54 | [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 |
 | 55 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 |
 | 56 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 |
 | 57 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
 | 58 | [Tongues](https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:22 |
 | 59 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 60 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
-| 61 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
+| 60 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
+| 61 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
 | 62 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 |
-| 63 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
-| 64 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 63 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 64 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
 | 65 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 |
 | 66 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 |
 | 67 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 74 | [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 |
 | 75 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 |
 
-Snapshot ID: `MCxhODU4MGJkM2IzYzYxZGE2OWFkOTMyM2YxNTcxZWQxY2Y2ZDdmMjQz`
+Snapshot ID: `MCxlZTZjNDI1YTdmZmQ0NTQyMmZlMzc5ZDU4NGNmNTg0NmFmMjFhOGEw`

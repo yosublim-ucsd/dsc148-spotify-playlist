@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 287587,
+  "num_followers": 287600,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGIxYjY5Nzk1ZTlhZjIxMzNmNGEzNzEyNGUzMWZkZjBkZWJjODFm",
+  "snapshot_id": "MCwyMzZiZjFkODljY2I0ZDQ2ODU4ZDk2OWRhZTNjYTlkYjUzOWI0MjY5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Melody & Silence",
         "url": "https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 187333,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 260101,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 311844,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+        "name": "Let's Dance to Joy Division",
+        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
         }
       ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+      "duration_ms": 203000,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Let's Dance to Joy Division",
-        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Private Sunshine",
         "url": "https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 219173,
       "name": "Time Out of Mind",
       "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
     }
   ],
   "unique_name": "Indie Covers",

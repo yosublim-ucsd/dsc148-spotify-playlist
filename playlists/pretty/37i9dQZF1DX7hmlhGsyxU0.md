@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,548 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,689 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 6 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 7 | [Pure Imagination \(arr\. piano\)](https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ) | [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI), [Leslie Bricusse](https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3), [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [World Sleep Day](https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt) | 3:23 |
 | 8 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
-| 9 | [Composite 03](https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY) | 3:43 |
-| 10 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
+| 9 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
+| 10 | [Composite 03](https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY) | 3:43 |
 | 11 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
 | 12 | [Made To Be Wanting](https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Made To Be Wanting](https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF) | 3:03 |
 | 13 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 15 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
 | 16 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
 | 17 | [To the Moon and Back](https://open.spotify.com/track/7ARA87vwUu66EfF5rfFsHZ) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Creation](https://open.spotify.com/album/6lwaCnwFQCN4hEbhvwHwQy) | 4:30 |
-| 18 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
-| 19 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
+| 18 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
+| 19 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
 | 20 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
 | 21 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
 | 22 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
-| 23 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
-| 24 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
+| 23 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
+| 24 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 25 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
 | 26 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
 | 27 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 41 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
 | 42 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
 | 43 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
-| 44 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
-| 45 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
+| 44 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
+| 45 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
 | 46 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
 | 47 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 48 | [Efterskalv](https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b) | 3:49 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Perceptions](https://open.spotify.com/track/5JOtNkA1yyV0dreSnmbLGT) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6A5tIdJUuOGiuRnXpbvTtk) | 2:53 |
 | 63 | [Zerachiel](https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF) | 3:11 |
 
-Snapshot ID: `MCw5ZDM2YzcwNTM4MjliZGUxNDFlYTNjMTMxZDI5OTVlNzk0MGU5Nzk5`
+Snapshot ID: `MCw4YmE4MjMxNWY5ZGRmZjQ2NGJjZDBmYTM1ODBkMDlkZjE5N2JmMjc3`

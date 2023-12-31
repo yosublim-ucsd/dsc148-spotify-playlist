@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 225906,
       "name": "Baby Lee",
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 138546,
       "name": "Big Legs, Tight Skirt",
       "url": "https://open.spotify.com/track/7iVRdJkeJPDIDAqy7ExRYu"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 181200,
       "name": "Crawlin' King Snake",
       "url": "https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 132293,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/69sTZUnybfPzxEvdkOySX8"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 247400,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/6OseBl5wferzmSCyvwVfzo"
@@ -1850,6 +1850,24 @@
       "duration_ms": 211043,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/29KYUQG2SAAs1QI7zrluNw"
+    },
+    {
+      "album": {
+        "name": "Lost A Good Girl",
+        "url": "https://open.spotify.com/album/0eYqgedY7hE1bkeZbUAKms"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "Thelma",
+      "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"
     },
     {
       "album": {

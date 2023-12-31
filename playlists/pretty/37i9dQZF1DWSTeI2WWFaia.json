@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617570,
+  "num_followers": 1617573,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYxNjUyM2EwYjBiYWExMzM4ZTE4YWZjNDRhZTc5MWIyNmYxNzc5",
+  "snapshot_id": "MCw2MWEyZWI4ZTAzMzA5ODc3OGI0MjQzNTUwZDJiNmNlNTZiMGNlNmM0",
   "tracks": [
     {
       "added_at": "2023-12-22 21:59:11",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
         "name": "No Pun Intended",
         "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
       "artists": [
         {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 108281,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+      "duration_ms": 260000,
+      "name": "Show & Tell (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -791,42 +811,26 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "Soul Assassins 3: Death Valley",
+        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
         },
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Show & Tell (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
-        "name": "Chops on the Blade",
-        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 212154,
-      "name": "Chops on the Blade",
-      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -851,22 +855,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Asteroids",
-        "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
+        "name": "Chops on the Blade",
+        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
         }
       ],
-      "duration_ms": 155179,
-      "name": "Asteroids",
-      "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
+      "duration_ms": 212154,
+      "name": "Chops on the Blade",
+      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -899,26 +903,38 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Soul Assassins 3: Death Valley",
-        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
+        "name": "Asteroids",
+        "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
       },
       "artists": [
         {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         }
       ],
-      "duration_ms": 114625,
-      "name": "Sicilian Gold",
-      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
+      "duration_ms": 155179,
+      "name": "Asteroids",
+      "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -975,38 +991,26 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "The Elephant Man's Bones",
+        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
-        "name": "Dead Men (feat. Cozz)",
-        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
-      },
-      "artists": [
-        {
-          "name": "408 Darwin",
-          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         },
         {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 171989,
-      "name": "Dead Men (feat. Cozz)",
-      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
+      "duration_ms": 174773,
+      "name": "Daddy Kane (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
     }
   ],
   "unique_name": "Spilled Ink",

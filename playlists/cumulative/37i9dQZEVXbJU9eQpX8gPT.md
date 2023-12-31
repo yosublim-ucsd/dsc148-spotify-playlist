@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,284 songs - 2 day 22 hr 41 min
+1,285 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Forever And Ever](https://open.spotify.com/track/0DAEnPBk4LYHloZYO5AnML) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:11 | 2021-04-18 | 2021-04-19 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-03 | 2023-06-04 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-05 | 2021-09-07 |
+| [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2023-12-30 |  |
 | [Fratello](https://open.spotify.com/track/1IWAluPVHxuHGmL5NyYyGf) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 4:12 | 2021-03-27\* | 2021-11-22 |
 | [Free](https://open.spotify.com/track/3dTSb5eSmON3lo7zGRB6uE) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:33 | 2022-10-22 | 2022-11-11 |
 | [Free Mami](https://open.spotify.com/track/0z1tE5dOOxgsYIRCItKtjm) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 4:00 | 2023-11-11 | 2023-11-16 |
@@ -531,7 +532,7 @@
 | [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-02-18 | 2023-02-20 |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-01-08 | 2022-03-18 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-24 | 2023-12-13 |
-| [Iori 6](https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 6](https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU) | 5:09 | 2023-12-24 |  |
+| [Iori 6](https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 6](https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU) | 5:09 | 2023-12-24 | 2023-12-31 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [Isshin Ashina](https://open.spotify.com/track/62crMRev17STkFMzAGsb1I) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 4:53 | 2023-09-12 | 2023-09-14 |
 | [It's on you](https://open.spotify.com/track/5oFiR2mnkw77K9Nugz9IrR) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [Lo\-Fights](https://open.spotify.com/album/3CvCF4jbyPsewmZYhZbRva) | 2:38 | 2022-06-19 | 2022-06-21 |

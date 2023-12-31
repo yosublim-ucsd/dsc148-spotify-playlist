@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 112017,
+  "num_followers": 112053,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
+  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2323,34 +2323,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Tu No Metes Cabra Remix",
-        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 331440,
-      "name": "Tu No Metes Cabra - Remix",
-      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Soy Peor Remix",
         "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
       },
@@ -2375,6 +2347,34 @@
       "duration_ms": 315846,
       "name": "Soy Peor - Remix",
       "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Tu No Metes Cabra Remix",
+        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Tu No Metes Cabra - Remix",
+      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/7uCxpXETxPlW2rErmzycRN"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 221055,
       "name": "Activa",
       "url": "https://open.spotify.com/track/3VebY4KbxKq1bqWDvY5lnW"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
     },
     {
       "added_at": "2023-05-25 17:50:01",

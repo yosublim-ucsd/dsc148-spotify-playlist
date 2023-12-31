@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 701496,
+  "num_followers": 701825,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTM3MTE4MWViMDc2ZWVmZWY2NTFhNGM4MjAwZjgzNDdhYTgwN2Qx",
+  "snapshot_id": "MCwxMmUzZDBkOTUyMmY4ODc2M2FjYzQ0YTIwMWE2MmYyNGZlODlhZDIz",
   "tracks": [
     {
       "added_at": "2023-12-21 21:10:20",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 180493,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Officer of Love",
         "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 170800,
       "name": "Thank You - 2008 Remaster",
       "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -887,26 +887,6 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -939,6 +919,26 @@
       "duration_ms": 216720,
       "name": "Don't You Evah",
       "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
         }
       ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1135,6 +1119,22 @@
       "duration_ms": 219967,
       "name": "Corners",
       "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Mercury Rising",
-        "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
-      },
-      "artists": [
-        {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Mark Foster",
-          "url": "https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Mercury Rising",
+        "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
+      },
+      "artists": [
+        {
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Mark Foster",
+          "url": "https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Best Worst Year",
+        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
+      },
+      "artists": [
+        {
+          "name": "STRABE",
+          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
+        }
+      ],
+      "duration_ms": 278082,
+      "name": "Best Worst Year",
+      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "honey thighs",
         "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 284441,
       "name": "honey thighs",
       "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Best Worst Year",
-        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
-      },
-      "artists": [
-        {
-          "name": "STRABE",
-          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
-        }
-      ],
-      "duration_ms": 278082,
-      "name": "Best Worst Year",
-      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 238669,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "House of FM",
         "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1691,6 +1675,22 @@
       "duration_ms": 225640,
       "name": "Didn't I - Florent F Rework",
       "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
-      },
-      "artists": [
-        {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Float Back To You",
         "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
       "artists": [
         {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
         }
       ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1907,6 +1891,22 @@
       "duration_ms": 222213,
       "name": "Nantucket Island",
       "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
     },
     {
       "added_at": "2023-12-21 21:10:20",

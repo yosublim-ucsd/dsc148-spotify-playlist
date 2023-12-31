@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-235 songs - 17 hr 13 min
+236 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 |  |
 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 | 2022-04-11 | 2022-04-21 |
 | [Driftin'](https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx) | 3:48 | 2022-12-22 | 2023-12-23 |
+| [Driftin'](https://open.spotify.com/track/5HSAr8ydgJ4K7y1blbGVYf) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/47C9hangxxBXCVNKcRjLnC) | 3:48 | 2023-12-22 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 | 2022-05-23 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy) | 3:58 | 2021-12-27 | 2022-07-16 |
 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 | 2023-11-10 |  |
@@ -161,7 +162,7 @@
 | [New Hope](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 | 2022-04-11 | 2023-10-05 |
 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 | 2022-07-11 |  |
 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 | 2022-01-10 |  |
-| [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 |  |
+| [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 | 2023-12-31 |
 | [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 | 2022-01-03 |  |
 | [Out of the Blue](https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 5:58 | 2021-12-27 |  |
 | [Outside In](https://open.spotify.com/track/3C7UhOwpaQCfGHK5QCo8Yp) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Outside In](https://open.spotify.com/album/1KnHbqqPb85FQGhBDjZKa5) | 4:20 | 2023-05-30 |  |

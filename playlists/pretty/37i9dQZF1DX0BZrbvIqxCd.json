@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543369,
+  "num_followers": 543374,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGUwOGZhNWRjNTQ0MGY0YzEwNzBjYjcxYzFjYWJkYWI1NjRmYmU4",
+  "snapshot_id": "MCxlMjhjN2YzOWMwNWU3MTM4MWQ5ZGJmZmUwOTkwMjViMjg0NzhlODU2",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -255,26 +255,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Fuck Authority",
-      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Fuck Authority",
+      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Road to Ruin (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 191756,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191756,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/4pIwtCO5U55WjclTKwf8Ah"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 185158,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4BFmoq1AU7k5GrPnymjgdd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Sticky",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4pIwtCO5U55WjclTKwf8Ah"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 211100,
+      "name": "Want Me Around",
+      "url": "https://open.spotify.com/track/3dncWYTMi4YudEtsJzT4OI"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1619,22 +1635,6 @@
       "duration_ms": 187795,
       "name": "So Poetic",
       "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     }
   ],
   "unique_name": "Punk Rock Workout",

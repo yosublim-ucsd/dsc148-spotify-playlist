@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 34 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
 | 35 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
 | 36 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
-| 37 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
+| 37 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
 | 38 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 |
 | 39 | [Lucky Day](https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:09 |
-| 40 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
+| 40 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
 | 41 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 42 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
 | 43 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 47 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
 | 48 | [Remember](https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Remember](https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4) | 3:02 |
 | 49 | [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 |
-| 50 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
+| 50 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 
-Snapshot ID: `MCwwYTUwNmM0MThhMzUyM2NmM2VhZWExZWIxN2IxYzRhNTI0Y2I4ODVj`
+Snapshot ID: `MCw2M2E2ZDMwZTI1M2FlYjg3MTJhMGQ5MTE1YWNhY2MzOTE2Yzc2ZmNj`

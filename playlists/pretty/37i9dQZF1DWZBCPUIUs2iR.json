@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 607852,
+  "num_followers": 608484,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmY2ZmM0Zjk0OWNmNTI5Mzg2ZDlkZjExZTg3NTU2NDdhZWRhNDFi",
+  "snapshot_id": "MCxmNDNkNDNiZmY1OWNhN2YzMjBlY2FlMTUwY2JiMDFhOWVmYmMyNWY5",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 205706,
       "name": "I Like It, I Love It",
       "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Fightin' Side Of Me",
         "url": "https://open.spotify.com/album/6GBldLBO5gMbjpLCnLiv2B"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 170706,
       "name": "Fightin' Side of Me",
       "url": "https://open.spotify.com/track/32ogrBiK5QBeMwidTdnMoq"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1303,6 +1303,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+        "name": "Hag's Christmas",
+        "url": "https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
+      "duration_ms": 163733,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1499,6 +1499,22 @@
       "duration_ms": 200493,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1563,22 +1579,6 @@
       "duration_ms": 299746,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/50hbhWWZ5b36hC6x7dh4bP"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Hag's Christmas",
-        "url": "https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
     },
     {
       "added_at": "2023-02-14 19:26:52",

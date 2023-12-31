@@ -1,13 +1,33 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. En portada: Peso Pluma, Oscar Mayd\u00f3n y Junior H",
-  "num_followers": 931096,
+  "num_followers": 931133,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjM0OWI5MTA2ODEwMDdlNjBkMzg3MDliNTMzMmJjZjk0ZWE5ZjA1",
+  "snapshot_id": "MCxhOTUwZDJlMzcyZGFiNThlMzI3MGFiN2E0YzYzODZmNGY0OTA5ZmQ3",
   "tracks": [
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Puesta Pal' Perreo",
+        "url": "https://open.spotify.com/album/42LpYmMSb0yvCREf9ezQhj"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 179927,
+      "name": "Puesta Pal' Perreo",
+      "url": "https://open.spotify.com/track/4OEgUT2QujgvvaiaXFsjiB"
+    },
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
@@ -35,22 +55,58 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Puesta Pal' Perreo",
-        "url": "https://open.spotify.com/album/42LpYmMSb0yvCREf9ezQhj"
+        "name": "UNDERWATER",
+        "url": "https://open.spotify.com/album/2bYcWtS6dc6lWrfBBF4FMp"
       },
       "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 106129,
+      "name": "UNDERWATER",
+      "url": "https://open.spotify.com/track/1NkXOek9X8a2BWsMoCUrTd"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Hptismo",
+        "url": "https://open.spotify.com/album/43V3YFdu1wK59byU3U3nOO"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
         {
           "name": "\u00d1engo Flow",
           "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
         }
       ],
-      "duration_ms": 179927,
-      "name": "Puesta Pal' Perreo",
-      "url": "https://open.spotify.com/track/4OEgUT2QujgvvaiaXFsjiB"
+      "duration_ms": 250256,
+      "name": "Hptismo",
+      "url": "https://open.spotify.com/track/2ws8zwC1Ax65Z53PvtXgpG"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Luces Tenues",
+        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Luces Tenues",
+      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -79,82 +135,18 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Hptismo",
-        "url": "https://open.spotify.com/album/43V3YFdu1wK59byU3U3nOO"
+        "name": "Si Me Emborracho",
+        "url": "https://open.spotify.com/album/4NgDswskCkTGArJ8eUVGqv"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 250256,
-      "name": "Hptismo",
-      "url": "https://open.spotify.com/track/2ws8zwC1Ax65Z53PvtXgpG"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "UNDERWATER",
-        "url": "https://open.spotify.com/album/2bYcWtS6dc6lWrfBBF4FMp"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 106129,
-      "name": "UNDERWATER",
-      "url": "https://open.spotify.com/track/1NkXOek9X8a2BWsMoCUrTd"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Luces Tenues",
-        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Luces Tenues",
-      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Party En Tokyo",
-        "url": "https://open.spotify.com/album/3lQJEG05hbB7LpvvQ8BzUr"
-      },
-      "artists": [
-        {
-          "name": "Yuriel Es Musica",
-          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
-        },
-        {
-          "name": "L\u00fai Onthebeat",
-          "url": "https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu"
-        },
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        }
-      ],
-      "duration_ms": 188702,
-      "name": "Party En Tokyo",
-      "url": "https://open.spotify.com/track/07ygK0QerRdgoyfPsjdZ1j"
+      "duration_ms": 151773,
+      "name": "Si Me Emborracho",
+      "url": "https://open.spotify.com/track/11DRR8RPvyQBydv91DWuwo"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -179,42 +171,6 @@
       "duration_ms": 186115,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/5ZovhgjwXVdhIdRHfCu9lf"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Si Me Emborracho",
-        "url": "https://open.spotify.com/album/4NgDswskCkTGArJ8eUVGqv"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Si Me Emborracho",
-      "url": "https://open.spotify.com/track/11DRR8RPvyQBydv91DWuwo"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Deconecte",
-        "url": "https://open.spotify.com/album/5iN8QSwK0Fg4c4ZUfh1sLX"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Black Jonas Point",
-          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Deconecte",
-      "url": "https://open.spotify.com/track/4Re80N9s1sgBbzIiV21zPI"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -255,6 +211,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Deconecte",
+        "url": "https://open.spotify.com/album/5iN8QSwK0Fg4c4ZUfh1sLX"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Black Jonas Point",
+          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Deconecte",
+      "url": "https://open.spotify.com/track/4Re80N9s1sgBbzIiV21zPI"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "BOCINITA",
         "url": "https://open.spotify.com/album/4GcoyeiB1N2qmnn25d5EO9"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 166153,
       "name": "BOCINITA",
       "url": "https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Party En Tokyo",
+        "url": "https://open.spotify.com/album/3lQJEG05hbB7LpvvQ8BzUr"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "L\u00fai Onthebeat",
+          "url": "https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu"
+        },
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        }
+      ],
+      "duration_ms": 188702,
+      "name": "Party En Tokyo",
+      "url": "https://open.spotify.com/track/07ygK0QerRdgoyfPsjdZ1j"
     },
     {
       "added_at": "2023-12-29 05:00:00",

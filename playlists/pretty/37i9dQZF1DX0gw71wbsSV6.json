@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 44991,
+  "num_followers": 45007,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Y5MWZjYzAwMjAxNTIwN2ViNmQzYmM4NzAzODNjN2M2ZWU1ZTY5",
+  "snapshot_id": "MCw1NThiN2E0Zjg2MjNjYzA0MmY0NDQyNzY5NGZlNmYwNjBmYmEwN2Iw",
   "tracks": [
     {
       "added_at": "2023-12-28 15:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-12-28 15:00:00",

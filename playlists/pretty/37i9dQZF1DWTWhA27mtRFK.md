@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,882 likes - 55 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,908 likes - 55 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 54 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 |
 | 55 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 
-Snapshot ID: `MCxmYmU4MDFlODU2MzQwN2I4MWQzOTk4ODEyMjA3ODQ3MzdmOTE1MmQ2`
+Snapshot ID: `MCxjN2M4MWI1Y2ExNjUxMWRlZDA4MjAxOGI0M2E4ZTg1ZTRlMzU1YjI5`

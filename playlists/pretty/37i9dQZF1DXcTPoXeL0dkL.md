@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,937 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,055 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 | 60 | [Adios Amor](https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 1](https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6) | 4:19 |
 
-Snapshot ID: `MCwyMjY4ZTY2Y2YxMGM1YWM2NzQyNzEzM2IxNGNhNGMwNGIwMGMyNmU2`
+Snapshot ID: `MCwyYzA4Y2ZmZjBkYTE3NzZjNjg0NWQ3YTdlYTg0YTJkODU0NGMwYWYx`

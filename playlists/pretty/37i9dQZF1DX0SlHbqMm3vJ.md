@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,161 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,223 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 49 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
 | 50 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 |
 | 51 | [Area Party](https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Area Party](https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL) | 2:02 |
-| 52 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
-| 53 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 |
+| 52 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 |
+| 53 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
 | 54 | [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 |
 | 55 | [Lose Ya](https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:00 |
 | 56 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
 | 57 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 58 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 | 59 | [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 |
-| 60 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 |
-| 61 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 |
+| 60 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 |
+| 61 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 |
 | 62 | [ALL MY LIFE](https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [ALL MY LIFE](https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS) | 2:36 |
 | 63 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
 | 64 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 |
 | 80 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 
-Snapshot ID: `MCxiYTViNzdiNWQ2NTg5MDI5OTdmMjFkNWIyMTk3ZTBiODlhNThjNTU4`
+Snapshot ID: `MCwyOWFmODdlMDY2YmNkMmU0MmFiNzk3YjMxMDNiNTYyZTE3MWVkNjk4`

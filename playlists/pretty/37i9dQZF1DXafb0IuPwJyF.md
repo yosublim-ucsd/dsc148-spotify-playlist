@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,579 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,686 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 |
 | 50 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
 
-Snapshot ID: `MCw5ODYzN2I1NDFkNTljOWI4ODU2NzQ5Nzg2YTc2YjY5YWE3MWI3ZjY1`
+Snapshot ID: `MCxkMjZmZjNkYTg3NDk1M2Q1NjY4ZTJhZDNiOWEzNTk0M2RhYzU0OTJi`

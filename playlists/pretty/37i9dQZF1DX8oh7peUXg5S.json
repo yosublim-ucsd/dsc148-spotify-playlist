@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Serrat.",
-  "num_followers": 319944,
+  "num_followers": 320037,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MThmMTViZTFhZmRiYmQ0OTVjYmZkYzMyZTJmMmQ0OTQ0YWU1MjVk",
+  "snapshot_id": "MCxkMjgxOGZiZWM0ZjE0NzlmN2U4ZTBiYmI4ZTc1NDk0NjNkMzBlNmJl",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -723,6 +723,46 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Eva Sierra",
+          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Solo para Ti",
+      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -763,46 +803,6 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Eva Sierra",
-          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Solo para Ti",
-      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 209471,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1499,22 +1495,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
       },
@@ -1531,6 +1511,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Qui\u00e9reme Bien (feat. Leiva)",
         "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2023-12-14 23:00:00",

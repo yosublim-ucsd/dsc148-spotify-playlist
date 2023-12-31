@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTQwODhlYTU5YzMyOTY5ZTI3YTg4ZTBlN2QyNzQ3YzhkYTU5M2M3",
+  "snapshot_id": "MCwwOTYyNzIwMGE0Nzg4NDQ2YTQ3MTU2ODdhMjM2MzdlYjM0MGRiYjk1",
   "tracks": [
     {
       "added_at": "2023-12-08 09:05:06",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 277720,
       "name": "Witch Craft",
       "url": "https://open.spotify.com/track/5c8oYApmLXrs4Ef4U32ldy"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Live at Unity",
-        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "Only Love Can Break Your Heart - Live",
-      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Live at Unity",
+        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "Only Love Can Break Your Heart - Live",
+      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "My Shining Hour",
-      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 141266,
       "name": "Melancholy March",
       "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
     },
     {
       "added_at": "2023-12-08 09:05:06",

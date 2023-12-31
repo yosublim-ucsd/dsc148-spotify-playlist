@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NewJeans
 
-861 songs - 1 day 23 hr 4 min
+862 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 | 2022-08-25 | 2022-10-14 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 | 2023-02-28 |
 | [WHEN I MOVE \- Japanese Version](https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [WHEN I MOVE \(Japanese Version\)](https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd) | 2:58 | 2022-12-06 | 2023-01-18 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-28 |  |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-11-25 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |

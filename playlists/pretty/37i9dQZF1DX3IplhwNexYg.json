@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Etta Marcus",
-  "num_followers": 114379,
+  "num_followers": 114382,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGM0NTA0NGVjMDgzM2NmNzFhN2E4YjVmZjE3ZTE5ZTkzOWU1MzQ1",
+  "snapshot_id": "MCxlOTQwM2EzMDEyYmViNTU0ZGVkY2I3ZjUwMzE2YzU2M2Y0NDkyZjY1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Make You Proud",
-        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 207439,
-      "name": "Make You Proud",
-      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 174626,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Make You Proud",
+        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 207439,
+      "name": "Make You Proud",
+      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Voice Of The Voiceless",
+        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "Voice Of The Voiceless",
+      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
       },
@@ -843,38 +859,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Voice Of The Voiceless",
-        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 193612,
-      "name": "Voice Of The Voiceless",
-      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Big Red",
-        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "September",
-      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Big Red",
+        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Slime",
-        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Lifetime of Wanting",
         "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 206667,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+      "duration_ms": 174761,
+      "name": "I Wanna Dance With You",
+      "url": "https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666"
     }
   ],
   "unique_name": "pulp",

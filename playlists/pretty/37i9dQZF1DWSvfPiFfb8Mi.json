@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 547382,
+  "num_followers": 547450,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2RiZDM4Y2QxM2ZkZjc0NDQwOTdkNTZkNmRiZTI5NmEyNTg2ZmYx",
+  "snapshot_id": "MCw2N2M3MmM2NzUwMjNlYzg5NjI2OWU3ODgyMzc4YzhkYmY1YjQzYjM0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1287,42 +1287,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Please - Single Edit",
-      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 230854,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sweet Side",
         "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
@@ -1339,6 +1303,22 @@
       "duration_ms": 225414,
       "name": "Leave Me Behind",
       "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Please - Single Edit",
+      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1367,22 +1347,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
       "artists": [
         {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         },
         {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+      "duration_ms": 230854,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1407,18 +1387,42 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1435,6 +1439,22 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1459,26 +1479,6 @@
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 147086,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1583,30 +1563,6 @@
       "duration_ms": 197297,
       "name": "To the Stars and Back",
       "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "FWD (feat. Rudimental & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
-      },
-      "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "FWD (feat. Rudimental & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,6 +1587,50 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 147086,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "FWD (feat. Rudimental & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "FWD (feat. Rudimental & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "duration_ms": 232794,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Love If You Need It (feat. Fi McCluskey)",
         "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Love In C Minor (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Love In C Minor - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Love In C Minor (Franc Moody Remix)",
-        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Love In C Minor - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
     },
     {
       "added_at": "2023-12-15 05:00:00",

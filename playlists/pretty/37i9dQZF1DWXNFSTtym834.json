@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1250610,
+  "num_followers": 1250825,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWE1ZmQwZjgyZmRhODRmMjMxNGJjZTUzMDk3ODRmYWE4YTFmMDhm",
+  "snapshot_id": "MCw0ZmJmZGZjNTc5NWM1ZjM3MzZhNzY3YmQ2NTE1MzE5YTA3YjRkMjcw",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Guitar Gangsters & Cadillac Blood",
         "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 187960,
       "name": "Carrion",
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Rock The Rebel / Metal The Devil",
-        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Sad Man's Tongue",
-      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Rock The Rebel / Metal The Devil",
+        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Sad Man's Tongue",
+      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+      "duration_ms": 476266,
+      "name": "The Day That Never Comes",
+      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 476266,
-      "name": "The Day That Never Comes",
-      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Slania",
-        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Inis Mona",
-      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 249320,
       "name": "Hole in the Earth",
       "url": "https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Slania",
+        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Inis Mona",
+      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
     },
     {
       "added_at": "2023-02-08 17:32:03",

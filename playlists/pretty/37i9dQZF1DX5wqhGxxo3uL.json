@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 82368,
+  "num_followers": 82588,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGYzZGI0NmEwNzkxODc1ZjY3N2NiOWM4YTliNTBkNmE2Y2U3ZjE2",
+  "snapshot_id": "MCwxMWIxZGQ1YmY0YzNiNDk0YjI5YzJkYTc3ZTBjMmI4MDEyYTQ5NDBl",
   "tracks": [
     {
       "added_at": "2023-09-05 22:48:49",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+        "name": "Insomniatic",
+        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+      "duration_ms": 219773,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
     }
   ],
   "unique_name": "Slumber Party",

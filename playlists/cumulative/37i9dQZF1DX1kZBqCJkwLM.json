@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
@@ -1790,6 +1790,24 @@
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "album": {
+        "name": "I Like What I Like",
+        "url": "https://open.spotify.com/album/2paBP4J2rtkgm6qCf1wLz0"
+      },
+      "artists": [
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147685,
+      "name": "I Like What I Like",
+      "url": "https://open.spotify.com/track/5oBNstiTAmsI8hE9w5klfJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 289395,
+  "num_followers": 289420,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWRhZDQ4Y2Q1YmRiNDU1YzdhYmVmYjFmZDE4MzViZjZjNDNjM2Zm",
+  "snapshot_id": "MCxiYjg3ODM0NWFlZDYzZDY2YzdmOWRjYTgxNjI1ZTBhYmQ1MTNjZmQ4",
   "tracks": [
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 242442,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 242442,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Baila Kumi",
-        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Baila Kumi",
-      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Caribe 2.0",
         "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 155400,
       "name": "Caribe 2.0",
       "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Baila Kumi",
+        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Baila Kumi",
+      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
     },
     {
       "added_at": "2023-12-01 08:46:07",

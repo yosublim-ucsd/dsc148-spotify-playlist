@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-93 songs - 7 hr 16 min
+94 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 | 2021-07-28 |  |
 | [Mama Nature](https://open.spotify.com/track/30TeIbEyHxzftJeNFZmlWz) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Honey](https://open.spotify.com/album/5jeIcIob6QVT4W3zvAH7hZ) | 3:40 | 2021-07-28 | 2023-01-26 |
 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 | 2021-07-28 |  |
+| [Momentos](https://open.spotify.com/track/1IUjtAcCFIo05a9JaGplyG) | [Paulina Fuentes](https://open.spotify.com/artist/5n692lJsTkWqbYvFkSQTeN) | [Invierno](https://open.spotify.com/album/6n5ikOqqyYiJnAmiexXbmx) | 4:56 | 2021-07-28 |  |
 | [Monk Around](https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3) | [Daniel Wong](https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J) | [Daniel Wong Trio](https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B) | 3:50 | 2021-07-28 | 2023-11-18 |
 | [Mosquita muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 | 2023-11-23 |  |
 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 | 2021-07-28 |  |
@@ -84,7 +85,7 @@
 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 | 2021-07-28 | 2023-11-17 |
 | [Slow Down](https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx) | [Juan Pedro Organ Trio](https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod) | [Advice from a Cat](https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1) | 7:50 | 2022-12-01 | 2023-01-21 |
 | [Sueños](https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 8:05 | 2022-08-16 | 2023-04-09 |
-| [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 | 2022-03-30 |  |
+| [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 | 2022-03-30 | 2023-12-31 |
 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 | 2021-07-28 |  |
 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 | 2021-07-28 | 2023-12-24 |
 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 | 2021-07-28 |  |

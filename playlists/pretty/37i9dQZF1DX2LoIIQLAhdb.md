@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,228 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,326 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mytho](https://open.spotify.com/track/1PEZVaEXQsw0HoX0kIAikX) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Kimy](https://open.spotify.com/album/6aKOkRtZBOuGk6EqUO5n3d) | 2:31 |
 | 40 | [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 |
 
-Snapshot ID: `MCwyMDcyYTU3YmZhNWM1ZWQ0ZDM5NThjNDNiMzJhNTRlNzE5NTNlNTlh`
+Snapshot ID: `MCw0NGFkMWQzNmIzYzY2MjUwMmM0MWZlYzM5Nzc5NGI0NjczMmJlY2Rl`

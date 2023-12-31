@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2782021,
+  "num_followers": 2782702,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA4NjY3MWZjMTUyYzBhOTYzMDg4MjQwMDFjMDhlNjhkMTFhNDQ2",
+  "snapshot_id": "MCwxMjM1YjMxYTU4MGM1NmIyZTI4ZDgwODgxZGY0ODYzYWE0NmY0M2I4",
   "tracks": [
     {
       "added_at": "2023-12-05 22:35:20",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+      "duration_ms": 270533,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
     },
     {
       "added_at": "2023-12-05 22:35:20",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 270533,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2023-12-05 22:35:20",

@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162438,
+      "name": "Estilo Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/6egNmHLmEDsSYx7dRPQVGe"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
       },
@@ -1250,7 +1272,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 356810,
       "name": "Poesias (Medley) - Ao Vivo",
       "url": "https://open.spotify.com/track/1sqpuFuRB2nToPIPTODcdI"

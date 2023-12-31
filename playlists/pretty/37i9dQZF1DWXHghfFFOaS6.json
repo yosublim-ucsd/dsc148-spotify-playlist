@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 321427,
+  "num_followers": 321532,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzA2OGIxZWMwYTY4NDZkZWVlYmFjYTJjZGIwMmEwZmJiODk5Yzk2",
+  "snapshot_id": "MCwwMDQ0ZGMwNzJiYjg1NTA0MGIxMjg3ZjY0ZGNjYzhiYzAwZmFjMzYy",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Worldwide Underground",
         "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 286920,
       "name": "Back In The Day",
       "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -743,6 +743,22 @@
       "duration_ms": 265760,
       "name": "Apple Green",
       "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 479466,
+      "name": "Knucklehead",
+      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -827,38 +843,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 479466,
-      "name": "Knucklehead",
-      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Hard Work",
         "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 417960,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Punch&Words",
-          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Block Episode",
-      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Punch&Words",
+          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Block Episode",
+      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Funkhaus Studio Sessions",
-        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
-      },
-      "artists": [
-        {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "No Use - Funkhaus Sessions",
-      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Funkhaus Studio Sessions",
+        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "No Use - Funkhaus Sessions",
+      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
     },
     {
       "added_at": "2022-07-14 19:24:43",

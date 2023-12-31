@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,020 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,027 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 72 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
 | 73 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
 | 74 | [Easy](https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:31 |
-| 75 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
-| 76 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
+| 75 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
+| 76 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
 | 77 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
 | 78 | [Praying For You](https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:34 |
 | 79 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 |
 | 80 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 |
-| 81 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
-| 82 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
-| 83 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
-| 84 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
+| 81 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
+| 82 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
+| 83 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
+| 84 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 85 | [Loving You Is Easy](https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:08 |
 | 86 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
 | 87 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 90 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 |
 | 91 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
 | 92 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU), [The Psalm Room](https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
-| 93 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
-| 94 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
-| 95 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
-| 96 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 |
-| 97 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 3:52 |
-| 98 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
-| 99 | [Baby Will You Love Me](https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2) | 3:33 |
+| 93 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 3:52 |
+| 94 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
+| 95 | [Baby Will You Love Me](https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2) | 3:33 |
+| 96 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
+| 97 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
+| 98 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 |
+| 99 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
 | 100 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 
-Snapshot ID: `MCwxMjJkZDMyM2MxODM5NjAyNGVmMTY2ODIwMjM0OWUyZjliZDAxZmI4`
+Snapshot ID: `MCxiMTAwZDZhNzgyYTRjNDgyZmNkMDFmMzVkOTk0ZDA5MWFkMmNlZDAy`

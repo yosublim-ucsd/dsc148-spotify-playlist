@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 224833,
+  "num_followers": 224947,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDU5YTk2NjA4YjgwNTY2ZTVmMTVjMGU4Y2I5NTZiMjUxNjNlYThm",
+  "snapshot_id": "MCwyODQ3ZTExMzk2OTM3OTliNjI5ODBkM2RjOWViYzE5MTlkMGE0MDM0",
   "tracks": [
     {
       "added_at": "2023-11-03 07:44:24",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+      "duration_ms": 270750,
+      "name": "Holy Essence",
+      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -67,18 +67,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 270750,
-      "name": "Holy Essence",
-      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 415745,
-      "name": "Walk By Faith",
-      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -523,34 +503,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
       "artists": [
         {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/1R29EqpkKjW9zJyr5U98Uj"
-      },
-      "artists": [
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
         {
-          "name": "Bree DuVal",
-          "url": "https://open.spotify.com/artist/5a6Ql5gFWtlgLT0zK6cYGp"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 182218,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2xtqzQgpvCb1RAKMLTStIy"
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -575,6 +543,38 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/1R29EqpkKjW9zJyr5U98Uj"
+      },
+      "artists": [
+        {
+          "name": "Bree DuVal",
+          "url": "https://open.spotify.com/artist/5a6Ql5gFWtlgLT0zK6cYGp"
+        }
+      ],
+      "duration_ms": 182218,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2xtqzQgpvCb1RAKMLTStIy"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Work It Out",
         "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
       },
@@ -991,22 +1007,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Valley (CalledOut Music Remix)",
-        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
       },
       "artists": [
         {
-          "name": "DAYASOUL",
-          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
         }
       ],
-      "duration_ms": 187124,
-      "name": "Valley - CalledOut Music Remix",
-      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1027,18 +1039,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "I'll Praise",
-        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+        "name": "Valley (CalledOut Music Remix)",
+        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "DAYASOUL",
+          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 160405,
-      "name": "I'll Praise",
-      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+      "duration_ms": 187124,
+      "name": "Valley - CalledOut Music Remix",
+      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1067,6 +1083,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
       },
@@ -1083,18 +1115,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+        "name": "The Vow",
+        "url": "https://open.spotify.com/album/59Dy7JlbizSswk7Kyz6W61"
       },
       "artists": [
         {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         }
       ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+      "duration_ms": 166736,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/19v9iH4uLahnxCJzncEdh3"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1119,38 +1151,6 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "The Vow",
-        "url": "https://open.spotify.com/album/59Dy7JlbizSswk7Kyz6W61"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/19v9iH4uLahnxCJzncEdh3"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "My Truth",
-        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Nothing To Something",
-        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 257896,
-      "name": "Nothing To Something",
-      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Nothing To Something",
+        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 257896,
+      "name": "Nothing To Something",
+      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1423,42 +1423,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
-      },
-      "artists": [
-        {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Pull My Heart Away",
-        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sweat",
-          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Pull My Heart Away",
-      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "HOMIE",
         "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Pull My Heart Away",
+        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sweat",
+          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Pull My Heart Away",
+      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+      },
+      "artists": [
+        {
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Authentic Love",
         "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 282125,
       "name": "Authentic Love",
       "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "I Surrender All (Allt till Jesus)",
-        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/0hhrJIIQMCIp3JOrjBcTRB"
       },
       "artists": [
         {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
         },
         {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+          "name": "Beloved Music",
+          "url": "https://open.spotify.com/artist/6zZJfrWCq3o5OvmNAXbCLP"
         }
       ],
-      "duration_ms": 192968,
-      "name": "I Surrender All (Allt till Jesus)",
-      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
+      "duration_ms": 255157,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/6sj6JEaj9Il7l87AEMlPzo"
     }
   ],
   "unique_name": "Rhythm & Praise",

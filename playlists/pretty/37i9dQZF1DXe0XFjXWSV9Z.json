@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 41868,
+  "num_followers": 41889,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjU0Y2E4ZWM4MTA3MGZiMGI0YmRlYzhiMWE5MmMyYTM0ZGVlODVk",
+  "snapshot_id": "MCxiODdkZTEyYzgyNGExMTZlYmZmMmY0YjY5ODEyZDJlZDAxMTZlNzI0",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY"
-      },
-      "artists": [
-        {
-          "name": "Compay Quinto",
-          "url": "https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY"
+      },
+      "artists": [
+        {
+          "name": "Compay Quinto",
+          "url": "https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
     },
     {
-      "added_at": "2022-02-15 02:15:55",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "La N\u00famero Uno",
@@ -1075,6 +1059,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2022-02-15 02:15:55",
+      "album": {
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Nixon en la Playa",
-        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "La Ni\u00f1a Cu\u00e1ntica",
-      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Coraz\u00f3n Amaz\u00f3nico",
         "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 199680,
       "name": "Un Traguito de Ayahuasca",
       "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Nixon en la Playa",
+        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "La Ni\u00f1a Cu\u00e1ntica",
+      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Gran Cacique",
+        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 192232,
+      "name": "Me Robaron Mi Runa Mula",
+      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
+    },
+    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1447,22 +1463,6 @@
       "duration_ms": 237524,
       "name": "Luna Villera",
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "El Gran Cacique",
-        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 192232,
-      "name": "Me Robaron Mi Runa Mula",
-      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1595,18 +1611,34 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+        "name": "Paganismo",
+        "url": "https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
         }
       ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+      "duration_ms": 253909,
+      "name": "Fantasmagor\u00eda",
+      "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "De La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 186675,
+      "name": "Canci\u00f3n De Aplauso",
+      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -1627,38 +1659,6 @@
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "De La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 186675,
-      "name": "Canci\u00f3n De Aplauso",
-      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Paganismo",
-        "url": "https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 253909,
-      "name": "Fantasmagor\u00eda",
-      "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
     },
     {
       "added_at": "2021-10-20 15:37:42",

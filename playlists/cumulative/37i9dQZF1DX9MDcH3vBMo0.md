@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-692 songs - 1 day 6 hr 2 min
+693 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-09 | 2023-01-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-04-21 | 2022-09-24 |
 | [die zeit läuft ab](https://open.spotify.com/track/3SbBK3NdAK2t1DdoAz9XkH) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 3:03 | 2022-04-21 | 2022-09-24 |
-| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 |  |
+| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 | 2023-12-31 |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-21 | 2023-07-04 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-21 |  |
@@ -455,6 +455,7 @@
 | [Première danse](https://open.spotify.com/track/5CarVFpPgtCwKinfh0OGlN) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Première danse](https://open.spotify.com/album/3LP5KCGtQjoCxwsXuDVOyx) | 2:35 | 2022-04-21 | 2022-09-24 |
 | [Prenzlauer Berg](https://open.spotify.com/track/0e3y5hjse0J123DuRwJPbd) | [Patricia Aveline](https://open.spotify.com/artist/0yUDeJSQPp9jciPAg9yoFg) | [Prenzlauer Berg](https://open.spotify.com/album/31IU85yqqwUcmLtfXYx1jv) | 2:12 | 2022-04-21 | 2022-07-21 |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2022-04-21 |  |
+| [Promesse D'éternité](https://open.spotify.com/track/0Yu9HsjpJCiLYg2nUOBfy1) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Promesse D'éternité](https://open.spotify.com/album/5VTThcWw7ecJEfuuDTS2mA) | 2:20 | 2023-12-18 |  |
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2022-04-21 | 2022-08-10 |
 | [Pure and Simple](https://open.spotify.com/track/0FhWep2SISPph4SvObzRt3) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Pure and Simple](https://open.spotify.com/album/0JukiK7Cxo9q9NaHqMZZuz) | 2:27 | 2022-04-21 | 2022-07-21 |
 | [Puritano](https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Puritano](https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC) | 3:06 | 2022-04-21 | 2023-10-19 |

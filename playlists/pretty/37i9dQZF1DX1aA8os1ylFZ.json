@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241723,
+  "num_followers": 241743,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM5Y2E0NzQ0YjgxMzAxY2ZkZjRmMWQ5MmMxMzVlYzg0YzliYTVj",
+  "snapshot_id": "MCwzOGM0N2M5ZDAyZWFjNDFhMmM4ZjUyYzU3OTJkMTVmMjU2OGZmMmU0",
   "tracks": [
     {
       "added_at": "2023-12-28 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 233826,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "speed up",
-        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        },
-        {
-          "name": "K1D",
-          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
-        }
-      ],
-      "duration_ms": 149989,
-      "name": "speed up",
-      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "speed up",
+        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        },
+        {
+          "name": "K1D",
+          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
+        }
+      ],
+      "duration_ms": 149989,
+      "name": "speed up",
+      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Muted Chaos.",
         "url": "https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "hoe bedoel je?",
         "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 160604,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 181422,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Say That",
         "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
       "artists": [
         {
-          "name": "Quessswho",
-          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 121263,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
+      "duration_ms": 181422,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 122400,
       "name": "Do They Know",
       "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
+      },
+      "artists": [
+        {
+          "name": "Quessswho",
+          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
+        }
+      ],
+      "duration_ms": 121263,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     },
     {
       "added_at": "2023-12-28 23:00:00",

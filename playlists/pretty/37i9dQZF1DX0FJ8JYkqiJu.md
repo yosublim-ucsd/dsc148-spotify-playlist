@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,504 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,544 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 41 | [What a Wonderful World \- Krister Remix](https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII) | [No.oN](https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK), [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y), [Krister](https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc) | [What a Wonderful World \(Krister Remix\)](https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW) | 1:35 |
 | 42 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
 | 43 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 |
-| 44 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
-| 45 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
-| 46 | [Wake Up Call](https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:44 |
-| 47 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 |
-| 48 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
-| 49 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 |
+| 44 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 |
+| 45 | [Wake Up Call](https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:44 |
+| 46 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
+| 47 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
+| 48 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 |
+| 49 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 | 50 | [Hollow](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU) | 4:14 |
-| 51 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
-| 52 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
+| 51 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
+| 52 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 53 | [Tulum](https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:45 |
 | 54 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 55 | [Raye](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Raye](https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4) | 4:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
 | 70 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
 
-Snapshot ID: `MCw3OGRjZjM1NzY2MDZmOGRjODMzZGQ3NjQ5MWI0Y2JiY2U4NTFhYWVk`
+Snapshot ID: `MCw1ZDk5YzQwYjQ1N2NhODZiNDM0OTg4ZDBiYWFjMzQ3Y2IxNDM1NGJk`

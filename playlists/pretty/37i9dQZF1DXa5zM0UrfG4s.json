@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 106939,
+  "num_followers": 106952,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTExNzIzMWVhZDZlOThhOTA0MjEzYmY2MjE1ZTUxNjExNWQ2NzVj",
+  "snapshot_id": "MCwzY2ZlNTg3NzkxYTc1MmQ5YjVjNzQ1YWU5NjBmMDJmMjNhZWI1YzJk",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "KJ\u00d8PE HELE SVERIGE",
-        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0V54CqEaVc2NJe167KXdqe"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "Oberg",
+          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
         }
       ],
-      "duration_ms": 117180,
-      "name": "KJ\u00d8PE HELE SVERIGE",
-      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
+      "duration_ms": 161104,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/5DcVJM3W2lkjogTromoy3D"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -327,38 +327,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/0V54CqEaVc2NJe167KXdqe"
+        "name": "KJ\u00d8PE HELE SVERIGE",
+        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
       },
       "artists": [
         {
-          "name": "Oberg",
-          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 161104,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/5DcVJM3W2lkjogTromoy3D"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Fyll & Faenskap",
-        "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Sofie Svensson & Dom D\u00e4r",
-          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
-        }
-      ],
-      "duration_ms": 175075,
-      "name": "Fyll & Faenskap",
-      "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
+      "duration_ms": 117180,
+      "name": "KJ\u00d8PE HELE SVERIGE",
+      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -379,6 +359,26 @@
       "duration_ms": 135000,
       "name": "Raggarbil",
       "url": "https://open.spotify.com/track/6iV9GKfPUxeCSGnUotAM0k"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Fyll & Faenskap",
+        "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "duration_ms": 175075,
+      "name": "Fyll & Faenskap",
+      "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "TANTE",
-        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lauren",
-          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
-        },
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "TANTE",
-      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "DJ M\u00f8M\u00f8 presenterer: Bukkene Bruse p\u00e5 badeland",
         "url": "https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 116197,
       "name": "H\u00e6ljetur (feat. Hagle)",
       "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "TANTE",
+        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        },
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "TANTE",
+      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -771,8 +771,8 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "\u00d6ver gr\u00e4nsen",
-        "url": "https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA"
+        "name": "Danse p\u00e5 panseret",
+        "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
         }
       ],
-      "duration_ms": 138250,
-      "name": "\u00d6ver gr\u00e4nsen",
-      "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
+      "duration_ms": 144000,
+      "name": "Danse p\u00e5 panseret",
+      "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Danse p\u00e5 panseret",
-        "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
+        "name": "\u00d6ver gr\u00e4nsen",
+        "url": "https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA"
       },
       "artists": [
         {
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "BEK & Moberg",
-          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Danse p\u00e5 panseret",
-      "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
+      "duration_ms": 138250,
+      "name": "\u00d6ver gr\u00e4nsen",
+      "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
     },
     {
       "added_at": "2023-12-14 23:00:00",

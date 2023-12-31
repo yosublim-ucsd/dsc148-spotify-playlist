@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: WONKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,840 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,891 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 89 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 | 90 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 
-Snapshot ID: `MCw4MjE1YjdlNzVkMzRkYzA4MWQ2NDQ0YjA3NmU3MDMyMDdkODllY2Q2`
+Snapshot ID: `MCxkMjBmMzMxN2Y5Yzg1MDM3N2I1ZDgwODVhOTg1ZGM1ZGFkMjg3NzQ3`

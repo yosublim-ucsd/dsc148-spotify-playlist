@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,237 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,234 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
 | 100 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 |
 
-Snapshot ID: `MCxlYjViYTVhMWJlNmEwN2QwMjlhMjM2NzI1NmRiNGEwMGVmYWZkOGZh`
+Snapshot ID: `MCxhZmM0OWM2YThlYmM4MjVkZTdjODA1OWZkZmI5ZDQyYjBhMTczMjQ1`

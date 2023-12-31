@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,100 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,098 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 44 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
 | 45 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 46 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
-| 47 | [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 |
-| 48 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
+| 47 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
+| 48 | [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 |
 | 49 | [Wake Up \(Feat\. DEAN\)](https://open.spotify.com/track/6ttHs2fIX0XM2qkEMGhLkA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 3:21 |
 | 50 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
 
-Snapshot ID: `MCwwOGQ0ZjE1NmMxMTIxOWRjYTg3ZWZjNzYwMjBiMDIyMmMwZDU4ZGUy`
+Snapshot ID: `MCw0MGI3OGFjMjM5MTM5ODUxZTViMTEwNTJlMDg2YTlmZTk2OTJiYzdh`

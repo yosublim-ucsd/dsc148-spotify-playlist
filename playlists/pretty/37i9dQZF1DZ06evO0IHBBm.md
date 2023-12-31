@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,222 likes - 47 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,230 likes - 47 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 46 | [És Maior](https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 | 47 | [Vou Louvar](https://open.spotify.com/track/35lexxTpnonCNyIq6cS5yZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 3:56 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA0MTI0MjY0Yjg4MTVjYjc4MDFkMjIzMGY2NTI5YTQwNg==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDBmMmU2MjY0YTA1NWQwMzFkMzdkN2M0MTJhMDNiYzE3Nw==`

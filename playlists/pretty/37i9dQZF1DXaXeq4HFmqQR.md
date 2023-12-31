@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,265 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,271 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 36 | [nada!](https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:29 |
 | 37 | [Keep Trying](https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [Keep Trying](https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee) | 3:38 |
 | 38 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
-| 39 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
-| 40 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 39 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 40 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
 | 41 | [MAL NECESARIO](https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MYKOSIS](https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro) | 2:54 |
 | 42 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 |
 | 43 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl`
+Snapshot ID: `MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1`

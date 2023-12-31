@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-638 songs - 1 day 21 hr 57 min
+639 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 | 2021-10-06 |  |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-06 | 2022-04-18 |
 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 | 2023-10-20 |  |
-| [No Huí](https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [No Huí](https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm) | 3:33 | 2023-10-24 |  |
+| [No Huí](https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [No Huí](https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm) | 3:33 | 2023-10-24 | 2023-12-31 |
 | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv) | [Sumohair](https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5), [Fabi Reyna](https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID) | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam) | 3:23 | 2022-04-17 |  |
 | [No Waiting](https://open.spotify.com/track/5WGuFj5MiI5HfjXNXUuJsK) | [Les Frères Smith](https://open.spotify.com/artist/2DsPD1Xb7F2oukRHmrkEqQ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [No Waiting](https://open.spotify.com/album/31dY7dNVlpbp5BMFjjwXRA) | 5:26 | 2021-10-06 | 2022-04-18 |
 | [Noko Hewon](https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX) | [Afrik Bawantu](https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW) | [Noko Hewon](https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11) | 6:34 | 2021-10-06 | 2022-04-27 |
@@ -561,6 +561,7 @@
 | [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 | 2022-04-17 | 2022-10-26 |
 | [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 | 2023-08-07 |  |
 | [The Ocean](https://open.spotify.com/track/204FgGC3890KCzUvtG33qV) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/5W4WsP6C2y0TO1y2WaWp5E) | 4:02 | 2022-04-17 | 2022-07-29 |
+| [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2023-12-04 |  |
 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2023-10-20 | 2023-12-22 |
 | [The Rabbit That Hunts Tigers](https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:48 | 2021-10-06 | 2023-08-08 |
 | [The Wrangler](https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Wrangler](https://open.spotify.com/album/54TFr7reQoam9PpEzw8mFp) | 2:59 | 2021-10-06 | 2022-07-07 |

@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6722,
+  "num_followers": 6725,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0",
+  "snapshot_id": "MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Been That",
-        "url": "https://open.spotify.com/album/0IqzERcAhNU3TqoxnT1Lj5"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 116480,
-      "name": "Been That",
-      "url": "https://open.spotify.com/track/3K9CIK6QbiIpOV3SkhxtW0"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "MI HOGAR (with maye)",
         "url": "https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 175637,
       "name": "MI HOGAR (with maye)",
       "url": "https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Been That",
+        "url": "https://open.spotify.com/album/0IqzERcAhNU3TqoxnT1Lj5"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 116480,
+      "name": "Been That",
+      "url": "https://open.spotify.com/track/3K9CIK6QbiIpOV3SkhxtW0"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Forma de Ser",
         "url": "https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 184633,
       "name": "running water",
       "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Is It Me?",
-        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Is It Me?",
-      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Ra\u00edces (As\u00ed Se Hace)",
         "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 189760,
       "name": "Luces De La Calle",
       "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Is It Me?",
+        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Is It Me?",
+      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "guestlist",
-        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
-      },
-      "artists": [
-        {
-          "name": "ARIEL",
-          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
-        }
-      ],
-      "duration_ms": 211070,
-      "name": "guestlist",
-      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "NISSAN",
         "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 116680,
       "name": "NISSAN",
       "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "guestlist",
+        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
+      },
+      "artists": [
+        {
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
+        }
+      ],
+      "duration_ms": 211070,
+      "name": "guestlist",
+      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
     },
     {
       "added_at": "2023-12-06 20:00:00",

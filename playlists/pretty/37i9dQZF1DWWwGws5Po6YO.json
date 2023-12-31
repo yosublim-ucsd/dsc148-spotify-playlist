@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 32926,
+  "num_followers": 32945,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Q0YTQ3MzAwNWNkNzIxYTE5ZmRlMmY0MWU5MmUwYjVmMjBlNThl",
+  "snapshot_id": "MCwzZDhiNzRkMGZiM2FlOTRmYTcxMzNhZDdlYjJlODE5Mzc3Y2FiMmZj",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -779,8 +779,8 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
       "artists": [
         {
@@ -788,25 +788,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -839,6 +823,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",

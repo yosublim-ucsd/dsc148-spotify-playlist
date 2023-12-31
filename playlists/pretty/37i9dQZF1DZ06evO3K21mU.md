@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,350 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,538 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 |
 | 50 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 
-Snapshot ID: `MjgzOTc1MTEsMDAwMDAwMDA3ZTRiNzI5NzU3YmQxM2VmYTE1Y2EwNTFlNGFlYWE3OA==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDAyYjM0ODcwY2Y5ZWZhZmQzZmZmYWYxN2NkZjBlZjQ1MA==`

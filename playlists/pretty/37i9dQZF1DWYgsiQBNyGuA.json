@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 72224,
+  "num_followers": 72264,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzYyMjM4MTI4OTY3YTVlNmU4MDExZTY4OGYxNzllZGJjOWU3MWMx",
+  "snapshot_id": "MCxiMzgyYzQyNWFkZWI1ZGY1MGVlNjc4Mjk0NGZjMzBjOThiMmFhZThj",
   "tracks": [
     {
       "added_at": "2023-10-06 09:12:51",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Come and Be a Winner",
-      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Come and Be a Winner",
+      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Back To Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "Special Night",
         "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 166440,
       "name": "Free",
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Back To Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 225133,
       "name": "100 Days, 100 Nights",
       "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
-      },
-      "artists": [
-        {
-          "name": "Chico DeBarge",
-          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Oh No (Man)",
-      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 265560,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
+      },
+      "artists": [
+        {
+          "name": "Chico DeBarge",
+          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Oh No (Man)",
+      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
     },
     {
       "added_at": "2023-10-06 09:12:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,085 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,121 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 | 70 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
 | 71 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
-| 72 | [DUEL!!](https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:50 |
-| 73 | [FFVII REMAKE: ヘリガンナー \(The Valkyrie\)](https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj) | [Keiki Kobayashi](https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 8:50 |
+| 72 | [FFVII REMAKE: ヘリガンナー \(The Valkyrie\)](https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj) | [Keiki Kobayashi](https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 8:50 |
+| 73 | [DUEL!!](https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:50 |
 | 74 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
 | 75 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 
-Snapshot ID: `MCwzOWNmNTk4NzM3ZjJlYmJjZmFhZmYwYTI1Y2QxYjJmMTYwMWVkNTkz`
+Snapshot ID: `MCw1MzMzYTczNGRmNzY3OWRmOGNkOTJkOWIwMGFmYTFhZTBiNWExMTUw`

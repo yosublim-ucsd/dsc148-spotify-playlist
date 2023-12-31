@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,603 songs - 3 day 14 hr 57 min
+1,604 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-28 | 2022-09-15 |
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2023-11-15 | 2023-12-03 |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-19 | 2023-12-27 |
+| [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 | 2023-12-30 |  |
 | [CASE 143](https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:11 | 2022-11-01 | 2022-11-16 |
 | [Casi Amor De Verano](https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Casi Amor De Verano](https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0) | 3:30 | 2022-04-15 | 2022-04-20 |
 | [Casti](https://open.spotify.com/track/3Iec5nPU3h8A9ExTQaRNeK) | [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Casti](https://open.spotify.com/album/27jHJTSUUVwxPQKYL8ZlM6) | 1:54 | 2023-05-24 | 2023-06-02 |
@@ -327,7 +328,7 @@
 | [Cristina](https://open.spotify.com/track/61Rh2JHY0fs949cvhgtXIE) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Sorry, Estoy en Mi Darkera](https://open.spotify.com/album/6NK4S0ZPUudBrWThVBz8c3) | 2:59 | 2023-08-22 | 2023-10-18 |
 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 | 2023-05-11 | 2023-05-15 |
 | [Cuando Repetimo](https://open.spotify.com/track/2wXZID94XOUV7kB8GsVdzK) | [Rocco](https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Cuando Repetimo](https://open.spotify.com/album/06K1ODIQk3H1akTQMBHcUT) | 3:26 | 2023-01-10 | 2023-01-16 |
-| [Cuando Un Bandido Se Enamora](https://open.spotify.com/track/7ubUW5H3zEXQxbS1jnSY15) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Cuando Un Bandido Se Enamora](https://open.spotify.com/album/1kuu3zPce05oeXLdk0v5h8) | 2:50 | 2023-12-26 |  |
+| [Cuando Un Bandido Se Enamora](https://open.spotify.com/track/7ubUW5H3zEXQxbS1jnSY15) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Cuando Un Bandido Se Enamora](https://open.spotify.com/album/1kuu3zPce05oeXLdk0v5h8) | 2:50 | 2023-12-26 | 2023-12-31 |
 | [Cueca Quien Diria](https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD) | [Grupo Alerzal De Los Rios](https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC) | [Cueca Quien Diria](https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w) | 2:18 | 2022-09-17 | 2022-09-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-29 | 2022-11-02 |
 | [Culpable o No](https://open.spotify.com/track/6dydgoHVmvAsRLBTKnitue) | [A los 4 Vientos](https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD) | [Culpable o No](https://open.spotify.com/album/4uZUd0QsHillIoFzqyTlGw) | 3:20 | 2023-09-06 | 2023-09-27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzAwOGQ1OGU5NDQyNTVlNzI3MWRmYjk5Mzk4NjBjMmIwYThmYzkx",
+  "snapshot_id": "MCxjZTI1ZGQ3OTFkY2M2YWY1MzY5YmZlMmExZjBiYzNlMDg1Nzk2M2Rm",
   "tracks": [
     {
       "added_at": "2023-12-25 04:13:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2023-12-25 04:13:42",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2023-12-25 04:13:42",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
-    },
-    {
-      "added_at": "2023-12-25 04:13:42",
-      "album": {
         "name": "Language of Love",
         "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 213447,
       "name": "There You Are (Second Chance)",
       "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
+    },
+    {
+      "added_at": "2023-12-25 04:13:42",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2023-12-25 04:13:42",
+      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 158351,
       "name": "If I See You Tomorrow",
       "url": "https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH"
-    },
-    {
-      "added_at": "2023-12-25 04:13:42",
-      "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "Aqui, Ali, Em Qualquer Lugar",
-        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "She Loves You",
-      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
-    },
-    {
-      "added_at": "2023-12-25 04:13:42",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2023-12-25 04:13:42",
+      "album": {
+        "name": "Aqui, Ali, Em Qualquer Lugar",
+        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "She Loves You",
+      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "Bloomingtale",
-        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 209650,
-      "name": "Like It Was Meant To Be",
-      "url": "https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju"
-    },
-    {
-      "added_at": "2023-12-25 04:13:42",
-      "album": {
         "name": "In the Air",
         "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 285400,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
+    },
+    {
+      "added_at": "2023-12-25 04:13:42",
+      "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 209650,
+      "name": "Like It Was Meant To Be",
+      "url": "https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 235533,
-      "name": "But For Now",
-      "url": "https://open.spotify.com/track/18XHe8cidUZXSTFA94fU0T"
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2023-12-25 04:13:42",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-12-25 04:13:42",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
       "artists": [
         {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 212680,
-      "name": "I Get Along Without You Very Well",
-      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
+      "duration_ms": 235533,
+      "name": "But For Now",
+      "url": "https://open.spotify.com/track/18XHe8cidUZXSTFA94fU0T"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

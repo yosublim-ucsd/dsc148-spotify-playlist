@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Bass Drum",
+        "url": "https://open.spotify.com/album/6rPOOzAErak4il0pRtviQO"
+      },
+      "artists": [
+        {
+          "name": "Errio Indra",
+          "url": "https://open.spotify.com/artist/0bXqfO3O0OxPqMAvPmStAJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312380,
+      "name": "Bass Drum",
+      "url": "https://open.spotify.com/track/76znpt4e8MSTLfO80GBZGp"
+    },
+    {
+      "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
       },
@@ -7587,6 +7605,24 @@
     },
     {
       "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/58ewjmJW7OBCDAKwvpakJX"
+      },
+      "artists": [
+        {
+          "name": "Nino (BG)",
+          "url": "https://open.spotify.com/artist/65dpTPm4xpJRTtBorMz1lA"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160552,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/2amS1VfaBMgsah1q0MgDs7"
+    },
+    {
+      "album": {
         "name": "Hijack: The Remixes",
         "url": "https://open.spotify.com/album/7z1WmzGdlfq6VRc61NTEy3"
       },
@@ -9522,6 +9558,28 @@
       "duration_ms": 214838,
       "name": "Fired Up - Kevin McKay Remix",
       "url": "https://open.spotify.com/track/5Al5MFaiF4rK794xIkFpAD"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/0AAADEvUYkNfRLjPEYaGvO"
+      },
+      "artists": [
+        {
+          "name": "Manuel De La Mare",
+          "url": "https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk"
+        },
+        {
+          "name": "Luigi Rocca",
+          "url": "https://open.spotify.com/artist/23ZwHWwSoeP2gx6HXQYpN6"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186473,
+      "name": "Firestarter - Streaming Edit",
+      "url": "https://open.spotify.com/track/5o9nxhf1ZRbT2uAP2y85fA"
     },
     {
       "album": {
@@ -29988,6 +30046,24 @@
       "duration_ms": 205984,
       "name": "Unleash The Streets",
       "url": "https://open.spotify.com/track/73l9qkAhPx9Ti1TGWXU299"
+    },
+    {
+      "album": {
+        "name": "Uno Dos TAKI",
+        "url": "https://open.spotify.com/album/3YJERqyznORpKgNhz5vCw5"
+      },
+      "artists": [
+        {
+          "name": "Brvss",
+          "url": "https://open.spotify.com/artist/4hmP471gpVFaOAbmb5o8xb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Uno Dos TAKI",
+      "url": "https://open.spotify.com/track/5d40Mp0PeDbuov1sQt8SP2"
     },
     {
       "album": {

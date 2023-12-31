@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 385905,
+  "num_followers": 386533,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWEyMGI0MGUyZjU1NDIwZGQ3ZDU3ZWQ3ZWRiYmYzZTgwNzU4ZWRh",
+  "snapshot_id": "MCw2ZTI2NDljMjkyNzAyNDU3MjVhMjlmMTc0YTY4ZTBhZWFiYTdiYTc1",
   "tracks": [
     {
       "added_at": "2023-12-19 17:30:28",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Ein bisschen Aroma (Stereoact Remix)",
         "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
       },
       "artists": [
         {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -571,22 +587,6 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Die Nacht von Freitag auf Montag",
         "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 178578,
       "name": "Die Nacht von Freitag auf Montag",
       "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/2dqW7QnxwLvGwiEybKnKoD"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
         "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
       },
@@ -1175,30 +1195,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1219,22 +1215,26 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/2dqW7QnxwLvGwiEybKnKoD"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1299,6 +1299,50 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Felicit\u00e0 (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
+      },
+      "artists": [
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        },
+        {
+          "name": "Al Bano",
+          "url": "https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw"
+        }
+      ],
+      "duration_ms": 148447,
+      "name": "Felicit\u00e0 - Stereoact Remix",
+      "url": "https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Mannschaftsfahrt",
+        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        }
+      ],
+      "duration_ms": 168895,
+      "name": "Mannschaftsfahrt",
+      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1339,50 +1383,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Mannschaftsfahrt",
-        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
-      },
-      "artists": [
-        {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        },
-        {
-          "name": "Malin Brown",
-          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
-        }
-      ],
-      "duration_ms": 168895,
-      "name": "Mannschaftsfahrt",
-      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Felicit\u00e0 (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
-      },
-      "artists": [
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        },
-        {
-          "name": "Al Bano",
-          "url": "https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw"
-        }
-      ],
-      "duration_ms": 148447,
-      "name": "Felicit\u00e0 - Stereoact Remix",
-      "url": "https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Das Album",
         "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Klempner Klaus",
         "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
@@ -1419,6 +1435,26 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1447,42 +1483,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Anna-Lena",
-        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
-      },
-      "artists": [
-        {
-          "name": "Honk!",
-          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
-        },
-        {
-          "name": "Deejay Matze",
-          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
-        }
-      ],
-      "duration_ms": 180741,
-      "name": "Anna-Lena",
-      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Arielle",
-        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+        "name": "Bierkapit\u00e4n",
+        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Arielle",
-      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
+      "duration_ms": 210857,
+      "name": "Bierkapit\u00e4n",
+      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2023",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,553 likes - 52 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,591 likes - 52 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 3 | [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 |
 | 4 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 |
 | 5 | [Nesamaguren](https://open.spotify.com/track/6P8dmbcOEz7XPFQjd1V6d5) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Nesamaguren](https://open.spotify.com/album/4nkEN2RptSMX4WAj45u1SK) | 4:23 |
-| 6 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 |
+| 6 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 |
 | 7 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 |
 | 8 | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 |
 | 9 | [Kannoram](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 51 | [Kanavellam](https://open.spotify.com/track/3YxK4m96nKH7Vw3vX1B04p) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kanavellam](https://open.spotify.com/album/1PA3JsfwH3N8TRnuSwWIlw) | 4:36 |
 | 52 | [Kannale Kollathe](https://open.spotify.com/track/3MJk5YJszXWtoHUgX1E1hF) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:22 |
 
-Snapshot ID: `MCwxZmEzZjUzZGM0OGE3YzE4YWQ4Y2VjMDRmYzE3YTFmMDJiN2FjYzk1`
+Snapshot ID: `MCw3MTNlYzNhMGNhZDI1NGU5M2I2YTYzZGFmN2UzOTc2M2UzYjQ1NGQ0`

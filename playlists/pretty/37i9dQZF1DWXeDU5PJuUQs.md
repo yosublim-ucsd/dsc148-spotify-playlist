@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,944 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,085 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 45 | [Jurabas Tu \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 2:11 |
 | 46 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
 | 47 | [Sola y Suelta \- En Vivo](https://open.spotify.com/track/4WLsKfXYMXlF3Kus95sSNC) | [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Sola Y Suelta \(En Vivo\)](https://open.spotify.com/album/2DX8ZsbgoEXTZTLeHzOoun) | 2:49 |
-| 48 | [La Cancioncita \- En Vivo en el Luna Park](https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [La Cancioncita \(En Vivo en el Luna Park\)](https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj) | 5:39 |
+| 48 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 | 49 | [Te Soñé una Vez Mas \- En Vivo](https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:38 |
-| 50 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
+| 50 | [La Cancioncita \- En Vivo en el Luna Park](https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [La Cancioncita \(En Vivo en el Luna Park\)](https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj) | 5:39 |
 | 51 | [Como Podré](https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 4:38 |
 | 52 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 53 | [Dime Si Eres Feliz \- En Vivo](https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE) | 3:32 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 59 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
 | 60 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 61 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 |
-| 62 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
-| 63 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
-| 64 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 |
+| 62 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
+| 63 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 |
+| 64 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 
-Snapshot ID: `MCwzZGEwYTQ4ZGFkMThjYjIyODljODQ2OWZkNThhYTYzZTM0M2ZmNzEw`
+Snapshot ID: `MCxkM2NiNGZiMTZjNTFkNjFkOTBhOGNlM2I1MDQyYjVkMTNmNDkzYTBi`

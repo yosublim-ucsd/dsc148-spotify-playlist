@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u677e\u4efb\u8c37\u7531\u5b9f",
-  "num_followers": 106568,
+  "num_followers": 106585,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2IyY2NkZTk4MWZkMDk4OTU5ODJlOWE0Zjk5MTllODhmZWI3MDYz",
+  "snapshot_id": "MCwzZjlhNTMwNjgxZmVjZGVjNTdkODJlZTBmOGUwMDM4OTU5MjE5Nzk2",
   "tracks": [
     {
       "added_at": "2023-12-28 15:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "Itterasshai",
-        "url": "https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd"
+        "name": "All Night Radio",
+        "url": "https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq"
       },
       "artists": [
         {
-          "name": "Higuchi Ai",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 235433,
-      "name": "Itterasshai",
-      "url": "https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB"
+      "duration_ms": 213000,
+      "name": "All Night Radio",
+      "url": "https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "All Night Radio",
-        "url": "https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq"
+        "name": "Itterasshai",
+        "url": "https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
         }
       ],
-      "duration_ms": 213000,
-      "name": "All Night Radio",
-      "url": "https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci"
+      "duration_ms": 235433,
+      "name": "Itterasshai",
+      "url": "https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "\u604b\u6ce5\u68d2\u3002",
-        "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
       },
       "artists": [
         {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
         }
       ],
-      "duration_ms": 219643,
-      "name": "\u604b\u6ce5\u68d2\u3002",
-      "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
+        "name": "\u604b\u6ce5\u68d2\u3002",
+        "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 219643,
+      "name": "\u604b\u6ce5\u68d2\u3002",
+      "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
         "name": "\u604b\u3060\u3068\u306f",
         "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 226677,
       "name": "\u604b\u3060\u3068\u306f",
       "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
-      },
-      "artists": [
-        {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 181479,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
-        "url": "https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 207970,
-      "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
-      "url": "https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 277453,
       "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
       "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "\u958b\u9752",
+        "url": "https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "\u958b\u9752",
+      "url": "https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
+        "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
+        "url": "https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 207970,
+      "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
+      "url": "https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
-        "name": "\u958b\u9752",
-        "url": "https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "\u958b\u9752",
-      "url": "https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "I like you",
-        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
-    },
-    {
-      "added_at": "2023-12-28 15:00:00",
-      "album": {
         "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
         "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 215600,
       "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
       "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "added_at": "2023-12-28 15:00:00",
+      "album": {
+        "name": "I like you",
+        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+        "name": "\u30ae\u30b8\u30b3\u30a4",
+        "url": "https://open.spotify.com/album/5auRgkr3pZwPt4vlMkwVC9"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "\u6d5c\u91ce\u306f\u308b\u304d",
+          "url": "https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp"
         }
       ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+      "duration_ms": 216875,
+      "name": "\u30ae\u30b8\u30b3\u30a4",
+      "url": "https://open.spotify.com/track/3EQFsbmRzV3XBXQB6tOFKw"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "\u30ae\u30b8\u30b3\u30a4",
-        "url": "https://open.spotify.com/album/5auRgkr3pZwPt4vlMkwVC9"
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
       "artists": [
         {
-          "name": "\u6d5c\u91ce\u306f\u308b\u304d",
-          "url": "https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 216875,
-      "name": "\u30ae\u30b8\u30b3\u30a4",
-      "url": "https://open.spotify.com/track/3EQFsbmRzV3XBXQB6tOFKw"
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-12-28 15:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-12-28 15:00:00",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1x9h8VxQhsxtO7v2ReRTMs"
+        "name": "zoo",
+        "url": "https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
         }
       ],
-      "duration_ms": 219100,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0IzDyNfwiqQGaQ6DqX7ss0"
+      "duration_ms": 159053,
+      "name": "zoo",
+      "url": "https://open.spotify.com/track/1lWajrL6NoG6ZDEtdWdhBN"
     }
   ],
   "unique_name": "Women's Voice",

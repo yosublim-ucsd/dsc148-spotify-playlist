@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-158 songs - 8 hr 28 min
+159 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 | 2023-04-22 |  |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-22 |  |
 | [Eicher Messi \- Mafioso Chapter 1](https://open.spotify.com/track/3XgviOJM1jRGtuL8i9sl0c) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Eicher Messi \(Mafioso Chapter 1\)](https://open.spotify.com/album/4sLu1nx66FK0T2VQrHEvVF) | 3:10 | 2023-06-16 | 2023-07-12 |
-| [Elaan](https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Elaan](https://open.spotify.com/album/2qrRnBtC5ojTsEvmepGiVe) | 3:13 | 2023-12-14 |  |
+| [Elaan](https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Elaan](https://open.spotify.com/album/2qrRnBtC5ojTsEvmepGiVe) | 3:13 | 2023-12-14 | 2023-12-31 |
 | [Extend Mag](https://open.spotify.com/track/4rnNQakQukmfI9v8eWBXuh) | [SB The Haryanvi](https://open.spotify.com/artist/5HmjeHpOiFOpeHQVwqJNOc), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [Extend Mag](https://open.spotify.com/album/1a7zFMClsGzUiLJYEhTl1Y) | 2:35 | 2023-06-16 | 2023-07-12 |
 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 | 2023-03-28 |  |
 | [Four Seater](https://open.spotify.com/track/55M3qbsvxy8wIu6pvEaqYM) | [Dussi Thakur](https://open.spotify.com/artist/2jmPbgfxS1Iq4pAAnAJCFG), [DK Thakur](https://open.spotify.com/artist/5C8nnMAJJgoLewlz08YjOK) | [Four Seater](https://open.spotify.com/album/1tmM6WfooyH9jvAyAlney3) | 2:38 | 2023-08-30 | 2023-09-14 |
@@ -140,6 +140,7 @@
 | [Red Face](https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Red Face](https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf) | 3:19 | 2023-12-14 |  |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 | 2023-09-28 |
+| [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 | 2023-12-22 |  |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |
 | [Sajan Ji](https://open.spotify.com/track/5JmDKw06xkMXfS2HNqTFLg) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Sajan Ji](https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8) | 3:05 | 2023-04-28 | 2023-06-23 |
 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 | 2023-03-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,515 likes - 42 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,563 likes - 42 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 11 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
 | 12 | [Baazi](https://open.spotify.com/track/21jdKUCgXSukh8jRRxIObL) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 7:14 |
 | 13 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 |
-| 14 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 |
+| 14 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 |
 | 15 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 |
 | 16 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
 | 17 | [Latthay Di Chaadar](https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 7:58 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 41 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD), [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F), [Wajiha Naqvi](https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
 | 42 | [Dil Khirki](https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Dil Khirki](https://open.spotify.com/album/3K9z78A8qaaJ2W4IZ8BRcY) | 3:24 |
 
-Snapshot ID: `MCw3N2Q4MjZiYmUyMGVkODJmOTQ5OWIxODRhN2Q1MjRiODBlZmRhZWIx`
+Snapshot ID: `MCw1OWFmZDkxOTYxMWQwYzk4ODdlNWVmYjZhODJlNTNjMzc4NDc0NzM3`

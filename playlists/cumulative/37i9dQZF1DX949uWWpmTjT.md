@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-886 songs - 2 day 9 hr 44 min
+887 songs - 2 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Mood Indigo](https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:45 | 2021-12-03 |  |
 | [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 | 2023-03-30 |  |
 | [Moon Love](https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [The Trumpet Artistry Of Chet Baker](https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM) | 3:15 | 2022-04-08 | 2022-06-15 |
-| [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-06-15 |  |
+| [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-06-15 | 2023-12-31 |
 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 | 2022-08-17 | 2022-11-09 |
 | [Moon river](https://open.spotify.com/track/7JbFAqOtdRPwcWU06oCgcm) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Per Møllehøj](https://open.spotify.com/artist/7rZ5rNAh21rNPtmVKrHjuf), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Inviting](https://open.spotify.com/album/5TJAtu3tUhXPsm71zc9wRL) | 6:49 | 2022-08-17 | 2023-08-19 |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-12 |  |
@@ -689,6 +689,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/22nFrPhzV9b5yzK8GFBbEG) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Stella By Starlight](https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U) | 2:45 | 2023-11-17 |  |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-10 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-12 |  |
+| [Still Life](https://open.spotify.com/track/0ZDYNvHcrjfbN6CbErhqna) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:47 | 2023-12-28 |  |
 | [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-03-16 | 2023-12-24 |
 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 | 2021-12-03 |  |
 | [Stormy Weather \(Keeps Rainin' All The Time\)](https://open.spotify.com/track/5nT91D7XR6gWKuAcTy3IZv) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Modern Sound Of Betty Carter](https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS) | 3:21 | 2022-01-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 131195,
+  "num_followers": 131277,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTJlZmQ5ZWQ5YmEyYTA1YjRiNzlhYjVhNGQwZTMzOTI3ODgzZWI2",
+  "snapshot_id": "MCxmNDUwYzgxNGU0OTk2M2QzODdkYmE2ZDQyMWNkNWJlYWVkNmIxNDA0",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "The Climax Blues Band Plays On",
         "url": "https://open.spotify.com/album/1t1BkXT15XBN7fJ6br7LuX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 266120,
       "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
       "url": "https://open.spotify.com/track/2pKJ5WNABAKYfI4Fa4QmKw"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
     },
     {
       "added_at": "2022-03-25 04:01:00",

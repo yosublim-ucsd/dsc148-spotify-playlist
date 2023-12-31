@@ -2901,6 +2901,32 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 330800,
+      "name": "Symphony No. 92 \"Oxford\"",
+      "url": "https://open.spotify.com/track/2enYXBWV0vgIEpwspJBGXf"
+    },
+    {
+      "album": {
+        "name": "Haydn: Oxford & London Symphonies; Mozart: Paris Symphony",
+        "url": "https://open.spotify.com/album/7zv7yWRe5EyREv1dREIgJA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "English Sinfonia",
+          "url": "https://open.spotify.com/artist/43Nyp1sl8Hu85Q7KvLHscq"
+        },
+        {
+          "name": "Sir Charles Groves",
+          "url": "https://open.spotify.com/artist/2LbvzcuBK5iZHw7SX71VlK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
       "duration_ms": 360800,
       "name": "Symphony No. 92 \"Oxford\"",
       "url": "https://open.spotify.com/track/5jUbm0ZxcU3u2b1LsKdhOR"

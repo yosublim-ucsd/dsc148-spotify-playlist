@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,045 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,056 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 48 | [Healing Buddha](https://open.spotify.com/track/1kIpRt8GikNtF2xlzYHYJP) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Healing Buddha](https://open.spotify.com/album/0Rzx5WRMN8lz59u3Pjjpg6) | 6:48 |
 | 49 | [Pinneyum Pinneyum \- Flute Cover](https://open.spotify.com/track/4aIJnXG66BILEOKTLd6eKW) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Pinneyum Pinneyum \(Flute Cover\)](https://open.spotify.com/album/6pjZknaVN4G2pLzLLtxiV9) | 4:34 |
 | 50 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
-| 51 | [Mountain Bird](https://open.spotify.com/track/4EaPLCrLWM8PdFNjvXf3iE) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Flutetronics](https://open.spotify.com/album/5LVsH3zmGKsvGypCeVMIHF) | 4:59 |
-| 52 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
+| 51 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
+| 52 | [Mountain Bird](https://open.spotify.com/track/4EaPLCrLWM8PdFNjvXf3iE) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Flutetronics](https://open.spotify.com/album/5LVsH3zmGKsvGypCeVMIHF) | 4:59 |
 | 53 | [I Am at Your Feet \- Raga Mangal Bhairav](https://open.spotify.com/track/60ss3RBy4TrBqcaY1WNfS4) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:40 |
 | 54 | [Raapaadee Kezhunnuvo \- Flute Cover](https://open.spotify.com/track/5dVlzBS5Ku3hsj7plqJ2qB) | [Ouseppachan](https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR), [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Raapaadee Kezhunnuvo \(Flute Cover\)](https://open.spotify.com/album/3x5Itg1b6syj9mR9eUxIME) | 4:01 |
 | 55 | [Ka Karoon Sajni \- Instrumental](https://open.spotify.com/track/70ryK0jYDmnsVhk3DlevQR) | [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Soulful Indian Flute Instrumentals](https://open.spotify.com/album/4GfgmRpUSyBlomg4N8oUQy) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 75 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 
-Snapshot ID: `MCxkNmY5YzRhMTBjZjczODI2MjAwODNmNWFiYzM4ODMyNGJjZWJiZmJh`
+Snapshot ID: `MCw3NGIzOGRlYTdiNmFjZDllZjM0Yjk1NDMyNmE0NjliYmM3ZWE0MTE2`

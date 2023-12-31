@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 172250,
+  "num_followers": 172316,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjFlNDUxMDM5OTNjYWM0Y2M5OGI3NjA5M2RmYzE3MmQ0MGQ5ZTcy",
+  "snapshot_id": "MCxjY2VmZjY5MzY2YTg1ZTNhYjEzZGYzNGU5ZjhjMjdhYTg2Y2E5MWFi",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -487,6 +487,46 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Hijo de la Noche",
+        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Hijo de la Noche",
+      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -515,46 +555,6 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284813,
-      "name": "Mundo de Piedra",
-      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Hijo de la Noche",
-        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Hijo de la Noche",
-      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -607,6 +607,22 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "S\u00faper Sangre Joven",
+        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "S\u00faper Sangre Joven",
-        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
@@ -831,6 +851,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "C.R.O - Rock",
         "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
       },
@@ -847,18 +883,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+        "name": "Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
       },
       "artists": [
         {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Chingo de Cheve",
-      "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
+      "duration_ms": 218697,
+      "name": "Grandes Pasos",
+      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -883,22 +919,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 218697,
-      "name": "Grandes Pasos",
-      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 206800,
       "name": "Salud y Vida",
       "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Poesia Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Shuga Wuga",
+          "url": "https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G"
+        }
+      ],
+      "duration_ms": 309606,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Poesia Difusa",
-        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        },
-        {
-          "name": "Shuga Wuga",
-          "url": "https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G"
-        }
-      ],
-      "duration_ms": 309606,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Faruz Fit, Vol. 1",
         "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204214,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "24/Siempre Vol.1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
-      },
-      "artists": [
-        {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
-        }
-      ],
-      "duration_ms": 152298,
-      "name": "Homer el Mero Mero",
-      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Alma Coraz\u00f3n Y Vida",
         "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 200800,
       "name": "Me\u00f1iques",
       "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        }
+      ],
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

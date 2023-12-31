@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,277 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,281 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 15 | [Turn Your Eyes Upon Jesus](https://open.spotify.com/track/4C69pGcZlRTTpYbQZEM9Ye) | [Becca VanDerbeck](https://open.spotify.com/artist/2VNtrixP67qJG8d8smmPrF) | [Sacred](https://open.spotify.com/album/4O8BfAKhLfTWgRjPo2ZRDb) | 4:08 |
 | 16 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
 | 17 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
-| 18 | [Holy, Holy, Holy](https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:50 |
-| 19 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 |
+| 18 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 |
+| 19 | [Holy, Holy, Holy](https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:50 |
 | 20 | [Holy, Holy, Holy](https://open.spotify.com/track/7JzvdSrUXSMXll3SISuO1K) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:09 |
 | 21 | [Lay It All Down](https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 5:51 |
 | 22 | [Simple Gospel \(Live\)](https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:00 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 81 | [Blessed Assurance](https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 7:18 |
 | 82 | [Be Thou My Vision](https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [Be Thou My Vision](https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv) | 3:51 |
 | 83 | [Safe Retreat \(feat\. Braille\)](https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Braille](https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:42 |
-| 84 | [Come, Thou Fount of Every Blessing \(Arr\. Keith McKay Evans\)](https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Lead Thou Me On: Hymns and Inspiration](https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M) | 3:23 |
-| 85 | [I Shall Not Want](https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Fortunate Fall](https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA) | 4:40 |
+| 84 | [I Shall Not Want](https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Fortunate Fall](https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA) | 4:40 |
+| 85 | [Come, Thou Fount of Every Blessing \(Arr\. Keith McKay Evans\)](https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Lead Thou Me On: Hymns and Inspiration](https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M) | 3:23 |
 | 86 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 87 | [Deliverance](https://open.spotify.com/track/52Ow3Du0P5XMBIRvOMHXUj) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Posters](https://open.spotify.com/album/41mwyfJfSsfuELRYdC0q6v) | 3:55 |
 | 88 | [Christ the Sure and Steady Anchor](https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Messenger Hymns, Vol\. 2 \- EP](https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 |
 | 100 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 
-Snapshot ID: `MCw4YmFjMjAxOTIwOTg5NWFkYzFmNjE3MmJhMThiMTdlZjVjODQyOWFl`
+Snapshot ID: `MCw2ZDAyY2Y1MmU2NDY5YWU1NGJjZjhmZjM2ZjI4MGQzODNiMDI4MWQ5`

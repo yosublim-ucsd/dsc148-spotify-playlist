@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 229781,
+  "num_followers": 231579,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzMyMGFhMWE3YjRmMWNlYzk3MjUyMDBjOTAyNDYzOTZmNmVmY2Ey",
+  "snapshot_id": "MCw1OTk0NThhOTA4NmRiMmFjNzgwNmY2YTZhYjFlZDAyMDA2YmQ0ZTM2",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 180133,
       "name": "Build Me Up Buttercup (Mono)",
       "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Kinks (Deluxe Edition)",
@@ -715,6 +699,22 @@
       "duration_ms": 142226,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Country Side Of Esther",
         "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 199320,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2022-06-16 22:02:00",

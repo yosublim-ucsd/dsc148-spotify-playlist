@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1921,
+  "num_followers": 1920,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTUwNmM0MThhMzUyM2NmM2VhZWExZWIxN2IxYzRhNTI0Y2I4ODVj",
+  "snapshot_id": "MCw2M2E2ZDMwZTI1M2FlYjg3MTJhMGQ5MTE1YWNhY2MzOTE2Yzc2ZmNj",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Bwereere",
-        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+        "name": "Fertilizer",
+        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 185939,
-      "name": "Bwereere",
-      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+      "duration_ms": 175072,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -755,22 +759,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Fertilizer",
-        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
         }
       ],
-      "duration_ms": 175072,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -935,22 +935,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
       "artists": [
         {
-          "name": "Victor Ruz",
-          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
         },
         {
-          "name": "Caspian Marvin",
-          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
         }
       ],
-      "duration_ms": 214073,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     }
   ],
   "unique_name": "Made In Uganda",

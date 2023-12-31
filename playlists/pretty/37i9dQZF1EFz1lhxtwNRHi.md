@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 159 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,379 likes - 159 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Treat You Better](https://open.spotify.com/track/5Z4kLuTMKYkpO5zU6fFcwi) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Treat You Better](https://open.spotify.com/album/2bzaqx8826O16nuYrJdDhB) | 4:17 |
-| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/2nADG9vt8bnjIgdDP3ayhG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4PyktVwHNVPcfmcWas0ABR) | 3:58 |
+| 1 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
+| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 3 | [Stitches](https://open.spotify.com/track/2Cm7fX9OtLd5r9wJgA6N3V) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Stitches \(Official Video\)](https://open.spotify.com/album/3BHbgMpMlaFukTSSTgddiD) | 4:00 |
 | 4 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 5 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 139 | [Slow Motion](https://open.spotify.com/track/6gaTvbfNVdunxa0cHSAjgm) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 3:52 |
 | 140 | [Where Will I Remember You](https://open.spotify.com/track/4F4gY99KTW9ACNH5mNwMzn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:16 |
 | 141 | [What Happens Here](https://open.spotify.com/track/5QQNYGYDzznqloFLUA32ff) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:23 |
-| 142 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
-| 143 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
+| 142 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
+| 143 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
 | 144 | [Best Sex](https://open.spotify.com/track/23t5m86sRKtsuJeDGZ48ZH) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:45 |
 | 145 | [true love](https://open.spotify.com/track/6dsuD8fTEa3qqJMOI2Ey1L) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 2:33 |
 | 146 | [i belong here](https://open.spotify.com/track/3dX1DRDdGTy3Y3cDmD0Bf0) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:38 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgzOTgzNzAsMDAwMDAwMDA1YWM4MDY4YWE1ZWI2NjVmNTU2YzVjMTA2MTZmZWM3Nw==`
+Snapshot ID: `MjgzOTk4NjAsMDAwMDAwMDA1Njk0OTQ1ZjRmMjVmMzQzZDMxNGY4Y2VlN2E4MGMxMA==`

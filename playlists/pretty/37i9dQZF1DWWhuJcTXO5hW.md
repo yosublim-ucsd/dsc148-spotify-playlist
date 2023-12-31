@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,594 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,619 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 4 | [Bent El Chalabiya](https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:51 |
 | 5 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 6 | [Nawwâr](https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Asfâr](https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx) | 4:39 |
-| 7 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
-| 8 | [Cetacea](https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL) | [Amanaska](https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY) | [Buddha Bar \- Best Of](https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne) | 4:12 |
+| 7 | [Cetacea](https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL) | [Amanaska](https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY) | [Buddha Bar \- Best Of](https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne) | 4:12 |
+| 8 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
 | 9 | [Callipyge](https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg) | [Toufic Farroukh](https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag) | [Drab Zeen](https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo) | 2:22 |
 | 10 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
 | 11 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 20 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
 | 21 | [Nada](https://open.spotify.com/track/0nqKh7q35gKJSXv7VuqtH7) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:16 |
 | 22 | [Arayib \(Houzam\)](https://open.spotify.com/track/5q5Oz2kAYx76a23pc8Tk1q) | [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Takasim Oud](https://open.spotify.com/album/5VtmMnIVUz5jxBC9KxHUuZ) | 1:44 |
-| 23 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
-| 24 | [More Than Once](https://open.spotify.com/track/67Amwno0hyp64jMbP0HbA9) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:22 |
+| 23 | [More Than Once](https://open.spotify.com/track/67Amwno0hyp64jMbP0HbA9) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:22 |
+| 24 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
 | 25 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |
-| 26 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 |
-| 27 | [Les ondes orientales](https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 9:09 |
+| 26 | [Les ondes orientales](https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 9:09 |
+| 27 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 |
 | 28 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
 | 29 | [D'un crépuscule, l'autre](https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA) | [Contes d'un misérable luth](https://open.spotify.com/album/0cCrNAvXZNoi4EDGPZgE5n) | 6:49 |
 | 30 | [Even If You Leave](https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD) | [Ara Dinkjian](https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X) | [An Armenian In America](https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Saltana](https://open.spotify.com/track/0sZeSBseexWaFsFjl2ZUR4) | [Hussein Mohamed Aly](https://open.spotify.com/artist/0dq4xBuWu91EjmwCBjJft0) | [Fann \(Arabic Traditional Music\)](https://open.spotify.com/album/6MG1BuCZGrYy5j910ubH1s) | 12:46 |
 | 50 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
 
-Snapshot ID: `MCwzYzJhMTU4MzEyNWEyMWQ3OGFiNTIwM2E2NGQxMGE0MGU3NzkwN2Ix`
+Snapshot ID: `MCxmM2Q1YWQ4ZjBkODIzNDY3MDc3OTE3YTBkMTA0OGMxYmU5ZjNhOTE2`

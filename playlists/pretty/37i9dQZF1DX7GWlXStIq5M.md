@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,179 likes - 88 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,201 likes - 88 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 45 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 |
 | 46 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
 | 47 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 |
-| 48 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 |
-| 49 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 48 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 49 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 |
 | 50 | [Revoada](https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Revoada](https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK) | 3:27 |
 | 51 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
 | 52 | [se for pra ser](https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [se for pra ser](https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2) | 3:19 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [cinco anos em cinco minutos](https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [cinco anos em cinco minutos](https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31) | 2:23 |
 | 80 | [Flor da Idade](https://open.spotify.com/track/7byqYK458bCwphyDg66d6G) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Flor da Idade](https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X) | 3:36 |
 | 81 | [Baile](https://open.spotify.com/track/2b2pOFQ3bpSzse6haFIUHY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Frenesi](https://open.spotify.com/album/6g7RGI1raRYXd2mYdqC3tK) | 2:27 |
-| 82 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
-| 83 | [Que saudade de você](https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [Gene Evaro Jr.](https://open.spotify.com/artist/1YRe2Misa5PCCUiR8jAPZE) | [Que saudade de você](https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5) | 4:25 |
+| 82 | [Que saudade de você](https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [Gene Evaro Jr.](https://open.spotify.com/artist/1YRe2Misa5PCCUiR8jAPZE) | [Que saudade de você](https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5) | 4:25 |
+| 83 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 | 84 | [Devi](https://open.spotify.com/track/7ztSM4otmMcgWQF7yd05qv) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Pêssego](https://open.spotify.com/album/3x36px2sBmvdOt0RcD0U1w) | 3:16 |
 | 85 | [Juras De Amor](https://open.spotify.com/track/5TTerkWDZPhRqFaHBTfiV0) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Juras De Amor](https://open.spotify.com/album/7kHFuafy2K2CSNghMZuFsY) | 2:59 |
 | 86 | [PEGADA DE CRIA](https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt) | [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [TRI ÂNGULOS](https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z) | 1:59 |
 | 87 | [Vai Ser Melhor](https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5) | [Patrick](https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [GT](https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH) | [Vai Ser Melhor](https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf) | 3:21 |
 | 88 | [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 |
 
-Snapshot ID: `MCwzM2RmMmE5MjFlYWQ3NDFhMjFhZTllOGVjMjE2MTM3ZDk5MWFiOGE1`
+Snapshot ID: `MCw3NjhiYTNiYzAyNDg1YmJjOTU0NjgyODQ0YmNjNjg2NTZiN2Y1YWMy`

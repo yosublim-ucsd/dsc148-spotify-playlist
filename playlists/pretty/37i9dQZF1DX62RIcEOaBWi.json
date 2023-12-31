@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 562931,
+  "num_followers": 562927,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDU5MjI1MjE5ZmM5Y2VhOGJmMmVhODY0NzVhMTVkZjIyNjUwOGEy",
+  "snapshot_id": "MCw3OGE3MGExZDRlZmI1MWE3YjJmMTdjNGMyYTc3NWFjYjA4MjEwMzQx",
   "tracks": [
     {
       "added_at": "2023-12-22 16:19:06",
@@ -187,6 +187,30 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 243806,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "La_Original.mp3",
         "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
       },
@@ -223,30 +247,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 243806,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "lady madrizZz",
-        "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 131020,
-      "name": "lady madrizZz",
-      "url": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "lady madrizZz",
+        "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "duration_ms": 131020,
+      "name": "lady madrizZz",
+      "url": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "Nochentera",
+        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 202184,
+      "name": "Nochentera",
+      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 181426,
       "name": "AQYNE",
       "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 224186,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "mariposas",
-        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "mariposas",
-      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -1979,22 +1979,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+        "name": "tequiero",
+        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+      "duration_ms": 185958,
+      "name": "tequiero",
+      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "tequiero",
-        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 185958,
-      "name": "tequiero",
-      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Some Say",
-        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 175601,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "EL CONDENAO",
         "url": "https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 144829,
       "name": "EL CONDENAO",
       "url": "https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "Some Say",
+        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 175601,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 240984,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 240984,
-      "name": "Como Si Fueras a Morir Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 177255,
       "name": "KESI",
       "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2023-12-22 16:19:06",
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2023-12-22 16:19:06",
       "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Walk of Life",
+      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+    },
+    {
+      "added_at": "2023-12-22 16:19:06",
+      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
-    },
-    {
-      "added_at": "2023-12-22 16:19:06",
-      "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Walk of Life",
-      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
     },
     {
       "added_at": "2023-12-22 16:19:06",

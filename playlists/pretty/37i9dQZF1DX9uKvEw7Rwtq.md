@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,792 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,878 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 40 | [Drifting](https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK) | [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Drifting](https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H) | 2:53 |
 | 41 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
 | 42 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
-| 43 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
-| 44 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
-| 45 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
-| 46 | [Mystik](https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Escape](https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd) | 2:26 |
+| 43 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
+| 44 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
+| 45 | [Mystik](https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Escape](https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd) | 2:26 |
+| 46 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
 | 47 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
 | 48 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
 | 49 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 95 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |
 | 96 | [I Wonder As I Wander](https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [I Wonder As I Wander](https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg) | 2:16 |
 | 97 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
-| 98 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
-| 99 | [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 |
+| 98 | [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 |
+| 99 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
 | 100 | [Barren](https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Barren](https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN) | 10:16 |
 
-Snapshot ID: `MCw4NDNmNzliOWMzYzBiMGJjZjdkYWE2ODllMGQxNzRjMWM4ZDMwYWIy`
+Snapshot ID: `MCwyMWI0MWE0MjI1MDQ4OTc0MzM0ZTI0MmI3MWMyNGVhNTI4NmNiMjli`

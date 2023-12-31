@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,517 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,069 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 35 | [LIE DOWN!](https://open.spotify.com/track/2RPe3OsUu4E4fDtmAlqh20) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [LIE DOWN!](https://open.spotify.com/album/3ENTKZGQ72k4Pyp4sSQ2fj) | 1:00 |
 | 36 | [KAMI](https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu) | [DR MØB](https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe) | [KAMI](https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6) | 1:27 |
 | 37 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
-| 38 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
-| 39 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
-| 40 | [Ele Te Bota Soca Soca](https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P) | [Ele Te Bota Soca Soca](https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5) | 3:00 |
+| 38 | [Orquestra Maldita](https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6) | 1:59 |
+| 39 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 40 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
 
-Snapshot ID: `MCxmMDdkMmE2ZGFhNGE1N2QxOTM3YzYzMTJlM2MzMTdmZTliYzExMjU0`
+Snapshot ID: `MCxlZDZiOTMxYTc1Y2Y0YWJjODczMjllM2QxNDNmMzBjMTkxNjEzOTk3`

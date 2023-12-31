@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,939 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,086 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 60 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
 | 61 | [No Hay Otro Dios](https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:31 |
 | 62 | [Te Amo Jesús](https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 3:33 |
-| 63 | [Santo Es Tu Nombre \- Live](https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Grande y Fiel \(Live\)](https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH) | 6:27 |
+| 63 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
 | 64 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
 | 65 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 |
-| 66 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
+| 66 | [Santo Es Tu Nombre \- Live](https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Grande y Fiel \(Live\)](https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH) | 6:27 |
 | 67 | [Cristo Te Amamos](https://open.spotify.com/track/73j54D0rwXFPoCW50ZWkEb) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS), [Danilo Ruiz](https://open.spotify.com/artist/2MxgPruXBZj9F3l8FM6unN) | [Colección Acústica I](https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS) | 7:11 |
 | 68 | [Poema de salvación](https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 3:12 |
 | 69 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 | 100 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 
-Snapshot ID: `MCwxY2FmYzZjOWM3MzI3ZWRiYjMyMmVhNGJlZDI3ZmFmZTU5ZmM3NzRk`
+Snapshot ID: `MCwyZjM3MDliOWFiMDY1YTA3NzdhYTNkOTU2YzFkMTYxZGZlYjIxNzFj`

@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-371 songs - 20 hr 45 min
+372 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2023-11-10 | 2023-12-22 |
 | [Aguardiente](https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:22 | 2022-04-22 | 2022-12-30 |
 | [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-22 | 2022-07-29 |
+| [Agárrala \(Remix\)](https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 2:32 | 2023-12-20 |  |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2022-12-29 | 2023-11-04 |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 | 2022-06-21 | 2022-07-01 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-10-28 | 2022-12-30 |
@@ -163,7 +164,7 @@
 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 | 2022-03-04 |  |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-09-26 |  |
 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 | 2023-08-22 |  |
-| [La B Es de Bellaka](https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es de Bellaka](https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs) | 2:26 | 2023-11-10 |  |
+| [La B Es de Bellaka](https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es de Bellaka](https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs) | 2:26 | 2023-11-10 | 2023-12-31 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-03 |  |
 | [La Barda](https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Barda](https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo) | 4:28 | 2022-01-07 | 2022-06-04 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-30 | 2023-04-20 |

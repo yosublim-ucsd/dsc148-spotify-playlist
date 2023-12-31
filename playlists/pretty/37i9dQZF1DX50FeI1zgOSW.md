@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,846 likes - 79 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,855 likes - 79 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 4 | [Boomer Uncle](https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA) | 3:42 |
 | 5 | [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 |
 | 6 | [Tholvi Kondavar Naam](https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U) | [Tholvi Kondavar Naam](https://open.spotify.com/album/0tuTX1iY4xZ4ZCWZjeneI4) | 5:46 |
-| 7 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 |
+| 7 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 |
 | 8 | [Yendrum](https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Yendrum](https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH) | 4:49 |
 | 9 | [Anbae \- Beloved](https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Morin Sridion](https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa) | [Anbae \(Beloved\)](https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh) | 4:19 |
 | 10 | [Come to Me Baby](https://open.spotify.com/track/0tyVTkcGqE4CP4OPNnQlwi) | [Prasad S.N](https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4) | [Come to Me Baby](https://open.spotify.com/album/6OzzGHy5JchzdMk7ocg5yf) | 2:07 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 78 | [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 |
 | 79 | [Karpanai](https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm) | [Akhilesh Rajan](https://open.spotify.com/artist/2yNWhTumhIEaplBWzONC0I), [Krishna B](https://open.spotify.com/artist/75GR08Hbybw9eIFJbW1s9W), [On The Streets](https://open.spotify.com/artist/50ef72eTfmz8InSE1OErSu) | [Karpanai](https://open.spotify.com/album/63lmhSCepLlrKohnhi4NOg) | 3:31 |
 
-Snapshot ID: `MCxmYTEyYTIzZWRiNjkwYjhmOWUxODNmZDc2YjcxNmVhZTNhOGUzZTM3`
+Snapshot ID: `MCxlMGY4OTU4OWZiODAzYmRkM2Q3NDA5MWYxNjNjOWNkYTZjODc4Y2Iy`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,406 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,459 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 2 | [Dum Mastam](https://open.spotify.com/track/7bvREO7W5kT4onxilRnkNZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dum Mastam](https://open.spotify.com/album/1EglwJBoao871pVnozWiiE) | 6:55 |
-| 3 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 |
+| 3 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 |
 | 4 | [Bulleya](https://open.spotify.com/track/0vrbxm6Qwqfcf5yU0q46Xd) | [Riaz Ali Khan](https://open.spotify.com/artist/7uHxuIPuSJyVFSryu7WQzr), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:18 |
 | 5 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 |
 | 6 | [Ilallah](https://open.spotify.com/track/6SWvKdouOwgg6miQrnBGPR) | [Sounds Of Kolachi](https://open.spotify.com/artist/2OXuebtuU3LEKGl6FzTVkF) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 9:33 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 45 | [Husn\-e\-Haqiqi](https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:21 |
 | 46 | [Alif Allah \- Live](https://open.spotify.com/track/5LBsnmhdWSvHtmqybXJEOm) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Saeen Tufail](https://open.spotify.com/artist/7mrsIV55fNrtgoPDB5aNL1), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 7:43 |
 
-Snapshot ID: `MCwwMmY3NTAwOTA0MWVjOGRhZDA0YWMwZWZmYWVmYjAzOTcxMzgxNzg2`
+Snapshot ID: `MCxkYmFhMDJlMzczOGQxZDMzMWI1OWM5MDY1OGY3YmZhOTczODkxNjFh`

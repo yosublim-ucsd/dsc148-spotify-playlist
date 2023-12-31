@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extrarodinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,773 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,784 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Tensa](https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [MALVA](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE) | [Tensa](https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU) | 3:21 |
 | 50 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
 
-Snapshot ID: `MCw4NDUyODRmZjMyNDA4Nzk2OTJhNDljMjVkYTAwMmU1OWE5NDJlMjQz`
+Snapshot ID: `MCw0N2M4NzE1MmJhMDFkNjgzZTdjOGJjMWRkOGYzM2QwYTM1NjczMjAy`

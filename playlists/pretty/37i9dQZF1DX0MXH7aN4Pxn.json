@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685767,
+  "num_followers": 685757,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQ0MWU3ZDJhY2NjZjlhMGRmMDI2MjM4OGE3MzRkNzRkNGE1MGY4",
+  "snapshot_id": "MCw0Njc3NTc3ZGUxYjYzMDk5NWRlMWFkODQ1NzNiNTFkNjAzOWExNmZh",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -643,26 +663,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Unfoolish (You Must Be Used To Me Crying)",
+        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
+      },
+      "artists": [
+        {
+          "name": "Ku De Ta",
+          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
+        }
+      ],
+      "duration_ms": 133462,
+      "name": "Unfoolish (You Must Be Used To Me Crying)",
+      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Unfoolish (You Must Be Used To Me Crying)",
-        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
-      },
-      "artists": [
-        {
-          "name": "Ku De Ta",
-          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
-        }
-      ],
-      "duration_ms": 133462,
-      "name": "Unfoolish (You Must Be Used To Me Crying)",
-      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Who Let The Dogs Out (feat. EVALINA)",
-        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
-      },
-      "artists": [
-        {
-          "name": "ABOUT THAT",
-          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
-        },
-        {
-          "name": "EVALINA",
-          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Who Let The Dogs Out (feat. EVALINA)",
-      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Tears For Later",
         "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 166736,
       "name": "Tears For Later",
       "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Who Let The Dogs Out (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
+      },
+      "artists": [
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Who Let The Dogs Out (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Do That EP",
-        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "African Lady (Antenna)",
         "url": "https://open.spotify.com/album/2ikxyffOctYIQHMCBpteFS"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 116053,
       "name": "African Lady (Antenna)",
       "url": "https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Do That EP",
+        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
     },
     {
       "added_at": "2023-11-10 00:01:00",

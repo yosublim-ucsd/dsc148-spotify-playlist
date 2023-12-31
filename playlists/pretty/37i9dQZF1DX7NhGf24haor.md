@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Sub Sonik
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,018 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,165 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Hurt Myself](https://open.spotify.com/track/5cuoXXuCjuDrG6rBYwJPxb) | [Wasted Penguinz](https://open.spotify.com/artist/1Ok5WQlGEnuFOiUlpCKcVT), [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [Hurt Myself](https://open.spotify.com/album/0jbxJqUcOe8arLdlI9tuZo) | 3:21 |
 | 100 | [Superpower \- Stonebank Remix](https://open.spotify.com/track/37xLtEF5Ewn0U1PFHyTjoK) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Seiren](https://open.spotify.com/artist/5HKQopZI4z7YTgcqsScIrN), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Superpower \(Stonebank Remix\)](https://open.spotify.com/album/1kwkz7PWHsSvg9DpuAvVnp) | 4:01 |
 
-Snapshot ID: `MCxiZThlMmQ0ZGU4ZDU0MWU0NDlmZDRkYjNkODI2NTg3YzE0NjRlYzg5`
+Snapshot ID: `MCw4YjZmYzM5YTY5NGEzZTRlOTg1ZjAwMDc0YmI3YWQyNzcyOWJhM2E2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,839 songs - 4 day 3 hr 25 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,841 songs - 4 day 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1847,5 +1847,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1837 | [the sound of grieving](https://open.spotify.com/track/4Rhi4B1r0atZJn0skBjBAR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 5:08 |
 | 1838 | [Tacata](https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Tacata](https://open.spotify.com/album/1iuFJ9W479sVjcEqdjqMS8) | 1:54 |
 | 1839 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
+| 1840 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 |
+| 1841 | [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 |
 
-Snapshot ID: `NjkwLDBiYmNhNzZmOWVkN2VhNjYyYzQwNjgxYWRkMzcwMGUyNjUxZjg5MjM=`
+Snapshot ID: `NjkyLDMyMjZhODc1N2RlODE1OGVlYjg4NzcxOTNhNjQ1OGJlYWNiNTQzM2I=`

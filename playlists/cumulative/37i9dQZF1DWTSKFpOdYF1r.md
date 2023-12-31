@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-253 songs - 16 hr 48 min
+254 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A New England](https://open.spotify.com/track/64C00gcYOfCw2RWC28iW7B) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Life's a Riot With Spy vs\. Spy](https://open.spotify.com/album/4cnhuroFgFd0B51p20nzn4) | 1:47 | 2022-01-17 | 2022-05-03 |
 | [All Lined Up](https://open.spotify.com/track/1MTZLNGlaw1308UlCv9QGJ) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Oil and Gold](https://open.spotify.com/album/2g8KIQeN8NN1cdZOTUSLIf) | 3:45 | 2021-11-17 | 2022-06-23 |
 | [Alternative Ulster](https://open.spotify.com/track/1EkA7sN0hmllT9sUz7juMN) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 2:43 | 2021-11-17 | 2022-07-28 |
-| [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 | 2022-05-30 |  |
+| [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 | 2022-05-30 | 2023-12-31 |
 | [And We Danced](https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Super Hits](https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo) | 3:47 | 2022-05-30 |  |
 | [April Skies](https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:59 | 2022-05-30 | 2022-11-14 |
 | [April Skies](https://open.spotify.com/track/1tYeax0qrIkT2ECT3OJSNp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:00 | 2021-11-17 | 2022-07-29 |
@@ -196,6 +196,7 @@
 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 | 2022-05-30 | 2022-08-18 |
 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/4H3RNIn5KIvDbJrc4EIzvt) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non Stop Erotic Cabaret \(Deluxe Edition\)](https://open.spotify.com/album/3HZOgmHG5SKbwOitfUYrgn) | 5:24 | 2021-11-17 | 2022-07-29 |
 | [Seven Into The Sea](https://open.spotify.com/track/2QS2qdVaLXOfokeTlJo5AV) | [In Tua Nua](https://open.spotify.com/artist/2trPBzjIxkW4PBCoJ9EMff) | [Essential \- Popclassics](https://open.spotify.com/album/4ivuG29exX1Wuhp8dgizxG) | 3:50 | 2021-11-17 | 2022-05-13 |
+| [She Blinded Me With Science](https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age of Wireless](https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj) | 3:41 | 2022-11-17 |  |
 | [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2022-09-29 | 2022-11-13 |
 | [She Bop](https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:49 | 2022-05-30 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2022-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2539766,
+  "num_followers": 2540114,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWY1ZmMzODU2MTM1NTRjNWUxMGRlY2EyYjc4NGZmMTRlNmRkY2Mz",
+  "snapshot_id": "MCxjMTNlZjk1OTAxNWQ5ZjI0ZWFmOTYzMmQ3NzRmMTE4MThmNjFkZTIz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -975,6 +975,30 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -1019,26 +1043,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Believe (feat. Goodboys)",
         "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 146996,
       "name": "Lose This Feeling",
       "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "What A Life (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
+        "name": "Hungover (with Camden Cox)",
+        "url": "https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm"
       },
       "artists": [
         {
@@ -1768,17 +1768,37 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 171547,
-      "name": "What A Life (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
+      "duration_ms": 220588,
+      "name": "Hungover (with Camden Cox)",
+      "url": "https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1803,26 +1823,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1975,8 +1975,8 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hungover (with Camden Cox)",
-        "url": "https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm"
+        "name": "What A Life (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
       },
       "artists": [
         {
@@ -1984,17 +1984,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
         },
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 220588,
-      "name": "Hungover (with Camden Cox)",
-      "url": "https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi"
+      "duration_ms": 171547,
+      "name": "What A Life (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2035,6 +2035,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly"
       },
@@ -2055,26 +2075,6 @@
       "duration_ms": 170322,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Call Your Name",
-        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 170976,
-      "name": "Call Your Name",
-      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
       },
@@ -2431,6 +2411,26 @@
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2527,42 +2527,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 143440,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2591,18 +2567,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2623,6 +2607,30 @@
       "duration_ms": 162545,
       "name": "I Go Dancing (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     }
   ],
   "unique_name": "Power Hour",

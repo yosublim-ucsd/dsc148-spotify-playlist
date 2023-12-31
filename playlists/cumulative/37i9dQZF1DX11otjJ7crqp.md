@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Katelyn Tarver
 
-4,455 songs - 9 day 5 hr 30 min
+4,456 songs - 9 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4294,6 +4294,7 @@
 | [where we met](https://open.spotify.com/track/61ztqwuocSZO2KUFP6lmTO) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [music 2 crash 2](https://open.spotify.com/album/75gadHTSYG98PJmo1U8LnD) | 3:37 | 2022-08-26 | 2022-09-03 |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 | 2022-04-23 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-05-07 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-29 |  |
 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 | 2022-08-26 | 2022-09-10 |
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-09-09 | 2022-10-01 |
 | [Whispers](https://open.spotify.com/track/0qfUT624I6WqAE6P479uR7) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Whispers](https://open.spotify.com/album/27dxz7l58CgVod3ftxF9RC) | 3:25 | 2023-06-30 | 2023-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,436 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,457 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 64 | [Heavy Love Affair](https://open.spotify.com/track/64DNRPhZzmSnPpNLC4oA8d) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In Our Lifetime](https://open.spotify.com/album/20DTTrVpPJwujuSmQJjU9E) | 3:46 |
 | 65 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 66 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
-| 67 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
+| 67 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
 | 68 | [Check My Machine \- Edit / Remastered 2011](https://open.spotify.com/track/6dtZuW3qCqBvY7oeKCzQF7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 5:50 |
 | 69 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
 | 70 | [A Banda do Zé Pretinho](https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Banda do Zé Pretinho](https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe) | 3:59 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 74 | [Betcha Wouldn't Hurt Me \- Extended Version](https://open.spotify.com/track/4WvU1mDTPDRJ349kqLK9OH) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:46 |
 | 75 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 | 76 | [Olha Eu Aqui Oh! Oh! Oh!...](https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Eva](https://open.spotify.com/album/2LPm1l02jbRkixf0brUFfP) | 2:46 |
-| 77 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
+| 77 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 78 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
 | 79 | [I'm In Love](https://open.spotify.com/track/5IhBjmG7k7z9HVkvPl17N5) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 5:05 |
 | 80 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCwwMmIxMTc0YWEzYWM1YzdlM2M5MDk2ODNmZGQzNDhmYWY4YTdhYWRi`
+Snapshot ID: `MCw2YjgyZmM2MDFmN2IxNGRkMGVhNjQ5M2U4ZmY2MzhiZjFkYTQwYTVl`

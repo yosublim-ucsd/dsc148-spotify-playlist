@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Jaido P
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,326 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,485 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 36 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
 | 37 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 |
 | 38 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
-| 39 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
-| 40 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 |
+| 39 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 |
+| 40 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 41 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 42 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 |
 | 43 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 |
 | 60 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 |
 
-Snapshot ID: `MCw5OWQxMTA2ODc5M2MyZDUyYTNkOGU3MTJlNjAyMWE5NGYwZGRhMDIw`
+Snapshot ID: `MCwyZmRiNTU4MGViNTBjYTQ4ODVjMzBlNGYyMDAwZjg1OWIyNTYwNmNi`

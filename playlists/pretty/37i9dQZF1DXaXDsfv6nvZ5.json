@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 758617,
+  "num_followers": 758646,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk5M2VjMmNmODQ4YTA3NDdkZjYyNDY4OTM1OTFjMDM0MzllYjc3",
+  "snapshot_id": "MCw3OGRmZmMxNTlkNmFmOGMyZWRhNWYzMzEyNmVjNzUwODczNzBiNWUz",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -761,24 +761,20 @@
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
       },
       "artists": [
         {
-          "name": "Chelan",
-          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
-        },
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
         }
       ],
-      "duration_ms": 224050,
-      "name": "PATTERNS",
-      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -801,20 +797,24 @@
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
       "artists": [
         {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
         }
       ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+      "duration_ms": 224050,
+      "name": "PATTERNS",
+      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
     },
     {
+      "added_at": "2023-08-04 04:06:14",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
+    },
+    {
       "added_at": "2023-05-26 13:00:09",
       "album": {
         "name": "A Brief Nirvana",
@@ -895,22 +911,6 @@
       "duration_ms": 163298,
       "name": "Fine By Myself",
       "url": "https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU"
-    },
-    {
-      "added_at": "2023-08-04 04:06:14",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        }
-      ],
-      "duration_ms": 259265,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
     },
     {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Love Comes Easy",
+      "url": "https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Look At Me",
@@ -1075,22 +1091,6 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Love Comes Easy",
-      "url": "https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "My Phone Can Die",
@@ -1195,22 +1211,6 @@
       "duration_ms": 179508,
       "name": "My Phone Can Die",
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 218783,
+      "name": "Bewilderment",
+      "url": "https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Enigmatic Society",
@@ -1375,22 +1391,6 @@
       "duration_ms": 172000,
       "name": "For Granted (feat. Arin Ray)",
       "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 218783,
-      "name": "Bewilderment",
-      "url": "https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1609,6 +1609,26 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Living High in the Brass Empire",
+        "url": "https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB"
+      },
+      "artists": [
+        {
+          "name": "Mitchum Yacoub",
+          "url": "https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr"
+        },
+        {
+          "name": "Divina Jasso",
+          "url": "https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/6cxVFEPXZO3ZamTANto61h"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Welcome Home",
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Living High in the Brass Empire",
-        "url": "https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB"
-      },
-      "artists": [
-        {
-          "name": "Mitchum Yacoub",
-          "url": "https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr"
-        },
-        {
-          "name": "Divina Jasso",
-          "url": "https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Never Knew",
-      "url": "https://open.spotify.com/track/6cxVFEPXZO3ZamTANto61h"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2023-04-03 16:57:20",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1693,22 +1709,6 @@
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/1evGeFVD7S1s4OZgm50imJ"
-      },
-      "artists": [
-        {
-          "name": "Samoht",
-          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/1BsIEwG3lEAvss3L82xeeD"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Come And Get It",
@@ -1725,20 +1725,20 @@
       "url": "https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw"
     },
     {
-      "added_at": "2023-04-03 16:57:20",
+      "added_at": "2023-09-08 06:01:16",
       "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk"
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/1evGeFVD7S1s4OZgm50imJ"
       },
       "artists": [
         {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+          "name": "Samoht",
+          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
         }
       ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
+      "duration_ms": 183000,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/1BsIEwG3lEAvss3L82xeeD"
     },
     {
       "added_at": "2023-09-08 06:01:16",
@@ -1757,22 +1757,6 @@
       "url": "https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F"
     },
     {
-      "added_at": "2023-10-06 04:12:18",
-      "album": {
-        "name": "Fly By",
-        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Fly By",
-      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
-    },
-    {
       "added_at": "2023-06-30 04:28:27",
       "album": {
         "name": "Lucky",
@@ -1787,6 +1771,22 @@
       "duration_ms": 216986,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
+    },
+    {
+      "added_at": "2023-10-06 04:12:18",
+      "album": {
+        "name": "Fly By",
+        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Fly By",
+      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
     },
     {
       "added_at": "2023-05-12 05:07:36",
@@ -1893,6 +1893,22 @@
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Closer (Deluxe)",
+        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 234144,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Through and Through",
@@ -1927,22 +1943,6 @@
       "duration_ms": 226112,
       "name": "Since You've Been Gone",
       "url": "https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Closer (Deluxe)",
-        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 234144,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
       "added_at": "2023-05-26 13:00:09",
@@ -2037,22 +2037,6 @@
       "url": "https://open.spotify.com/track/23O3KsvjLmGlijBpF4wS6v"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Through and Through",
-        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 206396,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/16fk8mDsDkxHMRRg2A4xvL"
-    },
-    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Sheet Music",
@@ -2083,6 +2067,22 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Through and Through",
+        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 206396,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/16fk8mDsDkxHMRRg2A4xvL"
     },
     {
       "added_at": "2022-10-28 07:50:50",
@@ -2149,26 +2149,6 @@
       "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
     },
     {
-      "added_at": "2023-05-05 05:35:01",
-      "album": {
-        "name": "Eve Gene",
-        "url": "https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Eve Gene",
-      "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
-    },
-    {
       "added_at": "2023-09-08 06:01:16",
       "album": {
         "name": "Million Shades",
@@ -2201,20 +2181,24 @@
       "url": "https://open.spotify.com/track/2XFqq4pMRyocImfXqzUj5O"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-05-05 05:35:01",
       "album": {
-        "name": "These Songs Are For Anyone Sick Of Earth",
-        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+        "name": "Eve Gene",
+        "url": "https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl"
       },
       "artists": [
         {
-          "name": "Aliah Sheffield",
-          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 229299,
-      "name": "Good For The Money",
-      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
+      "duration_ms": 198425,
+      "name": "Eve Gene",
+      "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2233,6 +2217,22 @@
       "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "These Songs Are For Anyone Sick Of Earth",
+        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+      },
+      "artists": [
+        {
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+        }
+      ],
+      "duration_ms": 229299,
+      "name": "Good For The Money",
+      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
+    },
+    {
       "added_at": "2023-02-12 14:52:23",
       "album": {
         "name": "I Need To Know",
@@ -2249,20 +2249,20 @@
       "url": "https://open.spotify.com/track/6fu8UH57Ob9MzjZYMoVcra"
     },
     {
-      "added_at": "2023-10-06 04:12:18",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+        "name": "For All Time",
+        "url": "https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
         }
       ],
-      "duration_ms": 198939,
-      "name": "Deep (Hold You)",
-      "url": "https://open.spotify.com/track/0TBTTHWLCOstRgZvQslRYm"
+      "duration_ms": 95093,
+      "name": "Deuce and a Quarter",
+      "url": "https://open.spotify.com/track/5IdZAmbKgRVMkO5z8dORMH"
     },
     {
       "added_at": "2022-11-18 18:12:42",
@@ -2285,20 +2285,20 @@
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-10-06 04:12:18",
       "album": {
-        "name": "For All Time",
-        "url": "https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ"
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
       },
       "artists": [
         {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 95093,
-      "name": "Deuce and a Quarter",
-      "url": "https://open.spotify.com/track/5IdZAmbKgRVMkO5z8dORMH"
+      "duration_ms": 198939,
+      "name": "Deep (Hold You)",
+      "url": "https://open.spotify.com/track/0TBTTHWLCOstRgZvQslRYm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2353,26 +2353,6 @@
       "url": "https://open.spotify.com/track/3PShip6upqx22eGpErMcLC"
     },
     {
-      "added_at": "2023-10-20 05:25:27",
-      "album": {
-        "name": "Phases III - EP",
-        "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Vanilla is Black",
-          "url": "https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Cold (with Vanilla is Black)",
-      "url": "https://open.spotify.com/track/5HH8U04XcktmmusG7YWsT2"
-    },
-    {
       "added_at": "2023-05-05 16:16:38",
       "album": {
         "name": "Forgot Your Name (feat. Cory Henry)",
@@ -2391,6 +2371,26 @@
       "duration_ms": 218972,
       "name": "Forgot Your Name (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
+    },
+    {
+      "added_at": "2023-10-20 05:25:27",
+      "album": {
+        "name": "Phases III - EP",
+        "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "Vanilla is Black",
+          "url": "https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Cold (with Vanilla is Black)",
+      "url": "https://open.spotify.com/track/5HH8U04XcktmmusG7YWsT2"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -2489,22 +2489,6 @@
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Whalum",
-          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
-    },
-    {
       "added_at": "2022-09-23 04:06:59",
       "album": {
         "name": "Wanderlust",
@@ -2523,6 +2507,22 @@
       "duration_ms": 239815,
       "name": "H.I.",
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Whalum",
+          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
+        }
+      ],
+      "duration_ms": 212848,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2661,24 +2661,20 @@
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-09-01 04:50:07",
       "album": {
-        "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
-        "url": "https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu"
+        "name": "Monsters in the Closet",
+        "url": "https://open.spotify.com/album/6mTjJt9wjKBjTRh7KgHiQz"
       },
       "artists": [
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
         }
       ],
-      "duration_ms": 200252,
-      "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
+      "duration_ms": 223732,
+      "name": "Monsters in the Closet",
+      "url": "https://open.spotify.com/track/7kgzjkFZ3yfpWB4GixJpzC"
     }
   ],
   "unique_name": "Soul Coffee",

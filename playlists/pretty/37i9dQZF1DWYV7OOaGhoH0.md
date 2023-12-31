@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867,130 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,220 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 |
 | 100 | [This Is Going To Be The Year](https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [This Is Going To Be The Year](https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU) | 4:12 |
 
-Snapshot ID: `MCwwNWFkMTU4NDg1NWU2N2MxOTY5ZjczOTVhZGQwZWU5MDU4YmY2YTgx`
+Snapshot ID: `MCxlMWU5YjVjMjExNjZhZjBhNTM0YWFmNWUyZTRmZmVlMDFjNWM2NWI5`

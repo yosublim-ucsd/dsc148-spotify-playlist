@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,612 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,667 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 39 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 40 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 |
 | 41 | [But I Am A Good Girl \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:29 |
-| 42 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
+| 42 | [Cuando Me Dé la Gana](https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
 | 43 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 |
-| 44 | [Cuando Me Dé la Gana](https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
+| 44 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
 | 45 | [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 |
-| 46 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
+| 46 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 |
 | 47 | [Contigo en la Distancia](https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:43 |
-| 48 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 |
+| 48 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
 | 49 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 | 50 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 |
 
-Snapshot ID: `MjgzOTc1MTAsMDAwMDAwMDBkZGMwMjkxZTM0ZDlhMzJhOTk2Mzc0NjMwMmMyZWViNQ==`
+Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDBjYTk3YTBhZmEyNDdhMDg3MGRlMDM3MmI5ZDI1ODMzMw==`

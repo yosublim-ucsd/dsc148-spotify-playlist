@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -8854,7 +8854,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -11988,7 +11988,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -12770,7 +12770,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -14452,7 +14452,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 162295,
       "name": "kastehein",
       "url": "https://open.spotify.com/track/41XLcwECxYj7tokaF2a7sA"
@@ -18895,6 +18895,24 @@
     },
     {
       "album": {
+        "name": "mitte kuskil",
+        "url": "https://open.spotify.com/album/1NwGFlwv0oSkZUBBDN91RN"
+      },
+      "artists": [
+        {
+          "name": "Heleza",
+          "url": "https://open.spotify.com/artist/5BWqdIvyPGKRyA8xe6kkBe"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169767,
+      "name": "mitte kuskil",
+      "url": "https://open.spotify.com/track/6MFDWo5bA27UffVN5GSJqN"
+    },
+    {
+      "album": {
         "name": "Mne Malo Malo Malo Tebya",
         "url": "https://open.spotify.com/album/2DD90QZlB2XTRG32hk81AK"
       },
@@ -20526,7 +20544,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -21562,7 +21580,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 213850,
       "name": "Paarist\u00f5uked",
       "url": "https://open.spotify.com/track/5fhn8aAo9FAl1pVLsMPOPk"
@@ -23828,7 +23846,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -26852,7 +26870,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -27852,7 +27870,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 247800,
       "name": "Swimming Pools (Drank)",
       "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"

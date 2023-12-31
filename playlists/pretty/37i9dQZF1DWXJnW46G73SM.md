@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,110 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,244 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 9 | [Alby Ma3ak](https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alby Ma3ak](https://open.spotify.com/album/5MoX8FjhsUEt9AxbZ5RIki) | 3:35 |
 | 10 | [Alby Mal](https://open.spotify.com/track/650iF0OtZ961Ke5fyDGSWU) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Alby Mal](https://open.spotify.com/album/7z5wd8YGBMgwfSHrexxuaJ) | 2:58 |
 | 11 | [Mashy Elhal](https://open.spotify.com/track/0c4unh743LWeoxu337fs6i) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u), [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mashy Elhal](https://open.spotify.com/album/3AYE3eM2Xkn9pTbRJwSGqO) | 2:37 |
-| 12 | [Nos Banat Baldak](https://open.spotify.com/track/20DeZwWJThCpSa4EQiTSYU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Nos Banat Baldak](https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ) | 2:08 |
+| 12 | [نص بنات بلدك](https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [نص بنات بلدك](https://open.spotify.com/album/0IG0hyjIdkYn10GVmmcfIi) | 2:08 |
 | 13 | [Matsebnesh](https://open.spotify.com/track/1muU8T58fu3YB4XQPt1w2w) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [Matsebnesh](https://open.spotify.com/album/0IfF9NBbNIJfhSGh2BrMJd) | 2:45 |
 | 14 | [يابا](https://open.spotify.com/track/4r0M1VNNIVxvo6oesvU7xS) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [يابا](https://open.spotify.com/album/14DrGHCWoNoa3GeuvHco41) | 2:57 |
 | 15 | [انسي يأسك](https://open.spotify.com/track/67ELl3i4PFwL2Yc53ANsvE) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [انسي يأسك](https://open.spotify.com/album/5Y9UEFxBi8Yye2e5OvpAWn) | 3:01 |
-| 16 | [Bkam](https://open.spotify.com/track/00UnHWPTVmkhRj6rW1ZlFH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 1:53 |
+| 16 | [Bkam](https://open.spotify.com/track/4OgtLrSm7HbhwH9EVGCz4O) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 1:53 |
 | 17 | [Salma Ya Salama](https://open.spotify.com/track/6iwHluwxrl5TU2cCin91ei) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [Salma Ya Salama](https://open.spotify.com/album/1XLmptOA8vXdP1PxnnlQwA) | 2:58 |
 | 18 | [Rooh](https://open.spotify.com/track/2qfg2K2fX4VDaWOcl2tEFh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Rooh](https://open.spotify.com/album/7gQvelMzNHp52llxlr1g4T) | 2:37 |
 | 19 | [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 |
 | 75 | [Wala Bakhtar](https://open.spotify.com/track/7BZywSkvYpvqXikQua3OmW) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Wala Bakhtar](https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC) | 3:32 |
 
-Snapshot ID: `MCxlM2E4NjU3Yjk1MzU3YjNiMzVmNTM1NDJjOGFiNjE4NGUzMGY2MzJj`
+Snapshot ID: `MCwzMzgyMzdiYWFkYjc2NGFhZThjY2RjNmNkNmI3YWI3OWNjMmM5NmY5`

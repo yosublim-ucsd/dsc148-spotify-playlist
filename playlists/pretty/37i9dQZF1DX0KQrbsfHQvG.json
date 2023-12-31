@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 191144,
+  "num_followers": 191191,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4",
+  "snapshot_id": "MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "digging for windows",
+        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
+      },
+      "artists": [
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "digging for windows",
+      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 189742,
       "name": "(The First Stone) Changes [feat. Yelawolf]",
       "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "digging for windows",
-        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
-      },
-      "artists": [
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "digging for windows",
-      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
     },
     {
       "added_at": "2023-06-23 04:01:00",

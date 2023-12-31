@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 798207,
+  "num_followers": 798841,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjhhYTIwOWI4MTI3YjA0MGFkMjBhZTI3ZTAxODI4ZDI0ZTIxMzIx",
+  "snapshot_id": "MCw3YTRiMzc1ZTIxNDVkZjExMWZjNmNjNDA0NDZhNmY3Y2ViOWM3N2Qx",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "One Kiss (with Dua Lipa) [Remixes]",
         "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 281266,
       "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 158095,
       "name": "Happier - Breathe Carolina Remix",
       "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ruin My Life (Remixes)",
-        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Steve James",
-          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Ruin My Life - Steve James Remix",
-      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Ciao Adios (Remixes)",
         "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 180937,
       "name": "Ciao Adios - Burak Yeter Remix",
       "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Ruin My Life (Remixes)",
+        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Ruin My Life - Steve James Remix",
+      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
     },
     {
       "added_at": "2023-07-03 13:15:34",

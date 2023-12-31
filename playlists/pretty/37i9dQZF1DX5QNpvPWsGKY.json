@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 109105,
+  "num_followers": 109234,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjRiNDJkY2Y5YjcwNWJhODBiZWFlN2IxODE4ZDMwZjdmMmM4ODkw",
+  "snapshot_id": "MCwxYmM3MDM3OGQxOWQxZDdmN2VlYmM1OGYzZGQ3ODQ4ODEyMzg5ZDIx",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Que Levante La Mano",
-      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
-    },
-    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Si Estuvieras Conmigo",
@@ -827,6 +811,22 @@
       "duration_ms": 157840,
       "name": "Si Estuvieras Conmigo",
       "url": "https://open.spotify.com/track/3PH5D5REO8HsGCtxS5JuLf"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Que Levante La Mano",
+      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "La Chica Que So\u00f1e",
-        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
-      },
-      "artists": [
-        {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "La Chica Que So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "La Chica Que So\u00f1e",
+        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
+      },
+      "artists": [
+        {
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "La Chica Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Serie Sensacional: Tropicalisimo Apache",
         "url": "https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 186733,
       "name": "La Hierba Se Mov\u00eda",
       "url": "https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 185280,
       "name": "Tan Bella Y Tan Presumida",
       "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1775,8 +1775,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+        "name": "La Coloreteada",
+        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
       },
       "artists": [
         {
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
+      "duration_ms": 196066,
+      "name": "D\u00e9jala Que Se Divierta",
+      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1903,8 +1903,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "La Coloreteada",
-        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
@@ -1912,9 +1912,9 @@
           "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 196066,
-      "name": "D\u00e9jala Que Se Divierta",
-      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2023-01-10 17:48:12",

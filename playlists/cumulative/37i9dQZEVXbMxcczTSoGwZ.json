@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 147811,
       "name": "Anna mulle mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/2hCsRJpmsetg49AXeyhuAN"
@@ -6460,7 +6460,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 203725,
       "name": "Ennen vanhaan",
       "url": "https://open.spotify.com/track/67H9KjiRQBgDoOHmGZSncM"
@@ -7344,6 +7344,24 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "album": {
+        "name": "First Day Out 2",
+        "url": "https://open.spotify.com/album/2Z9JO6wm3gC6yoAEsv9LTE"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173347,
+      "name": "First Day Out 2",
+      "url": "https://open.spotify.com/track/437CvMtsHlKc30ZX3GxZ5S"
     },
     {
       "album": {
@@ -8802,7 +8820,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 211416,
       "name": "HALLILLE",
       "url": "https://open.spotify.com/track/0OqAvK1fX9vktHFuPJHBUa"
@@ -11926,7 +11944,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 188488,
       "name": "Joku muu - boi95 Remix",
       "url": "https://open.spotify.com/track/0UpJKWq0Of1qjyjW8v9yb9"
@@ -14564,6 +14582,32 @@
       "duration_ms": 181649,
       "name": "Kolme toivetta",
       "url": "https://open.spotify.com/track/7od4R4bHKFDMxFIcF4Wuiz"
+    },
+    {
+      "album": {
+        "name": "Kolmestaa (feat. Lauri Haav & Etta)",
+        "url": "https://open.spotify.com/album/2fNvVSMdDSoOHnOgTWrB7M"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179278,
+      "name": "Kolmestaa (feat. Lauri Haav & Etta)",
+      "url": "https://open.spotify.com/track/6PSdyypNd84uQn4f2qFrtC"
     },
     {
       "album": {
@@ -18353,6 +18397,28 @@
     },
     {
       "album": {
+        "name": "Mei\u00e4n Vuos",
+        "url": "https://open.spotify.com/album/1BbHH0S4u4NzBHkOVAHjMm"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "Mei\u00e4n Vuos",
+      "url": "https://open.spotify.com/track/0X84P3sGzZVnTdKzOWD2E9"
+    },
+    {
+      "album": {
         "name": "Melankolia",
         "url": "https://open.spotify.com/album/7kcb9GmwLdRzmTbzDWQFPC"
       },
@@ -21342,6 +21408,28 @@
       "duration_ms": 214331,
       "name": "Nousen ilmaan",
       "url": "https://open.spotify.com/track/0ITg9oP055HvvToqfkjjuO"
+    },
+    {
+      "album": {
+        "name": "Nousuhumala (feat. Aarne Tenkanen)",
+        "url": "https://open.spotify.com/album/7hhMIzdFtXT5BIAhUpgqk7"
+      },
+      "artists": [
+        {
+          "name": "Faija",
+          "url": "https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k"
+        },
+        {
+          "name": "Aarne Tenkanen",
+          "url": "https://open.spotify.com/artist/6f28ZHhjysrqFL5GTLIpWX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Nousuhumala (feat. Aarne Tenkanen)",
+      "url": "https://open.spotify.com/track/6by2LFOZ8SarE3znJm9b04"
     },
     {
       "album": {
@@ -28579,6 +28667,28 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4n (Hj\u00e4rta Remix)",
+        "url": "https://open.spotify.com/album/1cNH4ZXId2U9qnX9m3Nq3l"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Syd\u00e4n - Hj\u00e4rta Remix",
+      "url": "https://open.spotify.com/track/5n2VF6KuVIQXk9lvBWUAsl"
+    },
+    {
+      "album": {
         "name": "Syd\u00e4n sulaa",
         "url": "https://open.spotify.com/album/4oCy3xdoc8dk6GE21rkRJd"
       },
@@ -32996,7 +33106,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 156000,
       "name": "VYYHTI (ettiny aitoo rakkaut)",
       "url": "https://open.spotify.com/track/5e63Mhaf4aY58OD8aY3zhJ"

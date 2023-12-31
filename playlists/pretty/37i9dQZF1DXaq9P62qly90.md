@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,629 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 25 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
 | 26 | [Wind On My Back](https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [The Cornerstone](https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47) | 4:00 |
 | 27 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
-| 28 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
-| 29 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
+| 28 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
+| 29 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
 | 30 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 | 31 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
 | 32 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 41 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 42 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
 | 43 | [Directions](https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 4:21 |
-| 44 | [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 |
-| 45 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
+| 44 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
+| 45 | [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 |
 | 46 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
 | 47 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 48 | [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 |
 | 49 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 | 50 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 
-Snapshot ID: `MCwxMDhmMGU1YzRhMWNmNzA4ZGE5MTM3YjI4Yzc5M2Q2MmIzYWU3MDBk`
+Snapshot ID: `MCw2ZTc4M2NmN2M2YjEyMTM0OWE3YzY0M2U4NTY0YTYyYjA1MmIxNjdk`

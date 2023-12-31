@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,886 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,888 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stupid Deep / Sinking Deep](https://open.spotify.com/track/63z6rIYJ4xdDW1ez00VQ26) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Waymaker Worship](https://open.spotify.com/album/6wxSAwgvqGfoTMHabNFefH) | 3:00 |
-| 2 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
+| 1 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
+| 2 | [Stupid Deep / Sinking Deep](https://open.spotify.com/track/63z6rIYJ4xdDW1ez00VQ26) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Waymaker Worship](https://open.spotify.com/album/6wxSAwgvqGfoTMHabNFefH) | 3:00 |
 | 3 | [Miracles](https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Devil Is A Liar](https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC) | 2:54 |
 | 4 | [joy.](https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:53 |
 | 5 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 54 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
 | 55 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 56 | [WaveWalker](https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [WaveWalker](https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1) | 3:13 |
-| 57 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
-| 58 | [Love](https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Love / Home](https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl) | 2:57 |
+| 57 | [Love](https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Love / Home](https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl) | 2:57 |
+| 58 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
 | 59 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
 | 60 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
 | 61 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 86 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
 | 87 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
 | 88 | [No Other Love](https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:27 |
-| 89 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
-| 90 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
-| 91 | [On My Way Back Home \(feat\. Seth Condrey & Desi Raines\)](https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Desi Raines](https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [North Point Worship](https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63) | 3:37 |
+| 89 | [On My Way Back Home \(feat\. Seth Condrey & Desi Raines\)](https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Desi Raines](https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [North Point Worship](https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63) | 3:37 |
+| 90 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
+| 91 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
 | 92 | [Stand Firm](https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 3:28 |
 | 93 | [Chasing Quiet](https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Chasing Quiet](https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg) | 2:38 |
 | 94 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 | 100 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 
-Snapshot ID: `MCwxZDAyMDdjY2FjMGI3MzEzYWY3ZmM3MzQ1MzA0MDY4YzZlODQ4NDQz`
+Snapshot ID: `MCw1ZDY5ZGNhODMzYTg5MzgzYmE1YjRjMTEwNzY3ZjE0MzdmN2QzZDA0`

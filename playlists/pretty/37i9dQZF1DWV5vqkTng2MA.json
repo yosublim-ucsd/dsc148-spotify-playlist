@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 378438,
+  "num_followers": 378507,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzE5NDQ5MzUwOWIyZmUyODlkOGI3ZGIyMjlmYTg2ZDU0NDEwYjUy",
+  "snapshot_id": "MCxiODZjNWRmNzA2NjE1MjcxMGVjOGZmOWI5YTZkZThlNTU1ZDBmODhk",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Go Down River",
-      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235426,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "UNDIVIDED HEART & SOUL",
-        "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
       "artists": [
         {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 194533,
-      "name": "CRYING\u2019S JUST A THING YOU DO",
-      "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "UNDIVIDED HEART & SOUL",
+        "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "CRYING\u2019S JUST A THING YOU DO",
+      "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Shelters",
         "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Cowboy Nudes",
-        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 170537,
-      "name": "Cowboy Nudes",
-      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 208213,
       "name": "No Sugar In My Coffee",
       "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Cowboy Nudes",
+        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Gold Shadow",
         "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "All My Shades Of Blue",
         "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 202401,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Promenade Blue",
-        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        }
-      ],
-      "duration_ms": 233356,
-      "name": "Place Names",
-      "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Seventeen Acres",
         "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 122750,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Promenade Blue",
+        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 233356,
+      "name": "Place Names",
+      "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Too Little, Too Late, Too Bad",
-      "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Sir Woman",
         "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 264000,
       "name": "Party City",
       "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Too Little, Too Late, Too Bad",
+      "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
     }
   ],
   "unique_name": "the new retro",

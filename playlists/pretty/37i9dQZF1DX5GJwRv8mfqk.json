@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 110372,
+  "num_followers": 110429,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWVlZDA4ZTU5MTgwNWUzMTBiMzA2MmIyZjEyNDhlMDg1NWE5N2I5",
+  "snapshot_id": "MCw0Y2U3MzBkMjIzYWFjNzEyZmU2YzkzMDczOWM4ODc2Mzg4NjFjZjI0",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Al Cabo Ni Queria",
+      "url": "https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "D\u00edgale",
         "url": "https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 189633,
       "name": "Estoy Listo",
       "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 193326,
-      "name": "Al Cabo Ni Queria",
-      "url": "https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf"
     },
     {
       "added_at": "2022-05-25 16:50:02",

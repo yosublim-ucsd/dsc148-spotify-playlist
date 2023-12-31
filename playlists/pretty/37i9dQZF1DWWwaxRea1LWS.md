@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Ring in the new year with \#SpotifyTBT and party like it's 1999\. Cover: Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,024 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,206 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Get It On Tonite](https://open.spotify.com/track/0AcLrSfAEBQcUnHOTm5pXg) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Best Of Montell Jordan](https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx) | 4:37 |
 | 50 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
 
-Snapshot ID: `MCw4ODExOWQ0MzljYzRkZWI3ZThjOGViMDYzNzRmMDdmYmY4Y2JiZWRh`
+Snapshot ID: `MCwwZTM4OThiYmI0YjkwM2EzZmZiY2RlMDM4NTdjZDFhOTM3ZTM0MjMx`

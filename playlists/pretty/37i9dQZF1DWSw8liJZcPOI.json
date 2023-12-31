@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 57769,
+  "num_followers": 57937,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWM3ZjVkNzEzYTE5OTcxYWI1MzljYzhjNGU5MjI2Y2RmZWI5NDQ3",
+  "snapshot_id": "MCxjMDVjZjFkZDU5MjA0Njk4N2E4Y2NjY2MwNmE3MTNiNTY4ZWNlOTMz",
   "tracks": [
     {
       "added_at": "2023-12-21 15:32:19",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 159837,
       "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
       "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/6hkOAdgduiWe3jCV3PjPKJ"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "Flow State Vestida 4",
         "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "Lost Time - Strings Version",
-        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Lost Time - Strings Version",
-      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "some kind of peace \u2014 piano reworks",
         "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "Lost Time - Strings Version",
+        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Lost Time - Strings Version",
+      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
         "name": "Tripping with Nils Frahm",
         "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 183653,
       "name": "From All Who Came Before",
       "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "Everything Has Its Echo",
-        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
-      },
-      "artists": [
-        {
-          "name": "Eik Octobre",
-          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
-        }
-      ],
-      "duration_ms": 289829,
-      "name": "Heart Failure",
-      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+        "name": "Everything Has Its Echo",
+        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
       },
       "artists": [
         {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+          "name": "Eik Octobre",
+          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
         }
       ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+      "duration_ms": 289829,
+      "name": "Heart Failure",
+      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1375,22 +1391,6 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "The Dive",
-        "url": "https://open.spotify.com/album/0zq6jtAzhZYCC0EpkjJgSz"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 225475,
-      "name": "The Dive",
-      "url": "https://open.spotify.com/track/01hFM9dS9M6lN4rUvo4A2u"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "Floreana",
         "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "For Mark",
-        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
+        "name": "The Dive",
+        "url": "https://open.spotify.com/album/0zq6jtAzhZYCC0EpkjJgSz"
       },
       "artists": [
         {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 309600,
-      "name": "For Mark",
-      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+      "duration_ms": 225475,
+      "name": "The Dive",
+      "url": "https://open.spotify.com/track/01hFM9dS9M6lN4rUvo4A2u"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1547,6 +1531,22 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "For Mark",
+        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "For Mark",
+      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
+        "name": "Notes of Longing",
+        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 195019,
+      "name": "The Young Weaver",
+      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
         "name": "Woven Song",
         "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
       },
@@ -1659,6 +1675,42 @@
       "duration_ms": 190283,
       "name": "Woven Song",
       "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        }
+      ],
+      "duration_ms": 212732,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
+    },
+    {
+      "added_at": "2023-12-21 15:32:19",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2023-12-21 15:32:19",
@@ -1687,42 +1739,6 @@
     {
       "added_at": "2023-12-21 15:32:19",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
-        }
-      ],
-      "duration_ms": 212732,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
         "name": "The Myth",
         "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
-    },
-    {
-      "added_at": "2023-12-21 15:32:19",
-      "album": {
-        "name": "Notes of Longing",
-        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
-      },
-      "artists": [
-        {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
-        }
-      ],
-      "duration_ms": 195019,
-      "name": "The Young Weaver",
-      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     },
     {
       "added_at": "2023-12-21 15:32:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w"> Phyno </a> and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse\-kNLysa6h1Q"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,377 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,519 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 34 | [CORLEONE \(feat\. ODUMODUBLVCK & Steel Banglez\)](https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Steel Banglez](https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:49 |
 | 35 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
 | 36 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 |
-| 37 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 |
+| 37 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 | 38 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 39 | [Solace](https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ) | 2:00 |
-| 40 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
+| 40 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 |
 | 41 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 |
 | 42 | [DOLLERZ \(feat\. Odumodublvck\)](https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:54 |
 | 43 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [NOSTALGIA](https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 2:05 |
 | 70 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
 
-Snapshot ID: `MCw0M2MyZTExOWNlZTdmMGRlNDk0ZDI5MTNlM2ZhOGFjYzE5MmVjNGFh`
+Snapshot ID: `MCw4ZWVlZjJkZWU0NjBjMmFkMWExODBkZGQxZTg1ODA0MTJmODU2MmM2`

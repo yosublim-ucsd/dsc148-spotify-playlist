@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 58989,
+  "num_followers": 59035,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTczZjgyNmE2ZTgxNjUxOTcxMzc1ZjJkMTFmNzc5YjA0MDcyNjAy",
+  "snapshot_id": "MCxhY2EyMGZkY2FiNmZiMGFmNTdkMTE2YWM2YWVjZjU1MDA4YTBkNTlm",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -535,6 +535,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/2bKblqcMNEJD9l0vBaFMA8"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Keepin' It Real",
         "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/2bKblqcMNEJD9l0vBaFMA8"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 279653,
       "name": "Just Like The First Time",
       "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -707,22 +723,6 @@
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
     },
     {
       "added_at": "2020-08-19 19:15:51",

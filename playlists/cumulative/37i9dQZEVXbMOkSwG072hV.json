@@ -7302,7 +7302,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 262258,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
@@ -16096,7 +16096,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 203520,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/5BLShRvEy6OQNXzkawWLvj"
@@ -19852,7 +19852,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 138666,
       "name": "Levado e Jk Eu Quero Putaria",
       "url": "https://open.spotify.com/track/6eZicmgcj1UETLGWUBo0sC"
@@ -21413,6 +21413,24 @@
     },
     {
       "album": {
+        "name": "Mant\u00e9m a Cachorrada",
+        "url": "https://open.spotify.com/album/2rVXE6XL9fS3sN0rdR8KLz"
+      },
+      "artists": [
+        {
+          "name": "Banda PROIBID\u00c3O",
+          "url": "https://open.spotify.com/artist/3Ox3B3axZGNt5FtMDAXJou"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235258,
+      "name": "Mant\u00e9m",
+      "url": "https://open.spotify.com/track/3E25bifWwU2oHNWy3I9d2m"
+    },
+    {
+      "album": {
         "name": "Mant\u00e9m o Pique",
         "url": "https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z"
       },
@@ -22734,6 +22752,24 @@
       "duration_ms": 179439,
       "name": "Meio P\u00e1",
       "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
+    },
+    {
+      "album": {
+        "name": "Seresta do HC 4.0",
+        "url": "https://open.spotify.com/album/0IsmAegd8pnlKSf6Ty4BBT"
+      },
+      "artists": [
+        {
+          "name": "Heitor Costa",
+          "url": "https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170396,
+      "name": "Meio Termo",
+      "url": "https://open.spotify.com/track/7fpWftIaS05lKs8yCFBbiD"
     },
     {
       "album": {
@@ -24770,6 +24806,24 @@
       "duration_ms": 268434,
       "name": "Murder on My Mind",
       "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
+    },
+    {
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "album": {

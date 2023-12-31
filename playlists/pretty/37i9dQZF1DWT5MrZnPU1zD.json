@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1679199,
+  "num_followers": 1679225,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTE1NDY4NTRlN2VkOGJiNWVkZDM1ZjMzOWFkMDBlNDliMWJmNjE4",
+  "snapshot_id": "MCwzNmY2NGQxNTI4NDQ3OTE0OTUxNmMzNTI2Mjk1YzY2ZDQzODMyYjdi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
-        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 166464,
-      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
-      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
+        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 166464,
+      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
+      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -663,6 +679,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -867,18 +867,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
+      "duration_ms": 229035,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -903,26 +911,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
       },
       "artists": [
         {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 229035,
-      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Presidential Rolex",
+        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Presidential Rolex",
+      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Bluffin (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 148302,
       "name": "Bluffin (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Presidential Rolex",
-        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Presidential Rolex",
-      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1179,6 +1179,62 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 124965,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Murder & Millions",
+        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Murder & Millions",
+      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Frozone",
+        "url": "https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "Bulletproof (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
         "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
       },
@@ -1199,26 +1255,6 @@
       "duration_ms": 218172,
       "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
       "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 124965,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1247,22 +1283,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Murder & Millions",
-        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Murder & Millions",
-      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Robberies",
         "url": "https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Frozone",
-        "url": "https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR"
-      },
-      "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "Bulletproof (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3"
     },
     {
       "added_at": "2023-12-01 05:00:00",

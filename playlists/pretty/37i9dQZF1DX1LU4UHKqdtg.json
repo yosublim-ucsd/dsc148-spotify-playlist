@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NewJeans",
-  "num_followers": 398203,
+  "num_followers": 398344,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjVjZGU1ZTk4ZDc3NTgyZTFiNDg2ZWI1MTc0Y2E1MDc3OTFjN2Q1",
+  "snapshot_id": "MCxkZGVlN2QwZDAyNDlkYmY3YTJkY2E5Yjk0OWJlNjE0ZGJjNWZhNjg2",
   "tracks": [
     {
       "added_at": "2023-12-28 23:01:42",
@@ -87,6 +87,26 @@
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "added_at": "2023-12-28 23:01:42",
+      "album": {
+        "name": "wherever u r (ft. V of BTS)",
+        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 153034,
+      "name": "wherever u r (ft. V of BTS)",
+      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
       "added_at": "2023-12-28 23:01:42",

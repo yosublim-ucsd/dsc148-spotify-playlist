@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 426301,
+  "num_followers": 426428,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0",
+  "snapshot_id": "MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Your Number",
         "url": "https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Pon Di Gaza 2.0",
         "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 213600,
       "name": "Romping Shop (feat. Spice)",
       "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Pon Di Cocky",
-        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
-      },
-      "artists": [
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 190119,
-      "name": "Pon Di Cocky",
-      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 221506,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Calmc",
-        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Calmc",
-      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Live n' Learn",
         "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 161610,
       "name": "Live n' Learn",
       "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Calmc",
+        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Calmc",
+      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Good 2 Go",
+        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Microphone Champion",
         "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Good 2 Go",
-        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "Pon De River Pon De Bank",
-      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Speed Off",
-        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
+        "name": "Waistline",
+        "url": "https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR"
       },
       "artists": [
         {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 174001,
-      "name": "Speed Off",
-      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
+      "duration_ms": 166070,
+      "name": "Waistline",
+      "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
     }
   ],
   "unique_name": "Dancehall Party",

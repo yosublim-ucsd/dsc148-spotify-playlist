@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/6NTHK5zU2R1LeSMvF6mEaB"
+      },
+      "artists": [
+        {
+          "name": "ASPARAGUSproject",
+          "url": "https://open.spotify.com/artist/4yNXvPEUjC7WZj0PAL4dCG"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/03AUrFPEssBCAuGThWLxDr"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/3W4u9PKb7O2jooJI89wafw"
       },
@@ -1240,6 +1258,24 @@
       "duration_ms": 218345,
       "name": "All I Need Forever",
       "url": "https://open.spotify.com/track/6AoN87c4pPmG9fcxT2fie2"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/74oQjIFtOvDTQNXqWRCXLb"
+      },
+      "artists": [
+        {
+          "name": "EVN BTTR",
+          "url": "https://open.spotify.com/artist/7qNwMkpJ1u7mmiCM609DcO"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/4vNKHwa5g74XB9iUaAIF42"
     },
     {
       "album": {
@@ -2342,7 +2378,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3878,7 +3914,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 176616,
       "name": "Better",
       "url": "https://open.spotify.com/track/7jyc4ChvDrE0q8N4TqlO34"
@@ -5420,7 +5456,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -18696,7 +18732,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 203530,
       "name": "Mesmerise",
       "url": "https://open.spotify.com/track/6PTOfMoRvtWjpQ32YE2JfF"
@@ -19100,7 +19136,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -25298,7 +25334,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 188484,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
@@ -30960,7 +30996,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -31454,6 +31490,36 @@
       "duration_ms": 230733,
       "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
       "url": "https://open.spotify.com/track/3Yww1k7Up2ja2ytfmXjJp8"
+    },
+    {
+      "album": {
+        "name": "WONDERFUL LIFE",
+        "url": "https://open.spotify.com/album/3dAGTCVoLXIZrBvgY2tsEB"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        },
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170550,
+      "name": "WONDERFUL LIFE",
+      "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
     },
     {
       "album": {

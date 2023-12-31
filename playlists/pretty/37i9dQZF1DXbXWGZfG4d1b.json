@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21154,
+  "num_followers": 21170,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDBkNDI5ZjkxNDIxMGVkYmMzMmNlMGZhZDk0NWE2YzlkZGNjOGIz",
+  "snapshot_id": "MCxjNGU4MjVjY2NjNDY3ZGNjMDkwYTI5ZmZjMDM1YWZkNDgwNzgwNWZj",
   "tracks": [
     {
       "added_at": "2023-12-22 23:48:17",
@@ -171,8 +171,8 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 191583,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+      "duration_ms": 206875,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 206875,
-      "name": "Perla",
-      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Antes de que Olvide",
+      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
+    },
+    {
+      "added_at": "2023-12-22 23:48:17",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+        "name": "SUELO",
+        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
-      "duration_ms": 173313,
-      "name": "Antes de que Olvide",
-      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
+      "duration_ms": 169387,
+      "name": "SUELO",
+      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -527,22 +543,6 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
-    },
-    {
-      "added_at": "2023-12-22 23:48:17",
-      "album": {
-        "name": "SUELO",
-        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 169387,
-      "name": "SUELO",
-      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
-    },
-    {
-      "added_at": "2023-12-22 23:48:17",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2023-12-22 23:48:17",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Aproximaci\u00f3n",
-        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Aproximaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
-    },
-    {
-      "added_at": "2023-12-22 23:48:17",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2023-12-22 23:48:17",
+      "album": {
+        "name": "Aproximaci\u00f3n",
+        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Aproximaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "El Verano",
-        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 320300,
-      "name": "El verano",
-      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
-    },
-    {
-      "added_at": "2023-12-22 23:48:17",
-      "album": {
         "name": "Lo Que Queda",
         "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+        "name": "El Verano",
+        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
       },
       "artists": [
         {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
         }
       ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+      "duration_ms": 320300,
+      "name": "El verano",
+      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -967,6 +951,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2023-12-22 23:48:17",
+      "album": {
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+      },
+      "artists": [
+        {
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+        }
+      ],
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
+    },
+    {
+      "added_at": "2023-12-22 23:48:17",
+      "album": {
         "name": "Habladur\u00edas",
         "url": "https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
+        "name": "A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK"
       },
       "artists": [
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "La Chica del Cumplea\u00f1os",
+          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
         }
       ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
+      "duration_ms": 211625,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-12-22 23:48:17",
       "album": {
-        "name": "A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK"
+        "name": "14:14",
+        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
       },
       "artists": [
         {
-          "name": "La Chica del Cumplea\u00f1os",
-          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
+          "name": "MOY",
+          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
         }
       ],
-      "duration_ms": 211625,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
+      "duration_ms": 191078,
+      "name": "14:14",
+      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2023-12-22 23:48:17",
@@ -1203,22 +1219,6 @@
       "duration_ms": 146734,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
-    },
-    {
-      "added_at": "2023-12-22 23:48:17",
-      "album": {
-        "name": "14:14",
-        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
-      },
-      "artists": [
-        {
-          "name": "MOY",
-          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "14:14",
-      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2023-12-22 23:48:17",

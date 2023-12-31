@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,165 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,189 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 19 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 | 20 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 21 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
-| 22 | [La Bamba \- Guitar Solo](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
+| 22 | [Canta la Guitarra](https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o) | [Pepe Habichuela](https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR) | [Habichuela en Rama](https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB) | 3:50 |
 | 23 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 |
-| 24 | [Canta la Guitarra](https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o) | [Pepe Habichuela](https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR) | [Habichuela en Rama](https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB) | 3:50 |
+| 24 | [La Bamba \- Guitar Solo](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
 | 25 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
 | 26 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 |
 | 27 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 |
-| 28 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
+| 28 | [Mood for Love](https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P) | [Novamenco](https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp) | [Flight to Paradise](https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x) | 4:16 |
 | 29 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
-| 30 | [Mood for Love](https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P) | [Novamenco](https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp) | [Flight to Paradise](https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x) | 4:16 |
+| 30 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
 | 31 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
 | 32 | [The Girl From Ipanema](https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 3:00 |
 | 33 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 66 | [Tango en Skai \- Instrumental](https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm) | [Panagiotis Margaris](https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f) | [Cafe de l'Art, Vol\. 1 \(14 Guitar Duets Themes\)](https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ) | 2:53 |
 | 67 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
 | 68 | [Bagan](https://open.spotify.com/track/4MhjizjsOZjYBGiifFVvFv) | [Manel Ferreira](https://open.spotify.com/artist/69mSWyvvdOS1WOkznwkz7N), [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Bagan](https://open.spotify.com/album/59r3QA7GXxLOsJLSBNk3fz) | 3:56 |
-| 69 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
-| 70 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
+| 69 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
+| 70 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
 | 71 | [Adelita Mazurka](https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 2:12 |
 | 72 | [Lisboa Antigua](https://open.spotify.com/track/3uCPr8h0wxi905eMSAdajB) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Sol Naciente](https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ) | 3:36 |
 | 73 | [Alma Llanera](https://open.spotify.com/track/4LvHoaXNwmS9kbjYqirUZ3) | [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Alma Llanera](https://open.spotify.com/album/0ziCxc44HXR3qfEqyeSzUC) | 2:55 |
 | 74 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 | 75 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
 
-Snapshot ID: `MCwwYjFiZjI1NzBkNzJkMjhiMzg1MGI1ZGY4ZjIyZjQ3NDE0MDQ4YmQw`
+Snapshot ID: `MCxhN2U4MjJiNGE5NzcxZDk1NjBiYTIxYTQyY2RlNDQ5ZTM3ZDRmMTU4`

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 328773,
+  "num_followers": 328972,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTUzM2FhYTAzZWVkMmY5NTFmZTg3NzBjOTIxYzk1MmYxY2E0YjA3",
+  "snapshot_id": "MCxmYjBkNWYwNTFkYWMxNmU4NDZjNmM4MTRhMGM4ZGJkZTE5YzlkM2Yy",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Yours To Use",
         "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "You've Already Won (Radio Version)",
-        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 262540,
-      "name": "You've Already Won - Radio Version",
-      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wild Faith",
-        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
+        "name": "Then Christ Came",
+        "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
       },
       "artists": [
         {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 208143,
-      "name": "Easy To Praise",
-      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
+      "duration_ms": 223586,
+      "name": "Then Christ Came",
+      "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Then Christ Came",
-        "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
+        "name": "Wild Faith",
+        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 223586,
-      "name": "Then Christ Came",
-      "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
+      "duration_ms": 208143,
+      "name": "Easy To Praise",
+      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 192907,
       "name": "New Creation",
       "url": "https://open.spotify.com/track/2qlmkLwJ5ateyMMH3gXka9"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Hills Of Tyrone",
+        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 209390,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Hurt Is",
         "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 147670,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hills Of Tyrone",
-        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 209390,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 200200,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2wjshi3DGGjZx3gdsKusDJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Rock I'm On",
-        "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
-      },
-      "artists": [
-        {
-          "name": "Ross King",
-          "url": "https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "The Rock I'm On",
-      "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Live Out Loud",
         "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
       },
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 297413,
       "name": "Plans",
       "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Rock I'm On",
+        "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
+      },
+      "artists": [
+        {
+          "name": "Ross King",
+          "url": "https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "The Rock I'm On",
+      "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/2gfvdJgeevB1V1nHZCtfoC"
-      },
-      "artists": [
-        {
-          "name": "Elenee",
-          "url": "https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Valor",
         "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/2gfvdJgeevB1V1nHZCtfoC"
       },
       "artists": [
         {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Elenee",
+          "url": "https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX"
         }
       ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
+      "duration_ms": 257720,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f"
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
       },
       "artists": [
         {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
         }
       ],
-      "duration_ms": 220962,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv"
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 220962,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv"
     },
     {
       "added_at": "2023-11-17 05:00:00",

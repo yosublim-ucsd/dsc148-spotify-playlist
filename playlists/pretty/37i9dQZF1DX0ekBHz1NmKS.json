@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196339,
+  "num_followers": 196332,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjMzYzY2ZmVkNDBlOWJiNGMyNDg1MjA1MDE1MTUyZjgzMjQ0MDQ4",
+  "snapshot_id": "MCw0YjkyOTQzNzM5YmViMmFhNTVhMDA5NmE1OTUwNGU4ODJkYzg5ZWU1",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -195,22 +195,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Hold On Me (feat. Emei)",
-        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 149569,
-      "name": "Hold On Me (feat. Emei)",
-      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
+      "duration_ms": 248293,
+      "name": "Rosor & champagne",
+      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -231,18 +227,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+        "name": "Hold On Me (feat. Emei)",
+        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
       },
       "artists": [
         {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 248293,
-      "name": "Rosor & champagne",
-      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
+      "duration_ms": 149569,
+      "name": "Hold On Me (feat. Emei)",
+      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
-      },
-      "artists": [
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 195346,
       "name": "Sunny Philadelphia",
       "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Pistol - Spotify Singles",
-        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
-      },
-      "artists": [
-        {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Pistol - Spotify Singles",
-      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Tagit \u00f6ver himlen",
         "url": "https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 147596,
       "name": "Tagit \u00f6ver himlen",
       "url": "https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
-        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/2rHuQYFtCQ8LNHo2SenIJY"
       },
       "artists": [
         {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        },
-        {
-          "name": "REMAZE",
-          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
+          "name": "TUAI",
+          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
-      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+      "duration_ms": 159947,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/2OkBi8s5tBzrKIYjINs4p7"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -779,18 +775,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Vincent",
-        "url": "https://open.spotify.com/album/2rHuQYFtCQ8LNHo2SenIJY"
+        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
+        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
       "artists": [
         {
-          "name": "TUAI",
-          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "REMAZE",
+          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
         }
       ],
-      "duration_ms": 159947,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/2OkBi8s5tBzrKIYjINs4p7"
+      "duration_ms": 210937,
+      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
+      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -807,30 +807,6 @@
       "duration_ms": 193703,
       "name": "Heartbreakmiljon\u00e4r",
       "url": "https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "D\u00f6d f\u00f6r mig",
-        "url": "https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR"
-      },
-      "artists": [
-        {
-          "name": "Yei Gonzalez",
-          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
-        },
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "D\u00f6d f\u00f6r mig",
-      "url": "https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -863,6 +839,30 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "D\u00f6d f\u00f6r mig",
+        "url": "https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR"
+      },
+      "artists": [
+        {
+          "name": "Yei Gonzalez",
+          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+        },
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "D\u00f6d f\u00f6r mig",
+      "url": "https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 139429,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "En av ungarna",
         "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
+        "name": "Ingen sorg utan k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Kvarteret",
+          "url": "https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE"
         }
       ],
-      "duration_ms": 139429,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
+      "duration_ms": 187250,
+      "name": "Ingen sorg utan k\u00e4rlek",
+      "url": "https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Ingen sorg utan k\u00e4rlek",
-        "url": "https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
       "artists": [
         {
-          "name": "Kvarteret",
-          "url": "https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE"
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
         }
       ],
-      "duration_ms": 187250,
-      "name": "Ingen sorg utan k\u00e4rlek",
-      "url": "https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI"
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
-      },
-      "artists": [
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Historier och liv",
         "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 200625,
       "name": "Historier och liv",
       "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Let The Good Times In",
-        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 153595,
-      "name": "Let The Good Times In",
-      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 157511,
       "name": "Festen - Remix",
       "url": "https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Let The Good Times In",
+        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 153595,
+      "name": "Let The Good Times In",
+      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Ruta Noll",
+        "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
+      },
+      "artists": [
+        {
+          "name": "Wilden",
+          "url": "https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Ruta Noll",
+      "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Third strike",
         "url": "https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG"
       },
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Ruta Noll",
-        "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
+        "name": "When You're Not Mine",
+        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
       },
       "artists": [
         {
-          "name": "Wilden",
-          "url": "https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK"
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
         }
       ],
-      "duration_ms": 166289,
-      "name": "Ruta Noll",
-      "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Faller l\u00e5gt",
-        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
-      },
-      "artists": [
-        {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Faller l\u00e5gt",
-      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
+      "duration_ms": 190459,
+      "name": "When You're Not Mine",
+      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "When You're Not Mine",
-        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
+        "name": "Faller l\u00e5gt",
+        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
         }
       ],
-      "duration_ms": 190459,
-      "name": "When You're Not Mine",
-      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
+      "duration_ms": 135652,
+      "name": "Faller l\u00e5gt",
+      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 221489,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "H\u00e5ll k\u00e4ften & kyss mig",
         "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 162580,
       "name": "H\u00e5ll k\u00e4ften & kyss mig",
       "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 221489,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Ska du l\u00e4mna mig d\u00e5?",
+        "url": "https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs"
+      },
+      "artists": [
+        {
+          "name": "Byz",
+          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
+        }
+      ],
+      "duration_ms": 197473,
+      "name": "Ska du l\u00e4mna mig d\u00e5?",
+      "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Ska du l\u00e4mna mig d\u00e5?",
-        "url": "https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs"
+        "name": "Du har fel",
+        "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
       },
       "artists": [
         {
-          "name": "Byz",
-          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
         }
       ],
-      "duration_ms": 197473,
-      "name": "Ska du l\u00e4mna mig d\u00e5?",
-      "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
+      "duration_ms": 164155,
+      "name": "Du har fel",
+      "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 157451,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Du har fel",
-        "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Holmgren",
-          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
-        }
-      ],
-      "duration_ms": 164155,
-      "name": "Du har fel",
-      "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
-      },
-      "artists": [
-        {
-          "name": "Mopiano",
-          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
-        }
-      ],
-      "duration_ms": 194223,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
         "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 168040,
       "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
       "url": "https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Explosion",
+        "url": "https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "duration_ms": 186530,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z"
     },
     {
       "added_at": "2023-12-21 23:00:00",

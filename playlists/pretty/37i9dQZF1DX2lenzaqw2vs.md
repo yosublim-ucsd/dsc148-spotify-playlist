@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,311 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,329 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Mujer Contra Mujer](https://open.spotify.com/track/2AFriDnr8KrU9d39Hd9UHV) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Mujer Contra Mujer](https://open.spotify.com/album/4mvqSipxmat1wzNTJzSEZy) | 3:26 |
 | 100 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 
-Snapshot ID: `MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1`
+Snapshot ID: `MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm`

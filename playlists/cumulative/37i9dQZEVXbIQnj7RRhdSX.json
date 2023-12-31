@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "A TE E FAMIGLIA",
+        "url": "https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171461,
+      "name": "A TE E FAMIGLIA",
+      "url": "https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS"
+    },
+    {
+      "album": {
         "name": "A Un Passo Dalla Luna",
         "url": "https://open.spotify.com/album/3yC0vAn3tAWjl73wvvgtzX"
       },
@@ -29274,7 +29292,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"

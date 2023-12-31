@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Guntur Kaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,808 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,990 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh My Baby](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 |
+| 1 | [Kurchi Madathapetti](https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn) | 3:36 |
 | 2 | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/track/78TQJ6QyHZNRXUNFBpNuhP) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/album/5FW8Ypbbg0hASh6jLtNZ3Z) | 3:18 |
 | 3 | [College Papa](https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Varam](https://open.spotify.com/artist/7M1gYudbPTr899NHeTOEHY), [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [MAD](https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy) | 4:05 |
 | 4 | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/album/3l0neQyP1UjjSFoyCtxS75) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `MCw0MzMzYzNlMDNkYjJlYTI2MTlmOGI5NTBkYzQ1MGVlYmNkZjhmM2Jj`
+Snapshot ID: `MCwwYmVlZDgzNGM4NGEzZDk2YTk5YjA0MWM4NDVkMTViYTI0ZmE4YmIx`

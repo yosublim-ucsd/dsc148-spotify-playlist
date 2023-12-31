@@ -748,6 +748,10 @@
         {
           "name": "Mali",
           "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
         }
       ],
       "date_added": "2023-12-15",
@@ -7832,10 +7836,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 191999,
       "name": "Potta Pulla Vaasam Theadi",
       "url": "https://open.spotify.com/track/1ucrvhA6DV5bG6WTYqndu1"
+    },
+    {
+      "album": {
+        "name": "Potta Pulla Vaasam Theadi",
+        "url": "https://open.spotify.com/album/0l3Veib24UzEgwJ9aCxGly"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Potta Pulla Vaasam Theadi",
+      "url": "https://open.spotify.com/track/5bSxYx4bXM0vm9hazQbaT8"
     },
     {
       "album": {

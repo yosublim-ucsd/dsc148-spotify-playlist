@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 291548,
+  "num_followers": 291620,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTNhNWY5OTVhNjU4ZTUyZmQ0ZmEwMzAwYjZkNjFjNzIyYzNiOWFm",
+  "snapshot_id": "MCw4ZjE4ODVmOTBlY2ZmMTg5YjQwMzhhNzcwNTU5NzFkMTJhZTMwMjk0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 241646,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1107,18 +1091,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Stranger to Me",
-        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
       },
       "artists": [
         {
-          "name": "The Black Lillies",
-          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+        "name": "Stranger to Me",
+        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
       },
       "artists": [
         {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+          "name": "The Black Lillies",
+          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+      "duration_ms": 201000,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1183,6 +1183,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Spades & Roses",
         "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Real Class Act",
-        "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
       },
       "artists": [
         {
-          "name": "Fanny Lumsden",
-          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 177502,
-      "name": "Roll On",
-      "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
+      "duration_ms": 181320,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Giddy Up",
-        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
+        "name": "Real Class Act",
+        "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Fanny Lumsden",
+          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
         }
       ],
-      "duration_ms": 181320,
-      "name": "Giddy Up",
-      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
+      "duration_ms": 177502,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Heartbreak Blues",
-      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Heartbreak Blues",
+      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
     },
     {
       "added_at": "2023-10-06 04:00:00",

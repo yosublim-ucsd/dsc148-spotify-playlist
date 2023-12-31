@@ -2087,6 +2087,36 @@
     },
     {
       "album": {
+        "name": "Chitram Choodara",
+        "url": "https://open.spotify.com/album/0pmOHWmHtUzlxhbMsJFjT1"
+      },
+      "artists": [
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Manasu Galilona",
+      "url": "https://open.spotify.com/track/0r4KMkUHhTQRPly1pIu0xJ"
+    },
+    {
+      "album": {
         "name": "Samudram Chittabbai",
         "url": "https://open.spotify.com/album/1KIMT9VSR4UCR1XRWYIMYS"
       },
@@ -3120,7 +3150,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-31",
       "duration_ms": 192841,
       "name": "Nuvve Nuvve (From \"Sapta Sagaralu Dhaati - Side B\")",
       "url": "https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75"

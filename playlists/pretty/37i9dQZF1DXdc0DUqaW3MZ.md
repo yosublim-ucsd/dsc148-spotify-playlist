@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,576 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,673 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 5 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 6 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 |
 | 7 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
-| 8 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
-| 9 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
+| 8 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
+| 9 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 | 10 | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
 | 11 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 12 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 51 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 |
 | 52 | [Rendezvous \(with Miraa May\)](https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Rendezvous \(with Miraa May\)](https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios) | 2:30 |
 | 53 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
-| 54 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
-| 55 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
+| 54 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
+| 55 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
 | 56 | [Beato Classico](https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Beato Classico](https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB) | 3:28 |
 | 57 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 | 58 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 |
 | 70 | [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 |
 
-Snapshot ID: `MCw3MzNhMzUzZTRkMzM0ZDUyOTE0NzY5MzY4N2U2NWEzMTk3NTlhODk1`
+Snapshot ID: `MCw4MTIzODFjYzc0ZmViMjY0OTVmNzgzOTRkY2UzN2MxYWJiZjBkM2Zj`

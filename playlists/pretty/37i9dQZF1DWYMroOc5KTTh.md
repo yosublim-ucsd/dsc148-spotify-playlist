@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,074 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,202 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Greatest Love \- Edit](https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Greatest Love](https://open.spotify.com/album/1afYraZZkxPQTTkvVVHc4r) | 3:50 |
 | 50 | [Petit Prince Du Macadam](https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 3:04 |
 
-Snapshot ID: `MCxlNWU1YjE5ZTkzODk2YzQ2Zjk2NGE1NzA0ZGMzY2Y5OTRiN2RkNTU0`
+Snapshot ID: `MCxmM2RjNGVlNTFlMWFiNDhjNTQ0YzlhNGFlY2U4MjhiMmUyNWI2Mjll`

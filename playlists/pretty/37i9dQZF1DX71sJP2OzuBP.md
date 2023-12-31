@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,050 likes - 106 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,051 likes - 106 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 105 | [現在的自己](https://open.spotify.com/track/5yEeCwJt7X68hIqN6I8QwB) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [現在的自己](https://open.spotify.com/album/1cgLI0KRmEV3bExgKMV7XZ) | 3:21 |
 | 106 | [不合时宜](https://open.spotify.com/track/1sSBzUnzhC233bIUf4Je6D) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [不合时宜](https://open.spotify.com/album/1ozyKU9ovth7R8h6CvYluo) | 3:18 |
 
-Snapshot ID: `MCxmNDRhMzBiYjBhMzQ5MDM2NDk3YzcwMjU4NDQwYjFlY2ViODA4Yjhl`
+Snapshot ID: `MCw0YjY0MzhlOTRjNzU3ZmI0OTA1NDY5YmM1YTU0Yjk3ZmE0ZGNhYTQx`

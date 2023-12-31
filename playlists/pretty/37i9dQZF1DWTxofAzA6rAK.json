@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 58074,
+  "num_followers": 58145,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjAzMDBiNmQyZWQ5OGI0ZWIxMTkwMGEyYWVmNzRiOTA1N2EyYjAy",
+  "snapshot_id": "MCxmMTkyYmNmNDVjMDFlYWIwZDRkNjhhMjM0NjkzZWFmOGFmZWNlOWVl",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Calmc",
-        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Calmc",
-      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Live n' Learn",
         "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 161610,
       "name": "Live n' Learn",
       "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Calmc",
+        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Calmc",
+      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crawsis",
-        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
       },
       "artists": [
         {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         },
         {
-          "name": "Shaneil Muir",
-          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         }
       ],
-      "duration_ms": 173740,
-      "name": "Crawsis",
-      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
+      "duration_ms": 138567,
+      "name": "Likkle Miss (with Skeng) - Remix",
+      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
+        "name": "Crawsis",
+        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
         },
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+          "name": "Shaneil Muir",
+          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
         }
       ],
-      "duration_ms": 138567,
-      "name": "Likkle Miss (with Skeng) - Remix",
-      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
+      "duration_ms": 173740,
+      "name": "Crawsis",
+      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Glock 40",
+        "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
+        }
+      ],
+      "duration_ms": 136385,
+      "name": "Glock 40",
+      "url": "https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Brrrp",
         "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 140336,
       "name": "Dickmatized",
       "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Glock 40",
-        "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
-        }
-      ],
-      "duration_ms": 136385,
-      "name": "Glock 40",
-      "url": "https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "From Rags to Riches",
         "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
-      },
-      "artists": [
-        {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
-        }
-      ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Corrupt, Pt. 2",
+        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Corrupt, Pt. 2",
+      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Shootaz",
         "url": "https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 208351,
       "name": "Shootaz",
       "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Corrupt, Pt. 2",
-        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Corrupt, Pt. 2",
-      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/5gDobQWuOT5HP2NgvX91Pj"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        },
-        {
-          "name": "Zimi",
-          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
-        }
-      ],
-      "duration_ms": 155391,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/265JbObZUl1Gt14qBkkqnG"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Condensed Milk",
         "url": "https://open.spotify.com/album/7cwuRBBw9qpJi5rijLEEcG"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/6CqQVBWhL00BV2DfsxXoaZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/5gDobQWuOT5HP2NgvX91Pj"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Zimi",
+          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
+        }
+      ],
+      "duration_ms": 155391,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/265JbObZUl1Gt14qBkkqnG"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2475,30 +2475,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Stuntin",
-        "url": "https://open.spotify.com/album/2JFHrjfrvh0iTavW94wdJp"
-      },
-      "artists": [
-        {
-          "name": "Mix Master David",
-          "url": "https://open.spotify.com/artist/61awrAWH5MxH42AZy7v5Pd"
-        },
-        {
-          "name": "Verse Simmonds",
-          "url": "https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Stuntin",
-      "url": "https://open.spotify.com/track/43aG4bC4H0IW8gMuoSeLxL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Weak Spot",
         "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
       },
@@ -2531,6 +2507,30 @@
       "duration_ms": 186654,
       "name": "Riches Wii a Pree",
       "url": "https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Stuntin",
+        "url": "https://open.spotify.com/album/2JFHrjfrvh0iTavW94wdJp"
+      },
+      "artists": [
+        {
+          "name": "Mix Master David",
+          "url": "https://open.spotify.com/artist/61awrAWH5MxH42AZy7v5Pd"
+        },
+        {
+          "name": "Verse Simmonds",
+          "url": "https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "Stuntin",
+      "url": "https://open.spotify.com/track/43aG4bC4H0IW8gMuoSeLxL"
     },
     {
       "added_at": "2023-05-24 08:21:37",

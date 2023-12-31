@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,361 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,667 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 44 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 |
 | 45 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 46 | [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 |
-| 47 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
-| 48 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
+| 47 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
+| 48 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
 | 49 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 |
 | 50 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 
-Snapshot ID: `MCw5MmY1MWFiMTYwYWJkN2E3NzFhNTgwMGMyMzRhZTdhMzhiMzgzYzg1`
+Snapshot ID: `MCxjNWMwOGJmNGFlZWM0Y2M5YmQ1NTlkYmU4Y2ViMTVlNDRiMTNhZDcx`

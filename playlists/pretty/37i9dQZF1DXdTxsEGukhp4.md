@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 奥田民生
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,210 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,215 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [himawari](https://open.spotify.com/track/6EMixJeYzOGRHrrGz4EVwT) | [RKID'z](https://open.spotify.com/artist/2M4aC5IMTkKDehBolXar1B) | [HIMAWARI](https://open.spotify.com/album/7L3JLQdnE1BWXXubSZSqWZ) | 3:39 |
 | 50 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
 
-Snapshot ID: `MCxlM2NkMmJiMmRiYmY1ZTM0ZTMwYzE2ZmQxNGY1MjRlNzUwNDVkM2Mw`
+Snapshot ID: `MCxmNTg2ZmMwYTk3MGM1YmYyYTFkNDdmMzFlZGE2NTZjN2M1ZDhhMDVk`

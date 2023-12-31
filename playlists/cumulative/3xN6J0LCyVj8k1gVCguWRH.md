@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md) - cumulative - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3xN6J0LCyVj8k1gVCguWRH)
 
-### [Obama’s Summer Playlist 2023 \| Favorite Songs of 2023](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
+### [Barack Obama’s Summer Playlist 2023 \| Favorite Songs of 2023](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> Barack Obama&\#x27;s Best songs of 2023 plus his  favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
+> Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,799 songs - 6 day 15 hr 54 min
+2,802 songs - 6 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1699,6 +1699,7 @@
 | [Need A Little Time](https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 3:58 | 2021-08-28 | 2021-09-11 |
 | [Need To Know](https://open.spotify.com/track/2oaVjX8SSsViA8291B9ZWv) | [Slow Reveal](https://open.spotify.com/artist/4auJYfz4JXxJCbshIMPuVv) | [Need To Know](https://open.spotify.com/album/1k7kt09WkTJ1V5jXhOn4JG) | 3:06 | 2021-01-23 | 2021-02-06 |
 | [Need to Know](https://open.spotify.com/track/0geAd6Fvya79ASiQaI5jVj) | [Venture Still](https://open.spotify.com/artist/0zsujzHYce9p5WcD5Dd3ze) | [Need to Know](https://open.spotify.com/album/4ZrJiGArHXvXOBbl2E7TZO) | 4:27 | 2023-07-15 | 2023-08-04 |
+| [Need you](https://open.spotify.com/track/4vgIgJGEN850goz9Elr0Vh) | [Niko](https://open.spotify.com/artist/6vaQXzPNOBeu4Dr2Zj4MqQ) | [Need you](https://open.spotify.com/album/7JjsPAEfNcRIZTZPiFWFmy) | 2:47 | 2023-12-30 |  |
 | [Need Your Love](https://open.spotify.com/track/1bZzONEMrE3LOliPoFF9pb) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Need Your Love](https://open.spotify.com/album/3XgYXKKUEwLlinpAnKcZmB) | 2:52 | 2021-03-25 | 2021-04-10 |
 | [Nefertiti](https://open.spotify.com/track/3CkwUhtUqmix6uygsiw5Pk) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [Radio Silence](https://open.spotify.com/album/4iw4FdB8UmzbCREoJ0A4fd) | 3:16 | 2020-05-24 | 2020-06-10 |
 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 | 2021-07-11 |  |
@@ -1803,7 +1804,7 @@
 | [On the Moony Side of the Street](https://open.spotify.com/track/4d1VRHCcQhuYW3uGFZisEd) | [Frank Sinapsi](https://open.spotify.com/artist/7MddvDsOIHZiFUoV7Q5vIp), [Francesco Cusa](https://open.spotify.com/artist/5BQEqG6QjXLbNCq802Z0cO), [Enrico Merlin](https://open.spotify.com/artist/0tzkmMdex16gJIiKwi7HUa) | [That Voice from Space](https://open.spotify.com/album/0Hi388yc7wuegEknZ7SnSo) | 4:16 | 2021-06-12 | 2021-06-27 |
 | [On The Radio](https://open.spotify.com/track/3MKS6fvArUEeRIF7xegosQ) | [The Electric Silence](https://open.spotify.com/artist/0QtNNDOVHALNKyA2dbwHek) | [On The Radio](https://open.spotify.com/album/5myFOAiaZ7BPWiCsm9D0j4) | 3:54 | 2023-06-26 | 2023-07-15 |
 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2023-11-08 | 2023-12-30 |
-| [On Things](https://open.spotify.com/track/5Jjv7nq2N78rynURploDX9) | [President](https://open.spotify.com/artist/0eAR8yNSIcH6qDSYVG7SlL) | [On Things](https://open.spotify.com/album/1i1lilXoWAuTtjAtJdMnRe) | 3:23 | 2023-12-22 |  |
+| [On Things](https://open.spotify.com/track/5Jjv7nq2N78rynURploDX9) | [President](https://open.spotify.com/artist/0eAR8yNSIcH6qDSYVG7SlL) | [On Things](https://open.spotify.com/album/1i1lilXoWAuTtjAtJdMnRe) | 3:23 | 2023-12-22 | 2023-12-31 |
 | [ON&ON](https://open.spotify.com/track/2U2XZji7hJFvtejYHOSewk) | [Chrmng,](https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [ON&ON](https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu) | 2:40 | 2022-12-30 | 2023-01-21 |
 | [One by One](https://open.spotify.com/track/3HJLTTtvVFq6rQBYpc5e7T) | [M\-I\-N\-O\-S](https://open.spotify.com/artist/7CTPgjLDoBPzH7t0cRsOX0) | [One by One](https://open.spotify.com/album/0nieRtMiCDLIF61oWCmETu) | 2:55 | 2023-02-24 | 2023-03-20 |
 | [One For Me and One For You](https://open.spotify.com/track/4l5dehemF2Rwm8HPmVQXH1) | [Caleb Krone](https://open.spotify.com/artist/4kssIOS6NvgtYRntJUEgPk) | [The Dark Side Of The Sun](https://open.spotify.com/album/4r8JjkZmrUP1uY1RFRH2PD) | 3:04 | 2023-02-28 | 2023-03-18 |
@@ -2038,6 +2039,7 @@
 | [Rocking Into Midnight](https://open.spotify.com/track/5oIOcXzjn7zDPoDaG9GPjo) | [Sanjay Michael](https://open.spotify.com/artist/3vgZGQT0dWv0Vhqi5Z6Ezx) | [Rocking Into Midnight](https://open.spotify.com/album/4HzFlPvT7n7rSDh7GVyxSr) | 4:28 | 2023-07-31 | 2023-08-20 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2020-07-12 | 2020-08-20 |
 | [ROLLER DISCO \(SLIDE\)](https://open.spotify.com/track/1eqRSqN8XYcL2mb8f3RDjT) | [Alpha23](https://open.spotify.com/artist/1v6Gttdwys67oMFIWLFoJO) | [ROLLER DISCO \(SLIDE\)](https://open.spotify.com/album/4jQyfgF9AVJILd4kq4avAW) | 3:16 | 2021-09-24 | 2021-10-09 |
+| [Rose](https://open.spotify.com/track/7A3QVbVq3Vv4Znbez1xpzN) | [Synthetic](https://open.spotify.com/artist/6LhZALSLn2s9JwATZLTSxJ) | [Rose](https://open.spotify.com/album/0LPmS8rYxwOvmbRRohfAlt) | 3:25 | 2023-12-30 |  |
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2020-07-21 | 2020-08-20 |
 | [Rough Old Friend](https://open.spotify.com/track/1ZiQ8AldPsAIKrq1n3OPta) | [Cody Ellis](https://open.spotify.com/artist/3xrYyxHp2V0jQEE8wZdVjg) | [Good Medicine](https://open.spotify.com/album/5p9CiKZWW4h5U8f2kXDT7U) | 2:43 | 2023-06-24 | 2023-07-04 |
 | [Rounds](https://open.spotify.com/track/2u4uEx2BRBYVsCMVor9R7c) | [Joey T](https://open.spotify.com/artist/51i7M5CM40KzpWtsJYbpfl) | [Rounds](https://open.spotify.com/album/5re3EhPAGrpQTZIQ5jeULd) | 1:55 | 2022-08-19 | 2022-09-04 |
@@ -2644,6 +2646,7 @@
 | [Waves](https://open.spotify.com/track/3zv9Irm79dy4A0bj8tYGl1) | [Millxpressionz](https://open.spotify.com/artist/0gkQ2OE2rvw0VbAR9KxdX6) | [Waves](https://open.spotify.com/album/4aQPd8UStjF8SPrT9hpucY) | 3:21 | 2023-12-16 | 2023-12-24 |
 | [Waves](https://open.spotify.com/track/4TRZVGXtudD1pmurYfaOaa) | [St\. Pete Holland](https://open.spotify.com/artist/2EwOmAhyAsDFxy5hRBhBF7) | [Waves](https://open.spotify.com/album/40wtDRqV7nKk6KX3YwLZVt) | 2:41 | 2023-09-15 | 2023-12-14 |
 | [Wavy](https://open.spotify.com/track/10mXgtatzJCW49NazPVQ35) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Celeste Krishna](https://open.spotify.com/artist/4fHswCzZBwNyv68zJk0yDC) | [Wavy](https://open.spotify.com/album/1h5nl7P9ofgy8KEn5TRiFZ) | 2:14 | 2021-10-27 | 2021-11-14 |
+| [Wax Poetic](https://open.spotify.com/track/6iWmvLjxADxbgdTNR95Yba) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:50 | 2023-12-30 |  |
 | [Way Down](https://open.spotify.com/track/15LP7NRcaxtdyGY0pOEaNH) | [Tommi Luas](https://open.spotify.com/artist/36oJ7nqhj8yMVcsFbxSZkN) | [West Coast](https://open.spotify.com/album/1JCEpjbetYiO7CGINGU30H) | 3:33 | 2022-06-03 | 2022-06-19 |
 | [Way Down \- Remix](https://open.spotify.com/track/7xbDaWvcBvEBfIgOXjm8AT) | [Muca](https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM) | [Way Down \(Remix\)](https://open.spotify.com/album/32o6cU5kIPXSjxtH25uSGI) | 3:09 | 2023-03-24 | 2023-04-13 |
 | [Way U Luv U](https://open.spotify.com/track/7etw30mcJjqshIZMFiFa6a) | [Kayden McCarthy](https://open.spotify.com/artist/7I3c3gex8qmSXlYS2aOznn) | [Way U Luv U](https://open.spotify.com/album/35bREFU29uBpfYT1aNxFtp) | 3:12 | 2022-05-12 | 2022-05-30 |
