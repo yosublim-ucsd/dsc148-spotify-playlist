@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 33014,
+  "num_followers": 33054,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWE0ZWY4ZWViYWE3MTNlYmNjZGUzMjdmYjYwMDdhNzk1N2YyZDA1",
+  "snapshot_id": "MCw1MTE4NGNlZGI0YmY5NGU1ZmJiZDM2Yjk3NzY4MDlkYzg2OWZhMDQx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -403,22 +403,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
       "artists": [
         {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -491,22 +491,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "B.A.R.S (Vol. 1)",
         "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 164250,
       "name": "Sho Nuff (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1891,6 +1891,34 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Honey C",
+          "url": "https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L"
+        }
+      ],
+      "duration_ms": 258109,
+      "name": "MOMMAE (Feat. Crush, Simon Dominic & Honey Cocaine) - Remix",
+      "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1931,34 +1959,6 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "WORLDWIDE",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Honey C",
-          "url": "https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L"
-        }
-      ],
-      "duration_ms": 258109,
-      "name": "MOMMAE (Feat. Crush, Simon Dominic & Honey Cocaine) - Remix",
-      "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
     },
     {
       "added_at": "2023-11-27 14:05:19",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-389 songs - 1 day 1 hr 23 min
+391 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Cherry In Tacoma](https://open.spotify.com/track/4ePlZMnWntH6rq9xUpalnr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:42 | 2022-08-02 |  |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-08-14 |  |
 | [Chinatown](https://open.spotify.com/track/3i729CqF9sBCCyhYxIWUZZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 3:49 | 2022-06-13 | 2023-07-11 |
+| [Choose Your Weapon](https://open.spotify.com/track/3NqwLwpzbpyvXB2wJE0Oe6) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 1:33 | 2023-12-31 |  |
 | [Citizen of the Planet](https://open.spotify.com/track/6F3HmpbVHKaEnURkxrZqqv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Flavors of Entanglement \(Standard Edition\)](https://open.spotify.com/album/60XREfh3Gg6chBxPBCa7dl) | 4:22 | 2022-08-25 |  |
 | [CODE](https://open.spotify.com/track/7mf1jqnFX2jgZg9bgK8V6r) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:15 | 2022-10-01 |  |
 | [Cold Chillin' Cold Chillin'](https://open.spotify.com/track/1m3wtu9X4ReNFAE2fxH48j) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [SCRAMBLES](https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY) | 1:45 | 2022-04-19 |  |
@@ -229,6 +230,7 @@
 | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/track/5FpMCPbmZIrVlf3zxC6eqV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 4:31 | 2023-04-24 |  |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 | 2023-08-09 |
+| [Mobius Streak](https://open.spotify.com/track/40l4Z2pYvnoXD2PTl3T26Z) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 5:59 | 2023-12-31 |  |
 | [Mojo Pin](https://open.spotify.com/track/3wBy12K7BHKHJspUwJw8fq) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:42 | 2022-07-31 |  |
 | [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 | 2023-07-08 | 2023-08-09 |
 | [Mornin'!](https://open.spotify.com/track/5c3OcRPB9vCgCtenGQpIUv) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [POST\-](https://open.spotify.com/album/4dvUYqwZfiRuFvSbqKF2FZ) | 0:05 | 2023-01-03 |  |

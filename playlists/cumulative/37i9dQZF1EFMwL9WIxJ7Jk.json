@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The Love Train",
+        "url": "https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175223,
+      "name": "All The Ways",
+      "url": "https://open.spotify.com/track/2V7UKe51RYveJXa8Hp3B5Y"
+    },
+    {
+      "album": {
         "name": "All The Ways (Official Music Video)",
         "url": "https://open.spotify.com/album/42SOkqw6vxrKfl1faYT5So"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 181525,
       "name": "All The Ways",
       "url": "https://open.spotify.com/track/4uC5AaTIvPq7bOTAkVQQfG"
@@ -280,10 +298,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 357610,
       "name": "Better",
       "url": "https://open.spotify.com/track/3zSTbsdVAUPDcICYOnTHij"
+    },
+    {
+      "album": {
+        "name": "Thank You (Deluxe)",
+        "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167613,
+      "name": "Better (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/6str6hBCPSjfhSIS4qscDJ"
     },
     {
       "album": {
@@ -601,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184226,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC"
+    },
+    {
+      "album": {
         "name": "Dear Future Husband (Official Video)",
         "url": "https://open.spotify.com/album/2gv9idQ44b8rT493Zn7iH0"
       },
@@ -612,7 +670,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 200810,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/1AuOVuWtvXnTkPg59gC6VM"
@@ -1079,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "I Believe In Santa (Official Music Video)",
+        "url": "https://open.spotify.com/album/1j3gVrroXVViMQo9MKPkXl"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157461,
+      "name": "I Believe In Santa",
+      "url": "https://open.spotify.com/track/4D3lztDiYLLp2pf6KdLA1P"
+    },
+    {
+      "album": {
         "name": "A Very Trainor Christmas",
         "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
       },
@@ -1090,7 +1166,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 158266,
       "name": "I Believe In Santa",
       "url": "https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0"
@@ -1184,10 +1260,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 163626,
       "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
       "url": "https://open.spotify.com/track/677EggUBJAcombPDoWsIrj"
+    },
+    {
+      "album": {
+        "name": "I'm a Lady (from SMURFS: THE LOST VILLAGE)",
+        "url": "https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
+      "url": "https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo"
     },
     {
       "album": {
@@ -1381,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "LET YOU BE RIGHT",
+        "url": "https://open.spotify.com/album/7Ig5pwcGxS3xGZzhhRHYgK"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "LET YOU BE RIGHT",
+      "url": "https://open.spotify.com/track/3Pk8g01OL144DW0oY0Lpsv"
+    },
+    {
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1399,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Like I'm Gonna Lose You (Official Music Video)",
+        "url": "https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4"
+    },
+    {
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -1414,7 +1548,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
@@ -1511,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Thank You (Deluxe)",
+        "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/1m4dXbkplvaOO4Wbdjbwxs"
+    },
+    {
+      "album": {
         "name": "Me Too",
         "url": "https://open.spotify.com/album/542uFsrJQ2QTMdU2UXav89"
       },
@@ -1522,7 +1674,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 181930,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/2rjwLuDkeT4bQ7T5hXKMR3"
@@ -1566,10 +1718,50 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 181360,
       "name": "More Than Friends (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/03VNgdCL9t8aPyvwZecglI"
+    },
+    {
+      "album": {
+        "name": "More Than Friends (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/7LLCougEDWEEnAhxRCI5Fx"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "More Than Friends (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6y7zyXqsJMRWzIYuJ3KXxZ"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147481,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
       "album": {
@@ -1584,7 +1776,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 187456,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0blfmCF2PmtP5fqy9SnNUZ"
@@ -1646,10 +1838,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 161013,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Present (Official Music Video)",
+        "url": "https://open.spotify.com/album/5F8E9IoXnAGxgPcIlWzhTT"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162005,
+      "name": "My Kind Of Present",
+      "url": "https://open.spotify.com/track/2x32vesenRYBI0HbqynTim"
     },
     {
       "album": {
@@ -1747,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152862,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/13KCcVDJM9rrQlPgGtepK8"
+    },
+    {
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/6ZLkEiM1sl6VGH7ma4CyND"
       },
@@ -1758,7 +1986,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 154943,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/798bkr5n6cLqgfTHQBnzVS"
@@ -2384,10 +2612,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 175018,
       "name": "Wave",
       "url": "https://open.spotify.com/track/33aqFOMLneg8svOnonsdd0"
+    },
+    {
+      "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176947,
+      "name": "Wave (feat. Mike Sabath)",
+      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
     },
     {
       "album": {
@@ -2442,10 +2692,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 180840,
       "name": "With You",
       "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
+    },
+    {
+      "album": {
+        "name": "With You (Official Video)",
+        "url": "https://open.spotify.com/album/4mzMdRYWzG2a8YakJ4ZXx6"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181418,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4ZUuOeKWRKaKe9inyamD6H"
     },
     {
       "album": {

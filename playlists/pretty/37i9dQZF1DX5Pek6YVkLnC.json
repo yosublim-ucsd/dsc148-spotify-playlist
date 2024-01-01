@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: paopao",
-  "num_followers": 230636,
+  "num_followers": 230623,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZlODNkY2RiNTBjODQzOGE3OTA3OTI0NWE5NjZjZGI2OWFlZDIx",
+  "snapshot_id": "MCxiMTYzZGFiMWViOWQxYTMxMDg5ZjY1NDBhNGJmZmQ4Nzk3ZDNkNzU2",
   "tracks": [
     {
       "added_at": "2023-12-08 18:45:03",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
+        "name": "Anfetamina",
+        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 236197,
+      "name": "Anfetamina",
+      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
         "name": "FREELANCE 2.0 ROA, Amarion, Ankhal ( FT. CDobleta, Anubiis)",
         "url": "https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 336960,
       "name": "FREELANCE 2.0",
       "url": "https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
-        "name": "Anfetamina",
-        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
-      },
-      "artists": [
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 236197,
-      "name": "Anfetamina",
-      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
+        "name": "La Dulzura (Instrumental)",
+        "url": "https://open.spotify.com/album/3igVmMtQSpShAnvSHYQH1T"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 304718,
+      "name": "Ilegal - Instrumental",
+      "url": "https://open.spotify.com/track/53A5qlEohUD7ec2EzshxPg"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
         "name": "GTA",
         "url": "https://open.spotify.com/album/3lS09bbWwh9TrNSQoRirdL"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 188751,
       "name": "GTA",
       "url": "https://open.spotify.com/track/7AauKKSCCUcJOOeVmWCGhp"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
-        "name": "La Dulzura (Instrumental)",
-        "url": "https://open.spotify.com/album/3igVmMtQSpShAnvSHYQH1T"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 304718,
-      "name": "Ilegal - Instrumental",
-      "url": "https://open.spotify.com/track/53A5qlEohUD7ec2EzshxPg"
     },
     {
       "added_at": "2023-12-08 18:45:03",

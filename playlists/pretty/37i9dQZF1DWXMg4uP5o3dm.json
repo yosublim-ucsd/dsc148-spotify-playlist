@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 472094,
+  "num_followers": 472179,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDZkZjc3YTIxOTc2ZTJlM2ViOGRjZmJlMjQ2OGExNzU2Y2I4MGYw",
+  "snapshot_id": "MCw2NmZmMWI2ZWM0MDRlNmI2NGVjYjAxYzZlMDVkNDkyOWE4NDYxMjA1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "arsonists",
-        "url": "https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "arsonists",
-      "url": "https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Great Time To Be Human",
         "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 203108,
       "name": "Great Time To Be Human",
       "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "arsonists",
+        "url": "https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "arsonists",
+      "url": "https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
         }
       ],
-      "duration_ms": 195735,
-      "name": "Die For A Night",
-      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
+      "duration_ms": 161309,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 161309,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
+      "duration_ms": 195735,
+      "name": "Die For A Night",
+      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Miracle, Baby",
-        "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 220471,
-      "name": "Miracle, Baby",
-      "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "peachy",
         "url": "https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Miracle, Baby",
+        "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 220471,
+      "name": "Miracle, Baby",
+      "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
     }
   ],
   "unique_name": "Alternative Beats",

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-134 songs - 7 hr 7 min
+136 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 | 2022-10-11 | 2022-11-20 |
 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2022-11-15 |  |
 | [Like I Do](https://open.spotify.com/track/6aUqMFKWVu66RPcSFozJRo) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/6BqJwMta8igGVnteOli3AW) | 2:20 | 2022-10-11 |  |
-| [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 |  |
+| [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 | 2024-01-01 |
+| [Little by little](https://open.spotify.com/track/4eQdYqgRkt3nDuF5RJhGpT) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/3HZGfT1HpX2kMupxk8k3Jv) | 1:32 | 2023-11-14 |  |
 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 | 2022-10-11 |  |
 | [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 | 2022-10-11 | 2023-03-08 |
 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 | 2022-10-11 |  |
@@ -93,7 +94,8 @@
 | [Paradise](https://open.spotify.com/track/4jNJlY21mAa7OBSvQ9iE89) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/1HtWTbPU3YXQU7xxYqHIqK) | 3:09 | 2023-09-26 |  |
 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 | 2022-10-11 | 2023-10-15 |
 | [Petals in a Breeze](https://open.spotify.com/track/3TtdSePGpXpmTQDTblgyrv) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Novelletten \#1](https://open.spotify.com/album/4ARq7c6yR8tbXdKC3xm5dq) | 2:11 | 2022-10-11 |  |
-| [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 | 2022-10-11 |  |
+| [Pink scent](https://open.spotify.com/track/3CGwJYv15CGvWK0bF7YVDd) | [Mingeon Jang](https://open.spotify.com/artist/6JRh0BrOq2odFlhxULwk5F), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/0l30FzUlJTAztq8P5nFoOP) | 2:45 | 2023-11-14 |  |
+| [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 | 2022-10-11 | 2024-01-01 |
 | [Pockets](https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Pockets](https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl) | 3:20 | 2022-10-11 |  |
 | [Purity](https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B) | 4:05 | 2022-10-11 |  |
 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 | 2022-10-11 |  |

@@ -921,6 +921,28 @@
     },
     {
       "album": {
+        "name": "Mano a mano",
+        "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "El pe\u00f3n de Obraje",
+      "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
+    },
+    {
+      "album": {
         "name": "El Remanso",
         "url": "https://open.spotify.com/album/4uuATNDzXPRQliiiPkIjSl"
       },
@@ -2968,7 +2990,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"

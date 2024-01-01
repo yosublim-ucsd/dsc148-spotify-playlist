@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem WIU, Poesia Acústica, MC IG, DJ Arana e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,934,535 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,934,759 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [Inimigo do Fim](https://open.spotify.com/track/2CmaJ6MOIIyqnOoekbLN4H) | [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA) | [Linguagem Da Rua](https://open.spotify.com/album/3vuIw19movA1gTD7qaTrIF) | 3:40 |
 | 70 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 |
 
-Snapshot ID: `MCwxYmQ4MmJjYzY2ZmM2ODY4NjczNWFlYzY1NWI2MjFlMGEyYTY0MWY1`
+Snapshot ID: `MCxiM2EzMTc4NGEzNDI4NGUwODc4ZmY4ZjJkMjcyNDM5NTY1ZDkwMGVi`

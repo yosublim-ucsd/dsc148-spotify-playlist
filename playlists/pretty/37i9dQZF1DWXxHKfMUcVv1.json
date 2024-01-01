@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 112381,
+  "num_followers": 112451,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2I4MzQzZDg2MTc2MmZhM2ExNjQzMGYyMTJlNTA4YWRlNTM2MmI3",
+  "snapshot_id": "MCw2MmUyZDc1ZmE0NjIyODAzZjRkMzliN2I0MjliZmViZjlhYTFhNTU0",
   "tracks": [
     {
       "added_at": "2023-12-22 18:25:24",
@@ -415,22 +415,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "Sr. Pombero",
+        "url": "https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
         },
         {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Emiliano Brancciari",
+          "url": "https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+      "duration_ms": 214586,
+      "name": "Cada D\u00eda",
+      "url": "https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -467,22 +467,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Sr. Pombero",
-        "url": "https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D"
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         },
         {
-          "name": "Emiliano Brancciari",
-          "url": "https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8"
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 214586,
-      "name": "Cada D\u00eda",
-      "url": "https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb"
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
-      },
-      "artists": [
-        {
-          "name": "Andy El Unico",
-          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
-        }
-      ],
-      "duration_ms": 223242,
-      "name": "Perdi mi amor",
-      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Amaneci\u00f3 lloviendo",
         "url": "https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 189077,
       "name": "Amaneci\u00f3 lloviendo",
       "url": "https://open.spotify.com/track/3zZsSn7sjY7sZQtRT7tJNa"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
+      },
+      "artists": [
+        {
+          "name": "Andy El Unico",
+          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
+        }
+      ],
+      "duration_ms": 223242,
+      "name": "Perdi mi amor",
+      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
     },
     {
       "added_at": "2023-12-22 18:25:24",

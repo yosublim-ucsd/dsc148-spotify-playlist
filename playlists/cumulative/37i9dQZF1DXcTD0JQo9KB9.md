@@ -4,7 +4,7 @@
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-116 songs - 7 hr 31 min
+117 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2022-04-13 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-04-13 |  |
 | [千世書](https://open.spotify.com/track/0IENIIyNzkRTJu7xhKvDNC) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [千世書](https://open.spotify.com/album/2VPXxz135nzaU7LTrOOby5) | 4:21 | 2022-04-13 |  |
-| [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 | 2022-04-13 |  |
+| [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 | 2022-04-13 | 2024-01-01 |
+| [半島](https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn) | 3:37 | 2023-07-12 |  |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-04-13 |  |
 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 | 2022-04-13 |  |
 | [國際孤獨等級](https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [國際孤獨等級](https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM) | 3:13 | 2023-07-12 |  |

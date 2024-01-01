@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33118,
+  "num_followers": 33123,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
+  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Yardley Suite",
         "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -507,22 +507,6 @@
       "duration_ms": 343283,
       "name": "2 Far Gone",
       "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -555,6 +539,22 @@
       "duration_ms": 246855,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa",
-      "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 407893,
       "name": "Servants Jaz House",
       "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "duration_ms": 356313,
+      "name": "Mother Theresa",
+      "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -703,6 +703,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Moodymann",
         "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 416871,
       "name": "Night Of Desirable Objects",
       "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",

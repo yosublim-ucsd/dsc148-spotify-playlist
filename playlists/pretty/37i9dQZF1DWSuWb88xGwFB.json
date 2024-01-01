@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32148,
+  "num_followers": 32174,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You (Hard Dub)",
+      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/6naxk0MtAT5YJawdeNeUaC"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 354440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) (Kenny Dope Mix)",
       "url": "https://open.spotify.com/track/22XJmDUVqLdCHve3CEsHJo"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You (Hard Dub)",
-      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "So Deep, so Good",
         "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
       },
@@ -667,6 +683,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "You Don't Know (MuthaFunkaz Mixes)",
         "url": "https://open.spotify.com/album/4PqEJS2uVhkonuNw128HWO"
       },
@@ -679,6 +711,22 @@
       "duration_ms": 483750,
       "name": "You Don't Know (MuthaFunkaz Tribute Mix)",
       "url": "https://open.spotify.com/track/2jzgWTrE0qUp7Pap6AHBRZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -711,22 +759,6 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
       "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -819,22 +851,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
       },
       "artists": [
         {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
         }
       ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -879,6 +895,22 @@
       "duration_ms": 406131,
       "name": "Love Trax (Love Izz)",
       "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -915,38 +947,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
-      },
-      "artists": [
-        {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
-        }
-      ],
-      "duration_ms": 358546,
-      "name": "Boom (Radio Mix)",
-      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 233466,
       "name": "The Warning (2 Copy Mix)",
       "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
+      },
+      "artists": [
+        {
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
+        }
+      ],
+      "duration_ms": 358546,
+      "name": "Boom (Radio Mix)",
+      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1151,70 +1135,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
         }
       ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
-        }
-      ],
-      "duration_ms": 938544,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "DJ Sneak EP-Dancin'",
-        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731735,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
-        }
-      ],
-      "duration_ms": 458306,
-      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1243,18 +1175,70 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
       "artists": [
         {
-          "name": "RBM",
-          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 369987,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "DJ Sneak EP-Dancin'",
+        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731735,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
+        }
+      ],
+      "duration_ms": 938544,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+        }
+      ],
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1271,6 +1255,22 @@
       "duration_ms": 518960,
       "name": "In Da Clouds (Da Dub)",
       "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
+      },
+      "artists": [
+        {
+          "name": "RBM",
+          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
+        }
+      ],
+      "duration_ms": 369987,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
     },
     {
       "added_at": "2022-03-03 13:59:16",

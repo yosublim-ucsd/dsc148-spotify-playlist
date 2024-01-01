@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 130435,
+  "num_followers": 130469,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWMwNDg4OGMxMTQ3ZGIzYjk4YzYxYTdmYWQzYjdhMzgzMDI3Mjlj",
+  "snapshot_id": "MCwyNjMyMGMyYTVjOTIxNzZmODg1MmQzZTdlZjU0ZDU4NDAwMjA2MTE2",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h"
       },
       "artists": [
         {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 182826,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+      "duration_ms": 310845,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
       },
       "artists": [
         {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 310845,
-      "name": "The Boys of Summer",
-      "url": "https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb"
+      "duration_ms": 182826,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Brother Sister",
         "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 211160,
       "name": "Play By Your Own Rules",
       "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 120609,
-      "name": "Jenny Put the Kettle On",
-      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Long Time To Be Gone",
         "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
+        "name": "Cinnamon Tree",
+        "url": "https://open.spotify.com/album/6v8OahRwkvsmxDJB4ZYljO"
       },
       "artists": [
         {
-          "name": "Clyde and the Milltailers",
-          "url": "https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 180687,
-      "name": "Keys",
-      "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+      "duration_ms": 124013,
+      "name": "Buck Creek Girls",
+      "url": "https://open.spotify.com/track/29pFQh9n5R0wz3jlBgtlSC"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
+      },
+      "artists": [
+        {
+          "name": "Clyde and the Milltailers",
+          "url": "https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA"
+        }
+      ],
+      "duration_ms": 180687,
+      "name": "Keys",
+      "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Cinnamon Tree",
-        "url": "https://open.spotify.com/album/6v8OahRwkvsmxDJB4ZYljO"
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
         }
       ],
-      "duration_ms": 124013,
-      "name": "Buck Creek Girls",
-      "url": "https://open.spotify.com/track/29pFQh9n5R0wz3jlBgtlSC"
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1471,22 +1491,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Fare Thee Well",
         "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
       },
@@ -1499,6 +1503,22 @@
       "duration_ms": 186709,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1531,26 +1551,6 @@
       "duration_ms": 179000,
       "name": "Snake Charmer",
       "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1627,6 +1627,42 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+      },
+      "artists": [
+        {
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+        }
+      ],
+      "duration_ms": 153015,
+      "name": "A Distant Land to Roam",
+      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Nashville No More",
         "url": "https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK"
       },
@@ -1683,54 +1719,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Mighty Poplar",
-        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+        "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
       },
       "artists": [
         {
-          "name": "Mighty Poplar",
-          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
-        },
-        {
-          "name": "Andrew Marlin",
-          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Alex Hargreaves",
-          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
-        },
-        {
-          "name": "Greg Garrison",
-          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 153015,
-      "name": "A Distant Land to Roam",
-      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Lonesome State Of Mind",
         "url": "https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 143929,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/6Ve06auIooixlCcp145XKp"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Mount Royal",
-        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
     }
   ],
   "unique_name": "Grass Roots",

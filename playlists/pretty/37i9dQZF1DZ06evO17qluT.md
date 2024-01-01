@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,708 likes - 38 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,738 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 28 | [Sigo na Sombra](https://open.spotify.com/track/1oVADsF7jG7qB04rxkJOUD) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:15 |
 | 29 | [Deus do Furdunço](https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 2:28 |
 | 30 | [PUT@RIA!](https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:12 |
-| 31 | [CABELO VOA](https://open.spotify.com/track/21Ut1CBOmKoNubWFRnIXxQ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj), [MSE](https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:27 |
+| 31 | [ESCURINATTI](https://open.spotify.com/track/4tue9Yl60cudcRRL7oTKjZ) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:55 |
 | 32 | [Quadros](https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 5:09 |
 | 33 | [Cidade do Pecado](https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:31 |
 | 34 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 37 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
 | 38 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 
-Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA3MjU4M2ZmNmE5MDE1ZDk1OGRmMDQ3NDNhZDBmMGIwMA==`
+Snapshot ID: `Mjg0MDAzNjMsMDAwMDAwMDBmYmYyZjI1M2IxMTg3ZGJkODUyMTA2NGU5YTE0YWIxOQ==`

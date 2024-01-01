@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,104 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,106 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [F\*\*\* YOU ALL](https://open.spotify.com/track/2tE7vVVSmTDG6sPj5Tbsgy) | [Nilton CM](https://open.spotify.com/artist/4konJYmhNGaurONrcE9JMp) | [RNB GUCCI \(Vol\. 1\)](https://open.spotify.com/album/09VBMsbjWwhJPZrnupA2Fs) | 3:32 |
 | 100 | [Viemos do Nada](https://open.spotify.com/track/5Dj9kXY9gMFC2yOWyEDmzj) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Viemos do Nada](https://open.spotify.com/album/48MNUzJWZEWvfcnt22qxAT) | 2:55 |
 
-Snapshot ID: `MCxmNzk2MmEwMzJkNzlkYzFkZTk3NjhhMzU2ZWEzMGFkN2IwYmExZTVk`
+Snapshot ID: `MCxhNGUwNTAzOTE1NzJlZDEwNDFiMzEzNDNiMWFhNjExOWRlOTliYjIx`

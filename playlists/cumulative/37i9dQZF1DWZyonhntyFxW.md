@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-257 songs - 13 hr 5 min
+258 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 | 2023-05-26 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
-| [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 |  |
+| [Tripod](https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 3:48 | 2023-12-29 |  |
+| [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 | 2024-01-01 |
 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 | 2022-09-13 | 2022-10-21 |
 | [Ultra Attack](https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:39 | 2023-05-16 | 2023-08-09 |
 | [VALENTINO](https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:37 | 2022-07-30 | 2022-08-24 |

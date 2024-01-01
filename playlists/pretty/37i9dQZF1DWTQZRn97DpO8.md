@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,761 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,789 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 |
 | 50 | [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 |
 
-Snapshot ID: `MCw1ZWE0ZmQxOWVhOWFjYjVkZjhkMTNmMGRjN2Y0NGY3MTJjZTMwY2Zi`
+Snapshot ID: `MCxjMzkxOWQ4ZGQzMGNkZTE0ZDBlZWIxYzEyNzdhMTBkNTlkY2QzMTU0`

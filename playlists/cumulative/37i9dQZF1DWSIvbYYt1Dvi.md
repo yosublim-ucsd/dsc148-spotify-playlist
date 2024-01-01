@@ -4,11 +4,12 @@
 
 > leall é AULAS
 
-261 songs - 14 hr 42 min
+262 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-17 | 2023-07-22 |
+| [12 6 10](https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [12 6 10](https://open.spotify.com/album/5YY7VbZNjSinKfLq75yicy) | 3:36 | 2023-12-29 |  |
 | [1991](https://open.spotify.com/track/2eSghUl6cJPDf4HjzDRsar) | [Diego Chorão](https://open.spotify.com/artist/53BXHON3LcNZ2Bow35hz8L), [WaraBeats](https://open.spotify.com/artist/2MYzGKXSphHn7Z2G6dRbBd), [DOGG](https://open.spotify.com/artist/760X827WdjnQsvRZVwxW1Z), [Doloko](https://open.spotify.com/artist/31vsPT42lADuiWAjtDuO4j) | [1991](https://open.spotify.com/album/48hRv6kV9kmYzQNG1ocFH8) | 2:34 | 2022-08-12 | 2022-09-03 |
 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-01 | 2023-08-12 |
 | [22](https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:00 | 2023-08-11 |  |

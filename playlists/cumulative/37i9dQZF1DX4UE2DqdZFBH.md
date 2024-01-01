@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-116 songs - 9 hr 23 min
+117 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Rise](https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB) | [The Gap](https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g) | [Moving On](https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo) | 2:53 | 2022-06-10 |  |
 | [Rough and Straight](https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Rough and Straight](https://open.spotify.com/album/4fkvTRzMgyRG3z6PfUpQgU) | 6:13 | 2022-06-10 | 2023-12-30 |
 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 | 2022-06-10 |  |
-| [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 |  |
+| [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 | 2024-01-01 |
+| [Rushing](https://open.spotify.com/track/1Pt8y4GsNLCj4Rpojr1D2Q) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/4AqmSaPB6tGxM3ixvyK49d) | 4:51 | 2022-06-10 |  |
 | [Shuddh Sarang](https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:23 | 2023-04-19 |  |
 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 | 2022-06-10 |  |
 | [Siya](https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Siya](https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve) | 3:05 | 2023-08-18 |  |

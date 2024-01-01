@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445246,
+  "num_followers": 445262,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDIyMmJmYjMxN2ZiMGMwZjYwNGZmYWY2YTg3ZjVmNjgxN2IxNzgy",
+  "snapshot_id": "MCw1MDUwZTI1YzdiMDcyYTIzYjU5NTg2MTBmMDA0OWE3OTNmMmFiNzcx",
   "tracks": [
     {
       "added_at": "2023-12-20 11:22:20",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-20 11:22:20",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
-      },
-      "artists": [
-        {
-          "name": "Nova Complex",
-          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
-    },
-    {
-      "added_at": "2023-12-20 11:22:20",
-      "album": {
         "name": "Through My Window",
         "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 150955,
       "name": "Through My Window",
       "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
+    },
+    {
+      "added_at": "2023-12-20 11:22:20",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
+      },
+      "artists": [
+        {
+          "name": "Nova Complex",
+          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
     },
     {
       "added_at": "2023-12-20 11:22:20",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-20 11:22:20",
       "album": {
-        "name": "Magic Mind",
-        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
-      },
-      "artists": [
-        {
-          "name": "Duane Drew",
-          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
-        }
-      ],
-      "duration_ms": 155424,
-      "name": "Magic Mind",
-      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
-    },
-    {
-      "added_at": "2023-12-20 11:22:20",
-      "album": {
         "name": "in.the.forest.we.are.wizards",
         "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 154074,
       "name": "emerald",
       "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
+    },
+    {
+      "added_at": "2023-12-20 11:22:20",
+      "album": {
+        "name": "Magic Mind",
+        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
+      },
+      "artists": [
+        {
+          "name": "Duane Drew",
+          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
+        }
+      ],
+      "duration_ms": 155424,
+      "name": "Magic Mind",
+      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
     },
     {
       "added_at": "2023-12-20 11:22:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-20 11:22:20",
       "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
-      },
-      "artists": [
-        {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
-    },
-    {
-      "added_at": "2023-12-20 11:22:20",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 148578,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
+    },
+    {
+      "added_at": "2023-12-20 11:22:20",
+      "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2023-12-20 11:22:20",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2023-12-20 11:22:20",
       "album": {
-        "name": "if you're reading this ily",
-        "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
+        "name": "Frostthrone",
+        "url": "https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl"
       },
       "artists": [
         {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        },
+        {
+          "name": "Madson Project.",
+          "url": "https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7"
         }
       ],
-      "duration_ms": 116918,
-      "name": "same stars",
-      "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
+      "duration_ms": 228000,
+      "name": "Frostthrone",
+      "url": "https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF"
     },
     {
       "added_at": "2023-12-20 11:22:20",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2023-12-20 11:22:20",
       "album": {
-        "name": "Frostthrone",
-        "url": "https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl"
+        "name": "if you're reading this ily",
+        "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
       },
       "artists": [
         {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        },
-        {
-          "name": "Madson Project.",
-          "url": "https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7"
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Frostthrone",
-      "url": "https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF"
+      "duration_ms": 116918,
+      "name": "same stars",
+      "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
     },
     {
       "added_at": "2023-12-20 11:22:20",

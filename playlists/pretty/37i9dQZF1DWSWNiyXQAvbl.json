@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 480086,
+  "num_followers": 480156,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTVkMTY1YmFlMTQ3YWMzNWM1ODM0NzRmMDM5MGYxZjVmMWZlMGM0",
+  "snapshot_id": "MCw3OWViOWI4ZTdiMWFkYWUyYjdhNTg4MWM4NzE2NjY1YTBhYWZiZjJj",
   "tracks": [
     {
       "added_at": "2023-10-17 16:13:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
-        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Fooled Around And Fell In Love",
-      "url": "https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
+        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Fooled Around And Fell In Love",
+      "url": "https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw"
     },
     {
       "added_at": "2023-10-17 16:13:12",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "Energy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "Once Upon A Star",
         "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 170360,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "Energy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
     },
     {
       "added_at": "2023-10-17 16:13:12",

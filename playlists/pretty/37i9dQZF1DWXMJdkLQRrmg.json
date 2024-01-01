@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 328410,
+  "num_followers": 328466,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjAyYjQyYjFhZjA2NmI2ZDU0N2U4ZTJlNTYyZGRkYTNlYmY3MTkw",
+  "snapshot_id": "MCw4YTI3YjY3MjVjMDA3NWE5MDViNDAwNDE3OWFiMTdhYWQ3NjJiMjVi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 99226,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Synchronize (Acoustic Version)",
         "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 163120,
       "name": "Synchronize - Acoustic Version",
       "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 99226,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2023-05-19 04:01:00",

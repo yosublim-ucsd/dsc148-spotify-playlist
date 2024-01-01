@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 23228,
+  "num_followers": 23308,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzhkM2NjNGExNDlmYWM0MDJiOWQ5ODM0NTdjMWZiMjQ4ZWViMTVm",
+  "snapshot_id": "MCwxOGFmNjhlN2UzZWU0Y2JiNWUwMTgyMGQ4Njc0YTBlMTNiMzM4MzRj",
   "tracks": [
     {
       "added_at": "2023-11-18 11:41:33",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "nature",
-        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
-      },
-      "artists": [
-        {
-          "name": "cloudcrush",
-          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "drifting (with morning birds)",
-      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Take a Breath",
         "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 170000,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "nature",
+        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "drifting (with morning birds)",
+      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "The Perfect Morning",
-        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
+        "name": "Hygrometer",
+        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
       },
       "artists": [
         {
-          "name": "Milton Laines",
-          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
+          "name": "Vastos Trofeos",
+          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
         }
       ],
-      "duration_ms": 168000,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
+      "duration_ms": 146500,
+      "name": "Hygrometer",
+      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Hygrometer",
-        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
+        "name": "The Perfect Morning",
+        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
       },
       "artists": [
         {
-          "name": "Vastos Trofeos",
-          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
+          "name": "Milton Laines",
+          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
         }
       ],
-      "duration_ms": 146500,
-      "name": "Hygrometer",
-      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
+      "duration_ms": 168000,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
-      },
-      "artists": [
-        {
-          "name": "Dormironauts",
-          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 166000,
       "name": "On the Cottage Floor",
       "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Absence",
-        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
-      },
-      "artists": [
-        {
-          "name": "Nel Brim",
-          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Absence",
-      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Bogha Sound Bath",
         "url": "https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/16S959NluCJSWVpybU2jb8"
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
       },
       "artists": [
         {
-          "name": "The Lagoon",
-          "url": "https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA"
+          "name": "Nel Brim",
+          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
         }
       ],
-      "duration_ms": 231341,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF"
+      "duration_ms": 162000,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Remain In Light (432 Hz Sound Bath)",
+        "url": "https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI"
+      },
+      "artists": [
+        {
+          "name": "Baba Hall",
+          "url": "https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Remain In Light (432 Hz Sound Bath)",
+      "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
     }
   ],
   "unique_name": "Soft Nature Music",

@@ -260,10 +260,32 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 311752,
       "name": "Galavar Khali Remix",
       "url": "https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV"
+    },
+    {
+      "album": {
+        "name": "Galavar Khali- Remix",
+        "url": "https://open.spotify.com/album/1fb0LrIwFUUpxvHGN2IDRW"
+      },
+      "artists": [
+        {
+          "name": "Swapnil Bandodkar",
+          "url": "https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy"
+        },
+        {
+          "name": "Philip Larsen",
+          "url": "https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311751,
+      "name": "Galavar Khali- Remix",
+      "url": "https://open.spotify.com/track/0aNmf4RJV3JrwYjiarImBH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30615,
+  "num_followers": 30621,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTc3Yjc3NTVmOGM1YTNhMTNiY2E5YzYyMDAxMWJhODYyYjgyZWNi",
+  "snapshot_id": "MCxmMTRkZTRlNDQxNDc4NjRiODc4MDJmZTE0YzdiNDViMWI5NTc3OTEy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On The Bass",
-      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 126077,
       "name": "Deliver",
       "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Turn On The Bass",
+      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1283,26 +1283,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
       },
       "artists": [
         {
-          "name": "leanon",
-          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
-        },
-        {
-          "name": "Fatou",
-          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
         }
       ],
-      "duration_ms": 113493,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+      "duration_ms": 123650,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1327,34 +1319,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
       },
       "artists": [
         {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        }
-      ],
-      "duration_ms": 123650,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        },
         {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+          "name": "Fatou",
+          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
+      "duration_ms": 113493,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
       },
       "artists": [
         {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
         }
       ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 178652,
       "name": "Banter",
       "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1511,22 +1531,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
       },
       "artists": [
         {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
         }
       ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1563,18 +1595,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
       "artists": [
         {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
         }
       ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1599,42 +1635,6 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
-      },
-      "artists": [
-        {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
-        }
-      ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
-      },
-      "artists": [
-        {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
-        }
-      ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "De Todo Se Aprende (Remix)",
+        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
+      },
+      "artists": [
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 361500,
+      "name": "De Todo Se Aprende - Yamil Remix",
+      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Lonely in Tokyo (Remixes Part 1)",
         "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
       },
@@ -1827,22 +1847,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "De Todo Se Aprende (Remix)",
-        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
       "artists": [
         {
-          "name": "G.Zamora",
-          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
         },
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
         }
       ],
-      "duration_ms": 361500,
-      "name": "De Todo Se Aprende - Yamil Remix",
-      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
+      },
+      "artists": [
+        {
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
+        }
+      ],
+      "duration_ms": 342481,
+      "name": "TEMPRANO",
+      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1875,42 +1911,6 @@
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
-      },
-      "artists": [
-        {
-          "name": "INVT",
-          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
-        }
-      ],
-      "duration_ms": 342481,
-      "name": "TEMPRANO",
-      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 192292,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "added_at": "2023-10-06 04:00:00",

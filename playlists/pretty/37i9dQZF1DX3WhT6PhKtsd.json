@@ -1,12 +1,12 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 110326,
+  "num_followers": 110508,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjcyYzM0YWMzM2Q1ZTE2NjU1ZmY0ZGQ2OTVjNDQxMjk4NzU3Njlm",
+  "snapshot_id": "MCxjZjA2NDcyNmM5YTU2ZGY3MTgxNmU4M2Q2NjJiZTE1OWZmYWE1ZGRj",
   "tracks": [
     {
       "added_at": "2023-11-29 12:29:47",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
         "name": "READY TO EAT",
         "url": "https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6tiyQ2Bdy5IO3YDidg2ajt"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 161445,
-      "name": "I Used To Be Fun",
-      "url": "https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf"
     },
     {
       "added_at": "2023-11-29 12:29:47",

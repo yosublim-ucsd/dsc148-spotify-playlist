@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,008 likes - 40 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,990 likes - 40 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 39 | [El Odio\. Parte I](https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Hex](https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv) | 8:05 |
 | 40 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 8:40 |
 
-Snapshot ID: `MCxhMGI5MmRmNzkxZDU1OWNmYzVmNTQ2NDlkYmE3ZWRmZmZhZWZmZjQ0`
+Snapshot ID: `MCxiMTMyMWFmMzg0YjM4MTNlZWM1OTJjYjljZDc0ZTY5Yjk4MmRlMDJk`

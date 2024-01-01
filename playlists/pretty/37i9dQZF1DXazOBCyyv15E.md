@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: ratbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,388 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,397 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Hurt So Bad](https://open.spotify.com/track/3JaRFjBu5EHJLipDOQHgLS) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Hurt So Bad](https://open.spotify.com/album/14vBafK9DWTPwqxcp5aNFr) | 4:00 |
 | 85 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 |
 
-Snapshot ID: `MCw1MjZkNWQ3Yzg2ZDRkYjQ3NGNlZTZmZTdlOWE2ODliM2MwYzQ0YWZk`
+Snapshot ID: `MCw5ZTY5OTFiZGU5MzNmN2M3MTQ3NTA0M2YzNDFiOGVhZjAwNTM2NzYx`

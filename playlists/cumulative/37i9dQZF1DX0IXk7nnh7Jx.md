@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-477 songs - 1 day 4 hr 23 min
+478 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dancing My Way](https://open.spotify.com/track/3H6GIYU569lnz03odMV63T) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Dancing My Way](https://open.spotify.com/album/0wVcmL1ahcWx9WVGcdEvs8) | 3:36 | 2023-02-19 | 2023-04-09 |
 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 | 2020-12-18 | 2023-02-19 |
 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 | 2020-12-18 | 2023-02-19 |
+| [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 | 2023-12-15 |  |
 | [Death in Reverse](https://open.spotify.com/track/1gQBJLHT1uHoa52ZYlRK4X) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Death in Reverse](https://open.spotify.com/album/1UGW0FEM2zXsejRl8or0YE) | 3:56 | 2023-11-03 |  |
 | [Deconstruction](https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Deconstruction](https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva) | 4:27 | 2020-12-18 | 2022-07-04 |
 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 | 2023-04-07 |  |
@@ -104,7 +105,7 @@
 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 | 2023-02-19 | 2023-04-09 |
 | [Every Step](https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Every Step](https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG) | 2:46 | 2023-11-03 |  |
 | [Everything](https://open.spotify.com/track/5rSEzEULte3y0TdaQfuupI) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Everything](https://open.spotify.com/album/1yOfZE5fvP1ndI190IrKq1) | 2:48 | 2023-08-11 |  |
-| [everything and more \- acoustic](https://open.spotify.com/track/7nE6JhHYRye8as3NmmgaZw) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [everything and more \(acoustic\)](https://open.spotify.com/album/3ZGMezPAe35xdCEw8layo7) | 3:11 | 2023-11-03 |  |
+| [everything and more \- acoustic](https://open.spotify.com/track/7nE6JhHYRye8as3NmmgaZw) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [everything and more \(acoustic\)](https://open.spotify.com/album/3ZGMezPAe35xdCEw8layo7) | 3:11 | 2023-11-03 | 2024-01-01 |
 | [everything and more \- live from exit/in](https://open.spotify.com/track/4MS6fEzhIR7UYg6DL6uvec) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [i can't find the edges of you \(deluxe\)](https://open.spotify.com/album/43h54fGs1dbImmbzWrd2dX) | 3:34 | 2023-04-21 | 2023-05-25 |
 | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S) | 3:16 | 2023-04-21 | 2023-08-20 |
 | [Faith Fall \- vibey acoustic](https://open.spotify.com/track/26zlbmQ36DOA1yyi0sc9jz) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 3:49 | 2023-02-19 | 2023-04-09 |

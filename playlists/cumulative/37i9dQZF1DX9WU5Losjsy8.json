@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+    },
+    {
+      "album": {
         "name": "Von Herzen",
         "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
@@ -118,7 +140,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 205217,
       "name": "Arielle",
       "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
@@ -344,7 +366,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 209358,
       "name": "Ich schwanke noch",
       "url": "https://open.spotify.com/track/3OKZWo5UysbgFcBh0H12Su"
@@ -1114,7 +1136,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 134826,
       "name": "Igel",
       "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 200314,
       "name": "Marie",
       "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"

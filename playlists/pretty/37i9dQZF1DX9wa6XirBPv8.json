@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1646850,
+  "num_followers": 1647218,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjMzZDRlY2JlM2M1YjNmMWQzMGI1ZjgzM2Y2NjUxYWQ5NmQyZDRl",
+  "snapshot_id": "MCxmOWEwOTZiNzdmMWFhMDRkNTI0OWFmZTJhYTk2MjE3NDcyMDQ1ZWQx",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The All-American Rejects",
         "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 233266,
       "name": "Swing, Swing",
       "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
-      },
-      "artists": [
-        {
-          "name": "Matchbook Romance",
-          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Fast Times At Barrington High",
         "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
+      },
+      "artists": [
+        {
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Never Hungover Again",
-        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Leaving Through The Window",
         "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Best I Never Had",
         "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 199959,
       "name": "I Just Wanna Run",
       "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "What To Do When You Are Dead",
-        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
+        "name": "Stay What You Are",
+        "url": "https://open.spotify.com/album/2fbbEdME7raxGzuPztDFxE"
       },
       "artists": [
         {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+          "name": "Saves The Day",
+          "url": "https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU"
         }
       ],
-      "duration_ms": 210746,
-      "name": "The Truth About Heaven",
-      "url": "https://open.spotify.com/track/5qAKEQvEMo2TAjOq7qbRsK"
+      "duration_ms": 189693,
+      "name": "At Your Funeral",
+      "url": "https://open.spotify.com/track/3UBDdFbJw8h0zLMaXGftE6"
     }
   ],
   "unique_name": "Emo Forever",

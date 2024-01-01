@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Grone, Orochi, SD9, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,366 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 16 | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY) | 2:35 |
 | 17 | [Bonde da Rock \- Remix](https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:12 |
 | 18 | [99 Não É 100](https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:14 |
-| 19 | [Chove Chuva](https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Chove Chuva](https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G) | 2:50 |
-| 20 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
+| 19 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
+| 20 | [Chove Chuva](https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Chove Chuva](https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G) | 2:50 |
 | 21 | [Zona Leste](https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [The King Of Drill "TKOD"](https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z) | 2:27 |
 | 22 | [Los Pollos](https://open.spotify.com/track/6pWqwooQXcgBVuifMpv128) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 3:35 |
 | 23 | [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [rua escura](https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [Ôbigo](https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:00 |
 | 50 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 
-Snapshot ID: `MCxmNDE0Y2RhMmY4NDdkMTkxOTdlOTNlZWE3ZmU1YTFjOTIyMzJmOWI2`
+Snapshot ID: `MCxhMzJkODRiMGUyNDVhYWNhNzU5NjExYjUxYWRiZTZiNDFiMTdhZTA0`

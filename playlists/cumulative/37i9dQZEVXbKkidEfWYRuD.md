@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,348 songs - 2 day 14 hr 13 min
+1,349 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [HALLOWEEN](https://open.spotify.com/track/5h1GPYuiHnhE8rO7vUWmkx) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [HALLOWEEN](https://open.spotify.com/album/7wToFaqKXGJTCRCd2bFKl0) | 2:00 | 2022-10-29 | 2022-11-03 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-21 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-10 | 2021-12-19 |
+| [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2023-12-31 |  |
 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 | 2022-01-01 | 2022-01-03 |
 | [Hard Drive](https://open.spotify.com/track/4xx37dCWh0zxsWsq4zg6GF) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu) | [Hard Drive](https://open.spotify.com/album/5fjKbBCaeXmT4Drv0pY6hX) | 3:00 | 2022-03-03 | 2022-03-08 |
 | [haunt](https://open.spotify.com/track/0nrnNb3z8ecImknVvpEPcR) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [haunt](https://open.spotify.com/album/10Fl6RaP8e46eoYosibmfe) | 1:45 | 2023-06-03 | 2023-06-26 |
@@ -395,7 +396,7 @@
 | [Mama ŠČ!](https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ) | [Let 3](https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD) | [Mama ŠČ!](https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc) | 2:34 | 2023-05-15 | 2023-05-17 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-24 |
 | [mana break](https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [mana break](https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o) | 1:33 | 2022-10-15 | 2023-04-05 |
-| [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 | 2023-12-22 | 2023-12-31 |
+| [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 | 2023-12-22 |  |
 | [Manhunt](https://open.spotify.com/track/7DQojpv1OKySvRHa4OpaVi) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [JEEMBO](https://open.spotify.com/artist/3IwaLzOzILWyMzjXFWiDbW) | [Manhunt](https://open.spotify.com/album/0MrqrwAs8ESY6E7Sz48ezs) | 2:10 | 2021-05-09 | 2021-05-17 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-24 |
 | [Marmalade](https://open.spotify.com/track/7rvEwAILTqxBpdIyUifkE8) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3), [Mav\-d](https://open.spotify.com/artist/1Kxxz7r0ZIqz9XDQiaeaGa) | [Marmalade](https://open.spotify.com/album/19xHdM1hOWc0bkGG4eIxHE) | 3:40 | 2021-11-21 | 2022-03-30 |
@@ -801,7 +802,7 @@
 | [Вечорниці \- Добрий день Everybody](https://open.spotify.com/track/64Qnw6jO2dnkjV9una5peq) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Вечорниці \(Добрий день Everybody\)](https://open.spotify.com/album/2xLIphVbPBm4XBeY90WVOW) | 2:53 | 2022-07-23 | 2023-01-20 |
 | [Вибач..](https://open.spotify.com/track/5VFiYRqGCvPyf6d5wl4ZAs) | [Orexov Mk](https://open.spotify.com/artist/5YnMlZGHOz72FJLuOreIGH) | [Вибач..](https://open.spotify.com/album/5uV23QvPXOLM1I52ssgd54) | 2:40 | 2023-07-10 | 2023-07-16 |
 | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [17 SEVENTEEN](https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc) | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D) | 2:46 | 2021-12-18 | 2022-02-13 |
-| [Витя](https://open.spotify.com/track/1oHTZnY1leFnTBruOq5kTU) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:57 | 2023-12-26 |  |
+| [Витя](https://open.spotify.com/track/1oHTZnY1leFnTBruOq5kTU) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:57 | 2023-12-26 | 2024-01-01 |
 | [Вишнi](https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Вишнi](https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV) | 3:03 | 2022-05-02 | 2023-04-25 |
 | [Вище хмар](https://open.spotify.com/track/6ORlYPfvTXPZ4aHWVRp3Ey) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Вище хмар](https://open.spotify.com/album/36WXcYSqADEarsZVVjUL6n) | 3:21 | 2023-09-12 | 2023-10-15 |
 | [ВЛЮБИЛАСЬ](https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ВЛЮБИЛАСЬ](https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ) | 3:36 | 2021-12-18 | 2022-04-03 |
@@ -933,7 +934,7 @@
 | [Зорi](https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 3:20 | 2022-03-27 | 2022-08-05 |
 | [Зраджуй](https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP) | [Dogma](https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH) | 3:34 | 2022-06-23 | 2022-07-26 |
 | [Зуб](https://open.spotify.com/track/5qtwPGSCojZb78j5A2d4bw) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum), [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Зуб](https://open.spotify.com/album/1YKkiXHsi9TrCQIQHumavT) | 2:41 | 2021-04-18 | 2021-04-21 |
-| [И Я ВЕСЬ ГОРЮ](https://open.spotify.com/track/1UAhEKjxSYJFmfOPRiwZMJ) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [И Я ВЕСЬ ГОРЮ](https://open.spotify.com/album/7tKCJ1W8veojccIzEz6rFp) | 2:39 | 2023-12-30 |  |
+| [И Я ВЕСЬ ГОРЮ](https://open.spotify.com/track/1UAhEKjxSYJFmfOPRiwZMJ) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [И Я ВЕСЬ ГОРЮ](https://open.spotify.com/album/7tKCJ1W8veojccIzEz6rFp) | 2:39 | 2023-12-30 | 2024-01-01 |
 | [Идиот](https://open.spotify.com/track/3LIiMyGqQ1VmriFswyoDdI) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA), [Ilya Konoplev](https://open.spotify.com/artist/1t6Ehoqbg3IbWEzq4wkNSq) | [PHILARMONIA](https://open.spotify.com/album/4TqFHsIfmRgHNB3FLL5pKI) | 3:10 | 2022-11-26 | 2022-12-02 |
 | [Известным](https://open.spotify.com/track/0IjCnXqJTlPElz8HmIiO9p) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Известным](https://open.spotify.com/album/7Dbqt5cYZ2WavqqmTtz21A) | 2:24 | 2022-06-25 | 2022-07-31 |
 | [Изменчивый мир](https://open.spotify.com/track/5ohDUNJNGUmaKNrXklwmWX) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Изменчивый мир](https://open.spotify.com/album/5PaccfMd4HYzyDmvn7LvPY) | 2:42 | 2021-10-31 | 2021-10-31 |

@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-240 songs - 15 hr 4 min
+241 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chiquillo](https://open.spotify.com/track/0wYzaN0CvLp6VOJU3eD3Ed) | [OjosPielCanela](https://open.spotify.com/artist/4r01YvuZwXl9MnMwdZWLQg) | [Chiquillo](https://open.spotify.com/album/4yOqj8XCeG28CABUBbUzLU) | 3:53 | 2022-03-19 | 2022-07-29 |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-16 | 2022-12-16 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-08-10 |
-| [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 |  |
+| [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 | 2024-01-01 |
 | [Coconut Woman](https://open.spotify.com/track/2MZUxXYzjBzjBaVMi7cD5m) | [Bourbon Sweethearts](https://open.spotify.com/artist/1TNfkzzuv3xq8oCU4aAcTo) | [Got a Minute?](https://open.spotify.com/album/3JgsxaF6WquAaHpw25osda) | 2:23 | 2021-10-16 | 2022-07-28 |
 | [Comadre](https://open.spotify.com/track/6KZnvozLmnxxOEzHaH404F) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Comadre](https://open.spotify.com/album/5GsTcqmOSSHQcWStrI0E2m) | 3:32 | 2022-09-02 | 2022-10-29 |
 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 | 2021-10-16 | 2022-07-29 |
@@ -176,6 +176,7 @@
 | [Ni una Gota de Amor](https://open.spotify.com/track/0PVGWa43dtdXgIOLLj4SBJ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Ni una Gota de Amor](https://open.spotify.com/album/3izUUhuSLHj37AONPpPYiP) | 2:35 | 2021-10-16 | 2022-07-23 |
 | [No Imaginé](https://open.spotify.com/track/5zaF0iCebg0hYK5B16SVi3) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1), [Mixanteña de Santa Cecilia](https://open.spotify.com/artist/7aoEq4CY1S0MPLDMkuhN8d) | [No Imaginé](https://open.spotify.com/album/0yiSlggzJ8y4GzGjE3k8DR) | 3:39 | 2022-08-09 | 2022-09-10 |
 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 | 2021-10-16 | 2023-11-11 |
+| [No Me Llores Más \(2019 \- Remaster\)](https://open.spotify.com/track/1SAsJziZq0N3e8bxH0JXe2) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 4:58 | 2021-10-16 |  |
 | [No Necesito Más](https://open.spotify.com/track/57cgMgigMPJoLD1Mj6VLNu) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [No Necesito Más](https://open.spotify.com/album/2BKdKPVXTHoHb4pXVl4nN0) | 3:39 | 2021-10-16 | 2022-07-29 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2021-10-16 |  |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/4LeFqJu2fxnJdx0QFZ0jkc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/album/1OZR2tmOPp9fwaIeO3MHmj) | 4:20 | 2021-10-16 | 2022-11-13 |

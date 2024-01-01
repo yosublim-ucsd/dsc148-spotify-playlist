@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CVLTE",
-  "num_followers": 42677,
+  "num_followers": 42690,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE4MDgyMGNkNzk5MDU3OGFiYzJhZDg1YjYxZjA2ZTViNDhmNzNk",
+  "snapshot_id": "MCw4MjkzNjU1NDdkYjYyMTVjNGE1MGNkN2M1MGQxNzRlNjBlNmE0MTVi",
   "tracks": [
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
+    },
+    {
+      "added_at": "2023-12-26 15:00:00",
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2023-12-26 15:00:00",
       "album": {
-        "name": "I'M A RAT",
-        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+        "name": "FACT 2009 - 2012",
+        "url": "https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "FACT",
+          "url": "https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73"
         }
       ],
-      "duration_ms": 124719,
-      "name": "I'M A RAT",
-      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
+      "duration_ms": 212413,
+      "name": "error",
+      "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
     },
     {
       "added_at": "2023-12-26 15:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
-    },
-    {
-      "added_at": "2023-12-26 15:00:00",
-      "album": {
-        "name": "FACT 2009 - 2012",
-        "url": "https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2"
-      },
-      "artists": [
-        {
-          "name": "FACT",
-          "url": "https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "error",
-      "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
     },
     {
       "added_at": "2023-12-26 15:00:00",

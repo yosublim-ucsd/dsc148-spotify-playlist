@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 2023 VAR EPANS ÅR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,164 likes - 101 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,202 likes - 101 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [GPS](https://open.spotify.com/track/1raTAM5ZcDppB3x7CtDjF9) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [GPS](https://open.spotify.com/album/7wR0oq6vSBW4tBjYgHL01k) | 2:40 |
 | 101 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
 
-Snapshot ID: `MCxlODg5Mzg0Y2M4ODU1YzcwOGIyYzEzNTY4YTRhOWZiY2IyNDhjN2M1`
+Snapshot ID: `MCwxYjRiYmE3ZWNkZjlkZjI2ZGFmN2FlMDQ0OGFmZGM5OGFkNGQyODc0`

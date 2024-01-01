@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,423 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,529 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 80 | [Rasgos De Inocencia](https://open.spotify.com/track/7faQDP2ZiMBhrPnly6wpCH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 4:10 |
 | 81 | [Hombre Normal](https://open.spotify.com/track/5Nk8bhAhhWAeF2SKeQap2G) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre Normal, Vol\. 2](https://open.spotify.com/album/3glYrVhOLLAjDfPlTqcGNS) | 4:15 |
 | 82 | [Belleza Pura](https://open.spotify.com/track/57KrJ7wnc8o3QUXn1JeRFh) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/4dMETdhANKrHarO1USyrzt) | 3:32 |
-| 83 | [Contacto Cero \- Mariachi](https://open.spotify.com/track/2y4fMw95tZ6krJzE0vC8jH) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero](https://open.spotify.com/album/4FhwG67kRWRBflqkZ6ciw1) | 2:54 |
-| 84 | [Tomando Ando](https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Tomando Ando](https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP) | 3:18 |
+| 83 | [Tomando Ando](https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Tomando Ando](https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP) | 3:18 |
+| 84 | [Contacto Cero \- Mariachi](https://open.spotify.com/track/2y4fMw95tZ6krJzE0vC8jH) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero](https://open.spotify.com/album/4FhwG67kRWRBflqkZ6ciw1) | 2:54 |
 | 85 | [Opaco Y Sensible](https://open.spotify.com/track/7usBdueYd7WFYWcYxMNTjv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:30 |
 | 86 | [Imborrable](https://open.spotify.com/track/32dQ0OMFB5CvAvJwgrEYsk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Imborrable](https://open.spotify.com/album/6itA48DhQhvjtGQvSm3BUu) | 3:18 |
 | 87 | [De Mi Te Acuerdas \- En Vivo](https://open.spotify.com/track/0G8nR1fvVtXq21ENdUN60F) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/0Kswt6kIqoNCmd7UHRLHK7) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Mazatlán Carnaval](https://open.spotify.com/track/4w6HQOBMup9MoZStrN43pb) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 4:04 |
 | 100 | [Era Creyente](https://open.spotify.com/track/739pK5ifHZjAXWYFcbYpR7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Era Creyente](https://open.spotify.com/album/1VZ4GflGwn76gVpM36ZItR) | 3:14 |
 
-Snapshot ID: `MCw2ZmE3ODE1ZWYwYjgxYzY4OTY2YjU3NzliN2I2YzFiMDNkM2UzOWI1`
+Snapshot ID: `MCwxNjVhMDgwY2RkZmI5NTMyOGNjMWE1OThiYTMxZDdhYTkwNDBjZjhl`

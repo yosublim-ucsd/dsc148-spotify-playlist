@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 107058,
+  "num_followers": 107065,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
+  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 284477,
-      "name": "SFC - Hommage Mix",
-      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 270271,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Higher Elevation",
-        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 373453,
-      "name": "Higher Elevation",
-      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Go On",
         "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 172000,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
     }
   ],
   "unique_name": "Night Shift",

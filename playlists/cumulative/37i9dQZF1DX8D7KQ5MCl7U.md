@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place.
 
-390 songs - 1 day 18 hr 47 min
+391 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Aatish](https://open.spotify.com/track/4E38pvEWjMyQYzA6pHMteH) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:18 | 2022-03-23 | 2022-07-27 |
 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 | 2022-03-23 | 2022-07-28 |
 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 | 2022-03-23 |  |
-| [Aaye Kuch Abr](https://open.spotify.com/track/5hyOxEwLAoeIBMtMkOyQE5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Aaye Kuch Abr](https://open.spotify.com/album/0C1lYODJwVYGKUXNJVLwmo) | 6:59 | 2022-03-23 |  |
+| [Aaye Kuch Abr](https://open.spotify.com/track/5hyOxEwLAoeIBMtMkOyQE5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Aaye Kuch Abr](https://open.spotify.com/album/0C1lYODJwVYGKUXNJVLwmo) | 6:59 | 2022-03-23 | 2024-01-01 |
 | [Abhogi \- Kalenin Burcu Muyam](https://open.spotify.com/track/4zjVbf4H82fQHTCgmTIwbO) | [Rustam Fateh Ali Khan](https://open.spotify.com/artist/5y7ZShTGMJKO6DAVHKx06l), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:20 | 2022-03-23 | 2022-06-29 |
 | [Adam](https://open.spotify.com/track/6IlgL3ebWCHoYiTqYqkpBB) | [Fareed Ayaz](https://open.spotify.com/artist/5lIl1FQ31sT1c3ddy21AK2), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Humnawa](https://open.spotify.com/artist/4SvX6wv1EaF7d9dSHCCICQ) | [Adam](https://open.spotify.com/album/2deIHXwcBLdZYMfUD6PoVs) | 11:55 | 2022-03-23 |  |
 | [Ae Dil Kisi Ki Yaad Mein](https://open.spotify.com/track/3lSvGJBxKoSGcDTjm0DRD8) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh) | [Coke Studio Season 8 Episode 4](https://open.spotify.com/album/06uotZnnaFu0JEwbMAJyE4) | 5:55 | 2022-10-12 | 2023-12-25 |
@@ -353,6 +353,7 @@
 | [Suth Gaana](https://open.spotify.com/track/6AuguflDazL6W24OjxkX26) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:59 | 2022-03-23 | 2022-07-23 |
 | [Taaray](https://open.spotify.com/track/01Rk8mOBxXVYDfdYf8UuDQ) | [Bilal Khan](https://open.spotify.com/artist/4NqqhAOHRSFhfTPOo7vhMX), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 4:14 | 2022-03-23 | 2022-07-20 |
 | [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-03-23 | 2023-09-07 |
+| [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 | 2022-10-12 |  |
 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-10-12 | 2023-12-31 |
 | [Tann Dolay](https://open.spotify.com/track/0oS1TeL8if7Ctx6ruKp4Vl) | [Noori, Zeb & Haniya](https://open.spotify.com/artist/7dQaBieEs9P9eiskWdYzEn), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:01 | 2022-03-23 | 2022-07-14 |
 | [Tera Naam](https://open.spotify.com/track/7DqW9CgVVbF6e1VRXk0yxo) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 4:50 | 2022-03-23 |  |

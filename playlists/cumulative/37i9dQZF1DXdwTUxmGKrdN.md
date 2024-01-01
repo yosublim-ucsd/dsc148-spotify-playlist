@@ -4,14 +4,14 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-236 songs - 17 hr 16 min
+237 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\. Soul Dream](https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh) | 5:02 | 2022-04-11 | 2022-04-21 |
 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 | 2022-04-11 |  |
 | [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 | 2022-04-11 |  |
-| [18th & Vine](https://open.spotify.com/track/1AQE0mpcgG3sEcJu7leYr5) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2lDr8Vb5HqF8thh8aMbwrA) | 4:44 | 2023-05-30 |  |
+| [18th & Vine](https://open.spotify.com/track/1AQE0mpcgG3sEcJu7leYr5) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2lDr8Vb5HqF8thh8aMbwrA) | 4:44 | 2023-05-30 | 2024-01-01 |
 | [18th & Vine](https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE) | 4:44 | 2022-04-11 | 2022-04-21 |
 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 |  |
 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 | 2022-01-03 |  |
@@ -133,6 +133,7 @@
 | [Keep Holding On](https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Forecast](https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0) | 5:43 | 2022-11-14 |  |
 | [La Dolce Vita](https://open.spotify.com/track/0bSQopcyBmCEcp2nml5lMM) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 5:25 | 2022-01-03 | 2022-07-29 |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-07-18 | 2023-12-24 |
+| [La Dolce Vita](https://open.spotify.com/track/2bKblqcMNEJD9l0vBaFMA8) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq) | 5:25 | 2023-12-22 |  |
 | [Lavish](https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab), [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Lavish](https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p) | 4:17 | 2023-05-30 | 2023-11-11 |
 | [Lavish](https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh) | [Special EFX](https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ) | [Lavish](https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr) | 4:05 | 2022-04-11 |  |
 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 | 2022-01-10 |  |

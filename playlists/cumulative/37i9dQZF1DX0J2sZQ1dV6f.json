@@ -6895,6 +6895,32 @@
     },
     {
       "album": {
+        "name": "SSDBARRIO",
+        "url": "https://open.spotify.com/album/01aa07JdFwFhRxb8dsTg0u"
+      },
+      "artists": [
+        {
+          "name": "Gery Ochoa",
+          "url": "https://open.spotify.com/artist/5Lc4sh3AVficEBSqHZvgXP"
+        },
+        {
+          "name": "Iv\u00e1n Borja",
+          "url": "https://open.spotify.com/artist/1FY1tDuWgZK8KCFkGJhmHN"
+        },
+        {
+          "name": "Art Fernand",
+          "url": "https://open.spotify.com/artist/28yZ74VWIaEAqhNlptUE6W"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "SSDBARRIO",
+      "url": "https://open.spotify.com/track/2DaQcRsoWQCW89yYMatwVo"
+    },
+    {
+      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
       },

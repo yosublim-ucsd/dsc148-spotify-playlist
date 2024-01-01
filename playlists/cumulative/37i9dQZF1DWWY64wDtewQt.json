@@ -400,6 +400,24 @@
     {
       "album": {
         "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/4SxvncwccFwvg8ipLP2ibt"
+      },
+      "artists": [
+        {
+          "name": "FRE4K",
+          "url": "https://open.spotify.com/artist/2iw30MRIGi6P9Du0EJxPc8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101321,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/4LT0bO8zVoqjqBlATlgpzr"
+    },
+    {
+      "album": {
+        "name": "ALORS BRAZIL",
         "url": "https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX"
       },
       "artists": [
@@ -428,7 +446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"

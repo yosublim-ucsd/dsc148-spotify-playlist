@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41650,
+  "num_followers": 41676,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 130906,
-      "name": "Mientras T\u00fa Jugabas",
-      "url": "https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 193071,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 130906,
+      "name": "Mientras T\u00fa Jugabas",
+      "url": "https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vas A Recordarme",
-        "url": "https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "Vas A Recordarme",
-      "url": "https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Vicio M\u00e1s Grande",
         "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 182013,
       "name": "Si No Es Contigo",
       "url": "https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vas A Recordarme",
+        "url": "https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "Vas A Recordarme",
+      "url": "https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Me Gustar\u00eda Creerte",
-      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "El Legado del Shaka",
         "url": "https://open.spotify.com/album/4If5KHmcBD4tADphUifMZp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 207840,
       "name": "Me Ganan las Ganas (feat. Xitali)",
       "url": "https://open.spotify.com/track/4o7bHAzDl8DMq3cE2ke6mA"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Me Gustar\u00eda Creerte",
+      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Verdadera Joya",
-        "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Historia Que Tu Cuentas",
-      "url": "https://open.spotify.com/track/20zFEDfhs3OCEFkACT1W0U"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Me Empez\u00f3 A Valer",
         "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 155026,
       "name": "Me Empez\u00f3 A Valer",
       "url": "https://open.spotify.com/track/5D3X775rPruzExNKev9yD3"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "La Verdadera Joya",
+        "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Historia Que Tu Cuentas",
+      "url": "https://open.spotify.com/track/20zFEDfhs3OCEFkACT1W0U"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
-      },
-      "artists": [
-        {
-          "name": "Nena Guzman",
-          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Vivir En Pecado",
-      "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 221773,
       "name": "Sin Af\u00e1n de Ofender",
       "url": "https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
+      },
+      "artists": [
+        {
+          "name": "Nena Guzman",
+          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Vivir En Pecado",
+      "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+        "name": "Quien Diria",
+        "url": "https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By"
       },
       "artists": [
         {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+          "name": "Los Bisnietos",
+          "url": "https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7"
         }
       ],
-      "duration_ms": 194653,
-      "name": "Pa' No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
+      "duration_ms": 216786,
+      "name": "Quien Diria",
+      "url": "https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quien Diria",
-        "url": "https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By"
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
       },
       "artists": [
         {
-          "name": "Los Bisnietos",
-          "url": "https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7"
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Quien Diria",
-      "url": "https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS"
+      "duration_ms": 194653,
+      "name": "Pa' No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+        "name": "Ni Juez Ni Parte (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF"
       },
       "artists": [
         {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Me Toca Llorar",
-      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+      "duration_ms": 200973,
+      "name": "Recomi\u00e9ndame",
+      "url": "https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2027,22 +2027,6 @@
       "duration_ms": 138333,
       "name": "No Quieren",
       "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Ni Juez Ni Parte (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Recomi\u00e9ndame",
-      "url": "https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2079,18 +2063,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q"
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
       "artists": [
         {
-          "name": "Eduardo Cabral",
-          "url": "https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB"
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Me Est\u00e1 Gustando",
-      "url": "https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G"
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2111,18 +2095,34 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
       },
       "artists": [
         {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
         }
       ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+      "duration_ms": 173586,
+      "name": "Me Toca Llorar",
+      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Cabral",
+          "url": "https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Me Est\u00e1 Gustando",
+      "url": "https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ni Mas Ni Menos",
-        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Escolta",
-          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
-        }
-      ],
-      "duration_ms": 177141,
-      "name": "Disque Amigos",
-      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "A Lo Que Vengo, Vengo",
         "url": "https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd"
       },
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Ni Mas Ni Menos",
+        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Escolta",
+          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
+        }
+      ],
+      "duration_ms": 177141,
+      "name": "Disque Amigos",
+      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Por Qu\u00e9 No Cambiamos",
         "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
       },
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Mejor Version de Mi (Banda)",
-        "url": "https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3"
-      },
-      "artists": [
-        {
-          "name": "Nena Guzman",
-          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "La Mejor Version de Mi (Banda)",
-      "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 185453,
       "name": "Arrod\u00edllate",
       "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "La Mejor Version de Mi (Banda)",
+        "url": "https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3"
+      },
+      "artists": [
+        {
+          "name": "Nena Guzman",
+          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "La Mejor Version de Mi (Banda)",
+      "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
     },
     {
       "added_at": "2022-01-25 18:24:05",

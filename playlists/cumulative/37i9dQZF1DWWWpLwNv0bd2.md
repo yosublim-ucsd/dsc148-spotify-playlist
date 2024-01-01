@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
 
-166 songs - 11 hr 6 min
+167 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Ullam Urugudhaiya](https://open.spotify.com/track/6CJHEfXmn6x9j03oV1hABh) | [Pradeep Kumar](https://open.spotify.com/artist/3EZ1qFe0cWESoSi0aB7cdQ), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Brindha Manickavasakan](https://open.spotify.com/artist/1xtEfIskJsreKcsNkwO55X), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:54 | 2022-02-03 | 2023-03-25 |
 | [Un Oliyile \(From "Captain Miller"\)](https://open.spotify.com/track/6Q57VlWfjwUTVdP9zcGxXG) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Un Oliyile \(From "Captain Miller"\)](https://open.spotify.com/album/4q7yAY9pRBvBGViJwHUHCO) | 3:36 | 2023-12-23 |  |
 | [Un Oliyile \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/track/78FRPOS5aEfmi2n6vr2Uoq) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Un Oliyile \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/album/0FLill6vtn6hB0uEz0Jfbo) | 3:36 | 2023-12-23 | 2023-12-25 |
-| [Un siragugal moodathe](https://open.spotify.com/track/6tfXRfeEcCMkekV9oLacH1) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vadhana](https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN) | 3:33 | 2022-12-06 |  |
+| [Un siragugal moodathe](https://open.spotify.com/track/2RJIZfOggZh36GJsQUmRiE) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vadhana](https://open.spotify.com/album/7cGwZqjv3WtCvPoMawU5s8) | 3:33 | 2022-12-06 |  |
+| [Un siragugal moodathe](https://open.spotify.com/track/6tfXRfeEcCMkekV9oLacH1) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vadhana](https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN) | 3:33 | 2022-12-06 | 2024-01-01 |
 | [Un Vellandhiyu Azhagu Dhaan \(From "Irumban"\)](https://open.spotify.com/track/2n3E0NmHHg52GuKwDknNmr) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh) | [Un Vellandhiyu Azhagu Dhaan \(From "Irumban"\) \- Single](https://open.spotify.com/album/4ewcJyIfyV3vqQijaB6M5d) | 4:58 | 2023-01-18 | 2023-02-16 |
 | [Unna Nenachadhum](https://open.spotify.com/track/43BSpcCWtZKt6HUZujyY6O) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 3:56 | 2022-09-05 |  |
 | [Unnodu Vaazhum \- From "Rudhran"](https://open.spotify.com/track/236GC0svgu9SbCriEKrAqA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Unnodu Vaazhum \(From "Rudhran"\)](https://open.spotify.com/album/5zOkK7CA7gjQRFxtCM4HVL) | 4:58 | 2023-04-03 |  |

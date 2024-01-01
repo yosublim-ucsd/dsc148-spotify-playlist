@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,244 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,368 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 |
 | 75 | [Wala Bakhtar](https://open.spotify.com/track/7BZywSkvYpvqXikQua3OmW) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Wala Bakhtar](https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC) | 3:32 |
 
-Snapshot ID: `MCwzMzgyMzdiYWFkYjc2NGFhZThjY2RjNmNkNmI3YWI3OWNjMmM5NmY5`
+Snapshot ID: `MCxlM2E4NjU3Yjk1MzU3YjNiMzVmNTM1NDJjOGFiNjE4NGUzMGY2MzJj`

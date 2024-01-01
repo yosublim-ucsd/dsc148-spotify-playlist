@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Peso Pluma, Oscar Maydón y Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,133 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,118 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [MLP](https://open.spotify.com/track/0crUc5ee412RCaQH6ePBWt) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [MLP](https://open.spotify.com/album/1yD5svvZbyAeJ5RlrEpqGA) | 2:28 |
 | 65 | [Madruga](https://open.spotify.com/track/6Mw0YPOafTwbSDYBmLPkg5) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Madruga](https://open.spotify.com/album/65xJ1BpO4xUVTKfPkrcCp0) | 4:18 |
 
-Snapshot ID: `MCxhOTUwZDJlMzcyZGFiNThlMzI3MGFiN2E0YzYzODZmNGY0OTA5ZmQ3`
+Snapshot ID: `MCxlNzk2NWZlN2E5NTIzY2E0MjIxODIxZWExYjRhMTVjMTFhOWZjYmEw`

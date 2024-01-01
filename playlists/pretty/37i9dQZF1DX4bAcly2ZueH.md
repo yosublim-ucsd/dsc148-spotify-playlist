@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,432 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,435 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 20 | [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 |
 | 21 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 |
 | 22 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 |
-| 23 | [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 |
+| 23 | [Little by little](https://open.spotify.com/track/4eQdYqgRkt3nDuF5RJhGpT) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/3HZGfT1HpX2kMupxk8k3Jv) | 1:32 |
 | 24 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
 | 25 | [see](https://open.spotify.com/track/6m4SGZgICa4whATqFQXHMJ) | [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [see](https://open.spotify.com/album/0eywhLcTdxTE73zpDwFiyx) | 3:27 |
 | 26 | [I'll Come Find You](https://open.spotify.com/track/3V1nJumPZoo10X5ngak4nz) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated](https://open.spotify.com/album/5xLRDCKx8oG8UwRejXGxpF) | 3:34 |
 | 27 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 28 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 |
-| 29 | [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 |
+| 29 | [Pink scent](https://open.spotify.com/track/3CGwJYv15CGvWK0bF7YVDd) | [Mingeon Jang](https://open.spotify.com/artist/6JRh0BrOq2odFlhxULwk5F), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/0l30FzUlJTAztq8P5nFoOP) | 2:45 |
 | 30 | [How You Been](https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz) | 2:37 |
 | 31 | [Higashi no Sora](https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Higashi no Sora](https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh) | 2:55 |
 | 32 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCwyNjE5YjNmZDFkZjliNjdhNDViOTI4MGIwYmFhNTUyODRiMmFlZDY1`
+Snapshot ID: `MCwxNDg1ZGJjZjljNmQ5ODc2ODgyNGU1N2NmOTUwZjVlOGM5ZDdmMzQx`

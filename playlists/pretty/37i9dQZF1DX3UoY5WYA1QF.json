@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 87879,
+  "num_followers": 88014,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWJkMTQ3YzVkZmFhZDE3ZTUyYjk4MGEzMjZkYWI4OWFlMjY4OTMz",
+  "snapshot_id": "MCw5ZGYyOTE3MjE0ZDQ0MWY1ODU1MjZhNTFiOWY5ZTAxYTY0OGJlNWQ0",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 196306,
       "name": "Con La Duda (with Joan Sebastian) - Live Version",
       "url": "https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 185295,
-      "name": "Que Ya No Estas",
-      "url": "https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR"
+      "duration_ms": 194293,
+      "name": "Mayra",
+      "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 194293,
-      "name": "Mayra",
-      "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
+      "duration_ms": 185295,
+      "name": "Que Ya No Estas",
+      "url": "https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR"
     },
     {
       "added_at": "2023-04-10 22:49:54",

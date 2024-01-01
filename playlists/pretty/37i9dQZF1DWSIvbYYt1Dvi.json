@@ -1,12 +1,12 @@
 {
   "description": "leall \u00e9 AULAS ",
-  "num_followers": 1235702,
+  "num_followers": 1235688,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWIyOTcxNzBmZmFjNTQyMmUwM2Q4YmFjMTBlNGU5NzMxODk0OTBk",
+  "snapshot_id": "MCwzMzU0ZGFhNjE2NjVmZjgwMmFmMjk0NWE2YzkzMTU4N2U3MDY2NDQ0",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -239,6 +239,22 @@
       "duration_ms": 70000,
       "name": "\u00cdndice",
       "url": "https://open.spotify.com/track/29ivwdubSLLU9OLR33FpJT"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "12 6 10",
+        "url": "https://open.spotify.com/album/5YY7VbZNjSinKfLq75yicy"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "duration_ms": 216808,
+      "name": "12 6 10",
+      "url": "https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK"
     },
     {
       "added_at": "2023-12-29 03:00:00",

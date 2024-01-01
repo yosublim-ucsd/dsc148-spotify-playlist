@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Uzielito Mix, El Bogueto y Dani Flow en portada ",
-  "num_followers": 12753,
+  "num_followers": 12765,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDRkN2I1ZWI1YjNlNDM1MDQ1YzMyMDU2NDg4NGY3MTFlZWY5ZDE2",
+  "snapshot_id": "MCxiYjM1NjZkNDVmZjBmNDMwNTRlZDg2NGZhZTE0NjFiMGI3NWJmOGNk",
   "tracks": [
     {
       "added_at": "2023-12-26 20:14:16",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 212114,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
+        "name": "Chichi Pana",
+        "url": "https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 181027,
+      "name": "Chichi Pana",
+      "url": "https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
         "name": "Reggaeton Latino Y M\u00e1s",
         "url": "https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 150418,
       "name": "Vacilon",
       "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
-        "name": "Chichi Pana",
-        "url": "https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 181027,
-      "name": "Chichi Pana",
-      "url": "https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
+        "name": "\u00d1ero Session 3",
+        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "\u00d1ero Session 3",
+      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/6uLRlVQLNSEZB4XuzYjIVz"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 219637,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/6M0NXEkwBXqwg2GVqyMQDt"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1231,30 +1231,22 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "B&b",
-          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
-        },
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
         }
       ],
-      "duration_ms": 229125,
-      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1331,22 +1323,30 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "\u00d1ero Session 3",
-        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
       },
       "artists": [
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         },
         {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+          "name": "B&b",
+          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
         }
       ],
-      "duration_ms": 168293,
-      "name": "\u00d1ero Session 3",
-      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
+      "duration_ms": 229125,
+      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1367,6 +1367,26 @@
       "duration_ms": 195736,
       "name": "Culo Arabe",
       "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "\u00d1ero Session 8",
-        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "\u00d1ero Session 8",
-      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "SUELTA SOLTERA",
         "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
       },
@@ -1519,50 +1519,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "Contra la Pared",
-        "url": "https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "City Lights",
-          "url": "https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "Contra la Pared",
-      "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
-        "name": "Paleta",
-        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
-      },
-      "artists": [
-        {
-          "name": "Ceaese",
-          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 161216,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "\u00d1ero Session 7",
         "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
       },
@@ -1579,6 +1535,26 @@
       "duration_ms": 183012,
       "name": "\u00d1ero Session 7",
       "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Contra la Pared",
+        "url": "https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "City Lights",
+          "url": "https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Contra la Pared",
+      "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1603,6 +1579,30 @@
       "duration_ms": 194884,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Paleta",
+        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 161216,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1651,26 +1651,6 @@
       "duration_ms": 185440,
       "name": "Mamita Sensual",
       "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
-        "name": "Bellaqueo",
-        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
-        }
-      ],
-      "duration_ms": 134638,
-      "name": "Bellaqueo",
-      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1747,6 +1727,26 @@
       "duration_ms": 137142,
       "name": "Alexxxa",
       "url": "https://open.spotify.com/track/0iclHfV1JXHL29EUpK7o2B"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Bellaqueo",
+        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        }
+      ],
+      "duration_ms": 134638,
+      "name": "Bellaqueo",
+      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
     },
     {
       "added_at": "2023-12-26 20:14:16",

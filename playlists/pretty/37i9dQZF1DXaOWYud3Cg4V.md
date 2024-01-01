@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,819 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,876 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MCwxZWM2NzlhYTc2Y2FhMjMyMzM3NWJkY2U5ZmE2NzVjYzNhNTRhMWNk`
+Snapshot ID: `MCw1YTdlMTdmYjQxOTI4ODBkZTMzM2ZiZWU2OTQ2ZDg3ZjQ5YmJkYTIy`

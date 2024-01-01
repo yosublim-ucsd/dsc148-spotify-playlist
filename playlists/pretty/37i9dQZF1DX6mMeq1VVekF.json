@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 160296,
+  "num_followers": 160357,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRjZGQ5MDYzYWE0NTlmN2VkZGYwODhmNGVhYzFjMDkwYzllZjg4",
+  "snapshot_id": "MCw4ODI0NzU5NWRiOTU5YmQyMTY4ZjIwYTAyMjc3NDY5MmExZDNiYjZj",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 175600,
       "name": "Quarter Past 3",
       "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "SUMO",
-        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SUMO",
-      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "SUMO",
+        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SUMO",
+      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "FU",
-        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2"
       },
       "artists": [
         {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "JayG",
+          "url": "https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a"
         }
       ],
-      "duration_ms": 136917,
-      "name": "FU",
-      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
+      "duration_ms": 153725,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60"
     },
     {
       "added_at": "2023-11-24 12:22:37",

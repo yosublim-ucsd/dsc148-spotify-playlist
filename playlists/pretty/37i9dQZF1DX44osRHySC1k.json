@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52408,
+  "num_followers": 52411,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2ZlN2I4YTc0ZDg3NDRmYzBmYTQ4YWIxNzE4MmM3ZTdmZjM5NmNh",
+  "snapshot_id": "MCwzMGVkM2NmY2M2NWQzY2ViMDY4ZjQ1NGFkYjIzYjIxMDE0MjUxNWE5",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Modern Classics",
-        "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
-      },
-      "artists": [
-        {
-          "name": "Rita May",
-          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
-        }
-      ],
-      "duration_ms": 224543,
-      "name": "Beneath your Beutiful",
-      "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Modern Classics",
+        "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
+      },
+      "artists": [
+        {
+          "name": "Rita May",
+          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
+        }
+      ],
+      "duration_ms": 224543,
+      "name": "Beneath your Beutiful",
+      "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -331,6 +331,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "Onthou",
+      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Traces",
-        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Onthou",
-      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Olancha Farewell",
-      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Moments of Tomorrow",
         "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 110434,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Olancha Farewell",
+      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "schemering",
-        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
-      },
-      "artists": [
-        {
-          "name": "Jaidy Thissen",
-          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "schemering",
-      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "In My Quiet Hour",
         "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "schemering",
+        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
+      },
+      "artists": [
+        {
+          "name": "Jaidy Thissen",
+          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
+        }
+      ],
+      "duration_ms": 124374,
+      "name": "schemering",
+      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
       },
       "artists": [
         {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
         }
       ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -927,22 +943,6 @@
       "duration_ms": 137172,
       "name": "Astral Therapy",
       "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
-      },
-      "artists": [
-        {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
-        }
-      ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
         "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "After The Silence",
         "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ones Left Behind",
-        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
-      },
-      "artists": [
-        {
-          "name": "Martin Rapide",
-          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
-        }
-      ],
-      "duration_ms": 148987,
-      "name": "The Ones Left Behind",
-      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162061,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "The Ones Left Behind",
+        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "duration_ms": 148987,
+      "name": "The Ones Left Behind",
+      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
-      },
-      "artists": [
-        {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
-        }
-      ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "World Flute Lullabies - Native American & Asian Flutes for Sleep Therapy",
         "url": "https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 322520,
       "name": "Soothing Mountain Winds - Massage Music With Tibetan Flute & Restful Winds",
       "url": "https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",

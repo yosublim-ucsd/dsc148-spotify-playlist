@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 149853,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
@@ -7944,7 +7944,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 171160,
       "name": "For Us",
       "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
@@ -9958,7 +9958,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -15274,7 +15274,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 172280,
       "name": "Nest",
       "url": "https://open.spotify.com/track/05STjz8kmPBUebu3uu5sO0"
@@ -15346,7 +15346,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -16990,7 +16990,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 146684,
       "name": "Please Don't Change (feat. DJ Snake)",
       "url": "https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ"
@@ -19766,7 +19766,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "Slow Dancing (Piano Ver.)",
       "url": "https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV"
@@ -24178,6 +24178,28 @@
       "duration_ms": 212840,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/2Cew0ywp4F00wLsN0txKdW"
+    },
+    {
+      "album": {
+        "name": "wherever u r (ft. V of BTS)",
+        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153034,
+      "name": "wherever u r (ft. V of BTS)",
+      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
       "album": {

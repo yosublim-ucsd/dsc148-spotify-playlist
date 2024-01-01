@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-75 songs - 3 hr 45 min
+76 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 | 2023-12-22 |  |
 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 | 2023-07-24 | 2023-11-10 |
 | [Level](https://open.spotify.com/track/1a6S5ZjbivvNV4YsMzdwFw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Level](https://open.spotify.com/album/4vQgA1reUgBBX5MiKoTgF0) | 2:37 | 2023-10-09 | 2023-11-10 |
-| [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b) | 2:39 | 2023-07-24 |  |
+| [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b) | 2:39 | 2023-07-24 | 2024-01-01 |
+| [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/55D7IBTCePfG8B4Wflgucy) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/1rJKxpk0zIt56FuCz8e2zq) | 2:39 | 2023-12-22 |  |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-07-24 |  |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-10-03 | 2023-11-10 |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-07-24 |  |

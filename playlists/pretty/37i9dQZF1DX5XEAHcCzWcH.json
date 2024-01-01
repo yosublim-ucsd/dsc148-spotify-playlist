@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 31957,
+  "num_followers": 32007,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
+  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Presenting Blind Blake",
-        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
-      },
-      "artists": [
-        {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Presenting Willie Mabon",
+        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
+      },
+      "artists": [
+        {
+          "name": "Willie Mabon",
+          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 241400,
       "name": "Ain't Times Hard",
       "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Presenting Willie Mabon",
-        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
-      },
-      "artists": [
-        {
-          "name": "Willie Mabon",
-          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2023-09-15 11:43:10",

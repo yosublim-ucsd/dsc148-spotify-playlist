@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "12 6 10",
+        "url": "https://open.spotify.com/album/5YY7VbZNjSinKfLq75yicy"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216808,
+      "name": "12 6 10",
+      "url": "https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK"
+    },
+    {
+      "album": {
         "name": "1991",
         "url": "https://open.spotify.com/album/48hRv6kV9kmYzQNG1ocFH8"
       },

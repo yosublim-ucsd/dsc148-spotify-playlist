@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 3882,
+  "num_followers": 3902,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWM5NWI5M2QyZGNhMDgwODMzZTU0N2Q4M2FiNzdmNmVkMjMxNGI2",
+  "snapshot_id": "MCxkN2RkZmU3MDYzYmZiZDk2YWM4YmU2OTY3YzQyOWMwNmU0ZTVlZWQ0",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:49",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 253226,
       "name": "But I'm Trying To Tell You How Much I Love You (with Moonbit)",
       "url": "https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 247991,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 250453,
       "name": "Stay",
       "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 247991,
-      "name": "In Your Mind",
-      "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
     },
     {
       "added_at": "2023-11-03 06:18:49",

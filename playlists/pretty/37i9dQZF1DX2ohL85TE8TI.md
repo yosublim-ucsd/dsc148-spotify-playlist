@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: A Good Day to be a Dog\(오늘도 사랑스럽개\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,791 likes - 99 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,919 likes - 99 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 98 | [Secret](https://open.spotify.com/track/5LW6IBFQka3WDsaloVlEVj) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [See You in My 19th Life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ioEeRp7FN6LmV41jLFGV5) | 3:07 |
 | 99 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
 
-Snapshot ID: `MCwyMzNkNGIzNWE2ZGNiYzkxYjg1NGFjZDExMTkwYzExZTgwNzYxZmVj`
+Snapshot ID: `MCw2YTE1NzA3ZTc3N2EyZmIzOGRkMmM4MzJkMDc4YjQwMGJlNDA3ZjA0`

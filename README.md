@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7326\)
+## Playlists <a name="playlists"></a> \(7327\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -356,6 +356,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [AMÉMÉ DJ Mix](/playlists/pretty/37i9dQZF1DX7Wo3VLsu4cA.md)
 - [ANGRY ANGRY](/playlists/pretty/37i9dQZF1DX9GmeT1z7ciw.md)
 - [ANNA's DJ Mix](/playlists/pretty/37i9dQZF1DWSXhGIsh9lqr.md)
+- [ANOTR's track IDs](/playlists/pretty/37i9dQZF1DWTfGx5o2qjVb.md)
 - [API Pride](/playlists/pretty/37i9dQZF1DX7eWGbr5dV3X.md)
 - [APIHM Takeover: Alok Menon](/playlists/pretty/37i9dQZF1DXaBIwevZ5Lux.md)
 - [APIHM Takeover: Amanda Nguyen](/playlists/pretty/37i9dQZF1DWVFEIJKF33Nk.md)
@@ -6662,7 +6663,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Wilde Herzen](/playlists/pretty/37i9dQZF1DWSFDWzEZlALC.md)
 - [Winding Roads](/playlists/pretty/1JuraqRjLX4CmhyvvuXiPF.md)
 - [Wine & Dine](/playlists/pretty/37i9dQZF1DWTJNOeepZTGy.md)
-- [Winter '23](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md)
+- [Winter '24](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md)
 - [Winter Acoustic](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md)
 - [Winter Chillout](/playlists/pretty/37i9dQZF1DXaIrEwuQ3hyy.md)
 - [Winter Classical](/playlists/pretty/37i9dQZF1DX0ynPp7KaiSY.md)

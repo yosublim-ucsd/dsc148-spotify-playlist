@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,192 songs - 2 day 16 hr 46 min
+1,193 songs - 2 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2022-03-10 | 2022-10-24 |
 | [Diles](https://open.spotify.com/track/5ZzNGwBBGaewMGG1LucGfp) | [Trap Naption](https://open.spotify.com/artist/1FcEQYh1EHZrNVCmbxdC7r) | [Trap Variado](https://open.spotify.com/album/4Yu99aK6r1SBJdb0bHtc64) | 4:46 | 2022-05-04 | 2022-05-07 |
 | [Diligencia](https://open.spotify.com/track/3B43NVxFdIyaZHNGPEWhEs) | [Rodrigo Films](https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Diligencia](https://open.spotify.com/album/6op8rrDMjpsScQ3wlYyo8M) | 2:06 | 2023-10-02 | 2023-10-17 |
-| [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-11-22 |  |
+| [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-11-22 | 2024-01-01 |
 | [Dimdon \- Remix](https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX), [Vuelty](https://open.spotify.com/artist/5EKEiazVN2v8KUMpXvF6oQ) | [Dimdon \(Remix\)](https://open.spotify.com/album/0ya82jtZ5oIDMsCMl12gKN) | 2:15 | 2023-08-25 | 2023-10-11 |
 | [Dime](https://open.spotify.com/track/1z00RuodTCo2HCGUKlL8mh) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Dime](https://open.spotify.com/album/3QCFBOlCq7WxdkpBkd6iF4) | 3:00 | 2023-12-03 | 2023-12-05 |
 | [Dime Que Me Amas \- Radio Version](https://open.spotify.com/track/7uvPM334qKTUfddDjx8qpe) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/22yvjLnXQqgeh3EsodrEw1) | 2:38 | 2023-09-27 | 2023-09-29 |
@@ -839,6 +839,7 @@
 | [Piri Bambam](https://open.spotify.com/track/2J25zvoM9fD8M8dGfdqvek) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Piri Bambam](https://open.spotify.com/album/0WhY1UWzAGs4peljp0bMFS) | 2:54 | 2021-12-19 | 2022-01-26 |
 | [Piropi](https://open.spotify.com/track/1yJlQ08TIeLsYoIpsupsRd) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/2yQCcSxT6uPVcWjXfk4dAD) | 3:10 | 2022-10-27 | 2022-11-09 |
 | [Piropi](https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc) | 3:10 | 2022-10-20 | 2023-01-04 |
+| [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2023-12-31 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-04-15 |
 | [PLAYA PRIVADA](https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:37 | 2022-04-02 | 2022-04-04 |
 | [PLAYA SATURNO INTRO](https://open.spotify.com/track/2M3GwgWQ2Z0swHkap5gWCm) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 1:15 | 2023-07-08 | 2023-07-10 |

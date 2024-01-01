@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,774 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,768 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 69 | [The Fruit Of The Spirit](https://open.spotify.com/track/4V3umDvc5BzgSqiYeCe02c) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Songs Of The Bible II](https://open.spotify.com/album/4JhQYQroSKKy4o3qAEogJK) | 2:02 |
 | 70 | [Savior of All](https://open.spotify.com/track/5ojrWhngSc3A8Wf5ClrZmS) | [PJ Anderson](https://open.spotify.com/artist/26At9viOA8zaXaUgwISznQ) | [Savior of All](https://open.spotify.com/album/5OGlSZRJ0pq1C0VIYaUiBl) | 3:30 |
 
-Snapshot ID: `MCw3ZGRkNWNjNmY4OGYwMzI4OWVhMTc0Y2E1Y2ZlN2MxOWQ5Y2E2ZmZj`
+Snapshot ID: `MCxiOWJjZDE0MDNmMjRhOWMxNmFjNjhhMTMxNzI0ZTBjNmZiYTQ3Zjcx`

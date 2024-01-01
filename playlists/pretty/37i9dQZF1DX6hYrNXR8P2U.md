@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,931 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,926 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 100 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 |
 | 101 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 |
 
-Snapshot ID: `MCw2YTE4ZmIwYzIxMmU3YTc5ZDNkMDQ5ZWY3YWE2NmY5NzAwZjRjYTY1`
+Snapshot ID: `MCxiOThlMDMzYTZkZTIxODU1ZjI0OWZjZDQxOTcxZjVmNDg3YjE1NmM4`

@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Controller",
       "url": "https://open.spotify.com/track/6UGJKTfIzk6WqjTgBeQg5O"
@@ -6122,7 +6122,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -14248,7 +14248,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -15244,6 +15244,24 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
+    },
+    {
+      "album": {
+        "name": "Praise Jah in the Moonlight",
+        "url": "https://open.spotify.com/album/6WpQLDK6ioHEskhOPNn0m8"
+      },
+      "artists": [
+        {
+          "name": "Uzii BigTalk",
+          "url": "https://open.spotify.com/artist/0RPmOAN4kwyuww4WunXEhu"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263105,
+      "name": "Praise Jah in the Moonlight",
+      "url": "https://open.spotify.com/track/74q7Eq1eLfewlm4dUuaiJ6"
     },
     {
       "album": {

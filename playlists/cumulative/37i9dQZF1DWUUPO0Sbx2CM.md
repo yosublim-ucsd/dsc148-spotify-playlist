@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-391 songs - 21 hr 44 min
+392 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bring The Whole Hood](https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Bring The Whole Hood](https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax) | 3:20 | 2021-10-31 | 2022-10-10 |
 | [Broken Halos](https://open.spotify.com/track/7dlCAK8HdnI6UGHqZkfvJT) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:11 | 2023-02-07 |  |
 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 | 2023-02-07 |  |
+| [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/track/73oAtotfBIqc4MYzT7nwPf) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/album/7yicQGzbw93rWbU0rjlMwq) | 3:24 | 2023-02-07 |  |
 | [BUENA ONDA](https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [MOMENTUM](https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ) | 2:40 | 2021-10-31 | 2023-02-08 |
 | [Bulletproof](https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2](https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB) | 4:04 | 2021-10-31 | 2023-02-08 |
 | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/album/637sa0MubVLyJ8al6duftV) | 2:26 | 2021-10-31 | 2023-02-08 |
@@ -79,7 +80,7 @@
 | [Dancing at Dusk](https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 3:37 | 2021-10-31 | 2022-07-28 |
 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-10-31 | 2022-07-28 |
 | [Deeper](https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing \- Summer 2022](https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s) | 3:02 | 2023-02-07 |  |
-| [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2023-02-07 |  |
+| [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2023-02-07 | 2024-01-01 |
 | [Derecha](https://open.spotify.com/track/0MOtodMVaH7sxweQAQsYV2) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Derecha](https://open.spotify.com/album/5S6iWyRPQU2ijVIYJLLCTh) | 1:54 | 2023-02-08 | 2023-02-20 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-02-07 |  |
 | [Don't Ever Let Me Go](https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Don't Ever Let Me Go](https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H) | 2:54 | 2023-02-07 |  |

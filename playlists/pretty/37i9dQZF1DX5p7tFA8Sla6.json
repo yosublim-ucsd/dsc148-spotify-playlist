@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54582,
+  "num_followers": 54592,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
+  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Masterjam",
-        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
-      },
-      "artists": [
-        {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Do You Love What You Feel",
-      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 283573,
       "name": "Just Kissed My Baby",
       "url": "https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Masterjam",
+        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Do You Love What You Feel",
+      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1261,26 +1261,6 @@
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "One of These Days",
-        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
-      },
-      "artists": [
-        {
-          "name": "The Haggis Horns",
-          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
-        },
-        {
-          "name": "Doc Brown",
-          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
-        }
-      ],
-      "duration_ms": 211988,
-      "name": "Take It Back (feat. Doc Brown)",
-      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1299,6 +1279,26 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
+      },
+      "artists": [
+        {
+          "name": "The Haggis Horns",
+          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
+        },
+        {
+          "name": "Doc Brown",
+          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
+        }
+      ],
+      "duration_ms": 211988,
+      "name": "Take It Back (feat. Doc Brown)",
+      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
       },
       "artists": [
         {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
       "artists": [
         {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
         }
       ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Death Or Devotion",
+      "url": "https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Chasing Gold",
         "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
       },
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mindblastin'",
-        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
-      },
-      "artists": [
-        {
-          "name": "The Soul Motivators",
-          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
-        }
-      ],
-      "duration_ms": 261184,
-      "name": "Mindblastin'",
-      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Death Or Devotion",
-      "url": "https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mindblastin'",
+        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
+      },
+      "artists": [
+        {
+          "name": "The Soul Motivators",
+          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
+        }
+      ],
+      "duration_ms": 261184,
+      "name": "Mindblastin'",
+      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
     },
     {
       "added_at": "2019-09-06 07:01:00",

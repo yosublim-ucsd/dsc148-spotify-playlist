@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 143551,
+  "num_followers": 143608,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDViZGQwMmU4MDc3ZjM1OWY2MzU2MzY0MGNmYzY0NWUyZjI0NDQ5",
+  "snapshot_id": "MCwwOTU2NzkwMTU3NjBmNTNhODM4NjgyYzVkNDU1YjVlY2U2ZWIwYTIx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Run... The Sun Is Burning All Your Hopes",
-        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Rey Pila",
         "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 205346,
       "name": "No Longer Fun",
       "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Run... The Sun Is Burning All Your Hopes",
+        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Azul Oscuro",
-        "url": "https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe"
-      },
-      "artists": [
-        {
-          "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
-        }
-      ],
-      "duration_ms": 261079,
-      "name": "Azul Oscuro",
-      "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hombre",
         "url": "https://open.spotify.com/album/2ymgXDddbq17fstiJMOqQC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 263005,
       "name": "Luces Sensacional",
       "url": "https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Azul Oscuro",
+        "url": "https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe"
+      },
+      "artists": [
+        {
+          "name": "Zurdok",
+          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
+        }
+      ],
+      "duration_ms": 261079,
+      "name": "Azul Oscuro",
+      "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

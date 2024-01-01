@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174377,
+  "num_followers": 174399,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTU4NDg4ZTc4YjdlOTM1MjVmMTYwOGIyMzUzN2ZiM2ZiNmEzODQx",
+  "snapshot_id": "MCw3NGVkNzA4MGM4YzFhYjJhOWE2ZjlkMWQxOTMwZTdkNTlkYjlhYTY1",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
         }
       ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -439,22 +455,6 @@
       "duration_ms": 177213,
       "name": "Margarita (con Marracash)",
       "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
         }
       ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 226160,
       "name": "Cascare nei tuoi occhi",
       "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
     },
     {
       "added_at": "2023-02-20 09:56:57",

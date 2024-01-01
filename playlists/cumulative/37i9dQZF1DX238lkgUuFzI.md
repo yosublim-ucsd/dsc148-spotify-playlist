@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2023\. Cover: Ashnikko
 
-165 songs - 7 hr 55 min
+166 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2022-11-30 | 2023-11-30 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-11-30 | 2023-11-30 |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-11-29 |  |
-| [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-11-29 |  |
+| [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-11-29 | 2024-01-01 |
+| [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 | 2023-11-29 |  |
 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 | 2023-11-29 |  |
 | [im the worst](https://open.spotify.com/track/0GfrjSHx2OfBc3mEk6Mqjo) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Re:](https://open.spotify.com/artist/5iJsfIio4vyL728J480yI6), [VITO](https://open.spotify.com/artist/5mjU2E6rpMs0FWPnm89eCm) | [im the worst](https://open.spotify.com/album/5KIrLvWsb8Bh1Pjeiixu1d) | 2:18 | 2021-12-01 | 2022-12-01 |
 | [Inner Child](https://open.spotify.com/track/0ZRIrT707yPnVxWJFhwnt0) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [why am i like this??](https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM) | 2:54 | 2023-11-29 |  |

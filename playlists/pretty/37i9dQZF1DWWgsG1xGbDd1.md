@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,963 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,052 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Locust](https://open.spotify.com/track/3jFPay48ActRmwHnhPHwu7) | [The Ethiopian](https://open.spotify.com/artist/5dl6NImlsBk6gGlZOp9IkU) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 4:19 |
 | 60 | [Beat Down Babylon](https://open.spotify.com/track/4295DKi5lhEJWzljy6Lbnx) | [Prince Francis](https://open.spotify.com/artist/0ZmWfUj6u8nXIgKYwnFMKd) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 3:03 |
 
-Snapshot ID: `MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4`
+Snapshot ID: `MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh`

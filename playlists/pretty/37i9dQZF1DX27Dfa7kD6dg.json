@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 30447,
+  "num_followers": 30531,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmEyMDJlOWNjYjMyZmNkMzgyMGVlOTA1NmIyYWVlZTkyMWUwOGE4",
+  "snapshot_id": "MCxlNWUyOWI4NjNhNGVmYWY4NGQzYmJiZGY5YTY1YzMzN2Y3NTYyOTM2",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "El Pap\u00e1 De La Salsa",
-        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
+        "name": "Serie Millennium",
+        "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 274586,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
+      "duration_ms": 320466,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Serie Millennium",
-        "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
+        "name": "El Pap\u00e1 De La Salsa",
+        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
+      "duration_ms": 274586,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1335,22 +1335,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "La Epoca de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
       "artists": [
         {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         },
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Tutuneco",
-      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
+      "duration_ms": 323266,
+      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Decision Unanime",
-        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
+        "name": "La Epoca de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
         },
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
+      "duration_ms": 158400,
+      "name": "Tutuneco",
+      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Mambo Madness",
+        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Mambo La Libertad",
+      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "La Din\u00e1mica!",
         "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Mambo Madness",
-        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez & His Orchestra",
-          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Mambo La Libertad",
-      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
     },
     {
       "added_at": "2023-10-19 19:33:34",

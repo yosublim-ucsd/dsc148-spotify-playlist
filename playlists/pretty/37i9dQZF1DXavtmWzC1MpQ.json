@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129897,
+  "num_followers": 129919,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjY0MWIzODIzMGFiZGNkMTM3OWJlMGQ4Yzk4OWMyYjU1OTMzM2Jk",
+  "snapshot_id": "MCw3YzdhNjEzZTk5MTA3YWZhNzMxZTQwY2Q5YWVkYTI3ZWQ5ZDgyZDZl",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+        "name": "Rain Awakening",
+        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
       "artists": [
         {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+          "name": "Natural Awakening",
+          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Light Forest Rain 2",
-      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
+      "duration_ms": 198000,
+      "name": "Bird Chatter In Rainforest",
+      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rain Awakening",
-        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
       "artists": [
         {
-          "name": "Natural Awakening",
-          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Bird Chatter In Rainforest",
-      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 2",
+      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "2017 Relaxing Outdoor Soundscapes",
-        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Birds by the Stream",
-      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "2017 Relaxing Outdoor Soundscapes",
+        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Birds by the Stream",
+      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Stream",
-        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
-      },
-      "artists": [
-        {
-          "name": "Sound and Waves",
-          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Gentle River Sounds",
-      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Country Birds",
         "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 142000,
       "name": "Pretty Birds",
       "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Ocean Stream",
+        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
+      },
+      "artists": [
+        {
+          "name": "Sound and Waves",
+          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Gentle River Sounds",
+      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
     },
     {
       "added_at": "2023-06-19 13:01:14",

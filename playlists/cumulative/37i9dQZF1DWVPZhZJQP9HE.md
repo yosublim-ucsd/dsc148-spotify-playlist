@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-478 songs - 1 day 4 hr 20 min
+479 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Oru Jappaniya Meenaippol \- From "Naatpadu Theral \- 2"](https://open.spotify.com/track/04dE3IdO8YQkbsDUtjnecw) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV) | [Oru Jappaniya Meenaippol \(From "Naatpadu Theral \- 2"\)](https://open.spotify.com/album/4MlK59tQe0zTr0zqWjgGsX) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [Oru Murai](https://open.spotify.com/track/64U4MpGbcNsj1VzxVHw80h) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Hamshika Kerupakaran](https://open.spotify.com/artist/6r2iWa7394xY4TrveAXXJH) | [Oru Murai](https://open.spotify.com/album/5HAk3SwEMKHt0Mchnt4m3A) | 3:14 | 2023-02-14 | 2023-03-23 |
 | [ORU NAAL](https://open.spotify.com/track/7vHs7fyXJSNLa7eigSNb47) | [Majoe](https://open.spotify.com/artist/1a71mkqZC54WhePSbnq7RK) | [ORU NAAL](https://open.spotify.com/album/6DxZMICoGTnwFofYPBBMwP) | 3:05 | 2022-11-27 | 2023-02-07 |
-| [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2022-12-12 |  |
+| [Oru Parvaiyaal](https://open.spotify.com/track/0IEgdIb82qufxFDAZWNZYG) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/023sCVyEGsM7spgG0DGom2) | 5:43 | 2023-06-23 |  |
+| [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2022-12-12 | 2024-01-01 |
 | [Oru Pennai Kathalithom](https://open.spotify.com/track/5i0mLPfOHJ3qDDjE0Ek4zi) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Oru Pennai Kathalithom](https://open.spotify.com/album/36cHA6O0JMJmCPnPQxf0U4) | 4:19 | 2022-12-05 | 2023-03-18 |
 | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/track/0V6jQ4UPA1qZoCjCTlw0WQ) | [Sadish Ragupathy](https://open.spotify.com/artist/1NQn5XmA9wnfmIY4XPFUNL), [Abhijith Anilkumar](https://open.spotify.com/artist/7Lw0R0kCCTfMQaJQiG1ROp), [Madan](https://open.spotify.com/artist/6maVydCk51TQrc7S3wNx49) | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/album/7Gz4LlHvwyumntJiSvdCQK) | 3:03 | 2022-01-27 | 2022-11-17 |
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-02-22 | 2023-07-15 |

@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-67 songs - 5 hr 7 min
+68 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Shake It Now.](https://open.spotify.com/track/4FYNJgCzWgaNAe4uHdrBYn) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rendez\-vous](https://open.spotify.com/album/4EZSq8rqqdS8s4awyx8l5x) | 3:16 | 2022-10-09 |  |
 | [Shikabanese](https://open.spotify.com/track/4AwdxLIctXZhUnrTP9zGVy) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Shikabanese](https://open.spotify.com/album/6u4UgWp2FnrOGIlfmgKFhi) | 4:16 | 2022-10-09 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-05 |  |
+| [Show \- Jax Jones Remix](https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [ジャックス・ジョーンズ](https://open.spotify.com/artist/3Aq4EjTfdKO1m4zG3DdDET) | [Show \(Jax Jones Remix\)](https://open.spotify.com/album/39RbmQuAmqNG6787RZ1Vqp) | 2:34 | 2023-12-31 |  |
 | [Stick Candy](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2022-10-09 |  |
 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 | 2022-10-09 |  |
 | [TOKYO CANNIBALISM](https://open.spotify.com/track/4A75rI3sn3eBnL0wXMvovE) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [TOKYO CANNIBALISM](https://open.spotify.com/album/73Ia8AFLxx0Bh6mITDOOLu) | 3:11 | 2022-10-09 |  |

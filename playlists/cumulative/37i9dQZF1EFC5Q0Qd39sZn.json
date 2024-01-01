@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Can't Take That Away (Mariah's Theme) [Official HD Video]",
+        "url": "https://open.spotify.com/album/5q89AuCnSfBOhd1DSAETKh"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256810,
+      "name": "Can't Take That Away (Mariah's Theme)",
+      "url": "https://open.spotify.com/track/0gwI5LE3kHY4xeauRCQe6R"
+    },
+    {
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 272293,
       "name": "Can't Take That Away (Mariah's Theme)",
       "url": "https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c"
@@ -4650,10 +4668,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 242496,
       "name": "Lonely Is The Night",
       "url": "https://open.spotify.com/track/7zVB6SE1nYVzBrQJfsRTWf"
+    },
+    {
+      "album": {
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "album": {

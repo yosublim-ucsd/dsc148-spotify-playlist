@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > music to show your grandparents this holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,163 likes - 141 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,240 likes - 141 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 140 | [Mantis](https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Mantis](https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD) | 2:31 |
 | 141 | [Let Me Fight](https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Let Me Fight](https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3) | 2:48 |
 
-Snapshot ID: `MCxkOWQ2NGNjNDcxNWYyYTkxYjFhZDMxNGY3ZTI1ZmU2NzcyMmEzMjQ2`
+Snapshot ID: `MCxkYTZhYTkxMTMyODZlNjZjMDcyNmJiZGJiMjdhMTcyNzFiNmMxMjQ1`

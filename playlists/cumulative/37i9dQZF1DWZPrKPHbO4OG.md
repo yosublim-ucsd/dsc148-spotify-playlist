@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-46 songs - 3 hr 7 min
+47 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 | 2023-07-04 |  |
 | [Dhuvun Taak](https://open.spotify.com/track/2usex5owBBkwP9AyEqv8Ve) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/1ryMRndatZ15JqIleq2j3G) | 3:34 | 2023-11-20 |  |
 | [Dhuvun Taak](https://open.spotify.com/track/68NrdN8PgrBr3U4lQWGKCU) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/6T9tLpKAWJAzez3LvV5UXL) | 3:34 | 2023-07-04 | 2023-11-27 |
-| [Galavar Khali Remix](https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Galavar Khali Remix](https://open.spotify.com/album/5dB5e1CvKOg94XcKEWp0KC) | 5:11 | 2023-07-04 |  |
+| [Galavar Khali Remix](https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Galavar Khali Remix](https://open.spotify.com/album/5dB5e1CvKOg94XcKEWp0KC) | 5:11 | 2023-07-04 | 2024-01-01 |
+| [Galavar Khali\- Remix](https://open.spotify.com/track/0aNmf4RJV3JrwYjiarImBH) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali\- Remix](https://open.spotify.com/album/1fb0LrIwFUUpxvHGN2IDRW) | 5:11 | 2023-12-20 |  |
 | [Gau Nako Kisna](https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 5:04 | 2023-07-04 |  |
 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 | 2023-07-04 |  |
 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 | 2023-07-04 |  |

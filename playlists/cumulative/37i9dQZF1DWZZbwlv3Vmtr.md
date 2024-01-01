@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-855 songs - 1 day 9 hr 12 min
+856 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 | 2022-04-15 | 2022-07-29 |
 | [Antiquity](https://open.spotify.com/track/3wOduxGta83TqKRcZHXXD9) | [Purple Bike](https://open.spotify.com/artist/74vRXGqTgjiQGqnpFjFE2M) | [Antiquity](https://open.spotify.com/album/1EK96vQu11uj6BoZkE1dEH) | 3:17 | 2022-04-15 | 2023-07-20 |
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 |  |
-| [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 |  |
+| [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 | 2024-01-01 |
 | [At Peace](https://open.spotify.com/track/6JKRbYRi8UH8zfy0oGZ8TQ) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [At Peace](https://open.spotify.com/album/5cIXJGnEEmxcowS9ADX5F1) | 2:31 | 2022-05-20 | 2022-06-25 |
 | [ataraxia](https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [saege](https://open.spotify.com/artist/55uDvpZtzLXtM7aV7MJupC) | [ataraxia](https://open.spotify.com/album/5DETKvGvHhWO06gk3OO2EX) | 1:42 | 2022-11-25 | 2023-10-06 |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-15 | 2022-05-27 |
@@ -182,6 +182,7 @@
 | [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 | 2023-10-13 |
 | [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 | 2023-12-25 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
+| [early one day](https://open.spotify.com/track/7vtAeEq9ICIBVjkFGpXeqN) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [early one day](https://open.spotify.com/album/0XAznNmMD2hT3rgM7Tf1y2) | 2:06 | 2023-12-22 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2023-10-20 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
 | [Elevated](https://open.spotify.com/track/0G2RKuFx54rmtbhi5CP0VZ) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Elevated](https://open.spotify.com/album/36FHXlNUoSoarwPkzATpun) | 2:30 | 2022-08-19 | 2022-12-10 |

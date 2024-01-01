@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 222926,
       "name": "Aiko",
       "url": "https://open.spotify.com/track/5JwbLbiXq77VNVbAjC0oYz"
@@ -5946,6 +5946,24 @@
       "duration_ms": 296400,
       "name": "Blue Sea (Remastered)",
       "url": "https://open.spotify.com/track/3IArEiFaXvk8LttR2sinYG"
+    },
+    {
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/4ARqqmAFEmNCJl6aFKx1pd"
+      },
+      "artists": [
+        {
+          "name": "LEE XI DAE",
+          "url": "https://open.spotify.com/artist/1mdCLE4Ruk49Efe2cHeLKe"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/4TiBtiVxBalgutQXydwLeR"
     },
     {
       "album": {
@@ -12520,7 +12538,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 164059,
       "name": "Do It",
       "url": "https://open.spotify.com/track/052hHiUMpO8dg1w5hybrYO"
@@ -12798,6 +12816,24 @@
       "duration_ms": 105263,
       "name": "Don't Force It",
       "url": "https://open.spotify.com/track/3TgfsegE04ZAAohjNigwpx"
+    },
+    {
+      "album": {
+        "name": "FUSS!ON",
+        "url": "https://open.spotify.com/album/1IvtjWdVqvI7bTtgmp5e98"
+      },
+      "artists": [
+        {
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "DON'T GET TOO COMFORTABLE",
+      "url": "https://open.spotify.com/track/48earCyJNOWoCFdLqqZg43"
     },
     {
       "album": {
@@ -14689,6 +14725,24 @@
     },
     {
       "album": {
+        "name": "INT'L NFFERNO II",
+        "url": "https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG"
+      },
+      "artists": [
+        {
+          "name": "1NFFERNO",
+          "url": "https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211046,
+      "name": "EVERYTIME",
+      "url": "https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ"
+    },
+    {
+      "album": {
         "name": "exemptions",
         "url": "https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio"
       },
@@ -14900,7 +14954,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 206833,
       "name": "Faith, Wisdom, You",
       "url": "https://open.spotify.com/track/7fNUf2wmCM8uG75yQafYLA"
@@ -35619,6 +35673,24 @@
     },
     {
       "album": {
+        "name": "Passed It",
+        "url": "https://open.spotify.com/album/4OFpfM1uA57E7MoiFFMlRH"
+      },
+      "artists": [
+        {
+          "name": "D Wood",
+          "url": "https://open.spotify.com/artist/4P1cINzZAhxrbknfKzKgGz"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Passed It",
+      "url": "https://open.spotify.com/track/3divbxfH77KYSmFrMjQDrj"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/1UYUdHAO3d6iA71X4sj4ak"
       },
@@ -42960,6 +43032,28 @@
       "duration_ms": 194922,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/3GsegUxwMHr5rJinsCINKb"
+    },
+    {
+      "album": {
+        "name": "Step In To It",
+        "url": "https://open.spotify.com/album/29UncCrdvLYBjHXZLsWZ9v"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Step In To It",
+      "url": "https://open.spotify.com/track/1cQOUaEmmxsH9ysBFlryaL"
     },
     {
       "album": {
@@ -50980,6 +51074,28 @@
       "duration_ms": 194625,
       "name": "What You Cryin' For?",
       "url": "https://open.spotify.com/track/2cl1C4FuzCTDZcn8cuNObJ"
+    },
+    {
+      "album": {
+        "name": "What You Feel",
+        "url": "https://open.spotify.com/album/7l0RZsTVXnFG3wscELM8ZX"
+      },
+      "artists": [
+        {
+          "name": "Thierry Riviere",
+          "url": "https://open.spotify.com/artist/4KLZvHiQeOXcsTlOUwLJZJ"
+        },
+        {
+          "name": "Bertrand Riviere",
+          "url": "https://open.spotify.com/artist/0SVxZfXNbZz0oUfdn6b5MM"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157642,
+      "name": "What You Feel",
+      "url": "https://open.spotify.com/track/5cir1CnYke01nC6wcacPfO"
     },
     {
       "album": {

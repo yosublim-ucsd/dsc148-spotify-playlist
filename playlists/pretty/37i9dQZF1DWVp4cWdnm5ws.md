@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Check out the top RADAR Philippines artists of 2023! Cover: mrld
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,532 likes - 24 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,574 likes - 24 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 23 | [Boomerang](https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Boomerang](https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2) | 3:16 |
 | 24 | [Musika](https://open.spotify.com/track/33DMX9LvLFdgbVaZKCD8t4) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Musika](https://open.spotify.com/album/4m5n14fVI1ZteLeQC8CPxx) | 3:57 |
 
-Snapshot ID: `MCw0OGZkZmM2OWE5ZWNlMjQ4YWYzMGE5NzY2YjBiMmI0MzhlZDU1MWU5`
+Snapshot ID: `MCxmZTE1NzRhNDA3YjQ3YmJlMTcyMjNmNTM0Nzc1NDczN2U4YmNiZWEx`

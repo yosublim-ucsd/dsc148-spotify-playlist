@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Zeds Dead",
-  "num_followers": 977065,
+  "num_followers": 977044,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTRiZmUxNTcwYWMzYTk5MzgxMTU0Y2E4OTAzNGJmNzc1MzYyMWQ1",
+  "snapshot_id": "MCwwMThjM2YzYmQ2NDdkZTg2ZGFkMjY1MDEyMDkwYTJkYmM2MGU5NjMy",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1753,26 +1753,6 @@
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Gladiator",
@@ -1793,24 +1773,44 @@
       "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Interference",
-        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
       "artists": [
         {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         },
         {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 228965,
-      "name": "Interference",
-      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1853,24 +1853,24 @@
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+        "name": "Interference",
+        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
       },
       "artists": [
         {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
         },
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
         }
       ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+      "duration_ms": 228965,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1913,26 +1913,6 @@
       "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Casket Case",
-        "url": "https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS"
-      },
-      "artists": [
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        },
-        {
-          "name": "beastboi.",
-          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Sky High",
-      "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Move Back",
@@ -1951,6 +1931,26 @@
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Casket Case",
+        "url": "https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1975,6 +1975,42 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "EAT SLEEP RAGE",
+        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "EAT SLEEP RAGE",
+      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Find It In Your Mind",
+        "url": "https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "duration_ms": 199147,
+      "name": "Find It In Your Mind",
+      "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Revenge of the Orchestra",
         "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
       },
@@ -1993,20 +2029,24 @@
       "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "EAT SLEEP RAGE",
-        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b"
       },
       "artists": [
         {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
         }
       ],
-      "duration_ms": 216000,
-      "name": "EAT SLEEP RAGE",
-      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+      "duration_ms": 192732,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2033,46 +2073,6 @@
       "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 192732,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Find It In Your Mind",
-        "url": "https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        }
-      ],
-      "duration_ms": 199147,
-      "name": "Find It In Your Mind",
-      "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Embers",
@@ -2095,22 +2095,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "WRATH OF THE WICKED",
-        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
         },
         {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
         }
       ],
-      "duration_ms": 219428,
-      "name": "SAVE U NOW",
-      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     }
   ],
   "unique_name": "Bass Arcade",

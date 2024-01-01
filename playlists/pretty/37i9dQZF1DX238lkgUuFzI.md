@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2023\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,281 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,301 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 4 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 5 | [DTF](https://open.spotify.com/track/1m7SGMV2OmCLIJ6IKsnGeG) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:28 |
 | 6 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 |
-| 7 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
+| 7 | [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 |
 | 8 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 |
 | 9 | [Piggie](https://open.spotify.com/track/5wJMrfKgzSOirp2PTWGsTg) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 2:58 |
 | 10 | [Inner Child](https://open.spotify.com/track/0ZRIrT707yPnVxWJFhwnt0) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [why am i like this??](https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [LEAVE WIV ME \(FEAT\. ZAND + REMÉE\)](https://open.spotify.com/track/70rzwfKW74Dv6hzAXoTTaK) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Remée](https://open.spotify.com/artist/1ozEVEKprToJtdXwPkalMT) | [CLOWN BLOOD](https://open.spotify.com/album/1SIukunLtMfZyi00Olbc5t) | 1:37 |
 | 50 | [Not Enough](https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Not Enough](https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR) | 2:41 |
 
-Snapshot ID: `MCwyZmU1NjYwMmZlZTNiYjg4ZjNkOTk2NjM0ZWVhMjVkNzhkOGJmNTVj`
+Snapshot ID: `MCwzYjFmYzIxNDNiOTRiZDcyNDU2NDNjZDUzMmYxODhkMjFmNzBiNjhk`

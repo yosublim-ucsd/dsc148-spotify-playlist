@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 63147,
+  "num_followers": 63263,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmMzNjM2MTZkMWNhYWI3NDU1YWNiYzhmZmM1OWUyNmU4NjQwMjEx",
+  "snapshot_id": "MCw4NjlmMTgwZWFmMDc3MjI1NzBlMWFlZTI1MzhlNWNmZTQyNDhlZmUw",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Rancheras Populares 16 \u00c9xitos",
         "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 280586,
       "name": "La Pareja Ideal",
       "url": "https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
       "artists": [
         {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "El Tridente",
+          "url": "https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+      "duration_ms": 231906,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -491,38 +495,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "El Tridente",
-          "url": "https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "El Corrido Del R-15",
-        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia Chilena",
-          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "El Corrido Del R-15",
-      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -539,6 +523,22 @@
       "duration_ms": 246230,
       "name": "Con Que Derecho",
       "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "El Corrido Del R-15",
+        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia Chilena",
+          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
+        }
+      ],
+      "duration_ms": 204970,
+      "name": "El Corrido Del R-15",
+      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 273066,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Una Hora para Bailar",
-        "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
-      },
-      "artists": [
-        {
-          "name": "Los Perros del Monte",
-          "url": "https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "All\u00e1 Va la Liebre",
-      "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 174033,
       "name": "La Puntada",
       "url": "https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Una Hora para Bailar",
+        "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
+      },
+      "artists": [
+        {
+          "name": "Los Perros del Monte",
+          "url": "https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "All\u00e1 Va la Liebre",
+      "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Para Ti Solita / Matame A Besos (En Vivo)",
         "url": "https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 456000,
       "name": "Para Ti Solita / Matame A Besos (En Vivo)",
       "url": "https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "El Sol No Regresa",
         "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 174474,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
-      },
-      "artists": [
-        {
-          "name": "Los Principes del Norte",
-          "url": "https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Golpes y Besos",
-      "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Para Nuestra Gente",
         "url": "https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 211710,
       "name": "Son Solo Palabritas",
       "url": "https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
+      },
+      "artists": [
+        {
+          "name": "Los Principes del Norte",
+          "url": "https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Golpes y Besos",
+      "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
     },
     {
       "added_at": "2023-10-05 22:49:47",

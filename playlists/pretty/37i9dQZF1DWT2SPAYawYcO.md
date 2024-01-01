@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,103 likes - 46 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,131 likes - 46 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 45 | [Love Is So Fine](https://open.spotify.com/track/3ums5zDZEc8mklLnQTX7dx) | [Joee Vayda](https://open.spotify.com/artist/3h7mvV5r0DmD3uzYP8HvVL) | [Love Is So Fine](https://open.spotify.com/album/6P9Mcq3Ajv7ZRQFZOOIlU7) | 1:44 |
 | 46 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 
-Snapshot ID: `MCw1NjM3YzlkZTIzMTA3OTM3ZmQzNThjOTEwNDkwOGI4ZjdjZTIxNzg0`
+Snapshot ID: `MCxhZjA2YWEwZmNmM2Y5ZDk0MDljMGU2NTU5MjJiMGQ5MmQyNDBjMjhl`

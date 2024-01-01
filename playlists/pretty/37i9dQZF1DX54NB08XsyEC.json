@@ -1,12 +1,12 @@
 {
   "description": "se at\u00e9 ele era carpenter imagina nois / Foto: Sabrina Carpenter",
-  "num_followers": 277417,
+  "num_followers": 277507,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmNkMTZjYjM3YmM4OTM2OWUwOTJjOTQ2MTdkNjUwMzkxZjhjOTUy",
+  "snapshot_id": "MCxhYThiOTg3NzFmNWQzOWE0MzE4YjZhNTVhNTI3NTBmY2JlZjE3YTAy",
   "tracks": [
     {
       "added_at": "2023-12-18 17:34:42",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-12-18 17:34:42",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
+    },
+    {
+      "added_at": "2023-12-18 17:34:42",
+      "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
-    },
-    {
-      "added_at": "2023-12-18 17:34:42",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2023-12-18 17:34:42",

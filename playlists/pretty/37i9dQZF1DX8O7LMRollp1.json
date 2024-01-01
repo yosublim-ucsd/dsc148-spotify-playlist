@@ -1,12 +1,12 @@
 {
   "description": "Listen to the soundtracks of the drama Revenant. (\ub4dc\ub77c\ub9c8 \uc545\uadc0\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to thriller music that makes you cool on a summer night. (\uc5ec\ub984\ubc24\uc744 \uc2dc\uc6d0\ud558\uac8c \ub9cc\ub4dc\ub294 \uc2a4\ub9b4\ub7ec \uc74c\uc545\ub3c4 \uc990\uaca8\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 7181,
+  "num_followers": 7201,
   "original_name": "\uc545\uadc0 (Revenant)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWNlNGI2MzM0NWYwOTNiMmM2ZjFiOTY0YzFlZjlhYWZhZTY5NDQ4",
+  "snapshot_id": "MCw1OTMzMGIwNzBkMGIzM2YzZGE4ZDUyYTdlYjNmYzhkYjY0YWM3ZDg1",
   "tracks": [
     {
       "added_at": "2023-07-28 09:09:15",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-07-28 09:09:15",
       "album": {
-        "name": "\ub9ac\ud134, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7pgky5mMJtFvOmZdXVevCf"
+        "name": "Return OST Part.2",
+        "url": "https://open.spotify.com/album/7oKGyDJ9nqazWjJLQ3i6pV"
       },
       "artists": [
         {
@@ -84,15 +84,15 @@
           "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
         }
       ],
-      "duration_ms": 200144,
+      "duration_ms": 200151,
       "name": "Again",
-      "url": "https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ"
+      "url": "https://open.spotify.com/track/1CQs20mWtWLiPpBK62f7dE"
     },
     {
       "added_at": "2023-07-28 09:09:15",
       "album": {
-        "name": "\ub9ac\ud134 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4hPxrrZwxYPAyUJb4rEq0N"
+        "name": "Return OST Part.3",
+        "url": "https://open.spotify.com/album/51o0vJqOi3ykBysMcaunQK"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 207442,
-      "name": "\uac80\uc740 \ud574",
-      "url": "https://open.spotify.com/track/6BiPVxqLLFuN09oHs6q9Gi"
+      "duration_ms": 207465,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/6kYJO3yup0Qcqjla2Jc8j3"
     },
     {
       "added_at": "2023-07-28 09:09:15",
@@ -223,24 +223,28 @@
     {
       "added_at": "2023-07-28 09:09:15",
       "album": {
-        "name": "Secret Mother, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH"
+        "name": "Secret Mother OST Part.1",
+        "url": "https://open.spotify.com/album/7tTBAN8l4EX2eit2QR8R5g"
       },
       "artists": [
         {
-          "name": "CAR, THE GARDEN",
-          "url": "https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3"
+          "name": "CAR",
+          "url": "https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8"
+        },
+        {
+          "name": "THE GARDEN",
+          "url": "https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4"
         }
       ],
-      "duration_ms": 264568,
+      "duration_ms": 264595,
       "name": "Nothing",
-      "url": "https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy"
+      "url": "https://open.spotify.com/track/2j2nHZ1zTKBlMUzd185e58"
     },
     {
       "added_at": "2023-07-28 09:09:15",
       "album": {
-        "name": "Secret Mother, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gybhk6IErhOvhRHghcHsK"
+        "name": "Secret Mother OST Part.2",
+        "url": "https://open.spotify.com/album/3i2HyvCvZKOykSqVKCQp8n"
       },
       "artists": [
         {
@@ -248,9 +252,9 @@
           "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
         }
       ],
-      "duration_ms": 145290,
+      "duration_ms": 145032,
       "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs"
+      "url": "https://open.spotify.com/track/1dWIh1RbI0UJaUjjvyqMpc"
     },
     {
       "added_at": "2023-07-28 09:09:15",

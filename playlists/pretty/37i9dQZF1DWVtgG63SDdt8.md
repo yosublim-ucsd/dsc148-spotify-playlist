@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,794 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,932 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 85 | [Feliz Navidad](https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0), [Ruby Cavazos](https://open.spotify.com/artist/1kBE8crkTKvG3ENQktbe1j), [Zoe Jean Fowler](https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm) | [CHRISTMAS WITH FRIENDS](https://open.spotify.com/album/2LaGLXCOEdRF37oogLRDe6) | 2:37 |
 | 86 | [Silent Night](https://open.spotify.com/track/5OzOBgprIqWm4kwByR72ln) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Silent Night](https://open.spotify.com/album/1C8dBLdykBJdhg6RFGE4Lb) | 3:21 |
 
-Snapshot ID: `MCw4NTFkNTQwYWU1MmM0YTA4NjhkNTQ4ZDM1ZTMxMDAzMGY3OWUxMGQz`
+Snapshot ID: `MCwyMmVhN2EwM2ZmY2Y0NjNiMDA0NTVhZmY3Yzc5MWQ3NGU4YWZmNmUx`

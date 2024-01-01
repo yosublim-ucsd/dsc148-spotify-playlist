@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-165 songs - 8 hr 43 min
+166 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [El Jazmín de Tu Recuerdo](https://open.spotify.com/track/1wLFjUwgQFsbuYrdkJhICz) | [Lacho Sena](https://open.spotify.com/artist/6mdVeA18EaI5CBBs0X3dK3) | [Desde el Corazón de Corrientes](https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo) | 2:51 | 2021-11-19 | 2022-07-28 |
 | [El Petizo Maceta](https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Chamamé Con Estilo Propio](https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb) | 2:36 | 2021-11-19 | 2022-07-25 |
 | [El Peón de Obraje](https://open.spotify.com/track/2GNEWWMSqDq24BbXA5uEJb) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f), [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Mano a Mano](https://open.spotify.com/album/03U5sBArVssSAc9Ej6sm0k) | 2:24 | 2021-11-19 | 2022-07-29 |
+| [El peón de Obraje](https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f), [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Mano a mano](https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y) | 2:24 | 2023-06-09 |  |
 | [El Remanso](https://open.spotify.com/track/6yU5qgjYt71Q866xCCIXmk) | [Litoral mitá](https://open.spotify.com/artist/28NfOpqo5X92plpqxfxlYz) | [El Remanso](https://open.spotify.com/album/4uuATNDzXPRQliiiPkIjSl) | 2:33 | 2021-11-19 | 2022-07-29 |
 | [El Toro](https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 2:43 | 2021-11-19 |  |
 | [El Toro](https://open.spotify.com/track/6NDOsal4LAqelh43irEedg) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx), [Los Hermanos Aquino](https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs) | [Chamamé](https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi) | 2:20 | 2021-11-19 |  |
@@ -164,7 +165,7 @@
 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 | 2021-11-19 | 2022-07-18 |
 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 | 2023-06-09 |  |
 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 | 2021-11-19 | 2023-10-30 |
-| [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 | 2021-11-19 |  |
+| [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 | 2021-11-19 | 2024-01-01 |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto](https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s) | 4:48 | 2023-06-09 |  |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 | 2022-07-05 | 2023-10-21 |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo\) \[En Vivo en el Teatro Colón\]](https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l) | 4:48 | 2021-11-19 | 2022-07-29 |

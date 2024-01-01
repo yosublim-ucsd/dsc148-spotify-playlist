@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,428 likes - 56 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,569 likes - 56 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 55 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 56 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 |
 
-Snapshot ID: `MCwxZmY1YTFlNGNjMDg4NjI2ZmNlYmI2ZGI0YjcxYjFlMjFlMTQ4ZTM5`
+Snapshot ID: `MCw3Zjg5MGVlZTM4YWNmNjZlNzU2MzJmZGM4ZDYxOGY5NmYwNDBlODc2`

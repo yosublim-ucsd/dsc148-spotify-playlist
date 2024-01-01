@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 233366,
+  "num_followers": 233494,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk",
+  "snapshot_id": "MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -347,6 +347,38 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "De Cuba a Per\u00fa",
+        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
+      },
+      "artists": [
+        {
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+        }
+      ],
+      "duration_ms": 295543,
+      "name": "Usted No Sabe",
+      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -391,38 +423,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
-      },
-      "artists": [
-        {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De Cuba a Per\u00fa",
-        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
-      },
-      "artists": [
-        {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
-        }
-      ],
-      "duration_ms": 295543,
-      "name": "Usted No Sabe",
-      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 360957,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "EN LETRAS DE OTROS",
         "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
       },
@@ -667,54 +651,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "De Vuelta al Barrio",
-        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
       },
       "artists": [
         {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
         }
       ],
-      "duration_ms": 346266,
-      "name": "La Cosa Mala",
-      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Traidora (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
+      "duration_ms": 360957,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -735,6 +683,58 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "De Vuelta al Barrio",
+        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "La Cosa Mala",
+      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Traidora (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
-        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "Dime Cu\u00e1nto - Remasterizado",
-      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
+        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "Dime Cu\u00e1nto - Remasterizado",
+      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
     }
   ],
   "unique_name": "Salsa Cubana",

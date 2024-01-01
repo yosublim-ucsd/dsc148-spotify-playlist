@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > fim d ano tdo dia é dia d fluxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,066 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,746 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 66 | [Tropa Dos Mais Novo](https://open.spotify.com/track/4UjDsy4EYZxFpKcKVRy7Ht) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC HENRY](https://open.spotify.com/artist/3FUI7YYNeel1qO07SLaTHf) | [Tropa Dos Mais Novo](https://open.spotify.com/album/6q2ZObxO0sshZ7ZpvYSbnt) | 1:36 |
 | 67 | [Mega do Akon](https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7) | [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI) | [Mega do Akon](https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC) | 2:25 |
 | 68 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 |
-| 69 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 |
+| 69 | [Tipo Hollywood](https://open.spotify.com/track/4fDKzjRMXAwh3Mp1jsnMFi) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/7HRJRHjrB0kh9fEJq47zqe) | 1:50 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCxjNDU0ZmFlZDEyNDAyOGY4NTFkOWM3MzIzNWMwZWVjMWZhNGQ3MDc1`
+Snapshot ID: `MCw1OWEzZmU5Njc1NzVjM2QxMTdkZGM2MGM0MGU5YjcyODQ0OWM2MDc0`

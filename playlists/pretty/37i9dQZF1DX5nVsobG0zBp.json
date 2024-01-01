@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang.  ",
-  "num_followers": 56972,
+  "num_followers": 57012,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTc5OGQ0ZDY0NzRmOTI3ZjBkZWUwMzcyY2Q1OTZlMmZmMTM3OWMy",
+  "snapshot_id": "MCxiN2Y2ZTQyYzQxYjJiZTM2NWJkMmY2OTZlNWU1MTdiNmJjMzAxODRj",
   "tracks": [
     {
       "added_at": "2023-12-14 11:29:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "International Bizz",
-        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "International Bizz",
-      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "MINA D'OURO",
         "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 220080,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "International Bizz",
+        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "International Bizz",
+      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
     },
     {
       "added_at": "2023-12-14 11:29:01",

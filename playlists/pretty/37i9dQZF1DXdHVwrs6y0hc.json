@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 71946,
+  "num_followers": 72090,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDkxMjE2ZWQxNmIwNjQ5MGY4NWM1MmFhOTU2MjE4MWIxYWUyM2Nk",
+  "snapshot_id": "MCxlNGNhMmVhYzNmYTNjZTU4NDUyMjhkZDgxOWI2NmNkNTYzZmFmMTVj",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Sick Note",
-        "url": "https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT"
-      },
-      "artists": [
-        {
-          "name": "Brier",
-          "url": "https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM"
-        }
-      ],
-      "duration_ms": 152680,
-      "name": "The Boys Of Killybegs",
-      "url": "https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Irish Folk At Its Best",
         "url": "https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 227600,
       "name": "The Bright Side of the Moon",
       "url": "https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Sick Note",
+        "url": "https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT"
+      },
+      "artists": [
+        {
+          "name": "Brier",
+          "url": "https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM"
+        }
+      ],
+      "duration_ms": 152680,
+      "name": "The Boys Of Killybegs",
+      "url": "https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Patrick Street",
-        "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Street",
-          "url": "https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
-      "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Noel Mcloughlin: Ireland",
         "url": "https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 198893,
       "name": "Galway Bay",
       "url": "https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Patrick Street",
+        "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Street",
+          "url": "https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
+      "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Handsome Molly",
-      "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
+      "duration_ms": 342200,
+      "name": "The Flower of Finea",
+      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 342200,
-      "name": "The Flower of Finea",
-      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
+      "duration_ms": 189840,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
     },
     {
       "added_at": "2021-04-26 15:38:07",

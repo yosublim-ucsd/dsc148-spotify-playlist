@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 200144,
       "name": "Again",
       "url": "https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ"
+    },
+    {
+      "album": {
+        "name": "Return OST Part.2",
+        "url": "https://open.spotify.com/album/7oKGyDJ9nqazWjJLQ3i6pV"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200151,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1CQs20mWtWLiPpBK62f7dE"
     },
     {
       "album": {
@@ -74,6 +92,24 @@
       "duration_ms": 213546,
       "name": "An Endless Desire",
       "url": "https://open.spotify.com/track/6vM9g9Lla2BXRhtmuRPP9p"
+    },
+    {
+      "album": {
+        "name": "Return OST Part.3",
+        "url": "https://open.spotify.com/album/51o0vJqOi3ykBysMcaunQK"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207465,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/6kYJO3yup0Qcqjla2Jc8j3"
     },
     {
       "album": {
@@ -283,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Secret Mother OST Part.1",
+        "url": "https://open.spotify.com/album/7tTBAN8l4EX2eit2QR8R5g"
+      },
+      "artists": [
+        {
+          "name": "CAR",
+          "url": "https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8"
+        },
+        {
+          "name": "THE GARDEN",
+          "url": "https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264595,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2j2nHZ1zTKBlMUzd185e58"
+    },
+    {
+      "album": {
         "name": "Secret Mother, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH"
       },
@@ -294,7 +352,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 264568,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy"
@@ -319,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Secret Mother OST Part.2",
+        "url": "https://open.spotify.com/album/3i2HyvCvZKOykSqVKCQp8n"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145032,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/1dWIh1RbI0UJaUjjvyqMpc"
+    },
+    {
+      "album": {
         "name": "Secret Mother, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Gybhk6IErhOvhRHghcHsK"
       },
@@ -330,7 +406,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 145290,
       "name": "Perfect Love",
       "url": "https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs"
@@ -474,7 +550,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 207442,
       "name": "\uac80\uc740 \ud574",
       "url": "https://open.spotify.com/track/6BiPVxqLLFuN09oHs6q9Gi"

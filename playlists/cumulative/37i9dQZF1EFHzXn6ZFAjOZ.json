@@ -348,6 +348,24 @@
     {
       "album": {
         "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "album": {
+        "name": "Call On Me",
         "url": "https://open.spotify.com/album/2aEFs3O03Pf1eEphwG7NU7"
       },
       "artists": [
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 202450,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/6SQn4cpEnPVNemmaAzAyAE"
@@ -618,10 +636,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 215172,
       "name": "Desire (Sub Focus & Dimension)",
       "url": "https://open.spotify.com/track/507UUx311ghfFTMSuHUeyS"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/3CP59c3j5ba1SmHyGiPsub"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Desire - Sub Focus & Dimension",
+      "url": "https://open.spotify.com/track/6Em7UP8blQFsLY7sqVbYvT"
     },
     {
       "album": {
@@ -1070,10 +1110,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 180939,
       "name": "How We Do It",
       "url": "https://open.spotify.com/track/162YLvibQ5whUO74Isj1tz"
+    },
+    {
+      "album": {
+        "name": "Scorcha",
+        "url": "https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182672,
+      "name": "How We Do It (feat. Pia Mia)",
+      "url": "https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC"
     },
     {
       "album": {
@@ -1336,6 +1398,24 @@
     {
       "album": {
         "name": "Love Of Your Life",
+        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196170,
+      "name": "Love Of Your Life",
+      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+    },
+    {
+      "album": {
+        "name": "Love Of Your Life",
         "url": "https://open.spotify.com/album/3GoM5gcpq0UQYrKxmqzXDa"
       },
       "artists": [
@@ -1346,7 +1426,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 204440,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/7iiuDB4lJ2TR0bHchWkEmY"
@@ -1486,6 +1566,24 @@
     {
       "album": {
         "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
+    },
+    {
+      "album": {
+        "name": "Natalie Don\u2019t",
         "url": "https://open.spotify.com/album/7vLbRuvBHQFkPXvDID9xkY"
       },
       "artists": [
@@ -1496,7 +1594,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 197080,
       "name": "Natalie Don't",
       "url": "https://open.spotify.com/track/3fEtxqmS2R9TRSMr0mRM15"
@@ -1674,10 +1772,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+    },
+    {
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/54hAW1dmZY3fomigBxwuae"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198239,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/0gjZAHX4U38wVbexsyJ7Sz"
     },
     {
       "album": {
@@ -1748,6 +1868,28 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "album": {
+        "name": "Secrets (Official Video)",
+        "url": "https://open.spotify.com/album/0HCiyUAfKrP4ZBalMS68hs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181248,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4nCJS7AWhGru24BKIPSIqz"
     },
     {
       "album": {
@@ -1961,6 +2103,36 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2SDHS19pVLQt02yHehI6BJ"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/2LqwV6UF8PGnoEtqw8nYzN"
+    },
+    {
+      "album": {
         "name": "Snacks (Supersize)",
         "url": "https://open.spotify.com/album/4PBfH44I6nfqf3sibVoG8O"
       },
@@ -1984,7 +2156,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 210967,
       "name": "Tequila - Jax Jones & Martin Solveig Present Europa",
       "url": "https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg"

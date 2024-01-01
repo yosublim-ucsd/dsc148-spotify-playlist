@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,194 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,218 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 45 | [Takeaway \(feat\. Lennon Stella\) \- Andrew Rayel Remix](https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Takeaway \(feat\. Lennon Stella\) \[Remixes\]](https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g) | 3:00 |
 | 46 | [Rewrite The Stars \- Wideboy's Hands In The Air Remix](https://open.spotify.com/track/3cGTJ36recw62AXf34v3kJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi) | [Rewrite The Stars \(Wideboys Hands In The Air Remix\)](https://open.spotify.com/album/7nzykVPF4FaaNMZILmoHrA) | 3:36 |
 | 47 | [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 |
-| 48 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
-| 49 | [Be the One \- Netsky Remix](https://open.spotify.com/track/0HmS9wjfe3IA3fQz5W9Ppp) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Be the One \(Netsky Remix\)](https://open.spotify.com/album/13CDulmfG84VyhVY2k3Hrd) | 4:17 |
+| 48 | [Be the One \- Netsky Remix](https://open.spotify.com/track/0HmS9wjfe3IA3fQz5W9Ppp) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Be the One \(Netsky Remix\)](https://open.spotify.com/album/13CDulmfG84VyhVY2k3Hrd) | 4:17 |
+| 49 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
 | 50 | [Lullaby \- Calvo Remix](https://open.spotify.com/track/3mqvUmsGVshZSf5INiebzO) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv) | [Lullaby \(Remixes\)](https://open.spotify.com/album/0NxQ3gYxmhnjg0NFwO45KT) | 3:08 |
 
-Snapshot ID: `MCw2NzZkOThiMzgwMmUxODgzNmI3ODU0NzhmOTQ3NDVkMTlhZjViNGVk`
+Snapshot ID: `MCxkMTA2YTIzZTljOGRiMGIxNTA4N2FhMDVmOTIxODgyNDQ4ZjY5MTc4`

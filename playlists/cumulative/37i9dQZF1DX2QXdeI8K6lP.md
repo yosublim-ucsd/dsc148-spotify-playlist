@@ -4,7 +4,7 @@
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-186 songs - 9 hr 0 min
+187 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [La Barca](https://open.spotify.com/track/62E8G2xeGJ4UbTRtX1ZW6x) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/3fTSR8Q1Dkb3tAgezuzR3a) | 3:17 | 2021-10-01 | 2022-07-29 |
 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 | 2021-10-01 |  |
 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 | 2021-12-26 |  |
-| [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 | 2021-10-01 |  |
+| [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 | 2021-10-01 | 2024-01-01 |
 | [La Gloria Eres Tú](https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:48 | 2021-10-01 | 2022-07-29 |
 | [La Gloria Eres Tú](https://open.spotify.com/track/3cLKEKUpFKhlLXCTwZ9IrM) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:51 | 2021-10-01 |  |
 | [La Gloria Eres Tú](https://open.spotify.com/track/0cNgAXsROEzCnVm5nBCsHg) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Lo Mejor de los Mejores \- Tríos del Mundo](https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga) | 2:57 | 2021-10-01 |  |
@@ -186,6 +186,7 @@
 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 | 2021-10-01 |  |
 | [Veracruz](https://open.spotify.com/track/5nl4vpUgbA78kTgf9CLSpN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:11 | 2021-10-01 | 2022-07-29 |
 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 | 2021-10-01 |  |
+| [Viajera](https://open.spotify.com/track/3XP9XcACZOZl9gtZHo5jqe) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:54 | 2021-10-01 |  |
 | [Viajera](https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [XEW La Voz de America Latina](https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9) | 2:55 | 2021-10-01 | 2022-07-26 |
 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 | 2021-10-01 |  |
 | [Voy Gritando Por La Calle](https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 2:52 | 2021-12-26 | 2022-11-13 |

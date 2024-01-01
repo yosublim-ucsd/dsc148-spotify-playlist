@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,721 likes - 47 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,727 likes - 47 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 46 | [Un Poquito de Tu Amor \- Remasterizado](https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [G.A.S\. \(Remasterizado\)](https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM) | 2:55 |
 | 47 | [Opening](https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:31 |
 
-Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDA0NDBhMjhlZjljMDMyNjdkZWJlYjY5NTM1YWY3NjNhNw==`
+Snapshot ID: `Mjg0MDAzNjMsMDAwMDAwMDBlZDQ2ZjMxYTNhN2MwNjNiOGM1ZTUwNTQzZDk4ZDQxZg==`

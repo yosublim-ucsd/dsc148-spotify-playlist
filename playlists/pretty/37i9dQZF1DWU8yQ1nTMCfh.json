@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Walls & Bruses",
-  "num_followers": 283609,
+  "num_followers": 283626,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTI5MzEyNDU5YjEzMGEwYzg5YmJlODIxOTI0YWEzN2JhNWQ2MTFk",
+  "snapshot_id": "MCw4YWZjNGJiMGU3MzMxNDA4MjY4MTkxMGVmZTU4YTJiNDJjN2EyZDEz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "La Petite Mort",
+        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Cama Vac\u00eda",
         "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 239974,
       "name": "Cama Vac\u00eda",
       "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "La Petite Mort",
-        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "La Petite Mort",
-      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -1432,6 +1432,24 @@
     {
       "album": {
         "name": "Lovin' So Hard",
+        "url": "https://open.spotify.com/album/3TeV2AlhkVndwTUafUjmfQ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "Lovin' So Hard",
+      "url": "https://open.spotify.com/track/5EnCFISDzoIMWMaicJxxX9"
+    },
+    {
+      "album": {
+        "name": "Lovin' So Hard",
         "url": "https://open.spotify.com/album/6RenLlw1TB0QpQyskKSeDa"
       },
       "artists": [
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 250090,
       "name": "Lovin' So Hard",
       "url": "https://open.spotify.com/track/7q7P3pPxuxgCeHe4ZDhR4Q"
@@ -1485,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232520,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/7CHIJREUYyM7vndBQE6iMy"
+    },
+    {
+      "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/4ehT3vGiv52Q1TAjtj1sLR"
       },
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 233216,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/4zAlngOtqlPTUKVYw2eKbX"
@@ -1758,10 +1794,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 203960,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3qk4wRMDlaeagZGjSYbsOV"
+    },
+    {
+      "album": {
+        "name": "Sober (Official Video)",
+        "url": "https://open.spotify.com/album/5289LoxTLfa2ZFda0rpF0W"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3OpWBDIOsaYaDy9LhIaf1c"
     },
     {
       "album": {

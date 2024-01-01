@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Choose Your Weapon",
+        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93733,
+      "name": "Choose Your Weapon",
+      "url": "https://open.spotify.com/track/3NqwLwpzbpyvXB2wJE0Oe6"
+    },
+    {
+      "album": {
         "name": "Flavors of Entanglement (Standard Edition)",
         "url": "https://open.spotify.com/album/60XREfh3Gg6chBxPBCa7dl"
       },
@@ -4104,6 +4122,24 @@
       "duration_ms": 250535,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2"
+    },
+    {
+      "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359386,
+      "name": "Mobius Streak",
+      "url": "https://open.spotify.com/track/40l4Z2pYvnoXD2PTl3T26Z"
     },
     {
       "album": {

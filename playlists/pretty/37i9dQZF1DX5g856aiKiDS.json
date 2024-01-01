@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 482542,
+  "num_followers": 482573,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDJjNDdhYzJkMWI1NmQ3MWI2MGM2MjM0NjdlZTUxNGRiMDc0MmMw",
+  "snapshot_id": "MCxjNThjZjczMzYxNzFmOWM2ZDZlZmJlM2U0OGRlMTMzNmRlN2E4NjRj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:14",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 264052,
       "name": "Angel (feat. TAEYEON)",
       "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2023-12-06 09:09:14",

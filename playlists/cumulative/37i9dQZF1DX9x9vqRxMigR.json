@@ -3010,6 +3010,24 @@
     {
       "album": {
         "name": "The Faux Paws",
+        "url": "https://open.spotify.com/album/69BqqaUNClP5SrbHi9wlUK"
+      },
+      "artists": [
+        {
+          "name": "The Faux Paws",
+          "url": "https://open.spotify.com/artist/2CDYhfR9P5WmUzn9zqR1l3"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300522,
+      "name": "Guacmaster",
+      "url": "https://open.spotify.com/track/3viXXytQUrDB2DjMJtcVKY"
+    },
+    {
+      "album": {
+        "name": "The Faux Paws",
         "url": "https://open.spotify.com/album/5BvC4Cb31ytnxe3Om1mc8B"
       },
       "artists": [
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 329250,
       "name": "Iron Horse Gallup",
       "url": "https://open.spotify.com/track/5sCrvtVlJkJkzc7x7uWH98"
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 315257,
       "name": "Nutshimit",
       "url": "https://open.spotify.com/track/5wM1FyGMbJ5Mkuy3ouo03g"
@@ -6032,7 +6050,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 285714,
       "name": "Out Of The Ashes",
       "url": "https://open.spotify.com/track/6lKEuASm2jDq7RtaHWU7aY"

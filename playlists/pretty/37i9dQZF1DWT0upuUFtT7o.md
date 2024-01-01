@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The top tracks from Fresh Finds Indie in 2023\. Cover: Mali Velasquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,855 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,899 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 89 | [Sneaky Link](https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Sneaky Link](https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244) | 2:37 |
 | 90 | [This Is Gonna Hurt](https://open.spotify.com/track/46HVIOMbE5dabV45fjJewz) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Surrenderland](https://open.spotify.com/album/1RWzchBYUY3RLNsbDOvIy4) | 3:31 |
 
-Snapshot ID: `MCw2OGIzMzg0YjNmNWY5NDVhYjk2NzgyYTViMjgzMDhlYTYyNDU1YzY4`
+Snapshot ID: `MCxhMjFhYzdmZTQ3MTQ2M2E4NjI1MGYwNTI5YTg5Zjg4OTg5ZmRhZjU1`

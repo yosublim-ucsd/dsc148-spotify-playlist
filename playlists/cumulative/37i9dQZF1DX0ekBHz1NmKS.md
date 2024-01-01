@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-895 songs - 1 day 23 hr 14 min
+896 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/track/43XDyDwka658kl7tE31LcB) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/album/51PsFFDADd7HpUvffXAKZL) | 3:08 | 2022-03-10 | 2022-05-12 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-07-28 | 2023-09-09 |
 | [Breaking Up With A Friend](https://open.spotify.com/track/6Chhg96KqjbU3WU8GDEdsI) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Breaking Up With A Friend](https://open.spotify.com/album/3k8fo6a1vGdL9IVKkkeHRp) | 3:07 | 2022-04-01 | 2022-05-13 |
+| [Breathe Again](https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Breathe Again](https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY) | 2:51 | 2023-12-21 |  |
 | [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 | 2023-02-09 | 2023-04-12 |
 | [Brev från botten](https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Brev från botten](https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2) | 3:10 | 2022-09-15 | 2022-10-16 |
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
@@ -228,7 +229,7 @@
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 | 2023-10-05 |  |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
-| [Explosion](https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Explosion](https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq) | 3:06 | 2023-10-26 |  |
+| [Explosion](https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Explosion](https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq) | 3:06 | 2023-10-26 | 2024-01-01 |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2022-05-13 |
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-15 | 2022-12-16 |
 | [Fake Front](https://open.spotify.com/track/1NK9I6zrU9TbVtV82umZHe) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Fake Front](https://open.spotify.com/album/6ltm5Hbwmss9RyCBhOJqPB) | 3:13 | 2022-05-26 | 2022-06-11 |

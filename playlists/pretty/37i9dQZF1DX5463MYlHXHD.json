@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 569471,
+  "num_followers": 569995,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjUwNzU5ODgxZmJiYzYxYzNjZmUyNzJkOTgwNTM3NmRlOTdkNDMx",
+  "snapshot_id": "MCw4MjZjM2MyYzZlZDgxYzAwMDc4MDU2ZjY4NjllNmZjNTRhZGQ0MTRk",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "YO SOY TU MAESTRO (Remix)",
-        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "YO SOY TU MAESTRO - Remix",
-      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 173465,
       "name": "Vamos A Amanecer - Remix",
       "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "YO SOY TU MAESTRO (Remix)",
+        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "YO SOY TU MAESTRO - Remix",
+      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -967,30 +967,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "EL NOBA | DJ TAO Turreo Sessions #7",
-        "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 129069,
-      "name": "EL NOBA | DJ TAO Turreo Sessions #7",
-      "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+        "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 129069,
+      "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+      "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "AL RITMO | E2",
-        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
         }
       ],
-      "duration_ms": 176842,
-      "name": "AL RITMO | E2",
-      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+        "name": "AL RITMO | E2",
+        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
         },
         {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+      "duration_ms": 176842,
+      "name": "AL RITMO | E2",
+      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "CD3",
-        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        }
-      ],
-      "duration_ms": 149159,
-      "name": "El Arca De Noe",
-      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "M\u00e1s Duros que Nunca",
         "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 238933,
       "name": "La Jarra Loca",
       "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "CD3",
+        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        }
+      ],
+      "duration_ms": 149159,
+      "name": "El Arca De Noe",
+      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Gancia y Limon",
-        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
-      },
-      "artists": [
-        {
-          "name": "Smk-2",
-          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "Gancia y Limon",
-      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
       },
@@ -2139,22 +2119,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dale Zorrita",
-      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -2171,6 +2135,42 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dale Zorrita",
+      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Gancia y Limon",
+        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
+      },
+      "artists": [
+        {
+          "name": "Smk-2",
+          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Gancia y Limon",
+      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
         "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
       },
@@ -2183,26 +2183,6 @@
       "duration_ms": 158145,
       "name": "No Te Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Corte Caco",
-        "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
-      },
-      "artists": [
-        {
-          "name": "Nuke",
-          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 120520,
-      "name": "Corte Caco",
-      "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2243,6 +2223,26 @@
       "duration_ms": 175933,
       "name": "En la Cama T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Corte Caco",
+        "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
+      },
+      "artists": [
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 120520,
+      "name": "Corte Caco",
+      "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
     },
     {
       "added_at": "2023-12-22 12:02:16",

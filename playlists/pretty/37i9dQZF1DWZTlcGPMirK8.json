@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67336,
+  "num_followers": 67342,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz",
+  "snapshot_id": "MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -339,22 +339,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Food & Liquor II: The Great American Rap Album, Pt. 1",
-        "url": "https://open.spotify.com/album/5rCCCernTo6IwFwEZM4H53"
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        },
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+          "name": "John Paul Young",
+          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
         }
       ],
-      "duration_ms": 250320,
-      "name": "Battle Scars (with Guy Sebastian)",
-      "url": "https://open.spotify.com/track/1hWYT0w2R0J19rlVkiez7X"
+      "duration_ms": 208866,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -375,18 +371,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Classic Hits",
-        "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
+        "name": "Food & Liquor II: The Great American Rap Album, Pt. 1",
+        "url": "https://open.spotify.com/album/5rCCCernTo6IwFwEZM4H53"
       },
       "artists": [
         {
-          "name": "John Paul Young",
-          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
         }
       ],
-      "duration_ms": 208866,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
+      "duration_ms": 250320,
+      "name": "Battle Scars (with Guy Sebastian)",
+      "url": "https://open.spotify.com/track/1hWYT0w2R0J19rlVkiez7X"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Essential as Anything (30th Anniversary Edition) [Audio Version]",
         "url": "https://open.spotify.com/album/2H32rwTnGWdb30AESVHNJr"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 227826,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/6AxkHXn8gKB5wBOJOOpN9B"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 235293,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/1F2VIrr9oh7MwkI3NyLtHJ"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Casino Twilight Dogs",
-        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
-      },
-      "artists": [
-        {
-          "name": "Youth Group",
-          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
     },
     {
       "added_at": "2022-04-18 02:03:22",

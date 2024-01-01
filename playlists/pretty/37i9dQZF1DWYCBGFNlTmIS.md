@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,225 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 37 | [望月](https://open.spotify.com/track/0hDNC2Ook9S65Y054oPwxy) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [望月](https://open.spotify.com/album/00i2NE9zOWQYwQhDgeRslt) | 2:56 |
 | 38 | [今生不回家](https://open.spotify.com/track/3hDyV9IdZ9FMkN5fGb21ex) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [風起](https://open.spotify.com/album/7peOA0R5Wr9QEMOonn768N) | 5:24 |
 | 39 | [再聚](https://open.spotify.com/track/4GA6tvAQtZb1ePDlQfKVOC) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [再聚](https://open.spotify.com/album/0QV5JRafzBWJ7THqoi5Un5) | 4:16 |
-| 40 | [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 |
+| 40 | [半島](https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn) | 3:37 |
 | 41 | [告別](https://open.spotify.com/track/4eAcqd4BpxvGOuJob6KMPa) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [Matt Force](https://open.spotify.com/album/5R1NeGp8uc0cY8d4vN8P06) | 3:27 |
 | 42 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 |
 | 43 | [有時](https://open.spotify.com/track/6b84O8zIifMOPuGQDAaw01) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [有時](https://open.spotify.com/album/71thxM8cO0DAnJcWY7Nbko) | 4:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 84 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 85 | [鐵塔凌雲](https://open.spotify.com/track/3tMwHTdHyJBBiw5GGUITci) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [寶麗金88極品音色系列 \- 許冠傑](https://open.spotify.com/album/0tWdkdfyXeS8uaej0tFvgO) | 3:04 |
 
-Snapshot ID: `MCw5MmVhZDJhYjQwZTk0MDQzZGEzYjY5MDU4NDRiN2M5NDMwMWJjNDE5`
+Snapshot ID: `MCxjYjJkZDRkMzA5MjNjMjNmYWMzZTkwYTQ2MDNjMGIzNjk1YTQ3Yzg5`

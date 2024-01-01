@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3?si=CtzOnYUNTt6a35TV6Tf\-oA>Steve Crown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,132 likes - 74 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,166 likes - 74 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 73 | [Wishing Stars](https://open.spotify.com/track/2uDgiEiQxAh72LFxJM2mII) | [Crystal Clare](https://open.spotify.com/artist/5kCAOcVhDOIBSPsyEKjUfJ) | [Heart Series](https://open.spotify.com/album/4sOPtxmkXVW6VOODXpWXCL) | 2:26 |
 | 74 | [Epiphany](https://open.spotify.com/track/0aPsACpDMCfbteLKI3fVjJ) | [CMOI](https://open.spotify.com/artist/7sVObPGOcJCTEEKwsRLh6l) | [Epiphany](https://open.spotify.com/album/0XyoIe298LZc7jRY0Ac6ai) | 1:46 |
 
-Snapshot ID: `MCw0YjBkMGRmYzMwODk5NDhjNDRjMTkyZDZmYTFiZDE3YmNkNjdiZTBh`
+Snapshot ID: `MCw3NzZjODc0ZTM2NTE4ZGQ3Y2IwZDhmMzE4YWMzYzQyYjNhNmI1MGRm`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 437765,
+  "num_followers": 438540,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGMzYWRkYTVmNTNiNmIyNTllNzRlODgxZGI4ZjFjZWI2MWRhNzgy",
+  "snapshot_id": "MCxmODQ1MDk1N2Q1ZjVhMTQ5ODFkZjZmYzBhYzliNjgzM2Q4ZTg2NTdj",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -667,6 +667,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -683,18 +699,34 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
       "artists": [
         {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -727,38 +759,6 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -867,6 +867,26 @@
       "duration_ms": 224493,
       "name": "Love Foolosophy - Radio Edit",
       "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+      },
+      "artists": [
+        {
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Starlight - Radio Edit",
+      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -899,26 +919,6 @@
       "duration_ms": 216026,
       "name": "Omen",
       "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
-      },
-      "artists": [
-        {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Mani Hoffman",
-          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Starlight - Radio Edit",
-      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Hold Your Colour",
         "url": "https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU"
       },
@@ -1067,18 +1083,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Just a Little More Love",
-        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
+        "name": "Poetica (feat. Nadia Ali)",
+        "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "iio",
+          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
+      "duration_ms": 253586,
+      "name": "Rapture (feat.Nadia Ali)",
+      "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1103,22 +1123,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Poetica (feat. Nadia Ali)",
-        "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
+        "name": "It Just Won't Do",
+        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
       "artists": [
         {
-          "name": "iio",
-          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
+          "name": "Tim Deluxe",
+          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
         },
         {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "Sam Obernik",
+          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
         }
       ],
-      "duration_ms": 253586,
-      "name": "Rapture (feat.Nadia Ali)",
-      "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+      "duration_ms": 198000,
+      "name": "It Just Won't Do - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1151,26 +1171,6 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "It Just Won't Do",
-        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
-      },
-      "artists": [
-        {
-          "name": "Tim Deluxe",
-          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
-        },
-        {
-          "name": "Sam Obernik",
-          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "It Just Won't Do - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
     },
     {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "In Silico",
-        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 313346,
-      "name": "Propane Nightmares",
-      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
-    },
-    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1255,6 +1239,22 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "In Silico",
+        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 313346,
+      "name": "Propane Nightmares",
+      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Invaders Must Die",
         "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+      "duration_ms": 184586,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1395,22 +1411,6 @@
       "duration_ms": 340560,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
     },
     {
       "added_at": "2021-04-29 18:40:15",

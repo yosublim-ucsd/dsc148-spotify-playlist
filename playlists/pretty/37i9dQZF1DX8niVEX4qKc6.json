@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
-  "num_followers": 179644,
+  "num_followers": 179662,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQ1YmIwY2JkMWZiNmUyMjBkYzFmMWJkYzJiMWZhNDg1YTRiODVh",
+  "snapshot_id": "MCw5OTZmNzM5MTVmNzgwYmMyZjMxZTdmNWI2MWE1ODZmMDEwNDliMDUx",
   "tracks": [
     {
       "added_at": "2023-12-23 00:03:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 177066,
       "name": "C\u00f3mo Eran las Cosas - En Vivo",
       "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Besos, Lim\u00f3n y Miel",
-        "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 227739,
-      "name": "Besos, Lim\u00f3n y Miel",
-      "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Amapola del 66",
         "url": "https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 160533,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Besos, Lim\u00f3n y Miel",
+        "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 227739,
+      "name": "Besos, Lim\u00f3n y Miel",
+      "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 208289,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 208289,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+        "name": "Mundo Agradable (feat. Ricardo Mollo)",
+        "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+      "duration_ms": 273985,
+      "name": "Mundo Agradable (feat. Ricardo Mollo)",
+      "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

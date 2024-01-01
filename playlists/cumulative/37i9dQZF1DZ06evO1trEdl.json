@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 173240,
       "name": "Lonely Town",
       "url": "https://open.spotify.com/track/5b7OwoCMxAOXnQnz8O0zbR"
@@ -1236,6 +1236,24 @@
       "duration_ms": 235693,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
+    },
+    {
+      "album": {
+        "name": "Strategy: Our Tribute to Philadelphia",
+        "url": "https://open.spotify.com/album/6UGp2YJFRY7iqtzbkPKNGs"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/7JxDelauco6wQBtPHh4nWM"
     },
     {
       "album": {

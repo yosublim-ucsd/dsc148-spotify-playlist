@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,097 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,094 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 83 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:04 |
 | 84 | [Gott Nytt År](https://open.spotify.com/track/6ahOGZuS0sg65lXamHswvC) | [Johannes Kotschy](https://open.spotify.com/artist/7aLAFanxVBjq7ngnr0sCfp) | [Gott Nytt År](https://open.spotify.com/album/7G2iCU3dNATYEUrnvu0bhj) | 3:55 |
 
-Snapshot ID: `MCw1MjRiZDA1YTc1MDI1ODM2NWNkMTEzYjkyMTdlZmNmNzQ0NDEyYmMz`
+Snapshot ID: `MCxlNmIyMmU2NGE1ZjI5MTgxYmI1OTRiMzViNDFkOWNiNTUzMDA2OTMx`

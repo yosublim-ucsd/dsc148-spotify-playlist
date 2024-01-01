@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 23 songs - 34 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 23 songs - 34 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 22 | [...Surprise](https://open.spotify.com/track/44g4FlOQjnoAWDCthdYaZ5) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:39 |
 | 23 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
 
-Snapshot ID: `MjgzOTg5MzMsMDAwMDAwMDAxYTE5Y2FhNDVmZjQyMWZjY2I1Y2E3MmFjNDVmYWFjNQ==`
+Snapshot ID: `Mjg0MDAzNjMsMDAwMDAwMDAwMGVkNTNhNjQ2MGE3Y2U2NjAyNTAwMDRhMjY3ODkwMw==`

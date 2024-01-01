@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,638 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 36 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 |
 | 37 | [Badmash Bateu](https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [Kehar Kharkiya](https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I) | [Badmash Bateu](https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2) | 2:30 |
 | 38 | [Don Dada](https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Don Dada](https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh) | 2:48 |
-| 39 | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b) | 2:39 |
+| 39 | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/55D7IBTCePfG8B4Wflgucy) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/1rJKxpk0zIt56FuCz8e2zq) | 2:39 |
 | 40 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 |
 | 41 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 |
 | 42 | [Permit Badmashi Ka](https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU) | [RK Crew](https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw), [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Aashu Twinkle](https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ) | [Permit Badmashi Ka](https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Sahar](https://open.spotify.com/track/4rsvmuIlLe5b2avBh2mELM) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [GR Music](https://open.spotify.com/artist/36tQNYslMTXF5VUVfjj4Hz), [Jeetu G](https://open.spotify.com/artist/3FcGLSGpPNrs5H2kuSBumm) | [Sahar](https://open.spotify.com/album/2V7V19UVGoBg3HmK60okzW) | 2:09 |
 | 50 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 |
 
-Snapshot ID: `MCwzNzdiMGM1OGExMjljMWU1ODZkNjBkYTQ5MjFkNmM0NGFjYWY3MWIz`
+Snapshot ID: `MCxmODRhNTVmOTJlMmZhODUyMWEyODlmOGNjNjMwN2I2NDdkNTZkNGUz`

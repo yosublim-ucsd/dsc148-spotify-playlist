@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-105 songs - 5 hr 38 min
+106 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2022-06-24 | 2022-11-09 |
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-24 |  |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
+| [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 | 2023-10-05 |  |
 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-01 |  |
 | [Pressure](https://open.spotify.com/track/55ntpddOSFdNA2Q5nWWazq) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Pressure](https://open.spotify.com/album/2CKFkWw3M6cvwNqWVcksrh) | 3:04 | 2022-06-24 | 2022-11-09 |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-06-24 |  |
@@ -89,7 +90,7 @@
 | [أرض](https://open.spotify.com/track/0TacWOrPp2rDZjnvBjDFvO) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [أرض](https://open.spotify.com/album/3RmJE3F51o3nCgN8xfirkz) | 3:21 | 2023-08-03 |  |
 | [ارض](https://open.spotify.com/track/4Il19jl68qzjWIlpoSg14U) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [ارض](https://open.spotify.com/album/4RsztYv6UCO12BQ8Vo5Zde) | 3:25 | 2023-03-01 | 2023-05-13 |
 | [اشمعنى انا](https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [اشمعنى انا](https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA) | 2:48 | 2022-10-13 |  |
-| [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 |  |
+| [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 | 2024-01-01 |
 | [السر](https://open.spotify.com/track/3giMs4f7ApoNwHa5C2RSDQ) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I) | [السر](https://open.spotify.com/album/7wRiNxQ79LbyMLlnGLi9g8) | 4:32 | 2023-10-05 | 2023-10-22 |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-01-17 |
 | [بالمختصر](https://open.spotify.com/track/6ScIVedrkp6Rc1WFwzQxSU) | [اية خفاجة](https://open.spotify.com/artist/5dp1VYIECbMmrUo13BnbDV) | [بالمختصر \- Single](https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26) | 2:57 | 2022-06-24 | 2022-11-09 |

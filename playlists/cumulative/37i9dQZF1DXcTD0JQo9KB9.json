@@ -668,10 +668,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 217627,
       "name": "\u534a\u5cf6",
       "url": "https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj"
+    },
+    {
+      "album": {
+        "name": "\u534a\u5cf6",
+        "url": "https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn"
+      },
+      "artists": [
+        {
+          "name": "Yusobeit",
+          "url": "https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "\u534a\u5cf6",
+      "url": "https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM"
     },
     {
       "album": {

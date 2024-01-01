@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 70467,
+  "num_followers": 70486,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzkzNTNhMGU4NTVhZWZmY2Q3NGQxMWFlMDg3ZjhkNTYzZTdhMGU0",
+  "snapshot_id": "MCxmZGZlN2MzMGUyNGExZTE4NDkzN2EyNjNkMDc0MGM4NGQ0MGU5ODU1",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Wheeltappers and Shunters",
-        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
       "artists": [
         {
-          "name": "Clinic",
-          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
         }
       ],
-      "duration_ms": 129186,
-      "name": "Ferryboat of the Mind",
-      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
+      "duration_ms": 179826,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -255,22 +259,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Solos, Sessions & Encores",
-        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+        "name": "Wheeltappers and Shunters",
+        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        },
-        {
-          "name": "Dick Dale",
-          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+          "name": "Clinic",
+          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
+      "duration_ms": 129186,
+      "name": "Ferryboat of the Mind",
+      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Guadalupe Plata 2015",
-        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
+        "name": "\u00a1Puedes O No Puedes!",
+        "url": "https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8"
       },
       "artists": [
         {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+          "name": "Viernes de Hongos",
+          "url": "https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo"
         }
       ],
-      "duration_ms": 194367,
-      "name": "Calle 24",
-      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+      "duration_ms": 214173,
+      "name": "Mar De Caca",
+      "url": "https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "\u00a1Puedes O No Puedes!",
-        "url": "https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8"
+        "name": "Guadalupe Plata 2015",
+        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
       },
       "artists": [
         {
-          "name": "Viernes de Hongos",
-          "url": "https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo"
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Mar De Caca",
-      "url": "https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK"
+      "duration_ms": 194367,
+      "name": "Calle 24",
+      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Los El\u00e1sticos",
-        "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Pirakor",
-      "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The News Today",
-        "url": "https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN"
+        "name": "Los El\u00e1sticos",
+        "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
       },
       "artists": [
         {
-          "name": "Corizonas",
-          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+          "name": "Los Elasticos",
+          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
         }
       ],
-      "duration_ms": 190293,
-      "name": "The Falcon Sleeps Tonight",
-      "url": "https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy"
+      "duration_ms": 193946,
+      "name": "Pirakor",
+      "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 183120,
       "name": "Shiralee",
       "url": "https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Canciones Basura",
+        "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
+      },
+      "artists": [
+        {
+          "name": "Yucat\u00e1n A GoGo",
+          "url": "https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Abuela Zombie",
+      "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
     }
   ],
   "unique_name": "Rockabilly Surf",

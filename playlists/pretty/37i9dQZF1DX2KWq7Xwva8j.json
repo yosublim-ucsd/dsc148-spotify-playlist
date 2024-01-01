@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25315,
+  "num_followers": 25320,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk4NmNmZWJhZGQyZmYzZmNlNzk2YWVlNDc1MWYzZmRhMGVlOTg0",
+  "snapshot_id": "MCw2NDNkYjRlZTA1NzQxNjk4ODZkMmMyNmU1NWQyNjcxODhkYjg5NzAx",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "C\u00e1psula Espacial",
-        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "C\u00e1psula Espacial",
-      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "C\u00e1psula Espacial",
+        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "C\u00e1psula Espacial",
+      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
     },
     {
       "added_at": "2023-10-13 09:57:11",

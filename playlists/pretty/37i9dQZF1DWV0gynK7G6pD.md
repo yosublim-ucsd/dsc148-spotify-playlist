@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lavinia Meijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,891 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,979 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 50 | [O mistress mine \- Arr\. for Lute and Voice by Ron Andrico and Donna Stewart](https://open.spotify.com/track/72Pitk20x4H6YYgNfEklCv) | [Thomas Morley](https://open.spotify.com/artist/6nLcghsTUtvQzu7aiu8HbO), [William Shakespeare](https://open.spotify.com/artist/0xZ9fVp0OnYjYPeX9Z3c8x), [Mignarda](https://open.spotify.com/artist/1vNEPTetD9WzVMtXYj3vln) | [O mistress mine \(Arr\. for Lute and Voice by Ron Andrico and Donna Stewart\)](https://open.spotify.com/album/5bccUCWEwbLYN4Zs0AkRTj) | 2:31 |
 | 51 | [Cello Concerto: IV.](https://open.spotify.com/track/1Xuymt3K8H0Kv4bTGUJ4JH) | [Unsuk Chin](https://open.spotify.com/artist/6FiLRj0EeeMGtgQAWFWO0A), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby), [Alban Gerhardt](https://open.spotify.com/artist/2vKos77CK7cddxsAKLo8uS) | [Chin: Cello Concerto](https://open.spotify.com/album/1OAEy8TzMd3sIEyfS4wu6F) | 6:35 |
 
-Snapshot ID: `MCxjNjc0OTRhNThhMTJkNDY3ZTA0NjkwYzEzM2JjYTVhNDhhNzQwOWY3`
+Snapshot ID: `MCwyMTU1MzQzZjE2YmRhNDYyMTk1YTc1MjM3NzY0ZTNiZGIyZTNjOGQ3`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 109736,
+  "num_followers": 109828,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWE5ZjM5MjRmMjY2MDAzZjIzZTY5N2Y3NTVlZmZmY2QxMzlmNDk0",
+  "snapshot_id": "MCwyODU4MjgwMTVhZjY2ZDcyMjExOTIyYjk0ZmU0YjRkN2U2ZjMyOGNh",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
+      },
+      "artists": [
+        {
+          "name": "Cro-Magnon",
+          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
+        }
+      ],
+      "duration_ms": 432217,
+      "name": "Patchwork Jazz",
+      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Substance Abuse",
         "url": "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 306143,
       "name": "Substance Abuse",
       "url": "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
-      },
-      "artists": [
-        {
-          "name": "Cro-Magnon",
-          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
-        }
-      ],
-      "duration_ms": 432217,
-      "name": "Patchwork Jazz",
-      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Qualm",
-        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
-      },
-      "artists": [
-        {
-          "name": "Helena Hauff",
-          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
-        }
-      ],
-      "duration_ms": 491050,
-      "name": "The Smell Of Suds And Steel",
-      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Trax Classix",
         "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178666,
       "name": "Land Of Confusion",
       "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Qualm",
+        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
+      },
+      "artists": [
+        {
+          "name": "Helena Hauff",
+          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
+        }
+      ],
+      "duration_ms": 491050,
+      "name": "The Smell Of Suds And Steel",
+      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -707,26 +707,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

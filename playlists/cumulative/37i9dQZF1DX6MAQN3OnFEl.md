@@ -2,7 +2,7 @@
 
 ### [y2k](https://open.spotify.com/playlist/37i9dQZF1DX6MAQN3OnFEl)
 
-> All I need is time, a moment that is mine
+> that's hot
 
 199 songs - 12 hr 15 min
 

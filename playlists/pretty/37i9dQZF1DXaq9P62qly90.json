@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12629,
+  "num_followers": 12631,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTc4M2NmN2M2YjEyMTM0OWE3YzY0M2U4NTY0YTYyYjA1MmIxNjdk",
+  "snapshot_id": "MCwxMDhmMGU1YzRhMWNmNzA4ZGE5MTM3YjI4Yzc5M2Q2MmIzYWU3MDBk",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 261006,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "Road Goes All Night",
+        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+      "duration_ms": 351272,
+      "name": "Steppegrass",
+      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
     },
     {
       "added_at": "2023-01-03 17:09:40",

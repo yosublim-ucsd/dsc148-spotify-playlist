@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 239472,
+  "num_followers": 239449,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY4OTI1NjM0ZGMwYjBlYTlhYzRmNmE2MmI2NWE5MzQyNTIwMjAy",
+  "snapshot_id": "MCwxOTM0ZThhOWI1OWQ0ZjgwNjg5Y2ZhMmY5OGIzM2Y3NDc0NThhYmYx",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
-        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
-      },
-      "artists": [
-        {
-          "name": "The City of Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "The Addams Family",
-      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
+        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Rewind, Replay, Rebound (Deluxe)",
-        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Sorry Sack Of Bones",
-      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Onyx (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 201431,
       "name": "Deal with the Devil",
       "url": "https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Rewind, Replay, Rebound (Deluxe)",
+        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Sorry Sack Of Bones",
+      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
     },
     {
       "added_at": "2019-10-09 15:02:50",

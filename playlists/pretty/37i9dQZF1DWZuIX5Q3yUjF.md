@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,062 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,060 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NIRVANA](https://open.spotify.com/track/4fhiwtOWnxHSIt5Rr9YGXa) | [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW) | [NIRVANA](https://open.spotify.com/album/0v939XJOQhsSe9WFXxMrF9) | 3:27 |
 | 2 | [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 |
-| 3 | [USA LA MEMORIA](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok), [MaRie](https://open.spotify.com/artist/34NnNxcbViVpdQn8VHYe5u) | [PUNTO ZERO](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 |
+| 3 | [Usa La Memoria](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 |
 | 4 | [Rosalyn](https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Rosalyn](https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5) | 2:37 |
 | 5 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 |
 | 6 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 70 | [Roulette](https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Roulette](https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h) | 2:45 |
 | 71 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 
-Snapshot ID: `MCw4NGM2YjM5M2EwZTE0MGMyYWM5Y2E4MzBkNzAzNTcyNGI5ZTVhYzg0`
+Snapshot ID: `MCwxZjRmMmYzMWEyYzgwOTNhNDA3N2QyZWViYzY4MjMyOTg5ZjA0NjFl`

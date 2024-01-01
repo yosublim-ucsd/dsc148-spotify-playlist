@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TVXQ\(동방신기\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,547 likes - 122 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,605 likes - 122 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 121 | [AF!!](https://open.spotify.com/track/5nIRburQxBeif2bb0IemOW) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [AF!!](https://open.spotify.com/album/06SgEJLnXrd3tQQWH54vs6) | 2:20 |
 | 122 | [헤브어굿데이!](https://open.spotify.com/track/3e0z86O1YO0c3e5IaVgg7q) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [헤브어굿데이!](https://open.spotify.com/album/7hQaoNNdo8foX0NavGrlnv) | 2:59 |
 
-Snapshot ID: `MCxhYzUzYWNjZjMxYjA2ZmE3ZGEwNmVmNzE3NjYwY2E1ZjVmOGFlZWQ3`
+Snapshot ID: `MCxjOTg1YWZhYjk5N2NkNGRhZWE2NWY1NTM3NTdkMzI0MWFjZmJhMWMw`

@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 426428,
+  "num_followers": 426544,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2",
+  "snapshot_id": "MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
       },
       "artists": [
         {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -199,34 +199,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
       "artists": [
         {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Your Number",
-        "url": "https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN"
-      },
-      "artists": [
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4"
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -243,6 +227,22 @@
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Your Number",
+        "url": "https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN"
+      },
+      "artists": [
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "V6",
-        "url": "https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp"
-      },
-      "artists": [
-        {
-          "name": "Ireland Boss",
-          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
-        },
-        {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "V6",
-      "url": "https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "V6",
+        "url": "https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp"
+      },
+      "artists": [
+        {
+          "name": "Ireland Boss",
+          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
+        },
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "V6",
+      "url": "https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
       "artists": [
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
         }
       ],
-      "duration_ms": 154038,
-      "name": "So Mi Like It",
-      "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -791,22 +795,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
+        "name": "10",
+        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+      "duration_ms": 154038,
+      "name": "So Mi Like It",
+      "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Mr Vegas: The Hits",
         "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 211333,
       "name": "Heads High",
       "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Rum Behavior",
         "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 155919,
       "name": "Rum Behavior",
       "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Pon Di Gaza 2.0",
-        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Romping Shop (feat. Spice)",
-      "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 156842,
       "name": "Sha La La (Sunday Mawnin)",
       "url": "https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Pon Di Gaza 2.0",
+        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Romping Shop (feat. Spice)",
+      "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Expensive",
         "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Walking Trophy",
-        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
-      },
-      "artists": [
-        {
-          "name": "Tina (Hoodcelebrityy)",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Walking Trophy",
-      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Maestro",
         "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 231266,
       "name": "Romie",
       "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Walking Trophy",
+        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
+      },
+      "artists": [
+        {
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "duration_ms": 215112,
+      "name": "Walking Trophy",
+      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1435,22 +1451,6 @@
       "duration_ms": 220464,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Paddle Boat",
+        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
+      },
+      "artists": [
+        {
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Paddle Boat",
+      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Microphone Champion",
         "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Paddle Boat",
-        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
-      },
-      "artists": [
-        {
-          "name": "Najeeriii",
-          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Paddle Boat",
-      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
     },
     {
       "added_at": "2023-11-17 12:46:59",

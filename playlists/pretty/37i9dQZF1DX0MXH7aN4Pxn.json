@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685757,
+  "num_followers": 685760,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njc3NTc3ZGUxYjYzMDk5NWRlMWFkODQ1NzNiNTFkNjAzOWExNmZh",
+  "snapshot_id": "MCxkNjQ0MWU3ZDJhY2NjZjlhMGRmMDI2MjM4OGE3MzRkNzRkNGE1MGY4",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 169009,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
         "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 169009,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Just Let Go",
-        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Just Let Go",
-      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "African Lady (Antenna)",
         "url": "https://open.spotify.com/album/2ikxyffOctYIQHMCBpteFS"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 116053,
       "name": "African Lady (Antenna)",
       "url": "https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Just Let Go",
+        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Just Let Go",
+      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
     },
     {
       "added_at": "2023-11-10 00:01:00",

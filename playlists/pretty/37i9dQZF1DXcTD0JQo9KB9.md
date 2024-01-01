@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,055 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,062 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 59 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 4:16 |
 | 60 | [裂](https://open.spotify.com/track/6siCl93Ei5QHzgRdNnPVkf) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [裂](https://open.spotify.com/album/02VYTcVpfz3YtM5kBKqCnk) | 3:51 |
 | 61 | [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 |
-| 62 | [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 |
+| 62 | [半島](https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn) | 3:37 |
 | 63 | [神隊友](https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [神隊友](https://open.spotify.com/album/5kvb0Qz63Spmtv4Yw58clb) | 3:01 |
 | 64 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 |
 | 65 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 105 | [水花四濺](https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [廣東勵志歌集](https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD) | 4:17 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCxlNGRmMjhjM2JkYzViM2I5YjhkODM5NzI3OTU0Y2NhMDEzMmI2OTU3`
+Snapshot ID: `MCw3MjkwZTFkODZlMGQ2NTkwMGQ3YTI3Y2Y5YzAwN2UxZDcxM2FjYTlj`

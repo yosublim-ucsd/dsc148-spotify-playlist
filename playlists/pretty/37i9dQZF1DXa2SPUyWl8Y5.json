@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 483234,
+  "num_followers": 483282,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTQwYjZlNzY3OWEzNjUzZmY4MmJmODE5MTA1M2ViMmQ1NWIwZjQ4",
+  "snapshot_id": "MCw2YjA4MGNkOWI3NTI4NWI2MWI1MDdmYmNkMzhmYWM5YTY2MWM5OTA3",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "We're Back Chilling",
-        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+        "name": "Allegri",
+        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
       "artists": [
         {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
         }
       ],
-      "duration_ms": 267096,
-      "name": "Finding Atlantis",
-      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+      "duration_ms": 322640,
+      "name": "Allegri",
+      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Allegri",
-        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
       "artists": [
         {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
         }
       ],
-      "duration_ms": 322640,
-      "name": "Allegri",
-      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437953,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+      },
+      "artists": [
+        {
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Hegn",
         "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
       },
@@ -999,54 +1015,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
-      },
-      "artists": [
-        {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1067,6 +1035,38 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
       "artists": [
         {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
         }
       ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
       "artists": [
         {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
         }
       ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     }
   ],
   "unique_name": "Beats to think to",

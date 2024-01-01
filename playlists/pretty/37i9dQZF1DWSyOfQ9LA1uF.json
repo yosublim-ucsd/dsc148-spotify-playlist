@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 69074,
+  "num_followers": 69097,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFkMDY1ZmE4Y2NjZDdkNjk4ZTdlN2NmYjE5ZDU1NWUzZjI0ZTRj",
+  "snapshot_id": "MCw4OTVkODg2YjI1NmJjYTg2YjVhYmQ1ZmY0MDExMDM0YjZkZWI4YTk4",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "We Are Your Friends",
         "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 262773,
       "name": "We Are Your Friends - Justice Vs Simian",
       "url": "https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "We Started Nothing",
-        "url": "https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP"
-      },
-      "artists": [
-        {
-          "name": "The Ting Tings",
-          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Shut Up and Let Me Go",
-      "url": "https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "The Rawkers (I <3 U SO Edition)",
         "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Lambs Anger",
-        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
+        "name": "We Started Nothing",
+        "url": "https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP"
       },
       "artists": [
         {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+          "name": "The Ting Tings",
+          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
         }
       ],
-      "duration_ms": 171120,
-      "name": "Positif",
-      "url": "https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv"
+      "duration_ms": 171226,
+      "name": "Shut Up and Let Me Go",
+      "url": "https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -467,6 +451,22 @@
       "duration_ms": 234960,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Lambs Anger",
+        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "Positif",
+      "url": "https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Mosaik",
+        "url": "https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE"
+      },
+      "artists": [
+        {
+          "name": "Siriusmo",
+          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Nights Off",
+      "url": "https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Analog Worms Attack",
         "url": "https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 187026,
       "name": "Music Is My Hot, Hot Sex",
       "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Mosaik",
-        "url": "https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE"
-      },
-      "artists": [
-        {
-          "name": "Siriusmo",
-          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Nights Off",
-      "url": "https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -731,18 +731,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Rainbow Man 2.0",
-        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
+        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
+        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
       },
       "artists": [
         {
-          "name": "Busy P",
-          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
         }
       ],
-      "duration_ms": 214626,
-      "name": "Rainbow Man",
-      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
+      "duration_ms": 304413,
+      "name": "Lisztomania - Classixx Version",
+      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -787,22 +791,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
-        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
+        "name": "Rainbow Man 2.0",
+        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+          "name": "Busy P",
+          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
         }
       ],
-      "duration_ms": 304413,
-      "name": "Lisztomania - Classixx Version",
-      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
+      "duration_ms": 214626,
+      "name": "Rainbow Man",
+      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
     },
     {
       "added_at": "2022-08-24 22:29:13",

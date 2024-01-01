@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-370 songs - 19 hr 26 min
+371 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Solitario](https://open.spotify.com/track/2NrpiW6Kc1XPm9AzmvuxEa) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 | 2022-12-07 | 2023-05-26 |
 | [Soltera \- Remix](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 | 2022-04-19 | 2022-07-09 |
 | [Soy Una Gargola](https://open.spotify.com/track/4bEwaORm2IBfu3omjEna7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:09 | 2022-07-08 | 2023-05-26 |
+| [SSDBARRIO](https://open.spotify.com/track/2DaQcRsoWQCW89yYMatwVo) | [Gery Ochoa](https://open.spotify.com/artist/5Lc4sh3AVficEBSqHZvgXP), [Iván Borja](https://open.spotify.com/artist/1FY1tDuWgZK8KCFkGJhmHN), [Art Fernand](https://open.spotify.com/artist/28yZ74VWIaEAqhNlptUE6W) | [SSDBARRIO](https://open.spotify.com/album/01aa07JdFwFhRxb8dsTg0u) | 3:30 | 2023-12-31 |  |
 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 | 2022-07-29 | 2022-12-08 |
 | [Sustancias Raras](https://open.spotify.com/track/1Lyp6Zu6kEofJaU7uKRITc) | [HOLI RARE](https://open.spotify.com/artist/1ISWaTxLhrZpB35ew0rW8q), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9), [Zevra](https://open.spotify.com/artist/7iZesyVtiVJ999T2bbGT2D) | [Sustancias Raras](https://open.spotify.com/album/2yGirwqpSCbTRVldItuvcW) | 3:22 | 2023-05-25 | 2023-06-04 |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |

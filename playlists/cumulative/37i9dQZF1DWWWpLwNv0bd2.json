@@ -3586,7 +3586,7 @@
     {
       "album": {
         "name": "Vadhana",
-        "url": "https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN"
+        "url": "https://open.spotify.com/album/7cGwZqjv3WtCvPoMawU5s8"
       },
       "artists": [
         {
@@ -3597,6 +3597,24 @@
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213771,
+      "name": "Un siragugal moodathe",
+      "url": "https://open.spotify.com/track/2RJIZfOggZh36GJsQUmRiE"
+    },
+    {
+      "album": {
+        "name": "Vadhana",
+        "url": "https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
       "duration_ms": 213771,
       "name": "Un siragugal moodathe",
       "url": "https://open.spotify.com/track/6tfXRfeEcCMkekV9oLacH1"

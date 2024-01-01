@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 11994,
+  "num_followers": 12007,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh",
+  "snapshot_id": "MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Everybody's Fool",
-      "url": "https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "Everybody's Fool",
+      "url": "https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "I Don't Want You Back",
-        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Fuck It (I Don't Want You Back)",
-      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "La Good Life",
         "url": "https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 248640,
       "name": "Femme Like U",
       "url": "https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "I Don't Want You Back",
+        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Fuck It (I Don't Want You Back)",
+      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Fly Or Die",
-        "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
-      },
-      "artists": [
-        {
-          "name": "N.E.R.D",
-          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "She Wants To Move",
-      "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 232932,
       "name": "Parce qu'on vient de loin",
       "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Fly Or Die",
+        "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "She Wants To Move",
+      "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Floril\u00e8ge",
-        "url": "https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf"
-      },
-      "artists": [
-        {
-          "name": "Sla\u00ef",
-          "url": "https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Flamme - Radio Edit",
-      "url": "https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "DiscO-Zone",
         "url": "https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214560,
       "name": "Dragostea Din Tei - Original Romanian Version",
       "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Floril\u00e8ge",
+        "url": "https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf"
+      },
+      "artists": [
+        {
+          "name": "Sla\u00ef",
+          "url": "https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Flamme - Radio Edit",
+      "url": "https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo"
     }
   ],
   "unique_name": "Top Hits France 2004",

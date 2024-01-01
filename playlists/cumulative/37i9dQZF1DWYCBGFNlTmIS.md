@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-100 songs - 6 hr 35 min
+101 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [兩種語言](https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩種語言](https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i) | 4:19 | 2022-04-13 |  |
 | [再聚](https://open.spotify.com/track/4GA6tvAQtZb1ePDlQfKVOC) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [再聚](https://open.spotify.com/album/0QV5JRafzBWJ7THqoi5Un5) | 4:16 | 2022-01-13 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-01-13 |  |
-| [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 | 2022-01-13 |  |
+| [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 | 2022-01-13 | 2024-01-01 |
+| [半島](https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn) | 3:37 | 2022-12-22 |  |
 | [可再遇見](https://open.spotify.com/track/2c5QQV89BMnfjySXGx5sYR) | [Kolor](https://open.spotify.com/artist/6Xy3W72s4bZ3aI5X6NTp3G) | [可再遇見](https://open.spotify.com/album/4VvUD01t5a2KHTmdH7IXDj) | 5:27 | 2022-01-13 |  |
 | [后會無期 \(feat\. 梁詠琪\)](https://open.spotify.com/track/2uVTD1vpgz6VHrfUsy4QsU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D), [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [此刻無價 C AllCollection](https://open.spotify.com/album/0rFF3xUvAMmKEXbpGvHaL7) | 4:43 | 2022-01-13 |  |
 | [告別](https://open.spotify.com/track/4eAcqd4BpxvGOuJob6KMPa) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [Matt Force](https://open.spotify.com/album/5R1NeGp8uc0cY8d4vN8P06) | 3:27 | 2022-01-13 |  |

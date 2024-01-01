@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 296261,
+  "num_followers": 296429,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWJiZmEwOTU3ZTQ0NDZkMzUwMmZkMzQwM2NhNjZlZjk0ZTJhYzM5",
+  "snapshot_id": "MCxlZGQwMmEyM2U3YmIwM2NhYTk0Mzk2NTc4OTlhZjM4YmZmY2VjNjJh",
   "tracks": [
     {
       "added_at": "2023-12-04 17:13:40",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Le Beirut",
-        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
-        }
-      ],
-      "duration_ms": 431520,
-      "name": "Le Beirut",
-      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Isla Bonita",
         "url": "https://open.spotify.com/album/1zpMJrknblXdoE5PW9xmr2"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 181000,
       "name": "Isla Bonita",
       "url": "https://open.spotify.com/track/237piArDEVghCWdWXFcY7i"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Le Beirut",
+        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
+        }
+      ],
+      "duration_ms": 431520,
+      "name": "Le Beirut",
+      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Lala",
-        "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 394280,
-      "name": "Lala",
-      "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "duration_ms": 394280,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 300582,
       "name": "Ahwak (Deeper Remix)",
       "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 314336,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 197052,
       "name": "Dahlia Girl",
       "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "all the things i got",
         "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
       },
@@ -1763,34 +1779,18 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Ethnique",
-        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Yusuf Ek\u015fio\u011flu",
-          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 167375,
-      "name": "Ethnique",
-      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2023-12-04 17:13:40",

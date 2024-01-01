@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2368,
+  "num_followers": 2372,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmU3YTVlNTUyOTI1Y2I1MGQ4ZjY1Y2RmMGE0Y2ZkMzVjZGJmZjll",
+  "snapshot_id": "MCw3NGVlYzIxNzZmNDEzYTJkZTgwOTk1YzljYjZlZTI4NmUzZGUwN2U4",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "Andy Janvier",
+          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
+        }
+      ],
+      "duration_ms": 246766,
+      "name": "Janvier",
+      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Enn lot kouler",
         "url": "https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 237960,
       "name": "Touletemp (feat. Sista Queen)",
       "url": "https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "Andy Janvier",
-          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
-        }
-      ],
-      "duration_ms": 246766,
-      "name": "Janvier",
-      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

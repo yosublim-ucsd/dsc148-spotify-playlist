@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 85952,
+  "num_followers": 86038,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDI4MDg2YTlmNjBkYzdkZjE1OWFiNjliNjkyNTEzM2VhMTgzYTMy",
+  "snapshot_id": "MCw2ZTUyODExMjAzNjcxOTA4MmM1ODgwMmQ5N2I1YTJmYjM2YTkxYWZl",
   "tracks": [
     {
       "added_at": "2023-12-24 09:21:43",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-12-24 09:21:43",
       "album": {
-        "name": "Li\u1ec7u Gi\u1edd",
-        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
-      },
-      "artists": [
-        {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
-        },
-        {
-          "name": "V\u0103n",
-          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
-        }
-      ],
-      "duration_ms": 258668,
-      "name": "Li\u1ec7u Gi\u1edd",
-      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
-    },
-    {
-      "added_at": "2023-12-24 09:21:43",
-      "album": {
         "name": "Rapitalove",
         "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2023-12-24 09:21:43",
       "album": {
-        "name": "Blue Tequila",
-        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
       },
       "artists": [
         {
-          "name": "T\u00e1o",
-          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
         }
       ],
-      "duration_ms": 202624,
-      "name": "Blue Tequila",
-      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
     },
     {
       "added_at": "2023-12-24 09:21:43",
@@ -995,6 +979,22 @@
       "duration_ms": 200000,
       "name": "B\u1eadt Nh\u1ea1c L\u00ean",
       "url": "https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus"
+    },
+    {
+      "added_at": "2023-12-24 09:21:43",
+      "album": {
+        "name": "Blue Tequila",
+        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Blue Tequila",
+      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

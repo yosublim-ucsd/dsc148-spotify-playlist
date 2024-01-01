@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171354,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
       },
@@ -4132,7 +4150,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 186530,
       "name": "Explosion",
       "url": "https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z"

@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263520,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4E3afPSY5fUEelQS9ppL0e"
+    },
+    {
+      "album": {
         "name": "Alive (Official Video)",
         "url": "https://open.spotify.com/album/3guqwF11sPfTw2jBZMqSAD"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 300138,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5ESNm66waqwpu6LWJ9aSLa"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 223514,
       "name": "Boy Problems",
       "url": "https://open.spotify.com/track/7pOqWHWP02vGnR70B2EyLC"
@@ -1156,6 +1174,24 @@
     {
       "album": {
         "name": "Crying in the Club",
+        "url": "https://open.spotify.com/album/7s5gKFHMzzMHyLE2KFXNkR"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216391,
+      "name": "Crying in the Club",
+      "url": "https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev"
+    },
+    {
+      "album": {
+        "name": "Crying in the Club",
         "url": "https://open.spotify.com/album/0EWUUKPjDD0wzMXcZfqBym"
       },
       "artists": [
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 320320,
       "name": "Crying in the Club",
       "url": "https://open.spotify.com/track/0Xb98kwHXee194Q9dzqsCB"
@@ -1624,10 +1660,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
+    },
+    {
+      "album": {
+        "name": "Elastic Heart (Official Music Video)",
+        "url": "https://open.spotify.com/album/6JYVYI1oh1hj0py8Q69sm7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307093,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/0WEZ5fQZdzJGKeHe0MnEoH"
     },
     {
       "album": {
@@ -1837,6 +1891,28 @@
     },
     {
       "album": {
+        "name": "7: Anniversary Edition",
+        "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/2mBPqbzgjIELxd86CdxC7v"
+    },
+    {
+      "album": {
         "name": "Flames",
         "url": "https://open.spotify.com/album/6QtuKkDoxuju1oDXvIItnu"
       },
@@ -1852,7 +1928,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 195486,
       "name": "Flames",
       "url": "https://open.spotify.com/track/5LXy5PADjSK3gt4Km114RP"
@@ -3109,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Limitless from the Movie \"Second Act\"",
+        "url": "https://open.spotify.com/album/1pTNDIIxBIpjJ99eEYu0Ss"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247458,
+      "name": "Limitless from the Movie \"Second Act\"",
+      "url": "https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L"
+    },
+    {
+      "album": {
         "name": "Some People Have REAL Problems",
         "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
       },
@@ -3595,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up (From \"Lion\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
+    },
+    {
+      "album": {
         "name": "Never Give Up (From \"Lion\" Soundtrack - 2020 Animated Video)",
         "url": "https://open.spotify.com/album/7uhiMq8J1BizMGmwZEsrte"
       },
@@ -3606,7 +3718,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 224256,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6KsFyWRBGEvsj7VNK6htAw"
@@ -4467,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "album": {
         "name": "Snowman",
         "url": "https://open.spotify.com/album/40XYrlP145PTVWNZBQzJMM"
       },
@@ -4478,7 +4608,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 172255,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
@@ -5686,10 +5816,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 224146,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/5EpvQcpMPOJbIAdbtDmxxS"
+    },
+    {
+      "album": {
+        "name": "Warrior (Official Video)",
+        "url": "https://open.spotify.com/album/1Xqb8dyG2HnNv55mfXYcXn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299178,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/7GqsSAxmvjDODSvNO7B1nb"
     },
     {
       "album": {
@@ -5756,10 +5904,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-01",
       "duration_ms": 238122,
       "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
       "url": "https://open.spotify.com/track/18Vgd3qG5OaU2TByBwFNOi"
+    },
+    {
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 181332,
+  "num_followers": 181425,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
+  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2023-05-25 14:38:53",

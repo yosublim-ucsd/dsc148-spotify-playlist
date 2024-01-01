@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 85753,
+  "num_followers": 85764,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2",
+  "snapshot_id": "MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "EVA & MIA",
+        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
+      },
+      "artists": [
+        {
+          "name": "GOKO!",
+          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
+        }
+      ],
+      "duration_ms": 174883,
+      "name": "EVA & MIA",
+      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Sava\u015ft\u0131m Harbiden",
         "url": "https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 151520,
       "name": "Sava\u015ft\u0131m Harbiden",
       "url": "https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "EVA & MIA",
-        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
-      },
-      "artists": [
-        {
-          "name": "GOKO!",
-          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
-        }
-      ],
-      "duration_ms": 174883,
-      "name": "EVA & MIA",
-      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
     },
     {
       "added_at": "2023-08-31 21:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 129423,
+  "num_followers": 129529,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmE3ODE1ZWYwYjgxYzY4OTY2YjU3NzliN2I2YzFiMDNkM2UzOWI1",
+  "snapshot_id": "MCwxNjVhMDgwY2RkZmI5NTMyOGNjMWE1OThiYTMxZDdhYTkwNDBjZjhl",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/4FhwG67kRWRBflqkZ6ciw1"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 174311,
-      "name": "Contacto Cero - Mariachi",
-      "url": "https://open.spotify.com/track/2y4fMw95tZ6krJzE0vC8jH"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Tomando Ando",
         "url": "https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 198392,
       "name": "Tomando Ando",
       "url": "https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/4FhwG67kRWRBflqkZ6ciw1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 174311,
+      "name": "Contacto Cero - Mariachi",
+      "url": "https://open.spotify.com/track/2y4fMw95tZ6krJzE0vC8jH"
     },
     {
       "added_at": "2023-10-06 06:00:00",
