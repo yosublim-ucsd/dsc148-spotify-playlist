@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,062 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,098 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 89 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 |
 | 90 | [Ruckus](https://open.spotify.com/track/6MzW9oJ3r8KCMeV2Wzm9dO) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Ruckus](https://open.spotify.com/album/5ZsU2rXahZTemj5k2pwvHQ) | 2:29 |
 | 91 | [I'm Not Playing](https://open.spotify.com/track/4oa60HzymQDK5T67GLwuRc) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:17 |
-| 92 | [Codename](https://open.spotify.com/track/3ANSFpNRy7eM8Kfcy4fmUC) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Codename](https://open.spotify.com/album/4XwK75LPKPSa8Ov8bJogGE) | 2:50 |
+| 92 | [CODENAME](https://open.spotify.com/track/0h8RJL6QSw0V9DOxxJtUR4) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [CODENAME](https://open.spotify.com/album/6hcEYNsP3jqwJ9Zipa5jmI) | 2:50 |
 | 93 | [Detention](https://open.spotify.com/track/594wtrOWRgz43j5da5SBbI) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Detention](https://open.spotify.com/album/7gu3Gu7D0SaaQizxsV9gC7) | 2:14 |
 | 94 | [Matrix](https://open.spotify.com/track/3LB6uSDlkoVaxmyc9vzz07) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Matrix](https://open.spotify.com/album/3QDgdiPtkM4f2D5646VpMS) | 2:05 |
 | 95 | [ROYAL](https://open.spotify.com/track/0yzK5lKI284QwESdd8ieVc) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s) | [ROYAL](https://open.spotify.com/album/02X9P2VUWUlXLBhWVZlJDt) | 1:49 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCw4ZTJmYTM1M2Y5NTRlZTNmMzFlMTU4MWNjOGUyMDhjYmEwODA0MjQw`
+Snapshot ID: `MCxjZGFhNzM2MmRmZWRhMDQ4NGU1ODJkMWI5ZWFjNTdjZWU5MWFhZGQ4`

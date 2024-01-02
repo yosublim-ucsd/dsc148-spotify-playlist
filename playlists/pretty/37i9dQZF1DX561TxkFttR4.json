@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 340057,
+  "num_followers": 340112,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWU5Y2FhYjQ0ZWE3ZmFjY2IzYTU5NzI3OWI3MTgwNGZjMGNmOWNl",
+  "snapshot_id": "MCwzM2EyMjE5Y2MxNmZhYTM5ZGU1OWI1Mzg5NTQxOTMyNzc4OWJkYTU4",
   "tracks": [
     {
       "added_at": "2023-10-24 09:37:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-24 09:37:52",
       "album": {
-        "name": "Kastepiisk",
-        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 201159,
-      "name": "Kastepiisk",
-      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
-    },
-    {
-      "added_at": "2023-10-24 09:37:52",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 120202,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD"
+    },
+    {
+      "added_at": "2023-10-24 09:37:52",
+      "album": {
+        "name": "Kastepiisk",
+        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "duration_ms": 201159,
+      "name": "Kastepiisk",
+      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
     },
     {
       "added_at": "2023-10-24 09:37:52",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-24 09:37:52",
       "album": {
-        "name": "campfire",
-        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 186701,
-      "name": "campfire",
-      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
-    },
-    {
-      "added_at": "2023-10-24 09:37:52",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 126579,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy"
+    },
+    {
+      "added_at": "2023-10-24 09:37:52",
+      "album": {
+        "name": "campfire",
+        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 186701,
+      "name": "campfire",
+      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
     },
     {
       "added_at": "2023-10-24 09:37:52",

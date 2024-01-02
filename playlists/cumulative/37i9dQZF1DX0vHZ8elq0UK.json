@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 198800,
       "name": "Chasing The Sun",
       "url": "https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs"
@@ -1512,6 +1512,28 @@
       "duration_ms": 237266,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
+    },
+    {
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
     },
     {
       "album": {

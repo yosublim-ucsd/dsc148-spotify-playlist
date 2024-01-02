@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-316 songs - 22 hr 6 min
+317 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/5hvdCkg5ETqfh9ZJlqWkOh) | 4:24 | 2022-03-11 | 2022-07-29 |
 | [El niño](https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 4:01 | 2022-04-17 |  |
 | [El pavo real](https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk) | 3:28 | 2022-11-24 | 2023-01-08 |
+| [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2022-11-24 |  |
 | [El Plan \- Cyma Remix](https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [Cyma](https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn) | [El Plan \(Cyma Remix\)](https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG) | 3:57 | 2023-10-24 |  |
 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 | 2022-11-17 |  |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-11 | 2022-07-28 |
@@ -169,7 +170,7 @@
 | [Marimbao](https://open.spotify.com/track/6LwDStHgNCh3h07FjyJ5ml) | [Dub Across Borders](https://open.spotify.com/artist/7c7NsrA9itbqcg9hvVAxK4) | [Sticks & Leaves](https://open.spotify.com/album/2dtjSPvUANxwWzV6dia5cE) | 4:04 | 2022-01-04 | 2022-07-27 |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2022-01-04 | 2022-12-01 |
 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 | 2022-06-15 |  |
-| [Masa](https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 3:02 | 2023-09-25 |  |
+| [Masa](https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 3:02 | 2023-09-25 | 2024-01-02 |
 | [Mata e' Candil](https://open.spotify.com/track/2Cb6XimTN0rPdPocmiTFI7) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:02 | 2022-01-04 | 2022-07-24 |
 | [Mayahuel](https://open.spotify.com/track/7HbT88iSUcM6fnFTIZ5GZf) | [Sávila](https://open.spotify.com/artist/2MnzgTDDWD0KTonayeznfN) | [Mayahuel](https://open.spotify.com/album/62uYHxDORrNSyoA0wIPYIj) | 4:21 | 2022-08-13 | 2022-09-13 |
 | [Mañana Tepotzlan](https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr) | 4:00 | 2022-06-15 |  |

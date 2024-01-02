@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que brillaron en 2023. Foto: Vesta Lugg",
-  "num_followers": 13273,
+  "num_followers": 13275,
   "original_name": "EQUAL Chile: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl",
+  "snapshot_id": "MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Tiempo al tiempo",
-        "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        },
-        {
-          "name": "Ese T\u00e9",
-          "url": "https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Tiempo al tiempo",
-      "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Heredera del Surrealismo",
         "url": "https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Tiempo al tiempo",
+        "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Ese T\u00e9",
+          "url": "https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Tiempo al tiempo",
+      "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -591,22 +591,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Qui\u00e9n me va a Cuidar",
-        "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
+        "name": "Keep Trying",
+        "url": "https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee"
       },
       "artists": [
         {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+          "name": "Glo Herrera",
+          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
         },
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+          "name": "Solosiberia",
+          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
         }
       ],
-      "duration_ms": 202814,
-      "name": "Qui\u00e9n me va a Cuidar",
-      "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
+      "duration_ms": 218000,
+      "name": "Keep Trying",
+      "url": "https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Qui\u00e9n me va a Cuidar",
+        "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        },
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        }
+      ],
+      "duration_ms": 202814,
+      "name": "Qui\u00e9n me va a Cuidar",
+      "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "traves\u00eda",
         "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 149151,
       "name": "nada!",
       "url": "https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Keep Trying",
-        "url": "https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee"
-      },
-      "artists": [
-        {
-          "name": "Glo Herrera",
-          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
-        },
-        {
-          "name": "Solosiberia",
-          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Keep Trying",
-      "url": "https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Ser Humano",
+        "url": "https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 196328,
+      "name": "Ser Humano",
+      "url": "https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 202428,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Ser Humano",
-        "url": "https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 196328,
-      "name": "Ser Humano",
-      "url": "https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ"
     },
     {
       "added_at": "2023-11-29 12:15:00",

@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 21726,
+  "num_followers": 21803,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODkyZTM2ZTk1MWFmNzczMzA5ZjVhNTkwOTRhYTBmY2QxYThhODhk",
+  "snapshot_id": "MCwxYzJlZWExMDFlNzlkNGY3NWJlODEzYTk5OGI1NDJhMmZlYWRhZTI4",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Too Faithful",
         "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 318066,
       "name": "You I Live For",
       "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -211,22 +211,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+        "name": "Out of My Belly (Live)",
+        "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
         },
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        },
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
         }
       ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+      "duration_ms": 864287,
+      "name": "Out of My Belly - Live",
+      "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -267,26 +271,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Out of My Belly (Live)",
-        "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
       "artists": [
         {
-          "name": "Prospa Ochimana",
-          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         },
         {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        },
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 864287,
-      "name": "Out of My Belly - Live",
-      "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "This God Is Too Good",
         "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 366497,
       "name": "Onise Iyanu (feat. Micah Stampley)",
       "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Lara George",
-        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
-      },
-      "artists": [
-        {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Ko Ma Si/ Nobody Like You",
-      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -471,38 +471,46 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 296147,
-      "name": "Amazing God",
-      "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
+      "duration_ms": 318000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4bX0rleUG0RmqtdsI9A45P"
     },
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "God of Love",
-        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         },
         {
-          "name": "Love Song",
-          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+          "name": "Danny Nettey",
+          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
+        },
+        {
+          "name": "Emmit Jim Konadu",
+          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
         }
       ],
-      "duration_ms": 341226,
-      "name": "No Other God",
-      "url": "https://open.spotify.com/track/5erufNGesKhTwtxeJa8wZD"
+      "duration_ms": 402782,
+      "name": "Yes You Are the Lord",
+      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -543,24 +551,28 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
+        "name": "God of Love",
+        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Love Song",
+          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
         }
       ],
-      "duration_ms": 318000,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4bX0rleUG0RmqtdsI9A45P"
+      "duration_ms": 341226,
+      "name": "No Other God",
+      "url": "https://open.spotify.com/track/5erufNGesKhTwtxeJa8wZD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
       },
       "artists": [
         {
@@ -568,9 +580,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 394170,
-      "name": "Omekannaya",
-      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
+      "duration_ms": 296147,
+      "name": "Amazing God",
+      "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -587,34 +599,6 @@
       "duration_ms": 610103,
       "name": "Spirit Chant",
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "A Sound from Heaven",
-        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        },
-        {
-          "name": "Danny Nettey",
-          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
-        },
-        {
-          "name": "Emmit Jim Konadu",
-          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
-        },
-        {
-          "name": "Negar Wujanji",
-          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Yes You Are the Lord",
-      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -683,22 +667,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 405890,
-      "name": "Incredible God",
-      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "The Name of Jesus (Live in Concert)",
         "url": "https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 446000,
       "name": "I Stand Amazed - Live in Concert",
       "url": "https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 394170,
+      "name": "Omekannaya",
+      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -731,22 +715,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Fathered by the best",
-        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
-      },
-      "artists": [
-        {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
-        }
-      ],
-      "duration_ms": 285354,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Lost in His Glory",
         "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 190946,
       "name": "Covenant Keeping God",
       "url": "https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Fathered by the best",
+        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "duration_ms": 285354,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Cindy's Messiah",
         "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Xperience with Love",
-        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
       },
       "artists": [
         {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 586443,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
+      "duration_ms": 456000,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5Eqt1I1I5S1yWgqj1TCysK"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -843,34 +843,34 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Life and Worship Chapter 1",
-        "url": "https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X"
+        "name": "Xperience with Love",
+        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
       },
       "artists": [
         {
-          "name": "Victor Olayeni",
-          "url": "https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR"
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 257645,
-      "name": "Kabi O Osi O",
-      "url": "https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2"
+      "duration_ms": 586443,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
     },
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
+        "name": "Onye (Here by Your Grace)",
+        "url": "https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 456000,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5Eqt1I1I5S1yWgqj1TCysK"
+      "duration_ms": 496285,
+      "name": "Onye (Here by Your Grace)",
+      "url": "https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY"
     }
   ],
   "unique_name": "On Bended Knees",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,930 songs - 6 day 6 hr 21 min
+3,931 songs - 6 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Arise](https://open.spotify.com/track/4AYpY2kqEQk4IcwsdzLlR7) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Arise](https://open.spotify.com/album/2WvCYKa6FGuFfzeumegj4e) | 2:54 | 2020-03-19 | 2020-10-23 |
 | [Armagosa](https://open.spotify.com/track/4hpVe9mtln0F74fbADIVPU) | [Heitech](https://open.spotify.com/artist/4FZqkBu4TXfyD3SqjkuK2u) | [Armagosa](https://open.spotify.com/album/6IbnNQY0GFx1V4WM49Yy09) | 2:23 | 2022-03-17 | 2022-04-21 |
 | [Arpoador](https://open.spotify.com/track/5PVJi0Z0PPqda1tneSNPnD) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Arpoador](https://open.spotify.com/album/0ptMX7Jd4VfymLTrmHyyCE) | 2:20 | 2021-05-14 | 2023-04-28 |
-| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 |  |
+| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 | 2024-01-02 |
 | [Art Clone](https://open.spotify.com/track/40KzjjmjBrdWi3qWzAnT0R) | [Jtwig](https://open.spotify.com/artist/47ZdMwDzDhjHcMNcAbl9FX) | [Unreleased](https://open.spotify.com/album/0HIvKZqhF8FnKO3yGoxPeD) | 3:32 | 2021-02-20 | 2021-06-25 |
 | [As Time Goes By](https://open.spotify.com/track/0xh8FDAOAhaUh5R090cNwR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [As Time Goes By](https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h) | 1:27 | 2022-12-22 | 2023-10-20 |
 | [AsleepInStormyWeather](https://open.spotify.com/track/2nasu1BH3DBRGs6d3nKEMl) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [AsleepInstormyweather](https://open.spotify.com/album/4cju1zfSvEnBDckIr7NHLV) | 2:10 | 2020-08-30 | 2021-02-12 |
@@ -3151,6 +3151,7 @@
 | [Sprossen](https://open.spotify.com/track/5LoVEbe9KRxbOGr41DLs5f) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg) | [Yellow Blues](https://open.spotify.com/album/6GXshu0jBOpa4DVU6t6hqB) | 2:28 | 2020-03-25 | 2020-06-05 |
 | [sprouts](https://open.spotify.com/track/0XZsFSVIhUhlzbj5et7u1C) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [sprouts](https://open.spotify.com/album/3b17giEHoAWihuqirIIVpk) | 2:42 | 2022-03-17 | 2022-04-22 |
 | [Spruce](https://open.spotify.com/track/101fiPsZxurBGcGMhNV6tK) | [Hast](https://open.spotify.com/artist/39Rgp6INOAzKOgYNdAZpir), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spruce](https://open.spotify.com/album/0W82KxZRlhszMu6RGFn5oO) | 3:14 | 2020-08-24 | 2021-04-09 |
+| [Spuma](https://open.spotify.com/track/74sjh59eGNeDJquK4eCwWA) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spuma](https://open.spotify.com/album/2cDKCAcslyWBNH0ipun9DO) | 2:02 | 2023-12-21 |  |
 | [Squeeze](https://open.spotify.com/track/7cyogt98IRn5xak0wg3NDo) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Squeeze](https://open.spotify.com/album/6R77ygYdtFU0fw1keswYOs) | 1:54 | 2023-02-23 | 2023-05-26 |
 | [Sqwueesh](https://open.spotify.com/track/7FdlAq4eDCLXCSY0Sz9PzV) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Sqwueesh](https://open.spotify.com/album/6jb3tgOZYYnk6VIvi1DArh) | 1:58 | 2020-09-18 | 2021-04-30 |
 | [St\. Johns Bridge](https://open.spotify.com/track/6fsxZbEcjTBRiM6K2JBfWQ) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn) | [Lofijazzsoul](https://open.spotify.com/album/1dHqHCHAvSIgvP1aUsKxtJ) | 2:59 | 2019-05-26\* | 2019-06-15 |

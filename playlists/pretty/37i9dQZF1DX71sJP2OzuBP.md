@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,053 likes - 105 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,059 likes - 105 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [聖誕星](https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [聖誕星](https://open.spotify.com/album/0btE4CEOFvogF0mBkIvv9p) | 3:02 |
 | 105 | [與愛無關 \(劇集《七時吉祥》自愛勇氣曲\)](https://open.spotify.com/track/0SVP6Ws01w946iBsHepY4Y) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [與愛無關](https://open.spotify.com/album/3jq3wU32NdZDqjvYqijI2V) | 3:46 |
 
-Snapshot ID: `MCwyMzRmODY2OTk2OGRiN2U5MTI5MGYxOGQwYWE0NjU3MjgzYjNjMzM2`
+Snapshot ID: `MCw1Y2RjMTg5MzBhODk1ZDI3YTFiYWI2YzY1YmYwYTlhMjJmNjZmNjEx`

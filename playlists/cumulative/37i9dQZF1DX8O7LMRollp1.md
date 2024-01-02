@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-35 songs - 2 hr 1 min
+36 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Masquerade](https://open.spotify.com/track/3qzIiJxXlWD8rkeuFtG5YO) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C) | 3:59 | 2023-07-05 | 2023-08-09 |
 | [Masquerade](https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES) | 3:59 | 2023-07-28 |  |
 | [My Memory](https://open.spotify.com/track/12b7eFXKrN0YpCZUrowr2L) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1VNrFFuQolqocGmkywk4ER) | 3:13 | 2023-07-05 | 2023-08-09 |
-| [My memory](https://open.spotify.com/track/1N5d2ytjQK25flrdxfCAQt) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis \(Original Television Soundtrack\)](https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN) | 3:13 | 2023-07-28 |  |
+| [My memory](https://open.spotify.com/track/1N5d2ytjQK25flrdxfCAQt) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis \(Original Television Soundtrack\)](https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN) | 3:13 | 2023-07-28 | 2024-01-02 |
 | [My Memory](https://open.spotify.com/track/1ScvO2wzYVWFU5JcK6KRIQ) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5XmTqXUCFzb9ttkHvg2lrC) | 3:13 | 2023-07-28 | 2023-12-30 |
+| [My Memory \(Inst.\)](https://open.spotify.com/track/4ZOfYW2n7vAeh7Zqngjzvv) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Mis ma, the goddess of revenge OST Part.2](https://open.spotify.com/album/752w5Inpj7VEfrFlEy6f1F) | 3:13 | 2023-07-28 |  |
 | [Nothing](https://open.spotify.com/track/2j2nHZ1zTKBlMUzd185e58) | [CAR](https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8), [THE GARDEN](https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4) | [Secret Mother OST Part.1](https://open.spotify.com/album/7tTBAN8l4EX2eit2QR8R5g) | 4:24 | 2023-07-28 |  |
 | [Nothing](https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH) | 4:24 | 2023-07-05 | 2024-01-01 |
 | [Nothing](https://open.spotify.com/track/70l6ayPCoOKfICNM2F3HJz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3153yH5NEVXryZjr8tfSdf) | 4:24 | 2023-07-28 | 2023-12-30 |

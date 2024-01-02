@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 992907,
+  "num_followers": 992941,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTU5MGRlM2I3ODg3YjNlYjIzZmQ1ZTc2N2QwZTE3YWY5ZDA1ZjRm",
+  "snapshot_id": "MCw0NDhkMDJhYmIyYTAzYzdmNjBiYjdkY2JmOWIzNWQwOGQ4NTYwNzRm",
   "tracks": [
     {
       "added_at": "2023-12-21 17:42:42",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
+        "name": "S\u00e9 lo Que Hicisteis",
+        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "duration_ms": 209265,
+      "name": "S\u00e9 lo Que Hicisteis",
+      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -675,22 +695,18 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "S\u00e9 lo Que Hicisteis",
-        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
       "artists": [
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 209265,
-      "name": "S\u00e9 lo Que Hicisteis",
-      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -707,22 +723,6 @@
       "duration_ms": 146763,
       "name": "Derecho a No Declarar",
       "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -771,22 +771,6 @@
       "duration_ms": 192126,
       "name": "PORTARSE MAL",
       "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -903,6 +903,42 @@
       "duration_ms": 177103,
       "name": "COMO TE QUIERO YO",
       "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -975,38 +1011,18 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+        "name": "Te echo de -",
+        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
         }
       ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Astronauta",
-        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
+      "duration_ms": 176226,
+      "name": "Te echo de -",
+      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -1023,22 +1039,6 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Te echo de -",
-        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Te echo de -",
-      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
     },
     {
       "added_at": "2023-12-21 17:42:42",

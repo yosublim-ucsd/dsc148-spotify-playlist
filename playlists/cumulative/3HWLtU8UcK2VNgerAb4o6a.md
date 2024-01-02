@@ -4,7 +4,7 @@
 
 > 
 
-135 songs - 4 hr 43 min
+136 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Figures](https://open.spotify.com/track/51qxdKU7vkNGwB2HsNHop8) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [epiphany](https://open.spotify.com/album/5OPlgjfJT4M8WNZNtOvUGB) | 1:37 | 2022-07-23 |  |
 | [Fitness \(with yvngxchris\)](https://open.spotify.com/track/5NPMXVVc19nXLub5CODLXp) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [epiphany](https://open.spotify.com/album/5OPlgjfJT4M8WNZNtOvUGB) | 1:16 | 2022-08-03 |  |
 | [fuck out my face](https://open.spotify.com/track/0D4Bq9Q5SPuvDUZXtSogDZ) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [fuck out my face](https://open.spotify.com/album/0Xl5UiWqqJL0tdU4Eai4Pn) | 1:06 | 2022-06-26 |  |
+| [Fuck The World](https://open.spotify.com/track/7d9AYBfzMRbJBuSiVvhJRn) | [FTP](https://open.spotify.com/artist/1A4mZpKoL1xtvbMTTUUAKz), [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Fuck The World](https://open.spotify.com/album/3uruLNmePN10sgkkrZ6heR) | 4:11 | 2024-01-01 |  |
 | [Fuxk Flexkult](https://open.spotify.com/track/3RGHBOk7klqXzS4S0ppzMw) | [axxturel](https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM) | [Fuxk Flexkult](https://open.spotify.com/album/6nfXtT9etQOXs8RjyMgQEt) | 1:59 | 2022-09-10 |  |
 | [gang gang lol](https://open.spotify.com/track/19dEVLzzszUl2ehxw3oUrp) | [DEEP$iDE](https://open.spotify.com/artist/4akMMDNBTGfhTYXvOSB9tA), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [gang gang lol](https://open.spotify.com/album/7AdHgdK2a0xOvRgmoGujLT) | 2:17 | 2022-07-28 |  |
 | [gang gang lol](https://open.spotify.com/track/4p48BqsRwFPuexbPYAON27) | [yadavert](https://open.spotify.com/artist/2sJMxUYlKmClAfXv5FsuR6) | [archive 1](https://open.spotify.com/album/3gNj5nYLNkzBXzZ6uQkavE) | 1:30 | 2022-05-24 |  |

@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "CODENAME",
+        "url": "https://open.spotify.com/album/6hcEYNsP3jqwJ9Zipa5jmI"
+      },
+      "artists": [
+        {
+          "name": "T33N",
+          "url": "https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U"
+        },
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "CODENAME",
+      "url": "https://open.spotify.com/track/0h8RJL6QSw0V9DOxxJtUR4"
+    },
+    {
+      "album": {
         "name": "Codename",
         "url": "https://open.spotify.com/album/4XwK75LPKPSa8Ov8bJogGE"
       },
@@ -720,7 +742,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 170704,
       "name": "Codename",
       "url": "https://open.spotify.com/track/3ANSFpNRy7eM8Kfcy4fmUC"

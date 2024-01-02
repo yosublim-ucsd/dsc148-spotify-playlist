@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-155 songs - 5 hr 21 min
+156 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,8 +144,9 @@
 | [TO MY CRUSH<3](https://open.spotify.com/track/1ZfSUYyMou1qU29TsrWycZ) | [SENPAIX](https://open.spotify.com/artist/2ruUwzwVKCQVA5iEsqC6iW) | [TO MY CRUSH <3](https://open.spotify.com/album/0153fn9zFs8emEIe5gzXEz) | 1:46 | 2023-11-20 |  |
 | [TOO MANY LINES!](https://open.spotify.com/track/7bQMD4pot56isH55H60bla) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [TOO MANY LINES!](https://open.spotify.com/album/0exOlHAprrTlkJ110QPfui) | 2:24 | 2023-11-08 |  |
 | [true perspective](https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN) | [lostrushi](https://open.spotify.com/artist/5Q2SPodgRF5DgI5Vs8y0Ve) | [true perspective](https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q) | 2:05 | 2023-07-28 | 2023-09-02 |
-| [TURN BACK P3](https://open.spotify.com/track/039D36IMlhimlh3C3491hc) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/63LHq3Lga7YpGkybxU8dXZ) | 1:01 | 2023-07-28 |  |
+| [TURN BACK P3](https://open.spotify.com/track/039D36IMlhimlh3C3491hc) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/63LHq3Lga7YpGkybxU8dXZ) | 1:01 | 2023-07-28 | 2024-01-02 |
 | [TURN BACK P3](https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/2p67Iqg2GlAj7Jmea4VTDq) | 1:01 | 2023-07-21 | 2023-08-20 |
+| [TURN BACK P3](https://open.spotify.com/track/6O88z6bsmwHaMU1oAa5c9a) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [INTRICACY](https://open.spotify.com/album/53xjwlAGc3mCNQcudDW2iw) | 1:01 | 2023-09-22 |  |
 | [U](https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr) | [axxturel](https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM) | [U](https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm) | 2:02 | 2023-09-01 | 2023-12-16 |
 | [UDNTHAVE2KNOW](https://open.spotify.com/track/1O8FFruddXtdS97wBbsbqK) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [UDNTHAVE2KNOW](https://open.spotify.com/album/2VUWjYLGWXE6cWsqY4tkXj) | 2:54 | 2023-07-21 |  |
 | [uhh p2.](https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [COME MESS WIT ME!](https://open.spotify.com/album/2NkAZGW41Rv51ABPHvKhDB) | 1:21 | 2023-07-21 | 2023-08-26 |

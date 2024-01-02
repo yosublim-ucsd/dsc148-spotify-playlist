@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 47 min
+38 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 | 2023-12-13 |  |
 | [How Can It Be](https://open.spotify.com/track/6bhlt3X3iXMs3WqPpKFpEh) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [How Can It Be](https://open.spotify.com/album/0lmDyjMsjpGmPJ5a8ABjHM) | 4:00 | 2023-12-29 |  |
 | [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/3RNcPRuujpuJPW8a3ELy9V) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 4:00 | 2023-12-13 | 2023-12-30 |
-| [In The Dark \(Interlude\)](https://open.spotify.com/track/2Dco71VHft3vxhB8RyJ95c) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 1:33 | 2023-12-13 |  |
+| [In The Dark \(Interlude\)](https://open.spotify.com/track/2Dco71VHft3vxhB8RyJ95c) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 1:33 | 2023-12-13 | 2024-01-02 |
 | [Intro](https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 1:01 | 2023-12-13 |  |
 | [Like When We Were Kids](https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:00 | 2023-12-13 |  |
 | [Lotus](https://open.spotify.com/track/1ArSn8ftfl1LScy4Z9OygM) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 3:03 | 2023-12-13 |  |
@@ -35,6 +35,7 @@
 | [Next Blue](https://open.spotify.com/track/5mUFrgd163NycUffrvBzeY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 3:08 | 2023-12-13 |  |
 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 | 2023-12-13 |  |
 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/77pFbX4IYXtmGNgImM6KjI) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/0PeRkG0U2RckOC9OOSwiAi) | 2:25 | 2023-12-13 |  |
+| [Pocket Dial](https://open.spotify.com/track/5eGQIiiRDs93YBuar7teSH) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 2:28 | 2024-01-01 |  |
 | [Right Hook](https://open.spotify.com/track/4DkHrp86nb5a2BfXy6uBOf) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 3:15 | 2023-12-13 |  |
 | [Sally \(feat\. Harrison\)](https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [United We Are](https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3) | 4:38 | 2023-12-13 |  |
 | [Selfish High Heels](https://open.spotify.com/track/4jkQZNP7o8T7xuTs9EQu7Y) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Selfish High Heels](https://open.spotify.com/album/181GktSNgR8gA0ql8LLlEa) | 3:46 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-270 songs - 15 hr 40 min
+271 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Banana Cake](https://open.spotify.com/track/364QRc0IPz7qXUuJkUElnQ) | [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [Banana Cake](https://open.spotify.com/album/4Rggj2ueRuVX3PiXry6xpY) | 1:57 | 2023-08-23 | 2023-10-28 |
 | [Bang Bang](https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Bang Bang](https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp) | 3:03 | 2022-11-17 | 2023-01-18 |
 | [Beautiful Day](https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Beautiful Day](https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I) | 3:36 | 2022-03-25 | 2022-06-30 |
-| [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-10 |  |
+| [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-10 | 2024-01-02 |
 | [Believe](https://open.spotify.com/track/0HVGQkCRvHXMPep4s59qfm) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Believe](https://open.spotify.com/album/4PAchG7DoFJpjdKR0uKi61) | 4:07 | 2022-07-29 | 2023-01-13 |
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-05-19 |  |
 | [Bloom](https://open.spotify.com/track/39lOHITmszIVH9WF4Jpbum) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 | 2022-05-27 | 2023-05-01 |
@@ -53,6 +53,7 @@
 | [Coming Home](https://open.spotify.com/track/2CA8KfuUyfM6JTqqPkpbZx) | [The Newcomers](https://open.spotify.com/artist/4WVuFszLNESVSXEDRokgMG) | [Coming Home](https://open.spotify.com/album/1uH12t5IkBn95cmGf3GalY) | 3:13 | 2023-09-29 | 2023-11-23 |
 | [Confessions of a Bipolar Mind](https://open.spotify.com/track/3rA6c03IoVVDvkIds5LtZZ) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Confessions of a Bipolar Mind](https://open.spotify.com/album/6JuxjsRiQFHQWIW4vT9tWP) | 4:38 | 2022-03-25 | 2022-05-26 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-03-25 | 2023-12-16 |
+| [Constellation](https://open.spotify.com/track/1oryjvmYyzYBvxPNX4z5mj) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 3:15 | 2023-12-15 |  |
 | [Cool Kids](https://open.spotify.com/track/02xEsJ0ynw9UuAHWluiaPd) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5Fzma3FmQTk5gzE2S7ixv7) | 2:52 | 2023-09-07 | 2023-11-25 |
 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 | 2023-12-07 |  |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2022-03-25 | 2023-09-09 |

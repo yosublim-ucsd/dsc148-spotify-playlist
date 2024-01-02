@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 47846,
+  "num_followers": 47863,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2UxNGYxNTE3NzFlOWUzYWMxZTZkODYyZGU1MzQwZGM0YjM5NmQ4",
+  "snapshot_id": "MCw4MmEwYWU4YjEyZTAxNGM4YTBlNDY3NDFhOGI4NTM5N2U4ZmVkMTgy",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -231,6 +231,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "My Woman, My Everything (feat. Wandecoal) - Single",
         "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -279,22 +295,6 @@
       "duration_ms": 225506,
       "name": "Youth Dem Cold",
       "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Don't Haffi Dread",
-        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 238550,
-      "name": "Don't Haffi Dread",
-      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Stop That Train",
         "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Don't Haffi Dread",
+        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "duration_ms": 238550,
+      "name": "Don't Haffi Dread",
+      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Half Pint",
         "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 219960,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -731,22 +747,6 @@
       "duration_ms": 234720,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
     },
     {
       "added_at": "2020-10-19 09:02:25",

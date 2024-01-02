@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-222 songs - 15 hr 2 min
+223 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 | 2021-04-16 | 2023-12-14 |
 | [Dum Dee Dum](https://open.spotify.com/track/6uwgCWzAKwA4Asu2sCVYTT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/19RQJ8kzLa4Mk3M4BF47Yd) | 3:12 | 2022-06-09 |  |
 | [Dum Dum](https://open.spotify.com/track/347PqPwZLVW9ErTUOAkUiM) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dum Dum](https://open.spotify.com/album/0yIEHxniBVU3pmpYwCudtW) | 2:01 | 2021-04-16 | 2022-11-13 |
-| [Dum Dum](https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dum Dum](https://open.spotify.com/album/4DL7wqyLEOhf6pEsuXelur) | 2:01 | 2022-06-09 |  |
+| [Dum Dum](https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dum Dum](https://open.spotify.com/album/4DL7wqyLEOhf6pEsuXelur) | 2:01 | 2022-06-09 | 2024-01-02 |
 | [Eat Sleep Rave Repeat \(feat\. Beardyman\) \- Calvin Harris Radio Edit](https://open.spotify.com/track/6gF4YXwuu1N0lJDOuMLgbU) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Beardyman](https://open.spotify.com/artist/6lITXT7V1VIC7nwlgh8ycO), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Eat Sleep Rave Repeat \(feat\. Beardyman\)](https://open.spotify.com/album/0aUExTA64dIbHjW8Ezg9iT) | 2:48 | 2021-04-16 |  |
 | [Express Yourself \(feat\. Nicky Da B\)](https://open.spotify.com/track/7s5a2gLa9Ip1LDKeAaHJRr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:37 | 2021-04-16 | 2022-11-13 |
 | [Express Yourself \- Gent & Jawns Remix](https://open.spotify.com/track/7GAaHFDe5UK3xW2ZboEEyM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi), [Gent](https://open.spotify.com/artist/1sJ3ovHFFWuLS9H8DFnTgt), [Jawns](https://open.spotify.com/artist/6ae1JJcrKInM2E4az8qoNV) | [Express Yourself \(Remixes\)](https://open.spotify.com/album/2epDBqFfD9806B77AlQTHi) | 2:51 | 2021-04-16 | 2022-07-29 |
@@ -185,6 +185,7 @@
 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/2wcujQvRCWgjKyfhMrvUMe) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/2U4BtaFdKClQtytJ6BFvn3) | 2:48 | 2022-06-09 | 2023-12-15 |
 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 | 2021-04-16 | 2023-11-16 |
 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 | 2021-04-16 | 2023-12-11 |
+| [Tell Me](https://open.spotify.com/track/5HmOTLgXEBP4cHFVeYAlhv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/6pujagLFdPvSq7wNSBzOQ6) | 4:41 | 2022-06-09 |  |
 | [Ten Feet Tall](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 3:49 | 2021-05-25 |  |
 | [The City](https://open.spotify.com/track/59iJua476fbi3PbddfPrez) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [The City](https://open.spotify.com/album/1kIkYRKKip01FVuJPoMtbR) | 3:53 | 2021-04-16 | 2023-12-18 |
 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 | 2022-06-09 | 2023-11-05 |

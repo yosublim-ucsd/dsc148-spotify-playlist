@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-103 songs - 5 hr 12 min
+104 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2023-07-14 | 2023-11-04 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 | 2023-10-20 |  |
 | [Bumsbar](https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/4EnA5a6Tq3l6tVCM7hLPgP) | 2:30 | 2023-11-14 | 2024-01-01 |
+| [Bumsbar](https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Nummer Eins](https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J) | 2:30 | 2023-12-19 |  |
 | [Bumsbar](https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny) | 2:30 | 2023-07-14 | 2023-12-08 |
 | [Can You English Please](https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Mitten in die Scheibe](https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS) | 2:47 | 2023-07-14 |  |
 | [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 | 2023-07-14 |  |
@@ -77,7 +78,7 @@
 | [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 | 2023-11-21 |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
 | [Mannschaftsfahrt](https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Malin Brown](https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA) | [Mannschaftsfahrt](https://open.spotify.com/album/55VymWungTBtByJ89fhnJD) | 2:48 | 2023-07-14 |  |
-| [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 |  |
+| [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 | 2024-01-02 |
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2023-07-14 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-14 |  |
 | [Monsta](https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Schöne Neue Welt](https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1) | 3:16 | 2023-07-14 |  |

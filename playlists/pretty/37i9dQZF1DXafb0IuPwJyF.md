@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,911 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,254 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
 | 50 | [SUPER IDOL](https://open.spotify.com/track/5Vm7eVa9fhWNAQGm5qEA6n) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [SUPER IDOL](https://open.spotify.com/album/0xlTjduEBwXJhN1roxto5H) | 3:15 |
 
-Snapshot ID: `MCxlOTFmMjViZWUxYmZjNWQ0Njg0YmU2YWIzMTI5NDQ0YzYwMjBkZWMz`
+Snapshot ID: `MCwyNTIzMWZjMzdjOWQ2Y2QwYWVhZTlhNTlkMjgzOGQ3NTgyYjVkMWY3`

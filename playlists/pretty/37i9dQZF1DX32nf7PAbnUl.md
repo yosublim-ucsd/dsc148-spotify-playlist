@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,868 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,963 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 |
 | 40 | [Caméléon](https://open.spotify.com/track/28n4yesf3IGNnsYzg6foRS) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Arès](https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL) | 3:18 |
 
-Snapshot ID: `MCwwZWExNmE0NDQ4ZDFiZWQ0NjQzOTA1ZmU4NzE3MDZiMmVlMjUwMjNm`
+Snapshot ID: `MCw0OTgwOWIyMmRmOWU3ZjM1ZGNkYzJmNThkMGI0MDJjMTU2ZmE3Mjk0`

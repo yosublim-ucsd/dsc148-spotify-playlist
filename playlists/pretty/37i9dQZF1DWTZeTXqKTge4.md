@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud x Di\-Meh
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,978 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,982 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Déçu](https://open.spotify.com/track/5oLKUybX4AmzfGk0WLBXaF) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Mort Pour Moi](https://open.spotify.com/album/3PXJLrqBJwJt834HuaqBpP) | 3:11 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCxhZTRiMTc1ODIwNmNlYzk5ZmUzYzA5YTg0NWJkZDQ4ZjIxNWJiMDEy`
+Snapshot ID: `MCw3MTA2ZDJjYWE0ZDNmYzcxZmUyYmEyZjZmMGUxYTZhYjUzYmJkZjM4`

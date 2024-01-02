@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain]
 
 > Country music that Rocks!
 
-[Harry Shaw](https://open.spotify.com/user/theharry1103) - 2 likes - 209 songs - 12 hr 19 min
+[Harry Shaw](https://open.spotify.com/user/theharry1103) - 2 likes - 210 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,5 +217,6 @@ pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain]
 | 207 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
 | 208 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 209 | [Love You Again](https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:53 |
+| 210 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 |
 
-Snapshot ID: `MjU0LDE2ZTBhZDg4NzBiM2E3OWRmN2M1YTc0ZjZjYzM1MTk3NWJjMDJkOTg=`
+Snapshot ID: `MjU1LDljNmUwMGIyZDJmYjU5MmNhMGVlYjhmM2Y2YjZlNDBlYjA4MjYzYzI=`

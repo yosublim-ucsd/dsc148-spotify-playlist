@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-505 songs - 1 day 11 hr 12 min
+506 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 | 2023-12-30 |  |
 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 | 2023-12-30 |  |
 | [Because You Loved Me \(Theme from "Up Close and Personal"\)](https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:33 | 2023-12-30 |  |
-| [Bed of Nails](https://open.spotify.com/track/5XeT9fYCeg1jYithrEni7v) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:19 | 2023-12-30 |  |
+| [Bed of Nails](https://open.spotify.com/track/0TUAVtHG24HhzxKhlMMqPV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Bed of Nails \(Video\)](https://open.spotify.com/album/4hM0ypxI8WBsmWV3iOB0uM) | 4:18 | 2024-01-01 |  |
+| [Bed of Nails](https://open.spotify.com/track/5XeT9fYCeg1jYithrEni7v) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:19 | 2023-12-30 | 2024-01-02 |
 | [Believe In Magic](https://open.spotify.com/track/3fv9ixMhMolVbjRDRPaigj) | [Maurice White](https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx) | [Maurice White](https://open.spotify.com/album/75lRlwwQSTZUDxMeG8NmxX) | 4:35 | 2023-12-30 |  |
 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 | 2023-12-30 |  |
 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 | 2023-12-30 |  |
@@ -58,8 +59,8 @@
 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 | 2023-12-30 |  |
 | [Can't Lie To My Heart](https://open.spotify.com/track/6utxJKrimJZqk19ilGHily) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [The Earth, A Small Man, His Dog And A Chicken](https://open.spotify.com/album/6EdOrosZMD99AGAFC2NxcC) | 4:40 | 2023-12-30 |  |
 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 | 2023-12-30 |  |
-| [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/0gwI5LE3kHY4xeauRCQe6R) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Can't Take That Away \(Mariah's Theme\) \[Official HD Video\]](https://open.spotify.com/album/5q89AuCnSfBOhd1DSAETKh) | 4:16 | 2023-12-31 |  |
-| [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:32 | 2023-12-30 | 2024-01-01 |
+| [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/0gwI5LE3kHY4xeauRCQe6R) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Can't Take That Away \(Mariah's Theme\) \[Official HD Video\]](https://open.spotify.com/album/5q89AuCnSfBOhd1DSAETKh) | 4:16 | 2023-12-31 | 2024-01-02 |
+| [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:32 | 2023-12-30 |  |
 | [Care Too Much](https://open.spotify.com/track/6cXFkHT00hrPD3dVfPCW9g) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [3rd Base](https://open.spotify.com/album/1BF6nTLmsnDY3gIdnMjAwz) | 4:08 | 2023-12-30 |  |
 | [Careless Heart](https://open.spotify.com/track/3LQFJ4XfUy8SqSM7vQgFqM) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 4:08 | 2023-12-30 |  |
 | [Catch My Breath](https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:38 | 2023-12-30 |  |
@@ -260,8 +261,8 @@
 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 | 2023-12-30 |  |
 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 | 2023-12-30 |  |
 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 | 2023-12-30 |  |
-| [Lonely Is The Night](https://open.spotify.com/track/7zVB6SE1nYVzBrQJfsRTWf) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lonely Is The Night](https://open.spotify.com/album/4ubPiANEbOFDcSMkBcBMuS) | 4:02 | 2023-12-30 | 2024-01-01 |
-| [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 | 2023-12-31 |  |
+| [Lonely Is The Night](https://open.spotify.com/track/7zVB6SE1nYVzBrQJfsRTWf) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lonely Is The Night](https://open.spotify.com/album/4ubPiANEbOFDcSMkBcBMuS) | 4:02 | 2023-12-30 |  |
+| [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 | 2023-12-31 | 2024-01-02 |
 | [Look Away \- 2009 Remaster](https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 4:02 | 2023-12-30 |  |
 | [Love And Understanding](https://open.spotify.com/track/07JHlVmSrvUognDYYBMkOT) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:42 | 2023-12-30 |  |
 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 | 2023-12-30 |  |

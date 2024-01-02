@@ -599,6 +599,32 @@
     },
     {
       "album": {
+        "name": "A 120",
+        "url": "https://open.spotify.com/album/1v58SvB1K2bPonNCtuxocz"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "A 120",
+      "url": "https://open.spotify.com/track/3TDQyH0HTgXtIduFCKWwlu"
+    },
+    {
+      "album": {
         "name": "A E I O U",
         "url": "https://open.spotify.com/album/7FFKk8SqqrecPAdr3xBlft"
       },
@@ -5705,6 +5731,28 @@
     },
     {
       "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB"
+      },
+      "artists": [
+        {
+          "name": "Yeisi MR",
+          "url": "https://open.spotify.com/artist/2CcLlmBb4uw7GjdZsHPiKe"
+        },
+        {
+          "name": "Paulus Music",
+          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/551Obg2zJDyWg3AigjVyeG"
+    },
+    {
+      "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/5hEiUWJ6S4X1Lm2JYkuahP"
       },
@@ -5716,7 +5764,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 143413,
       "name": "Dif\u00edcil De Reemplazar",
       "url": "https://open.spotify.com/track/1FmVaCRBb2eNOv6SBdFl6I"
@@ -9194,7 +9242,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 208000,
       "name": "HIBIKI",
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
@@ -18712,7 +18760,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 215541,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/63acuiYQbn3B382AafozBI"
@@ -22928,7 +22976,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"

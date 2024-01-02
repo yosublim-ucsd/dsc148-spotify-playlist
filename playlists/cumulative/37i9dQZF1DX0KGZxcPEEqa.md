@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-745 songs - 1 day 20 hr 33 min
+746 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [True Colors](https://open.spotify.com/track/71qR03VPn762lG8esdRmkR) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [True Colors](https://open.spotify.com/album/6eO9acZ2wp9WkhVzOHrvgJ) | 3:44 | 2021-08-10 |  |
 | [True Disaster](https://open.spotify.com/track/6s7PleW93OfE3YnujL9yxw) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:24 | 2021-08-10 |  |
 | [True Love](https://open.spotify.com/track/35hW18HrovbypDjBg1R2kw) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 3:50 | 2021-08-10 | 2022-05-12 |
-| [Trust](https://open.spotify.com/track/00IH8ZjI9ZGB51WRX1Oesj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 | 2023-12-27 |  |
+| [Trust](https://open.spotify.com/track/00IH8ZjI9ZGB51WRX1Oesj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 | 2023-12-27 | 2024-01-02 |
 | [Trust Nobody](https://open.spotify.com/track/1W8xs38XME125UPXfpVd2G) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Best Of 2017 Pop](https://open.spotify.com/album/12JrzzPK17E7V4kArOJJ32) | 3:38 | 2022-05-11 | 2022-11-14 |
 | [Trust Nobody](https://open.spotify.com/track/3RxPTqpDtIeLBKqInzYjSe) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Trust Nobody](https://open.spotify.com/album/0CcSH7OszInFXHOjVFBlNv) | 3:38 | 2021-08-10 | 2022-07-29 |
 | [Trust Nobody \(feat\. Selena Gomez & Tory Lanez\)](https://open.spotify.com/track/5qYp1Wf3gh0lGWdIS5lIrX) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 3:35 | 2022-05-11 |  |
@@ -711,6 +711,7 @@
 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 | 2022-05-11 |  |
 | [Wasting My Young Years](https://open.spotify.com/track/2HphOq9Xs5cryolUPe3MGZ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Edition\)](https://open.spotify.com/album/3Ul1pIxqd931HTDifTam4l) | 3:24 | 2021-08-10 | 2022-07-29 |
 | [Way Down](https://open.spotify.com/track/1QhIQHKL8ItLUq2nTxvsC1) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:08 | 2023-12-27 |  |
+| [We Are](https://open.spotify.com/track/1m6FkAtWVloxIRHKl7pBDP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:22 | 2023-12-27 |  |
 | [Welcome To New York](https://open.spotify.com/track/10nqz67NQWWa7XPq7ycihi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:32 | 2021-08-10 | 2022-07-29 |
 | [Welcome To New York](https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:32 | 2022-05-11 | 2023-12-02 |
 | [Welcome To New York](https://open.spotify.com/track/7aMftpNNJiQj1c2rllc8Dk) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ) | 3:32 | 2022-05-11 | 2022-11-14 |

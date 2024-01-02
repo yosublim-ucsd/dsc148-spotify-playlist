@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 33199,
+  "num_followers": 33194,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE0ODllNWI4ZWEzOGYxMWJmOWVjZjllMDQyNzZjZDI2ZjcyM2Y3",
+  "snapshot_id": "MCxkMzg5M2IyZDYxNDA5NWFhNWM4ZTFkZGNkYzY4OWFiN2M2ODU0Yjdm",
   "tracks": [
     {
       "added_at": "2023-12-27 08:22:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
-        "name": "Alle Jahre wieder",
-        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Alle Jahre wieder",
-      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
         "name": "Kinderlieder f\u00fcr den Winter - EP",
         "url": "https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 146142,
       "name": "Wann wird es Winter?",
       "url": "https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
-        "name": "Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 161698,
-      "name": "Das Lied der Wichtel",
-      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 184173,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 161698,
+      "name": "Das Lied der Wichtel",
+      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Spuren im Schnee",
-      "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 185840,
       "name": "Rudolf, das kleine Rentier",
       "url": "https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Spuren im Schnee",
+      "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Heut Nacht hat's geschneit",
+      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 156573,
       "name": "Pingpong im Dezember",
       "url": "https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Heut Nacht hat's geschneit",
-      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Schneeballschlacht",
+      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 168973,
       "name": "Winter Wunderland",
       "url": "https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Schneeballschlacht",
-      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -727,30 +727,18 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
-        "name": "Das Weihnachtsalbum Deluxe",
-        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
       "artists": [
         {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
-        },
-        {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Dominikus Weilede",
-          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Klingelingeling (feat. Dominikus Weilede)",
-      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
+      "duration_ms": 183626,
+      "name": "Der Baum ist schief",
+      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -779,6 +767,34 @@
       "duration_ms": 153207,
       "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
       "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Dominikus Weilede",
+          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Klingelingeling (feat. Dominikus Weilede)",
+      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
     },
     {
       "added_at": "2023-12-27 08:22:00",
@@ -855,38 +871,6 @@
     {
       "added_at": "2023-12-27 08:22:00",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Der Baum ist schief",
-      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
-        "name": "Lamettawetter EP",
-        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
-      },
-      "artists": [
-        {
-          "name": "Raketen Erna",
-          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "Wo ist der Schneemann?",
-      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
-    },
-    {
-      "added_at": "2023-12-27 08:22:00",
-      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 235266,
       "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
       "url": "https://open.spotify.com/track/4bkc4Gesl2A3ffbFMvtFcH"
+    },
+    {
+      "added_at": "2023-12-27 08:22:00",
+      "album": {
+        "name": "Lamettawetter EP",
+        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
+      },
+      "artists": [
+        {
+          "name": "Raketen Erna",
+          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "Wo ist der Schneemann?",
+      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
     },
     {
       "added_at": "2023-12-27 08:22:00",

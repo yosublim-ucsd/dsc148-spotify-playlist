@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
+  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Asaph",
         "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 342453,
       "name": "(73) the Nearness of You",
       "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "wearing thin (alt. version)",
+      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -927,22 +947,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
       "artists": [
         {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
         }
       ],
-      "duration_ms": 172000,
-      "name": "wearing thin (alt. version)",
-      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+      "duration_ms": 179678,
+      "name": "Lord I need You",
+      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
       "artists": [
         {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 179678,
-      "name": "Lord I need You",
-      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 60944,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Breathe My Name",
+        "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "Rachel Robinson",
+          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Breathe My Name",
+      "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 330226,
       "name": "Wilora Lake",
       "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Breathe My Name",
-        "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
-      },
-      "artists": [
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "Rachel Robinson",
-          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Breathe My Name",
-      "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 219782,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "SEVEN",
-        "url": "https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n"
-      },
-      "artists": [
-        {
-          "name": "Gamie",
-          "url": "https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "God Keep Us",
-      "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
     }
   ],
   "unique_name": "The Good Cup",

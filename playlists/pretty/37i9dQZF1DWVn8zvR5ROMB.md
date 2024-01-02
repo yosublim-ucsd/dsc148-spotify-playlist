@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Corey Kent, Wyatt Flores, Midland and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,704 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,841 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 69 | [Fireplace](https://open.spotify.com/track/2och4AMengfll17sMZD148) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Fireplace](https://open.spotify.com/album/7qxLqohVNOrnQ99Ave0jYs) | 3:28 |
 | 70 | [Like It's Your Last](https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Like It's Your Last](https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS) | 3:15 |
 
-Snapshot ID: `MCxhZGVmNDgzNjMwZTk1ZmY4MDhjYjU2NzVmMDU0OGJiODFmOTU1N2Rm`
+Snapshot ID: `MCxhOGZmZDU1NjQ3MDU1N2Q1Y2E0ZGMxNDFiMjQ3NmVjNGFjZTIxMjUw`

@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 8250,
+  "num_followers": 8248,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJmOTllZmIzZjIzZDc2ZDFmN2FlNzFjNWU5MWM5ZGY1NjU1MTcz",
+  "snapshot_id": "MCwxZTdiNWMxN2FmOGZlOTgxZjljYjk5NDlmMjFkN2M1NWRkZWZiZjFm",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "A Very Special Christmas - Essential",
         "url": "https://open.spotify.com/album/3PFnE9aYFIxWzI1INS7lY6"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 272226,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -755,38 +755,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Sessions 1967-1975 - Rarities from The RCA Albums Collection",
-        "url": "https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Snow - Alternate Version",
-      "url": "https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Grown-Up Christmas List",
-      "url": "https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Christmas with The Jackson 5",
         "url": "https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 161493,
       "name": "It Won't Be Long 'Til Christmas - Bonus Track / 2015 Mix",
       "url": "https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Sessions 1967-1975 - Rarities from The RCA Albums Collection",
+        "url": "https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "Snow - Alternate Version",
+      "url": "https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn"
     }
   ],
   "unique_name": "Christmas Dinner",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,551 songs - 4 day 10 hr 49 min
+1,552 songs - 4 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,7 +922,7 @@
 | [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-09-08 | 2023-09-13 |
 | [My Beautiful Blue Sky](https://open.spotify.com/track/1GCpvGwduaJ8uDelrJAcLL) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient](https://open.spotify.com/album/5mq5dYBCJO9AfSTylR2v6b) | 5:19 | 2020-05-24 | 2020-10-09 |
 | [My Breath](https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [My Breath](https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs) | 3:01 | 2021-02-19 | 2022-12-29 |
-| [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 |  |
+| [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 | 2024-01-02 |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |
@@ -1118,6 +1118,7 @@
 | [Reflections \- Remix](https://open.spotify.com/track/7vQIsKOc00SI0iMcBHXTLx) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Reflections \(Remix\)](https://open.spotify.com/album/5cCo5LJLMOmXXuzP3l6I2d) | 3:26 | 2020-11-13 | 2022-06-30 |
 | [Regulate \- Le Boeuf Remix](https://open.spotify.com/track/6RBsFW2PBiJtCYZmNpia5G) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH) | [Remix The Classics \(Vol\. 4\)](https://open.spotify.com/album/5HE2LhFUMTw1KhwY2x0O5y) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Release Me](https://open.spotify.com/track/2m9qRdqlX38yroyuxGGMO1) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Release Me](https://open.spotify.com/album/0zHIyoBJzQB660qQH56vvF) | 3:21 | 2020-03-17 | 2021-01-11 |
+| [Remedy](https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Remedy](https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y) | 3:45 | 2023-12-26 |  |
 | [Remember](https://open.spotify.com/track/6t5lCWTxrhsoywm036wSnh) | [Chris Reece](https://open.spotify.com/artist/20W9qrrJck1qZCsAhiaiuG) | [Remember](https://open.spotify.com/album/53rOKnrWWQPczovOPrt4E5) | 3:22 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/5PeeJXPGTkXJE2Xlc2fUEd) | [eleven.five](https://open.spotify.com/artist/5atbRrm6m3IMXYe5SOPCs1), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV) | [Remember](https://open.spotify.com/album/5SGNyaPoJB9uvDWp4fWcwF) | 4:33 | 2020-05-18 | 2021-01-11 |
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2020-02-29\* | 2020-03-16 |

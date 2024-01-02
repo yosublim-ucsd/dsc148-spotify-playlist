@@ -1,12 +1,12 @@
 {
   "description": "my intrusive thoughts \ud83e\udd1d this playlist. para esas horas nost\u00e1lgicas & melanc\u00f3licas de la noche.",
-  "num_followers": 8025,
+  "num_followers": 8044,
   "original_name": "de madrugada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTk0NDg3OTMzOTM2NTZhNTRkZTk2MjVhZjlkM2ZiZWY1MDNjYWNl",
+  "snapshot_id": "MCw5NmNmOThlODJlNzJmNGI2YTM3OTMwZGZkODE0YTdjZTllZDQyNTMz",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Crecer",
-        "url": "https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg"
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Crecer",
-      "url": "https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I"
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+        "name": "Crecer",
+        "url": "https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
+      "duration_ms": 217573,
+      "name": "Crecer",
+      "url": "https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 299550,
-      "name": "Discreci\u00f3n",
-      "url": "https://open.spotify.com/track/18nowS51G3slipQrcRH4bt"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "diamante$ + espina$",
         "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 299550,
+      "name": "Discreci\u00f3n",
+      "url": "https://open.spotify.com/track/18nowS51G3slipQrcRH4bt"
     }
   ],
   "unique_name": "de madrugada",

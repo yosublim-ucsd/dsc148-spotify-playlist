@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Glockoma 2",
+        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/04nN9vTH0g61TjyrM0nK2c"
+    },
+    {
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s"
       },
@@ -2246,6 +2264,24 @@
       "duration_ms": 442106,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107266,
+      "name": "Fear and Friday's (Poem)",
+      "url": "https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ"
     },
     {
       "album": {
@@ -2862,10 +2898,28 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 95240,
       "name": "Hot Rotten Grass Smell",
       "url": "https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY"
+    },
+    {
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "album": {
@@ -4663,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Pay Your Way In Pain",
+      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
+    },
+    {
+      "album": {
         "name": "UR FUN",
         "url": "https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH"
       },
@@ -5082,7 +5154,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 62880,
       "name": "recognized",
       "url": "https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b"
@@ -5143,6 +5215,42 @@
     },
     {
       "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
+    },
+    {
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
+    },
+    {
+      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -5198,6 +5306,24 @@
       "duration_ms": 209866,
       "name": "Robert",
       "url": "https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323240,
+      "name": "Rock 'n' Roll Star",
+      "url": "https://open.spotify.com/track/17z8eLCkciVamEqXJS6Ri8"
     },
     {
       "album": {
@@ -6399,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221234,
+      "name": "The Long Run - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r"
+    },
+    {
+      "album": {
         "name": "Ways of Knowing",
         "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
       },
@@ -6525,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "B-Room (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YfNZx0s2EdfINsSoxqDe8"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266013,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1Zjjl59MPvGqR5msmQexs3"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
       },
@@ -6540,6 +6702,24 @@
       "duration_ms": 222946,
       "name": "The View From The Afternoon",
       "url": "https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w"
+    },
+    {
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149466,
+      "name": "Them Bones (2022 Remaster)",
+      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
     },
     {
       "album": {
@@ -6820,6 +7000,24 @@
       "duration_ms": 46213,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS"
+    },
+    {
+      "album": {
+        "name": "Ice Melt",
+        "url": "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/16dOZA7Rvb0H14R1E04WyR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 17338,
+  "num_followers": 17345,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGQ4YTYyNmNmYWM5OTEyZDQ5YzNiMWU1NzkzNmIyZmIwYmE2ZWIy",
+  "snapshot_id": "MCwxYWZiODRlMGFlM2Q2ZWE2ZmYwYzYxMzI5NzFlZjI5ZjRhYTYzNDU0",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -687,6 +687,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Sufferin' Mind",
         "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 193560,
       "name": "Hideaway - Mono",
       "url": "https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2020-05-03 08:57:28",

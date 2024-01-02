@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-323 songs - 17 hr 48 min
+324 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-11-19 | 2022-01-08 |
 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-05-26 | 2023-08-19 |
 | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp) | 4:24 | 2021-11-19 | 2023-04-29 |
+| [Shift](https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Shift](https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP) | 3:13 | 2023-12-15 |  |
 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 | 2022-07-08 | 2023-10-08 |
 | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/track/17KR2xwfXqLDwfibhi7zqZ) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Scrilla King](https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx) | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/album/4yTtHpTvbQAEXntoWjASSL) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/track/4o6VZA8EusQrSSEs8dlcB9) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Scrilla King](https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:51 | 2022-01-07 | 2022-07-29 |
@@ -312,7 +313,7 @@
 | [Underside](https://open.spotify.com/track/3uYVpgs8C0PFVV8DD4QCX6) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Hypogeal](https://open.spotify.com/album/7ze94wo3XfJSPTKDM5nchQ) | 2:09 | 2021-11-19 | 2022-01-08 |
 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 | 2021-11-19 | 2023-07-15 |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-25 | 2023-03-30 |
-| [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 |  |
+| [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 | 2024-01-02 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-11-19 |  |
 | [Voices](https://open.spotify.com/track/18nlBFTGNLAXhLfWoETAj9) | [ZÍA](https://open.spotify.com/artist/0sjnUg1Bv9J3WQ3inGpQRq) | [Voices](https://open.spotify.com/album/65LsQV7JR47jM58qvqrSfc) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [VSOP](https://open.spotify.com/track/6ghSZLNbLKVwmSgD9b9y1Y) | [BLVCKLIST](https://open.spotify.com/artist/7vu9ZhIxgYWTSSdqBsFNXf), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe), [Navii](https://open.spotify.com/artist/7rYrupDve9b3EXzS3VObTB) | [VSOP](https://open.spotify.com/album/5EG1X734YgkEsrUnJWOtS5) | 3:17 | 2021-11-19 | 2022-01-08 |

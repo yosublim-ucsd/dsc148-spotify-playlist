@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/7D0M9iVc5ayttzlJ4CODDj"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 153426,
       "name": "Another Day's Journey",
       "url": "https://open.spotify.com/track/0M4MNjhaNVOpk5H3UFZK1e"
@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "Inspirational Project",
+        "url": "https://open.spotify.com/album/65u1g8GkzNCp5qIwTCy6dd"
+      },
+      "artists": [
+        {
+          "name": "Keith Wonderboy Johnson",
+          "url": "https://open.spotify.com/artist/2DueTnHVGO5j6yZvfj3Xyy"
+        },
+        {
+          "name": "Josh Myles",
+          "url": "https://open.spotify.com/artist/1B9rnrQ7PD7At59QbGj7Hr"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236721,
+      "name": "Believe in Yourself",
+      "url": "https://open.spotify.com/track/7r7kv6Iel6zWiJQJqU8KhJ"
+    },
+    {
+      "album": {
         "name": "The Wiz",
         "url": "https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y"
       },
@@ -1556,7 +1578,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 189091,
       "name": "Bless Up",
       "url": "https://open.spotify.com/track/4AwbwpzKCSevYnnnCusSz8"
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 317200,
       "name": "Created to Worship",
       "url": "https://open.spotify.com/track/59VATguh48xTrK0MbieKIa"
@@ -2596,7 +2618,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 237558,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/5OdF9NAO3BZw2DuYwnPjEu"
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Early",
       "url": "https://open.spotify.com/track/23zb3xPx7tgqFKdBBD0zRK"
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 157825,
       "name": "For the Truth",
       "url": "https://open.spotify.com/track/7D2LzBfNMB6aL1t5IR16M3"
@@ -3986,7 +4008,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 116749,
       "name": "Future Forever",
       "url": "https://open.spotify.com/track/0Ol5icsjD5XMt2tTV8Td2F"
@@ -4768,7 +4790,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 232232,
       "name": "Good & Loved (feat. DOE) - Stellars 2020",
       "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
@@ -4956,7 +4978,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 310892,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/3alO2TJ8IFoLbc79G3wpMV"
@@ -5090,7 +5112,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 296626,
       "name": "Heard a Word",
       "url": "https://open.spotify.com/track/63SjWAAlHJSsGVahZRGMfa"
@@ -6250,7 +6272,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 288253,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/6QPvpe1V68qwu90iCjGFkS"
@@ -6738,7 +6760,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 287650,
       "name": "I Hear Rain - Live",
       "url": "https://open.spotify.com/track/7eoglSxP1WNdzGUUpUrvSx"
@@ -6774,7 +6796,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -6984,7 +7006,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 251466,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
@@ -7524,7 +7546,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -7600,7 +7622,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 356573,
       "name": "I'll Praise",
       "url": "https://open.spotify.com/track/7wkJJPm4cJnevULnXYJhJm"
@@ -8914,7 +8936,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 262680,
       "name": "Jesus Will Work It Out",
       "url": "https://open.spotify.com/track/6UVPVY3eJL5eNYdUpXsC1t"
@@ -9230,6 +9252,24 @@
       "duration_ms": 249777,
       "name": "Just Like God - Live",
       "url": "https://open.spotify.com/track/7GcTGTbqLsw0lh5bUxqO36"
+    },
+    {
+      "album": {
+        "name": "Let's Come Together (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UQCOKIT56ZtC6psjOkM4C"
+      },
+      "artists": [
+        {
+          "name": "Kevin LeVar & One Sound",
+          "url": "https://open.spotify.com/artist/3HOKc357yCWVEJddlHLGbI"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265986,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/5u5m2ZKc285MMSi2e5JZzl"
     },
     {
       "album": {
@@ -10038,7 +10078,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 325826,
       "name": "Lord Do It",
       "url": "https://open.spotify.com/track/5HeEJbaS7V9Ft7gfq8uRGi"
@@ -10650,7 +10690,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 149816,
       "name": "Make Me Over",
       "url": "https://open.spotify.com/track/3aBxpORyAIJSpsXifv0JTy"
@@ -11286,7 +11326,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 290840,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/2MtAz3G4DXpy4iQIFqMtOJ"
@@ -12258,7 +12298,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 234960,
       "name": "Oh It Is Jesus (feat. Blanche McAllister-Dykes)",
       "url": "https://open.spotify.com/track/6GgDJ50LcdMI4bH38Hckc7"
@@ -12280,7 +12320,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 278453,
       "name": "Oh Lord How Excellent Is Thy Name",
       "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
@@ -12316,7 +12356,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 320758,
       "name": "Oh Lord, How Excellent - The Almighty Reigns",
       "url": "https://open.spotify.com/track/3jCRqfJdMnS5xTVpMXFo4B"
@@ -12636,6 +12676,24 @@
       "duration_ms": 253293,
       "name": "Ooh Wee Another Blessing",
       "url": "https://open.spotify.com/track/1Vcd5l3LJaQetYzBCCMT0n"
+    },
+    {
+      "album": {
+        "name": "TIME (Truth Is My Energy)",
+        "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188879,
+      "name": "Open Door Season",
+      "url": "https://open.spotify.com/track/2ijUlXAgDixEHLCW5o2i06"
     },
     {
       "album": {
@@ -13214,7 +13272,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 228737,
       "name": "Pray",
       "url": "https://open.spotify.com/track/23GnqGCktBpbIjytadeY0B"
@@ -13700,7 +13758,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 312424,
       "name": "Ride on King Jesus",
       "url": "https://open.spotify.com/track/6xuGvy7xMqMMsI0Zk8EMap"
@@ -13736,7 +13794,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 155186,
       "name": "Rock of Ages",
       "url": "https://open.spotify.com/track/5I5EB7h4gC21ceQ8AKOPb8"
@@ -14138,7 +14196,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 234026,
       "name": "Shackles",
       "url": "https://open.spotify.com/track/61ZMYyPyd9wfTErVyaYaIF"
@@ -14800,7 +14858,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 293253,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/3IUvdsPAW6kaYfh7V2waek"
@@ -14912,7 +14970,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 204438,
       "name": "Start from Scratch",
       "url": "https://open.spotify.com/track/5kjwSFPqfGY0K54G7fAsCd"
@@ -15028,7 +15086,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 116591,
       "name": "Stillness (Motivation)",
       "url": "https://open.spotify.com/track/0nF43bYmLw1S52Y2jmYmns"
@@ -15118,7 +15176,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 253625,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
@@ -15602,7 +15660,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 270367,
       "name": "The Best Day of My Life",
       "url": "https://open.spotify.com/track/2tCeJtxgpzRZ0IGJS2jP6k"
@@ -16434,7 +16492,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 294429,
       "name": "There Is Nothing Too Hard - Confessions Album Version",
       "url": "https://open.spotify.com/track/18Yb3UpPQuOq258C84WWBv"
@@ -17237,6 +17295,24 @@
     },
     {
       "album": {
+        "name": "War Cry",
+        "url": "https://open.spotify.com/album/1xktvihkfv2wpitFVxTPJ4"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306309,
+      "name": "War Cry",
+      "url": "https://open.spotify.com/track/6fl6APmdlrfy1SBSYYX8jm"
+    },
+    {
+      "album": {
         "name": "The Evolution - EP",
         "url": "https://open.spotify.com/album/2BHjsxJheohjmWAjgamUP6"
       },
@@ -17502,7 +17578,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 342726,
       "name": "What He's Done for Me",
       "url": "https://open.spotify.com/track/1sVYY8VLcmJp3zUznMPaDl"
@@ -17650,7 +17726,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 176193,
       "name": "When The Saints Go To Worship - Live",
       "url": "https://open.spotify.com/track/7Co7aixEBSghbiZj7Zkthw"
@@ -17870,7 +17946,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 179693,
       "name": "Won't Be Moved",
       "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
@@ -17892,7 +17968,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 209653,
       "name": "Won't He Do It (feat. Roshon Fegan)",
       "url": "https://open.spotify.com/track/2L8DCqob873E6Q6MEbzDQn"
@@ -18040,7 +18116,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
@@ -18174,7 +18250,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 179606,
       "name": "You",
       "url": "https://open.spotify.com/track/75upHykYcuqXRgW68ugcuH"
@@ -18318,7 +18394,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 142656,
       "name": "You Are Worthy (Motivation)",
       "url": "https://open.spotify.com/track/5eP7jix7drzYh4xFEjvmfZ"

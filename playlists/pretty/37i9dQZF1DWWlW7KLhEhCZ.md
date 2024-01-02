@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,376 likes - 78 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,416 likes - 78 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 77 | [Lucros](https://open.spotify.com/track/0tkrKLhu6L00nxbfYq3qYH) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G), [Duarte D.A.T](https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM), [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg) | [Lucros](https://open.spotify.com/album/3OX21AX4IzunltSlTOOqAU) | 3:08 |
 | 78 | [Tudo Vai Passar](https://open.spotify.com/track/6zM1Wxa5WJe1gd2Uuf7QJF) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Tudo Vai Passar](https://open.spotify.com/album/2zX2o48wMSqtibPGQUtPfI) | 2:33 |
 
-Snapshot ID: `MCw0N2Q3MmViNDkyYzMxNzQxNTgzZjcxOTBjZDY4MGI0MTJjODhkNzkx`
+Snapshot ID: `MCw3NTFiNWU5ODQ5OGE3NTI4YjE4YjMwYzY4ZWJhZDJjMmJlYzBlZDY2`

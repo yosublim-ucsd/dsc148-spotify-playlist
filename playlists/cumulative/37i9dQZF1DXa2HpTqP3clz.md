@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-500 songs - 1 day 5 hr 56 min
+501 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Hope You Hang Around](https://open.spotify.com/track/6DDOFj28fEmVOBC4RrtTqi) | [Maddie Denton](https://open.spotify.com/artist/2VWdN1zfWmZuG7dK7EgSaF), [James Kee](https://open.spotify.com/artist/081gIx8mUDlpJqrYq1Xmk8) | [Hope You Hang Around](https://open.spotify.com/album/2ghP3tKOIQEpdKwik2q2Rz) | 3:52 | 2021-12-17 | 2022-07-11 |
 | [How Do You Know?](https://open.spotify.com/track/1lbWWjbEQsnbERCHRTsekV) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/1KgFumBjY2NoJBASoLt4Ww) | 3:58 | 2022-03-25 | 2022-07-26 |
 | [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 | 2022-09-03 |
+| [How It Ends](https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:19 | 2023-11-24 |  |
 | [Hummingbird](https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Hummingbird](https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e) | 3:45 | 2022-07-15 | 2022-08-30 |
 | [I Am the River Wild](https://open.spotify.com/track/3HNTb1lNI3mkynvKFPynWE) | [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [River Wild](https://open.spotify.com/album/7Bbg0C1LQvaIQc3PpELsL6) | 4:27 | 2022-03-25 | 2022-07-08 |
 | [I Call Her Sunshine](https://open.spotify.com/track/4MthZhAN8rpEhf7kzdDeSM) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/6WA5xRfslGXUYeytafpyeZ) | 2:53 | 2023-10-27 | 2023-12-23 |
@@ -252,7 +253,7 @@
 | [Little Secret](https://open.spotify.com/track/1IgkAf46sgDipKF1VpEWUC) | [The Alex Leach Band](https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC) | [Little Secret](https://open.spotify.com/album/7gYbhoBdr8S47xllxyAHGA) | 3:03 | 2022-04-29 | 2022-07-12 |
 | [Live the Dream](https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Live the Dream](https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS) | 2:52 | 2022-08-11 | 2023-08-12 |
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-12-17 |  |
-| [Lonesome State Of Mind](https://open.spotify.com/track/6Ve06auIooixlCcp145XKp) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Lonesome State Of Mind](https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo) | 2:23 | 2023-11-24 |  |
+| [Lonesome State Of Mind](https://open.spotify.com/track/6Ve06auIooixlCcp145XKp) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Lonesome State Of Mind](https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo) | 2:23 | 2023-11-24 | 2024-01-02 |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
 | [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2021-12-17 |  |
 | [Lookout Mountain](https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Lookout Mountain](https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp) | 3:48 | 2022-02-11 | 2022-06-01 |

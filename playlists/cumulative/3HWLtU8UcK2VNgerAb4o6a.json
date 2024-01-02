@@ -923,6 +923,36 @@
     },
     {
       "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3uruLNmePN10sgkkrZ6heR"
+      },
+      "artists": [
+        {
+          "name": "FTP",
+          "url": "https://open.spotify.com/artist/1A4mZpKoL1xtvbMTTUUAKz"
+        },
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        },
+        {
+          "name": "Hackle",
+          "url": "https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "Fuck The World",
+      "url": "https://open.spotify.com/track/7d9AYBfzMRbJBuSiVvhJRn"
+    },
+    {
+      "album": {
         "name": "Fuxk Flexkult",
         "url": "https://open.spotify.com/album/6nfXtT9etQOXs8RjyMgQEt"
       },

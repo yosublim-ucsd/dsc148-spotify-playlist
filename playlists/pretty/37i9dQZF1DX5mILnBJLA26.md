@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=17R\-DXikTKmMRdckBlAi\-A">DJ Maphorisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,052 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,980 likes - 70 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 69 | [Howa You \(feat\. Myztro & Xduppy\)](https://open.spotify.com/track/57T2jbt9nqR6VCeOH72wuG) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Howa You \(feat\. Myztro & Xduppy\)](https://open.spotify.com/album/1Rej0ihnB0XxVKIizFelcL) | 5:56 |
 | 70 | [Gojasi](https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow) | [Musical Jazz](https://open.spotify.com/artist/3khoe9PeLSPw1Q0db4TpWW), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Kgocee](https://open.spotify.com/artist/4iy6CMH93Yek4eDd5KlxEy), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD) | [Gojasi](https://open.spotify.com/album/1Ka5oUqNMuSUVbZmQmSUMf) | 7:09 |
 
-Snapshot ID: `MCw4MTQwYmUyZjRlNjY3OGRkOGM3ZDFiNjVlYzg4MDYwNGRjMjRhYTVm`
+Snapshot ID: `MCwwZjI1NDAyOGRmOGZkODU4OGQ1Mjg5YjU2ZTYyYjAyZDBlNjVmMzU0`

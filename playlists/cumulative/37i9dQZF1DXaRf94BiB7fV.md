@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-1,022 songs - 2 day 12 hr 12 min
+1,023 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-09 | 2022-02-24 |
 | [Intezaar](https://open.spotify.com/track/7xPMTmVKVCNn02Th3K7XIg) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Intezaar](https://open.spotify.com/album/085KfJVWXHmk0CyPtau9Ro) | 4:35 | 2022-02-23 | 2022-03-17 |
 | [Intezaar](https://open.spotify.com/track/0xPcofTjKnu2qxBoetfMDv) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Intezaar](https://open.spotify.com/album/1sjfUYOF4tfYNlve1nJZRu) | 3:28 | 2022-01-12 | 2023-01-12 |
-| [Intezaar](https://open.spotify.com/track/3Ie3WaIFZ9iz4NGFUwfglW) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Intezaar](https://open.spotify.com/album/2EtuqO9V0PjIFsY4VHw61p) | 4:25 | 2023-01-11 |  |
+| [Intezaar](https://open.spotify.com/track/3Ie3WaIFZ9iz4NGFUwfglW) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Intezaar](https://open.spotify.com/album/2EtuqO9V0PjIFsY4VHw61p) | 4:25 | 2023-01-11 | 2024-01-02 |
+| [Intezaar](https://open.spotify.com/track/3l5fu20cN3ZvPzStp1g8om) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Intezaar](https://open.spotify.com/album/19K9QVjB2uxnzyOWie2iwC) | 4:25 | 2023-11-29 |  |
 | [INTEZAAR](https://open.spotify.com/track/7HJvGtVm4R16W8W5h6yrQk) | [Utkarsh Saxena](https://open.spotify.com/artist/1VbHrnZwehHZ0oBMRhagtW), [Himani Sahani](https://open.spotify.com/artist/6skdme3084KmmimNVxPG4M) | [INTEZAAR](https://open.spotify.com/album/5BzxIBLcbaeraglerHy3WD) | 4:01 | 2022-01-19 | 2022-01-24 |
 | [Ishaare](https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv) | [Shirish](https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV) | [Ishaare](https://open.spotify.com/album/4ZnaQqu6NwYdTeE5uRltsE) | 2:55 | 2023-09-27 | 2023-11-30 |
 | [Ishqaan](https://open.spotify.com/track/4r1pAjnFVIftR2u8dyJz50) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Sharanya](https://open.spotify.com/artist/72iSmlxABEfirFnpjKJIsc) | [Ishqaan](https://open.spotify.com/album/0JwTQlwvtAxHXndre1dYC7) | 3:30 | 2023-05-24 | 2023-08-31 |

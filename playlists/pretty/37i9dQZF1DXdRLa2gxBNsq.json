@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 101789,
+  "num_followers": 101808,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzI4NjZlYTRjM2VhYWY3YmVmMDJhNmYwY2U1NTQxMTk1ZmFmYmMw",
+  "snapshot_id": "MCwwYzNhY2E2YmNkYzg4YjMwMmVlYTE4OTk5YzJjNDgyNGRhMWMxYTQ3",
   "tracks": [
     {
       "added_at": "2023-12-28 22:59:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Dif\u00edcil Ser Humano",
-        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
-      },
-      "artists": [
-        {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "El Pais de Alicia",
-      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "La Nueva Mayor\u00eda",
         "url": "https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr"
       },
@@ -135,6 +119,38 @@
       "duration_ms": 88386,
       "name": "No Komas Keso en Exzeso",
       "url": "https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Dif\u00edcil Ser Humano",
+        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
+      },
+      "artists": [
+        {
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+        }
+      ],
+      "duration_ms": 183635,
+      "name": "El Pais de Alicia",
+      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -155,22 +171,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Porsupuest\u00f3n",
-        "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Mil Historias",
-      "url": "https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "A Mi Manera, Vol. 2 (Leyendas de un Desconocido)",
         "url": "https://open.spotify.com/album/2AdGLqWCfeJb4a5JQoVe6C"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "Porsupuest\u00f3n",
+        "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+      "duration_ms": 220693,
+      "name": "Mil Historias",
+      "url": "https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Cuando las Bocas Comen Silencio",
-        "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
+        "name": "N.S.A. La Santa Familia",
+        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
       },
       "artists": [
         {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Da\u00f1os Colaterales",
-      "url": "https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ"
+      "duration_ms": 313946,
+      "name": "El Espiritu del Oi!",
+      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+        "name": "Cuando las Bocas Comen Silencio",
+        "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 163840,
+      "name": "Da\u00f1os Colaterales",
+      "url": "https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -423,6 +423,22 @@
       "duration_ms": 295746,
       "name": "A.c.a.b.",
       "url": "https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "N.S.A. La Santa Familia",
-        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
-      },
-      "artists": [
-        {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "El Espiritu del Oi!",
-      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Un, Dos, Tres, Fuego",
         "url": "https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056"
       },
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Hace Falta...?",
+        "url": "https://open.spotify.com/album/36inCQFaYW4STvviECaxUR"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Locura",
+      "url": "https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Raska Y Pierde",
         "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Hace Falta...?",
-        "url": "https://open.spotify.com/album/36inCQFaYW4STvviECaxUR"
+        "name": "Criatura",
+        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
       },
       "artists": [
         {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La Locura",
-      "url": "https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf"
+      "duration_ms": 159642,
+      "name": "Criatura",
+      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -699,22 +715,6 @@
       "duration_ms": 177866,
       "name": "Nunca Pasa Nada",
       "url": "https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Criatura",
-        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
-      },
-      "artists": [
-        {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Criatura",
-      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 194192,
       "name": "El Mes\u00edas",
       "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Intereses Creados",
         "url": "https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Camela or Die 2.0",
+        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "Camela or Die 2.0",
+      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Camela or Die 2.0",
-        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "Camela or Die 2.0",
-      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
     },
     {
       "added_at": "2023-12-28 22:59:00",

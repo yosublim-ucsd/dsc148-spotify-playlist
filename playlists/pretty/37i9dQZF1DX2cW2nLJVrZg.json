@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 264265,
+  "num_followers": 264250,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjgzM2Y2ZWRmNWFlNDViZTQ0ZThkODI5MWVhYzZiYjc0Yzc0OWRk",
+  "snapshot_id": "MCxhODE3MmJjOGNjNWFiMTZhNmRhODYzODY4Yjk0Mjc2Yjc3NTE5ZjJi",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
         "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 272727,
       "name": "Glory (From the Motion Picture Selma)",
       "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
-        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Judas and the Black Messiah",
-          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Rocketman (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Greatest Hits: The Road Less Traveled",
-        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "I Need To Wake Up",
-      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 200160,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Father Comes Home",
+      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Greatest Hits: The Road Less Traveled",
+        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "I Need To Wake Up",
+      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -991,22 +1007,6 @@
       "duration_ms": 319346,
       "name": "Jai Ho",
       "url": "https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "Little Women (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Father Comes Home",
-      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
     }
   ],
   "unique_name": "Hollywood's Big Night",

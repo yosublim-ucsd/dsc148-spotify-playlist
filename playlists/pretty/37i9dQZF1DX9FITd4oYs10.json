@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17670,
+  "num_followers": 17671,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWEwNjc4MzUwMzg5YTRjODRkZDI1NWY5ZWE3N2JkNjkyZjliZTQ0",
+  "snapshot_id": "MCw1MWQ1ZjExYzI4NjE3NGI5ZGZkMDMzMzU5ZmRjZTcyOGRmMjNhYmU4",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Abaixo de Zero: Hello Hell",
-        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177077,
-      "name": "Vai Baby",
-      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 303560,
       "name": "Vida Loka, Pt. 1",
       "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Abaixo de Zero: Hello Hell",
+        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177077,
+      "name": "Vai Baby",
+      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Desorientado Sem Cortes",
-        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Vida Longa, Mundo Pequeno",
-      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
         "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Desorientado Sem Cortes",
+        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Vida Longa, Mundo Pequeno",
+      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Caro Vapor / Vida e Veneno de Don L",
         "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
       },
@@ -695,6 +695,30 @@
       "duration_ms": 229889,
       "name": "Beira de Piscina (Remix)",
       "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -759,30 +783,6 @@
       "duration_ms": 251050,
       "name": "Rap, Cerva, Erva e Muita Larica",
       "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 232191,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-12-29 03:00:00",

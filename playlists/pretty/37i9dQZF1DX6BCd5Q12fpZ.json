@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65820,
+  "num_followers": 65818,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx",
+  "snapshot_id": "MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Bucks Fizz",
+        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+      },
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Only Teardrops",
         "url": "https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp"
       },
@@ -331,6 +347,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Love Me, Please Love Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
+      },
+      "artists": [
+        {
+          "name": "Sandie Shaw",
+          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Puppet On A String",
+      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 172152,
       "name": "Rhythm Inside",
       "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Love Me, Please Love Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
-      },
-      "artists": [
-        {
-          "name": "Sandie Shaw",
-          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Puppet On A String",
-      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Bucks Fizz",
-        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
-      },
-      "artists": [
-        {
-          "name": "Bucks Fizz",
-          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "Making Your Mind Up",
-      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "La La Love",
+        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "La La Love",
+      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Hits chanson fran\u00e7aise",
         "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
       },
@@ -615,38 +631,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Hold Me Closer (Eurovision Version)",
-        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Hold Me Closer - Eurovision Version",
-      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "La La Love",
-        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "La La Love",
-      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "La Det Swinge",
         "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 173960,
       "name": "La Det Swinge",
       "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Hold Me Closer (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Hold Me Closer - Eurovision Version",
+      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
-        "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
-      },
-      "artists": [
-        {
-          "name": "Poli Genova",
-          "url": "https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
-      "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Sexuality",
         "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188853,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
+        "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
+      },
+      "artists": [
+        {
+          "name": "Poli Genova",
+          "url": "https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
+      "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
-      },
-      "artists": [
-        {
-          "name": "Saara Aalto",
-          "url": "https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Sahara Euro Edition",
         "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180386,
       "name": "Yassou Maria",
       "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
+      },
+      "artists": [
+        {
+          "name": "Saara Aalto",
+          "url": "https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Among The Suns",
         "url": "https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 183640,
       "name": "My Star",
       "url": "https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     }
   ],
   "unique_name": "Eurovision Party",

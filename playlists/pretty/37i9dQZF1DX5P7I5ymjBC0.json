@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 67497,
+  "num_followers": 67522,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjE1MTg4ZWFlMDE2YTAyMWZkYjY4ZmZjYWNjYjFlZjk1YWFjMThl",
+  "snapshot_id": "MCxmZWZjNDk4ODk1YTI5ODA0NTliZWVkY2NkMGQ4MDM3NWNiNDY2MDcx",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -379,6 +379,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -391,22 +415,6 @@
       "duration_ms": 163071,
       "name": "Chanakya",
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Paniya",
-        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 190128,
-      "name": "Dil Mein Ab",
-      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -431,26 +439,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
         }
       ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
-      },
-      "artists": [
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
-        },
-        {
-          "name": "Shafqat Ali Khan",
-          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
-        }
-      ],
-      "duration_ms": 440999,
-      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Shafqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
+        }
+      ],
+      "duration_ms": 440999,
+      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -559,6 +559,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Songs Of Trance 2",
+        "url": "https://open.spotify.com/album/69srnla8mtjwCtXGfIKSpA"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Shariyat-E-Dil",
+      "url": "https://open.spotify.com/track/4TARoWsUnQJEFkvEeHcRuW"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Raghupati",
         "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
@@ -595,26 +619,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Songs Of Trance 2",
-        "url": "https://open.spotify.com/album/69srnla8mtjwCtXGfIKSpA"
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        },
-        {
-          "name": "Rupali Moghe",
-          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Shariyat-E-Dil",
-      "url": "https://open.spotify.com/track/4TARoWsUnQJEFkvEeHcRuW"
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -635,22 +651,6 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Ab Ke Sawan",
+        "url": "https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv"
+      },
+      "artists": [
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "duration_ms": 355266,
+      "name": "Seekho Na",
+      "url": "https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Ab Ke Sawan",
-        "url": "https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv"
-      },
-      "artists": [
-        {
-          "name": "Shubha Mudgal",
-          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
-        }
-      ],
-      "duration_ms": 355266,
-      "name": "Seekho Na",
-      "url": "https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
-      },
-      "artists": [
-        {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Night Song",
         "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Savera - Single",
+        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        }
+      ],
+      "duration_ms": 245510,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
     },
     {
       "added_at": "2023-10-18 08:13:47",

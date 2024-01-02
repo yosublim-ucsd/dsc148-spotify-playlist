@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
-  "num_followers": 39490,
+  "num_followers": 39489,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTVkZjc5YzkwMDhkODVjOGM5Njg4NjhiYWNhNGZkMTE3MDdhNjYz",
+  "snapshot_id": "MCwzOWE2ZWQzNjc0NmU3ZjBiNWIyYjJkNDU1MDE0NGQwYmJlNGU0ZWMx",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "DIS-MOI (feat. SDM)",
-      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Il y a",
         "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 205365,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "DIS-MOI (feat. SDM)",
+      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Bonsoir Paris (Mama No Cry)",
         "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 176160,
       "name": "Rashel",
       "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Yoski 2",
-        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
-      },
-      "artists": [
-        {
-          "name": "Mayo",
-          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Bectance",
-      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Cesium",
         "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW"
+        "name": "Yoski 2",
+        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Mayo",
+          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Drift\u00e9",
-      "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
+      "duration_ms": 176906,
+      "name": "Bectance",
+      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 189588,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Drift\u00e9",
+      "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Traficante",
+        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Traficante",
+      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
       },
@@ -795,18 +811,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Traficante",
-        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
+        "name": "500",
+        "url": "https://open.spotify.com/album/0OOhemBhXqxbrahJbrNSUD"
       },
       "artists": [
         {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 176129,
-      "name": "Traficante",
-      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
+      "duration_ms": 169017,
+      "name": "500",
+      "url": "https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -839,26 +859,6 @@
       "duration_ms": 189230,
       "name": "Encore plus",
       "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "500",
-        "url": "https://open.spotify.com/album/0OOhemBhXqxbrahJbrNSUD"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 169017,
-      "name": "500",
-      "url": "https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 260000,
       "name": "A\u0142\u0142 \u00d8G Y\u00f8u",
       "url": "https://open.spotify.com/track/1R7tYPNrssbuwhmjZKvE56"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 101138,
       "name": "Bump The Neve",
       "url": "https://open.spotify.com/track/58rnl2HPnVyi62LDJr4wDV"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 96000,
       "name": "ETERNAL",
       "url": "https://open.spotify.com/track/44ow5E6v3evksJhALvjfDm"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 81230,
       "name": "Favela Resonance",
       "url": "https://open.spotify.com/track/0scX9V3XuQ1bpZf0nFjeET"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 155502,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/1DNgSHMgLGotUiHaTKBed1"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 321960,
       "name": "Look at the stars noran re-mix",
       "url": "https://open.spotify.com/track/78vTmgN18WxctkbQD6LaRJ"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 273103,
       "name": "No Salvation",
       "url": "https://open.spotify.com/track/3D2QqzVQ4238uGCJo5YrE3"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 136000,
       "name": "RMD",
       "url": "https://open.spotify.com/track/7uNm3noWw3nk0aRP7gPZjx"
@@ -6682,7 +6682,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 173296,
       "name": "Shadow Lady - DePaul Remix",
       "url": "https://open.spotify.com/track/41wpYulxmi9TURWSFVgo4c"
@@ -6892,7 +6892,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 208725,
       "name": "Slide",
       "url": "https://open.spotify.com/track/35EepYDTGEcwmO0Hrws93C"
@@ -7343,6 +7343,32 @@
     },
     {
       "album": {
+        "name": "STRIKE",
+        "url": "https://open.spotify.com/album/0uPnvroxiIjbxHarlNKAVy"
+      },
+      "artists": [
+        {
+          "name": "TOKYOSLEEP",
+          "url": "https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "Luga",
+          "url": "https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83220,
+      "name": "STRIKE",
+      "url": "https://open.spotify.com/track/72tZaH7eaItGJsAG7s9yM0"
+    },
+    {
+      "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
       },
@@ -7532,7 +7558,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 133333,
       "name": "TECHNO-PHONK",
       "url": "https://open.spotify.com/track/3OLgLTYKF1SV0lsAtcMwnS"
@@ -7774,7 +7800,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 341000,
       "name": "Thrift",
       "url": "https://open.spotify.com/track/5csrUpEbw7enTzzUKutasA"

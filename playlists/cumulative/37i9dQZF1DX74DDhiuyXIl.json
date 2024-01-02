@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "\u5269\u4e0b\u7684\u70df\u706b",
+        "url": "https://open.spotify.com/album/1wiOcrwaK9JMh79Ukt3cP8"
+      },
+      "artists": [
+        {
+          "name": "\u5b6b\u6587\u7426",
+          "url": "https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241062,
+      "name": "\u5269\u4e0b\u7684\u70df\u706b",
+      "url": "https://open.spotify.com/track/0MV6HnT2gk6yYVsHYQ88FN"
+    },
+    {
+      "album": {
         "name": "\u52c7\u6c14",
         "url": "https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
       "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 239865,
       "name": "\u5b64\u7368\u5a1b\u6a02",
       "url": "https://open.spotify.com/track/1DuFU3yhIFi8kYwI3BlmnA"
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 286122,
       "name": "\u6211\u8981\u7684\u52c7\u6562 (\u5287\u96c6\u300a\u5de6\u8033\u300b\u7247\u982d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14"
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 210923,
       "name": "\u6587\u6848",
       "url": "https://open.spotify.com/track/3oGiGErGA1dtOmY7FtrSoi"
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 268407,
       "name": "\u7136\u5f8c\u5462",
       "url": "https://open.spotify.com/track/0OUmRfXfXAhzSx9HYj5SbW"
@@ -5294,6 +5312,24 @@
       "duration_ms": 270768,
       "name": "\u7a81\u7136\u597d\u60f3\u4f60 live in the sky",
       "url": "https://open.spotify.com/track/4cQcxj5mQ04SXEVnONBmRj"
+    },
+    {
+      "album": {
+        "name": "\u7ae5\u8a71\u6545\u4e8b\u5973\u4e3b\u89d2",
+        "url": "https://open.spotify.com/album/0LxIacsh8swcAMYSP4RbDO"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u7ff0\u6607",
+          "url": "https://open.spotify.com/artist/3QREf0xowwdIXqCC7p2w1T"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216775,
+      "name": "\u7ae5\u8a71\u6545\u4e8b\u5973\u4e3b\u89d2",
+      "url": "https://open.spotify.com/track/2B1UQy5M90S2PrKj55J3Kl"
     },
     {
       "album": {
@@ -5814,7 +5850,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 226500,
       "name": "\u8a8d\u8f38",
       "url": "https://open.spotify.com/track/0LEdIXgbnNc5SK7vf9wa6B"

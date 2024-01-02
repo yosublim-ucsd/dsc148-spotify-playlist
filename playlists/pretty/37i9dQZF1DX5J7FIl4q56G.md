@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,184 likes - 65 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,195 likes - 65 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 62 | [Chainsaw Death](https://open.spotify.com/track/7HAudd8dJkzxSzgDZb8gCX) | [Horrifier](https://open.spotify.com/artist/6FIzAn8mX3wrOPk3oRnd6F) | [Horrid Resurrection](https://open.spotify.com/album/2ZoXycjsRGCtyPj6wFbGOJ) | 3:00 |
 | 63 | [The Iron Cross Burns](https://open.spotify.com/track/3dzSmF7YjEbeszhSROQS76) | [WITCHSNAKE](https://open.spotify.com/artist/5XlNY3iGKGx3DJchWk8QsN) | [Deathcult of the Snake](https://open.spotify.com/album/2NP1SBZRo5PmhuBYrdTEfL) | 5:11 |
 | 64 | [Left Alone](https://open.spotify.com/track/5Gnj0ESt6tbdY75YOqUd1x) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Left Alone](https://open.spotify.com/album/2sXDtHdT1F5engZ02Jrpbf) | 4:05 |
-| 65 | [Hey Living People](https://open.spotify.com/track/0CUlwxkggzSR6cRCQOlVHg) | [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hey Living People](https://open.spotify.com/album/31SEtRiyn0V9d4WfWMRFwv) | 3:47 |
+| 65 | [Hey Living People](https://open.spotify.com/track/3bhYWRniWVHPODRx4ekWFs) | [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hey Living People](https://open.spotify.com/album/4wi6eyxWgyNpCjsglGyLHt) | 3:47 |
 
-Snapshot ID: `MCw0NDZhNDAzODk5ZjhmOGM3YTY1Yjg3YzZkYzI3ZDA0ZjUyYWVmODY4`
+Snapshot ID: `MCwxNzNiMTJlNzY3ZGQ2Zjg1ZmRjZTU5Yjk1ZGU4MTk2Mzg2YzY2M2Rl`

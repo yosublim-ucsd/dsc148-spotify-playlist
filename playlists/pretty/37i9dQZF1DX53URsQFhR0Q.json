@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 4645,
+  "num_followers": 4657,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE5Yzg4OTgyYzMyZjg2ODM3OGEzNDgzNjMzNDNlZjBjNjQ3YzU5",
+  "snapshot_id": "MCwxNzg0NWI4MjVhNzI2N2QwZDFlMjQ4YmQwMzM2ZTEyYWYwMmVjZDc0",
   "tracks": [
     {
       "added_at": "2023-11-27 14:59:06",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "My Vision",
         "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Adam Nana",
-        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Adam Nana",
-      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -235,6 +235,22 @@
       "duration_ms": 355840,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Adam Nana",
+        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Adam Nana",
+      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -263,38 +279,6 @@
       "duration_ms": 977893,
       "name": "Ghana Local Worship",
       "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 527640,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 442409,
-      "name": "Akristofoo Adooso",
-      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -395,6 +379,22 @@
       "duration_ms": 296751,
       "name": "Yesu Ne Me Last Stop",
       "url": "https://open.spotify.com/track/0yWlIiRLJXi4Siel6ikXRf"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 442409,
+      "name": "Akristofoo Adooso",
+      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "My Testimony 2015 - 2017",
-        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
-      },
-      "artists": [
-        {
-          "name": "Anita Afriyie",
-          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Adehye Mogya",
-      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 378666,
       "name": "Ayeyi Ndowm",
       "url": "https://open.spotify.com/track/6CVaMNyXq66XRilZD38TFO"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "My Testimony 2015 - 2017",
+        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
+      },
+      "artists": [
+        {
+          "name": "Anita Afriyie",
+          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "Adehye Mogya",
+      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
-        }
-      ],
-      "duration_ms": 377678,
-      "name": "Bue Kwan Ma Me",
-      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "My Saviour",
         "url": "https://open.spotify.com/album/5HdtiJgyYJWXeAXEOJh6RP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 331998,
       "name": "Agyenkwah",
       "url": "https://open.spotify.com/track/21yaqOkfraywhbQNhRv6y9"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+        }
+      ],
+      "duration_ms": 377678,
+      "name": "Bue Kwan Ma Me",
+      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Isaac Ampong",
-          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
-        }
-      ],
-      "duration_ms": 324179,
-      "name": "Nyame Do Me",
-      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "Dom Hene",
         "url": "https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 306373,
       "name": "Me Ndi Nkugu",
       "url": "https://open.spotify.com/track/6pTwhtIBK0NjkIOlH2cOd1"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Isaac Ampong",
+          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
+        }
+      ],
+      "duration_ms": 324179,
+      "name": "Nyame Do Me",
+      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 331520,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "Yesu Mo",
         "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
       },
@@ -783,22 +767,6 @@
       "duration_ms": 394031,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
-        }
-      ],
-      "duration_ms": 331389,
-      "name": "Enyi Me Mma",
-      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -831,6 +799,38 @@
       "duration_ms": 318146,
       "name": "Mema Meni So",
       "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 331520,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Wahwe Meso",
+        "url": "https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl"
+      },
+      "artists": [
+        {
+          "name": "Prof. Kofi Abraham",
+          "url": "https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Adam Nana",
+      "url": "https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE"
     }
   ],
   "unique_name": "Ghana Gospel Classics",

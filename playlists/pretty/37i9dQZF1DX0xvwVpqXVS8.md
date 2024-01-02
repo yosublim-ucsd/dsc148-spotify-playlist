@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xvwVpqXVS8.md) - [plain]
 
 > "Not Past It" host Simone Polanen shares her favorite serotonin\-boosting songs to dance to\. Cover: Simone Polanen
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xvwVpqXVS8.md) - [plain]
 | 19 | [I Feel Love](https://open.spotify.com/track/4rS63BySQrdWuTswkkZ5iS) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 8:13 |
 | 20 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 
-Snapshot ID: `MCw5NjlkMzJjZDc0ODE4NDMyZGZkNmUwZWQ5YzY4YjFkYWFkOTBjZjk2`
+Snapshot ID: `MCw5YmNmNGMzNzk2NTZkZDkyNDliYTQxY2EzYjNiODQwYjMxYWU4ZTUz`

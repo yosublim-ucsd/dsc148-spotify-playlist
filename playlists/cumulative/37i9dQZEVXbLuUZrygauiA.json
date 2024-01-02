@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 158400,
       "name": "Az\u00f3tame",
       "url": "https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg"
@@ -10500,6 +10500,36 @@
       "duration_ms": 246294,
       "name": "EVIL",
       "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
+    },
+    {
+      "album": {
+        "name": "ex de verdad",
+        "url": "https://open.spotify.com/album/5jVERWz8m2kxid5fEQ8ZPz"
+      },
+      "artists": [
+        {
+          "name": "EseWey Beats",
+          "url": "https://open.spotify.com/artist/0a81o0p8z63YISjhS2xCZJ"
+        },
+        {
+          "name": "natanaell",
+          "url": "https://open.spotify.com/artist/5vfWfRlFVK7tCLHcRQZvbM"
+        },
+        {
+          "name": "el junior",
+          "url": "https://open.spotify.com/artist/04im4XhPKgk9phootp8QGN"
+        },
+        {
+          "name": "el ovi",
+          "url": "https://open.spotify.com/artist/4vT2bqjjZ4wCMG3pD9BOax"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211417,
+      "name": "ex de verdad",
+      "url": "https://open.spotify.com/track/4NGav0w84mVShck2HGT2ke"
     },
     {
       "album": {
@@ -26652,7 +26682,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
@@ -28402,6 +28432,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "album": {
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-297 songs - 1 day 0 hr 9 min
+298 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-22 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 | 2023-06-25 |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2022-05-18 |  |
+| [Being the problem](https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Being the problem](https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T) | 2:56 | 2023-12-22 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-09-08 | 2023-09-16 |
 | [Black Coffee](https://open.spotify.com/track/2Rejh16NV462TwiGGf5YNL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:30 | 2022-05-18 | 2022-08-27 |
 | [Black Forest Rose](https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Black Forest Rose](https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz) | 4:29 | 2022-10-13 | 2023-01-27 |
@@ -179,7 +180,7 @@
 | [Mindful in Solitude](https://open.spotify.com/track/6Wckn6BnejHCIgIAzre1kc) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-09-15 |  |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-11-10 | 2023-04-14 |
 | [Morning Thoughts](https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Soul Dancer](https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs) | 3:22 | 2023-03-23 |  |
-| [My Foolish Heart](https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:18 | 2022-05-18 |  |
+| [My Foolish Heart](https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:18 | 2022-05-18 | 2024-01-02 |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-09-22 | 2022-12-24 |
 | [My Old Flame](https://open.spotify.com/track/3jWqSMKx3gamUrb2qIGBkG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Live In Milan](https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo) | 4:58 | 2022-05-18 | 2022-09-15 |
 | [My Old Flame](https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 10:18 | 2022-09-16 | 2022-09-23 |

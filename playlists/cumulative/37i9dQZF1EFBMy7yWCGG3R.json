@@ -360,10 +360,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+    },
+    {
+      "album": {
+        "name": "because i liked a boy",
+        "url": "https://open.spotify.com/album/7s7EI8AriNF8Ft3ItkUMzc"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205755,
+      "name": "because i liked a boy",
+      "url": "https://open.spotify.com/track/5ayydZsxUxyY8VnGF2kuOq"
     },
     {
       "album": {
@@ -584,7 +602,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 224917,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/1wnMdIoZ3Wjat7hYWUqTE9"
@@ -896,10 +914,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
+    },
+    {
+      "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/4sGcXucvslfG2AhMew4K0a"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197038,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/6HNVMLcZfgshOx7x4dki8z"
     },
     {
       "album": {
@@ -1143,6 +1179,32 @@
     },
     {
       "album": {
+        "name": "Either Way (Official Video)",
+        "url": "https://open.spotify.com/album/6OBdlaBLFdclnF4n9aBZLv"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185258,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/4f49NZW0PuKOGo1Sz6v6gz"
+    },
+    {
+      "album": {
         "name": "Either Way (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE"
       },
@@ -1162,7 +1224,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 187588,
       "name": "Either Way (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD"
@@ -1778,7 +1840,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
@@ -1796,7 +1858,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 204829,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1EBo6a9v15wx4WPfPWj5fz"
@@ -2354,7 +2416,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
@@ -2372,7 +2434,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 183474,
       "name": "Issues",
       "url": "https://open.spotify.com/track/4xJrXcFGLxlLhYXNWpT1Ga"
@@ -2772,7 +2834,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 196253,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
@@ -2790,7 +2852,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 219227,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/0GYHvZW95qwxBUirA4z1Wi"
@@ -2844,7 +2906,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
@@ -2862,7 +2924,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 206915,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4IRzTXxMgop9fDFhh01B96"
@@ -3064,7 +3126,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 212317,
       "name": "Melon Cake",
       "url": "https://open.spotify.com/track/1qWjN1wINoiSJJqEXjiD0h"
@@ -3082,7 +3144,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 240581,
       "name": "Melon Cake",
       "url": "https://open.spotify.com/track/3NUy0f5JIdqgKVUpEnwxwM"
@@ -4506,7 +4568,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 192918,
       "name": "Waitin for You",
       "url": "https://open.spotify.com/track/586Q1Orh7e4bbrRh9lfJgY"
@@ -4528,7 +4590,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Waitin for You",
       "url": "https://open.spotify.com/track/5JrPpMfdfeDLrGV2Zgeun5"

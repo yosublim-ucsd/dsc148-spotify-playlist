@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain](/playlists/plain/7dDJX06UClvROSRLl7vtNx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7dDJX06UClvROSRLl7vtNx)
 
-### [Beach Lounge 2023 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
+### [Beach Lounge 2024 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
 
-> Summer 2023 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
+> Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 52,993 likes - 180 songs - 7 hr 57 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 53,015 likes - 180 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 179 | [I'll Be Alright](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY) | [Magnus Gunn](https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi) | [I'll Be Alright](https://open.spotify.com/album/621vQENf53N8IYGxFashcT) | 3:02 |
 | 180 | [Good Vibes](https://open.spotify.com/track/6iM5YlBhftinw3qHJdd2qp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [Good Vibes](https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk) | 1:49 |
 
-Snapshot ID: `MTYxMjgsMmRhMzU2MDcxMmYyN2ZiYzc1MWQzMDA4YWQ2YzhkNjUzMjZhMzNhOQ==`
+Snapshot ID: `MTYxMzEsNWU4MzUwOGJkYTU5OWFhMGQzOTQxYTBkOTExZDhjNTJiMDA0NmJmNQ==`

@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 85014,
+  "num_followers": 85068,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzZiNDEyMmMzZThlYzcwOWIzNTQyZDgzMmJmY2NlZGIwMjBlMmMz",
+  "snapshot_id": "MCwzYzQyMTA0YTg4YjYyMDM0NDk4NmY5ZDU0M2E1MTc2YWI3NzRjMzEw",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 271133,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Hittin' the Note",
         "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
       },
@@ -387,6 +403,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
@@ -399,22 +431,6 @@
       "duration_ms": 236786,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -455,38 +471,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Fresh Evidence (Remastered 2017)",
         "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Songlines",
         "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2023-01-16 21:05:55",

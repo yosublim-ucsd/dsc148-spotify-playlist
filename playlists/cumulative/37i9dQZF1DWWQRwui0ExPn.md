@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,378 songs - 10 day 1 hr 38 min
+6,379 songs - 10 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1851,7 +1851,7 @@
 | [Fetch](https://open.spotify.com/track/4tA9KtIJ5R7ondn3ViHpfC) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Fetch](https://open.spotify.com/album/5UVLIHmsfGHo2k2lmGdbj0) | 1:55 | 2021-03-07 | 2022-03-09 |
 | [Fettuccine](https://open.spotify.com/track/3wP2ULHLvS3CRbaBe3vGBO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/3gqQXgNVRFrTeuRthwyWAP) | 2:31 | 2022-09-09 | 2022-11-20 |
 | [Fettuccine](https://open.spotify.com/track/5QdEaWJ9fnW1D7lSjQyS8E) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:31 | 2022-11-18 | 2022-12-16 |
-| [Fever](https://open.spotify.com/track/4Ofz6lsLVYsc42MrNeuzqn) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Fever](https://open.spotify.com/album/73wJk7pJZsTeUe3NnA1cn7) | 2:25 | 2023-10-06 |  |
+| [Fever](https://open.spotify.com/track/4Ofz6lsLVYsc42MrNeuzqn) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Fever](https://open.spotify.com/album/73wJk7pJZsTeUe3NnA1cn7) | 2:25 | 2023-10-06 | 2024-01-02 |
 | [Fever Dream](https://open.spotify.com/track/2NvkuA95CB5tlV0YMMFa9B) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [bouji bud](https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW) | [Fever Dream](https://open.spotify.com/album/0i6BoXvNVXXziLHqCnmv5x) | 2:25 | 2022-07-22 | 2022-11-11 |
 | [Few & Far Between](https://open.spotify.com/track/3raY1YMGRWJyEksOfZcsPz) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [Few & Far Between](https://open.spotify.com/album/4UersC0A0asd2HS8iSM6ov) | 2:57 | 2022-10-21 | 2023-02-28 |
 | [Few Takes](https://open.spotify.com/track/3T9HjgZvXQck1XaA0qc1cY) | [Yellow Seven](https://open.spotify.com/artist/0tpztbN6XZbMYSEOf4v7BU), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Afterthought](https://open.spotify.com/album/1cQ9kUBnKoT53m5twZNkKw) | 3:10 | 2022-07-08 | 2022-10-21 |
@@ -3890,6 +3890,7 @@
 | [Nossa dança](https://open.spotify.com/track/3HyUhDO2cxg4vjPtB7RiQA) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Vagalumes](https://open.spotify.com/album/19cKGo8IOGq8S4wehGcxXX) | 2:13 | 2022-12-16 | 2023-03-14 |
 | [nostalgia](https://open.spotify.com/track/1FGnKCrew97bYWZi95JduH) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [nostalgia](https://open.spotify.com/album/0XLEZblEBKJxIf9nDkn5bl) | 1:58 | 2021-12-17 | 2022-06-24 |
 | [Nostalgia](https://open.spotify.com/track/19NMCb0Ur6FPad3BU0ainP) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Nostalgia](https://open.spotify.com/album/1K0LekCXrnlYhzbc1HwGYj) | 1:31 | 2022-07-15 | 2022-10-28 |
+| [Nostalgic](https://open.spotify.com/track/7qT2KT4j6HZ6qCyQ8mLv1s) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Nostalgic](https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9) | 1:52 | 2023-12-22 |  |
 | [Nostalgic](https://open.spotify.com/track/2atAn7Uwkmcow4quIeNY8P) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Nostalgic](https://open.spotify.com/album/6QbmP0FXdsr2txPRJ0jQTn) | 2:27 | 2023-01-13 | 2023-12-01 |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-10-06 |  |
 | [Not A Bf](https://open.spotify.com/track/2W1VZMHNsXVUjHFemZoA5A) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Not A Bf](https://open.spotify.com/album/5alNR7NH2Vj2vDRv1M2q09) | 1:40 | 2023-01-20 | 2023-03-25 |

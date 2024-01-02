@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,196 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,333 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Starting Tomorrow](https://open.spotify.com/track/37RuaiCogkpXHCO1EWiveM) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Starting Tomorrow](https://open.spotify.com/album/1iV2c7Z5Vxw8YpnVQmNUvu) | 2:45 |
 | 125 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 
-Snapshot ID: `MCw3MmM5OWJmNWYyOTM4NjE4NmUwZTY4MDI5MGQ5ZWI2ZWUyNzllMzc3`
+Snapshot ID: `MCw0MjI4MTIxOGQ0MzkzNTdlY2NlMjYwNjQ4NWRiZTkwNDlmMDBhMGU0`

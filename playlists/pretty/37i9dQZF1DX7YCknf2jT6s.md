@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,610 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,737 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Atlantiques \(feat\. Anaïs Maviel, Jeff Parker, Josh Johnson\)](https://open.spotify.com/track/5OXgjjil0Gl6wrRvoR3IsI) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Anaïs Maviel](https://open.spotify.com/artist/2nRnf4g05Ihyy7Q87FlogJ), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [The Atlantiques \(feat\. Anaïs Maviel, Jeff Parker, Josh Johnson\)](https://open.spotify.com/album/22w398INGNR8RllSDwpAGt) | 5:24 |
 | 100 | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/album/4511OYwmrYTxyIWeN06Pql) | 3:30 |
 
-Snapshot ID: `MCxhYjM5M2I5ZDUzZjFkMTc2ZjMyNDA2NDUwM2ZlOTdhMzA1M2M5MzI0`
+Snapshot ID: `MCw0NDgzOTNjMjIxOTNkZWJkN2Q1MTI0ZjkxMTEzOGJmNmVjZTgwZjNm`

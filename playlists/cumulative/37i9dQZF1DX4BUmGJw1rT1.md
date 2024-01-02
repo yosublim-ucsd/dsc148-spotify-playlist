@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-220 songs - 15 hr 12 min
+221 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2022-05-25 |  |
 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 | 2023-04-07 |  |
 | [Make It Rain](https://open.spotify.com/track/5puU24G3lHVsUXPAWW2ZpV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 6:44 | 2022-05-25 | 2022-10-11 |
+| [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 | 2023-11-24 |  |
 | [Medicine Man](https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 4:07 | 2023-08-18 |  |
 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 | 2022-05-25 |  |
 | [Mississippi](https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Country Ghetto](https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV) | 4:28 | 2022-09-12 |  |
@@ -203,7 +204,7 @@
 | [Tell Her You Belong To Me](https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home \(Deluxe Edition\)](https://open.spotify.com/album/45blvARBYrViZz3eYg50sH) | 5:56 | 2022-07-08 |  |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-05-25 | 2022-10-11 |
 | [The Healer](https://open.spotify.com/track/4JhUJwr2oK68ljiuZva4ci) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [The Healer](https://open.spotify.com/album/420OqzMQ6E2pC5OHyNGL1k) | 3:52 | 2023-08-18 | 2023-11-06 |
-| [The Man I Ought To Be](https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:46 | 2023-08-18 |  |
+| [The Man I Ought To Be](https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:46 | 2023-08-18 | 2024-01-02 |
 | [The Moment](https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG) | 2:34 | 2023-08-25 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Grandes Temazos: Blues](https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b) | 5:01 | 2022-10-10 | 2022-11-13 |
 | [The Thrill Is Gone](https://open.spotify.com/track/3cg0dJfrQB66Qf2YthPb6G) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 5:01 | 2022-07-08 |  |

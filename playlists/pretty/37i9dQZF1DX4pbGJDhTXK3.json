@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 133096,
+  "num_followers": 133123,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzZlN2FhODVmMjYyYTQ3OTQ5Yjg5NGY1ZTBhOThhZGIzZmZhNzJj",
+  "snapshot_id": "MCw5NjViMjdlNDFkODYwM2E5ZjAyNjBmZGU4NDUyNjM2YTFkZDc2MTg4",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+        "name": "It's Album Time",
+        "url": "https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2"
       },
       "artists": [
         {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
         }
       ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+      "duration_ms": 268440,
+      "name": "Strandbar",
+      "url": "https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -235,22 +251,6 @@
       "duration_ms": 377794,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "It's Album Time",
-        "url": "https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Strandbar",
-      "url": "https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -291,6 +291,26 @@
       "duration_ms": 493597,
       "name": "Games (Prins Thomas Diskomiks)",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "This Time, This Place\u2026",
+        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Beki Mari",
+          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
+        }
+      ],
+      "duration_ms": 464200,
+      "name": "This Time, This Place\u2026",
+      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -359,26 +379,6 @@
       "duration_ms": 482835,
       "name": "Tyrkisk Pepper - Dolle Jolle Remix",
       "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "This Time, This Place\u2026",
-        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Beki Mari",
-          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
-        }
-      ],
-      "duration_ms": 464200,
-      "name": "This Time, This Place\u2026",
-      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -463,6 +463,30 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Breathe (Qrion Remix)",
+        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 271686,
+      "name": "Breathe - Qrion Remix",
+      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "CDIII",
         "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
       },
@@ -511,30 +535,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Breathe (Qrion Remix)",
-        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 271686,
-      "name": "Breathe - Qrion Remix",
-      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Staying In",
         "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Kosmetisk",
         "url": "https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7"
       },
@@ -579,54 +563,6 @@
       "duration_ms": 342070,
       "name": "Kosmetisk",
       "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
-      },
-      "artists": [
-        {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Desire Lines",
-        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
-      },
-      "artists": [
-        {
-          "name": "Meanderthals",
-          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Andromeda (Prelude to the Future)",
-      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
-        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
-      },
-      "artists": [
-        {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
-        }
-      ],
-      "duration_ms": 358802,
-      "name": "Thirst Issues",
-      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -651,8 +587,8 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Ramma EP",
-        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
       "artists": [
         {
@@ -660,9 +596,57 @@
           "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 426575,
-      "name": "Bommelom",
-      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+      },
+      "artists": [
+        {
+          "name": "Meanderthals",
+          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Andromeda (Prelude to the Future)",
+      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
+        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+      },
+      "artists": [
+        {
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+        }
+      ],
+      "duration_ms": 358802,
+      "name": "Thirst Issues",
+      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -755,18 +739,34 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "The Point At The End Of Infinity",
-        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
+        "name": "Ramma EP",
+        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
       },
       "artists": [
         {
-          "name": "Of Norway",
-          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 244746,
-      "name": "The Point At The End Of Infinity",
-      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
+      "duration_ms": 426575,
+      "name": "Bommelom",
+      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -791,22 +791,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+        "name": "The Point At The End Of Infinity",
+        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        },
-        {
-          "name": "Tilla",
-          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
+          "name": "Of Norway",
+          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
         }
       ],
-      "duration_ms": 127524,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
+      "duration_ms": 244746,
+      "name": "The Point At The End Of Infinity",
+      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -843,34 +839,38 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
       "artists": [
         {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Tilla",
+          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
         }
       ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
+      "duration_ms": 127524,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
     },
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "This Soft Apocalypse",
-        "url": "https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI"
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS"
       },
       "artists": [
         {
-          "name": "Of Norway",
-          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
+          "name": "Niilas",
+          "url": "https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P"
         }
       ],
-      "duration_ms": 201356,
-      "name": "This Soft Apocalypse",
-      "url": "https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM"
+      "duration_ms": 166730,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
     }
   ],
   "unique_name": "Space Disco",

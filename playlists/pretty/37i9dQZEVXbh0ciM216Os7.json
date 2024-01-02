@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzOTcxMDAsMDAwMDAwMDA4OGNiN2JmZTE2ZTBkYzIzYThhMjZmNTNmNWJkMzBlMw==",
+  "snapshot_id": "MjgzOTcxMDAsMDAwMDAwMDBiOTkzM2UzYTRkZDMyYWY3ZmUyN2U2M2U1MDU4YmE1OQ==",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -247,34 +247,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Shade of Blue",
-        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3mas R. Einarsson",
-          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Kristj\u00e1n Magn\u00fasson",
-          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
-        },
-        {
-          "name": "Sveinn \u00d3li J\u00f3nsson",
-          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
-        }
-      ],
-      "duration_ms": 416174,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Trillstatik 3",
         "url": "https://open.spotify.com/album/48A3ZaH8Vdt9Q5ccZtyEEu"
       },
@@ -299,6 +271,34 @@
       "duration_ms": 125225,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Shade of Blue",
+        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mas R. Einarsson",
+          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Kristj\u00e1n Magn\u00fasson",
+          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
+        },
+        {
+          "name": "Sveinn \u00d3li J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
+        }
+      ],
+      "duration_ms": 416174,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
         "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 268936,
       "name": "RUN - Damian \"Jr. Gong\" Marley Version",
       "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
     },
     {
       "added_at": "2023-12-29 05:00:00",

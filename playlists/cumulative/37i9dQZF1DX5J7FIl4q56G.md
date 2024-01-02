@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-5,350 songs - 15 day 2 hr 29 min
+5,351 songs - 15 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2189,7 +2189,8 @@
 | [Heroic Hearts \- Bonus Track](https://open.spotify.com/track/4ynzGY4VlroCUgXiv8TjVN) | [Velvet Viper](https://open.spotify.com/artist/5PvwI33NiIP9rxC4JJ3tCh) | [Nothing Compares To Metal](https://open.spotify.com/album/0KASLXgKBMvgiBwLo69RQv) | 5:17 | 2023-07-21 | 2023-07-29 |
 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 | 2023-12-15 | 2023-12-23 |
 | [Hesitate](https://open.spotify.com/track/2mb0JxyspfoipSuTzKU3L0) | [Another Day Dawns](https://open.spotify.com/artist/3iiWib88qMEYbSvpREAf8k) | [Hesitate](https://open.spotify.com/album/0JQxaLM5eXnuaHIrwgIXp5) | 3:32 | 2023-08-25 | 2023-09-02 |
-| [Hey Living People](https://open.spotify.com/track/0CUlwxkggzSR6cRCQOlVHg) | [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hey Living People](https://open.spotify.com/album/31SEtRiyn0V9d4WfWMRFwv) | 3:47 | 2023-12-29 |  |
+| [Hey Living People](https://open.spotify.com/track/0CUlwxkggzSR6cRCQOlVHg) | [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hey Living People](https://open.spotify.com/album/31SEtRiyn0V9d4WfWMRFwv) | 3:47 | 2023-12-29 | 2024-01-02 |
+| [Hey Living People](https://open.spotify.com/track/3bhYWRniWVHPODRx4ekWFs) | [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hey Living People](https://open.spotify.com/album/4wi6eyxWgyNpCjsglGyLHt) | 3:47 | 2023-12-29 |  |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-07-23 |
 | [Hibbertia](https://open.spotify.com/track/3HXKk942I5G5RTJd21XAFt) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Hibbertia](https://open.spotify.com/album/3Zi2PdT5kpfQLKmmqkaCv3) | 3:21 | 2023-03-31 | 2023-04-09 |
 | [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-11 | 2023-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。\[Alexandros\], Lost Frequencies & Bastille, Fred again.\. & Baby Keem and more! Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,521 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,530 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 49 | [Enough/Hun](https://open.spotify.com/track/1ZsDKol51tsXYXxuJ3FxTk) | [Moment Joon](https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll), [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW) | [Only Built 4 Human Links](https://open.spotify.com/album/2bj1CgbnCLkwS6PuLNpOCA) | 3:12 |
 | 50 | [Dead of the Night](https://open.spotify.com/track/4656liaOhNs4kuj88lASid) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Dead of the Night](https://open.spotify.com/album/3eCyIoBF1SaSxdgPRiDn9u) | 3:04 |
 
-Snapshot ID: `MCw1NWZjNjc4ZTBlY2U2MDQ5ZDM3YjlkMDAzYTFjMzUwYWNiNTlmMzcy`
+Snapshot ID: `MCwyMTgwZDk5ZWEwOGYzMzg4Y2M5YzljNDBjY2M4N2Y4M2YwMGU5MzA5`

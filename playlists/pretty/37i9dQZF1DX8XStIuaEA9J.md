@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,579 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,640 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [24/7](https://open.spotify.com/track/5Y0wyXD0vDlBB0jYaZICa9) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [24/7](https://open.spotify.com/album/143tV77vkc85Ng1qmJiheo) | 3:24 |
 | 60 | [エスケープ](https://open.spotify.com/track/2rEUZktjkfy3gQd01rWeah) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [エスケープ](https://open.spotify.com/album/4PKNeWfAjbFA3WiW5xDjxY) | 3:18 |
 
-Snapshot ID: `MCxjMWU2OWU5OGVjODQzOTVjZWRjNjc4MDBiYjg1MjQ1YjVjZjgwOGU4`
+Snapshot ID: `MCxkYWM4NDEwZmNiMTg3YzBhMDRhN2IxZjM2ZDk5NDVmNDY5MDEzY2Q2`

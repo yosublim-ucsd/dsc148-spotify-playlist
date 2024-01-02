@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Peso Pluma, Lost Frequencies, Corey Kent, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,193,792 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,193,741 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Braveheart](https://open.spotify.com/track/7KuVXr3k0iG9cSSjPiYFnd) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Braveheart](https://open.spotify.com/album/4TIgzjrtDj1vwmMj0QmtqI) | 2:34 |
 | 100 | [Don't Let It Be The Last Time](https://open.spotify.com/track/0Jhxmajs7IVbaOQIRfNXYr) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [Don't Let It Be The Last Time](https://open.spotify.com/album/7wKmSTeeFdoNq2kQ4wxXwe) | 3:56 |
 
-Snapshot ID: `MCxiOTVjMDRlODZiNjIxNjBmZjMxNWJiM2RjOWFjZTI5MTE5OWJjZDJm`
+Snapshot ID: `MCw5YTIwNGFhNmRhMGMxYTFkMjc5NjhmNzdhZWU4ODVjNDFjMTMzYTRh`

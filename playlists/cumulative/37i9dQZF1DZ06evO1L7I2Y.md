@@ -4,13 +4,14 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 48 min
+32 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10X Melhor \(Interlúdio\)](https://open.spotify.com/track/4PvytjXAIl8Ttdfwj1ZV5m) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:21 | 2023-12-30 |  |
 | [24 Horas](https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [24 Horas](https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms) | 3:26 | 2023-12-30 |  |
-| [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 | 2023-12-30 |  |
+| [A Bruta, a Braba, a Forte](https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/64hkZLym75f49YAmQvke70) | 2:44 | 2024-01-01 |  |
+| [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 | 2023-12-30 | 2024-01-02 |
 | [Anna](https://open.spotify.com/track/45lXdJeVnr8OJQW31Ixwoh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:29 | 2023-12-30 |  |
 | [Bizarro](https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k) | [NIKITO](https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg), [BPP Tan](https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Downhill Domination \- SECOND EDITION](https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN) | 4:11 | 2023-12-30 |  |
 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 | 2023-12-30 |  |

@@ -535,6 +535,36 @@
     },
     {
       "album": {
+        "name": "La Chapa Que Vibran (Remix)",
+        "url": "https://open.spotify.com/album/0qZG52KQ27bJKuiWBK5cjN"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Jojo Maronttinni",
+          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
+        },
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203492,
+      "name": "La Chapa Que Vibran - Remix",
+      "url": "https://open.spotify.com/track/6fmVrh7XQ0KD69AOufNMUL"
+    },
+    {
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -724,7 +754,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 241906,
       "name": "Luz Sin Gravedad",
       "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
@@ -1166,6 +1196,32 @@
     {
       "album": {
         "name": "Prisma",
+        "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "MLKMN",
+          "url": "https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260017,
+      "name": "Suen\u0303o de Ti",
+      "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
+    },
+    {
+      "album": {
+        "name": "Prisma",
         "url": "https://open.spotify.com/album/7nL7mZ29l5bsykcXAvt0H4"
       },
       "artists": [
@@ -1184,7 +1240,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 258493,
       "name": "Sue\u00f1o De Ti",
       "url": "https://open.spotify.com/track/6j487eI9fxqAgrHtA3gTdM"

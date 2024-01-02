@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 459239,
+  "num_followers": 459254,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTVjOGRkNzRiNTZkNDdkY2YyYWY5YTIzMGZiMzhkZGZkYjU2YTky",
+  "snapshot_id": "MCxhZmE0OGRkYjQ5Mzk5M2E5Mzk5ZDRkNmNhM2JkYzQwN2QyMDA0ZTM2",
   "tracks": [
     {
       "added_at": "2023-12-12 21:00:18",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -251,6 +235,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2022-03-18 05:02:00",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "Grit.",
+        "url": "https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
+    },
+    {
       "added_at": "2022-05-06 03:38:46",
       "album": {
         "name": "infina ad nausea: the remixes",
@@ -523,22 +539,6 @@
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
-    },
-    {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "Grit.",
-        "url": "https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
     },
     {
       "added_at": "2023-03-28 06:18:56",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -599,22 +615,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
-      "added_at": "2023-06-01 23:13:49",
-      "album": {
-        "name": "Circuitous",
-        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
-      },
-      "artists": [
-        {
-          "name": "Afrikan Sciences",
-          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
-        }
-      ],
-      "duration_ms": 334798,
-      "name": "Circuitous",
-      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
-    },
-    {
       "added_at": "2023-11-15 16:34:12",
       "album": {
         "name": "Time to Leave",
@@ -681,20 +665,20 @@
       "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
+      "added_at": "2023-06-01 23:13:49",
       "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+        "name": "Circuitous",
+        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
       },
       "artists": [
         {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+          "name": "Afrikan Sciences",
+          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
         }
       ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+      "duration_ms": 334798,
+      "name": "Circuitous",
+      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
     },
     {
       "added_at": "2023-01-07 03:51:32",
@@ -743,6 +727,22 @@
       "duration_ms": 252601,
       "name": "Desert Viper",
       "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
     },
     {
-      "added_at": "2023-03-31 19:28:59",
-      "album": {
-        "name": "Opak",
-        "url": "https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 337194,
-      "name": "Opak",
-      "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
-    },
-    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -851,6 +835,22 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA"
+    },
+    {
+      "added_at": "2023-03-31 19:28:59",
+      "album": {
+        "name": "Opak",
+        "url": "https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
     },
     {
       "added_at": "2023-05-24 02:20:35",

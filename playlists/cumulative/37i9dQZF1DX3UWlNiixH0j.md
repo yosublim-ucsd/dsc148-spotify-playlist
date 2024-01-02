@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: CAR10
 
-1,160 songs - 3 day 0 hr 5 min
+1,161 songs - 3 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,7 @@
 | [tea valley street \- feat\. 小林純平](https://open.spotify.com/track/7aTJm3VJgY39IS6oAbGTEc) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [tea valley street \(feat\. 小林純平\)](https://open.spotify.com/album/494FapIqwHmb0dIIrIGxyE) | 5:34 | 2023-01-24 | 2023-02-15 |
 | [Teatron](https://open.spotify.com/track/0MRixLHmlmHwPu7ch0HzL2) | [オリーブがある](https://open.spotify.com/artist/60mrrWhMA9L6jvky96bivy) | [Teatro](https://open.spotify.com/album/7Meo2fVm3XSn2RlyGamljv) | 4:26 | 2023-03-16 | 2023-03-29 |
 | [Teenage Dreams,Teenage Kicks](https://open.spotify.com/track/0la4JrXeHmvdZZeep9VLnc) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Teenage Dreams,Teenage Kicks](https://open.spotify.com/album/66avo0KmqNUIgB1XkYwoSS) | 3:55 | 2023-06-27 | 2023-07-05 |
-| [Teenager](https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [Teenager](https://open.spotify.com/album/4hQM81eAKcx3fnvBqNt2DF) | 2:36 | 2023-09-19 |  |
+| [Teenager](https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [Teenager](https://open.spotify.com/album/4hQM81eAKcx3fnvBqNt2DF) | 2:36 | 2023-09-19 | 2024-01-02 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2023-03-30 | 2023-04-05 |
 | [telepath](https://open.spotify.com/track/6o7EzzdgoRJgbb5yb30iFz) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [telepath](https://open.spotify.com/album/1wvdRCtiLW0FKViQNWE3rI) | 3:02 | 2023-12-19 |  |
 | [telepath](https://open.spotify.com/track/6yyYv4y4Tor2cVOzP4gLRB) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [telepath](https://open.spotify.com/album/5htEeR66Nt43ETZx4XsIy5) | 3:02 | 2023-12-19 | 2023-12-21 |
@@ -1032,6 +1032,7 @@
 | [愛想のないブレイク \- with FORDTRIO](https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [ヘルシンキラムダクラブへようこそ](https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE) | 4:06 | 2023-08-08 | 2023-09-20 |
 | [憑依](https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [憑依](https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc) | 3:27 | 2023-08-15 | 2023-08-17 |
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2023-03-28 | 2023-09-06 |
+| [抜けていく](https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [Through The Lonely Nights](https://open.spotify.com/album/07aGzvY0kMQTTWFuGu9WTV) | 4:34 | 2023-12-28 |  |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |
 | [新約「償い」](https://open.spotify.com/track/4lRuUjGbQZXgietBKMpLWU) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [新約「償い」](https://open.spotify.com/album/1mx6uzMW6vsBK3T5qBRkOA) | 4:58 | 2023-10-17 | 2023-10-19 |

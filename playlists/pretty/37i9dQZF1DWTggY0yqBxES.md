@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,906 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,931 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [R.I.P.](https://open.spotify.com/track/3CoHgbwTCOhigOIJP60uja) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [R.I.P.](https://open.spotify.com/album/1RUt29Os0Cu7xwz9HeZBE2) | 2:41 |
 | 100 | [Go](https://open.spotify.com/track/0ygId62cVyJWm8ZKaHX8CV) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [MONI DA G](https://open.spotify.com/artist/4twqXMj5X9jIGTAwrZLwYI) | [Go](https://open.spotify.com/album/4mRq2sJNSNwCIxMyVaiLeH) | 4:09 |
 
-Snapshot ID: `MCxiYzVkNmFmY2QyNTU4MTA5NWMxOWY2MzMxYzMxMmU4ZWMzMTNhNjcx`
+Snapshot ID: `MCxjMWI3MjIyZDVkMzA5YmZiNGM4MDIwMDFmYzUwMGE5OGI2NDk5NGU1`

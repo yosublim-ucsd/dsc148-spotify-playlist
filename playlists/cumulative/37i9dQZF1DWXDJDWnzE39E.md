@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-297 songs - 19 hr 11 min
+298 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Corrode](https://open.spotify.com/track/3HVPJrmpJvwYSmrGS21af1) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Corrode](https://open.spotify.com/album/20gYg8xLqeRhmj2nhAyRU1) | 4:14 | 2020-12-07\* | 2021-10-16 |
 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 | 2022-11-18 |  |
 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 | 2020-12-07\* | 2022-10-04 |
-| [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-07 |  |
+| [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-07 | 2024-01-02 |
 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 | 2020-12-07\* |  |
 | [Dancing in Nightmares](https://open.spotify.com/track/4k5y7lc8Ws9rHzy2YCjU2B) | [South Haven](https://open.spotify.com/artist/1mUiFCHMEKVdSfqbh1mwNt) | [Dancing in Nightmares](https://open.spotify.com/album/1eELICirTb19z8loNTXimj) | 3:22 | 2020-12-07\* | 2021-04-10 |
 | [Dark Love Empress](https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Dark Love Empress](https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW) | 4:43 | 2020-12-07\* | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [I Love Myself For Hating You](https://open.spotify.com/track/10Qt5VgwKIRXK7hZSu9pmX) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [I Love Myself For Hating You](https://open.spotify.com/album/5RuAoYEfSDHtCGOaf28LUB) | 3:03 | 2020-12-07\* | 2022-07-24 |
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-03 | 2024-01-01 |
 | [Illuminate](https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Illuminate](https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J) | 4:09 | 2020-12-07\* | 2022-07-28 |
+| [Illusionist](https://open.spotify.com/track/4U7mqbqE0nXTAnLDsn8rdW) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Escape](https://open.spotify.com/album/2pobzXGqkMDJHsFuNzpLin) | 3:08 | 2023-09-15 |  |
 | [Illusionist](https://open.spotify.com/track/0ntFhFYgGoRTvQsa6qEaUC) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Illusionist](https://open.spotify.com/album/2Uubui4aJ9UG6x5V7R8W1b) | 3:10 | 2020-12-07\* | 2022-07-29 |
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-17 | 2023-08-04 |
 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 | 2021-10-11 | 2021-10-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,567 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,716 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Ainda Gosto de Você \- Me Espera \- Coração Deserto](https://open.spotify.com/track/3AnT2b3Jb7mCfxvakHHVdc) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Por Você Ao Vivo](https://open.spotify.com/album/0nax8M9StAXGx54wYprGHN) | 5:31 |
 | 75 | [Pot\-Pourri: Me Olha Nos Olhos / Futuro Prometido / Ainda Gosto de Você \- Ao Vivo](https://open.spotify.com/track/07b6vu21xExj1m3DhqNP6o) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7qzwgpW2dmXGDigu3mVbUv) | 6:04 |
 
-Snapshot ID: `MCwzMmM1MThkMWM0MWQzYWZkMzljYWQ5MDU5Y2U5ZDczNzhjYmUzZDAx`
+Snapshot ID: `MCw2ZjVhZTEyMDgyYWZiZWJlOTYyMzYwMjI2Yjg4MWQyNTljYmU4MDlm`

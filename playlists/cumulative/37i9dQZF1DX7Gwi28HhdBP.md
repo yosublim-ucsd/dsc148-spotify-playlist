@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-235 songs - 17 hr 32 min
+236 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [المولد يرجع الفرحة ترجع](https://open.spotify.com/track/3CZOi1OCkOnnR4MtdWh3hz) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [المولد يرجع الفرحة ترجع](https://open.spotify.com/album/1YtoLoItsxMgeI88ynX9KA) | 1:36 | 2021-12-30 | 2023-12-22 |
 | [امانه](https://open.spotify.com/track/1Xqv1JLeOgkaADrmi0Ivpx) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW) | 4:18 | 2022-07-14 | 2023-05-12 |
 | [امانه](https://open.spotify.com/track/4tFQtcaW9BHllKlhn4SAfk) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/7wgJVoSAQAnYzexJzkIsr3) | 4:18 | 2021-12-16 | 2022-07-29 |
-| [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 |  |
+| [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 | 2024-01-02 |
 | [اه يا دنيا](https://open.spotify.com/track/0THQA9oPhOoXuBFJKAJtGi) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil) | 4:37 | 2021-12-16 | 2022-07-29 |
 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 | 2022-07-14 |  |
 | [باب الشعريه](https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [باب الشعريه](https://open.spotify.com/album/5W7slMzTwQbryB0as01CLa) | 3:22 | 2021-12-16 |  |
@@ -200,6 +200,7 @@
 | [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 | 2023-02-23 |
 | [رجوله برجوله](https://open.spotify.com/track/6zHTueE7m07zUriRDA5qIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/0RpaDyeJRmBWFpWWTlFPmM) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/track/5VW3aJVP0CxGxlMYLUvOhJ) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/album/2CeT9WKHjiLdd39o2UeukO) | 3:41 | 2022-10-26 | 2022-11-17 |
+| [رقم واحد في الجراح](https://open.spotify.com/track/0XgVRCUMm6hNjQuxMbkHPZ) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [رقم واحد في الجراح](https://open.spotify.com/album/50DzYdnPjLu83s33XW7dzc) | 3:03 | 2024-01-02 |  |
 | [زمن](https://open.spotify.com/track/1NE0yaKgeucwaWvBbFOehu) | [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [زمن](https://open.spotify.com/album/3YXBs3n5PDf1rLjayi8C9Z) | 3:46 | 2023-02-16 | 2023-05-12 |
 | [ست الدار](https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr) | 2:35 | 2022-07-14 | 2023-05-12 |
 | [ست الدار](https://open.spotify.com/track/0oLd6k3kyus10YjweGcRnU) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/1qUtZxDRJ8C9214Axp9bl7) | 2:35 | 2021-12-16 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-290 songs - 1 day 2 hr 12 min
+291 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-01-26 | 2023-11-17 |
 | [East of the Sun \(And West of the Moon\)](https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 7:41 | 2023-03-23 |  |
 | [Elemental Mood](https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 6:03 | 2022-03-11 |  |
-| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 |  |
+| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 | 2024-01-02 |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2022-02-24 | 2022-08-31 |
 | [Eronel](https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Un musicien \- Une histoire](https://open.spotify.com/album/4KRfiGU514jIczyXkQ4KK6) | 4:30 | 2020-03-31 | 2022-07-29 |
 | [Eronel](https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:30 | 2022-07-28 | 2023-08-25 |
@@ -195,6 +195,7 @@
 | [Out Of Nowhere](https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:21 | 2023-02-16 |  |
 | [Pannonica](https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Marco Fratini](https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX), [Giovanni Paolo Liguori](https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH) | [Pannonica](https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB) | 5:46 | 2022-02-18 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-11-12 | 2022-12-02 |
+| [Pawn Broker](https://open.spotify.com/track/37itX0VO2sWDWc9syRUD65) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [At This Time...](https://open.spotify.com/album/0KEKy91yc9LvTfpCgyU2NR) | 6:09 | 2023-12-20 |  |
 | [Pawn Broker](https://open.spotify.com/track/7MiBR34i4KkdoM3fdf4RUT) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [At This Time...](https://open.spotify.com/album/1oQCGl03k3fDmNADJ99zAn) | 6:09 | 2023-03-02 | 2023-12-23 |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-11-12 | 2023-01-03 |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/6eYTj1vrX1hzj8WijBC0sf) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [Twilight](https://open.spotify.com/album/4zjIL7HY1OKA16Pb7puwKl) | 6:05 | 2023-10-06 |  |

@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 263520,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4E3afPSY5fUEelQS9ppL0e"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 300138,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5ESNm66waqwpu6LWJ9aSLa"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 223514,
       "name": "Boy Problems",
       "url": "https://open.spotify.com/track/7pOqWHWP02vGnR70B2EyLC"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 216391,
       "name": "Crying in the Club",
       "url": "https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 320320,
       "name": "Crying in the Club",
       "url": "https://open.spotify.com/track/0Xb98kwHXee194Q9dzqsCB"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 307093,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/0WEZ5fQZdzJGKeHe0MnEoH"
@@ -2292,10 +2292,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 300386,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD"
+    },
+    {
+      "album": {
+        "name": "Guts Over Fear",
+        "url": "https://open.spotify.com/album/0HkzHcFkb5idNl4kta4PTT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339255,
+      "name": "Guts Over Fear",
+      "url": "https://open.spotify.com/track/6nxuFJW2F0UwuIUEl7WLdi"
     },
     {
       "album": {
@@ -3196,7 +3218,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 247458,
       "name": "Limitless from the Movie \"Second Act\"",
       "url": "https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L"
@@ -3700,7 +3722,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 221986,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
@@ -3718,7 +3740,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 224256,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6KsFyWRBGEvsj7VNK6htAw"
@@ -4102,10 +4124,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 257653,
       "name": "Pretty Hurts",
       "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
+    },
+    {
+      "album": {
+        "name": "Pretty Hurts (Video)",
+        "url": "https://open.spotify.com/album/5UG5JNKoNjhIEsHKBtGKVf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424831,
+      "name": "Pretty Hurts",
+      "url": "https://open.spotify.com/track/3TRITntvWRpFpbVIqEZ8Wa"
     },
     {
       "album": {
@@ -5397,6 +5437,36 @@
     },
     {
       "album": {
+        "name": "Thunderclouds (feat. Sia, Diplo & Labrinth) [Official Video]",
+        "url": "https://open.spotify.com/album/6zbmP4FCjBkQ01862aO5jn"
+      },
+      "artists": [
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195797,
+      "name": "Thunderclouds (feat. Sia, Diplo & Labrinth)",
+      "url": "https://open.spotify.com/track/5zdujoXtK3yN2ux30OSVLJ"
+    },
+    {
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -5420,7 +5490,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
@@ -5816,7 +5886,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/5EpvQcpMPOJbIAdbtDmxxS"
@@ -5834,7 +5904,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 299178,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/7GqsSAxmvjDODSvNO7B1nb"
@@ -5904,7 +5974,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 238122,
       "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
       "url": "https://open.spotify.com/track/18Vgd3qG5OaU2TByBwFNOi"
@@ -5930,7 +6000,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 222520,
       "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
       "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"

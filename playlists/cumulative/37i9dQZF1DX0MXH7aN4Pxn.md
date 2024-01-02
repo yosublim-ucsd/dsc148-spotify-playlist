@@ -4,7 +4,7 @@
 
 > 
 
-363 songs - 18 hr 55 min
+364 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 | 2022-04-15 | 2022-07-23 |
 | [2step \(Star.One Remix\)](https://open.spotify.com/track/2LrutkvIJOqQWj47eYNgG6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [2step \(Star.One Remix\)](https://open.spotify.com/album/5FcOvF4YukVnIkqxNcqopa) | 3:25 | 2022-06-20 | 2023-09-08 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-06-20 |  |
-| [About You](https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Do That EP](https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa) | 2:43 | 2023-11-10 |  |
+| [About You](https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Do That EP](https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa) | 2:43 | 2023-11-10 | 2024-01-02 |
 | [About You](https://open.spotify.com/track/2dzmO8gQgQQBFchqng9MKx) | [Papa Zeus](https://open.spotify.com/artist/34Q1USAO0pv4gNxcnOKNav) | [About You](https://open.spotify.com/album/3p0BU885ZO6h15ShwrV0kj) | 2:39 | 2022-04-15 | 2022-07-24 |
 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 | 2022-04-15 | 2023-09-08 |
 | [African Lady \(Antenna\)](https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt) | [RUDY](https://open.spotify.com/artist/2tFi8VSdCE13OM3yfr8qnp), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [African Lady \(Antenna\)](https://open.spotify.com/album/2ikxyffOctYIQHMCBpteFS) | 1:56 | 2022-04-15 |  |
@@ -106,6 +106,7 @@
 | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/track/0UBjV0qdhBKQLnl8tNXb9e) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/album/0wmqUFbaNF1eVwTqs28zoc) | 2:53 | 2022-04-15 | 2022-07-23 |
 | [Falling](https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling](https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q) | 3:44 | 2022-04-15 | 2022-07-29 |
 | [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 | 2023-12-24 |
+| [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 | 2023-11-10 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-09-08 |  |
 | [Feelin' U](https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Feelin' U](https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn) | 2:17 | 2022-04-15 | 2022-07-29 |
 | [Feeling Dynamite](https://open.spotify.com/track/0kw9ZHlFNULgpGGTx2JgH5) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Feeling Dynamite](https://open.spotify.com/album/3zg0RMh7GulXCNQQjC5Ct8) | 2:37 | 2022-04-15 | 2022-07-29 |

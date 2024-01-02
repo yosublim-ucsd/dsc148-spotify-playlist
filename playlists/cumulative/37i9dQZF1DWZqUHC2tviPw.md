@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-210 songs - 9 hr 35 min
+211 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Club404](https://open.spotify.com/track/2m4A0JpCC4IMLD5RDVZLMv) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/5shgTl2IgyJyH8WIB8n1ig) | 2:43 | 2023-01-06 | 2023-01-20 |
 | [Club404](https://open.spotify.com/track/1FJbNBNewrUA6eVkYgrnZi) | [Rodas with a Blade](https://open.spotify.com/artist/4BBhI7j3lLvaozRFmT9NFj), [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Another Time](https://open.spotify.com/album/0FbXl5B4tW2wg4anMimVgu) | 2:43 | 2022-08-05 | 2022-10-16 |
 | [Club404 \- Remix](https://open.spotify.com/track/6vNJcvgnEQMXsvfwG5RDc8) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Dead & Alive](https://open.spotify.com/album/3L6yqVORgRpJJVidUwjm9U) | 2:43 | 2022-08-05 | 2022-08-17 |
-| [Codename](https://open.spotify.com/track/3ANSFpNRy7eM8Kfcy4fmUC) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Codename](https://open.spotify.com/album/4XwK75LPKPSa8Ov8bJogGE) | 2:50 | 2022-10-14 |  |
+| [CODENAME](https://open.spotify.com/track/0h8RJL6QSw0V9DOxxJtUR4) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [CODENAME](https://open.spotify.com/album/6hcEYNsP3jqwJ9Zipa5jmI) | 2:50 | 2023-11-21 |  |
+| [Codename](https://open.spotify.com/track/3ANSFpNRy7eM8Kfcy4fmUC) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Codename](https://open.spotify.com/album/4XwK75LPKPSa8Ov8bJogGE) | 2:50 | 2022-10-14 | 2024-01-02 |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-11-11 |  |
 | [Conclusions](https://open.spotify.com/track/3i9AGr31OTTym77Mzev1Qz) | [Elvaka](https://open.spotify.com/artist/3hY8LSEpccoTSfR8KWjJBE) | [Conclusions](https://open.spotify.com/album/1BKqVuITpB1tSBlxTZCtWX) | 1:44 | 2023-01-20 |  |
 | [Cook](https://open.spotify.com/track/0hzv9wbH3OTtpjDI0HNntH) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Cook](https://open.spotify.com/album/4KxqkKKfMJ81dJzn3nqbxj) | 2:05 | 2023-03-13 |  |

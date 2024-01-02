@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas">Victor Thompson </a> takes over the African Gospel Hits Playlist as we welcome 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,767 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,089 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Jehova](https://open.spotify.com/track/7AVcFuCQDmUk1PC3EJIQgH) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [J Flo](https://open.spotify.com/artist/2sYNLXNO25ueHq7EsD9ulx) | [Jehova](https://open.spotify.com/album/4CldibF8eKHGDlRAQhiD2R) | 4:40 |
 | 50 | [THIS YEAR \(Blessings\) \- Extended Version](https://open.spotify.com/track/4AAiiVUnXxnq4tovlE7ZfC) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:07 |
 
-Snapshot ID: `MCwwYzY4MThmNmYzYmNhMzQ5ODg4YWNlYTI5OTcwNjE5MjBiMWU0MjFl`
+Snapshot ID: `MCw2MjZlMTEwMGExNGVjOWFmMzdmMzRiZDk2ZDhhZWViMzg4MjdhMzE5`

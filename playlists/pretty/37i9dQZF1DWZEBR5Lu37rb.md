@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,275 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,355 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 84 | [Talk to You](https://open.spotify.com/track/5teMc06640wYbmiZrLRyZ9) | [Big Pin](https://open.spotify.com/artist/0OG8e95fwdrVuShmIKW8ME) | [This Is for You](https://open.spotify.com/album/6NxGXoyG4j8LA792eAbu0T) | 3:22 |
 | 85 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 86 | [Njiwa](https://open.spotify.com/track/2EaPDgAYxbEkw33GX5AESW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Njiwa](https://open.spotify.com/album/6B9hBHl7Judrz0Yh32oO90) | 4:18 |
-| 87 | [Nyota Yako](https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [T I D Singles](https://open.spotify.com/album/2M8BcYuMxICp6yaB7VeRIr) | 4:51 |
+| 87 | [Nyota Yako](https://open.spotify.com/track/03tmpdJzhAdQgEPOvG8KWr) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Nyota Yako](https://open.spotify.com/album/2Lj9jCdLSXzRg7jeSF05mj) | 4:51 |
 | 88 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 89 | [Turn You On](https://open.spotify.com/track/2CjxsWQv49DdO0E0UD9WSt) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:02 |
 | 90 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
 
-Snapshot ID: `MCw2NTM2MDk3YzU1MzM1MmM5Y2ViMzFhZjRlNTkyNzIwMWUwMGMxNDI3`
+Snapshot ID: `MCw1MjJkODViYmQ0ZDdlZWQyNDgzOTRmNTFhMGViZWNmMGY5NjRmMzFm`

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210912,
+  "num_followers": 210909,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
+  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Hijo de Puta",
         "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 179440,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Llamado de la Hembra",
         "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 275435,
       "name": "El Infierno de Dante",
       "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
+        "name": "Venas De Acero",
+        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
       },
       "artists": [
         {
-          "name": "Thell Barrio",
-          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
+          "name": "Tren Loco",
+          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
         }
       ],
-      "duration_ms": 202647,
-      "name": "A Toda Madre",
-      "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
+      "duration_ms": 286653,
+      "name": "Pueblo Motoquero",
+      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Venas De Acero",
-        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
       },
       "artists": [
         {
-          "name": "Tren Loco",
-          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
+          "name": "Thell Barrio",
+          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
         }
       ],
-      "duration_ms": 286653,
-      "name": "Pueblo Motoquero",
-      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
+      "duration_ms": 202647,
+      "name": "A Toda Madre",
+      "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Subkonzziente",
-        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00e9cimen",
-          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Por Tu Honor",
         "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 237586,
       "name": "En la Jaula",
       "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Subkonzziente",
+        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00e9cimen",
+          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Basado en Hechos Reales",
+        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
+      },
+      "artists": [
+        {
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
+        }
+      ],
+      "duration_ms": 254748,
+      "name": "Cenizas\u202c",
+      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Basado en Hechos Reales",
-        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Cenizas\u202c",
-      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
-      },
-      "artists": [
-        {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Sentir Metalero",
         "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 256360,
       "name": "Cacique Yatel",
       "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+      },
+      "artists": [
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "U.F.T.M 2017 (Remastered)",
-        "url": "https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV"
-      },
-      "artists": [
-        {
-          "name": "Strike Master",
-          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Merciless machine - Remastered",
-      "url": "https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Cielo Ser\u00e1 Testigo",
         "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 270471,
       "name": "Credo de Darwin",
       "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "U.F.T.M 2017 (Remastered)",
+        "url": "https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV"
+      },
+      "artists": [
+        {
+          "name": "Strike Master",
+          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Merciless machine - Remastered",
+      "url": "https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr"
     },
     {
       "added_at": "2023-04-28 03:00:00",

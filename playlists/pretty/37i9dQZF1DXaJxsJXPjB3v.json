@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 39606,
+  "num_followers": 39664,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGVlY2M3YmI3ZGZhN2VkNGVmMjQ2NTI1NmE2MDkyZDk3OTFlNjA0",
+  "snapshot_id": "MCw1YTFjZDEyMjRlNjYxYjEzN2U5MjQ2YTIyMzQ5MzJkY2U0OWUxNDE1",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -123,38 +123,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "King of Kwaito Uyagawula",
-        "url": "https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Peace",
-          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
-        }
-      ],
-      "duration_ms": 321611,
-      "name": "Manyonyoba",
-      "url": "https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Respect Toasted Gona' Ganati",
         "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
@@ -175,6 +143,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "BullDawgz First Lady",
         "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
@@ -191,34 +175,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "and the beat goes on",
-        "url": "https://open.spotify.com/album/6LEfTlDkoGfqEmuaWh5k11"
+        "name": "King of Kwaito Uyagawula",
+        "url": "https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS"
       },
       "artists": [
         {
-          "name": "Kabelo",
-          "url": "https://open.spotify.com/artist/6FgSMfwOMDbtgUIOiwmwJF"
+          "name": "Brothers of Peace",
+          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
         }
       ],
-      "duration_ms": 305624,
-      "name": "Zonke",
-      "url": "https://open.spotify.com/track/0P35ObcV2oMcTRSNl5NMIG"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "Always Da Case",
-        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 344426,
-      "name": "Mazolo",
-      "url": "https://open.spotify.com/track/15eELFlhtNrfrEuNkop7J2"
+      "duration_ms": 321611,
+      "name": "Manyonyoba",
+      "url": "https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -239,6 +207,54 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "and the beat goes on",
+        "url": "https://open.spotify.com/album/6LEfTlDkoGfqEmuaWh5k11"
+      },
+      "artists": [
+        {
+          "name": "Kabelo",
+          "url": "https://open.spotify.com/artist/6FgSMfwOMDbtgUIOiwmwJF"
+        }
+      ],
+      "duration_ms": 305624,
+      "name": "Zonke",
+      "url": "https://open.spotify.com/track/0P35ObcV2oMcTRSNl5NMIG"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Intwenjani",
+        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+      },
+      "artists": [
+        {
+          "name": "Mawillies",
+          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+        }
+      ],
+      "duration_ms": 333760,
+      "name": "Intwenjani",
+      "url": "https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Always Da Case",
+        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 344426,
+      "name": "Mazolo",
+      "url": "https://open.spotify.com/track/15eELFlhtNrfrEuNkop7J2"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "Top Dawg",
         "url": "https://open.spotify.com/album/0GNrvpXxZAAP8hZf8kIc3L"
       },
@@ -251,26 +267,6 @@
       "duration_ms": 340158,
       "name": "Ungawa Kum",
       "url": "https://open.spotify.com/track/0MRHaEed5xSYgcZ44YEAoo"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
-      },
-      "artists": [
-        {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
-        },
-        {
-          "name": "Tzozo",
-          "url": "https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Bengim'ngaka",
-      "url": "https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -291,18 +287,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Intwenjani",
-        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
       "artists": [
         {
-          "name": "Mawillies",
-          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        },
+        {
+          "name": "Tzozo",
+          "url": "https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2"
         }
       ],
-      "duration_ms": 333760,
-      "name": "Intwenjani",
-      "url": "https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh"
+      "duration_ms": 315653,
+      "name": "Bengim'ngaka",
+      "url": "https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "24 Seven",
-        "url": "https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 317213,
-      "name": "Chomi Yabana",
-      "url": "https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Waar Was Jy?",
         "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Mapantsula",
-        "url": "https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc"
+        "name": "24 Seven",
+        "url": "https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU"
       },
       "artists": [
         {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 423813,
-      "name": "Fohloza",
-      "url": "https://open.spotify.com/track/3bJ1H9XkqkKjXEeidp9Qm4"
+      "duration_ms": 317213,
+      "name": "Chomi Yabana",
+      "url": "https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -451,6 +435,38 @@
       "duration_ms": 265000,
       "name": "Izinja Zam",
       "url": "https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Intwenjani",
+        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+      },
+      "artists": [
+        {
+          "name": "Mawillies",
+          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+        }
+      ],
+      "duration_ms": 343546,
+      "name": "Thula Mabota",
+      "url": "https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Mapantsula",
+        "url": "https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc"
+      },
+      "artists": [
+        {
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Fohloza",
+      "url": "https://open.spotify.com/track/3bJ1H9XkqkKjXEeidp9Qm4"
     },
     {
       "added_at": "2022-05-08 18:08:38",
@@ -487,54 +503,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Intwenjani",
-        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
-      },
-      "artists": [
-        {
-          "name": "Mawillies",
-          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
-        }
-      ],
-      "duration_ms": 343546,
-      "name": "Thula Mabota",
-      "url": "https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "Y U 4 Me",
-        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 451466,
-      "name": "Y U 4 Me",
-      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "Sigiya Ngengoma",
-        "url": "https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs"
-      },
-      "artists": [
-        {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
-        }
-      ],
-      "duration_ms": 399160,
-      "name": "Sigiya Ngengoma",
-      "url": "https://open.spotify.com/track/4GdkrELjR4thBSc2KdfulR"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "S'guqa Ngamadolo",
         "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
       },
@@ -567,6 +535,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "Y U 4 Me",
+        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 451466,
+      "name": "Y U 4 Me",
+      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "Chizboy",
         "url": "https://open.spotify.com/album/6kRcW1KLuahxy5CJP91piF"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "Sigiya Ngengoma",
+        "url": "https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs"
+      },
+      "artists": [
+        {
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        }
+      ],
+      "duration_ms": 399160,
+      "name": "Sigiya Ngengoma",
+      "url": "https://open.spotify.com/track/4GdkrELjR4thBSc2KdfulR"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "Tsotsi",
         "url": "https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409"
       },
@@ -595,38 +595,6 @@
       "duration_ms": 253466,
       "name": "Izinja",
       "url": "https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "King Don Father 2002",
-        "url": "https://open.spotify.com/album/7zK4L4LnMM2kQmd1A8PQAd"
-      },
-      "artists": [
-        {
-          "name": "Spikiri",
-          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
-        }
-      ],
-      "duration_ms": 358426,
-      "name": "Vat-En-Sit",
-      "url": "https://open.spotify.com/track/6oYjN6OGK0NjnWxQCQ9Bgc"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "Always Da Case",
-        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 424653,
-      "name": "Ma Bankbook",
-      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -659,6 +627,38 @@
       "duration_ms": 243332,
       "name": "Klaimar",
       "url": "https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "King Don Father 2002",
+        "url": "https://open.spotify.com/album/7zK4L4LnMM2kQmd1A8PQAd"
+      },
+      "artists": [
+        {
+          "name": "Spikiri",
+          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
+        }
+      ],
+      "duration_ms": 358426,
+      "name": "Vat-En-Sit",
+      "url": "https://open.spotify.com/track/6oYjN6OGK0NjnWxQCQ9Bgc"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Always Da Case",
+        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 424653,
+      "name": "Ma Bankbook",
+      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "S'guqa Ngamadolo",
-        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
-      },
-      "artists": [
-        {
-          "name": "Mzekezeke",
-          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
-        }
-      ],
-      "duration_ms": 337400,
-      "name": "Amakoporosh",
-      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "S'kumfete",
         "url": "https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 347480,
       "name": "Ghets Ghetsa",
       "url": "https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "S'guqa Ngamadolo",
+        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
+      },
+      "artists": [
+        {
+          "name": "Mzekezeke",
+          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
+        }
+      ],
+      "duration_ms": 337400,
+      "name": "Amakoporosh",
+      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Lost 'N Found",
-        "url": "https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys"
-      },
-      "artists": [
-        {
-          "name": "Mashamplani",
-          "url": "https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Lost 'N Found",
-      "url": "https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Traffic Cop",
         "url": "https://open.spotify.com/album/3kbCt8sjjreUDsj58En0MH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 322330,
       "name": "Traffic Cop",
       "url": "https://open.spotify.com/track/2W4OnQi6OjNeuSH91Y84WJ"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Lost 'N Found",
+        "url": "https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys"
+      },
+      "artists": [
+        {
+          "name": "Mashamplani",
+          "url": "https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Lost 'N Found",
+      "url": "https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy"
     },
     {
       "added_at": "2022-04-25 18:44:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,276 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,280 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Hot Things](https://open.spotify.com/track/2KjkXKhalXNzDgO8QOqIzu) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Hot Things](https://open.spotify.com/album/0KN38aCbmazAlM73rAnpyq) | 4:18 |
 | 100 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 |
 
-Snapshot ID: `MCwwNjEzZGM0NTE5OWZkMzNkYTViODVjOGE3MWI0ODkyMjgxNWVlMjhi`
+Snapshot ID: `MCxkYzk0ZGIwZjMyMGQ3M2M0OGEzZGU3ZTY3NjEyYmVlYjk4OWU1Zjcw`

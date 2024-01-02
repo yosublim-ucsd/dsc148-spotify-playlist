@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 101052,
       "name": "Arrive",
       "url": "https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z"
@@ -63348,6 +63348,28 @@
       "duration_ms": 194761,
       "name": "Spruce",
       "url": "https://open.spotify.com/track/101fiPsZxurBGcGMhNV6tK"
+    },
+    {
+      "album": {
+        "name": "Spuma",
+        "url": "https://open.spotify.com/album/2cDKCAcslyWBNH0ipun9DO"
+      },
+      "artists": [
+        {
+          "name": "Hanses",
+          "url": "https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122891,
+      "name": "Spuma",
+      "url": "https://open.spotify.com/track/74sjh59eGNeDJquK4eCwWA"
     },
     {
       "album": {

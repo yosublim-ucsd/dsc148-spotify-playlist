@@ -866,6 +866,24 @@
     {
       "album": {
         "name": "Happy Holidays to You",
+        "url": "https://open.spotify.com/album/4SXOy0zcKjGS3lBtwwj6Bl"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Happy Holidays to You",
+      "url": "https://open.spotify.com/track/1LWpPFDwdRkRdQo0nXYJ1Z"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays to You",
         "url": "https://open.spotify.com/album/5dGZhYrL2Ybitu4kmsApi4"
       },
       "artists": [
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 190799,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"

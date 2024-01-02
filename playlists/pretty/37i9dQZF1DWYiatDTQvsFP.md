@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > you just had to be there\. cover: Outkast
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,159 likes - 85 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,667 likes - 85 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 84 | [Touch Me Tease Me](https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Case](https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID) | 3:47 |
 | 85 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
 
-Snapshot ID: `MCw3MDMwYjA2YmFmNzQ2Y2QyN2EyNDYzMWUwODNmNWVjOGM1NTkxYmY3`
+Snapshot ID: `MCwwZWFiNzFhMDBhZTk4OWEyYTY2YjdlOWMxZDQwOTAzNDJiOWI1ODQw`

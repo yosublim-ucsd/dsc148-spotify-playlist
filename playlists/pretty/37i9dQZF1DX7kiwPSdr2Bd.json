@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Mari Borges",
-  "num_followers": 313538,
+  "num_followers": 313642,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjEzZTFjZGVlMDM4NGU2ODExNzkwMTg2Y2ExNTZkYjlkMjIwNjk0",
+  "snapshot_id": "MCxkMTc1MTg4NGRjMzFhNDQ1MzBjNTFlMTAzYzExODhiNDBhMzdiYmYz",
   "tracks": [
     {
       "added_at": "2023-12-22 15:14:14",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -123,26 +139,6 @@
       "duration_ms": 303346,
       "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Conta pra Mim",
-        "url": "https://open.spotify.com/album/5IAtIi5S69uMdaYxiJQf4B"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 227968,
-      "name": "Conta pra Mim",
-      "url": "https://open.spotify.com/track/2y1anRkk9uZtINE7xlAbxI"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -163,18 +159,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+        "name": "Conta pra Mim",
+        "url": "https://open.spotify.com/album/5IAtIi5S69uMdaYxiJQf4B"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+      "duration_ms": 227968,
+      "name": "Conta pra Mim",
+      "url": "https://open.spotify.com/track/2y1anRkk9uZtINE7xlAbxI"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -255,6 +271,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Ent\u00e3o Profetiza",
+        "url": "https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 259505,
+      "name": "Ent\u00e3o Profetiza",
+      "url": "https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
       },
@@ -267,22 +299,6 @@
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -327,22 +343,6 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Ent\u00e3o Profetiza",
-        "url": "https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 259505,
-      "name": "Ent\u00e3o Profetiza",
-      "url": "https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -435,22 +451,6 @@
       "duration_ms": 298174,
       "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
       "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "30 Anos Na Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 367349,
-      "name": "Sonda-me Usa-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 341420,
       "name": "Porque Ele Vive",
       "url": "https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 367349,
+      "name": "Sonda-me Usa-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
       },
@@ -695,22 +715,18 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -763,42 +779,6 @@
       "duration_ms": 301395,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -863,6 +843,26 @@
       "duration_ms": 265026,
       "name": "Aos P\u00e9s da Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Can\u00e7\u00e3o da Noiva",
+        "url": "https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 369317,
+      "name": "Can\u00e7\u00e3o da Noiva",
+      "url": "https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Can\u00e7\u00e3o da Noiva",
-        "url": "https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO"
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
       },
       "artists": [
         {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
         }
       ],
-      "duration_ms": 369317,
-      "name": "Can\u00e7\u00e3o da Noiva",
-      "url": "https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR"
+      "duration_ms": 327756,
+      "name": "Santo para Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Santo pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 327756,
-      "name": "Santo para Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
         "name": "Na Un\u00e7\u00e3o de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7y08pBnk5D0K4SdGgVJLM6"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 338571,
       "name": "Na Un\u00e7\u00e3o de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/0eAEn4Haj90B5KLNc7bJSx"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -1055,6 +1039,22 @@
       "duration_ms": 312674,
       "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Vencer ou Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Grande \u00e9 o Nosso Deus",
         "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 264786,
       "name": "Vem, Espi\u0301rito de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Vencer ou Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Milagre Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "duration_ms": 348595,
+      "name": "Milagre Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/5RXHfNspEa1aTC5cVMuO99"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Eu Mais Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 419665,
       "name": "Eu Mais Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Milagre Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        }
-      ],
-      "duration_ms": 348595,
-      "name": "Milagre Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/5RXHfNspEa1aTC5cVMuO99"
     },
     {
       "added_at": "2023-12-22 15:14:14",

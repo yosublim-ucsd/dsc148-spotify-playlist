@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Dimitri Vegas & Like Mike, Tiësto, Dido, W&W
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810,983 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,346 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Fuego](https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Fuego](https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX) | 2:32 |
 | 50 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 
-Snapshot ID: `MCxkODE5NTg1N2M1YzQ4MDE1MTRiOWNjZWYzMWNlZmFhNjI4YmFmNjU5`
+Snapshot ID: `MCw1NzJmZDhkZmRmM2Q1NzMzOGM0MzMwOTc3ZTc1OTNjODQ1ZDFlMjVk`

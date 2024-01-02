@@ -2,7 +2,7 @@
 
 ### [Massive Dance Classics](https://open.spotify.com/playlist/37i9dQZF1DWYtg7TV07mgz)
 
-> Eliza Rose and Calvin Harries takesover with the ultimate floorfillers! \#NYE2023
+> Eliza Rose and Calvin Harris takeover with the ultimate selection of floorfillers! \#NYE2023
 
 116 songs - 8 hr 8 min
 

@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 80465,
+  "num_followers": 80478,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw",
+  "snapshot_id": "MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "A Weekend in the City",
         "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+        "name": "Blood Red Moon",
+        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+      "duration_ms": 271546,
+      "name": "Blood Red Moon",
+      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -695,22 +711,6 @@
       "duration_ms": 245253,
       "name": "We Only Come Out At Night - Remastered 2012",
       "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Blood Red Moon",
-        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 271546,
-      "name": "Blood Red Moon",
-      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2023-10-27 07:45:00",

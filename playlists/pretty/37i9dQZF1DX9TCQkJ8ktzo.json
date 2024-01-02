@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 33542,
+  "num_followers": 33569,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTY2MmY1MDBiZDYyM2Q3YzYxNWFmOTczMjQwMTYwZTIzYzNjMWNh",
+  "snapshot_id": "MCxhM2VlMmM4ZDk0ZjQ4NTE3Yzg4OWZjYWZhYzgwNTUzYmI4NWU0OTdm",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "La Plaga",
         "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
       },
@@ -203,6 +203,26 @@
       "duration_ms": 163493,
       "name": "De Mil Maneras",
       "url": "https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
+        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 178651,
+      "name": "Siluetas",
+      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -255,6 +275,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -271,42 +307,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
-        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 178651,
-      "name": "Siluetas",
-      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "100 A\u00f1os de Musica",
         "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 142785,
       "name": "Bule Bule",
       "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -371,18 +355,34 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Lleg\u00f3 Borracho el Borracho",
-      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+      "duration_ms": 148546,
+      "name": "Palabra de Rey",
+      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Lleg\u00f3 Borracho el Borracho",
+      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 191738,
       "name": "Estremecete",
       "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Palabra de Rey",
-      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Los Incre\u00edbles Machucambos",
-        "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
-      },
-      "artists": [
-        {
-          "name": "Los Machucambos",
-          "url": "https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Pepito",
-      "url": "https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 141240,
       "name": "Muchacha Bonita",
       "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Los Incre\u00edbles Machucambos",
+        "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
+      },
+      "artists": [
+        {
+          "name": "Los Machucambos",
+          "url": "https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Pepito",
+      "url": "https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Rock de los 60's",
-        "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
       "artists": [
         {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 169520,
-      "name": "La Novia de Mi Mejor Amigo",
-      "url": "https://open.spotify.com/track/28LShwDy6gR9hKDUNKWCWX"
+      "duration_ms": 128666,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -631,6 +615,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Rock de los 60's",
+        "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "La Novia de Mi Mejor Amigo",
+      "url": "https://open.spotify.com/track/28LShwDy6gR9hKDUNKWCWX"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Ven Que Te Quiero",
         "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 125176,
       "name": "Ya No Llores",
       "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Rock de los 60's",
-        "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
-        }
-      ],
-      "duration_ms": 161746,
-      "name": "Cuando Era un Jovencito",
-      "url": "https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Los Exitos de Oro de Los Crazy Boy's",
         "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Doble 2 En 1",
         "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Agujetas de Color de Rosa",
-      "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
+      "duration_ms": 161746,
+      "name": "Cuando Era un Jovencito",
+      "url": "https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -819,6 +803,22 @@
       "duration_ms": 181452,
       "name": "Tengo Diecisiete A\u00f1os - Remastered",
       "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Y Todavia Te Quiero",
+        "url": "https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Amigo Organillero",
+      "url": "https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1"
     }
   ],
   "unique_name": "60s Latino",

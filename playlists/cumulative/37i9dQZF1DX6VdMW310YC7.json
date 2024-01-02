@@ -18540,7 +18540,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 228011,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
@@ -22486,6 +22486,28 @@
       "duration_ms": 201650,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/2m9qRdqlX38yroyuxGGMO1"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Running Touch",
+          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225922,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz"
     },
     {
       "album": {

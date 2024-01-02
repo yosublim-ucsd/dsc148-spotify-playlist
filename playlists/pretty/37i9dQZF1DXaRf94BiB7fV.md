@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,890 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,913 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 11 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 | 12 | [Kahaniyan](https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Kahaniyan](https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H) | 3:54 |
 | 13 | [kahaani](https://open.spotify.com/track/3EER6QKtcVG47HM0dyFztK) | [Zupiter](https://open.spotify.com/artist/0V2QyUaQC3RGyhFNoix7GV), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [kahaani](https://open.spotify.com/album/7p3lIF1E1fKZsGWX9M5IGK) | 3:46 |
-| 14 | [Intezaar](https://open.spotify.com/track/3Ie3WaIFZ9iz4NGFUwfglW) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Intezaar](https://open.spotify.com/album/2EtuqO9V0PjIFsY4VHw61p) | 4:25 |
+| 14 | [Intezaar](https://open.spotify.com/track/3l5fu20cN3ZvPzStp1g8om) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Intezaar](https://open.spotify.com/album/19K9QVjB2uxnzyOWie2iwC) | 4:25 |
 | 15 | [Maula Mere](https://open.spotify.com/track/1JHcOGyKs5i3qp9fOI2KIh) | [Paul Mahanta](https://open.spotify.com/artist/64KCnRRaqZTfOIamQmgTtt), [Yasir Nadim](https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ) | [Maula Mere](https://open.spotify.com/album/2vjpDMWZgqcNlEyeRMiYtm) | 4:25 |
 | 16 | [Floating](https://open.spotify.com/track/3G5m7fql0Jwi3JN6ynnVvv) | [Parishrut](https://open.spotify.com/artist/4Hd0VhGuqw4ZSgddvbG7JR), [Nitish](https://open.spotify.com/artist/55tcwLWNvRbE8cHxNAKP16) | [Floating](https://open.spotify.com/album/3gjacm9ZANowio3OGeivoK) | 4:35 |
 | 17 | [Tasveerain](https://open.spotify.com/track/1iB2MKaoaKqyTYPEYQ7E7n) | [Abhinab Dan](https://open.spotify.com/artist/1fiHm3FohHFTqYkgLrDDtQ) | [Khidhki](https://open.spotify.com/album/7k3oL8GeSMNFcJBcjZcnew) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 |
 | 50 | [Guzarish](https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Guzarish](https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV) | 3:13 |
 
-Snapshot ID: `MCw3NmU2ZmMzODBiZGY0ODE3MGQ5NDg2NjQ1OTBlYTEwNjU1MTFiODIx`
+Snapshot ID: `MCxkMTczOGI2OWE1YjE0YzBiODdhNjdlMTg3M2Y5ZTM3NWJlZDE5MTdh`

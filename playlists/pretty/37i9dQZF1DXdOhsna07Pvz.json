@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 66328,
+  "num_followers": 66422,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTQ5MmJlMDNjN2NiYmU0YWRmMzJiNTFlODRhNDdkYTQ3ZmQ5ZTRj",
+  "snapshot_id": "MCwyNTk2ZTgzM2Q5M2ZiZThkYjcwMThhMWYwZWRkODhjNjI1ODA5MTZj",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -163,38 +163,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 201655,
-      "name": "Caetano Veloso",
-      "url": "https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -211,6 +179,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 201655,
+      "name": "Caetano Veloso",
+      "url": "https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Bom Demais",
         "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
-        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Na Estrada",
-      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 182160,
       "name": "Samba da B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
+        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -451,6 +451,38 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Fera Ferida",
+      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Toda Menina Baiana",
+      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Gr\u00e1vido",
         "url": "https://open.spotify.com/album/2sTdX5IvSvf8cZLUcnAlc0"
       },
@@ -483,22 +515,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Toda Menina Baiana",
-      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 127773,
       "name": "Esperar pra Ver",
       "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Fera Ferida",
-      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "\"Os Mutantes\"",
         "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 284986,
       "name": "A Minha Menina",
       "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -779,18 +795,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -811,22 +827,6 @@
       "duration_ms": 207916,
       "name": "Bixinho - Lux & Tr\u00f3ia \u2013 Remix",
       "url": "https://open.spotify.com/track/4sUQddjXIU07mUYcax8udC"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pochete",
-        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+        "name": "Alegria, Alegria!!!",
+        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
         }
       ],
-      "duration_ms": 235712,
-      "name": "Pochete",
-      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+      "duration_ms": 152613,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pochete",
+        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 235712,
+      "name": "Pochete",
+      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 397493,
       "name": "Preta Pretinha",
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Alegria, Alegria!!!",
-        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Nem Vem Que N\u00e3o Tem",
-      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -971,42 +971,6 @@
       "duration_ms": 203040,
       "name": "Cad\u00ea Tereza",
       "url": "https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pequim",
-        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        },
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Pequim",
-      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1071,6 +1035,26 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pequim",
+        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        },
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Pequim",
+      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Gal Tropical",
         "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 226000,
       "name": "Meu Nome \u00c9 Gal",
       "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1107,38 +1107,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Leci Brand\u00e3o",
-        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
+        "name": "Afrocidade na Pista",
+        "url": "https://open.spotify.com/album/1we9MO95vpY2jLSyiVmtlF"
       },
       "artists": [
         {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
         },
         {
-          "name": "Marizinha",
-          "url": "https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA"
+          "name": "Mahal Pita",
+          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Nereci",
-      "url": "https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs"
+      "duration_ms": 218536,
+      "name": "Baby Te Liguei",
+      "url": "https://open.spotify.com/track/3Zw7HgzevAD1ZJ4GVOXpUK"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Afrocidade na Pista",
-        "url": "https://open.spotify.com/album/1we9MO95vpY2jLSyiVmtlF"
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC"
       },
       "artists": [
         {
-          "name": "Afrocidade",
-          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         },
         {
-          "name": "Mahal Pita",
-          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
+          "name": "Marizinha",
+          "url": "https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA"
         }
       ],
-      "duration_ms": 218536,
-      "name": "Baby Te Liguei",
-      "url": "https://open.spotify.com/track/3Zw7HgzevAD1ZJ4GVOXpUK"
+      "duration_ms": 199800,
+      "name": "Nereci",
+      "url": "https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs"
     }
   ],
   "unique_name": "Baile Maravilha",

@@ -6,7 +6,7 @@
     "name": "x0icl",
     "url": "https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4"
   },
-  "snapshot_id": "NDgyLDljMmQ4YjMxNDZlZDBmM2I0MzA2NDZhNmQ1MGRkODYzM2Q2YzMxZmY=",
+  "snapshot_id": "NDgzLDZiNWM5ZWNhYWEzNjI5YjdhNTk2ZmRmN2VjNGIzYzdlNDA5NjMwMzQ=",
   "tracks": [
     {
       "added_at": "2021-09-23 04:37:01",
@@ -2259,6 +2259,34 @@
       "duration_ms": 105000,
       "name": "I <3 My Choppa",
       "url": "https://open.spotify.com/track/0Dk9lP1YnOqssHH0oCeq9u"
+    },
+    {
+      "added_at": "2024-01-01 07:58:22",
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3uruLNmePN10sgkkrZ6heR"
+      },
+      "artists": [
+        {
+          "name": "FTP",
+          "url": "https://open.spotify.com/artist/1A4mZpKoL1xtvbMTTUUAKz"
+        },
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        },
+        {
+          "name": "Hackle",
+          "url": "https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Fuck The World",
+      "url": "https://open.spotify.com/track/7d9AYBfzMRbJBuSiVvhJRn"
     }
   ],
   "unique_name": "Haunted House",

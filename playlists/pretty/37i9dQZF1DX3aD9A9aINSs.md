@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > EQUAL sunar: Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ebru Gündeş
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,378 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,468 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 74 | [Böyle Nasıl Yaşanır](https://open.spotify.com/track/1cGHhGciQ4AgNYP27E3dj9) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Böyle Nasıl Yaşanır](https://open.spotify.com/album/1kTnWLu6qvJd6ntVPazpAK) | 3:56 |
 | 75 | [İnsan Olmak](https://open.spotify.com/track/2M8T5E9qbNipWDSeQKYa12) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [İnsan Olmak](https://open.spotify.com/album/2pXirdzmxBoDunTZE806Ts) | 3:24 |
 
-Snapshot ID: `MCxiZDAyNmMxMTU3MDMwMjJjMGMzYjQ3YTY2YjFiZjA5MGI0Mjg4ZWVm`
+Snapshot ID: `MCw0YWUyNjU0MzQ2ZDExMzU4MGFiODM1MDJjZGU5ZDdkZGYyODMzNmMx`

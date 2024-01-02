@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 128651,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 293876,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/1vooOSbojid1cOODhA8xHA"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 173631,
       "name": "D & G",
       "url": "https://open.spotify.com/track/4UMYrNnq5QuaaxmblQ7ZEw"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
@@ -992,10 +992,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+    },
+    {
+      "album": {
+        "name": "For the Night (Official Video)",
+        "url": "https://open.spotify.com/album/5FoYl7dDkdQruogblSO6ar"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231658,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci"
     },
     {
       "album": {
@@ -1079,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Have Mercy",
+        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
         "name": "Have Mercy (Official Video)",
         "url": "https://open.spotify.com/album/0t88wJMagDTc3rRSjrVnTD"
       },
@@ -1090,7 +1130,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 213610,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/17xePGxxXfP3iyvYBfk6Z0"
@@ -1534,7 +1574,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr"
@@ -1560,7 +1600,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 175508,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/1CbJlw9BG647gPCGoieave"
@@ -1955,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/1DYWU6Zer0ncB1z7p0OcJO"
       },
@@ -1966,7 +2024,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 177510,
       "name": "positions",
       "url": "https://open.spotify.com/track/403oLfci9HNYbMrU0cTrGe"
@@ -2420,7 +2478,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/3JXF3LsUjyDIHjuwhXxdjo"
@@ -2442,7 +2500,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 215798,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/6LaTT2NL0tjLa5MeOKH02p"
@@ -2482,7 +2540,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 281985,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/6ISN7qvnXR0EdxE0l7vTRK"
@@ -2504,7 +2562,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 283950,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/4YDGIk0vg21LMfTq9hNlbW"
@@ -2678,7 +2736,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 181102,
       "name": "Type a Way (feat. Chris Brown & OG Parker)",
       "url": "https://open.spotify.com/track/3wtbl8uMml7VgxaDEvGCJ7"
@@ -2704,7 +2762,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 233151,
       "name": "Type a Way (feat. Chris Brown & OG Parker)",
       "url": "https://open.spotify.com/track/7dCKlvT7e1saJubndMfn18"
@@ -2792,10 +2850,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 162751,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/2RaxPAWpOHyececTv2g8Ib"
+    },
+    {
+      "album": {
+        "name": "Nobody Is Listening",
+        "url": "https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "Vibez",
+      "url": "https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L"
     },
     {
       "album": {

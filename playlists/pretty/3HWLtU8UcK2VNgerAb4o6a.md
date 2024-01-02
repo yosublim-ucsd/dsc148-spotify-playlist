@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 
 > 
 
-[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 1 like - 135 songs - 4 hr 43 min
+[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 1 like - 136 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 | 133 | [M...\. She Wrote](https://open.spotify.com/track/1WRzux3cJRM9xRNN99QKgR) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:52 |
 | 134 | [Saran Pack](https://open.spotify.com/track/7m1cNdKABpKy0aAtsKAIGx) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:10 |
 | 135 | [I <3 My Choppa](https://open.spotify.com/track/0Dk9lP1YnOqssHH0oCeq9u) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:45 |
+| 136 | [Fuck The World](https://open.spotify.com/track/7d9AYBfzMRbJBuSiVvhJRn) | [FTP](https://open.spotify.com/artist/1A4mZpKoL1xtvbMTTUUAKz), [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Fuck The World](https://open.spotify.com/album/3uruLNmePN10sgkkrZ6heR) | 4:11 |
 
-Snapshot ID: `NDgyLDljMmQ4YjMxNDZlZDBmM2I0MzA2NDZhNmQ1MGRkODYzM2Q2YzMxZmY=`
+Snapshot ID: `NDgzLDZiNWM5ZWNhYWEzNjI5YjdhNTk2ZmRmN2VjNGIzYzdlNDA5NjMwMzQ=`

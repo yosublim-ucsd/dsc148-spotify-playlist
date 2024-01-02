@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 223653,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
@@ -3762,6 +3762,24 @@
       "duration_ms": 196040,
       "name": "Stillborn",
       "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
+    },
+    {
+      "album": {
+        "name": "The Blessed Hellride",
+        "url": "https://open.spotify.com/album/2xeT6RXRKJqGS1MLNDJPVc"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196040,
+      "name": "Stillborn",
+      "url": "https://open.spotify.com/track/7s6Rk59SDllxPq5omrxJT4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18814,
+  "num_followers": 18819,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2MxOTJmYTVlN2FlZmI2YmFhOTg5YzgwYWE2OTM4NDQ4M2VkZGVh",
+  "snapshot_id": "MCw2ZWMyODg0MWNkMDJhZDg0ODU2MTdkODMyMDk3MjhkMTc4MzUyZjFi",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thanks",
         "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249186,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 305581,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Pour Your Spirit Out (Live)",
-        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 353282,
-      "name": "Always So Good - Live",
-      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Live in Chicago",
         "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 329824,
       "name": "Oh Give Thanks - Live",
       "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Pour Your Spirit Out (Live)",
+        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 353282,
+      "name": "Always So Good - Live",
+      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Songs 4 Worship Gospel - God Is In the House",
+        "url": "https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr & The Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
+        }
+      ],
+      "duration_ms": 389920,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "I Won't Forget",
         "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 521973,
       "name": "I Won't Forget (Live)",
       "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Songs 4 Worship Gospel - God Is In the House",
-        "url": "https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr & The Kurt Carr Singers",
-          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
-        }
-      ],
-      "duration_ms": 389920,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-47 songs - 3 hr 13 min
+48 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [O kaka](https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [YZ](https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o) | 3:10 | 2023-07-04 |  |
 | [O Sheth \(Dj Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(Dj Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 | 2023-07-04 |  |
 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 | 2023-07-04 |  |
-| [Patil Aala](https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO) | 3:57 | 2023-07-04 |  |
+| [Patil Aala](https://open.spotify.com/track/3VJ7TQBLzhxeuycUilml6P) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/7gWdJghoAQWCKVQQ0Tb0IZ) | 3:57 | 2023-12-20 |  |
+| [Patil Aala](https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO) | 3:57 | 2023-07-04 | 2024-01-02 |
 | [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 | 2023-07-04 | 2023-12-27 |
 | [Payee Fufata](https://open.spotify.com/track/7AvfiB7Paq388ecxkoq5Mf) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/0V3pWtGPwy18JU8pTHXs8w) | 4:06 | 2023-12-20 |  |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-07-04 |  |

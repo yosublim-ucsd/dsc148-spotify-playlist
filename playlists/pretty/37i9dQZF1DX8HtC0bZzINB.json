@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 85764,
+  "num_followers": 85759,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz",
+  "snapshot_id": "MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "A\u015fk Olsun",
+        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 141305,
+      "name": "A\u015fk Olsun",
+      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Kan",
         "url": "https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "A\u015fk Olsun",
-        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 141305,
-      "name": "A\u015fk Olsun",
-      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Veda Saati",
+        "url": "https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 147760,
+      "name": "Veda Saati",
+      "url": "https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "D\u00fcnya'm 20:24",
         "url": "https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 154923,
       "name": "Melek",
       "url": "https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Veda Saati",
-        "url": "https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 147760,
-      "name": "Veda Saati",
-      "url": "https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -375,6 +375,26 @@
       "duration_ms": 154173,
       "name": "Bul Beni",
       "url": "https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "k\u00f6rd\u00fc\u011f\u00fcm",
+        "url": "https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Jako",
+          "url": "https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "k\u00f6rd\u00fc\u011f\u00fcm",
+      "url": "https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -447,22 +467,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "k\u00f6rd\u00fc\u011f\u00fcm",
-        "url": "https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez"
+        "name": "S\u00d6YLENEYD\u0130BU?",
+        "url": "https://open.spotify.com/album/1w4ty6XQiTnVXVddrLhOtD"
       },
       "artists": [
         {
           "name": "Sefo",
           "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Jako",
-          "url": "https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4"
         }
       ],
-      "duration_ms": 166053,
-      "name": "k\u00f6rd\u00fc\u011f\u00fcm",
-      "url": "https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p"
+      "duration_ms": 125973,
+      "name": "S\u00d6YLENEYD\u0130BU?",
+      "url": "https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -499,26 +515,6 @@
       "duration_ms": 177071,
       "name": "Yang\u0131nlar",
       "url": "https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 167350,
-      "name": "Bi Sonraki Hayat\u0131mda Gel",
-      "url": "https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -587,6 +583,26 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 167350,
+      "name": "Bi Sonraki Hayat\u0131mda Gel",
+      "url": "https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Goal",
         "url": "https://open.spotify.com/album/0sQ3MO1z5HTIKEUYu56aGo"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 194586,
       "name": "Goal",
       "url": "https://open.spotify.com/track/4QVEEOx7TeTA0vQfeP8tgN"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "S\u00d6YLENEYD\u0130BU?",
-        "url": "https://open.spotify.com/album/1w4ty6XQiTnVXVddrLhOtD"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "S\u00d6YLENEYD\u0130BU?",
-      "url": "https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -779,42 +779,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Yast\u0131k \u0130zi",
-        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
-      },
-      "artists": [
-        {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
-        }
-      ],
-      "duration_ms": 103269,
-      "name": "Yast\u0131k \u0130zi",
-      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Imdat (feat. Hadise)",
-        "url": "https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        }
-      ],
-      "duration_ms": 194609,
-      "name": "Imdat (feat. Hadise)",
-      "url": "https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Kimse bilmiyor",
         "url": "https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK"
       },
@@ -855,6 +819,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Yast\u0131k \u0130zi",
+        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
+      },
+      "artists": [
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+        }
+      ],
+      "duration_ms": 103269,
+      "name": "Yast\u0131k \u0130zi",
+      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "bu gece da\u011f\u0131t\u0131cam..",
         "url": "https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 139978,
       "name": "bu gece da\u011f\u0131t\u0131cam..",
       "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Imdat (feat. Hadise)",
+        "url": "https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "duration_ms": 194609,
+      "name": "Imdat (feat. Hadise)",
+      "url": "https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01"
     },
     {
       "added_at": "2023-08-31 21:00:00",

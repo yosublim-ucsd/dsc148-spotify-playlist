@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,889 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,931 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Nouvo Mood](https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Nouvo Mood](https://open.spotify.com/album/10fFzO2zWNOQZ8YFSu5jtK) | 2:01 |
 | 40 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 
-Snapshot ID: `MCwyN2NjYmNmNmJhZTZlMGMwYTA0MzhlMzQyMDZmMzcyMmY1ODNhYzhm`
+Snapshot ID: `MCxhNmRhNWQ3ZjRjNTYwYTkxMmQ0YWJmODNiZmE1NWRhYWI4YzcyZjJj`

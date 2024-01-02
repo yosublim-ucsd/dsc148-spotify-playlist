@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-02",
       "duration_ms": 214693,
       "name": "Enfermo de Amor",
       "url": "https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ"
@@ -738,6 +738,24 @@
       "duration_ms": 174445,
       "name": "Las Mismas Costumbres",
       "url": "https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH"
+    },
+    {
+      "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Le Doblamos La Edad",
+      "url": "https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB"
     },
     {
       "album": {

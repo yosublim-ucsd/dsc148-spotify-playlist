@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-652 songs - 1 day 0 hr 47 min
+653 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [ALORS BRAZIL](https://open.spotify.com/track/1chCGrgY25SomU1q8CMjAt) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/1sP5cWEnYWAEmIQutGSDks) | 1:41 | 2023-09-15 | 2023-12-24 |
 | [ALORS BRAZIL](https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms) | [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [dec24](https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8) | [ALORS BRAZIL](https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu) | 1:41 | 2023-09-15 | 2023-12-08 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0VEK4A4lZtorqS8rXndRhT) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/2Lk0LlfJ3CuQf16sQmGu2I) | 1:41 | 2023-09-15 | 2023-12-31 |
+| [ALORS BRAZIL](https://open.spotify.com/track/105pOaGifCwX7Z35by9uJx) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/2ptpp1z0LcTxLFMTa7cTYN) | 1:41 | 2023-09-15 |  |
 | [ALORS BRAZIL](https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [ALORS BRAZIL](https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4) | 1:41 | 2023-09-15 | 2023-12-03 |
-| [ALORS BRAZIL](https://open.spotify.com/track/4LT0bO8zVoqjqBlATlgpzr) | [FRE4K](https://open.spotify.com/artist/2iw30MRIGi6P9Du0EJxPc8) | [ALORS BRAZIL](https://open.spotify.com/album/4SxvncwccFwvg8ipLP2ibt) | 1:41 | 2023-09-15 |  |
+| [ALORS BRAZIL](https://open.spotify.com/track/4LT0bO8zVoqjqBlATlgpzr) | [FRE4K](https://open.spotify.com/artist/2iw30MRIGi6P9Du0EJxPc8) | [ALORS BRAZIL](https://open.spotify.com/album/4SxvncwccFwvg8ipLP2ibt) | 1:41 | 2023-09-15 | 2024-01-02 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 | 2023-11-30 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 | 2024-01-01 |
 | [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 | 2023-09-15 | 2023-12-04 |

@@ -4,7 +4,7 @@
 
 > love peace techno
 
-200 songs - 13 hr 33 min
+201 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 | 2023-03-10 | 2023-04-19 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 | 2023-03-10 | 2023-07-01 |
+| [My Little White Pony](https://open.spotify.com/track/33yObVbcqIYJp9P2KqxpRr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/3efBd0Ks3qLk0pL1S98BXb) | 4:59 | 2023-12-22 |  |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Neon Bliss](https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Neon Bliss](https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh) | 5:24 | 2023-09-21 | 2023-09-30 |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-10 | 2023-05-06 |
@@ -150,7 +151,7 @@
 | [Plastic Pleasures \- Sped Up](https://open.spotify.com/track/1FxDdE1F6UWHiolcWgMdUk) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI), [Bubblegun](https://open.spotify.com/artist/5I9H634I54LFb4Gr5VHlac) | [Plastic Pleasures](https://open.spotify.com/album/2KjPX2BJ3Pi5ICQCRvBjMP) | 3:34 | 2023-10-05 | 2023-10-14 |
 | [Power 2 Tha People](https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Return of the Golden Funk](https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK) | 5:44 | 2023-03-10 | 2023-03-22 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-14 |  |
-| [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 | 2023-06-22 |  |
+| [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 | 2023-06-22 | 2024-01-02 |
 | [Promises](https://open.spotify.com/track/3z1fidS7QtOfR2Y7EIqP2L) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv) | [Promises](https://open.spotify.com/album/6ynt21bDpHrHaSlqyq2gWx) | 2:20 | 2023-06-15 | 2023-08-05 |
 | [Pump This](https://open.spotify.com/track/3zv6z0evv8QiIJjA8yOWAf) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Pump This](https://open.spotify.com/album/0vYFogRb0q1U9UhVcy9o8f) | 4:09 | 2023-03-10 | 2023-04-19 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-05-10 |  |

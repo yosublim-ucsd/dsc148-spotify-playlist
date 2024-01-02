@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 69889,
+  "num_followers": 69945,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmZiNjM0YTVmZGVkZDVmMTNhZWY5ODM1MDk5NzkxOTk2ODI2N2Jh",
+  "snapshot_id": "MCw2OTU1N2M0NDNmYTljM2YzM2FjYTg4NGE1Yzc3ZDY2ODYzN2Y5NzI5",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -179,58 +179,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Noches de Soledad",
-        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
-      },
-      "artists": [
-        {
-          "name": "Santiago Cardona",
-          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Noches de Soledad",
-      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
-    },
-    {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Albaricoque",
-        "url": "https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Albaricoque",
-      "url": "https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
-      },
-      "artists": [
-        {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -251,6 +199,58 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya (feat. Gerardo Orti\u0301z & Ame\u0301rica Sierra)",
       "url": "https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD"
+    },
+    {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Albaricoque",
+        "url": "https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Albaricoque",
+      "url": "https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Noches de Soledad",
+        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Noches de Soledad",
+      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Aleteo VIP Golden Edition",
+        "url": "https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb"
+      },
+      "artists": [
+        {
+          "name": "Jey Agredo",
+          "url": "https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY"
+        },
+        {
+          "name": "Guaracha Aleteo Vip",
+          "url": "https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA"
+        }
+      ],
+      "duration_ms": 266710,
+      "name": "La Trompeta Del Diablo",
+      "url": "https://open.spotify.com/track/60cUW8whWzeVIONqISksOO"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -279,22 +279,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
         },
         {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2023-06-09 02:11:02",
@@ -315,22 +315,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Aleteo VIP Golden Edition",
-        "url": "https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb"
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
       },
       "artists": [
         {
-          "name": "Jey Agredo",
-          "url": "https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
         },
         {
-          "name": "Guaracha Aleteo Vip",
-          "url": "https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA"
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
         }
       ],
-      "duration_ms": 266710,
-      "name": "La Trompeta Del Diablo",
-      "url": "https://open.spotify.com/track/60cUW8whWzeVIONqISksOO"
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Int\u00e9ntalo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        }
+      ],
+      "duration_ms": 191373,
+      "name": "Tribal Guarachoso",
+      "url": "https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Fly Sound",
         "url": "https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 114475,
       "name": "Vivir la Vida",
       "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Int\u00e9ntalo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        }
-      ],
-      "duration_ms": 191373,
-      "name": "Tribal Guarachoso",
-      "url": "https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 260186,
-      "name": "Quiero Bailar (All Through the Night) [feat. Becky G]",
-      "url": "https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "El After Party Ya Llego",
         "url": "https://open.spotify.com/album/1LhDt05IVDdQrwybh3Xsyj"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 238186,
       "name": "Tokio",
       "url": "https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "Quiero Bailar (All Through the Night) [feat. Becky G]",
+      "url": "https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 181818,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -767,6 +767,26 @@
       "duration_ms": 265013,
       "name": "Enamorada de un Cantante",
       "url": "https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -795,26 +815,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "El Tabano",
         "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Generaci\u00f3n Tribal",
-        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
-      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Zapatear",
         "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 162049,
       "name": "Zapatear",
       "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Generaci\u00f3n Tribal",
+        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
+      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Las M\u00e1s Picudas del Tribal",
-        "url": "https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA"
-      },
-      "artists": [
-        {
-          "name": "DJ Morphius",
-          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Mueve Tu Caderita",
-      "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Las M\u00e1s Picudas del Tribal",
+        "url": "https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Mueve Tu Caderita",
+      "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
     }
   ],
   "unique_name": "Fiesta Tribal",

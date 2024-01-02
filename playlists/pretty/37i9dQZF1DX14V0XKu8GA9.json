@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 31242,
+  "num_followers": 31288,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmQ2ZjU3NTg5ZWQ5ZmM2YzI0ZTUwZjM5MjVjYjU0NzQzNTQ1ODk4",
+  "snapshot_id": "MCxiZWFkMDAxMTVhZDk5NzE3OGY0Zjc1NTViNWQzOWQ3NDQwNjFjYWFj",
   "tracks": [
     {
       "added_at": "2023-11-23 01:13:56",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 142205,
-      "name": "Cowboy Killer",
-      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 176033,
       "name": "Glock N Switches (with DJ Drama)",
       "url": "https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "duration_ms": 142205,
+      "name": "Cowboy Killer",
+      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Need That",
         "url": "https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 108723,
       "name": "Clean Up Nice",
       "url": "https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "HorHey",
+        "url": "https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Back Into It",
         "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
       },
@@ -687,42 +707,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "HorHey",
-        "url": "https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
-      },
-      "artists": [
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
       },
@@ -743,46 +727,6 @@
       "duration_ms": 153600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "She gon choose",
-        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
-      },
-      "artists": [
-        {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
-        },
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "She gon choose",
-      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "What It Takes",
-        "url": "https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        },
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -815,6 +759,22 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Vivid Dreams",
         "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
       },
@@ -827,6 +787,26 @@
       "duration_ms": 176506,
       "name": "Vivid Dreams",
       "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "She gon choose",
+        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
+      },
+      "artists": [
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "She gon choose",
+      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -851,26 +831,22 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Hometown (Remix)",
-        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0"
       },
       "artists": [
         {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         },
         {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "TEDIOUS",
-          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9"
         }
       ],
-      "duration_ms": 156966,
-      "name": "Hometown - Remix",
-      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
+      "duration_ms": 149080,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -907,6 +883,30 @@
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Hometown (Remix)",
+        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "TEDIOUS",
+          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
+        }
+      ],
+      "duration_ms": 156966,
+      "name": "Hometown - Remix",
+      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
     },
     {
       "added_at": "2023-11-23 01:13:56",
