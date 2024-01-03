@@ -1,0 +1,32 @@
+pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain](/playlists/plain/7y7llrZikzuEGrtH4sfxRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7y7llrZikzuEGrtH4sfxRA)
+
+### [TERMINAL UNDERGROUND WEEKLY HITTERS](https://open.spotify.com/playlist/7y7llrZikzuEGrtH4sfxRA)
+
+> 
+
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,408 likes - 20 songs - 1 hr 4 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [The Funk You Want](https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [The Funk You Want](https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx) | 2:47 |
+| 2 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 |
+| 3 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
+| 4 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 |
+| 5 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 |
+| 6 | [Error](https://open.spotify.com/track/3bp5E8815MIMRZJlQoudV7) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Error](https://open.spotify.com/album/7msqOU9mJTMzCTwno1mZKL) | 3:37 |
+| 7 | [Cheguei](https://open.spotify.com/track/1XMWTWsSwjykVQOI5uMHrM) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Cheguei](https://open.spotify.com/album/31XlbCYbYY5qAEGJZ5N9Ud) | 2:46 |
+| 8 | [What I Do](https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [What I Do](https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ) | 2:28 |
+| 9 | [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 |
+| 10 | [Say Ooh](https://open.spotify.com/track/6nC9nypRE2z0QASeCtyiVN) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Goody \(UK\)](https://open.spotify.com/artist/2YG1LnTEzee2cml44XWs1i) | [Say Ooh](https://open.spotify.com/album/4gE5XhiTy4oB79A6IlES0a) | 2:30 |
+| 11 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
+| 12 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
+| 13 | [Hideout](https://open.spotify.com/track/45U2R5HG3h8hAHM8N4tuZA) | [TECHTIC](https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt) | [Hideout](https://open.spotify.com/album/4AJ14pYMX8iwMLkEkBd2ZU) | 3:21 |
+| 14 | [Midnight](https://open.spotify.com/track/33QvyCeZbbiKxFaHRpNcUj) | [Giometrik](https://open.spotify.com/artist/2v0CIYs0WEEfiybNkWFJHo) | [Midnight](https://open.spotify.com/album/3tEHRTC5D8fFRCp6hkUCCV) | 2:37 |
+| 15 | [Sudando](https://open.spotify.com/track/00bwY24h5wRkH4dEDvYxuv) | [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI), [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Yuliesky](https://open.spotify.com/artist/1yovZXHEExzif20uz6foeV) | [Sudando](https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX) | 3:26 |
+| 16 | [Get Hype](https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Get Hype](https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ) | 2:51 |
+| 17 | [Ella Quiere](https://open.spotify.com/track/4kfcUGEHMaB4Kxq7YJX5Dz) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Javi Reina](https://open.spotify.com/artist/1KVew7x2sRHBMefHGrWGRV), [Leka el Poeta](https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV), [Jesus Fernandez](https://open.spotify.com/artist/5s15ItDhnfjz7FY28Ion8d) | [Ella Quiere](https://open.spotify.com/album/3mOoMoSfT14Kvrm553iRZy) | 2:08 |
+| 18 | [Pump It Up](https://open.spotify.com/track/6oizENOFHgjFO9zqz56J0p) | [L.I.T](https://open.spotify.com/artist/79PE76jMPidK5Dz6mXOMxS) | [Pump It Up](https://open.spotify.com/album/1UMu8SE03xohGFXwadvrMa) | 2:50 |
+| 19 | [Love Another Time \- JADED Remix](https://open.spotify.com/track/3fpQkCmhK124CsWDEIbInS) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Love Another Time \(JADED Remix\)](https://open.spotify.com/album/1UFRFNgMUGOjoVbPVQawCZ) | 3:52 |
+| 20 | [Follow](https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Follow](https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60) | 3:10 |
+
+Snapshot ID: `NDY1Niw1NGM1MWFiOWJjNzJkYzgzZDgyMmMxNTBhMTQ0MzRmZDQ0NmJjZDNk`

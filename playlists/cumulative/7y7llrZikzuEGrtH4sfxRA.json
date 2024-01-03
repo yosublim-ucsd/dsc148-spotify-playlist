@@ -1,0 +1,436 @@
+{
+  "date_first_scraped": "2024-01-03",
+  "description": "",
+  "name": "TERMINAL UNDERGROUND WEEKLY HITTERS",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ain't No Other Man (Rework)",
+        "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Ain't No Other Man - Rework",
+      "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
+    },
+    {
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
+    },
+    {
+      "album": {
+        "name": "CARNET (Cloonee Remix)",
+        "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225587,
+      "name": "CARNET - Cloonee Remix",
+      "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+    },
+    {
+      "album": {
+        "name": "Cheguei",
+        "url": "https://open.spotify.com/album/31XlbCYbYY5qAEGJZ5N9Ud"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166296,
+      "name": "Cheguei",
+      "url": "https://open.spotify.com/track/1XMWTWsSwjykVQOI5uMHrM"
+    },
+    {
+      "album": {
+        "name": "Ella Quiere",
+        "url": "https://open.spotify.com/album/3mOoMoSfT14Kvrm553iRZy"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Javi Reina",
+          "url": "https://open.spotify.com/artist/1KVew7x2sRHBMefHGrWGRV"
+        },
+        {
+          "name": "Leka el Poeta",
+          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
+        },
+        {
+          "name": "Jesus Fernandez",
+          "url": "https://open.spotify.com/artist/5s15ItDhnfjz7FY28Ion8d"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128095,
+      "name": "Ella Quiere",
+      "url": "https://open.spotify.com/track/4kfcUGEHMaB4Kxq7YJX5Dz"
+    },
+    {
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/7msqOU9mJTMzCTwno1mZKL"
+      },
+      "artists": [
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217309,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/3bp5E8815MIMRZJlQoudV7"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190147,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN"
+    },
+    {
+      "album": {
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Jaquell",
+          "url": "https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8"
+    },
+    {
+      "album": {
+        "name": "Give You",
+        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Give You",
+      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
+      "album": {
+        "name": "Hideout",
+        "url": "https://open.spotify.com/album/4AJ14pYMX8iwMLkEkBd2ZU"
+      },
+      "artists": [
+        {
+          "name": "TECHTIC",
+          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/45U2R5HG3h8hAHM8N4tuZA"
+    },
+    {
+      "album": {
+        "name": "Love Another Time (JADED Remix)",
+        "url": "https://open.spotify.com/album/1UFRFNgMUGOjoVbPVQawCZ"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "Love Another Time - JADED Remix",
+      "url": "https://open.spotify.com/track/3fpQkCmhK124CsWDEIbInS"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3tEHRTC5D8fFRCp6hkUCCV"
+      },
+      "artists": [
+        {
+          "name": "Giometrik",
+          "url": "https://open.spotify.com/artist/2v0CIYs0WEEfiybNkWFJHo"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157322,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/33QvyCeZbbiKxFaHRpNcUj"
+    },
+    {
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+    },
+    {
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/1UMu8SE03xohGFXwadvrMa"
+      },
+      "artists": [
+        {
+          "name": "L.I.T",
+          "url": "https://open.spotify.com/artist/79PE76jMPidK5Dz6mXOMxS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/6oizENOFHgjFO9zqz56J0p"
+    },
+    {
+      "album": {
+        "name": "Say Ooh",
+        "url": "https://open.spotify.com/album/4gE5XhiTy4oB79A6IlES0a"
+      },
+      "artists": [
+        {
+          "name": "Sammy Porter",
+          "url": "https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7"
+        },
+        {
+          "name": "Goody (UK)",
+          "url": "https://open.spotify.com/artist/2YG1LnTEzee2cml44XWs1i"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Say Ooh",
+      "url": "https://open.spotify.com/track/6nC9nypRE2z0QASeCtyiVN"
+    },
+    {
+      "album": {
+        "name": "Smoke In Your Eyes",
+        "url": "https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391503,
+      "name": "Smoke In Your Eyes",
+      "url": "https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ"
+    },
+    {
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+    },
+    {
+      "album": {
+        "name": "Sudando",
+        "url": "https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX"
+      },
+      "artists": [
+        {
+          "name": "96 Vibe",
+          "url": "https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI"
+        },
+        {
+          "name": "DEM2",
+          "url": "https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB"
+        },
+        {
+          "name": "Yuliesky",
+          "url": "https://open.spotify.com/artist/1yovZXHEExzif20uz6foeV"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206658,
+      "name": "Sudando",
+      "url": "https://open.spotify.com/track/00bwY24h5wRkH4dEDvYxuv"
+    },
+    {
+      "album": {
+        "name": "The Funk You Want",
+        "url": "https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167163,
+      "name": "The Funk You Want",
+      "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
+    },
+    {
+      "album": {
+        "name": "What I Do",
+        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/7y7llrZikzuEGrtH4sfxRA"
+}
