@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,873 likes - 76 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,041 likes - 76 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 75 | [O Final](https://open.spotify.com/track/1tqo1Adl9oUzgs4lvalJkU) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [O Final](https://open.spotify.com/album/0biDGaHDnehMqUmZQebN9G) | 3:12 |
 | 76 | [Poesia Acústica \#8: Amor e Samba](https://open.spotify.com/track/2RoWhAVtQrPU53BERYlmYZ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Poesia Acústica \#8: Amor e Samba](https://open.spotify.com/album/4RywQdWtmYauBzjeUqLTZX) | 10:14 |
 
-Snapshot ID: `MCwwMDc1NzZiYTQ0ZWIwOGRhMzg3OTc0MTMxZmNhYjFiMjFiZWQxZmJj`
+Snapshot ID: `MCw1ZDRjMThjMTYyMmYzMDEwZWVlYzk4ZTdjMDEzYzc4ZmJhOTU5NThj`

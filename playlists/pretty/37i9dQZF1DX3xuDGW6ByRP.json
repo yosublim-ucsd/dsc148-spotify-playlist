@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47258,
+  "num_followers": 47277,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2Q4MGEyYzJjMTRiNzRmOWIwOGJiY2E5MzZlYTFjNzk1ZTYxODcw",
+  "snapshot_id": "MCxkY2JlNTBjNWQ4YTk4NWQwN2M1NmMyZmU1ZDZlM2ViZmM3M2U2Njk5",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "o maior ot\u00e1rio da cidade",
-        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "o maior ot\u00e1rio da cidade",
-      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Exagerados",
         "url": "https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "o maior ot\u00e1rio da cidade",
+        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "o maior ot\u00e1rio da cidade",
+      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Andar 14",
-        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
+        "name": "PODERIA SER (bem) PIOR",
+        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
       "artists": [
         {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
         }
       ],
-      "duration_ms": 173949,
-      "name": "Andar 14",
-      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
+      "duration_ms": 171861,
+      "name": "Amigo de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "PODERIA SER (bem) PIOR",
-        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
+        "name": "Andar 14",
+        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
       "artists": [
         {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 171861,
-      "name": "Amigo de Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
+      "duration_ms": 173949,
+      "name": "Andar 14",
+      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
     },
     {
       "added_at": "2023-12-15 03:00:00",

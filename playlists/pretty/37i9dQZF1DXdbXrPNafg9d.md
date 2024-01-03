@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Still Woozy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,726 likes - 181 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,775 likes - 181 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 180 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
 | 181 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 |
 
-Snapshot ID: `MCwxNGVjNWViOTM1NDU3YTBlNWU0NThlNTVhNGQ4MTY0YTJlNTdmNjgy`
+Snapshot ID: `MCw2YzI0Y2Y2Y2E2MDFlNzI5YWNkNjkyOTQxODhhMDIyNzU5NWI1Y2U1`

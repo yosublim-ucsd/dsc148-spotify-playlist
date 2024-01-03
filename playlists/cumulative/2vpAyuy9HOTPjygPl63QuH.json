@@ -24913,6 +24913,32 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/7wluquB3THjFZ9yqXAu01I"
+      },
+      "artists": [
+        {
+          "name": "HELLMATE",
+          "url": "https://open.spotify.com/artist/5UU04gvXBWysJhWxvFGilD"
+        },
+        {
+          "name": "Santiago & Carlitos",
+          "url": "https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO"
+        },
+        {
+          "name": "Chantal Lewis Brown",
+          "url": "https://open.spotify.com/artist/0hEVrtPQzlVt1Rilq8A4nA"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
+    },
+    {
+      "album": {
         "name": "Show Me Some Love (feat. Sadie Walker)",
         "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
       },

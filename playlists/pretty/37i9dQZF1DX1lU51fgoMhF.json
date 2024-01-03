@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 186535,
+  "num_followers": 186723,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmI4ZGFhYzU0MzA3MDZhZDVjMWYyOTNlZjM1YTQzZDE0Njg2M2Yw",
+  "snapshot_id": "MCw0NDAyNTNmMGQ2MmM1OThmNWQ3NDAyNDI0NDdlMGRkZmQ4NTFjMmMy",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 217486,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "As You Wish",
-      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "LALALAY",
-        "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
         }
       ],
-      "duration_ms": 174880,
-      "name": "LALALAY",
-      "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Summer Special [Flip That]",
-        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+        "name": "LALALAY",
+        "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
       },
       "artists": [
         {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Flip That",
-      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+      "duration_ms": 174880,
+      "name": "LALALAY",
+      "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
     },
     {
       "added_at": "2023-09-14 10:27:59",

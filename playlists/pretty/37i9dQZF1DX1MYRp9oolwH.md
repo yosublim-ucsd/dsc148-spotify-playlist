@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
+> Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,562 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,662 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/track/7vfbmFFmduAa4f76UxmuVx) | [Davzand](https://open.spotify.com/artist/3SWOUbJG2wbgiEagRRrwS8), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/album/1k0tFggyuWZwCMW51X6TCP) | 3:37 |
+| 1 | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/track/7vfbmFFmduAa4f76UxmuVx) | [Davzand](https://open.spotify.com/artist/3SWOUbJG2wbgiEagRRrwS8), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Lynn](https://open.spotify.com/artist/5eQIvJs6k9dDFErNq3Rk6d) | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/album/1k0tFggyuWZwCMW51X6TCP) | 3:37 |
 | 2 | [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/track/7681Ik3vkdgdwlNpABKtfa) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/album/6lBRZkJAa2tOGgPXeYuoUK) | 3:35 |
 | 3 | [Oh My Baby](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 |
 | 4 | [Sarada Saradaga \(From "Saindhav"\)](https://open.spotify.com/track/1fOr0ysbNOkHy23yJ5IR1a) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarada Saradaga \(From "Saindhav"\)](https://open.spotify.com/album/1t517JI97YzmweInvj2heT) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 | 50 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 
-Snapshot ID: `MCxjOWFjNzJkMDMyM2IzZTBkM2FkMjg1YTM5ZWM1MmQ3YjY1YjhkNGEy`
+Snapshot ID: `MCw1MTVkMmM2OWQwZGYyYWM4YjA2ZjQxNzA2ZWE5MGQzNjZhODBkYTA4`

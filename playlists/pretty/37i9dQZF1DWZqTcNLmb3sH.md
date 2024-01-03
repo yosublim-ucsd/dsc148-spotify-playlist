@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kaatera
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,633 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,665 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Fanthem \(From "Ghost"\)](https://open.spotify.com/track/1mSsXMpxahNWthXQ5krTYO) | [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6), [Yashraj Solomon](https://open.spotify.com/artist/28CpmaeTtPM4NibFe3L5u2), [Karthik Sambhapur](https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ), [Vinay K N](https://open.spotify.com/artist/2SupDbv20IGAWYLryP7to4), [Sathwik Sathish](https://open.spotify.com/artist/2HwFnYgPFCsLCGtaCCBAWx) | [Fanthem \(From "Ghost"\)](https://open.spotify.com/album/2CvxFxJe7SmTFHAWR2tRGM) | 2:35 |
 | 75 | [Restart \(From "12th Fail"\) \(Kannada\)](https://open.spotify.com/track/7vpRvnjTzSzQV1CFIuDtSj) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Shashank Sheshagiri](https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy) | [Restart \(From "12th Fail"\) \(Kannada\)](https://open.spotify.com/album/4QdAbl92CzDFtNnE76B5Wl) | 4:12 |
 
-Snapshot ID: `MCxjYjYyZjRjNjliYjE0NTVhNWY4NDRhZDI4NzM5YmI1ZjUyOTljNzQy`
+Snapshot ID: `MCw0NWMzYWU4ODViNzMzZjU2ZmE5ODc4OTExNTg0Y2Q3ZGI0YzJjY2Q1`

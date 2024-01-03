@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 56977,
+  "num_followers": 56983,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGRhMGU2Nzg4NzAwZjM0ODcxMGYwOGE0YzhiYzFlYTk3YTVjY2Zm",
+  "snapshot_id": "MCxkY2Y4ZTc2ODQ5MjBiN2NmNGY3NzEwMTkyMDExYjYzZDgyMGYxNWRj",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
-      },
-      "artists": [
-        {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 223133,
       "name": "Ahead By A Century",
       "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Hell To Pay",
+        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Amanda Marshall",
-        "url": "https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt"
-      },
-      "artists": [
-        {
-          "name": "Amanda Marshall",
-          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
-        }
-      ],
-      "duration_ms": 271960,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 160986,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Amanda Marshall",
+        "url": "https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt"
+      },
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
+        }
+      ],
+      "duration_ms": 271960,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
     },
     {
       "added_at": "2021-09-21 20:57:50",

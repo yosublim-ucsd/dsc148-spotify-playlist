@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 5880,
+  "num_followers": 5890,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY4OTU4OWZiODAzYmRkM2Q3NDA5MWYxNjNjOWNkYTZjODc4Y2Iy",
+  "snapshot_id": "MCw1OTg5Y2IyYTI3Y2E2YTJjMjhlMTNjOTA3MTMwYWIwZTVhYjNkODEw",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -23,42 +23,6 @@
       "duration_ms": 184821,
       "name": "Thoongaadha",
       "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
-    },
-    {
-      "added_at": "2023-11-14 08:06:21",
-      "album": {
-        "name": "Makal",
-        "url": "https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r"
-      },
-      "artists": [
-        {
-          "name": "Sudeep Palanad",
-          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
-        }
-      ],
-      "duration_ms": 246823,
-      "name": "Makal",
-      "url": "https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh"
-    },
-    {
-      "added_at": "2023-11-21 10:04:21",
-      "album": {
-        "name": "Idhayame",
-        "url": "https://open.spotify.com/album/4fQq4J1ruGqFD4VHVOqt2p"
-      },
-      "artists": [
-        {
-          "name": "Mk Muziq",
-          "url": "https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M"
-        },
-        {
-          "name": "Raksha",
-          "url": "https://open.spotify.com/artist/27aTvR4Pih0yEX79D8uu1C"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Idhayame",
-      "url": "https://open.spotify.com/track/3bgFDeR2bMkRbg0rBsZZMz"
     },
     {
       "added_at": "2023-11-08 09:13:17",
@@ -113,64 +77,20 @@
       "url": "https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL"
     },
     {
-      "added_at": "2023-12-15 16:37:14",
+      "added_at": "2024-01-02 12:37:50",
       "album": {
-        "name": "Anniku Raathiri",
-        "url": "https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP"
+        "name": "Yaar Aval",
+        "url": "https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7"
       },
       "artists": [
         {
-          "name": "Mali",
-          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+          "name": "Elan Hits",
+          "url": "https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3"
         }
       ],
-      "duration_ms": 193918,
-      "name": "Anniku Raathiri",
-      "url": "https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo"
-    },
-    {
-      "added_at": "2023-12-15 17:41:11",
-      "album": {
-        "name": "Yendrum",
-        "url": "https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH"
-      },
-      "artists": [
-        {
-          "name": "Chai Lenin",
-          "url": "https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3"
-        }
-      ],
-      "duration_ms": 289083,
-      "name": "Yendrum",
-      "url": "https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ"
-    },
-    {
-      "added_at": "2023-12-18 04:59:59",
-      "album": {
-        "name": "Anbae (Beloved)",
-        "url": "https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh"
-      },
-      "artists": [
-        {
-          "name": "Julius Gnanagar",
-          "url": "https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        },
-        {
-          "name": "Morin Sridion",
-          "url": "https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa"
-        }
-      ],
-      "duration_ms": 259726,
-      "name": "Anbae - Beloved",
-      "url": "https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs"
+      "duration_ms": 285501,
+      "name": "Yaar Aval",
+      "url": "https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme"
     },
     {
       "added_at": "2023-11-17 07:20:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,332 likes - 70 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,353 likes - 70 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [The Keys To Jupiter](https://open.spotify.com/track/2oNbagKTp1BMkDt5Gp6FTS) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Personal Liberation Ep](https://open.spotify.com/album/1EXAddUfleh6mXrTKNxgAS) | 3:59 |
 | 70 | [Taum](https://open.spotify.com/track/1HmfwwFNzftcPLBoZdChIw) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 6:32 |
 
-Snapshot ID: `MCxmY2ZhZDM5NTNiMzhmZmIwMmE5MDgwMzYwZGNkY2E1Nzk2OTY1YzNj`
+Snapshot ID: `MCw4YWQ0MzkwNThmNzQ3MzRkYTI3ZDdiZTUxMmMwNTI1OTAyY2ZkZDZi`

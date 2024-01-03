@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
@@ -1570,6 +1570,24 @@
       "duration_ms": 204928,
       "name": "New way",
       "url": "https://open.spotify.com/track/4a3g6NVysNpdDWuuLNrH8E"
+    },
+    {
+      "album": {
+        "name": "Night thinking 'bout you",
+        "url": "https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam"
+      },
+      "artists": [
+        {
+          "name": "CITI",
+          "url": "https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Night thinking 'bout you",
+      "url": "https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs"
     },
     {
       "album": {

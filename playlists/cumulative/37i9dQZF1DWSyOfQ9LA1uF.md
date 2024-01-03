@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-166 songs - 12 hr 46 min
+167 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Meddle](https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:15 | 2021-01-12 | 2022-07-28 |
 | [Minuit Jacuzzi \- Data Remix](https://open.spotify.com/track/5gxOZTRvxuGkBABWVVpp50) | [Tepr](https://open.spotify.com/artist/6gvLnqSteeVfB6WnmVJV1j) | [En Direct De La Cote](https://open.spotify.com/album/1YC9YJndoFcd4ia5nzYGud) | 4:23 | 2021-01-12 | 2022-07-29 |
 | [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/1scPGYiD2SjAEfeQBRRC6R) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/3SqVp3Al9DlsKlKiObHWaB) | 5:14 | 2022-02-03 | 2023-12-24 |
+| [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9) | 5:14 | 2022-08-24 |  |
 | [Move My Body \- Only4Erolmix](https://open.spotify.com/track/3eynnFbFQwskKdJ97Nckw9) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Move My Body](https://open.spotify.com/album/7nNGMh217Sguzv5e6VecSW) | 5:12 | 2021-01-12 | 2022-07-28 |
 | [Mr Overtime \- Oliver Remix](https://open.spotify.com/track/19ATUXl74zSVALEEAJoX65) | [Punks Jump Up](https://open.spotify.com/artist/6C0GG4MVnkPKYwfAscQqzD), [Dave 1](https://open.spotify.com/artist/0UhiWhPuGtayAOBBf8avtO) | [Mr Overtime](https://open.spotify.com/album/4t7fpWyRglP8KjNyagBdUK) | 4:33 | 2022-02-03 | 2022-07-24 |
 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 | 2021-01-12 |  |
@@ -121,7 +122,7 @@
 | [Positif](https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 | 2021-01-12 |  |
 | [Rainbow Man](https://open.spotify.com/track/2uiYlTkNE4dkdG7KWLEfRN) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Ed Rec VOL\. 2](https://open.spotify.com/album/0nnCigFPxWFGaA6NP5DVax) | 3:32 | 2022-02-03 | 2022-07-29 |
 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 | 2022-02-03 |  |
-| [Rapture](https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8) | [Skywriter](https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb) | 3:38 | 2021-01-12 |  |
+| [Rapture](https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8) | [Skywriter](https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb) | 3:38 | 2021-01-12 | 2024-01-03 |
 | [Raven](https://open.spotify.com/track/1a1uwEcHNQO23gn697YC7u) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R) | [Music from the East Block Jungles, Pt\. 1](https://open.spotify.com/album/0NCDCxptTQECftY5cL2uSg) | 5:54 | 2021-01-12 | 2022-07-29 |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2021-01-12 |  |
 | [Roman](https://open.spotify.com/track/1yb35WfP1wdOnSfSGDxWUY) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Roman](https://open.spotify.com/album/26MSI1T3XBBRW1l6dN16ig) | 3:05 | 2022-02-03 | 2022-07-29 |

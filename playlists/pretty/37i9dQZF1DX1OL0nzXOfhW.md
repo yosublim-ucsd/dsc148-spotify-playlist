@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 持續發掘世一超新聲！Cover: Lau Heung King
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,456 likes - 69 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,459 likes - 69 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 68 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 69 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCw4M2E4YzAxM2YyYTk3YTNkZGQ1NTEzMzA2ZWY3ZWVkYzI5MzlmZmNm`
+Snapshot ID: `MCw3YTBiZWRjY2E4ZGEwZjgzMWQxYmQ4ZWEwODk4MWZiNDAxNzVmMTIx`

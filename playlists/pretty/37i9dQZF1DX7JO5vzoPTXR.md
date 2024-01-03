@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:59uIMi3xrGO0kwfy7Zea24">Navvy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,745 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,781 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [I WANT U](https://open.spotify.com/track/1HOoBrjejodwLuc3yv1loA) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [DOWN 2 EARTH](https://open.spotify.com/album/5hex99Indqa3PADdOOFmDi) | 1:55 |
 | 40 | [Anything But Down](https://open.spotify.com/track/4AIg9LSC8x3Q98Va03cZh8) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Globe Sessions](https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb) | 4:17 |
 
-Snapshot ID: `MCxiN2I0OGNhM2VmYzQ3Njg4NDA1NTQyNTcxOGUzMzA3Y2QxMmZiOWEz`
+Snapshot ID: `MCw3Yjk3NmFhODMyZDBjZTc4NTgwMjVjNTUxNjUyMTQ1MWNiNGRkZjRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nelson Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,150 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,197 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Time](https://open.spotify.com/track/534W5nlVhBthPSYSzrHYCM) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [The One Who Descends](https://open.spotify.com/album/6y3G0lel5n8pd29aTR41d9) | 2:21 |
 | 50 | [Santé](https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU) | [FUL](https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129), [GBC the Yemba](https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92) | [Santé](https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2) | 3:33 |
 
-Snapshot ID: `MCw1YTc1ZWJhYTM0MWRiYTcyNTBiYzQyNjNiOTkzOGZiNzJhODI4N2U3`
+Snapshot ID: `MCwxODNlYTZhM2Y3YzgwYmRmMDg1ZjU3MTQ3ODE2NTEwNzhhMDU2YzNm`

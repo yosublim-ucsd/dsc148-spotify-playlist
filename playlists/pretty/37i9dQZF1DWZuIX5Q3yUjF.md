@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,065 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,073 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 70 | [Roulette](https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Roulette](https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h) | 2:45 |
 | 71 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 
-Snapshot ID: `MCw4NGM2YjM5M2EwZTE0MGMyYWM5Y2E4MzBkNzAzNTcyNGI5ZTVhYzg0`
+Snapshot ID: `MCwxZjRmMmYzMWEyYzgwOTNhNDA3N2QyZWViYzY4MjMyOTg5ZjA0NjFl`

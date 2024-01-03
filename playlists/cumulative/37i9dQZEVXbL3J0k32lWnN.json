@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Bajer & Streger",
+        "url": "https://open.spotify.com/album/3P47I9O8hPZ0B3OG0YHqnP"
+      },
+      "artists": [
+        {
+          "name": "Pattesutter",
+          "url": "https://open.spotify.com/artist/6gBmiKOt38JSrowmeMqawZ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "Bajer & Streger",
+      "url": "https://open.spotify.com/track/4dRJyw0JCUsgVAn8Ps062Z"
+    },
+    {
+      "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
       },
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -8038,7 +8056,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 160470,
       "name": "FORSVINDER (feat. Gobs)",
       "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
@@ -8734,7 +8752,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
@@ -9522,7 +9540,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -10126,7 +10144,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -10162,7 +10180,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 208547,
       "name": "hjem fra fabrikken",
       "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
@@ -11056,7 +11074,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 136218,
       "name": "Hvor Som Helst",
       "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
@@ -12480,7 +12498,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 178556,
       "name": "Je Ka Jo",
       "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
@@ -13738,6 +13756,24 @@
       "duration_ms": 164278,
       "name": "Kun 1",
       "url": "https://open.spotify.com/track/5XNRshEiBsUg1IA6iDkf8G"
+    },
+    {
+      "album": {
+        "name": "Velkommen Til Medina",
+        "url": "https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254586,
+      "name": "Kun For Mig",
+      "url": "https://open.spotify.com/track/7hBGy8DIYXuUZf5ZUjKHPO"
     },
     {
       "album": {
@@ -18854,7 +18890,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -21796,7 +21832,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -22190,7 +22226,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 185120,
       "name": "Stereo Love - Radio Edit",
       "url": "https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4"
@@ -23550,7 +23586,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 170573,
       "name": "Tilf\u00e6ldigt (feat. D1MA)",
       "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
@@ -24362,7 +24398,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 190057,
       "name": "Under Radar",
       "url": "https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu"

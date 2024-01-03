@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-117 songs - 11 hr 6 min
+118 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Jal Bhar De](https://open.spotify.com/track/3trMcrv75BKmVVS45moplw) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 4:23 | 2021-12-01 |  |
 | [Jeeye to Jeeye Kaise \(From "Saajan"\)](https://open.spotify.com/track/6xkH51odPN6GVpMgth0lWL) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 3:29 | 2021-12-01 | 2023-05-16 |
 | [Jis Dil Pe Naaz tha Mujhe](https://open.spotify.com/track/1YLSXFY1i6JRl3oKovsqVb) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [50 Greatest Ghazal Hits \- Best of Ghulam Ali and Mehdi Hassan](https://open.spotify.com/album/69LGrqCkZQBrW81maqfZUt) | 4:47 | 2021-12-01 | 2022-07-29 |
-| [Kabhi Ishq Ka](https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f) | 5:36 | 2023-04-05 |  |
+| [Kabhi Ishq Ka](https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f) | 5:36 | 2023-04-05 | 2024-01-03 |
+| [Kabhi Ishq Ka](https://open.spotify.com/track/1iS03sVMvtSlI9Hv7qeItG) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/7KYHkonLiq66rxQx2EgQbJ) | 5:36 | 2023-12-12 |  |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/4X5oSzi49t1elYxbFMOEjJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 6:42 | 2021-12-01 | 2022-07-29 |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/43ohGfWWEI0dQnBXQ8KyEU) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Unique \- Jagjit Singh](https://open.spotify.com/album/6UAJt94BITRYHDAFBpzRCB) | 6:46 | 2022-07-26 |  |
 | [Khawab Ban Ke Bikharti Jati Hai](https://open.spotify.com/track/3nPez09I43hLdYiNPB2XUO) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 4:29 | 2021-12-01 | 2023-09-15 |

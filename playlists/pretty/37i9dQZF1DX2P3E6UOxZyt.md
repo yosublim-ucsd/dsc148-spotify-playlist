@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,179 likes - 72 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,184 likes - 72 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [我們 \- Vicky版](https://open.spotify.com/track/4XnD0PA97QgSeaecGVXfFc) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我們 \(Vicky版\)](https://open.spotify.com/album/4DHZNSaC7EcF6HjxPTOJha) | 2:06 |
 | 72 | [沒有我的那個宇宙](https://open.spotify.com/track/6UnzW55tMsnOEn7nLftP5r) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [沒有我的那個宇宙](https://open.spotify.com/album/2KjoiKcYc8kzw3rD7nDNb3) | 3:11 |
 
-Snapshot ID: `MCw1MTMyMzYyYjY3YmE0ZDViNzZmMjc1ZDlhNjVlZWJmNmNjMWNlZGJh`
+Snapshot ID: `MCxjNTg3NzY4N2M5YWE1Njc5MDY0YjEzYWZjY2Q3MTY0M2FiMWM3MWVk`

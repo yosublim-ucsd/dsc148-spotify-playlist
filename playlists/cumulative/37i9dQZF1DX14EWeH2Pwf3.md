@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Medy\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
+> Il sogno di ogni zanza si è avverato: 𝑪’𝒆𝒓𝒂 𝑼𝒏𝒂 𝑽𝒐𝒍𝒕𝒂 𝑰𝒏 𝑰𝒕𝒂𝒍𝒊𝒂
 
-420 songs - 20 hr 40 min
+422 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Adrenalina](https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Adrenalina](https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB) | 3:00 | 2023-03-30 | 2023-04-07 |
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-06-16 | 2022-11-18 |
 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-07-17 | 2023-12-08 |
+| [All'Ultimo Respiro](https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:29 | 2024-01-02 |  |
 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 | 2022-11-24 | 2023-04-28 |
 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-22 | 2023-12-01 |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-05-09 | 2022-05-23 |
@@ -274,6 +275,7 @@
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-12 | 2022-11-08 |
 | [NON É COLPA MIA](https://open.spotify.com/track/168k2KmrWRYJWPrNvW2Y0p) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [FAIV](https://open.spotify.com/album/39lorAlGAFUXFhJT1rYBlI) | 3:00 | 2022-09-05 | 2022-09-16 |
 | [NON É COLPA MIA](https://open.spotify.com/track/2xBFcnT4uw8BUCW2kCASWs) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [NON É COLPA MIA](https://open.spotify.com/album/6dwSqJfnH0Z0DyWq1IBtLc) | 3:00 | 2022-09-01 | 2022-09-06 |
+| [Note killer](https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 4:24 | 2024-01-02 |  |
 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 | 2023-04-21 |
 | [NULLA ACCADE \(feat\. Capo Plaza\)](https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:54 | 2023-12-07 |  |
 | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/track/2zTinVySfLkAcuITgqbtPW) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/album/6Eq4kUs1PvPt1x0qxQJ6gZ) | 3:21 | 2023-06-15 | 2023-06-30 |
@@ -407,7 +409,7 @@
 | [Umile \(feat\. Shiva\)](https://open.spotify.com/track/0zwcUxnzdX6eSeaLKkrVPB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:51 | 2023-07-13 | 2023-09-29 |
 | [Un Altro Show \(feat\. Geolier\)](https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:51 | 2023-03-23 | 2023-11-17 |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 | 2023-11-17 |
-| [Un’Altra Volta](https://open.spotify.com/track/0LibhadIbaCxWStsermQhg) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Un’Altra Volta](https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj) | 2:12 | 2023-12-21 |  |
+| [Un’Altra Volta](https://open.spotify.com/track/0LibhadIbaCxWStsermQhg) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Un’Altra Volta](https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj) | 2:12 | 2023-12-21 | 2024-01-03 |
 | [URAGANO DAMN](https://open.spotify.com/track/39bXW89KZH4V1T3zlstiap) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [URAGANO DAMN](https://open.spotify.com/album/6oOFkn3ItIWb1LPSZZbEEL) | 3:22 | 2023-12-14 |  |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-09 | 2023-02-09 |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-17 |  |

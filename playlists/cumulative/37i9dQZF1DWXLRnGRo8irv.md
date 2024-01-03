@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLRnGRo8irv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLRnGRo8irv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLRnGRo8irv)
 
-### [EQUAL Korea: Best of 2023](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
+### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Red Velvet\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: Red Velvet\)
 
 1,017 songs - 2 day 10 hr 41 min
 

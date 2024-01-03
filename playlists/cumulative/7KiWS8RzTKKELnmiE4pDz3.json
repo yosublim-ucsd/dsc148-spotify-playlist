@@ -8607,6 +8607,28 @@
     },
     {
       "album": {
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180934,
+      "name": "Same Yung Nigga (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1"
+    },
+    {
+      "album": {
         "name": "The Leek, Vol. 1",
         "url": "https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48"
       },

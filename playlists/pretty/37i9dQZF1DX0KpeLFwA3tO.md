@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,767 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,830 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [SCARED TO DIE](https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6) | 3:15 |
 | 100 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 
-Snapshot ID: `MCxiOWFjNjZlZmVmY2IwYWFjZTdkY2M0YWVkMDQ1MzFmNmU3MTRkYWRj`
+Snapshot ID: `MCxkMjAzZDQ2MzRjZGYzYTM4MDQ5NTBhNjk2NzdkOTMyNDk0YzA1ZmQw`

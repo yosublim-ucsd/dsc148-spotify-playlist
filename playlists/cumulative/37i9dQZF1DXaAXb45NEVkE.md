@@ -2,7 +2,7 @@
 
 ### [Rap Rewind](https://open.spotify.com/playlist/37i9dQZF1DXaAXb45NEVkE)
 
-> Hold up, run that back\. Cover: Metro Boomin
+> Hold up, run that back\. Cover: JID
 
 186 songs - 9 hr 56 min
 

@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107850,
+  "num_followers": 107881,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy",
+  "snapshot_id": "MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Sin Pijama (Kumbia Remix)",
-        "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 204288,
-      "name": "Sin Pijama - Kumbia Remix",
-      "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Coraz\u00f3n Part\u00edo",
         "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 199680,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Sin Pijama (Kumbia Remix)",
+        "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 204288,
+      "name": "Sin Pijama - Kumbia Remix",
+      "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 103284,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230184,
       "name": "Fuiste Tu",
       "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
-      },
-      "artists": [
-        {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
-        }
-      ],
-      "duration_ms": 229779,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Version Cumbia la Plata 2017",
         "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 180401,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
+      },
+      "artists": [
+        {
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM"
+        "name": "Corazon, Perro Fiel, Echame La Culpa,",
+        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
       },
       "artists": [
         {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
         }
       ],
-      "duration_ms": 353775,
-      "name": "Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J"
+      "duration_ms": 193736,
+      "name": "Corazon, Perro Fiel, Echame La Culpa,",
+      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Corazon, Perro Fiel, Echame La Culpa,",
-        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
+        "name": "Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM"
       },
       "artists": [
         {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 193736,
-      "name": "Corazon, Perro Fiel, Echame La Culpa,",
-      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
-      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
+      "duration_ms": 353775,
+      "name": "Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1119,6 +1103,22 @@
       "duration_ms": 212413,
       "name": "Dulce (A La La La La Long)",
       "url": "https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
+      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "\u00bfPor qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
+      },
+      "artists": [
+        {
+          "name": "Elidian",
+          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 182666,
       "name": "Luces",
       "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "\u00bfPor qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
-      },
-      "artists": [
-        {
-          "name": "Elidian",
-          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1243,22 +1243,6 @@
       "duration_ms": 168375,
       "name": "Felices Los 4 - Version Cumbia",
       "url": "https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
-      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Retro Con",
-        "url": "https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt"
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
       },
       "artists": [
         {
-          "name": "Musical\u00edsimo Fuego Indio",
-          "url": "https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN"
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO"
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1331,6 +1315,22 @@
       "duration_ms": 201706,
       "name": "Clavado en un Bar",
       "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Retro Con",
+        "url": "https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt"
+      },
+      "artists": [
+        {
+          "name": "Musical\u00edsimo Fuego Indio",
+          "url": "https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO"
     }
   ],
   "unique_name": "Cumbia Covers",

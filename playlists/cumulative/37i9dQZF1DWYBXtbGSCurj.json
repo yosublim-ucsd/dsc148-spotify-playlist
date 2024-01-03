@@ -8926,7 +8926,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 170526,
       "name": "Fashion Cria",
       "url": "https://open.spotify.com/track/459ztj37W4Afh6JsdCU5Pe"
@@ -23364,6 +23364,28 @@
       "duration_ms": 156000,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/0nNYbrbitdEFOOdDaWfAca"
+    },
+    {
+      "album": {
+        "name": "Space Ship",
+        "url": "https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv"
+      },
+      "artists": [
+        {
+          "name": "Yunk Kng",
+          "url": "https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Space Ship",
+      "url": "https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3"
     },
     {
       "album": {

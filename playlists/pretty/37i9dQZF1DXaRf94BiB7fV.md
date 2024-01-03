@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,913 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,942 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 5 | [Door Kahin](https://open.spotify.com/track/5470L9bpQikPiizRl93NtM) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/7wpmVOLRDHC4QtDoAVIjBR) | 3:24 |
 | 6 | [Out of the Dark](https://open.spotify.com/track/0SSFIYP6iNF6T7nRvzGvqL) | [Chokamkuru Langneh](https://open.spotify.com/artist/6tC7BR5UhtpIbdugF4323N) | [Out of the Dark](https://open.spotify.com/album/2k6hUZ2VRjo5qPd2NExjgJ) | 3:58 |
 | 7 | [Dil Khaali](https://open.spotify.com/track/74LVmGKVgpyOpSiiazeUNL) | [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Dil Khaali](https://open.spotify.com/album/3TReouJorynAbM6ANTWtyo) | 3:21 |
-| 8 | [Jahaan](https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU) | 3:43 |
+| 8 | [Jahaan](https://open.spotify.com/track/3ihDGqDqKiOVGQ4SylT6l5) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/6UwIvo6YWz0324HBjGLCl6) | 3:43 |
 | 9 | [Sukoon](https://open.spotify.com/track/13FUNNMVMiLyJseKQFciN1) | [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Sukoon](https://open.spotify.com/album/3N87bmpNLSdg7mu3Vi2Dk0) | 4:18 |
 | 10 | [Zindagi](https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU) | [Seerat Ain Alam](https://open.spotify.com/artist/5LCz4RWPuDoFys0vddNiXJ) | [Zindagi](https://open.spotify.com/album/4eeME2G3nfmjYLvgHRoUCU) | 2:32 |
 | 11 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 |
 | 50 | [Guzarish](https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Guzarish](https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV) | 3:13 |
 
-Snapshot ID: `MCxkMTczOGI2OWE1YjE0YzBiODdhNjdlMTg3M2Y5ZTM3NWJlZDE5MTdh`
+Snapshot ID: `MCw3NmU2ZmMzODBiZGY0ODE3MGQ5NDg2NjQ1OTBlYTEwNjU1MTFiODIx`

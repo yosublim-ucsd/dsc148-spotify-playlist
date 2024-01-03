@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Papa Roach.
+> nü\-metal revival is happening here and now with Tetrarch.
 
 87 songs - 5 hr 4 min
 

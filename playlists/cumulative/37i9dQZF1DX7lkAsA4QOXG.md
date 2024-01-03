@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-182 songs - 14 hr 20 min
+183 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz) | 5:18 | 2023-11-24 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 | 2023-10-19 |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
-| [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 | 2023-03-09 |  |
+| [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 | 2023-03-09 | 2024-01-03 |
 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 | 2023-09-02 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 | 2023-09-02 |
 | [Imagine](https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Imagine](https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8) | 3:53 | 2023-05-30 |  |
@@ -179,6 +179,7 @@
 | [When the Party's Over](https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW) | [Jakob Manz](https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP) | [Groove Connection](https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub) | 3:22 | 2023-05-30 |  |
 | [Wichita Lineman](https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:58 | 2023-02-15 |  |
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
+| [With a Little Help from My Friends](https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [With a Little Help from My Friends](https://open.spotify.com/album/2ZZYwV5bwFEPqKKg5MvHkG) | 4:33 | 2023-12-20 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 |  |
 | [Yellow](https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI) | [Ive Mendes](https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN) | [Magnetism, Vol\. 1](https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw) | 3:40 | 2022-09-13 |  |
 | [Yesterday](https://open.spotify.com/track/4GjfAPlsQg9U6YqdwJHkxC) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Jazz Pop Covers by JazzEcho](https://open.spotify.com/album/6zrW0dqr05YPJPLbf3nuyT) | 2:42 | 2023-09-15 | 2023-09-17 |

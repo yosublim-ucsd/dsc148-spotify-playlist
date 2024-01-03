@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,862 likes - 181 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,019 likes - 181 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 180 | [Fake Love](https://open.spotify.com/track/5EqNG2VsfilMEadJzoh6Af) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Fake Love](https://open.spotify.com/album/5uXuP0rY36kFwr3Ea2mBXF) | 2:55 |
 | 181 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 |
 
-Snapshot ID: `MCw5YWY3MmZlNTYzY2QxZWI0OWY3ZjdiYzZiZDVhY2QyNGFiMmZlODZm`
+Snapshot ID: `MCw3NTAwYTY1OTA0ZmY4OGE3MTk3ZmY5NDE3NDFmNjk4YmU4ODhkMDNh`

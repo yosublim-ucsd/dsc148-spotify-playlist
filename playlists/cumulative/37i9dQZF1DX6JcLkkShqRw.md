@@ -4,7 +4,7 @@
 
 > Flow sudamericano con mhtresuno & Dillom.
 
-1,067 songs - 2 day 7 hr 11 min
+1,068 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [+ SINCERO](https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [+ SINCERO](https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ) | 2:17 | 2023-05-05 | 2023-07-01 |
 | [01 dE ENEro](https://open.spotify.com/track/5KqaqJGPWgSJKVzDfmx2Mf) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:54 | 2023-06-23 | 2023-07-18 |
 | [01 dE ENEro](https://open.spotify.com/track/6gnt7XFossE7yfw229HJJF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 1:54 | 2023-07-28 | 2023-09-27 |
+| [01 dE ENEro](https://open.spotify.com/track/78TdaRmo17p8J6BPvA8cGt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 1:54 | 2023-12-22 |  |
 | [03:35](https://open.spotify.com/track/42HKPss4PmxTaMKbPQtsZz) | [Sitoonce](https://open.spotify.com/artist/4wSsCH0bIpu1DV4W018Jsr) | [03:35](https://open.spotify.com/album/5auabMd1EPmAdshK2Bjo1P) | 3:35 | 2022-03-25 | 2022-03-31 |
 | [06:06](https://open.spotify.com/track/2qmKKjjJhzeZkED1BfCKuA) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [06: 06](https://open.spotify.com/album/1eh2Fjgh7JKPEka9K9pHG7) | 3:16 | 2023-12-08 |  |
 | [0800](https://open.spotify.com/track/06yq2Skk79tALme6b2vRVk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:53 | 2023-03-03 | 2023-03-18 |
@@ -962,7 +963,7 @@
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-27 | 2022-07-20 |
 | [Tommy o Armani \- Remix](https://open.spotify.com/track/2ZXWgcWQAImoaIzOEvkQrf) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD) | [Tommy o Armani \(Remix\)](https://open.spotify.com/album/5D7SvWVJ91i01JeISZhieS) | 5:01 | 2022-02-04 | 2022-04-02 |
 | [TOP](https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOP](https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L) | 1:35 | 2023-03-31 | 2023-04-09 |
-| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-14 |  |
+| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-14 | 2024-01-03 |
 | [Torpe](https://open.spotify.com/track/2dXdxATTLtU1yF9XAHhUhn) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Torpe](https://open.spotify.com/album/54pbMot2UpjwALsJ7KGowu) | 3:16 | 2022-01-03 | 2022-04-08 |
 | [TOTA](https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [INMORTALES](https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3) | 2:35 | 2021-12-27 | 2022-04-29 |
 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 | 2022-08-19 | 2023-03-29 |

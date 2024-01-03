@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những ca khúc Fresh Finds Vietnam nổi bật năm 2023\. Ảnh bìa: Southalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,275 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,280 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [thôi tìm nhau](https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [Dilo](https://open.spotify.com/artist/73DHEx4KHoW8ThiVDrE5jG) | [thôi tìm nhau](https://open.spotify.com/album/3ws8ztJoDxZQsJ5YuDvxrq) | 2:39 |
 | 100 | [Sao Em Chưa Buông](https://open.spotify.com/track/0ExQQaiOT0449l5EcW1Y2O) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Nắng](https://open.spotify.com/album/4R1qXr7Wj0qu1JmlAdyqeh) | 5:01 |
 
-Snapshot ID: `MCxkOThiN2NlNDA1YzUxODhkM2Q0MTgzODFmMmYxZjYwMmY0NDdiYWYx`
+Snapshot ID: `MCw4Y2JkNTRhOWMxOTg3OWE4YTY4ZmEyYzVjOTBmODk4OTYzYmFlMGUx`

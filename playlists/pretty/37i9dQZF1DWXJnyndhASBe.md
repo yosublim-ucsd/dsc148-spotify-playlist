@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Blacha 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,484 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,527 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Pu$$ycat Dollz](https://open.spotify.com/track/1b4l2qmMY6LvAzRF7Kf9Lf) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Pu$$ycat Dollz](https://open.spotify.com/album/17aJCoSv1jz8QALI1m4HQm) | 2:05 |
 | 50 | [BŁĘDNE KOŁO](https://open.spotify.com/track/0PoEGn7arAzcoa58nDS7fY) | [Bary](https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw), [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [LEENY](https://open.spotify.com/artist/0JNiE5PtIz3q5dWEeyGsym) | [DEMON’S GATE](https://open.spotify.com/album/5I7vSK1orioMGUo3lh5zso) | 4:13 |
 
-Snapshot ID: `MCxiODEyNDA3ODQ4Njk0ZGQ0OTczMjkxNDg4OGQyZmIyN2E5YTQxNzZj`
+Snapshot ID: `MCxiMDY1ZWYyZDNjNGU0NDJkNWQzOTZjMTkwNTdmMDI1Yzk1NTg4YjY0`

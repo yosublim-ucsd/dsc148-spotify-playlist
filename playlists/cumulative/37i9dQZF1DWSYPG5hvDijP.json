@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 142214,
       "name": "At The Afterparty",
       "url": "https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 180486,
       "name": "No Breaks",
       "url": "https://open.spotify.com/track/5HlSPZrglzpcbrrB09lQYd"
@@ -4057,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/0vmZ55s1DXlmyfDWPNwPGY"
+      },
+      "artists": [
+        {
+          "name": "Rob C",
+          "url": "https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi"
+        },
+        {
+          "name": "Distortion 17",
+          "url": "https://open.spotify.com/artist/4pEHD6OEhkbRWKWf0v1kVp"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/18sHkYJvvWhMnsE9BhDHgC"
+    },
+    {
+      "album": {
         "name": "Tu Tera Dekh",
         "url": "https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1"
       },
@@ -4120,6 +4142,24 @@
       "duration_ms": 143357,
       "name": "VIOLENCE",
       "url": "https://open.spotify.com/track/1xEDyLLmFKjt66xtqq0d3w"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143108,
+      "name": "W",
+      "url": "https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT"
     },
     {
       "album": {

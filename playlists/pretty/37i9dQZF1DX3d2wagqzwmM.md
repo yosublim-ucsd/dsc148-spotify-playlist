@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,395 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,596 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 65 | [Let Me Be Your Fantasy](https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV) | 2:56 |
 | 66 | [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 |
 | 67 | [Spirits](https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Spirits](https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5) | 3:53 |
-| 68 | [Spitfire](https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Spitfire](https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG) | 2:44 |
-| 69 | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 |
+| 68 | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 |
+| 69 | [Spitfire](https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Spitfire](https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG) | 2:44 |
 | 70 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
 | 71 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
 | 72 | [Disco Dancer](https://open.spotify.com/track/7bAELPbQxGZG69KcsyyWbm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Disco Dancer](https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t) | 3:00 |
 | 73 | [Unforgettable](https://open.spotify.com/track/1RzpRGOArORD0iwIVLwJQo) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Unforgettable](https://open.spotify.com/album/2RvelusFjACbKKX6Xh9qEN) | 3:37 |
-| 74 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 |
-| 75 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
+| 74 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
+| 75 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 |
 | 76 | [Eternal](https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Eternal](https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq) | 3:05 |
 | 77 | [Cantus](https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cantus](https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF) | 3:04 |
-| 78 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 |
-| 79 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
+| 78 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
+| 79 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 |
 | 80 | [Drum Machine](https://open.spotify.com/track/2vuMD95467vEtEUja63LxH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Drum Machine](https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN) | 2:26 |
 
-Snapshot ID: `MCxhYmNkNDUyN2YyNWY1MDgzNzkyOGEyNWNmZGYxZGIxMWQ5MDdlYTFm`
+Snapshot ID: `MCw0OWM3ZDhlMjJjOTI4ZTg0ZTNiOGNhYWM5NDlkZjU0MTNlYWUyMDRm`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdxcBWuJkbcy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxcBWuJkbcy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxcBWuJkbcy)
 
-### [Motivation Mix](https://open.spotify.com/playlist/37i9dQZF1DXdxcBWuJkbcy)
+### [Gym Hits](https://open.spotify.com/playlist/37i9dQZF1DXdxcBWuJkbcy)
 
-> Uplifting and energetic music that helps you stay motivated.
+> All the dance tracks that make you run fast and lift heavy!
 
 710 songs - 1 day 11 hr 22 min
 

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,620 songs - 3 day 20 hr 29 min
+1,621 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1230,6 +1230,7 @@
 | [Show Me](https://open.spotify.com/track/3j701CnXp7gWgHfa03dtA1) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Show Me](https://open.spotify.com/album/2wOSJI1gSAvjLAPOUz8zGx) | 2:59 | 2023-11-10 | 2023-11-18 |
 | [Show Me](https://open.spotify.com/track/4QeFjSaniL6fVNV4YGNtJw) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW) | [Show Me](https://open.spotify.com/album/6En5iBKG9L14uJEilTrM1P) | 3:08 | 2023-08-04 | 2023-08-12 |
 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 | 2022-11-05 | 2022-11-12 |
+| [Show Me Love](https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR) | [HELLMATE](https://open.spotify.com/artist/5UU04gvXBWysJhWxvFGilD), [Santiago & Carlitos](https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO), [Chantal Lewis Brown](https://open.spotify.com/artist/0hEVrtPQzlVt1Rilq8A4nA) | [Show Me Love](https://open.spotify.com/album/7wluquB3THjFZ9yqXAu01I) | 2:01 | 2024-01-02 |  |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-09-30 | 2022-10-08 |
 | [Show Me Your Love](https://open.spotify.com/track/6xJXSjQlbqRCJwjFo6bheo) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Zirretta](https://open.spotify.com/artist/1hQQvIX8ayna4zWG8nECpm) | [Show Me Your Love](https://open.spotify.com/album/6k7hfvTyu9Oy5eZ2OEVTWz) | 2:31 | 2022-07-09 | 2022-07-16 |
 | [Shut Up!](https://open.spotify.com/track/7xPoyl21zfzMCL3AF79WiI) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Shut Up!](https://open.spotify.com/album/0QsVUKTGbtYEM57fUNeivc) | 4:01 | 2023-06-24 | 2023-07-01 |

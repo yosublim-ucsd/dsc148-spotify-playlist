@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=\_XgO2G1FSCSxPX5m\-q2Klw">Eloff</a> se beste treffers vir die Nuwe Jaar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,941 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,994 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Jan Asseblief Tog Squeeze My](https://open.spotify.com/track/3lGJjc6pZRlqPsGHEigkAk) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Storm Op Die Horison](https://open.spotify.com/album/6FlbJYNRwwl4lSaQ6eMwPi) | 2:36 |
 | 50 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 
-Snapshot ID: `MCwyNDIzMTg5MWM3N2NmNGIxYWRmMTMyM2M5N2FkYTc0NDlmMDNlZjUz`
+Snapshot ID: `MCwzYTU5NjgwY2Q1YTc3NmU4NThhMmNiZjk4NDc2MGZhYmRiMWQ0ZmE4`

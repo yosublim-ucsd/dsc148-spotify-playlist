@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-104 songs - 1 day 0 hr 7 min
+105 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Dhun Pahari](https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Ragas Vol\. 5](https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc) | 17:50 | 2021-12-07 | 2023-01-03 |
 | [Durga\-Drut Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/1ODne1DAqhVLRBxgJaPCqv) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 8:18 | 2023-01-15 | 2024-01-02 |
 | [Durga\-Drut Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/3hNi96ZFTkNXPMOpWAQqN2) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/5AJ8nWLbje0YvWazh32yHP) | 8:18 | 2023-11-24 |  |
-| [Durga\-Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/46HkypvxRVq9sINstyurMa) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 8:10 | 2023-01-15 |  |
+| [Durga\-Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/3sHOq8KpJwhNZxsJOaLtYJ) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/5AJ8nWLbje0YvWazh32yHP) | 8:10 | 2023-11-24 |  |
+| [Durga\-Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/46HkypvxRVq9sINstyurMa) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 8:10 | 2023-01-15 | 2024-01-03 |
 | [Enduku Peddalavale Shankarabharanam Adi](https://open.spotify.com/track/0hOORzZm7ol1HDVxflkySj) | [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Ekanta: T\. M\. Krishna](https://open.spotify.com/album/7bkAVhQMLs1geCqrQj4Vmo) | 22:34 | 2021-12-07 | 2023-05-09 |
 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 | 2021-12-07 |  |
 | [Garjat Aayi Re \- Miyan Malhaar \- Teentaal](https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Kumar Sharma](https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6), [Kathak Rockers](https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3) | [Garjat Aayi Re](https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I) | 5:59 | 2023-06-02 |  |

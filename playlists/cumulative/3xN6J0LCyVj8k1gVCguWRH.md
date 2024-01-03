@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,809 songs - 6 day 16 hr 25 min
+2,811 songs - 6 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Calling Back](https://open.spotify.com/track/0E1tLCLmyK5pmNewAqHBvb) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Calling Back](https://open.spotify.com/album/2xuD8TvbHrWLVm7imgFajY) | 3:06 | 2022-05-06 | 2022-05-30 |
 | [Calling Me Back \- Coeus Remix](https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Vangelis Dreams EP \- Reimagined](https://open.spotify.com/album/0CFe0tqHQKry2xVk0KiV9E) | 7:46 | 2021-05-21 | 2021-06-06 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-06-01 | 2023-12-30 |
+| [CALMA \- Remix](https://open.spotify.com/track/0FvF4XO36AwEyc2zCVCjyo) | [Reijy](https://open.spotify.com/artist/6794EDtkcLQ065dXVaOIIC), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Jeivy Dance](https://open.spotify.com/artist/03nNDIejwqix5PecP2i0rv), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [CALMA \(Remix\)](https://open.spotify.com/album/7JKNQqKikS5zbLdIhtF01F) | 4:08 | 2024-01-02 |  |
 | [Came A Long Way](https://open.spotify.com/track/27tauAdh43Ot6c1Lw5Vp9D) | [DD](https://open.spotify.com/artist/5wZCM8FJXepBLA0GWjyboB) | [Came A Long Way](https://open.spotify.com/album/5VsT12NOYfDW8aA58pKPaD) | 2:42 | 2023-02-10 | 2023-03-08 |
 | [Camino](https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk) | [Free Whenever](https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he) | [Camino](https://open.spotify.com/album/5WcAaX8MRo8PxLTnLdaepR) | 3:08 | 2023-04-28 | 2023-05-16 |
 | [Camino Por Un Camino](https://open.spotify.com/track/3KPclpATgNWBJ6ck0IAvdD) | [Intergalactic C](https://open.spotify.com/artist/2qqvQRHFMPXZas3dFoMOm1) | [Camino Por Un Camino](https://open.spotify.com/album/1gJwp6ohAIU9U6SJhMbbwi) | 3:49 | 2022-04-15 | 2022-04-30 |
@@ -1130,6 +1131,7 @@
 | [How I Feel](https://open.spotify.com/track/4WUTad1s35LMNC3buMafIo) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [How I Feel](https://open.spotify.com/album/32APlMfXO8gIlchI5siBmN) | 2:48 | 2022-09-02 | 2022-09-18 |
 | [How I Loved You](https://open.spotify.com/track/0v5L68lrpE6KwjA24ATQnX) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [How I Loved You](https://open.spotify.com/album/1E4Cb2EOjg0fPloaeNumoe) | 4:33 | 2023-03-10 | 2023-04-02 |
 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 | 2023-01-03 |
+| [Howweusedtobe](https://open.spotify.com/track/2GZTc6b6LSqRSC6qAWNsoi) | [Humble Goods](https://open.spotify.com/artist/4AMIlG84QHWMs3GeFKhqep) | [Howweusedtobe](https://open.spotify.com/album/6xZiP8inef2heWYZZSj40u) | 2:28 | 2024-01-02 |  |
 | [Hullabaloo](https://open.spotify.com/track/7kfKhEayenoX9YnaBXVY3g) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Hullabaloo](https://open.spotify.com/album/5zY8QAy8jGbkHHuEXY3irG) | 2:30 | 2022-06-24 | 2022-07-16 |
 | [Human](https://open.spotify.com/track/3mDGC5am7hb7bBpANlzuVy) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Human](https://open.spotify.com/album/1ZKzW0S2wKSsGYcoCYKYlv) | 2:44 | 2021-03-30 | 2021-04-17 |
 | [Human Nature](https://open.spotify.com/track/32cWqbeEVZemQcpXYA6wOu) | [Ari Amun](https://open.spotify.com/artist/1UqNpVL3YhF1pIfqdmAWgy), [Madhi](https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0) | [Human Nature](https://open.spotify.com/album/5eOUGDZ2rBz6ep9OSgoyRx) | 3:29 | 2023-12-15 | 2024-01-02 |
@@ -2273,7 +2275,7 @@
 | [Stop Me Thinking of You](https://open.spotify.com/track/11wKSDW1ayrbr5XaE80w4J) | [WAMI](https://open.spotify.com/artist/2qrqGisLb0cY61ual20l9y), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Stop Me Thinking Of You](https://open.spotify.com/album/2vHJvZ9Xx06PkS9wwIEfsk) | 3:06 | 2021-10-02 | 2021-10-17 |
 | [Stories](https://open.spotify.com/track/4EZqTGsY8UxFyr5GLRMBvO) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Stories](https://open.spotify.com/album/6Nd1ADacijcAndvjzV7dh9) | 2:46 | 2023-06-17 | 2023-07-02 |
 | [Story](https://open.spotify.com/track/7jHqAeN50jGUywAz4VTWRm) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Story](https://open.spotify.com/album/3E4mc92fBvFU8JTN7820fC) | 3:48 | 2021-04-30 | 2021-05-16 |
-| [Straight Face](https://open.spotify.com/track/30OU60kBWs0LU0igNfVX8e) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Marco Giovanni](https://open.spotify.com/artist/51THgUeAqTsEM3oTDezXfM) | [Straight Face](https://open.spotify.com/album/6khiA0nqCwlh7s7y68PqsZ) | 2:51 | 2023-12-26 |  |
+| [Straight Face](https://open.spotify.com/track/30OU60kBWs0LU0igNfVX8e) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Marco Giovanni](https://open.spotify.com/artist/51THgUeAqTsEM3oTDezXfM) | [Straight Face](https://open.spotify.com/album/6khiA0nqCwlh7s7y68PqsZ) | 2:51 | 2023-12-26 | 2024-01-03 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-07-11 |  |
 | [Strawberry Skies](https://open.spotify.com/track/2p1onANhkUkyMZKKigOUJu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies](https://open.spotify.com/album/1QSS3hCtXqTakiLJpIhppz) | 2:45 | 2020-04-29 | 2020-05-07 |
 | [Street Corner Singing](https://open.spotify.com/track/65zvSsLOzNaGmqYfC0prfQ) | [The Como Brothers](https://open.spotify.com/artist/0b224J8SgGduU4c23pfuKv) | [Street Corner Singing](https://open.spotify.com/album/5A7jJTbvMFD1qRONJZhvXR) | 2:56 | 2021-12-31 | 2022-01-15 |

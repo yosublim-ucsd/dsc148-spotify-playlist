@@ -6,7 +6,7 @@
     "name": "Johnny Le",
     "url": "https://open.spotify.com/user/12158668258"
   },
-  "snapshot_id": "MzAyLDBhNGFhNzFmODVkMmMzYWIzZDc5OTQ0NTExMDNjZjlhYTQ2NzkzZGE=",
+  "snapshot_id": "MzA0LDI1MTUwNTM1MTEzYjVlOTVkNTMyNTE3NjMwYmUzNDEwNGY1YWU0MzA=",
   "tracks": [
     {
       "added_at": "2022-08-25 09:19:40",
@@ -3343,6 +3343,38 @@
       "duration_ms": 109500,
       "name": "WE NEED TO TALK",
       "url": "https://open.spotify.com/track/0XVkklfl5XrzU8t6Ko7yB3"
+    },
+    {
+      "added_at": "2024-01-02 05:33:56",
+      "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "added_at": "2024-01-02 05:34:16",
+      "album": {
+        "name": "O Seguinte \u00e9 Esse",
+        "url": "https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD"
     }
   ],
   "unique_name": "//divided.",

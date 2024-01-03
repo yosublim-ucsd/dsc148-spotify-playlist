@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 219100,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/0IzDyNfwiqQGaQ6DqX7ss0"
@@ -5282,7 +5282,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 260199,
       "name": "flowers",
       "url": "https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ"
@@ -7794,7 +7794,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 223626,
       "name": "Have a Good Time Here",
       "url": "https://open.spotify.com/track/3rDewXZvbOQPWUR8TPi6VW"
@@ -8346,7 +8346,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 232941,
       "name": "Holy Night",
       "url": "https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG"
@@ -22848,7 +22848,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 182346,
       "name": "you are here",
       "url": "https://open.spotify.com/track/4UP3XbEEADUSK1zHnHjEu3"
@@ -22910,6 +22910,24 @@
       "duration_ms": 282041,
       "name": "YOU GOT IT",
       "url": "https://open.spotify.com/track/6xVIDaSATdzGWvqc7w32RV"
+    },
+    {
+      "album": {
+        "name": "YOU&\u611bHeaven",
+        "url": "https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "YOU&\u611bHeaven",
+      "url": "https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy"
     },
     {
       "album": {
@@ -25649,6 +25667,24 @@
     },
     {
       "album": {
+        "name": "\u307f\u3093\u306a\u304c\u307f\u3093\u306a\u82f1\u96c42024",
+        "url": "https://open.spotify.com/album/4Q7pUhKp0w7iWGlltJE8Xe"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181025,
+      "name": "\u307f\u3093\u306a\u304c\u307f\u3093\u306a\u82f1\u96c42024",
+      "url": "https://open.spotify.com/track/79aEE1CeUNPjs8vSJExZ5P"
+    },
+    {
+      "album": {
         "name": "\u3082\u3046\u3084\u3060",
         "url": "https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37"
       },
@@ -26130,6 +26166,28 @@
       "duration_ms": 202371,
       "name": "\u30a2\u30f3\u30d0\u30fc\u30e0\u30fc\u30f3",
       "url": "https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/19hCarTppFvMeTXXQklrmY"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u5c71\u307f\u304d",
+          "url": "https://open.spotify.com/artist/16eUjAZ2A6E4i8Hy3Q2npG"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235185,
+      "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/7s5lA70AK4nnSI50tdvPsh"
     },
     {
       "album": {
@@ -30798,7 +30856,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 323251,
       "name": "\u50d5\u3060\u3051\u304c\u611b",
       "url": "https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb"
@@ -31052,6 +31110,24 @@
       "duration_ms": 327160,
       "name": "\u51f8\u51f9 (tofubeats remix)",
       "url": "https://open.spotify.com/track/4bbiiQyG3sx7tlhm29sdmh"
+    },
+    {
+      "album": {
+        "name": "\u51fa\u3066\u3044\u3051\uff01\u30ab\u30ec\u30b7\uff01",
+        "url": "https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261914,
+      "name": "\u51fa\u3066\u3044\u3051\uff01\u30ab\u30ec\u30b7\uff01",
+      "url": "https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9"
     },
     {
       "album": {
@@ -31984,7 +32060,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 300666,
       "name": "\u56de\u6625",
       "url": "https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z"
@@ -33259,6 +33335,24 @@
     },
     {
       "album": {
+        "name": "\u5e06",
+        "url": "https://open.spotify.com/album/37H8ypYcyqerXMiJmceWE0"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "\u5e06",
+      "url": "https://open.spotify.com/track/478Gsvwn005zK6JiOP7sTJ"
+    },
+    {
+      "album": {
         "name": "Quiet Life (30th Anniversary Edition; 2022 Remaster)",
         "url": "https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S"
       },
@@ -34126,7 +34220,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 274710,
       "name": "\u629c\u3051\u3066\u3044\u304f",
       "url": "https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ"
@@ -36382,7 +36476,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 280200,
       "name": "\u771f\u590f\u306e\u591c\u306e\u5922",
       "url": "https://open.spotify.com/track/2RDN1D6wtANEJXVv6Tc4Wq"
@@ -36422,7 +36516,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 336333,
       "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg"
@@ -36530,7 +36624,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 222930,
       "name": "\u7802\u4e0a\u306e\u57ce",
       "url": "https://open.spotify.com/track/3HWYCBHGcremRUquEznuA9"
@@ -38152,7 +38246,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 237205,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a) - Kan Sano Remix",
       "url": "https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS"

@@ -4,7 +4,7 @@
 
 > J'sors la bécane di\-di\-da\-da \#fyp
 
-236 songs - 12 hr 21 min
+237 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Mon pays](https://open.spotify.com/track/4vVvgcRA5mMCEEcqqbigzA) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [D.U.C.](https://open.spotify.com/album/4d3M07iHUrVfcfT1BA0V1j) | 3:05 | 2023-08-11 | 2023-11-11 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-27 | 2023-11-11 |
 | [Moulaga \- Sped up](https://open.spotify.com/track/42Af5vuvCRGC0t1ohkQlh8) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga \(Sped Up\)](https://open.spotify.com/album/3snOEcWBBU2kTkY0jjD5dx) | 2:46 | 2023-04-14 | 2023-10-11 |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-02 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-10 | 2023-12-15 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-06 |  |
 | [NINA](https://open.spotify.com/track/5CLE8nqBC2HLuFqLjoFzYw) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [NINA](https://open.spotify.com/album/2AZb9w8mOIBFdjyNnTbPKp) | 2:48 | 2023-03-24 | 2023-10-02 |
@@ -191,7 +192,7 @@
 | [PLAVON](https://open.spotify.com/track/2VlZsX8huFxgfm3yoMCoRy) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [PLAVON](https://open.spotify.com/album/1jwo9ze4eyI9aGMXnH0rgL) | 2:31 | 2023-07-07 | 2023-09-16 |
 | [Pom pom pom](https://open.spotify.com/track/5i7ptm24QzqAiuqx6PQrLd) | [Kamnouze](https://open.spotify.com/artist/4gD7pjkmrDtA85YBMkg5GA) | [Rewind, Vol\. 2](https://open.spotify.com/album/0raHOetBS7QhT39vqPGgQH) | 4:11 | 2023-07-07 |  |
 | [Pourtant](https://open.spotify.com/track/47wyFDQKlZ4ycYTHYqOelQ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:11 | 2023-10-20 |  |
-| [Pourvu Qu'Elles M'Aiment](https://open.spotify.com/track/6Hr8Ek8a7r0aIdybhEx2T2) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:00 | 2023-07-21 |  |
+| [Pourvu Qu'Elles M'Aiment](https://open.spotify.com/track/6Hr8Ek8a7r0aIdybhEx2T2) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:00 | 2023-07-21 | 2024-01-03 |
 | [PROBLÈMES](https://open.spotify.com/track/3wRDJXLakoOT8ilNPOOhh9) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:14 | 2023-08-04 | 2023-09-16 |
 | [Problèmes d'adultes](https://open.spotify.com/track/4IOWZmBVc0GqfuoQcAkirT) | [Sexion d'Assaut](https://open.spotify.com/artist/4vnmifnGOeRXfNTRtgd4Tj) | [L'Apogée](https://open.spotify.com/album/6b8P3pIe2bH7AO9EQOQwk9) | 3:58 | 2023-12-01 |  |
 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 | 2023-10-20 |  |

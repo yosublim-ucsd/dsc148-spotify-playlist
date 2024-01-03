@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Live in New York",
+        "url": "https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32040,
+      "name": "Love Hides - Live at the Felt Forum, New York City, January 17, 1970, First Show",
+      "url": "https://open.spotify.com/track/4zOmEfLvoRQh31xUDZmoGW"
+    },
+    {
+      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },

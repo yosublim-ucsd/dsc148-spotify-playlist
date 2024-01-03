@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Gu\u00e8",
+  "description": "Il sogno di ogni zanza si \u00e8 avverato: \ud835\udc70\ud835\udc8f\ud835\udc85\ud835\udc86\ud835\udc8d\ud835\udc86\ud835\udc83\ud835\udc8a\ud835\udc8d\ud835\udc8a",
   "name": "Liricisti",
   "tracks": [
     {
@@ -2153,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Poopatch",
+          "url": "https://open.spotify.com/artist/2bjCxkueVmbdaVbNLPthla"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252958,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/0L7FgupwZknMv53Gd2FhaY"
+    },
+    {
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
       },
@@ -2974,6 +2996,24 @@
       "duration_ms": 182068,
       "name": "Tutto bene",
       "url": "https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3"
+    },
+    {
+      "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "album": {

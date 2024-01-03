@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6667,
+  "num_followers": 6673,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5",
+  "snapshot_id": "MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy",
   "tracks": [
     {
       "added_at": "2023-12-01 08:47:54",
@@ -823,34 +823,34 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Love to See You Cry",
-        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Robbert Duijf",
-          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 262286,
-      "name": "Love to See You Cry",
-      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Burlesque Desert Window",
-        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
+        "name": "Nighttime Walk",
+        "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Mercy John",
+          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Burlesque Desert Window",
-      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+      "duration_ms": 336904,
+      "name": "Nighttime Walk",
+      "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
     }
   ],
   "unique_name": "Route Americana",

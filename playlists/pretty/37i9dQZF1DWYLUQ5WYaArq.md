@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > hip\-hop from the golden era
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,294 likes - 56 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,289 likes - 56 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 55 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 56 | [Drop](https://open.spotify.com/track/7sT3O2PXs1o12XnCKlv204) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 5:34 |
 
-Snapshot ID: `MCw0MTRkYzIyY2QwMGUxNzE0NDM1YWU0ODEwMjcyMmRkYzNkNzk2YTAx`
+Snapshot ID: `MCw2YjgyMTg3YTMzNzc2ZjkxMjEwZWY2YTg4OTg2OTY0MmNmMmFhOWMz`

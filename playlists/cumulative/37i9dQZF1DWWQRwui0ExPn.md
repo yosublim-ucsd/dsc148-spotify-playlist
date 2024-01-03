@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,379 songs - 10 day 1 hr 40 min
+6,380 songs - 10 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,7 +904,7 @@
 | [caricias](https://open.spotify.com/track/5ZqfGRNVY94oMIleiCzW1n) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [caricias](https://open.spotify.com/album/2T3232e9nokiTlGXfO8lrU) | 4:12 | 2021-10-20 | 2022-04-24 |
 | [Carmela](https://open.spotify.com/track/6EseDeEHT1rGGVuLySsLCr) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:12 | 2023-04-05 |  |
 | [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-07-29 | 2022-11-11 |
-| [CarniBeat](https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih) | [Missta Wu](https://open.spotify.com/artist/6pgGx9VGAe6QAD0moJPXGM) | [CarniBeat](https://open.spotify.com/album/3ufwlvt6aBH34L7czcacRx) | 2:15 | 2022-12-09 |  |
+| [CarniBeat](https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih) | [Missta Wu](https://open.spotify.com/artist/6pgGx9VGAe6QAD0moJPXGM) | [CarniBeat](https://open.spotify.com/album/3ufwlvt6aBH34L7czcacRx) | 2:15 | 2022-12-09 | 2024-01-03 |
 | [Carnival Affair](https://open.spotify.com/track/3Bc5WU1HhSgip8u3ERbgKx) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc), [Walter Villaça](https://open.spotify.com/artist/2OvjgQDRGLkthmiQEyej5v) | [Carnival Affair](https://open.spotify.com/album/4D4en31KMJBbXIIeUHWduD) | 2:00 | 2021-11-05 | 2022-06-03 |
 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-19 | 2022-11-21 |
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-18 | 2022-11-25 |
@@ -1577,6 +1577,7 @@
 | [Drxzzl\_](https://open.spotify.com/track/76Yal7OOUDF3iaqchERzMf) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Re\-Leaf](https://open.spotify.com/album/3eZ7LrRTbuKQzkxz2gFBo5) | 2:32 | 2019-05-26\* | 2020-05-09 |
 | [Dry](https://open.spotify.com/track/1NNiv7YIRhbdE3rRJa6KZ3) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Fungus](https://open.spotify.com/album/4Qe0ohxCR6K9ruXC13HE91) | 1:17 | 2019-11-20 | 2021-07-11 |
 | [Dryade](https://open.spotify.com/track/38gevP5tZo2IBbQtzeNqbw) | [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov) | [Dryade](https://open.spotify.com/album/3ZOycEtnh9DSJ4nuj2AVMy) | 2:54 | 2022-04-23 | 2022-08-27 |
+| [Ducks.](https://open.spotify.com/track/54O4LOGcYGb2iVWHtOTuWu) | [Zola's Tapes](https://open.spotify.com/artist/6GwZeQ69WhS31fHqq46Qny) | [Ducks.](https://open.spotify.com/album/7kMGAW6nqjSaBYTZeXOANU) | 2:03 | 2023-12-22 |  |
 | [Duke](https://open.spotify.com/track/3MUlUDpXYBsuRTordGicC0) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Best of 2019](https://open.spotify.com/album/2OKul5zrZbmMOftz6c4Nk6) | 2:15 | 2020-04-18 | 2021-08-22 |
 | [Dulces Sueños](https://open.spotify.com/track/5E4J408wkR2hh7nXeK3wPE) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Dulces Sueños](https://open.spotify.com/album/5bD97fxHB9tXjEVjiO9jKz) | 1:15 | 2023-01-06 | 2023-05-19 |
 | [Dumbo](https://open.spotify.com/track/3F8RW7fgMpPkQLCWHdLsM9) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Dumbo](https://open.spotify.com/album/629z6qPBXhE9s20ticvpE2) | 2:21 | 2022-07-29 | 2022-12-03 |

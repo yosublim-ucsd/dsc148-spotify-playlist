@@ -4,36 +4,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,664 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,892 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 |
-| 2 | [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 |
-| 3 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
-| 4 | [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 |
-| 5 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 |
-| 6 | [Leih Beydary Keda](https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Eba Abelny](https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp) | 5:15 |
-| 7 | [عمرى كلو](https://open.spotify.com/track/7xH8bHSZ4qWB7QiAauh16n) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [عمرى كلو](https://open.spotify.com/album/5nF7lmHdRQzBfTLwAD1oWV) | 4:39 |
-| 8 | [بتمون](https://open.spotify.com/track/565DwJNaH1c4Cj2YoPfADl) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أيامي بيك](https://open.spotify.com/album/6czUisuzChJPALE0QbyP2V) | 4:05 |
-| 9 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
-| 10 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 |
-| 11 | [يا حياة قلبى](https://open.spotify.com/track/52ylRHT88HVcIsVJ6AmetJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [بدى عيش](https://open.spotify.com/album/2pmkzxgK0pNs8uFRJnhFGg) | 4:10 |
-| 12 | [بتضحك](https://open.spotify.com/track/3qhoIMbfdhooMz2YyxP9m1) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [خلينا نعيش](https://open.spotify.com/album/4MQTvKD6kjg1eMAsTNTbp9) | 4:22 |
-| 13 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 |
-| 14 | [يا غالي](https://open.spotify.com/track/5Pkag3Ny83R1QX7WFo8eyz) | [فرقة جيتارا](https://open.spotify.com/artist/0WtMDWKKkF9ZsTRsa9ffWU) | [قصتي](https://open.spotify.com/album/3WHI3KogOWEu2OG3WEqDli) | 5:18 |
-| 15 | [Enti Mshiti](https://open.spotify.com/track/4MmVIBw7hNG9Iw9arQDyKb) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:53 |
-| 16 | [يارب](https://open.spotify.com/track/1eZvf2kpynyMd6kIuja9mD) | [مروان خورى \- كارول سماحه](https://open.spotify.com/artist/5vXwZBIEHhceDpk0VIs50Q) | [انا والليل](https://open.spotify.com/album/5CkPFJECR9SZ21ZeYdxJeL) | 4:37 |
-| 17 | [لو بص في عيني](https://open.spotify.com/track/5aJK0AXVQSjkJKUD1UcYyU) | [سيرين عبد النور](https://open.spotify.com/artist/208HsmC7Y3dzue2M4eCaOr) | [عليك عيوني](https://open.spotify.com/album/3O81XSocvzWl3EYsFE67TH) | 4:06 |
-| 18 | [خدنى ليك](https://open.spotify.com/track/3LsZBEdrulcolaWO9U4Oqf) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [قرب ليي](https://open.spotify.com/album/3S0M4p3Nklpm9nglRQjZ7U) | 4:42 |
-| 19 | [حبيبي يا](https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [حبيبي يا](https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM) | 3:36 |
-| 20 | [Ya Tabtab Wa Dallaa](https://open.spotify.com/track/5l4Lla3ntoJIkCud07XlYn) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tabtab](https://open.spotify.com/album/1EUOmPNn2Fw6dwsjxKLFmC) | 4:22 |
-| 21 | [Ana Wala 'Aaref](https://open.spotify.com/track/4cH7FzKmEoqI5HgV97ou7L) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:51 |
-| 22 | [Ana Wel Shog](https://open.spotify.com/track/0kskiFzt4hU3iq6wVcsL2X) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL) | 4:35 |
-| 23 | [Shik Shak Shok \- Remastered](https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok \(Remastered\)](https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq) | 5:33 |
-| 24 | [ليلى نهارى](https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:06 |
-| 25 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 |
-| 26 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 |
+| 1 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 |
+| 2 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 |
+| 3 | [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 |
+| 4 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
+| 5 | [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 |
+| 6 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 |
+| 7 | [Leih Beydary Keda](https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Eba Abelny](https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp) | 5:15 |
+| 8 | [عمرى كلو](https://open.spotify.com/track/7xH8bHSZ4qWB7QiAauh16n) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [عمرى كلو](https://open.spotify.com/album/5nF7lmHdRQzBfTLwAD1oWV) | 4:39 |
+| 9 | [بتمون](https://open.spotify.com/track/565DwJNaH1c4Cj2YoPfADl) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أيامي بيك](https://open.spotify.com/album/6czUisuzChJPALE0QbyP2V) | 4:05 |
+| 10 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
+| 11 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 |
+| 12 | [يا حياة قلبى](https://open.spotify.com/track/52ylRHT88HVcIsVJ6AmetJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [بدى عيش](https://open.spotify.com/album/2pmkzxgK0pNs8uFRJnhFGg) | 4:10 |
+| 13 | [بتضحك](https://open.spotify.com/track/3qhoIMbfdhooMz2YyxP9m1) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [خلينا نعيش](https://open.spotify.com/album/4MQTvKD6kjg1eMAsTNTbp9) | 4:22 |
+| 14 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 |
+| 15 | [يا غالي](https://open.spotify.com/track/5Pkag3Ny83R1QX7WFo8eyz) | [فرقة جيتارا](https://open.spotify.com/artist/0WtMDWKKkF9ZsTRsa9ffWU) | [قصتي](https://open.spotify.com/album/3WHI3KogOWEu2OG3WEqDli) | 5:18 |
+| 16 | [Enti Mshiti](https://open.spotify.com/track/4MmVIBw7hNG9Iw9arQDyKb) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:53 |
+| 17 | [يارب](https://open.spotify.com/track/1eZvf2kpynyMd6kIuja9mD) | [مروان خورى \- كارول سماحه](https://open.spotify.com/artist/5vXwZBIEHhceDpk0VIs50Q) | [انا والليل](https://open.spotify.com/album/5CkPFJECR9SZ21ZeYdxJeL) | 4:37 |
+| 18 | [لو بص في عيني](https://open.spotify.com/track/5aJK0AXVQSjkJKUD1UcYyU) | [سيرين عبد النور](https://open.spotify.com/artist/208HsmC7Y3dzue2M4eCaOr) | [عليك عيوني](https://open.spotify.com/album/3O81XSocvzWl3EYsFE67TH) | 4:06 |
+| 19 | [خدنى ليك](https://open.spotify.com/track/3LsZBEdrulcolaWO9U4Oqf) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [قرب ليي](https://open.spotify.com/album/3S0M4p3Nklpm9nglRQjZ7U) | 4:42 |
+| 20 | [حبيبي يا](https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [حبيبي يا](https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM) | 3:36 |
+| 21 | [Ya Tabtab Wa Dallaa](https://open.spotify.com/track/5l4Lla3ntoJIkCud07XlYn) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tabtab](https://open.spotify.com/album/1EUOmPNn2Fw6dwsjxKLFmC) | 4:22 |
+| 22 | [Ana Wala 'Aaref](https://open.spotify.com/track/4cH7FzKmEoqI5HgV97ou7L) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:51 |
+| 23 | [Ana Wel Shog](https://open.spotify.com/track/0kskiFzt4hU3iq6wVcsL2X) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL) | 4:35 |
+| 24 | [Shik Shak Shok \- Remastered](https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok \(Remastered\)](https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq) | 5:33 |
+| 25 | [ليلى نهارى](https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:06 |
+| 26 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 |
 | 27 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 |
 | 28 | [يامسهر عيني](https://open.spotify.com/track/65YnEWo2zsM4mQDmpSozEL) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [يا مسهر عيني](https://open.spotify.com/album/7c6XuVotEMUjdmbZzoV5cR) | 4:03 |
 | 29 | [Ya Tara](https://open.spotify.com/track/1qzVBmXs4OeL8nwl7bZIMf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Yally Mashy](https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM) | 5:33 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 103 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 104 | [El Hawa Sultan](https://open.spotify.com/track/0Jna6e4quht8fha1hIZbzL) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [انجح أغاني لجورج وسوف](https://open.spotify.com/album/3TI5sobwgaWYZboNlAFnkw) | 7:02 |
 
-Snapshot ID: `MCxhMWZkODI0MGYzZjlhOGRkMjMxMzUyN2M3MGZmMmRmMjRjMDE4MGUx`
+Snapshot ID: `MCw5MGI4MzBkMzk0ZjQwMGY0MDQyZWExNWNjYmMzNzZmODU3ZTI3NzU1`

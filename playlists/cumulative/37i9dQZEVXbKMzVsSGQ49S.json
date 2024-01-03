@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -5138,7 +5138,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -5174,7 +5174,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -6980,7 +6980,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 236000,
       "name": "Ef \u00fe\u00fa hugsar eins og \u00e9g",
       "url": "https://open.spotify.com/track/6zwp5dM2tL5hOWpfEmMpTB"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -8906,7 +8906,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 252920,
       "name": "FL\u00ddG UPP",
       "url": "https://open.spotify.com/track/2iHiVyfDAm6EjhkGELpqPK"
@@ -9092,6 +9092,32 @@
       "duration_ms": 160706,
       "name": "Fram \u00ed rau\u00f0an dau\u00f0ann",
       "url": "https://open.spotify.com/track/1cuKEv5GoqZjMt8EImjfLf"
+    },
+    {
+      "album": {
+        "name": "Framt\u00ed\u00f0in Er H\u00e9rna",
+        "url": "https://open.spotify.com/album/4T25knTcwwhTgLzcolCGRw"
+      },
+      "artists": [
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        },
+        {
+          "name": "Auddi",
+          "url": "https://open.spotify.com/artist/1jJIgFrkLpcaYTiVr7ZoA4"
+        },
+        {
+          "name": "Overtune",
+          "url": "https://open.spotify.com/artist/2gMDF8TEtJlMKIjns6dV69"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153743,
+      "name": "Framt\u00ed\u00f0in Er H\u00e9rna",
+      "url": "https://open.spotify.com/track/1Q8hNTpd1coPzHoPQ023D7"
     },
     {
       "album": {
@@ -11384,7 +11410,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 113692,
       "name": "Held \u00ed m\u00e9r andanum (\u00c1ram\u00f3taskaup 2020)",
       "url": "https://open.spotify.com/track/2Cy04h8gKSNDitydinK95R"
@@ -12926,7 +12952,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -13210,7 +13236,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -14039,6 +14065,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1 \u00e9g veit",
+        "url": "https://open.spotify.com/album/2Fb29nlOEQArr4lI89VN1I"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180343,
+      "name": "J\u00e1 \u00e9g veit",
+      "url": "https://open.spotify.com/track/527GqNC4mcZ45iNhkAxwSm"
+    },
+    {
+      "album": {
         "name": "KBE kynnir: Flottur Skr\u00e1kur 2",
         "url": "https://open.spotify.com/album/3fhZVuHw3gbUOBJpzX8bxf"
       },
@@ -14250,7 +14298,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 117219,
       "name": "J\u00f3lin Eru A\u00f0 Koma",
       "url": "https://open.spotify.com/track/0ZXzxXSaoXlkwmVTTufTRV"
@@ -14368,7 +14416,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
@@ -14784,7 +14832,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 301824,
       "name": "Kl\u00e1rum \u00feetta saman (\u00c1ram\u00f3taskaupi\u00f0 2020)",
       "url": "https://open.spotify.com/track/23MrixzcVdJMIyqkoce6Y2"
@@ -14906,6 +14954,24 @@
       "duration_ms": 161800,
       "name": "Komi\u00f0 A\u00f0 \u00dev\u00ed",
       "url": "https://open.spotify.com/track/28MwPJYh5Ot9NMvRSLgyPy"
+    },
+    {
+      "album": {
+        "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
+        "url": "https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151593,
+      "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
+      "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
     },
     {
       "album": {
@@ -19600,7 +19666,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -21294,7 +21360,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -21538,7 +21604,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 173402,
       "name": "prettyboitjokko",
       "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
@@ -22314,7 +22380,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
@@ -22762,7 +22828,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -23030,7 +23096,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 165812,
       "name": "R\u00fantarinn",
       "url": "https://open.spotify.com/track/2cHBypBYR5pXwBRA3jCxwb"
@@ -23542,7 +23608,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 177661,
       "name": "Seinni T\u00edma Vandam\u00e1l (\u00c1ram\u00f3taskaupi\u00f0 2017)",
       "url": "https://open.spotify.com/track/1k6ioMjt6YwEFcEnhqJNeY"
@@ -25760,7 +25826,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 203156,
       "name": "Styttist \u00ed \u00fea\u00f0",
       "url": "https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9"
@@ -25818,7 +25884,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 164211,
       "name": "St\u00f3\u00f0 \u00e9g \u00fati \u00ed tunglslj\u00f3si",
       "url": "https://open.spotify.com/track/6ijaNn3BJjoQt8Eqv7GyMi"
@@ -25862,7 +25928,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 195894,
       "name": "St\u00fafur",
       "url": "https://open.spotify.com/track/64yVFDc2n1cc7A9dSac0DE"
@@ -26712,6 +26778,24 @@
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "album": {
+        "name": "Take on Me (Slowed)",
+        "url": "https://open.spotify.com/album/5fvfhXSbiPzfbMDZMpWCum"
+      },
+      "artists": [
+        {
+          "name": "m3gan",
+          "url": "https://open.spotify.com/artist/3cGI2IfwIMXdCPbOp2AfTl"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200288,
+      "name": "Take on Me - Slowed",
+      "url": "https://open.spotify.com/track/1Ft2NuMsg3Q1sAKIeJoJds"
     },
     {
       "album": {
@@ -29570,7 +29654,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
@@ -29930,6 +30014,24 @@
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
+    },
+    {
+      "album": {
+        "name": "White Noise for Sleeping Babies",
+        "url": "https://open.spotify.com/album/2jw2gGOljFXbX480sW6SxL"
+      },
+      "artists": [
+        {
+          "name": "White Noise Baby Sleep",
+          "url": "https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595105,
+      "name": "White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",
+      "url": "https://open.spotify.com/track/20GlDz2SYsXF8pzdxguxfe"
     },
     {
       "album": {
@@ -32168,7 +32270,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

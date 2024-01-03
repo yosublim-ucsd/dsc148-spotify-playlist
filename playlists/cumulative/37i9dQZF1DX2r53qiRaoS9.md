@@ -4,7 +4,7 @@
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-56 songs - 2 hr 55 min
+57 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2023-06-05 |  |
 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Ginni Kapoor](https://open.spotify.com/artist/4pQXtUY6y5FYuvuDZtxgSC) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 | 2023-06-05 |  |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2023-06-05 |  |
-| [Wonderland](https://open.spotify.com/track/31QGKUEo7ZH8dRbKSWQy25) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0dR5tnSwR7V6wAlXsf7b5e) | 3:01 | 2023-06-05 |  |
+| [Wonderland](https://open.spotify.com/track/1C7nptPXHHUbByNpQwcbZX) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0SL2oLXyQ0l3zYW1AMOt8T) | 3:01 | 2023-12-18 |  |
+| [Wonderland](https://open.spotify.com/track/31QGKUEo7ZH8dRbKSWQy25) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0dR5tnSwR7V6wAlXsf7b5e) | 3:01 | 2023-06-05 | 2024-01-03 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

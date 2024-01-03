@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-415 songs - 1 day 12 hr 53 min
+416 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Things Are](https://open.spotify.com/track/5QZQp59h4rFScQWWfKeLPG) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 9:35 | 2022-02-10 |  |
 | [Along Too Long](https://open.spotify.com/track/26ekvT7x2kUaj94gXv5DB1) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Drumless](https://open.spotify.com/album/53WDDbvjTrIFdqItSPII5z) | 3:33 | 2022-04-01 |  |
 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 | 2022-06-24 |  |
-| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 |  |
+| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 | 2024-01-03 |
 | [At The 5 Spot](https://open.spotify.com/track/2FZem5RglrV8dnPkhFF6FQ) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [At The 5 Spot](https://open.spotify.com/album/5anvlQTK44VC5IuQPb7o9j) | 5:23 | 2022-02-23 |  |
 | [Auf den glückseligen Inseln](https://open.spotify.com/track/6cOK9fHTBsoaL1P6JicMqM) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:58 | 2022-02-10 | 2022-11-17 |
 | [Avail](https://open.spotify.com/track/3EWX16gyPWqh2HB1MmND36) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Activate Infinity](https://open.spotify.com/album/4di70TuVf9J97NAGO4lKMc) | 3:15 | 2022-02-10 | 2022-09-03 |
@@ -124,6 +124,7 @@
 | [Gallop's Gallop](https://open.spotify.com/track/0r4LITsJgLYwRC84BCjJ0p) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ) | [Remembrance](https://open.spotify.com/album/2PxXFdwS4tUhUzr9Iwtr3v) | 5:26 | 2022-02-10 | 2022-07-26 |
 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2022-12-02 |  |
 | [Gamut Warning Revisited](https://open.spotify.com/track/1GDyxjei81WGbR3GuR1qAU) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 5:30 | 2022-03-07 |  |
+| [Ghost Prayer](https://open.spotify.com/track/0Cb4MjEdp9ONAKndzDWNeI) | [Matt Herskowitz](https://open.spotify.com/artist/4qixXDBzpahvfXrHux93Ck) | [Ghost Prayer](https://open.spotify.com/album/4JSrB4eDSPlxFDehgJxNMZ) | 3:54 | 2023-09-29 |  |
 | [Giant Steps](https://open.spotify.com/track/32LHb8srTTcskLU7hWk2ub) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO), [Curtis Lundy](https://open.spotify.com/artist/268qOyQLJyffQJGYoXNH22), [Victor Lewis](https://open.spotify.com/artist/1cF1EPqYh5bucTrzSQQr0y) | [Midnight Melodies \(feat\. Curtis Lundy & Victor Lewis\)](https://open.spotify.com/album/6SsRNzf9bRWDNK7oSHTtEO) | 6:39 | 2022-02-10 | 2022-07-26 |
 | [Give Up](https://open.spotify.com/track/3noASpLw5Z0XUJfD1VjSsT) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [Give Up](https://open.spotify.com/album/3dUsIsUqDix4gouqQzPErO) | 4:16 | 2022-02-10 | 2022-09-26 |
 | [Gnossienne](https://open.spotify.com/track/4DdXAgQsfHAnS7lmdS0j7L) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [1st Movement](https://open.spotify.com/album/3GQELIw2FFQmOcW0hRBTx1) | 9:19 | 2022-02-10 |  |

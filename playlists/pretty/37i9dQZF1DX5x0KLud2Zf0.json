@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102177,
+  "num_followers": 102207,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
+  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 183360,
       "name": "El Antes Y El Despu\u00e9s",
       "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "De Fiesta Con La Sonora Dinamita",
+        "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 180682,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Mi Premio O Mi Castigo",
         "url": "https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 158000,
       "name": "Volver da Flojera",
       "url": "https://open.spotify.com/track/5ZeGUTktmQ7SB7I1IuppG3"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "De Fiesta Con La Sonora Dinamita",
-        "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 180682,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Libre Otra Vez",
-        "url": "https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja"
+        "name": "Irreversible... 2012",
+        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Miento",
-      "url": "https://open.spotify.com/track/28cMigsVvHrG7Udcmf3QFF"
+      "duration_ms": 222786,
+      "name": "Te Prometo",
+      "url": "https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41"
     }
   ],
   "unique_name": "Cancionero Horacio Palencia",

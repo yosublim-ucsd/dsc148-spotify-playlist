@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzE5MCwwYzhiNTMwZWYzOWFkZmZkOGNmODI4NDNkODAwYWY4MDk2MjU4ZmZl",
+  "snapshot_id": "NzE5MSw2ZDIwYTY5M2EyNWNlNTg2NjQyNzFlNjUzZGQ1ZThmZTYzYzMzZTM0",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2499,6 +2499,26 @@
       "duration_ms": 221053,
       "name": "Zaza (feat. Future)",
       "url": "https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp"
+    },
+    {
+      "added_at": "2024-01-02 16:07:32",
+      "album": {
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 180934,
+      "name": "Same Yung Nigga (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1"
     }
   ],
   "unique_name": "main ",

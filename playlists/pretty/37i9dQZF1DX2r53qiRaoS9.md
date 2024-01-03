@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,848 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,857 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 38 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
 | 39 | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Music Mg](https://open.spotify.com/artist/187TniBCUYUBlVTjmtsVi9) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
 | 40 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Ginni Kapoor](https://open.spotify.com/artist/4pQXtUY6y5FYuvuDZtxgSC) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 |
-| 41 | [Wonderland](https://open.spotify.com/track/31QGKUEo7ZH8dRbKSWQy25) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0dR5tnSwR7V6wAlXsf7b5e) | 3:01 |
+| 41 | [Wonderland](https://open.spotify.com/track/1C7nptPXHHUbByNpQwcbZX) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0SL2oLXyQ0l3zYW1AMOt8T) | 3:01 |
 | 42 | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/track/0oukMLKedsqQ3ltnI2daRO) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/album/5vQyWyFVzojsUsBGSzmZSe) | 3:20 |
 | 43 | [Life](https://open.spotify.com/track/7Bb4ZmnWkHIYcaZdSWPbP5) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Life \- Single](https://open.spotify.com/album/7HPag3Vh4cQKdztkUfyYiP) | 3:00 |
 | 44 | [Thug Life](https://open.spotify.com/track/3UiuBJG8s4euEM6Lqq3aDl) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
 | 50 | [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 |
 
-Snapshot ID: `MCw0NDRmY2UzNjg3NmVmOThkZmMyZGZjNjYwOTczZTdmZTIyODM0N2I1`
+Snapshot ID: `MCxkMTM3OWU3NDNmZGQzZTViMzNmOTUxMWRjOGZmNTRkNDdjNjI3NTNk`

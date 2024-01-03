@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-62 songs - 4 hr 12 min
+63 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/3cLa3VMzLbSJsfdTgwaVYt) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:06 | 2023-01-11 | 2023-05-25 |
 | [Pulingo Diwali](https://open.spotify.com/track/0pivL6BmJIWzqdIaBvMAR8) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Pulingo Diwali](https://open.spotify.com/album/7imLW174cr4m4egayzgg9L) | 4:06 | 2022-11-05 |  |
 | [Pullingo Attack](https://open.spotify.com/track/3VFnmmWiJNFW65t3dEoJv5) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Pullingo Attack](https://open.spotify.com/album/3PvuFm6bEgPx42zkWISHnN) | 4:37 | 2022-11-05 |  |
-| [Route Gaana](https://open.spotify.com/track/5CjfkWiY5nHw49kv6u5rpZ) | [Gaana Joe Paapa](https://open.spotify.com/artist/2bvuRbFAvJlStk1t6icicO), [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Route Gaana](https://open.spotify.com/album/54Kzee9r9O2GPjBpFElRNG) | 2:41 | 2023-02-13 |  |
+| [Route Gaana](https://open.spotify.com/track/2sY6FfvO8erkqm3vP8wNmc) | [Gaana Joe Paapa](https://open.spotify.com/artist/2bvuRbFAvJlStk1t6icicO), [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Route Gaana](https://open.spotify.com/album/5H8WcaRdyRe142uXERigdH) | 2:41 | 2023-02-13 |  |
+| [Route Gaana](https://open.spotify.com/track/5CjfkWiY5nHw49kv6u5rpZ) | [Gaana Joe Paapa](https://open.spotify.com/artist/2bvuRbFAvJlStk1t6icicO), [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Route Gaana](https://open.spotify.com/album/54Kzee9r9O2GPjBpFElRNG) | 2:41 | 2023-02-13 | 2024-01-03 |
 | [Rowdy Song](https://open.spotify.com/track/67mXTSPXUefNMuhbLS3Y1u) | [Gana Kuyil Bala Murugan](https://open.spotify.com/artist/6TYSnILrtFP1Q4GLC0lxt1) | [Rowdy](https://open.spotify.com/album/4cCJUSdfxMcX3pDlo9htsI) | 5:22 | 2022-11-05 |  |
 | [Side Band Dollu Pa, Pt\. 2](https://open.spotify.com/track/0OM1EEU82eU1PoOqkHvxO0) | [Docomo Mani](https://open.spotify.com/artist/1LSDQTKpM6lCe3t5LMZzGq) | [Side Band Dollu Pa, Pt\. 2](https://open.spotify.com/album/0tCyaUPBdo2AB1n7nURi4T) | 4:29 | 2022-11-05 |  |
 | [Silunguraendi nan Kulunguraendi](https://open.spotify.com/track/5A5qcgLhlcaLQ2YIlak3m3) | [Docomo Mani](https://open.spotify.com/artist/1LSDQTKpM6lCe3t5LMZzGq) | [Silunguraendi nan Kulunguraendi](https://open.spotify.com/album/1NJUih4hdo4z1t29rPWMjD) | 4:37 | 2022-11-05 |  |

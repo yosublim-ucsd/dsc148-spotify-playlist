@@ -4,7 +4,7 @@
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-135 songs - 7 hr 37 min
+136 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Tengo Ganas de Ti](https://open.spotify.com/track/4JD6C4Atg92awORLru91DD) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5c8UjxL0gg4jbkFXz1fvCe) | 3:30 | 2023-03-10 | 2023-05-02 |
 | [Tengo Ganas De Ti](https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4) | 3:30 | 2023-03-10 |  |
 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 | 2022-03-07 | 2023-02-11 |
-| [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 | 2023-03-10 |  |
+| [Tiempo Sin Mi](https://open.spotify.com/track/4f9GP4dQj1QDq6tAcWCu3R) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Tiempo Sin Mi](https://open.spotify.com/album/09OFdvDFy4SFR5Gbga8wVw) | 3:12 | 2023-09-13 |  |
+| [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 | 2023-03-10 | 2024-01-03 |
 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 | 2023-03-10 |  |
 | [Trampa De Amor](https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr) | [VIRGINIA Y VALOR](https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u) | [Trampa De Amor](https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6) | 2:41 | 2022-03-07 | 2023-03-11 |
 | [Tú Y Yo](https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC), [Roxane Perez](https://open.spotify.com/artist/35fvVqewj6umjnkCVNzV6V) | [El Maestro](https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2) | 3:58 | 2022-03-07 | 2023-03-11 |

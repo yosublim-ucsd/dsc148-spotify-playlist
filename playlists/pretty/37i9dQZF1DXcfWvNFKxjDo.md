@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Glockenbach, Öwnboss, Jazz Montell
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,128 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,174 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Blow Up The Speakers](https://open.spotify.com/track/3HiRPioRLBwjmTayWP2Pf8) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Blow Up The Speakers](https://open.spotify.com/album/2BiTIWkxrNStYL2iSPmjmh) | 3:03 |
 | 75 | [Hello?](https://open.spotify.com/track/4NePoOrXwbKGlnaeKLht8c) | [VLLN](https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx), [Jan Liva](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Hello?](https://open.spotify.com/album/2Nz9WDBWM8U1kBk39NhbCS) | 2:15 |
 
-Snapshot ID: `MCwyMTdhYjFmZDk4M2VhZWM5MTJhODE2NjkwYjIzNTVhNjNhMmU0YTJi`
+Snapshot ID: `MCxjMDQyYWE2YWMwODkxZGI2YzcyZjY4NGE1NGQ2ZjgwZDg1NzJmMDAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Roseline Layo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,308 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,387 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 | 40 | [Gnonmi Avec Lait \- Remix](https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [Gnonmi Avec Lait \(Remix\)](https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx) | 3:51 |
 
-Snapshot ID: `MCxlODRhYzBkNDVmM2M5Y2RiNmM3OGQ4Y2RkOTI2ZDQzNzZlY2Y3Nzky`
+Snapshot ID: `MCxkNGRhN2U3MjMzMDhmYmJhMDlkMWU4NzVjNjY3NjI5ZmU1NGI4N2Q1`

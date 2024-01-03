@@ -2,12 +2,13 @@
 
 ### [New Music K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: TVXQ\(동방신기\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: 2AM\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-7,570 songs - 18 day 4 hr 54 min
+7,573 songs - 18 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 0:00 | 2023-12-21 |  |
 | [" R\* o c k s t a r "](https://open.spotify.com/track/0fkZfK9i0DXdxNMmLNL8LW) | [Boy Wonder](https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y) | [" R\* o c k s t a r "](https://open.spotify.com/album/22Bt36UN7cncKxhNZGZ8wE) | 1:57 | 2022-07-04 | 2022-07-08 |
 | ["Come to Chuncheon"song](https://open.spotify.com/track/6Zug9XbF8doQY4Hrbad4nK) | [Leesiwon, Leejiwon](https://open.spotify.com/artist/7MwXkIMCGOqUfoQQTnJ8FQ) | [chuncheon 'accidentally Project' Part.4](https://open.spotify.com/album/7GpOJ3mi0B27ojnkZlwevC) | 2:32 | 2022-07-11 | 2022-07-28 |
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-02 | 2023-01-12 |
@@ -3087,6 +3088,7 @@
 | [If With You](https://open.spotify.com/track/0RNKYZOIYM1kWRE2lJ4kJm) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Bravo, My Life OST Part.9](https://open.spotify.com/album/3dUOi5oer0JUcnmyqI4E1I) | 3:40 | 2022-05-17 | 2022-05-28 |
 | [If You](https://open.spotify.com/track/1myicuc0hMxp03Av8Bba6h) | [iFLANDIES](https://open.spotify.com/artist/0CwdexmSBFdMjLhNCgVjoW), [세림](https://open.spotify.com/artist/0pXAGD1xyixhXi0AQKf0Ct) | [With You](https://open.spotify.com/album/5GTJHCubG8wkBbZ6yBroYH) | 3:44 | 2023-09-18 | 2023-11-11 |
 | [If You](https://open.spotify.com/track/53ioaj2WPAVA2CDrPBTjPI) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [ROSÉ](https://open.spotify.com/album/4NYDb3DfkaCG2mQwaONipS) | 3:34 | 2022-09-05 | 2022-10-15 |
+| [If you change your mind](https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [If you change your mind](https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o) | 3:39 | 2024-01-02 |  |
 | [If you come to Seoul](https://open.spotify.com/track/2aJOjWDSsVweuIGT7IDiTn) | [LUNCH](https://open.spotify.com/artist/65YBBPdR47xfH0Nc0Lc5tF) | [If you come to Seoul](https://open.spotify.com/album/5F8LYeN6GTtoeAOha7c2gS) | 5:09 | 2022-05-17 | 2022-05-31 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-04-19 | 2022-04-23 |
 | [If you hold my hand](https://open.spotify.com/track/2LMIQGEQVRGADX8rgsbohA) | [Hwang Si Yeon](https://open.spotify.com/artist/6fOuKiA7NquVRt5TLWQ1nk) | [Coffee Fox Kim Sam Wol OST Part.28 \(Soundtrack\)](https://open.spotify.com/album/4YmmFQg7H9aosnIhLeAFJf) | 3:28 | 2023-03-13 | 2023-03-28 |
@@ -3287,6 +3289,7 @@
 | [Jamais Vu](https://open.spotify.com/track/3xoxKrXKljK6MurmGvn5QU) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jamais Vu](https://open.spotify.com/album/20wgi4CHEYNov1oZKlhgqu) | 3:04 | 2022-11-07 | 2022-12-22 |
 | [Jamboree Anthem Korea](https://open.spotify.com/track/0ZIYJOJtAIHWFJJ9D2bTKC) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF), [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [Jamboree Anthem Korea](https://open.spotify.com/album/4JlHYXUlPOtsH9yioYv8Oc) | 3:24 | 2022-10-13 | 2022-11-07 |
 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 | 2022-05-09 | 2022-05-14 |
+| [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-02 |  |
 | [January Embers](https://open.spotify.com/track/6PbP8bAjafVtCy6vDNvrb3) | [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [January Embers](https://open.spotify.com/album/4V9ujG9CA4bccL084ULatG) | 3:33 | 2022-04-19 | 2022-05-03 |
 | [JAR](https://open.spotify.com/track/3rQf3CWsa2CAeD5o5GIe04) | [a 9uy](https://open.spotify.com/artist/2JCs5MXH8pb0LyUw5x4q9B) | [INSTANT](https://open.spotify.com/album/62OPHNgYOWgjCkBu5EK375) | 3:24 | 2023-02-11 | 2023-02-28 |
 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-03 | 2022-11-07 |
@@ -4510,6 +4513,7 @@
 | [Oh My God](https://open.spotify.com/track/2ZfO0mB9tArqUDkolKJ3Uq) | [PCDM](https://open.spotify.com/artist/1sd5Cwoqc8kom2tuvqly5I) | [Oh My God](https://open.spotify.com/album/7nHUNNrDnIFDOK46pTYeuc) | 2:35 | 2022-08-14 | 2022-08-26 |
 | [Oh My God \(2023\)](https://open.spotify.com/track/6k4nvOtN1WRXsqHvsDf8mH) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh) | [Oh My God \(2023\)](https://open.spotify.com/album/74Xm9bOXdH5QHaJcDgjScb) | 3:23 | 2023-06-15 | 2023-08-10 |
 | [OH MY GOSH](https://open.spotify.com/track/5CdnbfLGTouxwtFH5b9SUv) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [OH MY GOSH](https://open.spotify.com/album/2yRElKBWo5pvOXBoidwBeW) | 2:27 | 2023-05-22 | 2023-08-10 |
+| [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-02 |  |
 | [Oh NaNa \(ASTER Remix\)](https://open.spotify.com/track/0WmZXkq1cBz5MfnCNLeSqd) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD Remix Project](https://open.spotify.com/album/4HiJpKB8K47vINicrjYang) | 3:01 | 2023-03-28 | 2023-05-03 |
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-03 |
 | [OH!MANY](https://open.spotify.com/track/3UVnPYnsljNxnZMnKhyhRJ) | [지원이](https://open.spotify.com/artist/6zUP3eL5R7pO4H7k1LKxSz) | [OH!MANY](https://open.spotify.com/album/0ESTn6zZsybOqD2svviHuC) | 3:42 | 2023-02-14 | 2023-02-28 |
@@ -5194,7 +5198,6 @@
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-10 | 2022-05-28 |
 | [RUSH](https://open.spotify.com/track/65y78sP4CQd1euWdthtsFG) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [GENE\_SIS \(Original Soundtrack\) part 1: D\_COMPOSE](https://open.spotify.com/album/1Ki4sPVj5DWdNIGKePCETo) | 2:41 | 2022-06-18 | 2022-06-24 |
 | [RUSH](https://open.spotify.com/track/1oMQIK29K9R0kovoKu6ecR) | [THE FIX](https://open.spotify.com/artist/3C9Tg0ENJ77szoSXlkSpZ3) | [RUSH](https://open.spotify.com/album/3yKCKGL7dPe7uTHElUM0vf) | 3:31 | 2022-11-28 | 2022-12-22 |
-| [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 | 2023-12-21 |  |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-22 | 2022-11-07 |
 | [Rushlight](https://open.spotify.com/track/6yXyBbBNlgQmnHwlbQ64vp) | [Hanjoo Kim](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Rushlight\(Hope or Dope2 Original Soundtrack\)](https://open.spotify.com/album/0LyLWDW6EqAyCjZgxHkeJj) | 4:34 | 2022-06-01 | 2022-06-14 |
 | [Rust](https://open.spotify.com/track/5Wz5RjuQgRpV5lfkuURbBt) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES, Pt\. 2](https://open.spotify.com/album/5anA5ow8X53aOBVTmCvZ68) | 1:37 | 2023-03-17 | 2023-04-02 |

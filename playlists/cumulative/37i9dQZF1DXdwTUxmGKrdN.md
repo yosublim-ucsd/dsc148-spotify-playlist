@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-237 songs - 17 hr 22 min
+238 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Because Of You](https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/5cWMjZcZwARnijnPG2Qx4T) | 5:16 | 2021-12-27 | 2022-07-29 |
 | [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 | 2022-04-11 |  |
 | [Bittersweet](https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Bittersweet](https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ) | 4:04 | 2021-12-27 | 2022-07-27 |
-| [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2023-05-30 | 2023-12-30 |
+| [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2023-05-30 |  |
 | [Black Dynamite](https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Donald Hayes](https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:31 | 2022-04-11 | 2022-04-19 |
 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 | 2022-07-18 |  |
 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 | 2021-12-27 | 2022-07-29 |
@@ -57,12 +57,13 @@
 | [Close Your Eyes](https://open.spotify.com/track/4U8BICKUoG6sZRySInjdox) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' The Faith](https://open.spotify.com/album/0tIxbMipwFJGEdMmvfdEDx) | 5:06 | 2023-05-30 |  |
 | [Cloud Watching](https://open.spotify.com/track/68ZLNdsXbDCUMcK8KWpL1v) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters VI](https://open.spotify.com/album/4rQmN4oD6yEvJrVQtj2ct5) | 5:29 | 2023-05-30 |  |
 | [Co\-Motion](https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Co\-Motion](https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs) | 4:07 | 2022-11-14 | 2023-09-05 |
+| [Co\-Motion](https://open.spotify.com/track/4OV7oBWb9GxZVKqp9qYYw7) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Emergence](https://open.spotify.com/album/4tXLbKussGYTS4b5JMzVBt) | 4:07 | 2023-12-22 |  |
 | [Consequences](https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D) | 3:56 | 2023-01-02 |  |
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
 | [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 |  |
-| [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-11-10 |  |
+| [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-11-10 | 2024-01-03 |
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 |  |
 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 | 2022-04-11 | 2022-04-21 |
 | [Driftin'](https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx) | 3:48 | 2022-12-22 | 2023-12-23 |
@@ -181,7 +182,7 @@
 | [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 | 2023-12-14 |
 | [Romantic Nights](https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 3:48 | 2023-01-31 |  |
 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 | 2022-01-03 | 2022-07-29 |
-| [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 |  |
+| [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 | 2024-01-03 |
 | [Sample That](https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Retrospect](https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh) | 4:20 | 2021-12-27 | 2022-07-27 |
 | [Sample That](https://open.spotify.com/track/1exwSdnNGaDFdU51TEqVe9) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Retrospect](https://open.spotify.com/album/6m06arwfiqLoTyXfY4n0Nb) | 4:20 | 2023-05-30 | 2023-12-30 |
 | [Say What's on Your Mind](https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [The Journey](https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H) | 4:17 | 2022-08-15 |  |

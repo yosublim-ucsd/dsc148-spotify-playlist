@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: DJ CHARI, DJ TATSUKI
 
-370 songs - 19 hr 10 min
+371 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-28 | 2023-11-22 |
 | [AIN'T NO USE](https://open.spotify.com/track/6cahdjgqcOKTrYcq0VoYYx) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr), [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [ji2kia](https://open.spotify.com/artist/3GQDZKgxLoczcwbHY9tgY0) | [AIN'T NO USE](https://open.spotify.com/album/5LQBZzfyehsfZB9KQpJd8S) | 3:05 | 2023-12-06 | 2023-12-13 |
 | [AKAKUROKARASAKASESERUHANA](https://open.spotify.com/track/5VYRLi0yPBizh3srKXEcFm) | [dip BATTLES](https://open.spotify.com/artist/02fSrRuW8QrCDfDybcRSxD), [Gaki Ranger](https://open.spotify.com/artist/0AOB5bJZZZQ5bsVY1LdkVk) | [AKAKUROKARASAKASESERUHANA](https://open.spotify.com/album/7uQVxBv43sVJ6GOdosuXUZ) | 2:52 | 2023-10-10 | 2023-10-18 |
+| [AKEOME](https://open.spotify.com/track/30NHONUmKmHJ1baDNYOKUi) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [AKEOME](https://open.spotify.com/album/2PYDTxmvMcbjpqZCXVdyPQ) | 2:17 | 2024-01-02 |  |
 | [ALI BABA](https://open.spotify.com/track/0C11QSo2lLNTIKC5W824VY) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 2:37 | 2023-09-21 | 2023-10-04 |
 | [Ali Baba \(feat\. MFS & ralph\) \- Remix](https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:24 | 2023-10-24 | 2023-11-29 |
 | [All Day, All Night](https://open.spotify.com/track/10DXlPV9LD57cadftdxVQf) | [KEN THE 390](https://open.spotify.com/artist/1tcHKxlx0TZ6MkHGO4QYv3) | [Unfiltered Blue](https://open.spotify.com/album/5nRYOlUsUi1UfdHwQUi0BU) | 3:01 | 2023-12-06 | 2023-12-13 |
@@ -80,7 +81,7 @@
 | [Critical](https://open.spotify.com/track/71xru3fWtcYI6gyR4zgZz2) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [RAFRAGE](https://open.spotify.com/album/3FttzCyCj9hf5L4O2xhYcR) | 3:05 | 2023-11-22 |  |
 | [CRUSIN](https://open.spotify.com/track/4RYFrGHJyy0gHkD4KgvP4e) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb), [JASS](https://open.spotify.com/artist/5PYaF7q6SqPMfWFqiFSHNw) | [CRUSIN](https://open.spotify.com/album/2dkDsO9Big1Opk9QrNEx6V) | 4:06 | 2023-11-16 | 2023-12-06 |
 | [DASU](https://open.spotify.com/track/3Z50sUroGIqtbaMQfGqOoc) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [DASU](https://open.spotify.com/album/67RyY3ewQ282LklwrRx3Li) | 2:58 | 2023-10-03 | 2023-10-11 |
-| [Dear Santa](https://open.spotify.com/track/0GlPPjGBUGncyZQKlxlzJP) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ) | [Dear Santa](https://open.spotify.com/album/7vs4iFTt6B2bD7yX7B5I83) | 1:43 | 2023-12-26 |  |
+| [Dear Santa](https://open.spotify.com/track/0GlPPjGBUGncyZQKlxlzJP) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ) | [Dear Santa](https://open.spotify.com/album/7vs4iFTt6B2bD7yX7B5I83) | 1:43 | 2023-12-26 | 2024-01-03 |
 | [Demon](https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [Demon](https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1) | 2:54 | 2023-10-24 |  |
 | [Dependent](https://open.spotify.com/track/5vnbSGZcQ6NjmENi2AcePr) | [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Dependent](https://open.spotify.com/album/1ZFnFAn0Z0YnJyOqIMjMkY) | 3:18 | 2023-11-29 |  |
 | [Después Del Verano](https://open.spotify.com/track/2SwmhJBLFRYwYJoZVNZX2R) | [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [Después Del Verano](https://open.spotify.com/album/6HosXlNlmmTPCkMgJLWfsE) | 3:38 | 2023-09-21 | 2023-09-27 |

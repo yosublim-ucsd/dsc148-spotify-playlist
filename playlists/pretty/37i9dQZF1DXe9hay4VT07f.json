@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 426615,
+  "num_followers": 426689,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2",
+  "snapshot_id": "MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Buy out Riddim",
+        "url": "https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy"
+      },
+      "artists": [
+        {
+          "name": "Notch",
+          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Nuttin Nuh Go So",
+      "url": "https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Stronger We Get",
         "url": "https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 183893,
       "name": "Clarks",
       "url": "https://open.spotify.com/track/6LKeLk5IBQUb9eoXidchGQ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Buy out Riddim",
-        "url": "https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy"
-      },
-      "artists": [
-        {
-          "name": "Notch",
-          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Nuttin Nuh Go So",
-      "url": "https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "The Gaza Don",
-        "url": "https://open.spotify.com/album/5mZSxVXC2BpS8xH0o7vu0H"
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 167053,
-      "name": "Summer Tiime",
-      "url": "https://open.spotify.com/track/4jGE3Ct8rgMZQgJshj5Bdp"
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+        "name": "The Gaza Don",
+        "url": "https://open.spotify.com/album/5mZSxVXC2BpS8xH0o7vu0H"
       },
       "artists": [
         {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+      "duration_ms": 167053,
+      "name": "Summer Tiime",
+      "url": "https://open.spotify.com/track/4jGE3Ct8rgMZQgJshj5Bdp"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 240000,
       "name": "Call Me If",
       "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
         }
       ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+      "duration_ms": 244666,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
       "artists": [
         {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln"
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Expensive",
-        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Expensive",
-      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Dutty Whine",
         "url": "https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193413,
       "name": "Dutty Whine",
       "url": "https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Expensive",
+        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dancehall Hero Raw: Deluxe",
-        "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 137021,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Strictly The Best Vol. 51",
         "url": "https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 211440,
       "name": "Gal A Bubble",
       "url": "https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Dancehall Hero Raw: Deluxe",
+        "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 137021,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Good 2 Go",
+        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Good 2 Go",
-        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+        "name": "Paddle Boat",
+        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
       },
       "artists": [
         {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
         }
       ],
-      "duration_ms": 239786,
-      "name": "Pon De River Pon De Bank",
-      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+      "duration_ms": 159000,
+      "name": "Paddle Boat",
+      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Paddle Boat",
-        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
+        "name": "Waistline",
+        "url": "https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR"
       },
       "artists": [
         {
-          "name": "Najeeriii",
-          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Paddle Boat",
-      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
+      "duration_ms": 166070,
+      "name": "Waistline",
+      "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1711,22 +1727,6 @@
       "duration_ms": 195476,
       "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
       "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Waistline",
-        "url": "https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 166070,
-      "name": "Waistline",
-      "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
     }
   ],
   "unique_name": "Dancehall Party",

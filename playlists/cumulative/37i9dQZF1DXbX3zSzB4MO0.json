@@ -1477,7 +1477,7 @@
     },
     {
       "album": {
-        "name": "Prada (feat. D-Block Europe & Valexus) [Valexus Remix]",
+        "name": "Prada (feat. D-Block Europe) [Valexus Remix]",
         "url": "https://open.spotify.com/album/1kmVDYAYMwrVavfO1PYC6q"
       },
       "artists": [
@@ -1490,19 +1490,19 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
           "name": "Valexus",
           "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
         }
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135125,
-      "name": "Prada (feat. D-Block Europe & Valexus) - Valexus Remix",
+      "name": "Prada (feat. D-Block Europe) - Valexus Remix",
       "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"
     },
     {

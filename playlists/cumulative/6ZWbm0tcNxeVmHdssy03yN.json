@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 286567,
       "name": "AITUTAKI FREESTYLE",
       "url": "https://open.spotify.com/track/3VDj0Nv948Q8q6GxF2YFdX"
@@ -8696,7 +8696,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 136000,
       "name": "BUST DOWN",
       "url": "https://open.spotify.com/track/3A5WpNlVwKACaAgvb9YEvV"
@@ -18030,7 +18030,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 161100,
       "name": "En un and\u00e9n",
       "url": "https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s"
@@ -23487,6 +23487,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/5iLrNqFfMbCCaeRUdrwcLU"
+      },
+      "artists": [
+        {
+          "name": "Nic Billington",
+          "url": "https://open.spotify.com/artist/0upmBN9fllZJBgez7wmCtb"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/11iu3QZfZbiB8aE8UYk13H"
+    },
+    {
+      "album": {
         "name": "u and me, but mostly me (deluxe)",
         "url": "https://open.spotify.com/album/2l7cVRzbe6YJ76WQcF9gsw"
       },
@@ -27332,6 +27350,24 @@
       "duration_ms": 228139,
       "name": "I MADE IT L.A.",
       "url": "https://open.spotify.com/track/46vrWT91QZp1F9y5aXQ8Fa"
+    },
+    {
+      "album": {
+        "name": "I Miss Your Laugh",
+        "url": "https://open.spotify.com/album/5IXgLb5cy1voOaMdG2nSmy"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185923,
+      "name": "I Miss Your Laugh",
+      "url": "https://open.spotify.com/track/4ysvwcb5hScA0Gkna4SyG1"
     },
     {
       "album": {
@@ -31310,7 +31346,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 150551,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0UCpredeKWmXn2k6rRzqc5"
@@ -36200,7 +36236,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 100310,
       "name": "MIDDLE EASTERN ARCHIVES",
       "url": "https://open.spotify.com/track/5BNi5kRCxHzLP8SjMOrkSW"
@@ -37290,6 +37326,24 @@
       "duration_ms": 393263,
       "name": "More Than You May Ever Know (MTYMEK)",
       "url": "https://open.spotify.com/track/05MLTDagXnFSJqfkUL6ZxT"
+    },
+    {
+      "album": {
+        "name": "Triada",
+        "url": "https://open.spotify.com/album/7l6Ftdc459F79nmk4TmcJB"
+      },
+      "artists": [
+        {
+          "name": "Sol Bassa",
+          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Morir por Vos (no puedo) - En Vivo",
+      "url": "https://open.spotify.com/track/2fpOhXFD2Bvs1YxSdnrKLQ"
     },
     {
       "album": {
@@ -38430,7 +38484,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 187346,
       "name": "Nada en Especial",
       "url": "https://open.spotify.com/track/5vtadeELxFvd9H6iVcm9T6"
@@ -42068,6 +42122,24 @@
       "duration_ms": 228222,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/6F6UhCeNq93WYOrL6jrCCT"
+    },
+    {
+      "album": {
+        "name": "Open the Door",
+        "url": "https://open.spotify.com/album/6w8Rtp6rikqRA9z2TJdHfB"
+      },
+      "artists": [
+        {
+          "name": "SAVI MINDS",
+          "url": "https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265313,
+      "name": "Open the Door",
+      "url": "https://open.spotify.com/track/6veIU02bnovdIW6uULrJUO"
     },
     {
       "album": {
@@ -46315,6 +46387,32 @@
     },
     {
       "album": {
+        "name": "NUM3R0$",
+        "url": "https://open.spotify.com/album/2cOEUUtcMBIuhHUHwzZkrK"
+      },
+      "artists": [
+        {
+          "name": "Madglow",
+          "url": "https://open.spotify.com/artist/3joVEdTyUt7Fvhf8EopavU"
+        },
+        {
+          "name": "Lil-H",
+          "url": "https://open.spotify.com/artist/0ZSsl0gAQPdtOIwkLGYbT3"
+        },
+        {
+          "name": "Madd Hyghts",
+          "url": "https://open.spotify.com/artist/1JEThk5QNpPoqQDZpVUcri"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169152,
+      "name": "RANGOS",
+      "url": "https://open.spotify.com/track/3nCM3BsH1ArRh6cQCY2fTd"
+    },
+    {
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/7cfOvs638QNhwsWi0RvnlT"
       },
@@ -48332,7 +48430,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 140632,
       "name": "Sake Of Money Pt 2",
       "url": "https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp"
@@ -48766,7 +48864,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 139490,
       "name": "SDM",
       "url": "https://open.spotify.com/track/4lxmyMXPyAqXrnoGSADZgV"
@@ -57947,6 +58045,24 @@
     },
     {
       "album": {
+        "name": "Tracy Beaker",
+        "url": "https://open.spotify.com/album/3A3XsZiLS8jXO8TnTTU9lE"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160761,
+      "name": "Tracy Beaker",
+      "url": "https://open.spotify.com/track/2Etf8bGyqQ0gWkNcWpNFJX"
+    },
+    {
+      "album": {
         "name": "Traffic (with Zeu)",
         "url": "https://open.spotify.com/album/7IAAPyhyTR2Rb3lR20Bwcd"
       },
@@ -59392,6 +59508,24 @@
       "duration_ms": 168902,
       "name": "up again",
       "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
+    },
+    {
+      "album": {
+        "name": "up again (live)",
+        "url": "https://open.spotify.com/album/2vQVGifeF3qdQNWmEvA3mA"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176776,
+      "name": "up again - live",
+      "url": "https://open.spotify.com/track/07XaBnPofHgDbBSnVAWPRo"
     },
     {
       "album": {
@@ -61784,7 +61918,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 223550,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/4TnWlk0T21Az0FhzEf1g5j"

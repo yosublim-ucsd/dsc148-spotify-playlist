@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 173631,
       "name": "D & G",
       "url": "https://open.spotify.com/track/4UMYrNnq5QuaaxmblQ7ZEw"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
@@ -839,6 +839,32 @@
     },
     {
       "album": {
+        "name": "Ex For A Reason",
+        "url": "https://open.spotify.com/album/4yuOuObsdP2nEi16ljKclu"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265815,
+      "name": "Ex For A Reason",
+      "url": "https://open.spotify.com/track/2monfh34zxe4iLDnd9rbd9"
+    },
+    {
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -858,7 +884,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
@@ -992,7 +1018,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
@@ -1014,7 +1040,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 231658,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci"
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr"
@@ -1600,7 +1626,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 175508,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/1CbJlw9BG647gPCGoieave"
@@ -1748,7 +1774,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 547711,
       "name": "No Guidance",
       "url": "https://open.spotify.com/track/6EMdWKiCwbUSDa3Su6uJpe"
@@ -1770,7 +1796,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -2006,7 +2032,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
@@ -2024,7 +2050,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 177510,
       "name": "positions",
       "url": "https://open.spotify.com/track/403oLfci9HNYbMrU0cTrGe"
@@ -2316,7 +2342,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 208352,
       "name": "Shot & Wine",
       "url": "https://open.spotify.com/track/1M1k3Sxtf7u8Zj3eIzrJm0"
@@ -2338,7 +2364,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 209840,
       "name": "Shot & Wine",
       "url": "https://open.spotify.com/track/2qjy1hBtv5H2f6Adj3ZBP5"
@@ -2810,7 +2836,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 201584,
       "name": "Ur Best Friend",
       "url": "https://open.spotify.com/track/0LW7qWXhhyQSI88uoRNMwp"
@@ -2832,7 +2858,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"

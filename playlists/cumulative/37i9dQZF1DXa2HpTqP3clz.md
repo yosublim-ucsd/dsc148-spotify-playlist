@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-501 songs - 1 day 6 hr 0 min
+502 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 | 2022-05-13 | 2022-08-27 |
 | [Ain’t That Fine](https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Ain’t That Fine](https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:08 | 2022-07-22 | 2023-10-30 |
-| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 |  |
+| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 | 2024-01-03 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2021-12-17 | 2023-08-19 |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2023-08-19 |
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-06-02 | 2023-09-30 |
@@ -464,6 +464,7 @@
 | [Wanderlust](https://open.spotify.com/track/2hjJOsrdzTKoWSdeLuYc5D) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Wanderlust](https://open.spotify.com/album/74pabGB6OcjQ2km6lZDmI1) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [We Bring the Light](https://open.spotify.com/track/0Qxb8LCHHeCfOGnQ9Qg37q) | [Low Lily](https://open.spotify.com/artist/0HvWLXUxFLYbvv1R5T1r4P) | [We Bring the Light](https://open.spotify.com/album/5lOqfw2ZAMK9nOrKDA3Ed5) | 3:26 | 2022-02-04 | 2022-06-16 |
 | [We're All Crazy](https://open.spotify.com/track/5LIurpF23thR0TcLze3pos) | [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [We're All Crazy](https://open.spotify.com/album/3tttoJ5KpRfw7pc2f8dTlF) | 3:13 | 2022-05-27 | 2022-07-28 |
+| [Wedding Dress](https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Sidetrack My Engine](https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY) | 2:45 | 2023-11-24 |  |
 | [Wedding Dress](https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Sidetrack My Engine](https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx) | 2:45 | 2021-12-17 | 2023-12-24 |
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 | 2023-03-04 |
 | [Well](https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Well](https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS) | 2:56 | 2023-03-17 |  |

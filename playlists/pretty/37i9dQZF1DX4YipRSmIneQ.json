@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 76855,
+  "num_followers": 76897,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTEyMWZjYmJlYzk1MzhlMzYzYWIyZDc2ZWE3Yzc5OWMyYTZkZjZm",
+  "snapshot_id": "MCw3MjA2OWU5NzcxY2Y0YTQ5OTg0MTY3NDliM2U2NzY3MWYxYjViNTMz",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "The Pom-Poms",
+        "url": "https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj"
+      },
+      "artists": [
+        {
+          "name": "The Pom-Poms",
+          "url": "https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC"
+        }
+      ],
+      "duration_ms": 176181,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Hott Boyz",
         "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 190476,
       "name": "Guud Gurls",
       "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "The Pom-Poms",
-        "url": "https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj"
-      },
-      "artists": [
-        {
-          "name": "The Pom-Poms",
-          "url": "https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC"
-        }
-      ],
-      "duration_ms": 176181,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -903,22 +903,18 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Tear The House Up",
-        "url": "https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da"
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/6yv0i2TfhXLcTGIkUSKsIi"
       },
       "artists": [
         {
-          "name": "Zebra Katz",
-          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
-        },
-        {
-          "name": "Herv\u00e9",
-          "url": "https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS"
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
         }
       ],
-      "duration_ms": 280645,
-      "name": "Tear the House Up",
-      "url": "https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW"
+      "duration_ms": 154882,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/2cTdFq3Cg5w2r3TGMSEHdp"
     }
   ],
   "unique_name": "Sweat.",

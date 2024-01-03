@@ -417,6 +417,36 @@
     },
     {
       "album": {
+        "name": "A BEAST IS ME",
+        "url": "https://open.spotify.com/album/6lTAD8u0rkeVfmPlwPl1Mc"
+      },
+      "artists": [
+        {
+          "name": "harry hook is real",
+          "url": "https://open.spotify.com/artist/3z4MFm15zrdNOIBh7y2d33"
+        },
+        {
+          "name": "Elly Poletti",
+          "url": "https://open.spotify.com/artist/66N0DhPufyHCFxVodma0rm"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "The Strzelecki Stringbusters",
+          "url": "https://open.spotify.com/artist/01e11TEyqvqREU3HAZW0Sq"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204777,
+      "name": "jewel moon",
+      "url": "https://open.spotify.com/track/3OYyxVA9XDYCqJqTNhxjaR"
+    },
+    {
+      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },

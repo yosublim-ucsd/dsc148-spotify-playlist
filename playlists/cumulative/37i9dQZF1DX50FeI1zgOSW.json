@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 259726,
       "name": "Anbae - Beloved",
       "url": "https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 193918,
       "name": "Anniku Raathiri",
       "url": "https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 136615,
       "name": "Idhayame",
       "url": "https://open.spotify.com/track/3bgFDeR2bMkRbg0rBsZZMz"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 246823,
       "name": "Makal",
       "url": "https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh"
@@ -3979,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "Yaar Aval",
+        "url": "https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7"
+      },
+      "artists": [
+        {
+          "name": "Elan Hits",
+          "url": "https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285501,
+      "name": "Yaar Aval",
+      "url": "https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme"
+    },
+    {
+      "album": {
         "name": "Yendrum",
         "url": "https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH"
       },
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 289083,
       "name": "Yendrum",
       "url": "https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ"

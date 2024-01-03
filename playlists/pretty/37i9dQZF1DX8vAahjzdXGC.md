@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: TVXQ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,485 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,521 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 50 | [That Time You Borrowed My Sweater](https://open.spotify.com/track/4GfIonOTVG1KII7vXROsVp) | [MATTZEN](https://open.spotify.com/artist/4pSy7xkE5X9cgaY2iH3irK), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [That Time You Borrowed My Sweater](https://open.spotify.com/album/0KDKJt1fZV6ptzehRuD8N0) | 3:25 |
 | 51 | [I Hate Myself Sometimes](https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT) | 2:54 |
 
-Snapshot ID: `MCxkZTZlOThkMzA4ZDA0YmQwMWEzZjY3ODgzZGMyNTE0ODdmMWI3NTY3`
+Snapshot ID: `MCxiM2MxYmVjMTY3YmE1YWY2OTQ4YzdkYzUxNzY5YmNiZDE0YjFjYjkx`

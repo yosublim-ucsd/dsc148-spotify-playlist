@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIX7Zffto5d.md) - [plain]
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,481 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,505 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIX7Zffto5d.md) - [plain]
 | 59 | [naked now](https://open.spotify.com/track/0QsCyRTlN093KKtJbVv0l9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:25 |
 | 60 | [444](https://open.spotify.com/track/6FbaOE50vTVPNpnfwlUyHc) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 1:50 |
 
-Snapshot ID: `MCwyZDA1YThlNzIyMzIwZDQ2NzhhZGUyNzZlMmFiMWE4NjhmYTk3ZTQ0`
+Snapshot ID: `MCxmZWJhZjhiYzY4NGFkYjg4YzVjYWE0YjFjYjQ4YTA2NWFhMGIzOWEx`

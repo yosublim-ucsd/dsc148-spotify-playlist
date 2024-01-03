@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: WOODZ",
+  "description": "Future K-Pop hits! Cover: LEE CHANHYUK",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 209253,
       "name": "1 Billion Views",
       "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
+    },
+    {
+      "album": {
+        "name": "1 TRILLION",
+        "url": "https://open.spotify.com/album/5va1w2j4Wfcrwe7f5MDWtT"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213195,
+      "name": "1 TRILLION",
+      "url": "https://open.spotify.com/track/2d8SroyKXwJBtnJ0tZepcQ"
     },
     {
       "album": {
@@ -7046,7 +7064,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 183826,
       "name": "Hmm-cheat",
       "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"

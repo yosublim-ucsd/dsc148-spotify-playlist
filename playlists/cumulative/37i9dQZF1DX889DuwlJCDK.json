@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 204293,
       "name": "24/7",
       "url": "https://open.spotify.com/track/5Y0wyXD0vDlBB0jYaZICa9"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 208333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "prettyfine :)",
       "url": "https://open.spotify.com/track/7cb1WC3LUv1zwxaHls5Ed0"
@@ -3002,6 +3002,24 @@
       "duration_ms": 138807,
       "name": "take care",
       "url": "https://open.spotify.com/track/7Gjgl7STeQcpkHmztnhqDi"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/3zEexxIy2ciEuhNjY0brkb"
+      },
+      "artists": [
+        {
+          "name": "\u9244\u98a8\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/5zYWxTEMDeydXj9Q4wZPSf"
     },
     {
       "album": {
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 215900,
       "name": "\u30c0\u30ec\u30ab",
       "url": "https://open.spotify.com/track/6lp7sXjH7jj8Hy9aIYSwVC"
@@ -6700,6 +6718,24 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "album": {
+        "name": "\u71e6\u7136\u3068\u8f1d\u304f\u3068\u306f",
+        "url": "https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74451,
+      "name": "\u71e6\u7136\u3068\u8f1d\u304f\u3068\u306f",
+      "url": "https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49"
     },
     {
       "album": {

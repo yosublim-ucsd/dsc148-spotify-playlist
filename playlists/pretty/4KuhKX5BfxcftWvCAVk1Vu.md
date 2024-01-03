@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > songs that remind me of my beautiful, perfect gf
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 0 like - 44 songs - 2 hr 24 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 44 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 43 | [While You Were Sleeping](https://open.spotify.com/track/753iehfOnYSmjVfjx20znR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:57 |
 | 44 | [Crumbs](https://open.spotify.com/track/1LKMQKAJhaM6xnO2Xn04Gz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:10 |
 
-Snapshot ID: `NzAsNzM4ZDY5M2JjZTFkNDdhMWMyOGJiMWZkNzZjZmIzMjdmZDYwZjBhZg==`
+Snapshot ID: `NzEsOTAzN2IxNDJmZTM5ODEzMjE2MzEzZjE0MTg5MTcyMGQ3ZDkzNTY2Nw==`

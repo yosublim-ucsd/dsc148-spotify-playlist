@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,919 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,948 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 |
 | 50 | [Vers le haut](https://open.spotify.com/track/4PZadbTuAUXMYwJ7cX9tQz) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Lumière](https://open.spotify.com/album/4nTcQn4uBbE00aJMgBmoWC) | 2:43 |
 
-Snapshot ID: `MCxkNGM1MmI0YjRiZmNiYTcyOTFjM2U3NDZiNTRhZjI3OGZhOWVlNmNj`
+Snapshot ID: `MCwzODVmNjFjZGY3NzhlNThlOGZkNzlmOTBmOWU2ZWVjZWFjZjllYTJm`

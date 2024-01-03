@@ -2,9 +2,9 @@
 
 ### [Rock Peruano](https://open.spotify.com/playlist/37i9dQZF1DXca9fdfkadHF)
 
-> ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
+> Hasta siempre, Pedro Suárez\-Vértiz 🎸
 
-98 songs - 6 hr 18 min
+103 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Carreteras Mojadas](https://open.spotify.com/track/6UKI8gr3zCJmKBEp0iHrFS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 4:29 | 2022-04-01 |  |
 | [Clon](https://open.spotify.com/track/3UGyNybOojLXwEWEjC4h42) | [Huelga de hambre](https://open.spotify.com/artist/5HBq2CbvH0j3HsbTSD7ySQ) | [Máquina y Espíritu](https://open.spotify.com/album/2HYHSHyjYiInfqgPshmkLI) | 5:00 | 2022-04-01 |  |
 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 | 2022-04-01 |  |
+| [Cuéntame](https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:58 | 2024-01-02 |  |
+| [Cómo Te Va Mi Amor](https://open.spotify.com/track/6S4nC68r7aWfJp4VXq87D6) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Ah Ah Ah](https://open.spotify.com/album/5BU9faSiDT55zByMvuilMS) | 5:39 | 2024-01-02 |  |
 | [Decir Adiós](https://open.spotify.com/track/66U8FfBAkIIDdRbYDHaHS8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/68FFuQiwhIsrtH32l5TyWe) | 3:52 | 2022-04-01 | 2022-11-03 |
 | [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 | 2022-04-01 |  |
 | [Decir Adiós](https://open.spotify.com/track/1wrvhdpgdvEP7F3RI8BZon) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Las Mejores Baladas del Rock Peruano, Vol.2](https://open.spotify.com/album/7DUY8h1WoNbTkpGIQDnYmB) | 3:54 | 2022-04-01 | 2022-11-13 |
@@ -56,7 +58,9 @@
 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 | 2023-02-24 |
 | [Los Buenos Tiempos](https://open.spotify.com/track/7CIkH5bColvkIiHdo0cQVd) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 4:32 | 2022-04-01 |  |
 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 | 2022-04-01 |  |
+| [Los Globos del Cielo](https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:59 | 2024-01-02 |  |
 | [Los Patos y las Patas](https://open.spotify.com/track/0KzcD5rBOrAKPvvbGnvTZ7) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:06 | 2022-04-01 |  |
+| [Me Estoy Enamorando](https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 4:46 | 2024-01-02 |  |
 | [Me Resfrié en Brasil](https://open.spotify.com/track/47CKeoZNpSKa2yITniKslT) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993\-2001\)](https://open.spotify.com/album/7Dkdt9Ye5pj5qvgD1Fczxj) | 3:47 | 2022-04-01 | 2022-07-29 |
 | [Me Resfrié en Brasil](https://open.spotify.com/track/55XIDf97GN2y8cwCrJoJEH) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:47 | 2022-04-01 | 2022-10-06 |
 | [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 | 2022-04-01 |  |
@@ -106,5 +110,6 @@
 | [Un Ovni en Mi Jardín](https://open.spotify.com/track/6EO9B5nyP0cS1auCFDIbYF) | [Trama](https://open.spotify.com/artist/5HT6tm0lJBhS5Zl2tXC0WY) | [Trama](https://open.spotify.com/album/7c7gUfqJxX21nhpDIZ5rX8) | 3:21 | 2022-04-01 |  |
 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 | 2022-04-01 |  |
 | [Vamos a Tocache](https://open.spotify.com/track/52ZXLXnrhz0yJLVKXtt31M) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [Tantas Veces](https://open.spotify.com/album/4ka5fTmUpvGREuDcDHHIyb) | 4:07 | 2022-04-01 |  |
+| [Y Es Que Sucede Así](https://open.spotify.com/track/7pXuEZPcMT6aDpaKsMp73f) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Ah Ah Ah](https://open.spotify.com/album/5BU9faSiDT55zByMvuilMS) | 3:44 | 2024-01-02 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

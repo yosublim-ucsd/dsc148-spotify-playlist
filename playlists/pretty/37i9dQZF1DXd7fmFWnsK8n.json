@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 68591,
+  "num_followers": 68590,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWExMWMyZDc5M2U0NzhlNDZmY2JkZGVlMjE2NjU1Nzg0ODg2MGM3",
+  "snapshot_id": "MCw1OTI4ZmYyMjcwMjc5MDZjZjgwNWU5MDI3ZTgzZTI2ODU0M2UwOTE3",
   "tracks": [
     {
       "added_at": "2023-06-11 11:48:48",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 258385,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 251520,
       "name": "Risky\u306a\u5f7c\u5973",
       "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 258385,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
-        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Monologue Note",
-      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "\u30ad\u30ba\u30ca",
         "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 260013,
       "name": "SEPTET for...",
       "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
+        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Monologue Note",
+      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\u604b\u306e\u304b\u3051\u3089",
+      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "ONE dream",
         "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "\u604b\u306e\u304b\u3051\u3089",
-      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "my 10plate",
         "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
       },
@@ -939,6 +939,26 @@
       "duration_ms": 274946,
       "name": "\u5348\u524d4\u6642\u306eDusty Love",
       "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Fly away!",
+      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -995,26 +1015,6 @@
       "duration_ms": 320506,
       "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "i7",
-        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Fly away!",
-      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "NEVER LOSE, MY RULE",
-        "url": "https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 282960,
-      "name": "NEVER LOSE, MY RULE",
-      "url": "https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
         "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 304880,
       "name": "Happy Days Creation!",
       "url": "https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "NEVER LOSE, MY RULE",
+        "url": "https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 282960,
+      "name": "NEVER LOSE, MY RULE",
+      "url": "https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07"
     }
   ],
   "unique_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",

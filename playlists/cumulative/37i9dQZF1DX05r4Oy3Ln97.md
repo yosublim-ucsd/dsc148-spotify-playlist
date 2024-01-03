@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX05r4Oy3Ln97.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05r4Oy3Ln97) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05r4Oy3Ln97)
 
-### [Summer House 2023](https://open.spotify.com/playlist/37i9dQZF1DX05r4Oy3Ln97)
+### [Summer House 2024](https://open.spotify.com/playlist/37i9dQZF1DX05r4Oy3Ln97)
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 

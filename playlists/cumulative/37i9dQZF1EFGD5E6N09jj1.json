@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 194277,
       "name": "2099 (feat. Troye Sivan)",
       "url": "https://open.spotify.com/track/7nl4QjSdwinrelUXqv9JcK"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 205213,
       "name": "2099 (feat. Troye Sivan)",
       "url": "https://open.spotify.com/track/2T4SAwloHxRAtpD2hgykdA"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 191506,
       "name": "Blame It on Your Love (feat. Lizzo)",
       "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 213296,
       "name": "Blame It on Your Love (feat. Lizzo)",
       "url": "https://open.spotify.com/track/5fdjum4kQAkokXxO6nDtRQ"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 228520,
       "name": "Doing It (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/4ljwHVxOaRTuPJe5qtriKr"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 235109,
       "name": "Doing It (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/5hfR91qfcl7EbDDggp59J7"
@@ -1178,10 +1178,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 216635,
       "name": "Drop That Kitty (feat. Charli XCX & Tinashe)",
       "url": "https://open.spotify.com/track/0Bi1amRigSOIzLc21hOH6p"
+    },
+    {
+      "album": {
+        "name": "Drop That Kitty (feat. Charli XCX & Tinashe)",
+        "url": "https://open.spotify.com/album/6QLjcgC6OYrmXRnKkgKsL4"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218051,
+      "name": "Drop That Kitty (feat. Charli XCX & Tinashe)",
+      "url": "https://open.spotify.com/track/28GInriDPv71uIkNmlxqGN"
     },
     {
       "album": {
@@ -1348,7 +1374,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
@@ -1370,7 +1396,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 201576,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6ZrvTFsAuDvdgDe763QJFU"
@@ -1577,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
+    },
+    {
+      "album": {
         "name": "Good Ones",
         "url": "https://open.spotify.com/album/5hCwgm0qX2p1PpgOnUaDgG"
       },
@@ -1588,7 +1632,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 167417,
       "name": "Good Ones",
       "url": "https://open.spotify.com/track/665WSnCYQ4IOHYOGoU2eQh"
@@ -2236,7 +2280,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 200687,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/1K9yH9EpJsH2kXWX4ozH68"
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 247622,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/5WDxdmnhXAFl7HkmGFhkT3"
@@ -2316,10 +2360,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 224960,
       "name": "Nuclear Seasons",
       "url": "https://open.spotify.com/track/1j8d4yB6uSbwYTtrPLWceY"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281480,
+      "name": "Nuclear Seasons",
+      "url": "https://open.spotify.com/track/1D77DlGAE1HWBHyXQBCpgT"
     },
     {
       "album": {
@@ -2648,10 +2710,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 175284,
       "name": "Say Fuck It",
       "url": "https://open.spotify.com/track/3ZwrK4djNjJCNOZknEFtmc"
+    },
+    {
+      "album": {
+        "name": "Say Fuck It",
+        "url": "https://open.spotify.com/album/3tRLyo37A65eJjXUZ3NR2A"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185143,
+      "name": "Say Fuck It",
+      "url": "https://open.spotify.com/track/6SAD8XAH5QiMicqQ7Pw44u"
     },
     {
       "album": {
@@ -2706,7 +2786,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
@@ -2728,7 +2808,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 205371,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0BhgeBvNE6yL2Gm7HzG9oh"
@@ -3124,7 +3204,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 145840,
       "name": "Used to Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
@@ -3142,7 +3222,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 177177,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/3CtQt5w0GdlJT5cSjBUhNF"
@@ -3297,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "White Mercedes",
+      "url": "https://open.spotify.com/track/7fOFeVSyL18q7RiU6cnhiM"
+    },
+    {
+      "album": {
         "name": "White Mercedes",
         "url": "https://open.spotify.com/album/6pMkJEIbZncsZNw2HBX5ch"
       },
@@ -3308,7 +3406,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 214440,
       "name": "White Mercedes",
       "url": "https://open.spotify.com/track/62FCjlfTfQyuOcXGWxVqDj"

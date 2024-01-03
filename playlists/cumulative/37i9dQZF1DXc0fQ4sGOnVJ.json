@@ -740,7 +740,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 278388,
       "name": "Cowboy Way",
       "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
@@ -3200,6 +3200,36 @@
       "duration_ms": 218786,
       "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
       "url": "https://open.spotify.com/track/4lWeAYtwmyzgDlJp44whZQ"
+    },
+    {
+      "album": {
+        "name": "Made On McCosh Mill Road",
+        "url": "https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Kyle Cook",
+          "url": "https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL"
+        },
+        {
+          "name": "Danny Boone",
+          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
+        },
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
+      "url": "https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU"
     },
     {
       "album": {

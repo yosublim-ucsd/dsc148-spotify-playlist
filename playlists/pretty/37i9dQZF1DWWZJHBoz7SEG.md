@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya me iba a poner las pilas este 2023 y resulta que ya va a ser 2024 \(Rompeladompe\) Peso Pluma, Junior H y Oscar Maydon en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,935 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,136 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 23 | [El Aguacatero](https://open.spotify.com/track/4h8lQ9ZedhxWw4nEbEBUrt) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Aguacatero](https://open.spotify.com/album/5VWbudLsrwBZotVG0BdesN) | 3:09 |
 | 24 | [Procura](https://open.spotify.com/track/3J38xDRWYGD4MBYAoYE0xU) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Conjunto Garantía Norteña](https://open.spotify.com/artist/0Lcnok4vQzMKnjPqNP06cE) | [Procura](https://open.spotify.com/album/2QYfCZPDr949jbVsz6n2Mm) | 3:49 |
 | 25 | [Polvito Bueno](https://open.spotify.com/track/7tDMQpeQjEn8nKBxb3wRrl) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Polvito Bueno](https://open.spotify.com/album/7pjmUf3LSmcqlvg7U7drTi) | 2:06 |
-| 26 | [Freaky \(feat\. Alejo, Rafa Pabön, Moffa\) \- Stripper Remix](https://open.spotify.com/track/4hBMuPsEcX7p9hIe3pc1qY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Freaky \(feat\. Alejo, Rafa Pabön, Moffa\) \[Stripper Remix\]](https://open.spotify.com/album/6DJlHtm05u4FPQJ30jcL6e) | 5:26 |
+| 26 | [Freaky \(feat\. Alejo, Rafa Pabön, Moffa\) \- Stripper Remix](https://open.spotify.com/track/4hBMuPsEcX7p9hIe3pc1qY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Freaky \(feat\. Alejo, Rafa Pabön, Moffa\) \[Stripper Remix\]](https://open.spotify.com/album/6DJlHtm05u4FPQJ30jcL6e) | 5:30 |
 | 27 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
 | 28 | [¡Cuando Salga el Sol!](https://open.spotify.com/track/32F1qJ63hMVq3FzymUNWmN) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [¡Cuando Salga el Sol!](https://open.spotify.com/album/5Jd4l7IvxmPD9xDhrO4tsw) | 4:10 |
 | 29 | [quedate](https://open.spotify.com/track/7lwPhFe5bvekymcevJYwBM) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [quedate](https://open.spotify.com/album/3GPigwPSoGFxKoewBfkDOe) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
 | 50 | [Esos Labios](https://open.spotify.com/track/5Zd7YWWxMqJVtkzuVFsD4o) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Esos Labios](https://open.spotify.com/album/4IVq1uTqpM96dS7EPoRqcb) | 3:07 |
 
-Snapshot ID: `MCw0MjA2MmE2MWExMjdjZDFjNmY1Zjk2MzA4YWUwNGNmZjhlYWYwODNk`
+Snapshot ID: `MCxkMjY4NWIyMzdjODRhNzlmNTI4OTFjNTc4MzZhOGQzZTFlNDJhMTI1`

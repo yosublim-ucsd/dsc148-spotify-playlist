@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: okgiorgio
 
-1,082 songs - 2 day 21 hr 25 min
+1,083 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1049,6 +1049,7 @@
 | [Well Rested](https://open.spotify.com/track/3EcYmqID7w9PKE2Jb7Ap2q) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/5rNCZ6U1GRpP3BULqeIIgN) | 7:10 | 2021-04-23 | 2022-04-16 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2023-07-29 |
 | [What I Want](https://open.spotify.com/track/58e40p8zCiVLRwFF6oX9iY) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [What I Want](https://open.spotify.com/album/0nMQ3ZO6LfCvGY20mEEeQq) | 3:12 | 2021-05-07 | 2022-07-29 |
+| [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2024-01-02 |  |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-13 | 2023-07-29 |
 | [When I'm Alone](https://open.spotify.com/track/1Ls0bZ0slPNAxuFMQPeBp6) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [When I'm Alone / How Does It Feel?](https://open.spotify.com/album/6oMoymBPqwsFLsimWYCckQ) | 3:05 | 2021-12-03 | 2022-02-12 |
 | [When I'm Alone \- Remix](https://open.spotify.com/track/1UqgoJalAWNJOgDussZHtc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [When I'm Alone Remix](https://open.spotify.com/album/7o31W2bNBlEPtNStKleQvX) | 5:09 | 2022-04-08 | 2022-07-29 |

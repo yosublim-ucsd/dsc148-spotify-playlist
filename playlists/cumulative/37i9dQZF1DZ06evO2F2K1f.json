@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 261164,
       "name": "A Man Alone",
       "url": "https://open.spotify.com/track/4EZ5UGomeXRNKrceW5xUq8"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 157345,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/4QbHgvorkRqnZPwnW8gyE0"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 193314,
       "name": "Man of Means",
       "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
@@ -2520,6 +2520,24 @@
       "duration_ms": 91800,
       "name": "View Point",
       "url": "https://open.spotify.com/track/4at8F4EVGmLkNPz0wTtD8g"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "Warm Hearts",
+      "url": "https://open.spotify.com/track/2pzAgXmj2nYGs012lGc5PP"
     },
     {
       "album": {

@@ -971,6 +971,48 @@
     },
     {
       "album": {
+        "name": "Manoyatri",
+        "url": "https://open.spotify.com/album/6QC3xaw8QKzqhBe6FUFcQm"
+      },
+      "artists": [
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
+        },
+        {
+          "name": "Tamal Kanti Halder",
+          "url": "https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW"
+        },
+        {
+          "name": "Himadri Das",
+          "url": "https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS"
+        },
+        {
+          "name": "Bachospati Chakraborty",
+          "url": "https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546678,
+      "name": "Ganga Kaleidoscope",
+      "url": "https://open.spotify.com/track/62bhOFR1Brr7wbLgyUeMok"
+    },
+    {
+      "album": {
         "name": "Ganga Kaleidoscope (From the Album \"Manoyatri\")",
         "url": "https://open.spotify.com/album/3DjEukNrmG8SekFcns4EUQ"
       },
@@ -1006,7 +1048,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 546678,
       "name": "Ganga Kaleidoscope",
       "url": "https://open.spotify.com/track/0fMdLUwrjzJlRYU5gx8vjA"
@@ -1922,10 +1964,32 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 231321,
       "name": "Kanha Re",
       "url": "https://open.spotify.com/track/2WE7d2v6kdC2tED3oWtdaz"
+    },
+    {
+      "album": {
+        "name": "Kanha Re",
+        "url": "https://open.spotify.com/album/4X7TVqpjzzAeB5MlYH0zpF"
+      },
+      "artists": [
+        {
+          "name": "RaagNRocks",
+          "url": "https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY"
+        },
+        {
+          "name": "Nabanita Goswami",
+          "url": "https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231321,
+      "name": "Kanha Re",
+      "url": "https://open.spotify.com/track/4rve7qQ9hYbpATiu5hJwVj"
     },
     {
       "album": {
@@ -4138,10 +4202,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 202281,
       "name": "Savare Aai Jaiyo",
       "url": "https://open.spotify.com/track/1XsInKRQXqV1gY1n98iwuk"
+    },
+    {
+      "album": {
+        "name": "Savare Aai Jaiyo",
+        "url": "https://open.spotify.com/album/2YCuEMNmv4wSIUHdLdYg9B"
+      },
+      "artists": [
+        {
+          "name": "Riaan Tambat",
+          "url": "https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs"
+        },
+        {
+          "name": "Damini waghmare",
+          "url": "https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202281,
+      "name": "Savare Aai Jaiyo",
+      "url": "https://open.spotify.com/track/3cOcnWHVHSsuWcnTI1TU1j"
     },
     {
       "album": {

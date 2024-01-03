@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Ayalaan",
+  "description": "New Music from Kollywood.\nCover : Captain Miller",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -5208,7 +5208,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 233723,
       "name": "En Nenjam Neendhudhey (From \"Chevvaikizhamai\")",
       "url": "https://open.spotify.com/track/3lgETNa7tq0s4Tmlt5xTP2"
@@ -10175,6 +10175,36 @@
     },
     {
       "album": {
+        "name": "Koranaaru (From \"Captain Miller\") (Tamil)",
+        "url": "https://open.spotify.com/album/1xN32roqoXVdOGB4skjfUL"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Alexander Babu",
+          "url": "https://open.spotify.com/artist/0GgNTvvyJMhQDwbr7PUnRG"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201777,
+      "name": "Koranaaru (From \"Captain Miller\") (Tamil)",
+      "url": "https://open.spotify.com/track/27nmLlAoTajIHORlx6SBa6"
+    },
+    {
+      "album": {
         "name": "King of Kotha (Tamil) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6WDRGPPHtk0F57lPrF4mSQ"
       },
@@ -12558,7 +12588,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 152000,
       "name": "Merry Christmas (Title Track) (From \"Merry Christmas\") [Tamil]",
       "url": "https://open.spotify.com/track/20yljTWyYyNJMpgOKqHwZx"
@@ -16058,7 +16088,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 187058,
       "name": "Pala Kadhaiyil (From \"Salaar Cease Fire - Tamil\")",
       "url": "https://open.spotify.com/track/3KndFwEdqUZovWHfLUktMS"
@@ -18606,7 +18636,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 280493,
       "name": "Sara Saiga Senja",
       "url": "https://open.spotify.com/track/74XDq13TGG0zWlNdQQI0v5"
@@ -23387,6 +23417,32 @@
     },
     {
       "album": {
+        "name": "Prema Katha (Tamil)",
+        "url": "https://open.spotify.com/album/4mAnb1h8Ah1mFOSQJeOaev"
+      },
+      "artists": [
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Kalpradah",
+          "url": "https://open.spotify.com/artist/5PMn2FuFSNsvd2JvfpPo65"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226912,
+      "name": "Vaanavillai",
+      "url": "https://open.spotify.com/track/0iJsaBiRhHoIELZdr7jfx6"
+    },
+    {
+      "album": {
         "name": "Vaanilai (From \"Marakkuma Nenjam\")",
         "url": "https://open.spotify.com/album/26qKplS6aNk2CJgqT3pipM"
       },
@@ -25190,7 +25246,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 225114,
       "name": "Yelelaai - From \"Naadu\"",
       "url": "https://open.spotify.com/track/2vEn5BFnic0DginsyW0xNL"

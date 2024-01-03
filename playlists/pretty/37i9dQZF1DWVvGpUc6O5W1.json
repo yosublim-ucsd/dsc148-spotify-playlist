@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41701,
+  "num_followers": 41719,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quiero Que Vuelvas",
-        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Clase de Historia",
         "url": "https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 164160,
       "name": "Pa' Que No Me And\u00e9n Contando",
       "url": "https://open.spotify.com/track/6WmDxFQYvdt6Ecy6M9tVgf"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quiero Que Vuelvas",
+        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190813,
       "name": "Baile De Amor (feat. Joss Favela)",
       "url": "https://open.spotify.com/track/2mDx9l8mj3rn2NyVdzGq5n"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "De Las 12 A Las 12 (feat. El Bebeto)",
+      "url": "https://open.spotify.com/track/6jRa3GfPr7V5pJBJRUrbGe"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Con la Misma Sangre",
         "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 186773,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "De Las 12 A Las 12 (feat. El Bebeto)",
-      "url": "https://open.spotify.com/track/6jRa3GfPr7V5pJBJRUrbGe"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 138346,
+      "name": "En Lo Correcto",
+      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Ya Dime Adi\u00f3s",
         "url": "https://open.spotify.com/album/3DSvY6wIWqXyfCyr1GgXTB"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 207840,
       "name": "Me Ganan las Ganas (feat. Xitali)",
       "url": "https://open.spotify.com/track/4o7bHAzDl8DMq3cE2ke6mA"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 138346,
-      "name": "En Lo Correcto",
-      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Garantizados",
-        "url": "https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Maldito Antojo",
-      "url": "https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 181386,
       "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
       "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Garantizados",
+        "url": "https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Maldito Antojo",
+      "url": "https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Me Empez\u00f3 A Valer",
-        "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Me Empez\u00f3 A Valer",
-      "url": "https://open.spotify.com/track/5D3X775rPruzExNKev9yD3"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mano a Mano",
         "url": "https://open.spotify.com/album/36VIysGLIhLjb7m1kU8dBn"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 176138,
       "name": "Pa' No Quedarme Con las Ganas",
       "url": "https://open.spotify.com/track/4mgFxkomGzWG5V0wD2FsFI"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Me Empez\u00f3 A Valer",
+        "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Me Empez\u00f3 A Valer",
+      "url": "https://open.spotify.com/track/5D3X775rPruzExNKev9yD3"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Para Que No Te Lo Imagines",
-        "url": "https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Para Que No Te Lo Imagines",
-      "url": "https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Verdadera Joya",
         "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 162333,
       "name": "No Pidas Tantos Besos",
       "url": "https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Para Que No Te Lo Imagines",
+        "url": "https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Para Que No Te Lo Imagines",
+      "url": "https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Cada Vez Que Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/6efn9mwd36AdpXeX7e51o1"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 221773,
       "name": "Sin Af\u00e1n de Ofender",
       "url": "https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Cada Vez Que Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/6efn9mwd36AdpXeX7e51o1"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Alegre Y Enamorado",
-        "url": "https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ"
-      },
-      "artists": [
-        {
-          "name": "El Dasa",
-          "url": "https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "No Merec\u00edas Tanto Amor",
-      "url": "https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Homenaje a Nuestros Viejos",
         "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 187920,
       "name": "Chaparrita de Mi Amor",
       "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Alegre Y Enamorado",
+        "url": "https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ"
+      },
+      "artists": [
+        {
+          "name": "El Dasa",
+          "url": "https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "No Merec\u00edas Tanto Amor",
+      "url": "https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Te Quedes Con la Duda",
-        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "No Te Quedes Con la Duda",
-      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 183026,
       "name": "El Shake (feat. Las Cumbia Girls)",
       "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Te Quedes Con la Duda",
+        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "No Te Quedes Con la Duda",
+      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
     },
     {
       "added_at": "2022-01-25 18:24:05",

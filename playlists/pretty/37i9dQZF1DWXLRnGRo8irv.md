@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain](/playlists/plain/37i9dQZF1DWXLRnGRo8irv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLRnGRo8irv)
 
-### [EQUAL Korea: Best of 2023](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
+### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Red Velvet\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,206 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,204 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [To Reach You](https://open.spotify.com/track/4eRJjFCRLAEGG3LTNeSfan) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Each Other's Hearts](https://open.spotify.com/album/15AKFuq4y9lh8MCobYuk0l) | 3:58 |
 | 50 | [Entrance](https://open.spotify.com/track/0ZLNsexvuCJL8ng84GfH2t) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY) | [TROUBLE](https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ) | 1:40 |
 
-Snapshot ID: `MCw0NmQwMDJlMTJiNDIxMTE3YTVmOTY5YmI2NTUyYjI1YzZlODljZTc5`
+Snapshot ID: `MCxhN2UzNWQ0NzhmOWFkZWVkZDc0ZDdkMTUxMDgxNTkyYjY1NTNjYTUx`

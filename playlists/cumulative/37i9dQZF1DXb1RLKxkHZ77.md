@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-354 songs - 22 hr 22 min
+355 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Cinta Tiada Batas](https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Cinta Tiada Batas](https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT) | 4:05 | 2023-06-07 | 2023-07-06 |
 | [Cukup](https://open.spotify.com/track/4ckN01pAGtUBI3hyyieGgz) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Cukup](https://open.spotify.com/album/3yhx3n2NSZiuRMAj6lJfRW) | 4:09 | 2023-11-29 | 2023-12-21 |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-20 | 2023-10-26 |
-| [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 | 2023-11-29 |  |
+| [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 | 2023-11-29 | 2024-01-03 |
 | [Dah Bagi](https://open.spotify.com/track/0M5s6bACgTh9nTRO6hR9oE) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [INI AKU](https://open.spotify.com/album/429fzbnYOVktk7X0sOLxiU) | 2:39 | 2023-10-25 | 2023-11-30 |
 | [damai](https://open.spotify.com/track/105xhd7hg95C3DlEczChRU) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [damai](https://open.spotify.com/album/33HANwlr58QfWVi771AUSk) | 3:20 | 2023-05-17 | 2023-06-08 |
 | [DAMELO](https://open.spotify.com/track/0Z8yXdMaoKymfgPGJG0hFH) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy) | [DAMELO](https://open.spotify.com/album/4WjVPEkqwJ7GfRpJWJ03I6) | 3:05 | 2023-08-02 | 2023-10-05 |
@@ -89,6 +89,7 @@
 | [DEPRESI \- Piano Version](https://open.spotify.com/track/1Pq3gJCrmdBIAlOUlbQLpv) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI \(Piano Version\)](https://open.spotify.com/album/31K1IeCj9Q6cTRgrdPWgGt) | 4:30 | 2023-07-26 | 2023-08-24 |
 | [Di Alam Fana Cintamu](https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Alam Fana Cintamu](https://open.spotify.com/album/5Md6fqUN8QQ0sMDMrilSUi) | 5:06 | 2022-12-14 | 2023-04-13 |
 | [Di Mana Janjimu Dulu](https://open.spotify.com/track/4NEMUxrbkH7VTSHPPYaF3c) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Di Mana Janjimu Dulu](https://open.spotify.com/album/0LKlZ1pepM4vk9ZUuAxvvs) | 4:24 | 2023-08-30 | 2023-10-12 |
+| [Di Penjara Janji](https://open.spotify.com/track/087rNAfGSDBkBJ1HOSZTbV) | [XPOSE](https://open.spotify.com/artist/4vSylnUisC4OtiNGWqx7Zm) | [Di Penjara Janji](https://open.spotify.com/album/1M1cQ72YEDUHyhXK1FWjrs) | 6:00 | 2024-01-03 |  |
 | [Di Sebalik Rahsia](https://open.spotify.com/track/7yJtvZjco9VZKE22DJTjmu) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Sebalik Rahsia](https://open.spotify.com/album/1LweEZf8kLWPwmS7xpyPWd) | 4:28 | 2023-05-31 | 2023-07-19 |
 | [Di Ujung Hari](https://open.spotify.com/track/1IZfp6REaaY2dF9U4fkEXV) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Di Ujung Hari](https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY) | 4:10 | 2023-03-29 | 2023-05-04 |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-07-21 | 2022-12-22 |

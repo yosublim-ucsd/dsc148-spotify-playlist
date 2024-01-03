@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-1,023 songs - 2 day 12 hr 17 min
+1,024 songs - 2 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Jaga De](https://open.spotify.com/track/7H5TVKnIme6vDZsfgqPbZG) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Jaga De](https://open.spotify.com/album/0PR2B40nFA8uHUmZ9iBpR4) | 2:18 | 2023-02-01 |  |
 | [Jago](https://open.spotify.com/track/6xVLp14RuxwWprcM17JqEU) | [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Jago](https://open.spotify.com/album/6beX1gxo8trxepxx8y9Oz6) | 3:01 | 2022-01-26 | 2022-01-28 |
 | [Jahaan](https://open.spotify.com/track/0lDbiE4PfsGJX61XUtSX6p) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Rhythm V](https://open.spotify.com/artist/3y9truNExJUI46Q17RJvyD), [Ro](https://open.spotify.com/artist/7vGhIQpt8BEDMmvc54Rbks) | [Jahaan](https://open.spotify.com/album/3tQL7BDhLcoqcijUqdLndX) | 3:12 | 2023-11-22 | 2023-11-30 |
-| [Jahaan](https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU) | 3:43 | 2023-05-03 |  |
+| [Jahaan](https://open.spotify.com/track/3ihDGqDqKiOVGQ4SylT6l5) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/6UwIvo6YWz0324HBjGLCl6) | 3:43 | 2023-11-29 |  |
+| [Jahaan](https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU) | 3:43 | 2023-05-03 | 2024-01-03 |
 | [Jahan](https://open.spotify.com/track/3gFPps7o8YaGqnSlyMfdA6) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Bruno Merz](https://open.spotify.com/artist/2xcDcnoSHONk8fwbIdUh12), [Annanda Prasanna Pattanaik](https://open.spotify.com/artist/7ng6i4rv93jjM4Oj3j5Dyx) | [Jahan](https://open.spotify.com/album/6ID9SbGeejYkqrjBbWRwIG) | 3:26 | 2022-01-12 | 2022-01-17 |
 | [Jahan Bhi Ho](https://open.spotify.com/track/2JBtmxNroYCUwI3JnP4PzT) | [Navya Sharma](https://open.spotify.com/artist/1kLD6MGLE1x617E5NrXw1N) | [Jahan Bhi Ho](https://open.spotify.com/album/5OuOH7YESHSGV4O53GZIiK) | 3:45 | 2023-04-26 | 2023-07-27 |
 | [Jannat](https://open.spotify.com/track/2ZphNIcogHnUFbGACH9GQK) | [Victor Gurung](https://open.spotify.com/artist/7v2IJbq8uj3tn19Q2tiQac) | [Jannat](https://open.spotify.com/album/5Y7QWdTulBzSLiiCsUvcgG) | 3:00 | 2022-06-22 | 2022-07-28 |

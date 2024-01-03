@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Alessio
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,570 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,564 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [Salsa Merengue](https://open.spotify.com/track/4slqF2hMlV73XZ1gQwQYjK) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [Salsa Merengue](https://open.spotify.com/album/7tWngPRSzDA5ber9eQkHp3) | 2:28 |
 | 60 | [BOCA](https://open.spotify.com/track/3RB7BHWMR3lzKzpxV0HLeL) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [BOCA](https://open.spotify.com/album/1Cx9Aef4Hqu026KazG5Wto) | 2:46 |
 
-Snapshot ID: `MCxjMjA3M2UxYzE3NDNjZDA3ZWVhZmIwMDU5N2Y5ZGJhYzlkYTFmNWVk`
+Snapshot ID: `MCw2Mjg0YWMxMDAyMzE0ZWI3NDdlYTcyMzY3OGIwMWFlM2Q2M2E2NDMw`

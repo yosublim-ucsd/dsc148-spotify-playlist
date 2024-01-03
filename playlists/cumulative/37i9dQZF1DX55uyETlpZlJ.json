@@ -4818,7 +4818,7 @@
     {
       "album": {
         "name": "Yako Summane",
-        "url": "https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g"
+        "url": "https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF"
       },
       "artists": [
         {
@@ -4829,6 +4829,24 @@
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211596,
+      "name": "Yako Summane",
+      "url": "https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx"
+    },
+    {
+      "album": {
+        "name": "Yako Summane",
+        "url": "https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
       "duration_ms": 211596,
       "name": "Yako Summane",
       "url": "https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW"

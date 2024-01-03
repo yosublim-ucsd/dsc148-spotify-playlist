@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-82 songs - 7 hr 9 min
+83 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2022-09-14 |  |
 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 | 2023-02-06 |  |
 | [Poderoso Dios \(Grande y Fiel\) \- En Vivo](https://open.spotify.com/track/43kj9K6lV6TgvEbPEMtD87) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Grande y Fiel \(En Vivo\)](https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716) | 7:53 | 2022-10-06 | 2022-10-11 |
+| [Proverbios 1](https://open.spotify.com/track/60A3y9ISFy58PZVRm6YppC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Proverbios](https://open.spotify.com/album/2Jk1xdlyvHZebQuCgyPhQR) | 5:08 | 2024-01-02 |  |
 | [Que Jesus Brille Aqui](https://open.spotify.com/track/6lRrjIP4TAFiH6NweQAeyA) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 1:14 | 2022-09-22 | 2022-09-25 |
 | [Recibo Mi Milagro feat\. Josh Morales "Miel San Marcos" \(En Vivo\)](https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [El Abrazo De Mi Padre \(En Vivo\)](https://open.spotify.com/album/1n5VT7UWkZe2LuNZYSrEZB) | 5:44 | 2022-09-16 | 2022-10-12 |
 | [Regocíjate Oh Moradora De Sión](https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 2:53 | 2022-09-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 119150,
+  "num_followers": 119764,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVmZDc3YzQ1YTJlMTYxYzA4OThiOTI2MDUzM2YxMmYxZDJiMjcy",
+  "snapshot_id": "MCxhZGZiY2JlYmE2MzY4MzllMDY3M2Q3Mzg2ODlmZmQyNTUyZGY1MzNl",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 266934,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 266934,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "People Come And Go",
-        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 154076,
-      "name": "People Come And Go",
-      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Kool Aid",
         "url": "https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C"
       },
@@ -1439,22 +1423,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "sukkerspinn & hodepine (Del 2)",
-        "url": "https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0"
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
       },
       "artists": [
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Magdi",
-          "url": "https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J"
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 163366,
-      "name": "gangster romanse (feat. Magdi)",
-      "url": "https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C"
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1479,6 +1459,26 @@
       "duration_ms": 211707,
       "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
       "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "sukkerspinn & hodepine (Del 2)",
+        "url": "https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Magdi",
+          "url": "https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J"
+        }
+      ],
+      "duration_ms": 163366,
+      "name": "gangster romanse (feat. Magdi)",
+      "url": "https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 159267,
       "name": "Higher",
       "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2023-10-19 22:00:00",

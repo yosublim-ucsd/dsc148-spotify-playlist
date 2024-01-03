@@ -192,7 +192,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-03",
       "duration_ms": 270000,
       "name": "Ayyayyo",
       "url": "https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP"
@@ -584,6 +584,24 @@
       "duration_ms": 146616,
       "name": "Drunkard On The Road",
       "url": "https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3"
+    },
+    {
+      "album": {
+        "name": "Ee Reyi Paadindi",
+        "url": "https://open.spotify.com/album/5z0MyArgL7EF3WgGr9JAKf"
+      },
+      "artists": [
+        {
+          "name": "Tarun Donipati",
+          "url": "https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346983,
+      "name": "Ee Reyi Paadindi",
+      "url": "https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv"
     },
     {
       "album": {
@@ -3534,7 +3552,7 @@
     {
       "album": {
         "name": "Uhhh!",
-        "url": "https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H"
+        "url": "https://open.spotify.com/album/4r4nAQW3qAVveUv1KwmJAN"
       },
       "artists": [
         {
@@ -3549,6 +3567,28 @@
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183632,
+      "name": "Uhhh!",
+      "url": "https://open.spotify.com/track/12RU8E5yuDnIAqwiOufys7"
+    },
+    {
+      "album": {
+        "name": "Uhhh!",
+        "url": "https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H"
+      },
+      "artists": [
+        {
+          "name": "Trigger C",
+          "url": "https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES"
+        },
+        {
+          "name": "Samcastic",
+          "url": "https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
       "duration_ms": 183632,
       "name": "Uhhh!",
       "url": "https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd"

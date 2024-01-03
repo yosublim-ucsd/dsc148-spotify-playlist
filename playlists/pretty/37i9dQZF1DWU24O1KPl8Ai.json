@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjNjYTNmZWZjMGMzMmEwYmMxNGI1YTA4NjM3MDAxODQ2MzkxNTE2",
+  "snapshot_id": "MCw5NjhhZTM3NjVjMzQxOGViMmRlOTVhODFjZmMyM2E5ZTc3MWQ3NWYw",
   "tracks": [
     {
       "added_at": "2022-05-05 21:05:28",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-05-05 21:05:28",
       "album": {
-        "name": "Walk off the Earth & Romeo Eats, Vol. 1",
-        "url": "https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Romeo Eats",
-          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
-        }
-      ],
-      "duration_ms": 81390,
-      "name": "The Durian Fruit Song",
-      "url": "https://open.spotify.com/track/4X3TL8IpWC1XA13uY5VKxx"
-    },
-    {
-      "added_at": "2022-05-05 21:05:28",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/3i8U7PbsDSFctnqkEODtpw"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 150800,
       "name": "Ube",
       "url": "https://open.spotify.com/track/1zR4tuFYKGvu1ATATdyLe8"
+    },
+    {
+      "added_at": "2022-05-05 21:05:28",
+      "album": {
+        "name": "Walk off the Earth & Romeo Eats, Vol. 1",
+        "url": "https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "duration_ms": 81390,
+      "name": "The Durian Fruit Song",
+      "url": "https://open.spotify.com/track/4X3TL8IpWC1XA13uY5VKxx"
     },
     {
       "added_at": "2022-05-05 21:05:28",

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: OJ Reambillo
 
-832 songs - 1 day 23 hr 5 min
+833 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [First Priority](https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [First Priority](https://open.spotify.com/album/079KSpwAXiuEg99M8BAStP) | 2:52 | 2022-06-09 | 2022-09-09 |
 | [Five Minutes To Six](https://open.spotify.com/track/1o2CXNU2jbeTcUYpaO2C4l) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Five Minutes To Six](https://open.spotify.com/album/2dsXUqnxE68A0cbVotQcF9) | 5:35 | 2023-12-28 |  |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2023-06-08 | 2023-10-20 |
+| [flyfly](https://open.spotify.com/track/2xtgPG6wQ1XOGP0K27my9j) | [Kong Mok 江莫](https://open.spotify.com/artist/5LVmSkJ9l43bHRkhpkSzXa) | [flyfly](https://open.spotify.com/album/1o5csqyXfGLno979j1BaxX) | 4:38 | 2024-01-02 |  |
 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 | 2023-08-10 | 2023-11-03 |
 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 | 2023-08-31 | 2023-12-01 |
 | [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 | 2023-02-23 | 2023-05-11 |

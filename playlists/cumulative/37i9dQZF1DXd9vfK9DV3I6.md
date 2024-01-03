@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-280 songs - 20 hr 44 min
+281 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Amelia](https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f) | 3:13 | 2023-07-21 |  |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 | 2023-07-17 |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
-| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 |  |
+| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 | 2024-01-03 |
 | [Angelic](https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Ikonnya](https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1) | [Angelic](https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3) | 4:29 | 2022-01-03 | 2023-10-11 |
 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 | 2020-10-18\* |  |
 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 | 2021-11-14 | 2023-09-15 |
@@ -62,6 +62,7 @@
 | [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 | 2022-08-19 |
 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 | 2020-12-18 |  |
 | [Cry](https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p) | [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7) | [Cry](https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS) | 2:39 | 2020-12-13 | 2023-01-23 |
+| [Cukurova](https://open.spotify.com/track/3Z1OhMmxPSK7DIlEhm7Fgc) | [Samet Simsek](https://open.spotify.com/artist/0f2Z4lRhQRdseYesbhfiDK), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Cukurova](https://open.spotify.com/album/1pTOu8uEFwpyZz9QD53DVj) | 4:57 | 2024-01-02 |  |
 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 | 2022-05-19 |  |
 | [Dar Gnawa \- Original Mix](https://open.spotify.com/track/3y5HE8dQl42d0fzyfrIdU5) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Dar Gnawa Ep](https://open.spotify.com/album/3ZwlXB4sw91PjNlsLSmBxJ) | 6:59 | 2020-10-18\* | 2022-07-29 |
 | [DayBreak Ft\. Behrooz Shiri \- Original mix](https://open.spotify.com/track/47ds21UWcwcRAb2grmY23u) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [Adeia](https://open.spotify.com/artist/2HXkY2E4L4r1U4Lz2zlf5Q) | [DayBreak Ft\. Behrooz Shiri](https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4) | 4:00 | 2021-01-08 | 2023-03-18 |

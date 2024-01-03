@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 172516,
+  "num_followers": 172557,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
+  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Was It the Wind That Stirred The Trees",
-        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Was It the Wind That Stirred The Trees",
-      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "My Stripes",
         "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Was It the Wind That Stirred The Trees",
+        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Was It the Wind That Stirred The Trees",
+      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Piece Of Art",
         "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 372906,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+        "name": "Freedom Call",
+        "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
+        },
+        {
+          "name": "Black 8",
+          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+      "duration_ms": 239789,
+      "name": "Freedom Call",
+      "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -831,22 +835,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Freedom Call",
-        "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
       "artists": [
         {
-          "name": "Nick Warren",
-          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
-        },
-        {
-          "name": "Black 8",
-          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         }
       ],
-      "duration_ms": 239789,
-      "name": "Freedom Call",
-      "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "LNOE Introducing Vol. 1",
         "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "I Saw Good",
-        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 187500,
-      "name": "I Saw Good",
-      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+      "duration_ms": 214634,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -959,6 +943,22 @@
       "duration_ms": 206612,
       "name": "Hide - Original Mix",
       "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "I Saw Good",
+        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "I Saw Good",
+      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
     },
     {
       "added_at": "2022-11-25 16:56:36",

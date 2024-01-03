@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ?si=RutQE7cQQKqMjXVs9PD\_YA"> Joey B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,094 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,105 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 88 | [BarCode 9](https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kevin Beats](https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m) | [BarCode 9](https://open.spotify.com/album/52q7G1CJMkyzlab4Bfi8jT) | 3:08 |
 | 89 | [Sake Of Money Pt 2](https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Kwaku T](https://open.spotify.com/artist/78AuL47blp2sCmfMTxolHb), [DJ Kofi](https://open.spotify.com/artist/4tBkKC4SEvrcSfiY3ekOyK) | [Sake Of Money Pt 2](https://open.spotify.com/album/3aN2PJw8GkUH4nbnENkDmI) | 2:20 |
 
-Snapshot ID: `MCxlNGJhMzQ1OTA5ZDg2YTAwOGEzNGM5ODExNzNjZWVlMjA5ZWIxNTZk`
+Snapshot ID: `MCxkOGMxZmI1OWY0ODA3NjgyZWZmNDk1MjI1MWYxNzQyMTFhN2NkYzky`

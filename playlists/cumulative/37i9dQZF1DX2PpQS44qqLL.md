@@ -2,7 +2,7 @@
 
 ### [Las Estrellas ](https://open.spotify.com/playlist/37i9dQZF1DX2PpQS44qqLL)
 
-> Siempre espectaculares\. Foto: Vicente Fernández
+> Siempre espectaculares\. Vicente Fernández en portada.
 
 431 songs - 1 day 4 hr 33 min
 
@@ -131,7 +131,7 @@
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:28 | 2021-12-21 | 2022-11-13 |
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2021-12-21 |  |
 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 | 2021-12-21 |  |
-| [El Rincón Prohibido](https://open.spotify.com/track/4voKImUd9neMT6ON1GVLG4) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Irresistible](https://open.spotify.com/album/5yVadaDycmO1SVxxCb2BPh) | 3:39 | 2021-12-21 |  |
+| [El Rincón Prohibido](https://open.spotify.com/track/4voKImUd9neMT6ON1GVLG4) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Irresistible](https://open.spotify.com/album/5yVadaDycmO1SVxxCb2BPh) | 3:39 | 2021-12-21 | 2024-01-03 |
 | [El Rincón Prohibido](https://open.spotify.com/track/5kwU3RDg045GpeXtYp6zdF) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Irresistible](https://open.spotify.com/album/635yZYck6Jo1ajYqF88450) | 3:39 | 2021-12-21 | 2022-07-12 |
 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [Ella se llamaba Martha](https://open.spotify.com/track/4aaUww4CmxurtBTIVINXzy) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Historia de Exitos Vol.1](https://open.spotify.com/album/0CEjIhEpUmL0Nx28w8uW0U) | 3:06 | 2021-12-21 | 2022-07-29 |
@@ -308,7 +308,7 @@
 | [Prometes](https://open.spotify.com/track/1Qf1Z6EtcjmfvaU6pJlPI0) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Dueña de mi corazón](https://open.spotify.com/album/5tVO7XieYjimEPG6Azp6Uv) | 3:00 | 2021-12-21 | 2022-07-08 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/3GoKDP0kBKnsj9SlK1oYVz) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:55 | 2021-12-21 |  |
-| [Que Te la Pongo](https://open.spotify.com/track/0ZacQFzx0DShPZOwf7IdZS) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Grandes Éxitos](https://open.spotify.com/album/6Nojw3wtF9h9yvdeHyJgcw) | 3:09 | 2021-12-21 | 2023-09-24 |
+| [Que Te la Pongo](https://open.spotify.com/track/0ZacQFzx0DShPZOwf7IdZS) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Grandes Éxitos](https://open.spotify.com/album/6Nojw3wtF9h9yvdeHyJgcw) | 3:09 | 2021-12-21 |  |
 | [Que Vuelva](https://open.spotify.com/track/3nXYvJhqP24KnlXvfW3Mi7) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:46 | 2021-12-21 | 2022-11-13 |
 | [Que Vuelva](https://open.spotify.com/track/1s3mmKSCM9rg2OrYvDj9a7) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Arrepentida y Sola](https://open.spotify.com/album/3LOBPKeloBNKmpQ3qjOUcZ) | 3:41 | 2021-12-21 | 2022-07-29 |
 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 | 2021-12-21 |  |

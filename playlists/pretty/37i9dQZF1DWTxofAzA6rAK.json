@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 58275,
+  "num_followers": 58339,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTkyYmNmNDVjMDFlYWIwZDRkNjhhMjM0NjkzZWFmOGFmZWNlOWVl",
+  "snapshot_id": "MCw1NjAzMDBiNmQyZWQ5OGI0ZWIxMTkwMGEyYWVmNzRiOTA1N2EyYjAy",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "1Uptown",
+        "url": "https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "1Uptown",
+      "url": "https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Feelings (Remix)",
         "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "1Uptown",
-        "url": "https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "1Uptown",
-      "url": "https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Street Cred",
-        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Street Cred",
-      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Crawsis",
         "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 173740,
       "name": "Crawsis",
       "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Street Cred",
+        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Street Cred",
+      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 136385,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dickmatized",
-        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 140336,
-      "name": "Dickmatized",
-      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dunce Bat",
         "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 156081,
       "name": "Dunce Bat",
       "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Dickmatized",
+        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 140336,
+      "name": "Dickmatized",
+      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Still a Bleed",
-        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 216528,
-      "name": "Still a Bleed",
-      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Still a Bleed",
+        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 216528,
+      "name": "Still a Bleed",
+      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Born Fighter",
-        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
-      },
-      "artists": [
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 208928,
-      "name": "Born Fighter",
-      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Born Fighter",
+        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Toni-Ann Singh",
-          "url": "https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ"
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
         }
       ],
-      "duration_ms": 236425,
-      "name": "Next To Me (feat. Toni-Ann Singh)",
-      "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
+      "duration_ms": 208928,
+      "name": "Born Fighter",
+      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1235,6 +1215,26 @@
       "duration_ms": 177957,
       "name": "Know Weh Ya Do",
       "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Toni-Ann Singh",
+          "url": "https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ"
+        }
+      ],
+      "duration_ms": 236425,
+      "name": "Next To Me (feat. Toni-Ann Singh)",
+      "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Coote",
         "url": "https://open.spotify.com/album/7wLLQ7fRiHGEaiYNYrtoPw"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 140400,
       "name": "Top Coote",
       "url": "https://open.spotify.com/track/1fz7vkm6VbYlznJdTc9JOX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bun Fi Bun (Fast)",
-        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
-      },
-      "artists": [
-        {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "Bun Fi Bun - Fast",
-      "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dawkniss",
         "url": "https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 161632,
       "name": "Dawkniss",
       "url": "https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bun Fi Bun (Fast)",
+        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "Bun Fi Bun - Fast",
+      "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2431,6 +2431,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Riches Wii a Pree",
+        "url": "https://open.spotify.com/album/0EzG5RsmeisxpEsNMoWGCt"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 186654,
+      "name": "Riches Wii a Pree",
+      "url": "https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Dior Kicks",
         "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
       },
@@ -2451,26 +2471,6 @@
       "duration_ms": 207060,
       "name": "Dior Kicks",
       "url": "https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Riches Wii a Pree",
-        "url": "https://open.spotify.com/album/0EzG5RsmeisxpEsNMoWGCt"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 186654,
-      "name": "Riches Wii a Pree",
-      "url": "https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2511,6 +2511,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
+      },
+      "artists": [
+        {
+          "name": "Silk Boss",
+          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
+        },
+        {
+          "name": "Terro Don",
+          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Life Story",
+      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Stuntin",
         "url": "https://open.spotify.com/album/2JFHrjfrvh0iTavW94wdJp"
       },
@@ -2531,26 +2551,6 @@
       "duration_ms": 146206,
       "name": "Stuntin",
       "url": "https://open.spotify.com/track/43aG4bC4H0IW8gMuoSeLxL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
-      },
-      "artists": [
-        {
-          "name": "Silk Boss",
-          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
-        },
-        {
-          "name": "Terro Don",
-          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "Life Story",
-      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
     },
     {
       "added_at": "2023-05-24 08:21:37",

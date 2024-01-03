@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Silva",
-  "num_followers": 435660,
+  "num_followers": 435722,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjc4MDRhOTFlZGJhZGU3OWFjYmZjY2E0ZDc5MTk2YmM1NTc5OTNl",
+  "snapshot_id": "MCxjZmQwMmQ5OTUzOGViYzcyMDNmOWViYTczNjNlNjc0NmEzMzI1MWQx",
   "tracks": [
     {
       "added_at": "2023-12-28 20:07:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
+        "name": "Quem \u00c9 Ela?",
+        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 158464,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
         "name": "Quase Amor",
         "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
-        "name": "Quem \u00c9 Ela?",
-        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+        "name": "Rara Flor",
+        "url": "https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
         }
       ],
-      "duration_ms": 158464,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+      "duration_ms": 141471,
+      "name": "Rara Flor",
+      "url": "https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -447,22 +463,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
-        "name": "Rara Flor",
-        "url": "https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 141471,
-      "name": "Rara Flor",
-      "url": "https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -799,34 +799,18 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+        "name": "LIVRE",
+        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+      "duration_ms": 195989,
+      "name": "S\u00f3 Respira",
+      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -847,6 +831,38 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
       "artists": [
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -899,34 +915,18 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
-        "name": "LIVRE",
-        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 195989,
-      "name": "S\u00f3 Respira",
-      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
+        "name": "\u00c9 Sobre Isso",
+        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+      },
+      "artists": [
+        {
+          "name": "Ferri",
+          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+        }
+      ],
+      "duration_ms": 195141,
+      "name": "\u00c9 Sobre Isso",
+      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
-        "name": "\u00c9 Sobre Isso",
-        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
-      },
-      "artists": [
-        {
-          "name": "Ferri",
-          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
-        }
-      ],
-      "duration_ms": 195141,
-      "name": "\u00c9 Sobre Isso",
-      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
+        "name": "Sintomas de Saudade",
+        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Sintomas de Saudade",
+      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
         "name": "Lugares",
         "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 175200,
       "name": "Ana Rosa",
       "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
-        "name": "Sintomas de Saudade",
-        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Sintomas de Saudade",
-      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
     },
     {
       "added_at": "2023-12-28 20:07:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-12-28 20:07:00",
       "album": {
-        "name": "Brincando De Amor",
-        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Black News",
-          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
-        }
-      ],
-      "duration_ms": 155822,
-      "name": "Brincando De Amor",
-      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
-    },
-    {
-      "added_at": "2023-12-28 20:07:00",
-      "album": {
         "name": "Desejos",
         "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+    },
+    {
+      "added_at": "2023-12-28 20:07:00",
+      "album": {
+        "name": "Brincando De Amor",
+        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Black News",
+          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
+        }
+      ],
+      "duration_ms": 155822,
+      "name": "Brincando De Amor",
+      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
     },
     {
       "added_at": "2023-12-28 20:07:00",
